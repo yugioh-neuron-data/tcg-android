@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 18499,
+  "card_name": "ヴィシャス＝アストラウド",
+  "card_name_label": "ヴィシャス＝アストラウド",
+  "card_name_search": "う゛ぃしゃすあすとらうど",
+  "card_pen_effect": "",
+  "card_text": "「ヴィサス＝スタフロスト」＋攻撃力１５００／守備力２１００のモンスター$N自分のフィールド・墓地の上記カードを除外した場合のみ特殊召喚できる。①：このカードが特殊召喚に成功した場合、このカード以外のフィールドのモンスター１体を対象として発動できる。そのモンスターを破壊し、その元々の攻撃力と元々の守備力の内、高い方の数値の半分だけこのカードの攻撃力をアップする。②：このカードは戦闘では破壊されない。",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/01/14",
+  "species_id": 17,
+  "starchip": "8"
+}

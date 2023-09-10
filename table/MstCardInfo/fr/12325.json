@@ -1,0 +1,23 @@
+{
+  "attack_power": "3500",
+  "attribute_id": 2,
+  "card_id": 12325,
+  "card_name": "Raidraptor - Faucon Ultime",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "3 monstres Bête Ailée de Niveau 10$NNon affectée par les effets d'autres cartes. Vous pouvez détacher 1 Matériel de cette carte ; le reste de ce tour, tous les monstres contrôlés par votre adversaire perdent 1000 ATK, et aussi, votre adversaire ne peut activer ni de cartes ni d'effets. Si cette carte a un monstre \"Raidraptor\" comme Matériel, elle gagne cet effet.$N●Une fois par tour, durant la End Phase : vous pouvez faire perdre 1000 ATK à tous les monstres contrôlés par votre adversaire, et aussi, si votre adversaire ne contrôle aucun monstre face recto, infligez 1000 points de dommages à votre adversaire.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/05/05",
+  "species_id": 16,
+  "starchip": "10"
+}

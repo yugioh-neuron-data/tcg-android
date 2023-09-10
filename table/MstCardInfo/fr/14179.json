@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 14179,
+  "card_name": "Floraison de la Plus Sombre Rose",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Invoquez Spécialement un nombre de votre choix de \"Jeton Rose\" (Plante/TÉNÈBRES/Niveau 2/ATK 800/DEF 800) en Position de Défense sur le Terrain, inférieur ou égal à la somme des cartes dans les Zones Terrain et des Magies de Terrain dans les Cimetières. Si cette carte est dans votre Cimetière : vous pouvez cibler 1 \"Dragon Rose Noire\" ou 1 monstre Plante dans votre Zone Monstre ; bannissez-le, et si vous le faites, placez cette carte au-dessous du Deck. Durant la prochaine Standby Phase, renvoyez le monstre banni sur le Terrain. Vous ne pouvez utiliser cet effet de \"Floraison de la Plus Sombre Rose\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/01/10",
+  "species_id": 25,
+  "starchip": "0"
+}

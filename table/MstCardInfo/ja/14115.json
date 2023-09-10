@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 2,
+  "card_id": 14115,
+  "card_name": "サイバース・クアンタム・ドラゴン",
+  "card_name_label": "サイバース・クアンタム・ドラゴン",
+  "card_name_search": "さいばーすくあんたむどらごん",
+  "card_pen_effect": "",
+  "card_text": "チューナー＋チューナー以外のモンスター１体以上$N①：自分フィールドにリンクモンスターが存在する限り、相手はこのカード以外の自分フィールドのモンスターを、攻撃対象に選択できず、効果の対象にもできない。②：１ターンに１度、このカードが相手モンスターと戦闘を行うダメージステップ開始時に発動できる。その相手モンスターを持ち主の手札に戻す。この効果を発動した場合、このカードはもう１度だけ続けて攻撃できる。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/10/13",
+  "species_id": 27,
+  "starchip": "7"
+}

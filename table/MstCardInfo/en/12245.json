@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 2,
+  "card_id": 12245,
+  "card_name": "Kozmo Delta Shuttle",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Once per turn: You can send 1 \"Kozmo\" monster from your Deck to the Graveyard, then target 1 face-up monster on the field; it loses ATK and DEF equal to the sent monster's Level x 100. If this card is destroyed by battle or card effect and sent to the Graveyard: You can banish this card from your Graveyard; Special Summon 1 Level 4 or lower \"Kozmo\" monster from your Deck.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/01/15",
+  "species_id": 7,
+  "starchip": "5"
+}

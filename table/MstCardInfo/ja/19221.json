@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 19221,
+  "card_name": "星宵竜転",
+  "card_name_label": "せいしょうるてん",
+  "card_name_search": "せいしょうるてん",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。$N①：フィールドの融合・S・X・Lモンスター１体を対象として発動できる。その表側表示モンスターをEXデッキに戻す。その後、戻したモンスターの種類（融合・S・X・L）によって以下のモンスター１体を自分・相手の墓地から自分フィールドに特殊召喚できる。$N●融合：戻したモンスターと同じ属性のモンスター$N●S：戻したモンスターよりレベルが低いモンスター$N●X：戻したモンスターのランクと同じ数値のレベルを持つモンスター$N●L：戻したモンスターと同じ種族のモンスター",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/07/22",
+  "species_id": 25,
+  "starchip": "0"
+}

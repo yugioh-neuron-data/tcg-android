@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 2,
+  "card_id": 11213,
+  "card_name": "Dragon Pendule aux Yeux Impairs",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Vous pouvez réduire à 0 les dommages de combat que vous recevez d'une attaque impliquant un Monstre Pendule que vous contrôlez. Durant votre End Phase : vous pouvez détruire cette carte, et si vous le faites, ajoutez 1 Monstre Pendule avec max. 1500 ATK depuis votre Deck à votre main. Vous ne pouvez utiliser chaque Effet Pendule de \"Dragon Pendule aux Yeux Impairs\" qu'une fois par tour.",
+  "card_text": "Si cette carte combat un monstre de l'adversaire, les dommages de combat infligés par cette carte à votre adversaire sont doublés.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "4",
+  "pen_scale_r": "4",
+  "sales_at": "2014/08/14",
+  "species_id": 1,
+  "starchip": "7"
+}

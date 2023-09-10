@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 8227,
+  "card_name": "窮鼠の進撃",
+  "card_name_label": "きゅうそのしんげき",
+  "card_name_search": "きゅうそのしんげき",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上に存在するレベル３以下の通常モンスターが戦闘を行う場合、そのダメージステップ時に１００の倍数のライフポイントを払って発動する事ができる。このターンのエンドフェイズ時まで、戦闘を行う相手モンスター１体の攻撃力は払った数値分ダウンする。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/02/14",
+  "species_id": 25,
+  "starchip": "0"
+}

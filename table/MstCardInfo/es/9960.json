@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 5,
+  "card_id": 9960,
+  "card_name": "Buster Zubaba",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si esta carta inflige daño de batalla a tu adversario, al final del Damage Step: destruye el monstruo boca arriba en el Campo que tenga el ATK más bajo (si hay empate, tú eliges) y, si lo haces, esta carta pierde 800 ATK.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/03/07",
+  "species_id": 15,
+  "starchip": "3"
+}

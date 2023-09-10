@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16017,
+  "card_name": "アメイジングタイムチケット",
+  "card_name_label": "アメイジングタイムチケット",
+  "card_name_search": "あめいじんぐたいむちけっと",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：８００LPを払って発動できる。発動ターンによって以下の効果を適用する。$N●自分ターン：デッキから「アメイズメント」カード１枚を手札に加える。$N●相手ターン：デッキから「アトラクション」罠カード１枚を選んで自分の魔法＆罠ゾーンにセットする。この効果でセットしたカードはセットしたターンでも発動できる。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/01/16",
+  "species_id": 24,
+  "starchip": "0"
+}

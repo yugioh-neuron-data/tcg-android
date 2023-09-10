@@ -1,0 +1,23 @@
+{
+  "attack_power": "2300",
+  "attribute_id": 5,
+  "card_id": 9512,
+  "card_name": "TG パワー・グラディエイター",
+  "card_name_label": "テックジーナス　パワー・グラディエイター",
+  "card_name_search": "てっくじーなすぱわーぐらでぃえいたー",
+  "card_pen_effect": "",
+  "card_text": "チューナー＋チューナー以外の「TG」と名のついたモンスター１体以上$Nこのカードが守備表示モンスターを攻撃した時、その守備力を攻撃力が超えていれば、その数値だけ相手ライフに戦闘ダメージを与える。フィールド上に存在するこのカードが破壊された時、自分のデッキからカードを１枚ドローする。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/02/11",
+  "species_id": 15,
+  "starchip": "5"
+}

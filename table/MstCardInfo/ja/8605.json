@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 5,
+  "card_id": 8605,
+  "card_name": "猿魔王ゼーマン",
+  "card_name_label": "えんまおうゼーマン",
+  "card_name_search": "えんまおうぜーまん",
+  "card_pen_effect": "",
+  "card_text": "闇属性チューナー＋チューナー以外の獣族モンスター１体$Nこのカードが攻撃する場合、相手はダメージステップ終了時まで魔法・罠カードを発動する事ができない。相手モンスターの攻撃宣言時、自分の手札またはフィールド上のモンスター１体を墓地へ送る事で、相手モンスター１体の攻撃を無効にする。",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/08/21",
+  "species_id": 11,
+  "starchip": "7"
+}

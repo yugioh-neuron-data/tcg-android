@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 1,
+  "card_id": 13919,
+  "card_name": "Equipo de Dos por Uno",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Una vez por turno: puedes hacer que ambos jugadores enseñen 1 carta en sus manos, y si ambas cartas enseñadas son del mismo tipo de carta, aplica 1 de estos efectos, dependiendo del tipo.$N●Monstruo: Cada jugador puede Invocar a su monstruo de Modo Especial.$N●Mágica: Cada jugador roba 2 cartas.$N●Trampa: Cada jugador manda a su Cementerio exactamente 2 cartas en su Deck.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/10/18",
+  "species_id": 15,
+  "starchip": "2"
+}

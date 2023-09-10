@@ -1,0 +1,23 @@
+{
+  "attack_power": "2100",
+  "attribute_id": 6,
+  "card_id": 18820,
+  "card_name": "幻獣王キマイラ",
+  "card_name_label": "げんじゅうおうキマイラ",
+  "card_name_search": "げんじゅうおうきまいら",
+  "card_pen_effect": "",
+  "card_text": "獣族モンスター＋悪魔族モンスター$Nこのカード名の②③の効果はそれぞれ１ターンに１度しか使用できない。$N①：このカードのカード名は、フィールド・墓地に存在する限り「有翼幻獣キマイラ」として扱う。$N②：このカードが融合召喚した場合に発動できる。このターンのエンドフェイズに相手の手札をランダムに１枚墓地へ送る。$N③：相手ターンに墓地のこのカードを除外し、自分の墓地の獣族・悪魔族・幻想魔族モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/04/22",
+  "species_id": 11,
+  "starchip": "6"
+}

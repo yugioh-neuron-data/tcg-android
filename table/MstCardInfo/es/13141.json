@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 2,
+  "card_id": 13141,
+  "card_name": "Ninja del Ocaso Jo-gen",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Si tu monstruo \"Ninja\" ataca a un monstruo en Posición de Defensa, inflige daño de batalla de penetración a tu adversario.",
+  "card_text": "Puedes mostrar 1 carta \"Ninjitsu Arte\" en tu mano; Invoca esta carta de Modo Especial desde tu mano. Si esta carta ataca a un monstruo en Posición de Defensa, inflige daño de batalla de penetración.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2017/07/06",
+  "species_id": 15,
+  "starchip": "7"
+}

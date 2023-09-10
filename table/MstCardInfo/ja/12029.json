@@ -1,0 +1,23 @@
+{
+  "attack_power": "2300",
+  "attribute_id": 6,
+  "card_id": 12029,
+  "card_name": "音響戦士マイクス",
+  "card_name_label": "サウンドウォリアーマイクス",
+  "card_name_search": "さうんどうぉりあーまいくす",
+  "card_pen_effect": "①：もう片方の自分のPゾーンに「音響戦士」カードが存在しない場合、このカードのPスケールは４になる。②：自分エンドフェイズに、除外されている自分の「音響戦士」モンスター１体を対象として発動できる。そのモンスターを手札に加える。",
+  "card_text": "①：このカードは自分フィールドの音響カウンターを３つ取り除き、手札から特殊召喚できる。②：このカードが召喚・特殊召喚に成功したターン、自分は通常召喚に加えて１度だけ、自分メインフェイズにモンスター１体を召喚できる。",
+  "defense_power": "1100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2015/07/18",
+  "species_id": 7,
+  "starchip": "5"
+}

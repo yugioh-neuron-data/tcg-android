@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 3,
+  "card_id": 15001,
+  "card_name": "Tiefseesängerin",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Du kannst diese Karte und 1 WASSER Monster abwerfen; sieh dir die Hand deines Gegners an und verbanne 1 Karte von seiner Hand offen bis zur End Phase. Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst die obersten 3 Karten deines Decks auf den Friedhof legen und dann 1 WASSER Monster der Stufe 4 oder niedriger in deinem Friedhof wählen, außer „Tiefseesängerin“; lege es auf oder unters Deck. Du kannst jeden Effekt von „Tiefseesängerin“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/30",
+  "species_id": 5,
+  "starchip": "3"
+}

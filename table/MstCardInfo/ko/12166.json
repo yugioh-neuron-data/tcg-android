@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 12166,
+  "card_name": "하이 스피드 리레벨",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "①: 자신 묘지의 \"스피드로이드\" 몬스터 1장을 제외하고, 자신 필드의 싱크로 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 몬스터는 턴 종료시까지, 제외한 몬스터와 같은 레벨이 되고, 공격력은 제외한 몬스터의 레벨 × 500 올린다.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/02/01",
+  "species_id": 24,
+  "starchip": "0"
+}

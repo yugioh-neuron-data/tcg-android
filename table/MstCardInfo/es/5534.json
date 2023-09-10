@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 5534,
+  "card_name": "Buster Rancher",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Solo puedes equipar esta carta a un monstruo con un ATK igual o menor a 1000 puntos. Durante el cálculo de daño, aumenta el ATK del monstruo equipado con esta carta en 2500 puntos solo cuando el monstruo de tu adversario que lucha esté en Posición de Ataque y su ATK sea igual a 2500 o más O cuando el monstruo de tu adversario que lucha esté en Posición de Defensa y su DEF es igual a 2500 o más.",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/03/19",
+  "species_id": 24,
+  "starchip": "0"
+}

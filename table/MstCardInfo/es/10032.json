@@ -1,0 +1,23 @@
+{
+  "attack_power": "2300",
+  "attribute_id": 5,
+  "card_id": 10032,
+  "card_name": "Rebotador del Martillo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si tu adversario controla cartas y tú no controlas ninguna, puedes Invocar esta carta de Modo Normal sin Sacrificios. Si esta carta ataca a un monstruo de tu adversario, mientras no controles Cartas Mágicas/de Trampa, tu adversario no puede activar Cartas Mágicas/de Trampa hasta el final del Damage Step.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/05/10",
+  "species_id": 15,
+  "starchip": "6"
+}

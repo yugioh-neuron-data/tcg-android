@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 12011,
+  "card_name": "Marcha Atemorizante",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando es activada un Carta Mágica/de Trampa de tu adversario, o un efecto de monstruo de tu adversario, que selecciona uno o más monstruos \"Atemorizante\" que controles: niega la activación y, si lo haces, destruye esa carta, y después puedes mandar al Cementerio 1 de los monstruos \"Atemorizante\" seleccionados y, si lo haces, Invocar de Modo Especial, desde tu Deck Extra, 1 Monstruo de Fusión \"Atemorizante\" de Nivel 8 o mayor. (Esta Invocación Especial se trata como una Invocación por Fusión). Durante tu próxima End Phase, destierra al monstruo Invocado de Modo Especial por este efecto.",
+  "defense_power": "0",
+  "effect_id": 1,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/11/05",
+  "species_id": 25,
+  "starchip": "0"
+}

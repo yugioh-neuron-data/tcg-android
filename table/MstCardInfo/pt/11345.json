@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 5,
+  "card_id": 11345,
+  "card_name": "Canhão Samurai Superpesado Estrondo de Almas",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "(Este card deve ser sempre considerado como um card \"Samurai Superpesado Alma\".)$NVocê pode escolher 1 monstro \"Samurai Superpesado\" que você controla; equipe este monstro da sua mão ou do campo ao alvo. Ele ganha 1000 de DEF. Durante a Fase de Batalha, quando seu oponente ativar um card ou efeito enquanto você controlar um monstro \"Samurai Superpesado\" em Posição de Defesa (Efeito Rápido): você pode banir este card do seu Cemitério; negue a ativação e, se isso acontecer, destrua-o e, depois, destrua tantos monstros no campo quanto possível (mín. 1) e, se isso acontecer, os dois duelistas sofrem 1000 de dano.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/11/07",
+  "species_id": 7,
+  "starchip": "3"
+}

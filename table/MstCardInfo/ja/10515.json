@@ -1,0 +1,23 @@
+{
+  "attack_power": "700",
+  "attribute_id": 4,
+  "card_id": 10515,
+  "card_name": "炎王獣 ガルドニクス",
+  "card_name_label": "えんおうじゅう　ガルドニクス",
+  "card_name_search": "えんおうじゅうがるどにくす",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上に表側表示で存在する「炎王」と名のついたモンスターがカードの効果によって破壊された場合、このカードを手札から特殊召喚できる。また、このカードが相手によって破壊され墓地へ送られた場合、デッキから「炎王獣」と名のついたモンスター１体を特殊召喚できる。",
+  "defense_power": "1700",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/02/16",
+  "species_id": 16,
+  "starchip": "3"
+}

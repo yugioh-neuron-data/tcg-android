@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 13376,
+  "card_name": "Linkgurt-Wanddrache",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Diese Karte kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss durch ihren eigenen Effekt als Spezialbeschwörung beschworen werden. Wenn du eine Linkbeschwörung durchführst: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören und falls du dies tust, lege 2 Zählmarken darauf. Falls ein Monster als Linkbeschwörung beschworen wird: Entferne 2 dieser Zählmarken von dieser Karte (oder alle, falls es weniger als 2 gibt). Einmal pro Spielzug, während jeder Standby Phase: Lege 1 dieser Zählmarken auf diese Karte. Kein Monster kann als Linkbeschwörung beschworen werden, es sei denn, diese Karte hat mindestens so viele dieser Zählmarken wie die Linkzahl des Monsters. Monster können nicht angreifen, außer Linkmonstern.",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/02/01",
+  "species_id": 1,
+  "starchip": "6"
+}

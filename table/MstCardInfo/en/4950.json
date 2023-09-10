@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 4950,
+  "card_name": "Gamble",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "You can only activate this card when your opponent's hand is 6 or more cards and your hand is 2 or less. Toss a coin and call heads or tails. If you call it right, draw until your hand has 5 cards. If you call it wrong, skip your next turn.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/10/20",
+  "species_id": 25,
+  "starchip": "0"
+}

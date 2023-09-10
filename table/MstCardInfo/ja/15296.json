@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15296,
+  "card_name": "三戦の才",
+  "card_name_label": "さんせんのさい",
+  "card_name_search": "さんせんのさい",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：このターンの自分メインフェイズに相手がモンスターの効果を発動している場合、以下の効果から１つを選択して発動できる。$N●自分はデッキから２枚ドローする。$N●相手フィールドのモンスター１体を選び、エンドフェイズまでコントロールを得る。$N●相手の手札を確認し、その中からカード１枚を選んでデッキに戻す。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/18",
+  "species_id": 24,
+  "starchip": "0"
+}

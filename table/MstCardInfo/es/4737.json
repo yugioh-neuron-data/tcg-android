@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 4737,
+  "card_name": "Renunciado",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Puedes Invocar esta carta por Ritual con \"Ritual de la Ilusión Negra\". Una vez por turno: puedes seleccionar 1 monstruo que controle tu adversario; equipa ese objetivo a esta carta (máx. 1). El ATK/DEF de esta carta se convierte en el ATK/DEF de ese monstruo equipado. Si esta carta fuera a ser destruida en batalla, destruye ese monstruo equipado en su lugar. Mientras esté equipada con ese monstruo, cualquier daño de batalla que recibas de batallas que involucren esta carta inflige igual daño de efecto a tu adversario.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 5,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/09/16",
+  "species_id": 18,
+  "starchip": "1"
+}

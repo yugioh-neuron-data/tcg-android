@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 17173,
+  "card_name": "Prueba General",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cada vez que un efecto de una carta \"Guerrero Sinfónico\" es activado, pon 1 Contador Sinfónico en esta carta cuando ese efecto se resuelva. Sólo puedes usar cada uno de los siguientes efectos de \"Prueba General\" una vez por turno. Puedes retirar 3 Contadores Sinfónicos en tu Campo; añade a tu mano 1 monstruo \"Guerrero Sinfónico\" en tu Deck. Si Invocas de Modo Normal o Especial uno o más monstruos \"Guerrero Sinfónico\" (excepto durante el Damage Step): puedes añadir a tu mano 1 \"Amplifuego Sinf\" en tu Deck.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/05/19",
+  "species_id": 24,
+  "starchip": "0"
+}

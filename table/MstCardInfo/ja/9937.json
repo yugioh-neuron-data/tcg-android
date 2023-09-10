@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 9937,
+  "card_name": "サイコロン",
+  "card_name_label": "サイコロン",
+  "card_name_search": "さいころん",
+  "card_pen_effect": "",
+  "card_text": "①：サイコロを１回振り、出た目の効果を適用する。$N●２・３・４：フィールドの魔法・罠カード１枚を選んで破壊する。$N●５：フィールドの魔法・罠カード２枚を選んで破壊する。$N●１・６：自分は１０００ダメージを受ける。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/11/19",
+  "species_id": 24,
+  "starchip": "0"
+}

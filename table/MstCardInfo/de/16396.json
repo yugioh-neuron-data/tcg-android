@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 16396,
+  "card_name": "Lyrikliedervogel - Phantomfedern",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wähle 1 „Lyrikliedervogel“-Monster, das du kontrollierst; die ATK aller Monster, die dein Gegner derzeit kontrolliert, werden gleich den derzeitigen ATK des Monsters, zusätzlich werden ihre Stufen/Ränge zu 1. Wenn ein Monster eines Gegners einen Angriff gegen dein „Lyrikliedervogel“-Monster deklariert: Du kannst diese Karte von deinem Friedhof verbannen; die ATK deines Monsters werden bis zum Ende dieses Spielzugs gleich den ATK des Monsters des Gegners. Du kannst jeden Effekt von „Lyrikliedervogel - Phantomfedern“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/10/28",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15836,
+  "card_name": "Attaque de la Force du Tonnerre",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "L'activation et l'effet de cette carte ne peuvent pas être annulés. Si vous contrôlez un monstre dont le nom d'origine est \"Slifer, le Dragon Céleste\" : détruisez autant de monstres face recto contrôlés par votre adversaire que possible, puis, si vous avez activé cette carte durant votre Main Phase, vous pouvez appliquer l'effet suivant.$N●Piochez un nombre de cartes égal au nombre de monstres détruits par cet effet et envoyés au Cimetière de votre adversaire, et aussi, vous ne pouvez attaquer qu'avec 1 monstre ce tour.$NVous ne pouvez activer qu'1 \"Attaque de la Force du Tonnerre\" par tour.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/06/17",
+  "species_id": 24,
+  "starchip": "0"
+}

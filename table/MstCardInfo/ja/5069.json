@@ -1,0 +1,23 @@
+{
+  "attack_power": "1850",
+  "attribute_id": 3,
+  "card_id": 5069,
+  "card_name": "伝説のフィッシャーマン",
+  "card_name_label": "でんせつのフィッシャーマン",
+  "card_name_search": "でんせつのふぃっしゃーまん",
+  "card_pen_effect": "",
+  "card_text": "①：フィールドに「海」が存在する限り、フィールドのこのカードは魔法カードの効果を受けない。②：フィールドに「海」が存在する限り、このカードは攻撃対象にされない（この効果が適用されたモンスターしか自分フィールドに存在しない状態での相手の攻撃は自分への直接攻撃になる）。",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2000/12/14",
+  "species_id": 15,
+  "starchip": "5"
+}

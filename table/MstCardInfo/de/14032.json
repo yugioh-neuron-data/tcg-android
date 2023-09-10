@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 14032,
+  "card_name": "Streichbuben-Plan",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Während der Main Phase: Du kannst diesen Effekt aktivieren; sofort nachdem dieser Effekt aufgelöst wurde, beschwöre 1 „Streichbuben“-Linkmonster als Linkbeschwörung und verwende dafür „Streichbuben“-Monster, die du kontrollierst, als Material. Wenn ein Monster eines Gegners einen Angriff deklariert: Du kannst diese Karte von deinem Friedhof verbannen; mische eine beliebige Anzahl „Streichbuben“-Karten von deinem Friedhof ins Deck und falls du dies tust, verliert das angreifende Monster bis zum Ende dieses Spielzugs für jede ins Deck gemischte Karte 100 ATK. Du kannst jeden Effekt von „Streichbuben-Plan“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/11/15",
+  "species_id": 25,
+  "starchip": "0"
+}

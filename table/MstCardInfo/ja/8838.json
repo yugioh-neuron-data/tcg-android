@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 8838,
+  "card_name": "パワー・フレーム",
+  "card_name_label": "パワー・フレーム",
+  "card_name_search": "ぱわーふれーむ",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上に表側表示で存在するモンスターが、その攻撃力よりも高い攻撃力を持つモンスターの攻撃対象に選択された時に発動する事ができる。その攻撃を無効にし、このカードを攻撃対象モンスター１体に装備する。装備モンスターの攻撃力は、その時の攻撃モンスターと攻撃対象モンスターの攻撃力の差の数値分アップする。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/02/20",
+  "species_id": 25,
+  "starchip": "0"
+}

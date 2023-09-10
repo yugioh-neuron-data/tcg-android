@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 1,
+  "card_id": 13405,
+  "card_name": "Inspector Surfista",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "No puede ser Invocado de Modo Normal o Especial si controlas un monstruo. Ningún jugador puede activar efectos de monstruos a menos que la cantidad de efectos de monstruo que el jugador activó previamente en ese turno sea menor que la cantidad de tipos de cartas de monstruos en el Campo en este momento (Ritual, Fusión, Sincronía, Xyz, Péndulo y Enlace). (Si es negada la activación de un efecto, cuenta igual para el total de ese turno. Sólo cuentan los efectos que fueron activados mientras este monstruo estaba boca arriba en el Campo).",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/02/01",
+  "species_id": 7,
+  "starchip": "4"
+}

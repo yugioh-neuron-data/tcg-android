@@ -1,0 +1,23 @@
+{
+  "attack_power": "3100",
+  "attribute_id": 1,
+  "card_id": 16079,
+  "card_name": "溟界神－オグドアビス",
+  "card_name_label": "めいかいしん－オグドアビス",
+  "card_name_search": "めいかいしんおぐどあびす",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが墓地に存在する場合、自分フィールドのモンスター３体をリリースして発動できる。このカードを特殊召喚する。②：このカードがフィールドに表側表示で存在する限り１度だけ発動できる。墓地から特殊召喚された表側表示モンスター以外の、自分・相手フィールドのモンスターを全て墓地へ送る。この効果は相手ターンでも発動できる。",
+  "defense_power": "2200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/03/06",
+  "species_id": 20,
+  "starchip": "10"
+}

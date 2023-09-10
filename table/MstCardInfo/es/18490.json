@@ -1,0 +1,23 @@
+{
+  "attack_power": "400",
+  "attribute_id": 1,
+  "card_id": 18490,
+  "card_name": "Sakitama",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "No puede ser Invocado de Modo Especial. Una vez por turno, durante la End Phase, si esta carta fue Invocada de Modo Normal o volteada boca arriba este turno: devuelve esta carta a la mano. Sólo puedes usar cada uno de los siguientes efectos de \"Sakitama\" una vez por turno. Puedes mostrar esta carta en tu mano; inmediatamente después de que se resuelva este efecto, Invoca de Modo Normal 1 monstruo Spirit desde tu mano. Si esta carta es Sacrificada: selecciona 1 monstruo Spirit en tu Cementerio; añádelo a tu mano.",
+  "defense_power": "900",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 7,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/05/04",
+  "species_id": 17,
+  "starchip": "4"
+}

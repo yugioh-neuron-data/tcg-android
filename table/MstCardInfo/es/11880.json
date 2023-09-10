@@ -1,0 +1,23 @@
+{
+  "attack_power": "-1",
+  "attribute_id": 1,
+  "card_id": 11880,
+  "card_name": "Timaeus, el Caballero del Destino",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"Caballero Legendario Timaeus\" + \"Caballero Legendario Sir Critias\" + \"Caballero Legendario Sir Hermos\"$NDebe ser Invocado de Modo Especial (desde tu Deck Extra) mandando al Cementerio las cartas mencionadas arriba que tú controles. (No usas \"Polimerización\"). Esta carta no es afectada por los efectos de otras cartas. Una vez por batalla, si esta carta batalla, durante el cálculo de daño (Efecto Rápido): puedes hacer que el ATK/DEF de esta carta se conviertan en igual al ATK del monstruo en el Campo que tenga el ATK más alto (si hay empate, tú eliges). Cuando esta carta es destruida en batalla: puedes Invocar de Modo Especial, desde tu mano, Deck y/o Cementerio, 3 monstruos \"Caballero Legendario\" ignorando sus condiciones de Invocación.",
+  "defense_power": "-1",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/07/16",
+  "species_id": 15,
+  "starchip": "10"
+}

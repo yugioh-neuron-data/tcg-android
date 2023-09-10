@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 6,
+  "card_id": 13588,
+  "card_name": "急き兎馬",
+  "card_name_label": "せきとば",
+  "card_name_search": "せきとば",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①の方法による特殊召喚は１ターンに１度しかできない。①：カードが存在しない縦列がある場合、このカードはその縦列の自分フィールドに手札から攻撃表示で特殊召喚できる。②：このカードと同じ縦列に他のカードが置かれた場合に発動する。このカードを破壊する。③：１ターンに１度、自分メインフェイズに発動できる。このターン、このカードの元々の攻撃力は半分になり、直接攻撃できる。",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/01/13",
+  "species_id": 11,
+  "starchip": "5"
+}

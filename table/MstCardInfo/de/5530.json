@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 5530,
+  "card_name": "Gedankengang",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Dein Gegner deklariert eine Monsterstufe von 1 bis 12. Grabe die obersten Karten deines Decks aus, bis du ein Monster ausgräbst, das als Normalbeschwörung beschworen/gesetzt werden kann, dann, falls das Monster die von deinem Gegner deklarierte Stufe hat, lege alle ausgegrabenen Karten auf den Friedhof. Falls nicht, beschwöre das ausgegrabene Monster als Spezialbeschwörung, zusätzlich lege die übrigen Karten auf den Friedhof.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2003/07/01",
+  "species_id": 24,
+  "starchip": "0"
+}

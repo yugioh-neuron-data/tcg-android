@@ -1,0 +1,23 @@
+{
+  "attack_power": "900",
+  "attribute_id": 4,
+  "card_id": 18804,
+  "card_name": "エヴォルド・フォリス",
+  "card_name_label": "エヴォルド・フォリス",
+  "card_name_search": "えう゛ぉるどふぉりす",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。$N①：このカードが召喚・特殊召喚した場合に発動できる。自分の手札・墓地から「エヴォルド」モンスター１体を裏側守備表示で特殊召喚する。$N②：自分メインフェイズに発動できる。デッキから「強制進化」か「突然進化」１枚を自分フィールドにセットする。$N③：自分フィールドのモンスターが戦闘・効果で破壊される場合、代わりに自分フィールドの爬虫類族・恐竜族モンスター１体をリリースできる。",
+  "defense_power": "300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/04/22",
+  "species_id": 20,
+  "starchip": "2"
+}

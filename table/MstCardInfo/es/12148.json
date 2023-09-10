@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 5,
+  "card_id": 12148,
+  "card_name": "Escritoriobot 008",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "No puedes Invocar monstruos por Péndulo, excepto monstruos \"Escritoriobot\". Este efecto no puede ser negado.",
+  "card_text": "Esta carta gana 500 ATK por cada carta \"Escritoriobot\" en tu Cementerio. Tu adversario no puede seleccionar para efectos de cartas a cartas \"Escritoriobot\" boca arriba, excepto a ésta. Esta carta puede hacer hasta 2 ataques a monstruos durante cada Battle Phase.",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2016/01/14",
+  "species_id": 7,
+  "starchip": "8"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 1,
+  "card_id": 11837,
+  "card_name": "Em 트래피즈 매지션",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "마법사족 레벨 4 몬스터 × 2$N①: 이 카드가 몬스터 존에 존재하는 한, 자신은 이 카드의 공격력 이하의 전투 / 효과 데미지를 받지 않는다. ②: 자신 / 상대의 메인 페이즈 1 에 1번, 이 카드의 엑시즈 소재를 1개 제거하고, 이 카드 이외의 필드의 앞면 공격 표시 몬스터 1장을 대상으로 하여 발동할 수 있다. 이 턴에 그 몬스터는 2회 공격할 수 있고, 배틀 페이즈 종료시에 파괴된다. ③: 이 카드가 전투 또는 상대의 효과로 파괴되어 묘지로 보내졌을 경우에 발동할 수 있다. 덱에서 \"Em(엔터메이지)\" 몬스터 1장을 특수 소환한다.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/08/18",
+  "species_id": 18,
+  "starchip": "4"
+}

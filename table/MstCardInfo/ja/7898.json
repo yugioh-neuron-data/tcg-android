@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 4,
+  "card_id": 7898,
+  "card_name": "ブラック・ローズ・ドラゴン",
+  "card_name_label": "ブラック・ローズ・ドラゴン",
+  "card_name_search": "ぶらっくろーずどらごん",
+  "card_pen_effect": "",
+  "card_text": "チューナー＋チューナー以外のモンスター１体以上$N①：このカードがS召喚に成功した時に発動できる。フィールドのカードを全て破壊する。②：１ターンに１度、自分の墓地から植物族モンスター１体を除外し、相手フィールドの守備表示モンスター１体を対象として発動できる。その相手の守備表示モンスターを表側攻撃表示にし、その攻撃力はターン終了時まで０になる。",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/07/19",
+  "species_id": 1,
+  "starchip": "7"
+}

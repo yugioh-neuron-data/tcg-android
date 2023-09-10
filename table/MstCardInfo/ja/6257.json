@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 6257,
+  "card_name": "融合呪印生物－闇",
+  "card_name_label": "ゆうごうじゅいんせいぶつ－やみ",
+  "card_name_search": "ゆうごうじゅいんせいぶつやみ",
+  "card_pen_effect": "",
+  "card_text": "①：このカードは、融合モンスターカードにカード名が記された融合素材モンスター１体の代わりにできる。その際、他の融合素材モンスターは正規のものでなければならない。②：闇属性の融合モンスターカードによって決められた融合素材モンスター一組（このカードをその内の１体とする）を自分フィールドからリリースして発動できる。そのリリースしたモンスターを融合素材とする闇属性の融合モンスター１体をEXデッキから特殊召喚する。",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/11/25",
+  "species_id": 6,
+  "starchip": "3"
+}

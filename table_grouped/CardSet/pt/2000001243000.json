@@ -1,0 +1,947 @@
+[
+  {
+    "card_count": 1,
+    "card_id": 4739,
+    "card_image_id": 1,
+    "card_number": "PSV-PT083",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4740,
+    "card_image_id": 1,
+    "card_number": "PSV-PT084",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 4741,
+    "card_image_id": 1,
+    "card_number": "PSV-PT001",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4746,
+    "card_image_id": 1,
+    "card_number": "PSV-PT082",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4752,
+    "card_image_id": 1,
+    "card_number": "PSV-PT002",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4758,
+    "card_image_id": 1,
+    "card_number": "PSV-PT000",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 4761,
+    "card_image_id": 1,
+    "card_number": "PSV-PT100",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 4769,
+    "card_image_id": 1,
+    "card_number": "PSV-PT003",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 4774,
+    "card_image_id": 1,
+    "card_number": "PSV-PT077",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4775,
+    "card_image_id": 1,
+    "card_number": "PSV-PT078",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4776,
+    "card_image_id": 1,
+    "card_number": "PSV-PT079",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4777,
+    "card_image_id": 1,
+    "card_number": "PSV-PT080",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4778,
+    "card_image_id": 1,
+    "card_number": "PSV-PT081",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4789,
+    "card_image_id": 1,
+    "card_number": "PSV-PT103",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 4806,
+    "card_image_id": 1,
+    "card_number": "PSV-PT004",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4808,
+    "card_image_id": 1,
+    "card_number": "PSV-PT005",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 4813,
+    "card_image_id": 1,
+    "card_number": "PSV-PT006",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 4832,
+    "card_image_id": 1,
+    "card_number": "PSV-PT102",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4939,
+    "card_image_id": 1,
+    "card_number": "PSV-PT051",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 4940,
+    "card_image_id": 1,
+    "card_number": "PSV-PT017",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4941,
+    "card_image_id": 1,
+    "card_number": "PSV-PT018",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4942,
+    "card_image_id": 1,
+    "card_number": "PSV-PT019",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4943,
+    "card_image_id": 1,
+    "card_number": "PSV-PT020",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4944,
+    "card_image_id": 1,
+    "card_number": "PSV-PT021",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4945,
+    "card_image_id": 1,
+    "card_number": "PSV-PT022",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4946,
+    "card_image_id": 1,
+    "card_number": "PSV-PT023",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4947,
+    "card_image_id": 1,
+    "card_number": "PSV-PT024",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 4948,
+    "card_image_id": 1,
+    "card_number": "PSV-PT025",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 4949,
+    "card_image_id": 1,
+    "card_number": "PSV-PT052",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4950,
+    "card_image_id": 1,
+    "card_number": "PSV-PT053",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4951,
+    "card_image_id": 1,
+    "card_number": "PSV-PT026",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4952,
+    "card_image_id": 1,
+    "card_number": "PSV-PT027",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4953,
+    "card_image_id": 1,
+    "card_number": "PSV-PT028",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 4954,
+    "card_image_id": 1,
+    "card_number": "PSV-PT054",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4955,
+    "card_image_id": 1,
+    "card_number": "PSV-PT029",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4956,
+    "card_image_id": 1,
+    "card_number": "PSV-PT030",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 4957,
+    "card_image_id": 1,
+    "card_number": "PSV-PT031",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4958,
+    "card_image_id": 1,
+    "card_number": "PSV-PT032",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4960,
+    "card_image_id": 1,
+    "card_number": "PSV-PT104",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 4961,
+    "card_image_id": 1,
+    "card_number": "PSV-PT056",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 4962,
+    "card_image_id": 1,
+    "card_number": "PSV-PT033",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 4963,
+    "card_image_id": 1,
+    "card_number": "PSV-PT034",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 4964,
+    "card_image_id": 1,
+    "card_number": "PSV-PT035",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 4965,
+    "card_image_id": 1,
+    "card_number": "PSV-PT036",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 4966,
+    "card_image_id": 1,
+    "card_number": "PSV-PT037",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 4967,
+    "card_image_id": 1,
+    "card_number": "PSV-PT038",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4968,
+    "card_image_id": 1,
+    "card_number": "PSV-PT039",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 4969,
+    "card_image_id": 1,
+    "card_number": "PSV-PT040",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 4970,
+    "card_image_id": 1,
+    "card_number": "PSV-PT057",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4971,
+    "card_image_id": 1,
+    "card_number": "PSV-PT041",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4972,
+    "card_image_id": 1,
+    "card_number": "PSV-PT042",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4973,
+    "card_image_id": 1,
+    "card_number": "PSV-PT043",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4974,
+    "card_image_id": 1,
+    "card_number": "PSV-PT044",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4975,
+    "card_image_id": 1,
+    "card_number": "PSV-PT045",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4976,
+    "card_image_id": 1,
+    "card_number": "PSV-PT046",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4977,
+    "card_image_id": 1,
+    "card_number": "PSV-PT047",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4978,
+    "card_image_id": 1,
+    "card_number": "PSV-PT058",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4979,
+    "card_image_id": 1,
+    "card_number": "PSV-PT048",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4980,
+    "card_image_id": 1,
+    "card_number": "PSV-PT049",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4981,
+    "card_image_id": 1,
+    "card_number": "PSV-PT059",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4982,
+    "card_image_id": 1,
+    "card_number": "PSV-PT060",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4983,
+    "card_image_id": 1,
+    "card_number": "PSV-PT050",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 4984,
+    "card_image_id": 1,
+    "card_number": "PSV-PT007",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4985,
+    "card_image_id": 1,
+    "card_number": "PSV-PT008",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 4986,
+    "card_image_id": 1,
+    "card_number": "PSV-PT009",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4987,
+    "card_image_id": 1,
+    "card_number": "PSV-PT010",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4988,
+    "card_image_id": 1,
+    "card_number": "PSV-PT011",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 4989,
+    "card_image_id": 1,
+    "card_number": "PSV-PT012",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 4990,
+    "card_image_id": 1,
+    "card_number": "PSV-PT013",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4991,
+    "card_image_id": 1,
+    "card_number": "PSV-PT014",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4992,
+    "card_image_id": 1,
+    "card_number": "PSV-PT015",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4993,
+    "card_image_id": 1,
+    "card_number": "PSV-PT016",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 5059,
+    "card_image_id": 1,
+    "card_number": "PSV-PT101",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 5069,
+    "card_image_id": 1,
+    "card_number": "PSV-PT076",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 5112,
+    "card_image_id": 1,
+    "card_number": "PSV-PT072",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5125,
+    "card_image_id": 1,
+    "card_number": "PSV-PT055",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5126,
+    "card_image_id": 1,
+    "card_number": "PSV-PT061",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5127,
+    "card_image_id": 1,
+    "card_number": "PSV-PT062",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5128,
+    "card_image_id": 1,
+    "card_number": "PSV-PT063",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 5129,
+    "card_image_id": 1,
+    "card_number": "PSV-PT064",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 5130,
+    "card_image_id": 1,
+    "card_number": "PSV-PT067",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 5131,
+    "card_image_id": 1,
+    "card_number": "PSV-PT068",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5132,
+    "card_image_id": 1,
+    "card_number": "PSV-PT069",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 5133,
+    "card_image_id": 1,
+    "card_number": "PSV-PT071",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 5134,
+    "card_image_id": 1,
+    "card_number": "PSV-PT073",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 5135,
+    "card_image_id": 1,
+    "card_number": "PSV-PT075",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5136,
+    "card_image_id": 1,
+    "card_number": "PSV-PT085",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5137,
+    "card_image_id": 1,
+    "card_number": "PSV-PT086",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 5138,
+    "card_image_id": 1,
+    "card_number": "PSV-PT087",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5139,
+    "card_image_id": 1,
+    "card_number": "PSV-PT088",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5140,
+    "card_image_id": 1,
+    "card_number": "PSV-PT089",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5141,
+    "card_image_id": 1,
+    "card_number": "PSV-PT090",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 5142,
+    "card_image_id": 1,
+    "card_number": "PSV-PT091",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 5143,
+    "card_image_id": 1,
+    "card_number": "PSV-PT092",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5144,
+    "card_image_id": 1,
+    "card_number": "PSV-PT093",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5145,
+    "card_image_id": 1,
+    "card_number": "PSV-PT094",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 5146,
+    "card_image_id": 1,
+    "card_number": "PSV-PT095",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5147,
+    "card_image_id": 1,
+    "card_number": "PSV-PT096",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5148,
+    "card_image_id": 1,
+    "card_number": "PSV-PT097",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5149,
+    "card_image_id": 1,
+    "card_number": "PSV-PT098",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5150,
+    "card_image_id": 1,
+    "card_number": "PSV-PT099",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5151,
+    "card_image_id": 1,
+    "card_number": "PSV-PT065",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5152,
+    "card_image_id": 1,
+    "card_number": "PSV-PT066",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 5153,
+    "card_image_id": 1,
+    "card_number": "PSV-PT074",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5170,
+    "card_image_id": 1,
+    "card_number": "PSV-PT070",
+    "language": "pt",
+    "pack_id": "2000001243000",
+    "rarity_id": 1
+  }
+]

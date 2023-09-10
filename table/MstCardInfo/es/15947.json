@@ -1,0 +1,23 @@
+{
+  "attack_power": "2100",
+  "attribute_id": 5,
+  "card_id": 15947,
+  "card_name": "Roca de Guerra Orpis",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si no controlas monstruos, o todos los monstruos que controlas son monstruos Guerrero, puedes Invocar esta carta de Modo Normal sin Sacrificar. Si tu monstruo Guerrero de TIERRA batalla, después del cálculo de daño: puedes mandar al Cementerio 1 monstruo Guerrero de TIERRA en tu Deck, excepto \"Roca de Guerra Orpis\", y después todos los monstruos \"Roca de Guerra\" que controles en este momento ganan 200 ATK hasta el final del turno de tu adversario. Sólo puedes usar este efecto de \"Roca de Guerra Orpis\" una vez por turno.",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/02/04",
+  "species_id": 15,
+  "starchip": "5"
+}

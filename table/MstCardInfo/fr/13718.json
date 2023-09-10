@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 1,
+  "card_id": 13718,
+  "card_name": "Congestionneur de Bloc",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si cette carte est Invoquée Normalement ou Spécialement et que vous ne contrôlez aucun Monstre Lien : vous pouvez Invoquer Spécialement 1 \"Jeton Congestionneur\" (Cyberse/TÉNÈBRES/Niveau 1/ATK 0/DEF 0). Vous ne pouvez utiliser cet effet de \"Congestionneur de Bloc\" qu'une fois par tour. Une fois par Battle Step, si un Monstre Lien que vous contrôlez est attaqué (Effet Rapide) : vous pouvez bannir cette carte depuis votre Cimetière et le Monstre Lien ; Invoquez Spécialement un nombre de \"Jeton Congestionneur\", inférieur ou égal au nombre de Monstres Lien contrôlés par votre adversaire.",
+  "defense_power": "2200",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/07/26",
+  "species_id": 27,
+  "starchip": "7"
+}

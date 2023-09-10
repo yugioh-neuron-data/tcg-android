@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 5,
+  "card_id": 13204,
+  "card_name": "Sorcière Binaire",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 monstres (Jetons exclus)$NCette carte gagne ces effets selon le nombre de monstres co-liés à cette carte.$N●1+ : Lorsqu'un monstre co-lié à cette carte combat un monstre de votre adversaire et lui inflige des dommages de combat : vous pouvez gagner autant de LP.$N●2 : Une fois par tour (Effet Rapide) : vous pouvez cibler 2 monstres face recto que vous contrôlez ; jusqu'à la fin de ce tour, divisez par deux l'ATK d'1 monstre, et si vous le faites, ajoutez l'ATK perdue à l'autre monstre.",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "46",
+  "linkno": "2",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/11/02",
+  "species_id": 27,
+  "starchip": ""
+}

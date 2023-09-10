@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 4,
+  "card_id": 12142,
+  "card_name": "不知火の武士",
+  "card_name_label": "しらぬいのもののふ",
+  "card_name_search": "しらぬいのもののふ",
+  "card_pen_effect": "",
+  "card_text": "「不知火の武士」の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分の墓地のアンデット族モンスター１体を除外して発動できる。このカードの攻撃力はターン終了時まで６００アップし、このターンこのカードがモンスターと戦闘を行った場合、そのモンスターはダメージ計算後に除外される。この効果は相手ターンでも発動できる。②：このカードが除外された場合、「不知火の武士」以外の自分の墓地の「不知火」モンスター１体を対象として発動できる。そのモンスターを手札に加える。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/10/17",
+  "species_id": 2,
+  "starchip": "4"
+}

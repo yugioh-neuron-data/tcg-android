@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 11289,
+  "card_name": "出たら目",
+  "card_name_label": "でたらめ",
+  "card_name_search": "でたらめ",
+  "card_pen_effect": "",
+  "card_text": "①：このカードが魔法＆罠ゾーンに存在する限り、自分または相手がサイコロを振った場合、その内１つの目を以下の目として適用できる。$N●１・３・５が出た場合：６として扱う。$N●２・４・６が出た場合：１として扱う。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/04/19",
+  "species_id": 25,
+  "starchip": "0"
+}

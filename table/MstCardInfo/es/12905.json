@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 12905,
+  "card_name": "Velo Blanco",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Mientras el monstruo equipado batalla, tu adversario no puede activar ninguna Carta Mágica/de Trampa hasta el final del Damage Step. Cuando es declarado un ataque que involucra al monstruo equipado: las Cartas Mágicas/de Trampa boca arriba que controle tu adversario ven sus efectos negados hasta el final del Damage Step (aún si esta carta deja el Campo). Cuando el monstruo equipado destruye a un monstruo de tu adversario en batalla: puedes destruir todas las Cartas Mágicas y de Trampa que controla tu adversario. Cuando esta carta boca arriba en la Zona de Magia y Trampas de un jugador deja el Campo, ese jugador recibe 3000 puntos de daño.",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/03/30",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 1,
+  "card_id": 10940,
+  "card_name": "武神帝－ツクヨミ",
+  "card_name_label": "ぶじんてい－ツクヨミ",
+  "card_name_search": "ぶじんていつくよみ",
+  "card_pen_effect": "",
+  "card_text": "光属性レベル４モンスター×２$N１ターンに１度、このカードのエクシーズ素材を１つ取り除いて発動できる。手札を全て墓地へ送り、デッキからカードを２枚ドローする。また、このカードが相手のカードの効果によってフィールド上から離れた時、その時にこのカードが持っていたエクシーズ素材の数まで、自分の墓地からレベル４の「武神」と名のついた獣戦士族モンスターを選択して特殊召喚できる。「武神帝－ツクヨミ」は自分フィールド上に１体しか表側表示で存在できない。",
+  "defense_power": "2300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/11/16",
+  "species_id": 12,
+  "starchip": "4"
+}

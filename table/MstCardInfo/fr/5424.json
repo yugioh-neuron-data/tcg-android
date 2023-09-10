@@ -1,0 +1,23 @@
+{
+  "attack_power": "200",
+  "attribute_id": 1,
+  "card_id": 5424,
+  "card_name": "Jarre Dés",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "FLIP : Chaque joueur lance un dé à six faces. Le joueur avec le résultat le plus faible reçoit des dommages égaux au résultat de son adversaire x 500. Cependant, si le résultat du gagnant est 6, le perdant reçoit 6000 points de dommages. Si les résultats sont les mêmes, chaque joueur relance le dé.",
+  "defense_power": "300",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 24,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/07/22",
+  "species_id": 6,
+  "starchip": "3"
+}

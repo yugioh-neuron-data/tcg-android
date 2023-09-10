@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14138,
+  "card_name": "Wachdrachen-Schild",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Du kannst 1 Drache-Monster wählen, das du kontrollierst; es erhält bis zum Ende des Spielzugs des Gegners ATK/DEF in Höhe der Summe der Linkzahlen der Linkmonster, die sich derzeit auf dem Spielfeld befinden, x 100. Du kannst diesen Effekt von „Wachdrachen-Schild“ nur einmal pro Spielzug verwenden. Einmal pro Spielzug, falls genau 1 Drache-Monster, das du kontrollierst, durch Kampf oder einen Karteneffekt zerstört würde, kannst du stattdessen 1 Normales Monster von deiner Hand oder deinem Deck auf den Friedhof legen.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/01/31",
+  "species_id": 24,
+  "starchip": "0"
+}

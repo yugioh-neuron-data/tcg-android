@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 4,
+  "card_id": 12393,
+  "card_name": "マイルド・ターキー",
+  "card_name_label": "マイルド・ターキー",
+  "card_name_search": "まいるどたーきー",
+  "card_pen_effect": "①：１ターンに１度、自分メインフェイズに発動できる。サイコロを１回振る。ターン終了時まで、このカードのPスケールを出た目の数だけ下げる（最小１まで）。",
+  "card_text": "ボウリングへの情熱に身を焦がすワイルドな七面鳥。ストライクを取るべく鍛え上げられた体は、常に極上の香りを放つ。まだ見ぬターキーを目指し、日々の練習を欠かさない。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 25,
+  "pen_scale_l": "7",
+  "pen_scale_r": "7",
+  "sales_at": "2016/02/11",
+  "species_id": 16,
+  "starchip": "4"
+}

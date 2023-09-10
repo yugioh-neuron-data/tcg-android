@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 5,
+  "card_id": 12881,
+  "card_name": "Ballade Potartiste",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Une fois par tour, au début de la Damage Step, lorsque votre monstre \"Potartiste\" combat un monstre face recto de votre adversaire : vous pouvez faire perdre 600 ATK au monstre de votre adversaire (même si cette carte quitte le Terrain).",
+  "card_text": "Si votre monstre \"Potartiste\" a attaqué, après le calcul des dommages : vous pouvez cibler 1 monstre face recto contrôlé par votre adversaire ; la cible perd une ATK égale à l'ATK du monstre \"Potartiste\".",
+  "defense_power": "1100",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "2",
+  "pen_scale_r": "2",
+  "sales_at": "2017/05/25",
+  "species_id": 13,
+  "starchip": "3"
+}

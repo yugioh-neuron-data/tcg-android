@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 4,
+  "card_id": 8757,
+  "card_name": "ドラゴニック・ガード",
+  "card_name_label": "ドラゴニック・ガード",
+  "card_name_search": "どらごにっくがーど",
+  "card_pen_effect": "",
+  "card_text": "モンスターが通常召喚される度に、このカードにドラゴニックカウンターを１つ置く。また、フィールド上に表側表示で存在するこのカードを墓地へ送る事で、このカードに乗っているドラゴニックカウンターの数以下のレベルを持つドラゴン族モンスター１体を自分のデッキから特殊召喚する。",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/09/18",
+  "species_id": 1,
+  "starchip": "4"
+}

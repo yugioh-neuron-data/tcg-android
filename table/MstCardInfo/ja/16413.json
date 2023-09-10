@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 1,
+  "card_id": 16413,
+  "card_name": "聖騎士の槍持ち",
+  "card_name_label": "せいきしのやりもち",
+  "card_name_search": "せいきしのやりもち",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功した場合、自分フィールドのレベル８以下のモンスター１体を対象として発動できる。そのモンスターはエンドフェイズまで、カード名を「フルール・シンクロン」として扱い、チューナーとして扱う。②：このカードをリリースして発動できる。デッキから装備魔法カード１枚を手札に加える。",
+  "defense_power": "400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/06/12",
+  "species_id": 15,
+  "starchip": "2"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 5,
+  "card_id": 5366,
+  "card_name": "Agido",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsque cette carte est détruite à l'issue d'un combat et envoyée au Cimetière, lancez un dé à six faces. Vous pouvez faire l'Invocation Spéciale d'1 monstre de Type Elfe depuis votre Cimetière dont le Niveau est égal au résultat du dé. (Si le résultat est 6, vous pouvez faire l'Invocation Spéciale d'un monstre de Niveau 6 ou plus.)",
+  "defense_power": "1300",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/03/19",
+  "species_id": 17,
+  "starchip": "4"
+}

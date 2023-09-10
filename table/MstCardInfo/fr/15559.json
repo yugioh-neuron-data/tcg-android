@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 15559,
+  "card_name": "Un ou Huit",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si vos LP sont inférieurs à ceux de votre adversaire : révélez la carte du dessus de votre Deck, et si elle est de Niveau 1 ou 8, ajoutez-la à votre main ou Invoquez-la Spécialement. Sinon, votre adversaire peut appliquer 1 de ces effets.$N●Les LP du joueur qui a activé cette carte deviennent 1000.$N●L'adversaire du joueur qui a activé cette carte gagne des LP jusqu'à en avoir 8000.$NVous ne pouvez activer qu'1 \"Un ou Huit\" par tour.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/11/05",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10077,
+  "card_name": "Scaglie Berserk",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Scegli come bersaglio 1 mostro scoperto che controlli (eccetto un mostro che sta attaccando direttamente); esso guadagna 1000 ATK, inoltre non può attaccare direttamente per il resto di questo turno. Durante la End Phase di questo turno, esso perde 2000 ATK.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/05/10",
+  "species_id": 24,
+  "starchip": "0"
+}

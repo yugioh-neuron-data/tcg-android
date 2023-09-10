@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15301,
+  "card_name": "賽挑戦",
+  "card_name_label": "さいちょうせん",
+  "card_name_search": "さいちょうせん",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：サイコロを１回振り、１・６が出た場合、サイコロを振る効果を持つカード１枚をデッキから手札に加える。１・６以外が出た場合、サイコロをもう１回振り、出た目によって以下の効果を適用する。$N●１・６：フィールドのこのカードを持ち主の手札に戻す。$N●２～５：フィールドのこのカードを持ち主のデッキの一番上に戻す。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/18",
+  "species_id": 24,
+  "starchip": "0"
+}

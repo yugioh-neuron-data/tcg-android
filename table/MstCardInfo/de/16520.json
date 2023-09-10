@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 5,
+  "card_id": 16520,
+  "card_name": "Miausklick",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls eine Spielfeldzauberkarte aktiviert wird: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören, dann, falls in beiden Spielfeldzonen offene Karten liegen, kann diese Karte in diesem Spielzug weder durch Kampf noch durch Karteneffekte zerstört werden. Du kannst diesen Effekt von „Miausklick“ nur einmal pro Spielzug verwenden. Während deines Spielzugs werden die Effekte der offenen Karte in der Spielfeldzone deines Gegners annulliert. Während des Spielzugs deines Gegners werden die Effekte der offenen Karte in deiner Spielfeldzone annulliert.",
+  "defense_power": "1100",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/11/04",
+  "species_id": 27,
+  "starchip": "4"
+}

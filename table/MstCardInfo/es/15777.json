@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15777,
+  "card_name": "Explosión de Myutantes",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Sólo puedes equipar esta carta a un monstruo \"Myutante\" de Nivel 8 o mayor que controles. Al comienzo del Damage Step, si el monstruo equipado ataca un monstruo del adversario Invocado de Modo Especial: puedes desterrar ese monstruo del adversario. Mientras esta carta está equipada a un monstruo: puedes desterrar esta carta; manda al Cementerio el monstruo al que esta carta estaba equipada y, si lo haces, Invoca de Modo Especial, desde tu mano o Deck, 1 monstruo \"Myutante\" de Nivel 8 con un Atributo original diferente. Sólo puedes usar este efecto de \"Explosión de Myutantes\" una vez por turno.",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/11/05",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "200",
+  "attribute_id": 5,
+  "card_id": 8958,
+  "card_name": "ナチュル・モスキート",
+  "card_name_label": "ナチュル・モスキート",
+  "card_name_search": "なちゅるもすきーと",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上にこのカード以外の「ナチュル」と名のついたモンスターが表側表示で存在する限り、相手はこのカードを攻撃対象に選択する事はできない。このカード以外の自分フィールド上に表側表示で存在する「ナチュル」と名のついたモンスターの戦闘によって発生する自分への戦闘ダメージは、代わりに相手が受ける。",
+  "defense_power": "300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/04/17",
+  "species_id": 10,
+  "starchip": "1"
+}

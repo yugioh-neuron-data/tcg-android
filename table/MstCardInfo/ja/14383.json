@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14383,
+  "card_name": "運命の一枚",
+  "card_name_label": "カード・オブ・スピリット",
+  "card_name_search": "かーどおぶすぴりっと",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：お互いは自身のデッキからカードを１枚選ぶ。その後、お互いは相手のデッキのカードをランダムに４枚選ぶ。お互いは、それぞれ自身が選んだカード１枚と相手が選んだ４枚を合わせてシャッフルし、その５枚の中からランダムに１枚選び、お互いに確認し、自身の手札に加える。残りのカードは自身のデッキに戻す。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/02/09",
+  "species_id": 24,
+  "starchip": "0"
+}

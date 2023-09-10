@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 2,
+  "card_id": 15181,
+  "card_name": "DDドッグ",
+  "card_name_label": "ディーディードッグ",
+  "card_name_search": "でぃーでぃーどっぐ",
+  "card_pen_effect": "このカード名のP効果は１ターンに１度しか使用できない。①：相手フィールドの融合・S・Xモンスター１体を対象として発動できる。そのモンスターの効果をターン終了時まで無効にする。その後、Pゾーンのこのカードを破壊する。",
+  "card_text": "①：１ターンに１度、相手が融合・S・Xモンスターの特殊召喚に成功した場合、そのモンスター１体を対象として発動できる。このターン、その表側表示モンスターは攻撃できず、効果は無効化される。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2020/03/21",
+  "species_id": 3,
+  "starchip": "6"
+}

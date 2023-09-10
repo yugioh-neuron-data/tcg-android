@@ -1,0 +1,23 @@
+{
+  "attack_power": "400",
+  "attribute_id": 2,
+  "card_id": 12596,
+  "card_name": "Predaplanta Atrapamoscas",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Una vez por turno: puedes seleccionar 1 monstruo boca arriba que controle tu adversario; pon 1 Contador de Predador en él, y si su Nivel es 2 o mayor, éste se convierte en Nivel 1 mientras tenga un Contador de Predador. Al comienzo del Damage Step, cuando esta carta batalla con un monstruo de igual Nivel o menor: puedes destruir ese monstruo, y después aumentar el Nivel de esta carta tanto como el Nivel original del monstruo destruido.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/11/03",
+  "species_id": 13,
+  "starchip": "2"
+}

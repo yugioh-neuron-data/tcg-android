@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 1,
+  "card_id": 11320,
+  "card_name": "彼岸の旅人 ダンテ",
+  "card_name_label": "ひがんのたびびと　ダンテ",
+  "card_name_search": "ひがんのたびびとだんて",
+  "card_pen_effect": "",
+  "card_text": "レベル３モンスター×２$N①：１ターンに１度、このカードのX素材を１つ取り除き、自分のデッキの上からカードを３枚まで墓地へ送って発動できる。このカードの攻撃力はターン終了時まで、この効果を発動するために墓地へ送ったカードの数×５００アップする。②：このカードは攻撃した場合、バトルフェイズ終了時に守備表示になる。③：このカードが墓地へ送られた場合、このカード以外の自分の墓地の「彼岸」カード１枚を対象として発動できる。そのカードを手札に加える。",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/09/19",
+  "species_id": 15,
+  "starchip": "3"
+}

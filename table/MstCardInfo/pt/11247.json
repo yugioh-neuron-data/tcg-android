@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 1,
+  "card_id": 11247,
+  "card_name": "Homem-Bateria 9-Volts",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Quando este card for Invocado: você pode adicionar 1 monstro \"Homem-Bateria\" do seu Deck à sua mão e, se isso acontecer, o ATK e DEF deste card se tornam o dobro do seu ATK e DEF originais. Você só pode usar este efeito de \"Homem-Bateria 9-Volts\" uma vez por turno. Durante sua Fase Final: destrua este card.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/08/15",
+  "species_id": 19,
+  "starchip": "4"
+}

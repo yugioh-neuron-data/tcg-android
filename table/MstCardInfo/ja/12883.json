@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 6,
+  "card_id": 12883,
+  "card_name": "SRドミノバタフライ",
+  "card_name_label": "スピードロイドドミノバタフライ",
+  "card_name_search": "すぴーどろいどどみのばたふらい",
+  "card_pen_effect": "「SRドミノバタフライ」の②のP効果は１ターンに１度しか使用できない。①：自分は風属性モンスターしかP召喚できない。この効果は無効化されない。②：手札から風属性モンスター１体を捨て、除外されている自分の風属性モンスター１体を対象として発動できる。そのモンスターを手札に加える。",
+  "card_text": "このカードをS素材とする場合、ドラゴン族・機械族の風属性モンスターのS召喚にしか使用できない。エクストラデッキから特殊召喚したこのカードは、S召喚に使用された場合に除外される。",
+  "defense_power": "300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 33,
+  "pen_scale_l": "8",
+  "pen_scale_r": "8",
+  "sales_at": "2016/12/17",
+  "species_id": 7,
+  "starchip": "2"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "200",
+  "attribute_id": 2,
+  "card_id": 14939,
+  "card_name": "레프티레스 에키두나",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "파충류족 몬스터를 포함하는 몬스터 2장$N이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 링크 소환에 성공했을 경우, 상대 필드의 앞면 표시 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터의 공격력을 0 으로 한다. ②: 자신 메인 페이즈에 발동할 수 있다. 상대 필드의 공격력 0 의 몬스터의 수까지, 덱에서 파충류족 몬스터를 패에 넣는다(같은 이름의 카드는 1장까지). 이 효과의 발동 후, 턴 종료시까지 자신은 파충류족 몬스터밖에 엑스트라 덱에서 특수 소환할 수 없다.",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "43",
+  "linkno": "2",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/02/13",
+  "species_id": 20,
+  "starchip": ""
+}

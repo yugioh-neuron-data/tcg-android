@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 3,
+  "card_id": 11009,
+  "card_name": "Wobby Silencioso",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante tu Main Phase: puedes Invocar esta carta de Modo Especial, desde tu mano, al lado del Campo de tu adversario. Cuando es Invocada de esta forma: roba 1 carta y, si lo haces, tu adversario gana 2000 Life Points. Sólo puedes usar este efecto de \"Wobby Silencioso\" una vez por turno. El límite del tamaño de la mano del controlador de esta carta se convierte en 3.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/03/27",
+  "species_id": 8,
+  "starchip": "4"
+}

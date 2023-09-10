@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15566,
+  "card_name": "サイコ・イレイザー",
+  "card_name_label": "サイコ・イレイザー",
+  "card_name_search": "さいこいれいざー",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：EXデッキから特殊召喚された相手フィールドのモンスター１体を選んで墓地へ送る。その後、墓地へ送ったモンスターの元々の攻撃力と元々の守備力の内、高い方の数値分だけ相手のLPを回復する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/09/25",
+  "species_id": 24,
+  "starchip": "0"
+}

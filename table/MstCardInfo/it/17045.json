@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 17045,
+  "card_name": "Settima Eternità",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Scegli come bersaglio 1 Mostro Xyz \"Numero\" che controlli che ha un numero tra \"101\" e \"107\" nel suo nome, o 1 Mostro Xyz che controlli che ha qualsiasi tale mostro come materiale, poi attiva 1 di questi effetti;$N●Annulla gli effetti di 1 mostro controllato dal tuo avversario con ATK pari o inferiore all'ATK del mostro scelto come bersaglio, fino alla fine di questo turno.$N●Stacca tutti i materiali dal mostro scelto come bersaglio, poi puoi Evocare Specialmente 1 Mostro Xyz \"Numero\" dal tuo Cimitero.$NPuoi utilizzare questo effetto di \"Settima Eternità\" una sola volta per turno.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/06/16",
+  "species_id": 25,
+  "starchip": "0"
+}

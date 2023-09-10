@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 5,
+  "card_id": 6392,
+  "card_name": "Catapulteur des Ténèbres",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Une fois par tour, durant votre Standby Phase, si cette carte est en Position de Défense : placez 1 Compteur sur cette carte. Vous pouvez bannir un nombre de cartes dans votre Cimetière égal au nombre de Compteurs sur cette carte, puis ciblez autant de Magies/Pièges sur le Terrain ; détruisez-les, puis retirez tous les Compteurs de cette carte.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/08/06",
+  "species_id": 7,
+  "starchip": "4"
+}

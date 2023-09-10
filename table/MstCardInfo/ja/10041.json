@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 1,
+  "card_id": 10041,
+  "card_name": "聖刻龍－ドラゴンヌート",
+  "card_name_label": "せいこくりゅう－ドラゴンヌート",
+  "card_name_search": "せいこくりゅうどらごんぬーと",
+  "card_pen_effect": "",
+  "card_text": "フィールド上に表側表示で存在するこのカードが魔法・罠・効果モンスターの効果の対象になった時に発動する。自分の手札・デッキ・墓地からドラゴン族の通常モンスター１体を選び、攻撃力・守備力を０にして特殊召喚する。この効果は１ターンに１度しか使用できない。",
+  "defense_power": "900",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/02/18",
+  "species_id": 1,
+  "starchip": "4"
+}

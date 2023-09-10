@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 2,
+  "card_id": 14439,
+  "card_name": "Endymion, il Magnifico Maestro della Magia",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Puoi rimuovere 6 Segnalini Magia dal tuo Terreno; Evoca Specialmente questa carta dalla Zona Pendulum, poi conta il numero di carte che controlli che possono avere un Segnalino Magia, distruggi fino a quel numero di carte sul Terreno e, se lo fai, metti su questa carta Segnalini Magia pari al numero di carte distrutte. Puoi utilizzare questo effetto di \"Endymion, il Magnifico Maestro della Magia\" una sola volta per turno.",
+  "card_text": "Una volta per turno, quando viene attivata una Carta Magia/Trappola o un suo effetto (Effetto Rapido): puoi far ritornare nella mano 1 carta che controlli con un Segnalino Magia e, se lo fai, annulla l'attivazione e, se fai quello, distruggila. Poi, puoi mettere su questa carta lo stesso numero di Segnalini Magia che aveva la carta fatta ritornare. Mentre questa carta ha un Segnalino Magia, il tuo avversario non può sceglierla come bersaglio con gli effetti delle carte, inoltre essa non può essere distrutta dagli effetti delle carte del tuo avversario. Quando questa carta con un Segnalino Magia viene distrutta in battaglia: puoi aggiungere 1 Magia Normale dal tuo Deck alla tua mano.",
+  "defense_power": "1700",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "8",
+  "pen_scale_r": "8",
+  "sales_at": "2019/04/18",
+  "species_id": 18,
+  "starchip": "7"
+}

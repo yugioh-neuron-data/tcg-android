@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 5,
+  "card_id": 15842,
+  "card_name": "Zolga le Prophète",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si vous contrôlez un monstre TERRE Elfe (\"Zolga le Prophète\" exclu) : vous pouvez Invoquer Spécialement cette carte depuis votre main, puis regardez max. 5 cartes du dessus du Deck de chaque joueur. Lorsqu'un monstre qui a été Invoqué Normalement en Sacrifiant cette carte déclare une attaque : vous pouvez bannir cette carte depuis votre Cimetière ; détruisez le monstre, et si vous le faites, infligez 2000 points de dommages à votre adversaire. Vous ne pouvez utiliser chaque effet de \"Zolga le Prophète\" qu'une fois par tour.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/07/08",
+  "species_id": 17,
+  "starchip": "4"
+}

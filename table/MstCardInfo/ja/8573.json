@@ -1,0 +1,23 @@
+{
+  "attack_power": "2100",
+  "attribute_id": 3,
+  "card_id": 8573,
+  "card_name": "氷結界の虎将 ライホウ",
+  "card_name_label": "ひょうけっかいのこしょう　ライホウ",
+  "card_name_search": "ひょうけっかいのこしょうらいほう",
+  "card_pen_effect": "",
+  "card_text": "①：このカードがモンスターゾーンに存在する限り、フィールドで発動した相手モンスターの効果処理時に、相手は手札を１枚捨てる事ができる。捨てなかった場合、その効果は無効化される。",
+  "defense_power": "2300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/10/01",
+  "species_id": 15,
+  "starchip": "6"
+}

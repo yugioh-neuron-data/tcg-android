@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 6,
+  "card_id": 7782,
+  "card_name": "신금왕 알렉터",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "상대 필드 위에 같은 속성의 몬스터가 앞면 표시로 2장 이상 존재할 경우, 이 카드는 패에서 특수 소환할 수 있다. 1턴에 1번, 필드 위에 앞면 표시로 존재하는 카드 1장을 선택한다. 선택된 카드의 효과는 그 턴 중, 무효가 된다. \"신금왕 알렉터\"는 필드 위에 1장밖에 앞면 표시로 존재할 수 없다.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/08/20",
+  "species_id": 16,
+  "starchip": "6"
+}

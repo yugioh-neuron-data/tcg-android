@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 1,
+  "card_id": 7603,
+  "card_name": "충전지맨",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드의 일반 소환에 성공했을 때, 자신의 패 또는 덱에서 \"충전지맨\" 이외의 \"전지맨\"이라는 이름이 붙은 몬스터 1장을 특수 소환할 수 있다. 이 카드의 공격력/수비력은 자신 필드 위에 앞면 표시로 존재하는 번개족 몬스터의 수 × 300 포인트 올린다.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/06/02",
+  "species_id": 19,
+  "starchip": "5"
+}

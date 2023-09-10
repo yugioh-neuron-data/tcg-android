@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 6,
+  "card_id": 13885,
+  "card_name": "ベルキャットファイター",
+  "card_name_label": "ベルキャットファイター",
+  "card_name_search": "べるきゃっとふぁいたー",
+  "card_pen_effect": "",
+  "card_text": "トークンを含むモンスター３体$N①：このカードが戦闘で相手モンスターを破壊した時に発動できる。自分フィールドに「ベルキャットトークン」（機械族・風・星４・攻／守２０００）１体を守備表示で特殊召喚する。",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "846",
+  "linkno": "3",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/05/27",
+  "species_id": 7,
+  "starchip": ""
+}

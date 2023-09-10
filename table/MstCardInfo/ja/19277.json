@@ -1,0 +1,23 @@
+{
+  "attack_power": "2300",
+  "attribute_id": 3,
+  "card_id": 19277,
+  "card_name": "氷魔龍 ブリューナク",
+  "card_name_label": "ひょうまりゅう ブリューナク",
+  "card_name_search": "ひょうまりゅうぶりゅーなく",
+  "card_pen_effect": "",
+  "card_text": "チューナー＋チューナー以外のモンスター１体以上$Nこのカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。$N①：このカードがS召喚した場合、手札を１枚捨て、フィールドのカード１枚を対象として発動できる。そのカードを手札に戻す。$N②：このカードが墓地から特殊召喚した場合、手札を１枚捨て、フィールドのカード１枚を対象として発動できる。そのカードを手札に戻す。",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/07/21",
+  "species_id": 5,
+  "starchip": "6"
+}

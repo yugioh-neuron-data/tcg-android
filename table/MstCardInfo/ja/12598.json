@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 2,
+  "card_id": 12598,
+  "card_name": "捕食植物スキッド・ドロセーラ",
+  "card_name_label": "プレデター・プランツスキッド・ドロセーラ",
+  "card_name_search": "ぷれでたーぷらんつすきっどどろせーら",
+  "card_pen_effect": "",
+  "card_text": "①：このカードを手札から墓地へ送り、自分フィールドの表側表示モンスター１体を対象として発動できる。このターン、そのモンスターは捕食カウンターが置かれた相手モンスター全てに１回ずつ攻撃できる。②：表側表示のこのカードがフィールドから離れた場合に発動する。相手フィールドの特殊召喚されたモンスター全てに捕食カウンターを１つずつ置く。捕食カウンターが置かれたレベル２以上のモンスターのレベルは１になる。",
+  "defense_power": "400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/07/09",
+  "species_id": 13,
+  "starchip": "2"
+}

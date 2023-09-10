@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 1,
+  "card_id": 13025,
+  "card_name": "Dormeur ESPIRALE",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Ni Invocable Normalement ni Posable Normalement. Uniquement Invocable Spécialement (depuis votre main) en bannissant 3 cartes \"ESPIRALE\" depuis votre Cimetière, et non Invocable Spécialement autrement. Une fois par tour, durant le tour de chaque joueur : vous pouvez cibler 1 carte \"ESPIRALE\" que vous contrôlez et max. 2 cartes contrôlées par votre adversaire ; détruisez-les. Si cette carte sur le Terrain est détruite au combat ou par un effet de carte, et envoyée au Cimetière : détruisez autant de cartes que vous contrôlez que possible, et si vous le faites, Invoquez Spécialement 1 \"Super Espion ESPIRALE\" depuis votre main, Deck ou Cimetière.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/05/04",
+  "species_id": 3,
+  "starchip": "8"
+}

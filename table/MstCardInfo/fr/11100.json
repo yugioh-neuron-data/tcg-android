@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 11100,
+  "card_name": "Dernier Contre",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsqu'une attaque impliquant un monstre \"Boxeur Indomptable\" que vous contrôlez et un monstre de l'adversaire est déclarée : annulez l'attaque, et si vous le faites, envoyez le monstre que vous contrôlez au Cimetière, puis 1 monstre \"Boxeur Indomptable\" que vous contrôlez (en Position d'Attaque, si vous avez déclaré l'attaque) gagne une ATK égale à l'ATK d'origine du monstre de l'adversaire, et aussi, passez au calcul des dommages en utilisant ces monstres. Puis, vous recevez des dommages égaux au montant d'ATK gagné par cet effet.",
+  "defense_power": "0",
+  "effect_id": 1,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/05/15",
+  "species_id": 25,
+  "starchip": "0"
+}

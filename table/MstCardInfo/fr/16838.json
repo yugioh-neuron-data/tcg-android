@@ -1,0 +1,23 @@
+{
+  "attack_power": "-1",
+  "attribute_id": 2,
+  "card_id": 16838,
+  "card_name": "Darton la Monstruosité Mécanique",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Une fois par tour, durant votre Main Phase : vous pouvez vérifier la différence entre l'ATK actuelle et d'origine de chaque monstre sur le Terrain, additionnez chacune de ces différences, et faites devenir l'ATK d'origine de ce monstre le montant total jusqu'à la fin du prochain tour de votre adversaire.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/02/10",
+  "species_id": 7,
+  "starchip": "1"
+}

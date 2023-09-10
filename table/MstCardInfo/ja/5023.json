@@ -1,0 +1,23 @@
+{
+  "attack_power": "1900",
+  "attribute_id": 1,
+  "card_id": 5023,
+  "card_name": "天空騎士パーシアス",
+  "card_name_label": "エンジェルナイトパーシアス",
+  "card_name_search": "えんじぇるないとぱーしあす",
+  "card_pen_effect": "",
+  "card_text": "①：このカードが守備表示モンスターを攻撃した場合、その守備力を攻撃力が超えた分だけ戦闘ダメージを与える。②：このカードが相手に戦闘ダメージを与えた場合に発動する。自分はデッキから１枚ドローする。",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2001/11/29",
+  "species_id": 17,
+  "starchip": "5"
+}

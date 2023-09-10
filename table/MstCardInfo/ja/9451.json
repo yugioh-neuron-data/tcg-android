@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 5,
+  "card_id": 9451,
+  "card_name": "紫炎の荒武者",
+  "card_name_label": "シエンのあらむしゃ",
+  "card_name_search": "しえんのあらむしゃ",
+  "card_pen_effect": "",
+  "card_text": "このカードが召喚に成功した時、このカードに武士道カウンターを１つ置く（最大１つまで）。このカードに武士道カウンターが乗っている場合、このカードの攻撃力は３００ポイントアップする。また、１ターンに１度、このカードに乗っている武士道カウンターを取り除き、フィールド上に表側表示で存在する武士道カウンターを置く事ができるカード１枚を選択して武士道カウンターを１つ置く事ができる。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/09/17",
+  "species_id": 15,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 2,
+  "card_id": 9114,
+  "card_name": "어둠 제왕 딜그",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드가 일반 소환/특수 소환에 성공했을 때, 상대의 묘지에 존재하는 카드를 2장까지 게임에서 제외할 수 있다. 또한, 제외한 수만큼 상대의 덱 위에서 카드를 묘지로 보낸다. 이 카드는 일반 소환/특수 소환한 턴에는 공격할 수 없다.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/10/20",
+  "species_id": 18,
+  "starchip": "6"
+}

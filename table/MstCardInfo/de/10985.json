@@ -1,0 +1,23 @@
+{
+  "attack_power": "400",
+  "attribute_id": 3,
+  "card_id": 10985,
+  "card_name": "Sylvanische Mikorange",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wenn diese Karte, die du kontrollierst, durch eine Karte deines Gegners (entweder durch Kampf oder durch einen Karteneffekt) zerstört und auf deinen Friedhof gelegt wird: Du kannst die oberste Karte deines Decks ausgraben und falls es ein Monster vom Typ Pflanze ist, lege sie auf den Friedhof. Lege sie andernfalls unter dein Deck. Falls diese Karte durch einen Karteneffekt vom Deck ausgegraben und auf den Friedhof gelegt wird: Alle Monster vom Typ Pflanze, die du derzeit kontrollierst, erhalten 300 ATK und DEF.",
+  "defense_power": "1100",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/01/24",
+  "species_id": 13,
+  "starchip": "3"
+}

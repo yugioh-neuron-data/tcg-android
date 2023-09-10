@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 2,
+  "card_id": 13913,
+  "card_name": "Huldra Mistruco",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si esta carta es Invocada de Modo Normal o Especial: puedes descartar 1 carta; aplica el siguiente efecto, dependiendo del tipo de carta descartada.$N●Monstruo: Añade a tu mano 1 Trampa en tu Cementerio.$N●Mágica: Añade a tu mano 1 monstruo en tu Cementerio.$N●Trampa: Añade a tu mano 1 Mágica en tu Cementerio.$NSólo puedes usar este efecto de \"Huldra Mistruco\" una vez por turno.",
+  "defense_power": "2400",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/10/18",
+  "species_id": 18,
+  "starchip": "5"
+}

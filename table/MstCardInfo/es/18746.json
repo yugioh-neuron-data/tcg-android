@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 18746,
+  "card_name": "Voici la Carte (El Menú del Día)",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Muestra 2 monstruos \"Nouvelles\" con nombres diferentes en tu Deck, tu adversario elige 1 para que lo añadas a tu mano, y baraja el otro a tu Deck, y después puedes añadir a tu mano 1 de estas cartas en tu Deck o Cementerio, basado en el Tipo de Monstruo añadido a tu mano por este efecto.$N●Guerrero-Bestia: \"Recette de Poisson (Receta de Pescado)\"$N●Guerrero: \"Recette de Viande (Receta de Carne)\"$NSólo puedes activar 1 \"Voici la Carte (El Menú del Día)\" por turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/06/01",
+  "species_id": 24,
+  "starchip": "0"
+}

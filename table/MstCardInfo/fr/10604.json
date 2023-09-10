@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 10604,
+  "card_name": "DZW - Chimère Blindée",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Vous pouvez cibler 1 monstre \"Numéro C39\" que vous contrôlez ; équipez ce monstre depuis votre main ou votre Terrain à la cible. Le monstre équipé ne peut pas être détruit au combat. À la fin de la Damage Step, lorsque le monstre équipé attaque un monstre de votre adversaire, mais le monstre de votre adversaire n'a pas été détruit au combat : vous pouvez faire devenir l'ATK du monstre de votre adversaire 0 (même après que cette carte quitte le Terrain ou que le monstre n'est pas affecté par des effets de carte), et si vous le faites, le monstre équipé peut attaquer une seconde fois à la suite le même monstre.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/08/08",
+  "species_id": 3,
+  "starchip": "1"
+}

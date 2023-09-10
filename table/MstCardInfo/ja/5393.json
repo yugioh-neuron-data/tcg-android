@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 5393,
+  "card_name": "盗賊の極意",
+  "card_name_label": "とうぞくのごくい",
+  "card_name_search": "とうぞくのごくい",
+  "card_pen_effect": "",
+  "card_text": "メインフェイズ１でのみ発動する事ができる。フィールド上に表側表示で存在するモンスターを１体選択する。このターン、選択したモンスターが相手プレイヤーに戦闘ダメージを与える度に、相手はランダムにカードを１枚捨てる。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2001/11/29",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 4054,
+  "card_name": "クリッター",
+  "card_name_label": "クリッター",
+  "card_name_search": "くりったー",
+  "card_pen_effect": "",
+  "card_text": "このカード名の効果は１ターンに１度しか使用できない。①：このカードがフィールドから墓地へ送られた場合に発動する。デッキから攻撃力１５００以下のモンスター１体を手札に加える。このターン、自分はこの効果で手札に加えたカード及びその同名カードの効果を発動できない。",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "1999/11/18",
+  "species_id": 3,
+  "starchip": "3"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 5,
+  "card_id": 15365,
+  "card_name": "Soldado Desgastado",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se este card for destruído em batalha ou enviado para o Cemitério por um efeito de card: você pode adicionar 1 \"Fusão Fóssil\", ou 1 card que liste especificamente \"Fusão Fóssil\" em seu texto, exceto \"Soldado Desgastado\", do seu Deck à sua mão. Você só pode usar este efeito de \"Soldado Desgastado\" uma vez por turno. Uma vez por turno, durante sua Fase Final: este card perde 600 de ATK.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/07/23",
+  "species_id": 6,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 2,
+  "card_id": 13208,
+  "card_name": "Asesino Revengamiedo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Puedes Invocar esta carta por Ritual con cualquier Mágica de Ritual \"Vengamiedo\". Una vez por batalla, si esta carta batalla con un monstruo del adversario, durante el cálculo de daño (Efecto Rápido): puedes desterrar 1 monstruo Zombi en tu Cementerio; esta carta gana 300 ATK. Si esta carta Invocada por Ritual es mandada al Cementerio: puedes añadir a tu mano 1 Mágica de Ritual en tu Deck y, si lo haces, manda al Cementerio 1 monstruo \"Vengamiedo\" en tu Deck. Sólo puedes usar este efecto de \"Asesino Revengamiedo\" una vez por turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 5,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/08/03",
+  "species_id": 2,
+  "starchip": "6"
+}

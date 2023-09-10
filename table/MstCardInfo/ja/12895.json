@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 1,
+  "card_id": 12895,
+  "card_name": "天輪の双星道士",
+  "card_name_label": "てんりんのそうせいどうし",
+  "card_name_search": "てんりんのそうせいどうし",
+  "card_pen_effect": "",
+  "card_text": "チューナー＋チューナー以外のモンスター１体$N「天輪の双星道士」の効果は１ターンに１度しか使用できない。①：このカードがS召喚に成功した時に発動できる。自分の手札・墓地からチューナー以外のレベル２モンスターを４体まで選んで守備表示で特殊召喚する。この効果で特殊召喚したモンスターの効果は無効化される。この効果の発動後、ターン終了時まで自分はSモンスターしかエクストラデッキから特殊召喚できない。",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 19,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/12/17",
+  "species_id": 17,
+  "starchip": "2"
+}

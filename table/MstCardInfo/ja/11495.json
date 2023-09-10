@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 6,
+  "card_id": 11495,
+  "card_name": "精霊獣 アペライオ",
+  "card_name_label": "せいれいじゅう　アペライオ",
+  "card_name_search": "せいれいじゅうあぺらいお",
+  "card_pen_effect": "",
+  "card_text": "自分は「精霊獣 アペライオ」を１ターンに１度しか特殊召喚できない。①：１ターンに１度、自分の墓地の「霊獣」カード１枚を除外して発動できる。このターン中、以下の効果を適用する。この効果は相手ターンでも発動できる。●自分フィールドの「霊獣」モンスターの攻撃力・守備力は５００アップする。",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/10/11",
+  "species_id": 4,
+  "starchip": "4"
+}

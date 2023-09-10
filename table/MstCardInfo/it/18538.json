@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 18538,
+  "card_name": "RINFORZARE!",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "(Questa carta viene sempre considerata come una carta \"Salvataggio-ASSO\".)$NScegli come bersaglio 1 mostro \"Salvataggio-ASSO\" che controlli; per il resto di questo turno, quel mostro che controlli guadagna 1500 ATK/DEF, è immune agli effetti dei mostri del tuo avversario e la prossima volta che sta per essere distrutto in battaglia, non viene distrutto. Puoi bandire questa carta dal tuo Cimitero, poi scegliere come bersaglio 1 Magia \"Salvataggio-ASSO\" nel tuo Cimitero; Posiziona quella carta. Puoi utilizzare questo effetto di \"RINFORZARE!\" una sola volta per turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/05/04",
+  "species_id": 25,
+  "starchip": "0"
+}

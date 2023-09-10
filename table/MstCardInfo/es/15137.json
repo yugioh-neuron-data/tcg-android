@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 15137,
+  "card_name": "Núcleo del Caos",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando cualquier jugador active una carta o efecto que seleccione esta carta, o cuando el monstruo de tu adversario la seleccione para un ataque (Efecto Rápido): puedes mandar al Cementerio hasta 1 de cada \"Uria, Señor de las Llamas Abrasadoras\", \"Hamon, Señor del Trueno Golpeador\" y \"Raviel, Señor de Fantasmas\" en tu mano y/o Deck y, si lo haces, pon en esta carta 1 Contador de Fantasma por cada carta mandada al Cementerio y, si pones al menos 1, este turno no recibes daño de batalla. Sólo puedes usar este efecto de \"Núcleo del Caos\" una vez por turno. Si esta carta fuera a ser destruida en batalla o por efecto de una carta, puedes retirar 1 Contador de Fantasma de esta carta en su lugar.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/07/09",
+  "species_id": 3,
+  "starchip": "3"
+}

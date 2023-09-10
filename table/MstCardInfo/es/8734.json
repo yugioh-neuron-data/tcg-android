@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 6,
+  "card_id": 8734,
+  "card_name": "La Atmósfera",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "No puede ser Invocada de Modo Normal/Colocada. Debe ser primero Invocada de Modo Especial (desde tu mano) desterrando 2 monstruos que controles y 1 monstruo en tu Cementerio. Una vez por turno: puedes seleccionar 1 monstruo boca arriba que controle tu adversario; equipa ese objetivo a esta carta. (Sólo puedes equipar a esta carta 1 monstruo por vez con este efecto). Esta carta gana ATK y DEF iguales al ATK y DEF de ese monstruo equipado.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/08/08",
+  "species_id": 16,
+  "starchip": "8"
+}

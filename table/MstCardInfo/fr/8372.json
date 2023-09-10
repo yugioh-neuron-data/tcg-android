@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 5,
+  "card_id": 8372,
+  "card_name": "Champion de Guerre Koa'ki Meiru",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durant chacune de vos End Phases, détruisez cette carte sauf si vous envoyez 1 \"Noyau d'Énergie Koa'ki Meiru\" depuis votre main au Cimetière ou révélez 1 monstre de Type Guerrier dans votre main. Une fois par tour : vous pouvez cibler 1 monstre de Type Guerrier de max. Niveau 3 dans votre Cimetière ; équipez la cible à cette carte. Cette carte gagne une ATK égale à la moitié de la somme des ATK des monstres qui lui sont équipés par cet effet. Si cette carte va être détruite au combat, détruisez tous les monstres qui lui sont équipés par cet effet à la place.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/06/04",
+  "species_id": 15,
+  "starchip": "4"
+}

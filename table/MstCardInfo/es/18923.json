@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 4,
+  "card_id": 18923,
+  "card_name": "Boxeador Indómito Esquinero",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante tu Main Phase, puedes Invocar de Modo Normal 1 monstruo \"Boxeador Indómito\" además de tu Invocación Normal/Colocación. (Sólo puedes ganar este efecto una vez por turno). Cuando un monstruo del adversario declara un ataque, mientras controles un monstruo Guerrero o de FUEGO: puedes Invocar esta carta de Modo Especial desde tu mano y, si lo haces, niega ese ataque, y después destierra 1 monstruo en el Campo hasta la End Phase. Sólo puedes usar este efecto de \"Boxeador Indómito Esquinero\" una vez por turno.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/08/10",
+  "species_id": 15,
+  "starchip": "4"
+}

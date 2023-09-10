@@ -1,0 +1,23 @@
+{
+  "attack_power": "2600",
+  "attribute_id": 2,
+  "card_id": 6890,
+  "card_name": "라이트닝 퍼니셔",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "체인이 3개 이상 쌓였을 경우에 발동한다. 상대 필드 위의 카드 1장을 선택하고 파괴한다. 동일한 체인 위에 여러 번 같은 이름의 카드 효과가 발동하고 있을 경우, 이 효과는 발동할 수 없다.",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/12/21",
+  "species_id": 19,
+  "starchip": "7"
+}

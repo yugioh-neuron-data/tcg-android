@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 16096,
+  "card_name": "ドレミコード・フォーマル",
+  "card_name_label": "ドレミコード・フォーマル",
+  "card_name_search": "どれみこーどふぉーまる",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：自分のPゾーンに「ドレミコード」カードが存在し、相手がモンスターの効果・魔法・罠カードを発動した時に発動できる。自分のEXデッキから表側表示のPモンスター１体をデッキに戻す。その後、以下の効果を適用する。$N●自分フィールドのPモンスターはその相手の効果を受けない。$N●自分のPゾーンのカードはその相手の効果では破壊されない。$N●自分のPゾーンのカードはその相手の効果では除外できない。",
+  "defense_power": "0",
+  "effect_id": 1,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/03/06",
+  "species_id": 25,
+  "starchip": "0"
+}

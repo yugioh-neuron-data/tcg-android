@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 1,
+  "card_id": 4022,
+  "card_name": "Stregone del Tempo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Una volta per turno: puoi lanciare una moneta e scegliere testa o croce. Se indovini, distruggi tutti i mostri controllati dal tuo avversario. Se sbagli, distruggi tanti mostri che controlli quanti possibile e, se lo fai, subisci danno pari alla metà della somma degli ATK che quei mostri distrutti avevano mentre erano scoperti sul Terreno.",
+  "defense_power": "400",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2003/03/30",
+  "species_id": 18,
+  "starchip": "2"
+}

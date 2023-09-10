@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 2,
+  "card_id": 17391,
+  "card_name": "聖菓使クーベル",
+  "card_name_label": "パティシエルクーベル",
+  "card_name_search": "ぱてぃしえるくーべる",
+  "card_pen_effect": "このカード名のP効果は１ターンに１度しか使用できない。①：もう片方の自分のPゾーンにカードが存在しない場合に発動できる。自分のEXデッキから表側表示のPモンスター１体を選んで自分のPゾーンに置く。",
+  "card_text": "Pモンスター×２$N①：モンスターゾーンのこのカードが破壊された場合に発動できる。このカードを自分のPゾーンに置く。",
+  "defense_power": "700",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 41,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2022/09/10",
+  "species_id": 17,
+  "starchip": "5"
+}

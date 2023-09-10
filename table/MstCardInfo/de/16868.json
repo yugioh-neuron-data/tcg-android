@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16868,
+  "card_name": "Verkaufsverbot",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Deklariere 1 Kartennamen; für den Rest dieses Spielzugs kann dein Gegner weder Karten noch die Effekte von Karten mit demselben Grund-Namen wie jene deklarierte Karte aktivieren. Dieselben Einschränkungen gelten für dich, aber für den Rest dieses Duells statt nur für diesen Spielzug. Du kannst nur 1 „Verkaufsverbot“ pro Spielzug aktivieren.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/02/10",
+  "species_id": 24,
+  "starchip": "0"
+}

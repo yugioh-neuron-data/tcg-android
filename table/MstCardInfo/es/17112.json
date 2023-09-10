@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 2,
+  "card_id": 17112,
+  "card_name": "Artistamigo Classikuriboh",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Cuando un monstruo del adversario declara un ataque directo, esta carta es destruida.",
+  "card_text": "Si esta carta es destruida por su propio Efecto de Péndulo: termina la Battle Phase. Sólo puedes usar cada uno de los siguientes efectos de \"Artistamigo Classikuriboh\" una vez por turno. Puedes descartar esta carta, y después seleccionar 1 carta en tu Zona de Péndulo; su Escala de Péndulo se convierte en 1 hasta el final de este turno. Cuando recibes daño de batalla mientras esta carta está en tu Cementerio: puedes poner esta carta en tu Zona de Péndulo.",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "8",
+  "pen_scale_r": "8",
+  "sales_at": "2023/06/22",
+  "species_id": 3,
+  "starchip": "1"
+}

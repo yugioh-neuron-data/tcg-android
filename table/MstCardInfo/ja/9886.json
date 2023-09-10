@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 1,
+  "card_id": 9886,
+  "card_name": "リバース・バスター",
+  "card_name_label": "リバース・バスター",
+  "card_name_search": "りばーすばすたー",
+  "card_pen_effect": "",
+  "card_text": "このカードは裏側守備表示のモンスターにのみ攻撃できる。このカードが攻撃する場合、相手はダメージステップ終了時まで魔法・罠カードを発動できない。このカードが裏側守備表示のモンスターを攻撃した場合、ダメージ計算を行わず裏側守備表示のままそのモンスターを破壊できる。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/11/19",
+  "species_id": 3,
+  "starchip": "4"
+}

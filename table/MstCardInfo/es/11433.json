@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 2,
+  "card_id": 11433,
+  "card_name": "Captor P.O.",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Cuando Invocas por Péndulo a uno o más monstruos de Tipo Zombi: puedes activar este efecto; este turno, éste no puede ser destruido en batalla o por efectos de cartas.",
+  "card_text": "Si esta carta destruye un monstruo en batalla: puedes seleccionar 1 Monstruo de Péndulo en tu Cementerio; añádelo a tu mano.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2015/04/16",
+  "species_id": 2,
+  "starchip": "4"
+}

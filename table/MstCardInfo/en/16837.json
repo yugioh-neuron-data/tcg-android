@@ -1,0 +1,23 @@
+{
+  "attack_power": "700",
+  "attribute_id": 1,
+  "card_id": 16837,
+  "card_name": "Shining Piecephilia",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cannot be destroyed by battle. At the end of the Damage Step, if this card battled an opponent's monster: You can place 1 Piece Counter on this card (max. 4), then you can apply the following effect, based on the number of Piece Counters on it.$N●1: Place 1 monster from your Deck on top of your Deck.$N●2: Draw 1 card.$N●3: Add 1 monster from your Deck to your hand.$N●4: Add 1 card from your Deck to your hand.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/02/10",
+  "species_id": 6,
+  "starchip": "4"
+}

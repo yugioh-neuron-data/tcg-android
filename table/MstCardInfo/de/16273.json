@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 3,
+  "card_id": 16273,
+  "card_name": "Pendransaktion",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 Monster der Stufe 4$NDu kannst 1 Material von dieser Karte abhängen; falls du mehr Karten in deinem Extra Deck hast als dein Gegner, führe nacheinander diese Effekte aus, abhängig von der Differenz.$N●1+: Diese Karte erhält bis zum Ende des Spielzugs deines Gegners 1000 ATK.$N●5+: Kein Spieler kann diese Karte bis zum Ende des Spielzugs deines Gegners als Ziel für Karteneffekte wählen.$N●10+: Verbanne 1 Karte, die dein Gegner kontrolliert.$N●15+: Mache die LP deines Gegners zu 3000.$NDu kannst diesen Effekt von „Pendransaktion“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/06/03",
+  "species_id": 27,
+  "starchip": "4"
+}

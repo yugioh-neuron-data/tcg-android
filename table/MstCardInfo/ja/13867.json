@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 5,
+  "card_id": 13867,
+  "card_name": "E・HERO ネビュラ・ネオス",
+  "card_name_label": "エレメンタルヒーロー　ネビュラ・ネオス",
+  "card_name_search": "えれめんたるひーろーねびゅらねおす",
+  "card_pen_effect": "",
+  "card_text": "「E・HERO ネオス」＋「N・グラン・モール」＋「N・ブラック・パンサー」$N自分フィールドの上記カードをデッキに戻した場合のみ、EXデッキから特殊召喚できる（「融合」は必要としない）。①：このカードがEXデッキからの特殊召喚に成功した場合に発動する。相手フィールドのカードの数だけ自分はデッキからドローする。その後、フィールドの表側表示のカード１枚を選び、その効果をターン終了時まで無効にする。②：エンドフェイズに発動する。このカードをEXデッキに戻し、フィールドのカードを全て裏側表示で除外する。",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/12/22",
+  "species_id": 15,
+  "starchip": "9"
+}

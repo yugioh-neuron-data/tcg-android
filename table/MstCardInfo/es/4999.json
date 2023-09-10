@@ -1,0 +1,23 @@
+{
+  "attack_power": "-1",
+  "attribute_id": 7,
+  "card_id": 4999,
+  "card_name": "Slifer el Dragón del Cielo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Requiere 3 Sacrificios para ser Invocado de Modo Normal (no puede ser Colocado de Modo Normal). La Invocación Normal de esta carta no puede ser negada. Cuando es Invocado de Modo Normal, no se pueden activar cartas ni efectos. Una vez por turno, durante la End Phase, si esta carta fue Invocada de Modo Especial: mándala al Cementerio. Gana 1000 ATK/DEF por cada carta en tu mano. Si uno o más monstruos son Invocados de Modo Normal o Especial al Campo de tu adversario en Posición de Ataque: ese o esos monstruos pierden 2000 ATK y después, si su ATK quedó reducido a 0 como resultado, destrúyelos.",
+  "defense_power": "-1",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/06/27",
+  "species_id": 22,
+  "starchip": "10"
+}

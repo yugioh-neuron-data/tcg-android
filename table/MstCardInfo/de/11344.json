@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 11344,
+  "card_name": "Superstarker Samurai Seelenbrecher-Panzer",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Du kannst 1 „Superstarker Samurai“-Monster wählen, das du kontrollierst; rüste das gewählte Ziel mit diesem Monster von deiner Hand oder deiner Spielfeldseite aus. Es verliert 1000 DEF, zusätzlich kann es nicht durch Kampf zerstört werden. Falls sich diese Karte in deinem Friedhof befindet: Du kannst alle „Superstarker Samurai Seelenbrecher-Panzer“ von deinem Friedhof verbannen und dann 1 „Superstarker Samurai“-Monster auf dem Spielfeld wählen, dessen derzeitige DEF niedriger sind als seine Grund-DEF; füge deinem Gegner Schaden in Höhe der Differenz zwischen seinen derzeitigen und seinen Grund-DEF zu.",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/11/06",
+  "species_id": 7,
+  "starchip": "1"
+}

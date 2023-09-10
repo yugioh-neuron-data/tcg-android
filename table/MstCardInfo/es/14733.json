@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14733,
+  "card_name": "Fortaleza de Fuego en la Cima Liang",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "(Esta carta se trata siempre como una carta \"Formación de Fuego\").$NCada vez que uno o más monstruos \"Puño de Fuego\" son Invocados de Modo Normal o Especial, pon 1 Contador Puño de Fuego en esta carta. Una vez por turno: puedes retirar de tu Campo Contadores Puño de Fuego para activar 1 de estos efectos;$N●2: Si tu monstruo Guerrero-Bestia ataca este turno, tu adversario no puede activar cartas o efectos hasta el final del Damage Step.$N●6: Añade a tu mano 1 monstruo Guerrero-Bestia en tu Deck.$N●10: Invoca de Modo Especial 1 monstruo Guerrero-Bestia en tu Deck o Deck Extra, ignorando sus condiciones de Invocación.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/08/22",
+  "species_id": 24,
+  "starchip": "0"
+}

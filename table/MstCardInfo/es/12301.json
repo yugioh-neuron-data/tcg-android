@@ -1,0 +1,23 @@
+{
+  "attack_power": "1750",
+  "attribute_id": 5,
+  "card_id": 12301,
+  "card_name": "Amórfago Orgullo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Mientras controles un monstruo \"Amórfago/a\", ningún jugador recibe daño de efectos. Una vez por turno, durante tu Standby Phase, Sacrifica 1 monstruo o destruye esta carta.",
+  "card_text": "Si esta carta es Invocada por Péndulo o volteada boca arriba, ningún jugador puede Invocar monstruos de Modo Especial desde el Deck Extra mientras esta carta esté boca arriba en el Campo, excepto monstruos \"Amórfago/a\".",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2016/05/05",
+  "species_id": 1,
+  "starchip": "4"
+}

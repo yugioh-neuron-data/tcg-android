@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13814,
+  "card_name": "Estrazione Squarcio",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Scarta 1 carta; manda carte dalla cima del tuo Deck al Cimitero, pari al numero di carte controllate dal tuo avversario, poi pesca 1 carta e mostrala. Poi, se era \"Estrazione Squarcio\", mandala al Cimitero e, se lo fai, distruggi tante carte sul Terreno quante possibile, poi infliggi 2000 danni al tuo avversario per ogni carta distrutta e mandata al Cimitero da questo effetto. Se la carta che hai pescato non era \"Estrazione Squarcio\", mischia carte dal tuo Cimitero nel tuo Deck pari al numero di carte mandate dal tuo Deck al Cimitero da questo effetto. Puoi attivare solo 1 \"Estrazione Squarcio\" per turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/06/28",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 5,
+  "card_id": 11790,
+  "card_name": "Goritambour Potartiste",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Une fois par tour, lorsqu'une attaque impliquant un monstre que vous contrôlez et un monstre de votre adversaire est déclarée : vous pouvez cibler le monstre que vous contrôlez ; jusqu'à la fin de la Battle Phase (même si cette carte quitte le Terrain), il gagne 600 ATK.",
+  "card_text": "S'il n'y a aucun monstre sur le Terrain, vous pouvez Invoquer Normalement cette carte sans Sacrifice. Si cette carte est Invoquée Normalement sans Sacrifice, son Niveau devient 4. Une fois par tour, lorsqu'une attaque impliquant un monstre que vous contrôlez et un monstre de votre adversaire est déclarée : vous pouvez cibler le monstre que vous contrôlez ; jusqu'à la fin de la Battle Phase, il gagne 600 ATK.",
+  "defense_power": "900",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "2",
+  "pen_scale_r": "2",
+  "sales_at": "2015/08/06",
+  "species_id": 11,
+  "starchip": "5"
+}

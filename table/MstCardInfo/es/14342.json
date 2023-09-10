@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 14342,
+  "card_name": "Dragón Antelia Oscuro",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Una vez por turno: puedes seleccionar 1 monstruo boca arriba que controle tu adversario; hasta el final de este turno, divide a la mitad su ATK original (aun si esta carta deja el Campo).",
+  "card_text": "2 monstruos de Nivel 7$NSi puedes hacer una Invocación por Péndulo de Nivel 7, puedes Invocar por Péndulo esta carta boca arriba en tu Deck Extra. Una vez por turno (Efecto Rápido): puedes desacoplar 1 material de esta carta, y después seleccionar 1 monstruo boca arriba que controle tu adversario; hasta el final de este turno, su ATK se convierte en la mitad de su ATK en este momento y, si lo hace, esta carta gana esa pérdida de ATK. Si esta carta en la Zona de Monstruos es destruida en batalla o por efecto de carta: puedes poner esta carta en tu Zona de Péndulo.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 34,
+  "pen_scale_l": "10",
+  "pen_scale_r": "10",
+  "sales_at": "2020/03/19",
+  "species_id": 1,
+  "starchip": "7"
+}

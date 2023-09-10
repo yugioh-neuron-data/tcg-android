@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 5,
+  "card_id": 12769,
+  "card_name": "Metrognomo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Uma vez por turno: você pode escolher 1 outro card em uma Zona de Pêndulo; até o final deste turno, a Escala de Pêndulo deste card se torna igual à desse card.",
+  "card_text": "Enquanto você tiver 2 cards com a mesma Escala de Pêndulo nas suas Zonas de Pêndulo, este card ganha ATK e DEF igual à Escala de Pêndulo x 100 e pode atacar diretamente seu oponente. Se este card causar dano de batalha ao seu oponente em um ataque direto: destrua todos os cards nas Zonas de Pêndulo.",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "4",
+  "pen_scale_r": "4",
+  "sales_at": "2017/02/09",
+  "species_id": 17,
+  "starchip": "4"
+}

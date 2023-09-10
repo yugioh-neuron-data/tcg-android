@@ -1,0 +1,956 @@
+[
+  {
+    "card_count": 1,
+    "card_id": 11301,
+    "card_image_id": 1,
+    "card_number": "CORE-DE090",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11307,
+    "card_image_id": 1,
+    "card_number": "CORE-DE091",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11331,
+    "card_image_id": 1,
+    "card_number": "CORE-DE093",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11453,
+    "card_image_id": 1,
+    "card_number": "CORE-DE092",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 11618,
+    "card_image_id": 1,
+    "card_number": "CORE-DE094",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 11640,
+    "card_image_id": 1,
+    "card_number": "CORE-DE095",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 11658,
+    "card_image_id": 1,
+    "card_number": "CORE-DE096",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11659,
+    "card_image_id": 1,
+    "card_number": "CORE-DE097",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11660,
+    "card_image_id": 1,
+    "card_number": "CORE-DE098",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 11662,
+    "card_image_id": 1,
+    "card_number": "CORE-DE099",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11785,
+    "card_image_id": 1,
+    "card_number": "CORE-DE001",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11786,
+    "card_image_id": 1,
+    "card_number": "CORE-DE002",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11787,
+    "card_image_id": 1,
+    "card_number": "CORE-DE003",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 11788,
+    "card_image_id": 1,
+    "card_number": "CORE-DE004",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 11789,
+    "card_image_id": 1,
+    "card_number": "CORE-DE005",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11790,
+    "card_image_id": 1,
+    "card_number": "CORE-DE006",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11791,
+    "card_image_id": 1,
+    "card_number": "CORE-DE007",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11792,
+    "card_image_id": 1,
+    "card_number": "CORE-DE008",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11793,
+    "card_image_id": 1,
+    "card_number": "CORE-DE009",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11794,
+    "card_image_id": 1,
+    "card_number": "CORE-DE010",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 11795,
+    "card_image_id": 1,
+    "card_number": "CORE-DE011",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11796,
+    "card_image_id": 1,
+    "card_number": "CORE-DE012",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11797,
+    "card_image_id": 1,
+    "card_number": "CORE-DE013",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11798,
+    "card_image_id": 1,
+    "card_number": "CORE-DE014",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11799,
+    "card_image_id": 1,
+    "card_number": "CORE-DE015",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11800,
+    "card_image_id": 1,
+    "card_number": "CORE-DE016",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11801,
+    "card_image_id": 1,
+    "card_number": "CORE-DE017",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11802,
+    "card_image_id": 1,
+    "card_number": "CORE-DE018",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11803,
+    "card_image_id": 1,
+    "card_number": "CORE-DE019",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11804,
+    "card_image_id": 1,
+    "card_number": "CORE-DE020",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 11805,
+    "card_image_id": 1,
+    "card_number": "CORE-DE021",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 11806,
+    "card_image_id": 1,
+    "card_number": "CORE-DE022",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11807,
+    "card_image_id": 1,
+    "card_number": "CORE-DE023",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 11808,
+    "card_image_id": 1,
+    "card_number": "CORE-DE024",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11809,
+    "card_image_id": 1,
+    "card_number": "CORE-DE025",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 11810,
+    "card_image_id": 1,
+    "card_number": "CORE-DE026",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11811,
+    "card_image_id": 1,
+    "card_number": "CORE-DE027",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 11812,
+    "card_image_id": 1,
+    "card_number": "CORE-DE028",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 11813,
+    "card_image_id": 1,
+    "card_number": "CORE-DE029",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11814,
+    "card_image_id": 1,
+    "card_number": "CORE-DE030",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11815,
+    "card_image_id": 1,
+    "card_number": "CORE-DE031",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11816,
+    "card_image_id": 1,
+    "card_number": "CORE-DE032",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11817,
+    "card_image_id": 1,
+    "card_number": "CORE-DE033",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11818,
+    "card_image_id": 1,
+    "card_number": "CORE-DE034",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 11819,
+    "card_image_id": 1,
+    "card_number": "CORE-DE035",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11820,
+    "card_image_id": 1,
+    "card_number": "CORE-DE036",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 11821,
+    "card_image_id": 1,
+    "card_number": "CORE-DE037",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11822,
+    "card_image_id": 1,
+    "card_number": "CORE-DE038",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11823,
+    "card_image_id": 1,
+    "card_number": "CORE-DE039",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 11824,
+    "card_image_id": 1,
+    "card_number": "CORE-DE040",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11825,
+    "card_image_id": 1,
+    "card_number": "CORE-DE041",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11826,
+    "card_image_id": 1,
+    "card_number": "CORE-DE042",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 11827,
+    "card_image_id": 1,
+    "card_number": "CORE-DE043",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11828,
+    "card_image_id": 1,
+    "card_number": "CORE-DE044",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11829,
+    "card_image_id": 1,
+    "card_number": "CORE-DE045",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11830,
+    "card_image_id": 1,
+    "card_number": "CORE-DE046",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11831,
+    "card_image_id": 1,
+    "card_number": "CORE-DE047",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 11832,
+    "card_image_id": 1,
+    "card_number": "CORE-DE048",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 11832,
+    "card_image_id": 1,
+    "card_number": "CORE-DE048",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 11833,
+    "card_image_id": 1,
+    "card_number": "CORE-DE049",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 11833,
+    "card_image_id": 1,
+    "card_number": "CORE-DE049",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 11834,
+    "card_image_id": 1,
+    "card_number": "CORE-DE050",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 11834,
+    "card_image_id": 1,
+    "card_number": "CORE-DE050",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 11835,
+    "card_image_id": 1,
+    "card_number": "CORE-DE051",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 11835,
+    "card_image_id": 1,
+    "card_number": "CORE-DE051",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 11836,
+    "card_image_id": 1,
+    "card_number": "CORE-DE052",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11837,
+    "card_image_id": 1,
+    "card_number": "CORE-DE053",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11838,
+    "card_image_id": 1,
+    "card_number": "CORE-DE054",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 11838,
+    "card_image_id": 1,
+    "card_number": "CORE-DE054",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 11838,
+    "card_image_id": 1,
+    "card_number": "CORE-DE054",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 7
+  },
+  {
+    "card_count": 1,
+    "card_id": 11839,
+    "card_image_id": 1,
+    "card_number": "CORE-DE055",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11840,
+    "card_image_id": 1,
+    "card_number": "CORE-DE056",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 11841,
+    "card_image_id": 1,
+    "card_number": "CORE-DE057",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11842,
+    "card_image_id": 1,
+    "card_number": "CORE-DE058",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11843,
+    "card_image_id": 1,
+    "card_number": "CORE-DE059",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 11844,
+    "card_image_id": 1,
+    "card_number": "CORE-DE060",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 11845,
+    "card_image_id": 1,
+    "card_number": "CORE-DE061",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11846,
+    "card_image_id": 1,
+    "card_number": "CORE-DE062",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11847,
+    "card_image_id": 1,
+    "card_number": "CORE-DE063",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 11848,
+    "card_image_id": 1,
+    "card_number": "CORE-DE064",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11849,
+    "card_image_id": 1,
+    "card_number": "CORE-DE065",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 11850,
+    "card_image_id": 1,
+    "card_number": "CORE-DE066",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11851,
+    "card_image_id": 1,
+    "card_number": "CORE-DE067",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11852,
+    "card_image_id": 1,
+    "card_number": "CORE-DE068",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11853,
+    "card_image_id": 1,
+    "card_number": "CORE-DE069",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11854,
+    "card_image_id": 1,
+    "card_number": "CORE-DE070",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11855,
+    "card_image_id": 1,
+    "card_number": "CORE-DE071",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11856,
+    "card_image_id": 1,
+    "card_number": "CORE-DE072",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11857,
+    "card_image_id": 1,
+    "card_number": "CORE-DE073",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11858,
+    "card_image_id": 1,
+    "card_number": "CORE-DE074",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11859,
+    "card_image_id": 1,
+    "card_number": "CORE-DE075",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 11860,
+    "card_image_id": 1,
+    "card_number": "CORE-DE076",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 11861,
+    "card_image_id": 1,
+    "card_number": "CORE-DE077",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11862,
+    "card_image_id": 1,
+    "card_number": "CORE-DE078",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11863,
+    "card_image_id": 1,
+    "card_number": "CORE-DE079",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11864,
+    "card_image_id": 1,
+    "card_number": "CORE-DE080",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12031,
+    "card_image_id": 1,
+    "card_number": "CORE-DE000",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 12032,
+    "card_image_id": 1,
+    "card_number": "CORE-DE081",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12033,
+    "card_image_id": 1,
+    "card_number": "CORE-DE082",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 12034,
+    "card_image_id": 1,
+    "card_number": "CORE-DE083",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 12035,
+    "card_image_id": 1,
+    "card_number": "CORE-DE084",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 12036,
+    "card_image_id": 1,
+    "card_number": "CORE-DE085",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 12037,
+    "card_image_id": 1,
+    "card_number": "CORE-DE086",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 12038,
+    "card_image_id": 1,
+    "card_number": "CORE-DE087",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 12039,
+    "card_image_id": 1,
+    "card_number": "CORE-DE088",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 12040,
+    "card_image_id": 1,
+    "card_number": "CORE-DE089",
+    "language": "de",
+    "pack_id": "21114006",
+    "rarity_id": 1
+  }
+]

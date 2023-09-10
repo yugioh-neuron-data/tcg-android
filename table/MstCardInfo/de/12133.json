@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 3,
+  "card_id": 12133,
+  "card_name": "Dinonebel Plesios",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Einmal, solange diese Karte in deiner Pendelzone liegt, kannst du einen aktivierten Karteneffekt annullieren, der eine oder mehr andere „Dinonebel“-Karten, die du kontrollierst, als Ziel wählt, dann zerstöre diese Karte.",
+  "card_text": "Alle offenen Monster, die dein Gegner kontrolliert, verlieren 100 ATK und DEF für jede „Dinonebel“-Karte, die du kontrollierst.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "6",
+  "pen_scale_r": "6",
+  "sales_at": "2016/01/14",
+  "species_id": 7,
+  "starchip": "4"
+}

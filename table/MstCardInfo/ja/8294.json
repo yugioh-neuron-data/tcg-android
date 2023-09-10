@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 1,
+  "card_id": 8294,
+  "card_name": "サンライト・ユニコーン",
+  "card_name_label": "サンライト・ユニコーン",
+  "card_name_search": "さんらいとゆにこーん",
+  "card_pen_effect": "",
+  "card_text": "１ターンに１度、自分のメインフェイズ時に発動する事ができる。自分のデッキの一番上のカードをめくり、それが装備魔法カードだった場合手札に加える。違った場合、自分のデッキの一番下に戻す。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/04/18",
+  "species_id": 11,
+  "starchip": "4"
+}

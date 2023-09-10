@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 9766,
+  "card_name": "クロス・アタック",
+  "card_name_label": "クロス・アタック",
+  "card_name_search": "くろすあたっく",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上に表側攻撃表示で存在する、同じ攻撃力を持つモンスター２体を選択して発動する。このターン、選択したモンスター１体は相手プレイヤーに直接攻撃する事ができる。もう１体のモンスターは攻撃する事ができない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/07/16",
+  "species_id": 24,
+  "starchip": "0"
+}

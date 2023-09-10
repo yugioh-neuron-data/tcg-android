@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 5,
+  "card_id": 9102,
+  "card_name": "スクラップ・サーチャー",
+  "card_name_label": "スクラップ・サーチャー",
+  "card_name_search": "すくらっぷさーちゃー",
+  "card_pen_effect": "",
+  "card_text": "このカードが墓地に存在し、自分フィールド上に存在する「スクラップ・サーチャー」以外の「スクラップ」と名のついたモンスターが破壊され墓地へ送られた時、このカードを墓地から特殊召喚する事ができる。このカードが特殊召喚に成功した時、「スクラップ」と名のついたモンスター以外の自分フィールド上に表側表示で存在するモンスターを全て破壊する。",
+  "defense_power": "300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/07/17",
+  "species_id": 16,
+  "starchip": "1"
+}

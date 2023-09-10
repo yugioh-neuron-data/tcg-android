@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15744,
+  "card_name": "Bewaffneter Drachenblitz",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls ein oder mehr „Bewaffnete/r Drache“-Monster, die du kontrollierst, durch einen Karteneffekt zerstört würden kannst du stattdessen diese Karte auf den Friedhof legen. Du kannst 1 „Bewaffnete/r Drache“-Monster wählen, das du kontrollierst, und dann 1 dieser Effekte aktivieren;$N●Es erhält ATK in Höhe seiner Stufe x 100 (selbst falls diese Karte das Spielfeld verlässt).$N●Füge deiner Hand 1 „Bewaffnete/r Drache“-Monster mit gleicher oder niedrigerer Stufe von deinem Friedhof hinzu.$NDu kannst diesen Effekt von „Bewaffneter Drachenblitz“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/02/04",
+  "species_id": 24,
+  "starchip": "0"
+}

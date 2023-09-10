@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 4946,
+  "card_name": "白衣の天使",
+  "card_name_label": "はくいのてんし",
+  "card_name_search": "はくいのてんし",
+  "card_pen_effect": "",
+  "card_text": "自分が戦闘またはカードの効果によってダメージを受けた時に発動する事ができる。自分は１０００ライフポイント回復する。自分の墓地に「白衣の天使」が存在する場合、さらにその枚数分だけ５００ライフポイント回復する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2000/09/28",
+  "species_id": 25,
+  "starchip": "0"
+}

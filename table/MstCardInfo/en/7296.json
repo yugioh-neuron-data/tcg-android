@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 2,
+  "card_id": 7296,
+  "card_name": "Gambler of Legend",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Once per turn, you can toss a coin 3 times and apply the appropriate effect:$N●3 Heads: Destroy all monsters your opponent controls.$N●2 Heads: Discard 1 random card from your opponent's hand.$N●1 Head: Destroy 1 card you control.$N●3 Tails: Discard your entire hand.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/11/14",
+  "species_id": 18,
+  "starchip": "4"
+}

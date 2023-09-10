@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16415,
+  "card_name": "Ecole de Zone",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se il giocatore di turno Evoca esattamente 1 mostro: distruggilo e, se lo fai, il controllore di quel mostro Evoca Specialmente 1 \"Segna-Maschera\" (Incantatore/OSCURITÀ/Livello 1/ATK ?/DEF ?) sul suo Terreno, che non può attaccare direttamente, con ATK/DEF pari a quelli che il mostro distrutto aveva sul Terreno. Puoi utilizzare questo effetto di \"Ecole de Zone\" una sola volta per turno. Se questa carta scoperta lascia il Terreno, distruggi tutti i \"Segna-Maschera\" sul Terreno.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/12/02",
+  "species_id": 24,
+  "starchip": "0"
+}

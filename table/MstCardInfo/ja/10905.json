@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 5,
+  "card_id": 10905,
+  "card_name": "森羅の番人 オーク",
+  "card_name_label": "しんらのばんにん　オーク",
+  "card_name_search": "しんらのばんにんおーく",
+  "card_pen_effect": "",
+  "card_text": "１ターンに１度、自分のメインフェイズ時に発動できる。自分のデッキの上からカードを３枚までめくる。めくったカードの中に植物族モンスターがあった場合、それらのカードを全て墓地へ送る。残りのカードは好きな順番でデッキの一番下に戻す。また、デッキのこのカードがカードの効果によってめくられて墓地へ送られた場合、自分の墓地からこのカード以外の植物族モンスター１体を選択してデッキの一番上に戻す事ができる。",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/11/16",
+  "species_id": 13,
+  "starchip": "6"
+}

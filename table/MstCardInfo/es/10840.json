@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 10840,
+  "card_name": "Golpe del Alma",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si tus LP son 4000 o menos, cuando es declarado un ataque que involucre a un monstruo que controles y un monstruo de tu adversario: paga la mitad de tus LP, y después selecciona 1 monstruo boca arriba que controles; hasta el final del turno de tu adversario, éste gana ATK igual al déficit entre tus LP en este momento y 4000. Sólo puedes activar 1 \"Golpe del Alma\" por turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/01/15",
+  "species_id": 25,
+  "starchip": "0"
+}

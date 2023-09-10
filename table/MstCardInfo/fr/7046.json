@@ -1,0 +1,23 @@
+{
+  "attack_power": "2300",
+  "attribute_id": 1,
+  "card_id": 7046,
+  "card_name": "Néo-Parshath, le Paladin du Ciel",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Vous pouvez Invoquer Spécialement cette carte (depuis votre main) en Sacrifiant 1 \"Parshath le Chevalier du Ciel\". Si cette carte attaque un monstre en Position de Défense, infligez des dommages de combat perçants. Si cette carte inflige des dommages de combat à votre adversaire : piochez 1 carte. Tant que \"Le Sanctuaire Céleste\" est sur le Terrain et que vos LP sont supérieurs à ceux de votre adversaire, cette carte gagne une ATK/DEF égales à la différence en LP.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/02/24",
+  "species_id": 17,
+  "starchip": "7"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1100",
+  "attribute_id": 2,
+  "card_id": 13137,
+  "card_name": "Actor del Abismo - Telonero",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Si no controlas monstruos: puedes Invocar esta carta de Modo Especial desde tu Zona de Péndulo. Sólo puedes usar este efecto de \"Actor del Abismo - Telonero\" una vez por Duelo.",
+  "card_text": "Gana 1100 ATK si no controlas otros monstruos. Una vez por turno: puedes mandar al Cementerio 1 Mágica \"Guión de Abismo\" en tu Deck; añade a tu mano 1 Monstruo de Péndulo \"Actor del Abismo\" boca arriba en tu Deck Extra.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "7",
+  "pen_scale_r": "7",
+  "sales_at": "2017/07/06",
+  "species_id": 3,
+  "starchip": "4"
+}

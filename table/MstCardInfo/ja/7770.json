@@ -1,0 +1,23 @@
+{
+  "attack_power": "2700",
+  "attribute_id": 2,
+  "card_id": 7770,
+  "card_name": "ダーク・シムルグ",
+  "card_name_label": "ダーク・シムルグ",
+  "card_name_search": "だーくしむるぐ",
+  "card_pen_effect": "",
+  "card_text": "①：このカードが手札に存在する場合、自分の墓地から闇属性と風属性のモンスターを１体ずつ除外して発動できる。このカードを特殊召喚する。②：このカードが墓地に存在する場合、手札から闇属性と風属性のモンスターを１体ずつ除外して発動できる。このカードを特殊召喚する。③：このカードがモンスターゾーンに存在する限り、このカードの属性は「風」としても扱う。④：このカードがモンスターゾーンに存在する限り、相手はカードをセットできない。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/01/21",
+  "species_id": 16,
+  "starchip": "7"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 18499,
+  "card_name": "Astraloud Feroz",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"Visas Starfrost\" + 1 monstruo con 1500 ATK/2100 DEF$NDebe ser Invocado de Modo Especial (desde tu Deck Extra) desterrando de tu Campo y/o Cementerio las cartas mencionadas arriba. No puede ser destruido en batalla. Si esta carta es Invocada de Modo Especial: puedes seleccionar otro monstruo en el Campo; destrúyelo y, si lo haces, esta carta gana ATK igual a la mitad del ATK o DEF original de ese monstruo (lo que sea mayor).",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/05/04",
+  "species_id": 17,
+  "starchip": "8"
+}

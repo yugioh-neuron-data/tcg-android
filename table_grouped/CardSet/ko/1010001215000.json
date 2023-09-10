@@ -1,0 +1,893 @@
+[
+  {
+    "card_count": 1,
+    "card_id": 4007,
+    "card_image_id": 1,
+    "card_number": "AC02-KR000",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 4809,
+    "card_image_id": 1,
+    "card_number": "AC02-KR003",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4809,
+    "card_image_id": 1,
+    "card_number": "AC02-KR003",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 9
+  },
+  {
+    "card_count": 1,
+    "card_id": 6768,
+    "card_image_id": 1,
+    "card_number": "AC02-KR049",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 6768,
+    "card_image_id": 1,
+    "card_number": "AC02-KR049",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 6836,
+    "card_image_id": 1,
+    "card_number": "AC02-KR017",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 6836,
+    "card_image_id": 1,
+    "card_number": "AC02-KR017",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 9
+  },
+  {
+    "card_count": 1,
+    "card_id": 6837,
+    "card_image_id": 1,
+    "card_number": "AC02-KR018",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 6837,
+    "card_image_id": 1,
+    "card_number": "AC02-KR018",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 13010,
+    "card_image_id": 1,
+    "card_number": "AC02-KR047",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13010,
+    "card_image_id": 1,
+    "card_number": "AC02-KR047",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 9
+  },
+  {
+    "card_count": 1,
+    "card_id": 14607,
+    "card_image_id": 1,
+    "card_number": "AC02-KR048",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14607,
+    "card_image_id": 1,
+    "card_number": "AC02-KR048",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 9
+  },
+  {
+    "card_count": 1,
+    "card_id": 17620,
+    "card_image_id": 1,
+    "card_number": "AC02-KR001",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17620,
+    "card_image_id": 1,
+    "card_number": "AC02-KR001",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 17621,
+    "card_image_id": 1,
+    "card_number": "AC02-KR002",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17621,
+    "card_image_id": 1,
+    "card_number": "AC02-KR002",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 9
+  },
+  {
+    "card_count": 1,
+    "card_id": 17622,
+    "card_image_id": 1,
+    "card_number": "AC02-KR004",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17622,
+    "card_image_id": 1,
+    "card_number": "AC02-KR004",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 9
+  },
+  {
+    "card_count": 1,
+    "card_id": 17623,
+    "card_image_id": 1,
+    "card_number": "AC02-KR005",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17623,
+    "card_image_id": 1,
+    "card_number": "AC02-KR005",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 9
+  },
+  {
+    "card_count": 1,
+    "card_id": 17624,
+    "card_image_id": 1,
+    "card_number": "AC02-KR006",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17624,
+    "card_image_id": 1,
+    "card_number": "AC02-KR006",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 9
+  },
+  {
+    "card_count": 1,
+    "card_id": 17625,
+    "card_image_id": 1,
+    "card_number": "AC02-KR007",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17625,
+    "card_image_id": 1,
+    "card_number": "AC02-KR007",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 17626,
+    "card_image_id": 1,
+    "card_number": "AC02-KR008",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17626,
+    "card_image_id": 1,
+    "card_number": "AC02-KR008",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 9
+  },
+  {
+    "card_count": 1,
+    "card_id": 17627,
+    "card_image_id": 1,
+    "card_number": "AC02-KR009",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17627,
+    "card_image_id": 1,
+    "card_number": "AC02-KR009",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 9
+  },
+  {
+    "card_count": 1,
+    "card_id": 17628,
+    "card_image_id": 1,
+    "card_number": "AC02-KR010",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17628,
+    "card_image_id": 1,
+    "card_number": "AC02-KR010",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 17629,
+    "card_image_id": 1,
+    "card_number": "AC02-KR011",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17629,
+    "card_image_id": 1,
+    "card_number": "AC02-KR011",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 9
+  },
+  {
+    "card_count": 1,
+    "card_id": 17630,
+    "card_image_id": 1,
+    "card_number": "AC02-KR012",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17630,
+    "card_image_id": 1,
+    "card_number": "AC02-KR012",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 9
+  },
+  {
+    "card_count": 1,
+    "card_id": 17631,
+    "card_image_id": 1,
+    "card_number": "AC02-KR013",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17631,
+    "card_image_id": 1,
+    "card_number": "AC02-KR013",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 9
+  },
+  {
+    "card_count": 1,
+    "card_id": 17632,
+    "card_image_id": 1,
+    "card_number": "AC02-KR014",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17632,
+    "card_image_id": 1,
+    "card_number": "AC02-KR014",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 9
+  },
+  {
+    "card_count": 1,
+    "card_id": 17633,
+    "card_image_id": 1,
+    "card_number": "AC02-KR015",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17633,
+    "card_image_id": 1,
+    "card_number": "AC02-KR015",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 9
+  },
+  {
+    "card_count": 1,
+    "card_id": 17634,
+    "card_image_id": 1,
+    "card_number": "AC02-KR016",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17634,
+    "card_image_id": 1,
+    "card_number": "AC02-KR016",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 17635,
+    "card_image_id": 1,
+    "card_number": "AC02-KR019",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17635,
+    "card_image_id": 1,
+    "card_number": "AC02-KR019",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 9
+  },
+  {
+    "card_count": 1,
+    "card_id": 17636,
+    "card_image_id": 1,
+    "card_number": "AC02-KR020",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17636,
+    "card_image_id": 1,
+    "card_number": "AC02-KR020",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 9
+  },
+  {
+    "card_count": 1,
+    "card_id": 17637,
+    "card_image_id": 1,
+    "card_number": "AC02-KR021",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17637,
+    "card_image_id": 1,
+    "card_number": "AC02-KR021",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 17638,
+    "card_image_id": 1,
+    "card_number": "AC02-KR022",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17638,
+    "card_image_id": 1,
+    "card_number": "AC02-KR022",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 9
+  },
+  {
+    "card_count": 1,
+    "card_id": 17639,
+    "card_image_id": 1,
+    "card_number": "AC02-KR023",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17639,
+    "card_image_id": 1,
+    "card_number": "AC02-KR023",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 9
+  },
+  {
+    "card_count": 1,
+    "card_id": 17640,
+    "card_image_id": 1,
+    "card_number": "AC02-KR024",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17640,
+    "card_image_id": 1,
+    "card_number": "AC02-KR024",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 9
+  },
+  {
+    "card_count": 1,
+    "card_id": 17641,
+    "card_image_id": 1,
+    "card_number": "AC02-KR025",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17641,
+    "card_image_id": 1,
+    "card_number": "AC02-KR025",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 9
+  },
+  {
+    "card_count": 1,
+    "card_id": 17642,
+    "card_image_id": 1,
+    "card_number": "AC02-KR026",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17642,
+    "card_image_id": 1,
+    "card_number": "AC02-KR026",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 17643,
+    "card_image_id": 1,
+    "card_number": "AC02-KR027",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17643,
+    "card_image_id": 1,
+    "card_number": "AC02-KR027",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 9
+  },
+  {
+    "card_count": 1,
+    "card_id": 17644,
+    "card_image_id": 1,
+    "card_number": "AC02-KR028",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17644,
+    "card_image_id": 1,
+    "card_number": "AC02-KR028",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 9
+  },
+  {
+    "card_count": 1,
+    "card_id": 17645,
+    "card_image_id": 1,
+    "card_number": "AC02-KR029",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17645,
+    "card_image_id": 1,
+    "card_number": "AC02-KR029",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 17646,
+    "card_image_id": 1,
+    "card_number": "AC02-KR030",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17646,
+    "card_image_id": 1,
+    "card_number": "AC02-KR030",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 9
+  },
+  {
+    "card_count": 1,
+    "card_id": 17647,
+    "card_image_id": 1,
+    "card_number": "AC02-KR031",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17647,
+    "card_image_id": 1,
+    "card_number": "AC02-KR031",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 9
+  },
+  {
+    "card_count": 1,
+    "card_id": 17648,
+    "card_image_id": 1,
+    "card_number": "AC02-KR032",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17648,
+    "card_image_id": 1,
+    "card_number": "AC02-KR032",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 9
+  },
+  {
+    "card_count": 1,
+    "card_id": 17649,
+    "card_image_id": 1,
+    "card_number": "AC02-KR033",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17649,
+    "card_image_id": 1,
+    "card_number": "AC02-KR033",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 17650,
+    "card_image_id": 1,
+    "card_number": "AC02-KR034",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17650,
+    "card_image_id": 1,
+    "card_number": "AC02-KR034",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 9
+  },
+  {
+    "card_count": 1,
+    "card_id": 17651,
+    "card_image_id": 1,
+    "card_number": "AC02-KR035",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17651,
+    "card_image_id": 1,
+    "card_number": "AC02-KR035",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 9
+  },
+  {
+    "card_count": 1,
+    "card_id": 17652,
+    "card_image_id": 1,
+    "card_number": "AC02-KR036",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17652,
+    "card_image_id": 1,
+    "card_number": "AC02-KR036",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 9
+  },
+  {
+    "card_count": 1,
+    "card_id": 17653,
+    "card_image_id": 1,
+    "card_number": "AC02-KR037",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17653,
+    "card_image_id": 1,
+    "card_number": "AC02-KR037",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 17654,
+    "card_image_id": 1,
+    "card_number": "AC02-KR038",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17654,
+    "card_image_id": 1,
+    "card_number": "AC02-KR038",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 9
+  },
+  {
+    "card_count": 1,
+    "card_id": 17655,
+    "card_image_id": 1,
+    "card_number": "AC02-KR039",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17655,
+    "card_image_id": 1,
+    "card_number": "AC02-KR039",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 9
+  },
+  {
+    "card_count": 1,
+    "card_id": 17656,
+    "card_image_id": 1,
+    "card_number": "AC02-KR040",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17656,
+    "card_image_id": 1,
+    "card_number": "AC02-KR040",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 9
+  },
+  {
+    "card_count": 1,
+    "card_id": 17657,
+    "card_image_id": 1,
+    "card_number": "AC02-KR041",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17657,
+    "card_image_id": 1,
+    "card_number": "AC02-KR041",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 9
+  },
+  {
+    "card_count": 1,
+    "card_id": 17658,
+    "card_image_id": 1,
+    "card_number": "AC02-KR042",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17658,
+    "card_image_id": 1,
+    "card_number": "AC02-KR042",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 9
+  },
+  {
+    "card_count": 1,
+    "card_id": 17659,
+    "card_image_id": 1,
+    "card_number": "AC02-KR043",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17659,
+    "card_image_id": 1,
+    "card_number": "AC02-KR043",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 9
+  },
+  {
+    "card_count": 1,
+    "card_id": 17660,
+    "card_image_id": 1,
+    "card_number": "AC02-KR044",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17660,
+    "card_image_id": 1,
+    "card_number": "AC02-KR044",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 17661,
+    "card_image_id": 1,
+    "card_number": "AC02-KR045",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17661,
+    "card_image_id": 1,
+    "card_number": "AC02-KR045",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 17662,
+    "card_image_id": 1,
+    "card_number": "AC02-KR046",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17662,
+    "card_image_id": 1,
+    "card_number": "AC02-KR046",
+    "language": "ko",
+    "pack_id": "1010001215000",
+    "rarity_id": 9
+  }
+]

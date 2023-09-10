@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 2,
+  "card_id": 14739,
+  "card_name": "D/D Male",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Una volta, mentre questa carta è nella tua Zona Pendulum, quando il tuo avversario Evoca Pendulum uno o più mostri (eccetto durante il Damage Step): puoi attivare questo effetto; in questo turno, quei mostri Evocati Pendulum non possono attaccare, inoltre i loro effetti sono annullati.",
+  "card_text": "Non può attaccare a meno che tu controlli un altro mostro \"D/D\". Durante la Main Phase del tuo avversario (Effetto Rapido): puoi scegliere come bersaglio 1 mostro Evocato Pendulum scoperto controllato dal tuo avversario; annulla gli effetti di quel mostro scoperto fino alla fine di questo turno. Puoi utilizzare questo effetto di \"D/D Male\" una sola volta per turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "8",
+  "pen_scale_r": "8",
+  "sales_at": "2020/08/06",
+  "species_id": 3,
+  "starchip": "4"
+}

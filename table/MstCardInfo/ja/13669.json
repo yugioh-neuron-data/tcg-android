@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 3,
+  "card_id": 13669,
+  "card_name": "閃刀姫－シズク",
+  "card_name_label": "せんとうき－シズク",
+  "card_name_search": "せんとうきしずく",
+  "card_pen_effect": "",
+  "card_text": "水属性以外の「閃刀姫」モンスター１体$N自分は「閃刀姫－シズク」を１ターンに１度しか特殊召喚できない。①：相手フィールドのモンスターの攻撃力・守備力は、自分の墓地の魔法カードの数×１００ダウンする。②：このカードを特殊召喚したターンのエンドフェイズに発動できる。デッキから、同名カードが自分の墓地に存在しない「閃刀」魔法カード１枚を手札に加える。",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "9",
+  "linkno": "1",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/02/24",
+  "species_id": 7,
+  "starchip": ""
+}

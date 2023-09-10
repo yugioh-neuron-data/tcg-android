@@ -1,0 +1,23 @@
+{
+  "attack_power": "2200",
+  "attribute_id": 1,
+  "card_id": 8114,
+  "card_name": "ワーム・プリンス",
+  "card_name_label": "ワーム・プリンス",
+  "card_name_search": "わーむぷりんす",
+  "card_pen_effect": "",
+  "card_text": "このカードが戦闘によって相手モンスターを破壊した場合、デッキから「ワーム」と名のついた爬虫類族モンスター１体を手札に加える事ができる。エンドフェイズ時、自分フィールド上にこのカード以外の「ワーム」と名のついた爬虫類族モンスターが存在しない場合、このカードを破壊する。",
+  "defense_power": "400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/12/04",
+  "species_id": 20,
+  "starchip": "6"
+}

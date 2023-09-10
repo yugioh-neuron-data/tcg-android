@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 13067,
+  "card_name": "戒めの龍",
+  "card_name_label": "パニッシュメント・ドラグーン",
+  "card_name_search": "ぱにっしゅめんとどらぐーん",
+  "card_pen_effect": "",
+  "card_text": "このカードは通常召喚できない。除外されている自分の「ライトロード」モンスターが４種類以上の場合のみ特殊召喚できる。①：１ターンに１度、１０００LPを払って発動できる。「ライトロード」モンスター以外の、お互いの墓地のカード及び表側表示で除外されているカードを全て持ち主のデッキに戻す。この効果は相手ターンでも発動できる。②：１ターンに１度、自分の「ライトロード」モンスターの効果が発動した場合に発動する。自分のデッキの上からカードを４枚墓地へ送る。",
+  "defense_power": "2600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/04/15",
+  "species_id": 1,
+  "starchip": "8"
+}

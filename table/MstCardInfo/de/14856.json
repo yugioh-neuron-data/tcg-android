@@ -1,0 +1,23 @@
+{
+  "attack_power": "700",
+  "attribute_id": 5,
+  "card_id": 14856,
+  "card_name": "Strickschaf",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 Monster mit unterschiedlichen Namen$NFalls ein Monster als Spezialbeschwörung in eine Zone beschworen wird, auf die diese Karte zeigt: Du kannst die folgenden Effekte nacheinander ausführen, basierend auf den Kartentypen der Monster, auf die diese Karte zeigt.$N●Ritual: Ziehe 2 Karten, dann wirf 2 Karten ab.$N●Fusion: Beschwöre 1 Monster der Stufe 4 oder niedriger als Spezialbeschwörung von deinem Friedhof.$N●Synchro: Alle Monster, die du kontrollierst, erhalten 700 ATK.$N●Xyz: Alle Monster, die dein Gegner kontrolliert, verlieren 700 ATK.$NDu kannst diesen Effekt von „Strickschaf“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "13",
+  "linkno": "2",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/01/30",
+  "species_id": 11,
+  "starchip": ""
+}

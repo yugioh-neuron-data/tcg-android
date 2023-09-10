@@ -1,0 +1,23 @@
+{
+  "attack_power": "-1",
+  "attribute_id": 1,
+  "card_id": 14486,
+  "card_name": "Éternité, Demoiselle de Fortune",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Syntoniseur + 1+ monstre non-Syntoniseur Magicien$NL'ATK/DEF de cette carte deviennent son Niveau x 400. Une fois par tour, durant votre Standby Phase : augmentez le Niveau de cette carte de 1 (max. 12), puis, vous pouvez bannir 1 monstre face recto contrôlé par votre adversaire. Durant la End Phase de votre adversaire, si cette carte est dans votre Cimetière : vous pouvez bannir 1 autre monstre Magicien depuis votre Cimetière ; Invoquez Spécialement cette carte. Vous ne pouvez utiliser cet effet de \"Éternité, Demoiselle de Fortune\" qu'une fois par tour.",
+  "defense_power": "-1",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/07/26",
+  "species_id": 18,
+  "starchip": "7"
+}

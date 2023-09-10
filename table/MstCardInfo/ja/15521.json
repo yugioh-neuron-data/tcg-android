@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 5,
+  "card_id": 15521,
+  "card_name": "電脳堺甲－甲々",
+  "card_name_label": "でんのうかいこう－ジャジャ",
+  "card_name_search": "でんのうかいこうじゃじゃ",
+  "card_pen_effect": "",
+  "card_text": "レベル３モンスター×２体以上$N①：１ターンに１度、このカードのX素材を１つ取り除き、自分フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターは相手ターン終了時まで戦闘では破壊されない。②：１ターンに１度、元々の種族・属性が同じモンスターが自分の墓地に２体以上存在し、このカードが相手モンスターと戦闘を行ったダメージ計算後に発動できる。その相手モンスターを除外する。",
+  "defense_power": "2400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/08/08",
+  "species_id": 26,
+  "starchip": "3"
+}

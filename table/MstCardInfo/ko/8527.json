@@ -1,0 +1,23 @@
+{
+  "attack_power": "2200",
+  "attribute_id": 4,
+  "card_id": 8527,
+  "card_name": "플레임벨 데스거너",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드는 특수 소환할 수 없다. 자신 필드 위에 존재하는 \"플레임벨\"이라는 이름이 붙은 몬스터 1장을 릴리스했을 경우만 일반 소환할 수 있다. 1턴에 1번, 자신의 묘지에 존재하는 수비력 200의 몬스터 1장을 게임에서 제외하는 것으로, 제외한 몬스터의 공격력만큼 데미지를 상대 라이프에 준다.",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/11/18",
+  "species_id": 4,
+  "starchip": "6"
+}

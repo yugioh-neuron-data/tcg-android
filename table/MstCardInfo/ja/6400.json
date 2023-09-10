@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 2,
+  "card_id": 6400,
+  "card_name": "召喚僧サモンプリースト",
+  "card_name_label": "しょうかんそうサモンプリースト",
+  "card_name_search": "しょうかんそうさもんぷりーすと",
+  "card_pen_effect": "",
+  "card_text": "①：このカードが召喚・反転召喚した場合に発動する。このカードを守備表示にする。$N②：このカードがモンスターゾーンに存在する限り、このカードはリリースできない。$N③：１ターンに１度、手札から魔法カード１枚を捨てて発動できる。デッキからレベル４モンスター１体を特殊召喚する。この効果で特殊召喚したモンスターはこのターン攻撃できない。",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/05/21",
+  "species_id": 18,
+  "starchip": "4"
+}

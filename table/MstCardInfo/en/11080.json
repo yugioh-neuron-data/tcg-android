@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 2,
+  "card_id": 11080,
+  "card_name": "Ghostrick Socuteboss",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 Level 2 monsters$NWhile you control another \"Ghostrick\" monster, your opponent's monsters cannot target this card for attacks. Once per turn: You can detach 1 material from this card, then target 1 monster on the field, with ATK less than or equal to the combined ATK of all \"Ghostrick\" monsters on the field; destroy it, and if you do, that Monster Card Zone cannot be used as long as you control a \"Ghostrick\" monster.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/05/16",
+  "species_id": 18,
+  "starchip": "2"
+}

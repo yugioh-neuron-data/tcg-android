@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15951,
+  "card_name": "Épreuve du Rocher de Guerre",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Vous ne pouvez contrôler qu'1 \"Épreuve du Rocher de Guerre\". Lorsque cette carte est activée : placez 3 Compteurs sur elle. Lorsque votre monstre \"Rocher de Guerre\" détruit un monstre de l'adversaire au combat et l'envoie à son Cimetière : vous pouvez retirer 1 Compteur de cette carte, et si vous le faites, piochez 1 carte. Si le dernier Compteur a été retiré par cet effet, envoyez cette carte au Cimetière.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/02/04",
+  "species_id": 24,
+  "starchip": "0"
+}

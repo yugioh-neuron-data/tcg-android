@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 5,
+  "card_id": 7874,
+  "card_name": "D·모바폰",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "①: 이 카드는 표시 형식에 따라 이하의 효과를 얻는다.$N●공격 표시: 1턴에 1번, 자신 메인 페이즈에 발동할 수 있다. 주사위를 1회 던져, 나온 눈의 수만큼 자신의 덱 위에서 카드를 넘긴다. 그 중에서 레벨 4 이하의 \"D(디포머)\" 몬스터 1장을 골라 소환 조건을 무시하여 특수 소환하고, 나머지를 덱으로 되돌린다.$N●수비 표시: 1턴에 1번, 자신 메인 페이즈에 발동할 수 있다. 주사위를 1회 던져, 나온 눈의 수만큼 자신의 덱 위에서 카드를 확인한다.",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/03/05",
+  "species_id": 7,
+  "starchip": "1"
+}

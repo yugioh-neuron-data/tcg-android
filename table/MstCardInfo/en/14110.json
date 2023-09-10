@@ -1,0 +1,23 @@
+{
+  "attack_power": "2200",
+  "attribute_id": 1,
+  "card_id": 14110,
+  "card_name": "Trickstar Band Sweet Guitar",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 \"Trickstar\" Link Monster + 1 \"Trickstar\" monster$NEffect damage inflicted to your opponent by your \"Trickstar\" Link Monster linked to this card is doubled. If your opponent takes damage by a \"Trickstar\" monster's effect: This card gains ATK equal to the damage they took. Once per turn, during the End Phase, if this card attacked this turn: The ATK gained from this effect returns to 0, then you can add 1 \"Trickstar\" monster from your GY to your hand.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/02/01",
+  "species_id": 17,
+  "starchip": "7"
+}

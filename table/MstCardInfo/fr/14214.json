@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 2,
+  "card_id": 14214,
+  "card_name": "Cavalerie des Ténèbres",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"Magicien Sombre\" + 1 monstre Guerrier$NGagne 100 ATK/DEF pour chaque Magie/Piège sur le Terrain et dans les Cimetières. Si cette carte attaque un monstre en Position de Défense, infligez des dommages de combat perçants. Lorsqu'une carte ou un effet qui cible une carte sur le Terrain est activé (Effet Rapide) : vous pouvez défausser 1 carte ; annulez l'activation, et si vous le faites, détruisez-la.",
+  "defense_power": "2300",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/04/04",
+  "species_id": 18,
+  "starchip": "8"
+}

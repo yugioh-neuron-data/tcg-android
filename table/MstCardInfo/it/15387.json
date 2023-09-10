@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 2,
+  "card_id": 15387,
+  "card_name": "Fiore Cardian di Ciliegio",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se controlli un mostro \"Fiore Cardian\" di Livello 2 o inferiore: puoi Evocare Specialmente questa carta dalla tua mano, inoltre non puoi Evocare Normalmente o Specialmente mostri per il resto di questo turno, eccetto mostri \"Fiore Cardian\". Una volta per turno: puoi offrire come Tributo 1 mostro \"Fiore Cardian\"; pesca 1 carta e, se lo fai, mostrala, poi, se è un mostro \"Fiore Cardian\", puoi prendere 1 mostro \"Fiore Cardian\" dal tuo Deck, eccetto \"Fiore Cardian di Ciliegio\" e aggiungerlo alla tua mano oppure Evocarlo Specialmente. Altrimenti, mandala la carta che hai pescato al Cimitero.",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/07/23",
+  "species_id": 15,
+  "starchip": "3"
+}

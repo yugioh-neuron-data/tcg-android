@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 1,
+  "card_id": 14447,
+  "card_name": "Performapal Turn Trooper",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "At the start of your Battle Phase: You can place 1 counter on this card (max. 2). This card gains the following effect, based on the number of counters on it.$N●1: Once per turn, when an opponent's monster declares an attack: You can negate that attack.$N●2: You can Tribute this card; banish all monsters on the field, until your opponent's 2nd End Phase.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/05/01",
+  "species_id": 15,
+  "starchip": "4"
+}

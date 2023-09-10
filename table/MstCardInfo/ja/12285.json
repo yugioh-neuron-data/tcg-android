@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 1,
+  "card_id": 12285,
+  "card_name": "月光虎",
+  "card_name_label": "ムーンライト・タイガー",
+  "card_name_search": "むーんらいとたいがー",
+  "card_pen_effect": "①：１ターンに１度、自分の墓地の「ムーンライト」モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。この効果で特殊召喚したモンスターは攻撃できず、効果は無効化され、エンドフェイズに破壊される。",
+  "card_text": "「月光虎」のモンスター効果は１ターンに１度しか使用できない。①：フィールドのこのカードが戦闘・効果で破壊された場合、自分の墓地の「ムーンライト」モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2016/01/09",
+  "species_id": 12,
+  "starchip": "3"
+}

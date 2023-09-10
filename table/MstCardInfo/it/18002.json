@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 18002,
+  "card_name": "ESTINGUERE!",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "(Questa carta viene sempre considerata come una carta \"Salvataggio-ASSO\".)$NSe controlli un mostro \"Salvataggio-ASSO\": scegli come bersaglio 1 Mostro con Effetto controllato dal tuo avversario; distruggilo, poi, se attualmente controlli \"Salvataggio-ASSO Idrante\", il tuo avversario non può attivare gli effetti di quel mostro distrutto, o dei mostri con il suo stesso nome originale, in questo turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/01/19",
+  "species_id": 25,
+  "starchip": "0"
+}

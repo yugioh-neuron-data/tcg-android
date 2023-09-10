@@ -1,0 +1,23 @@
+{
+  "attack_power": "1900",
+  "attribute_id": 5,
+  "card_id": 17612,
+  "card_name": "アマゾネスの戦士長",
+  "card_name_label": "アマゾネスのせんしちょう",
+  "card_name_search": "あまぞねすのせんしちょう",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドのモンスターが、存在しない場合または「アマゾネス」モンスターのみの場合に発動できる。このカードを手札から特殊召喚する。②：このカードが召喚・特殊召喚に成功した場合に発動できる。デッキから「アマゾネス」魔法・罠カードまたは「融合」１枚を選んで自分フィールドにセットする。このターン、自分は「アマゾネス」モンスターでしか攻撃できない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/05/21",
+  "species_id": 15,
+  "starchip": "5"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 4,
+  "card_id": 12949,
+  "card_name": "Petardo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante el turno de cualquier jugador: puedes descartar esta carta; inflige 1000 puntos de daño a tu adversario y, si lo haces, sáltate tu próxima Draw Phase. Sólo puedes usar este efecto de \"Petardo\" una vez por turno. Cada vez que tu adversario recibe daño de efecto, pon 1 Contador en esta carta. Una vez por turno, durante la End Phase: retira de esta carta todos los Contadores que fueron puestos por este efecto y, si lo haces, inflige 300 puntos de daño a tu adversario por cada uno.",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/05/04",
+  "species_id": 3,
+  "starchip": "4"
+}

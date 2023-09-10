@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 13712,
+  "card_name": "F.A. Empate",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando un monstruo del adversario declara un ataque directo: puedes Invocar de Modo Especial, desde tu Deck, 1 monstruo \"F.A.\". Sólo puedes usar este efecto de \"F.A. Empate\" una vez por turno. Una vez por batalla, si tu monstruo \"F.A.\" batalla con un monstruo del adversario, antes del cálculo de daño: puedes hacer que ambos jugadores lancen un dado de seis caras. Si tu resultado es más alto, hasta el final de este turno aumenta en 4 el Nivel de tu monstruo batallante (aún si esta carta deja el Campo). Si es más bajo, destruye tu monstruo batallante. Si es empate, ambos jugadores lanzan de nuevo.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/05/03",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 6005,
+  "card_name": "リターン・ゾンビ",
+  "card_name_label": "リターン・ゾンビ",
+  "card_name_search": "りたーんぞんび",
+  "card_pen_effect": "",
+  "card_text": "自分のスタンバイフェイズ時、このカードが墓地に存在し自分の手札が０枚だった場合、５００ライフポイントを払う事でこのカードを手札に加える。",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/03/11",
+  "species_id": 2,
+  "starchip": "4"
+}

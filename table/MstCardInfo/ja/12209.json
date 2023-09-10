@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 12209,
+  "card_name": "RR－ネクロ・ヴァルチャー",
+  "card_name_label": "レイド・ラプターズ－ネクロ・ヴァルチャー",
+  "card_name_search": "れいどらぷたーずねくろう゛ぁるちゃー",
+  "card_pen_effect": "",
+  "card_text": "①：１ターンに１度、自分フィールドの「RR」モンスター１体をリリースし、自分の墓地の「RUM」魔法カード１枚を対象として発動できる。そのカードを手札に加える。この効果の発動後、ターン終了時まで自分は「RUM」魔法カードの効果でしかモンスターをX召喚できない。",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/11/14",
+  "species_id": 16,
+  "starchip": "4"
+}

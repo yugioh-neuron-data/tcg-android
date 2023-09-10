@@ -1,0 +1,23 @@
+{
+  "attack_power": "2100",
+  "attribute_id": 2,
+  "card_id": 10129,
+  "card_name": "No.50 블랙십 오브 콘",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "레벨 4 몬스터 × 2$N1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고, 이 카드의 공격력 이하의 공격력을 가진 상대 필드 위의 몬스터 1장을 선택하고 발동할 수 있다. 선택한 몬스터를 묘지로 보내고, 상대 라이프에 1000 포인트 데미지를 준다. 이 효과를 발동하는 턴에, 이 카드는 공격할 수 없다.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/12/20",
+  "species_id": 13,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 2,
+  "card_id": 10260,
+  "card_name": "はぐれ者傭兵部隊",
+  "card_name_label": "はぐれものようへいぶたい",
+  "card_name_search": "はぐれものようへいぶたい",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上にこのカード以外のモンスターが存在しない場合、このカードをリリースして発動できる。相手フィールド上のモンスター１体を選択し、エンドフェイズ時までコントロールを得る。この効果を発動するターン、自分はモンスターを特殊召喚できず、バトルフェイズを行えない。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/07/21",
+  "species_id": 15,
+  "starchip": "4"
+}

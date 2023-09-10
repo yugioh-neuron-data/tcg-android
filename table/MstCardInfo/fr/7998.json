@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 2,
+  "card_id": 7998,
+  "card_name": "Réacteur d'Invocation ・FEU",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "La première fois qu'un (ou plusieurs) monstre(s) est (sont) Invoqué(s) sur le Terrain de votre adversaire à chaque tour, infligez 800 points de dommages à votre adversaire. Durant la Battle Phase du tour où cet effet est activé, vous pouvez annuler l'attaque d'1 monstre contrôlé par votre adversaire. Vous pouvez envoyer 1 \"Réacteur de Piège ・DU\" face recto, 1 \"Réacteur de Magie ・CIEL\" face recto et cette carte face recto que vous contrôlez au Cimetière pour Invoquer Spécialement 1 \"Forteresse Volante FEU DU CIEL\" depuis votre main, Deck ou Cimetière.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/03/03",
+  "species_id": 7,
+  "starchip": "5"
+}

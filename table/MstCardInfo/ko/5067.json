@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 1,
+  "card_id": 5067,
+  "card_name": "로켓 전사",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "①: 자신 배틀 페이즈 중, 이 카드는 전투로는 파괴되지 않으며, 이 카드의 전투로 발생하는 자신에게로의 전투 데미지는 0 이 된다. ②: 이 카드가 몬스터에 공격한 데미지 계산 후에 발동한다. 공격 대상 몬스터의 공격력은 턴 종료시까지 500 내린다.",
+  "defense_power": "1300",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/09/01",
+  "species_id": 15,
+  "starchip": "4"
+}

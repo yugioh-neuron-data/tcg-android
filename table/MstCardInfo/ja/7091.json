@@ -1,0 +1,23 @@
+{
+  "attack_power": "-1",
+  "attribute_id": 2,
+  "card_id": 7091,
+  "card_name": "邪神アバター",
+  "card_name_label": "じゃしんアバター",
+  "card_name_search": "じゃしんあばたー",
+  "card_pen_effect": "",
+  "card_text": "このカードは特殊召喚できない。自分フィールドのモンスター３体をリリースした場合のみ通常召喚できる。①：このカードが召喚に成功した場合に発動する。相手ターンで数えて２ターンの間、相手は魔法・罠カードを発動できない。②：このカードの攻撃力・守備力は、「邪神アバター」以外のフィールドの攻撃力が一番高いモンスターの攻撃力＋１００の数値になる。",
+  "defense_power": "-1",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/12/16",
+  "species_id": 3,
+  "starchip": "10"
+}

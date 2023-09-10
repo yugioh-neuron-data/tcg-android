@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 4,
+  "card_id": 6190,
+  "card_name": "화염 제왕 테스탈로스",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "①: 이 카드가 어드밴스 소환에 성공했을 경우에 발동한다. 상대의 패를 무작위로 1장 고르고 버린다. 버린 카드가 몬스터 카드였을 경우, 그 몬스터의 레벨 × 100 데미지를 상대에게 준다.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/02/07",
+  "species_id": 4,
+  "starchip": "6"
+}

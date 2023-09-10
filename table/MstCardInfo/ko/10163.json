@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 5,
+  "card_id": 10163,
+  "card_name": "백은의 스나이퍼",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드는 마법 카드로 취급하고 패에서 마법 & 함정 카드 존에 세트할 수 있다. 마법 & 함정 카드 존에 세트된 이 카드가 상대 카드의 효과에 의해서 파괴되어 묘지로 보내진 턴의 엔드 페이즈시, 이 카드를 묘지에서 특수 소환하고, 상대 필드 위의 카드 1장을 선택하여 파괴한다.",
+  "defense_power": "1300",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/07/03",
+  "species_id": 15,
+  "starchip": "4"
+}

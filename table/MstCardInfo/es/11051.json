@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 2,
+  "card_id": 11051,
+  "card_name": "Muñeca Fantastruco",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "No puede ser Invocado de Modo Normal, a menos que controles un monstruo \"Fantastruco\". Una vez por turno: puedes cambiar esta carta a Posición de Defensa boca abajo. Cuando esta carta es volteada boca arriba: durante la End Phase, cambia tantos monstruos boca arriba en el Campo como sea posible a Posición de Defensa boca abajo, y después puedes Invocar de Modo Especial, desde tu Deck, 1 monstruo \"Fantastruco\" cuyo Nivel sea menor o igual a la cantidad de monstruos volteados boca abajo por este efecto, en Posición de Defensa boca abajo.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/05/15",
+  "species_id": 18,
+  "starchip": "2"
+}

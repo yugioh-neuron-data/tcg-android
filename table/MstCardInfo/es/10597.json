@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 3,
+  "card_id": 10597,
+  "card_name": "Sirenarmado Abisbalaen",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Puedes descartar al Cementerio otros 4 monstruos \"Sirenarmado/a\"; Invoca esta carta de Modo Especial desde tu mano. Cuando lo haces: selecciona cartas que controle tu adversario hasta la cantidad de monstruos \"Sirenarmado/a\" en tu Cementerio (si es posible); esta carta gana 500 ATK y, si lo hace, destruye esos objetivos (si los hay). Puedes Sacrificar otro monstruo \"Sirenarmado/a\" en Posición de Ataque boca arriba; este turno, esta carta gana el siguiente efecto.$N●Al comienzo del Damage Step, si esta carta batalla con un monstruo en Posición de Defensa: destruye ese monstruo.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/05/16",
+  "species_id": 14,
+  "starchip": "7"
+}

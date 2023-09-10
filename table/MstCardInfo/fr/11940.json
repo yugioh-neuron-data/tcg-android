@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11940,
+  "card_name": "Appel Pendule",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Défaussez 1 carte ; ajoutez 2 Monstres Pendule \"Magicien\" de noms différents depuis votre Deck à votre main, et aussi, jusqu'à la fin du prochain tour de votre adversaire après la résolution de cette carte, les cartes \"Magicien\" dans vos Zones Pendule ne peuvent pas être détruites par des effets de carte. Vous ne pouvez activer qu'1 \"Appel Pendule\" par tour. Vous ne pouvez pas activer cette carte si vous avez activé un Effet Pendule de monstre \"Magicien\" ce tour.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/12/03",
+  "species_id": 24,
+  "starchip": "0"
+}

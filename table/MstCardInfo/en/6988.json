@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 1,
+  "card_id": 6988,
+  "card_name": "Elemental HERO Glow Neos",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"Elemental HERO Neos\" + \"Neo-Spacian Glow Moss\"$NMust first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use \"Polymerization\".) During the End Phase: Shuffle this card into the Extra Deck. Once per turn, during your Main Phase 1: You can target 1 face-up card your opponent controls; destroy that target, then apply the effect based on its type.$N●Monster: This card cannot attack this turn.$N●Spell: This card can attack your opponent directly this turn.$N●Trap: Change this card to Defense Position.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/02/28",
+  "species_id": 15,
+  "starchip": "7"
+}

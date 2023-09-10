@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 3,
+  "card_id": 14272,
+  "card_name": "Wolkenknall die Sturmschlange",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss erst als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 1 FEUER und 1 WIND Monster von deinem Friedhof verbannst. Du kannst jeden der folgenden Effekte von „Wolkenknall die Sturmschlange“ nur einmal pro Spielzug verwenden.$N●Du kannst 1 FEUER Monster von deinem Friedhof verbannen und dann 1 Monster wählen, das dein Gegner kontrolliert; zerstöre jenes Monster und falls du dies tust, erhält diese Karte ATK in Höhe der Grund-ATK des zerstörten Monsters.$N●Du kannst 1 WIND Monster von deinem Friedhof verbannen und dann 1 Karte in der Zauber- & Fallenzone deines Gegners wählen; zerstöre sie.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/05/02",
+  "species_id": 20,
+  "starchip": "5"
+}

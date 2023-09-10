@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 1,
+  "card_id": 10891,
+  "card_name": "오버레이 스나이퍼",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드는 특수 소환할 수 없다. 이 카드는 일반 소환에 성공했을 때, 수비 표시가 된다. 또한, 자신 필드 위에 엑시즈 소재를 가진 엑시즈 몬스터가 존재할 경우, 묘지의 이 카드를 게임에서 제외하고, 상대 필드 위의 몬스터 1장을 선택하여 발동할 수 있다. 선택한 몬스터의 공격력은, 자신 필드 위의 엑시즈 소재의 수 × 500 포인트 내린다.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/02/18",
+  "species_id": 15,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "400",
+  "attribute_id": 6,
+  "card_id": 5138,
+  "card_name": "Scarabée Bombardier",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "FLIP : Retourne face recto 1 Carte Monstre en Position de Défense face verso sur le Terrain de votre adversaire. Si la carte retournée est une Carte Monstre à Effet, détruisez-la immédiatement sans Activer son Effet. Si la carte n'est pas une Carte Monstre à Effet, retournez-la dans sa position d'origine.",
+  "defense_power": "900",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 24,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/10/20",
+  "species_id": 10,
+  "starchip": "2"
+}

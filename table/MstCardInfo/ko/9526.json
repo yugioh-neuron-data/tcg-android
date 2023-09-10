@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 9526,
+  "card_name": "초능력 증폭기",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드의 발동시에, 자신 필드 위에 앞면 표시로 존재하는 모든 사이킥족 몬스터의 공격력은, 게임에서 제외되어 있는 자신의 사이킥족 몬스터의 수 × 300 포인트 올린다. 이 효과를 받은 몬스터는 엔드 페이즈시에 게임에서 제외된다.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/06/10",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14357,
+  "card_name": "Ladrón del Tiempo Hack",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante el turno en el que son Invocados de Modo Especial, los Monstruos Xyz que controles no pueden ser destruidos por los efectos de cartas de tu adversario, y además tu adversario no puede seleccionarlos con efectos de cartas. Puedes seleccionar 1 Monstruo Xyz boca arriba que controles; hasta el final de este turno, éste gana 300 ATK por cada material acoplado a él en este momento y, si lo hace, y además tiene un material que es propiedad de tu adversario, este turno puede atacar directamente (aun si esta carta deja el Campo). Sólo puedes usar este efecto de \"Ladrón del Tiempo Hack\" una vez por turno.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/01/31",
+  "species_id": 24,
+  "starchip": "0"
+}

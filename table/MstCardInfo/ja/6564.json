@@ -1,0 +1,23 @@
+{
+  "attack_power": "4000",
+  "attribute_id": 1,
+  "card_id": 6564,
+  "card_name": "降雷皇ハモン",
+  "card_name_label": "こうらいおうハモン",
+  "card_name_search": "こうらいおうはもん",
+  "card_pen_effect": "",
+  "card_text": "このカードは通常召喚できない。自分フィールドの表側表示の永続魔法カード３枚を墓地へ送った場合のみ特殊召喚できる。①：このカードがモンスターゾーンに守備表示で存在する限り、相手モンスターはこのカード以外のモンスターを攻撃対象に選択できない。②：このカードが戦闘で相手モンスターを破壊し墓地へ送った場合に発動する。相手に１０００ダメージを与える。",
+  "defense_power": "4000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/11/17",
+  "species_id": 19,
+  "starchip": "10"
+}

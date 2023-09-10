@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 1,
+  "card_id": 12144,
+  "card_name": "Ariadne Guia",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Aplique esses efeitos.$N●Você não paga PV para ativar Cards de Armadilha de Resposta.$N●Você não descarta para ativar Cards de Armadilha de Resposta.",
+  "card_text": "Se este card for destruído em batalha ou por um efeito de card: você pode revelar 3 Armadilhas de Resposta do seu Deck, seu oponente seleciona 1 para você adicionar à sua mão e você embaralha o resto de volta no seu Deck.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2016/01/15",
+  "species_id": 17,
+  "starchip": "4"
+}

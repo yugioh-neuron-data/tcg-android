@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13776,
+  "card_name": "星遺物の醒存",
+  "card_name_label": "せいいぶつのせいぞん",
+  "card_name_search": "せいいぶつのせいぞん",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：自分のデッキの上からカードを５枚めくる。その中に「クローラー」モンスターまたは「星遺物」カードがあった場合、その内の１枚を選んで手札に加え、残りのカードは全て墓地へ送る。無かった場合、めくったカードを全てデッキに戻す。このカードの発動後、ターン終了時まで自分はリンクモンスターしかEXデッキから特殊召喚できない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/04/14",
+  "species_id": 24,
+  "starchip": "0"
+}

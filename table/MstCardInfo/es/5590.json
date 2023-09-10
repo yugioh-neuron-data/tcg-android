@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 4,
+  "card_id": 5590,
+  "card_name": "Bestia Ardiente",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Una vez por turno, durante tu Main Phase, puedes equipar esta carta a tu \"Bestia Helada\" como una Carta Mágica de Equipo O separar el equipamiento e Invocar mediante una Invocación Especial esta carta boca arriba en Posición de Ataque. Cuando esta carta es equipada por el efecto de esta carta, cada vez que el monstruo equipado inflige daño de batalla a tu adversario, destruye 1 Carta Mágica o de Trampa boca arriba en el Campo. (1 monstruo solo puede ser equipado con 1 Monstruo de Unión a la vez. Si el monstruo equipado con esta carta es destruido en batalla, se destruye esta carta en su lugar).",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 8,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/03/19",
+  "species_id": 4,
+  "starchip": "4"
+}

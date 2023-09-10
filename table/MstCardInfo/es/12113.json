@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 3,
+  "card_id": 12113,
+  "card_name": "Artistamigo Tortuga Pequemordisco",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Una vez por turno: puedes mostrar 1 monstruo \"Artistamigo\" u \"Ojos Anómalos\" en tu mano y, si lo haces, por el resto de este turno reduce en 1 los Niveles de los monstruos en tu mano con ese nombre (aún después de que hayan sido Invocados/Colocados, y aún si esta carta deja el Campo).",
+  "card_text": "Cuando esta carta es destruida en batalla: puedes destruir al monstruo que la destruyó.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2016/01/14",
+  "species_id": 20,
+  "starchip": "3"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 16035,
+  "card_name": "Vergnügliche Attraktion Schnellfahrt",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wähle 1 „Vergnügung“-Monster, das du kontrollierst, oder 1 offenes Monster, das dein Gegner kontrolliert; rüste es mit dieser Karte aus. Du kannst den folgenden Effekt aktivieren, basierend darauf, welcher Spieler das ausgerüstete Monster kontrolliert;$N●Du: Wähle 1 Karte im Friedhof deines Gegners; ändere die Kampfposition des ausgerüsteten Monsters und falls du dies tust, mische das gewählte Ziel ins Deck.$N●Dein Gegner: Erhöhe die Stufe des ausgerüsteten Monsters (bis zum Ende dieses Spielzugs) um 1 und falls du dies tust, ändere seine Kampfposition.$NDu kannst diesen Effekt von „Vergnügliche Attraktion Schnellfahrt“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/06/03",
+  "species_id": 25,
+  "starchip": "0"
+}

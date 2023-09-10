@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 3,
+  "card_id": 12137,
+  "card_name": "Rex Dinobrume",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Une fois, tant que cette carte est dans votre Zone Pendule, vous pouvez annuler un effet de carte activé qui cible une ou plusieurs autres cartes \"Dinobrume\" que vous contrôlez, puis détruisez cette carte.",
+  "card_text": "Si cette carte attaque, à la fin de la Damage Step : vous pouvez Sacrifier 1 autre monstre \"Dinobrume\", puis activez 1 de ces effets ;$N●Cette carte peut attaquer un monstre de votre adversaire une deuxième fois d'affilée, et si elle attaque un monstre en Position de Défense, infligez des dommages de combat perçants à votre adversaire.$N●Mélangez 1 carte depuis la main de votre adversaire (au hasard) ou sur son Terrain dans le Deck, puis cette carte gagne 100 ATK.",
+  "defense_power": "2200",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "6",
+  "pen_scale_r": "6",
+  "sales_at": "2016/01/14",
+  "species_id": 7,
+  "starchip": "5"
+}

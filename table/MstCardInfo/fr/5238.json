@@ -1,0 +1,23 @@
+{
+  "attack_power": "900",
+  "attribute_id": 6,
+  "card_id": 5238,
+  "card_name": "Lampe ancienne",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durant votre Main Phase : vous pouvez Invoquer Spécialement \"La Jinn le Génie Mystique de la Lampe\" depuis votre main. Cette carte doit être face recto sur le Terrain pour activer et résoudre cet effet. Avant le calcul des dommages, si cette carte est attaquée par un monstre de votre adversaire et qu'elle était face verso au début de la Damage Step : vous pouvez cibler 1 monstre contrôlé par votre adversaire (le monstre attaquant exclu) ; le monstre attaquant l'attaque à la place, et vous passez au calcul des dommages.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/07/08",
+  "species_id": 18,
+  "starchip": "3"
+}

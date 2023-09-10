@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 6,
+  "card_id": 8311,
+  "card_name": "코아키메일 스피드",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드의 컨트롤러는 자신의 엔드 페이즈마다 패에서 \"코아키메일의 강철핵\" 1장을 묘지로 보내거나, 패의 기계족 몬스터 1장을 상대에게 보여준다. 또는, 어느 쪽도 실행하지 않고 이 카드를 파괴한다. 이 카드가 필드 위에 앞면 표시로 존재하는 한, 자신의 드로우 페이즈시에 드로우한 카드가 \"코아키메일의 강철핵\"이었을 경우, 그 카드를 상대에게 보여주는 것으로, 자신은 카드를 1장 더 드로우할 수 있다.",
+  "defense_power": "2200",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/09/23",
+  "species_id": 7,
+  "starchip": "3"
+}

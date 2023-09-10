@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 1,
+  "card_id": 15974,
+  "card_name": "武神－トリフネ",
+  "card_name_label": "ぶじん－トリフネ",
+  "card_name_search": "ぶじんとりふね",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードをリリースして発動できる。「武神－トリフネ」を除く、種族が異なる「武神」モンスター２体をデッキから守備表示で特殊召喚する。②：このカードが墓地に存在し、自分が「武神」XモンスターのX召喚に成功した時に発動できる。このカードを装備カード扱いとしてそのモンスターに装備する。装備モンスターが戦闘で破壊したモンスターは墓地へは行かず除外される。",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/01/16",
+  "species_id": 12,
+  "starchip": "4"
+}

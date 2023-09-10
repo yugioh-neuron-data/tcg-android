@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 9705,
+  "card_name": "Addestramento del Gladiatore",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se c'è un mostro \"Gladiatore Bestia\" scoperto sul Terreno, attiva 1 dei seguenti effetti:$N●Scegli 1 mostro scoperto controllato dal tuo avversario, e cambia la sua Posizione.$N●Scegli 1 mostro \"Gladiatore Bestia\" scoperto controllato dal tuo avversario, e prendine il controllo fino alla End Phase.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/05/05",
+  "species_id": 24,
+  "starchip": "0"
+}

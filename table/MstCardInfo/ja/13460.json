@@ -1,0 +1,23 @@
+{
+  "attack_power": "1300",
+  "attribute_id": 2,
+  "card_id": 13460,
+  "card_name": "コード・トーカー",
+  "card_name_label": "コード・トーカー",
+  "card_name_search": "こーどとーかー",
+  "card_pen_effect": "",
+  "card_text": "効果モンスター２体$N①：このカードの攻撃力は、このカードのリンク先のモンスターの数×５００アップする。②：このカードのリンク先にモンスターが存在する限り、このカードは戦闘及び相手の効果では破壊されない。",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "82",
+  "linkno": "2",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/09/09",
+  "species_id": 27,
+  "starchip": ""
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 3,
+  "card_id": 12135,
+  "card_name": "Dinonévoa Bráquio",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Uma vez, enquanto este card estiver na sua Zona de Pêndulo, você pode negar um efeito de card ativado que escolhe como alvo outro(s) card(s) \"Dinonévoa\" que você controla e, depois, destrua este card.",
+  "card_text": "Se você não controlar \"Dinonévoa Bráquio\" na sua Zona de Monstros e seu oponente controlar um monstro que tenha o maior ATK no campo (mesmo em um empate), você pode Invocar este card por Invocação-Especial (da sua mão).",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "6",
+  "pen_scale_r": "6",
+  "sales_at": "2016/01/15",
+  "species_id": 7,
+  "starchip": "5"
+}

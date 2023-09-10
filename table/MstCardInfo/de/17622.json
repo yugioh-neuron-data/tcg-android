@@ -1,0 +1,23 @@
+{
+  "attack_power": "450",
+  "attribute_id": 2,
+  "card_id": 17622,
+  "card_name": "Donnerball",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Am Ende des Damage Steps, falls ein Monster gekämpft hat: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Du kannst 1 Falle von deiner Hand oder gesetzt von deiner Spielfeldseite auf den Friedhof legen; zerstöre alle anderen Monster in der Spalte dieser Karte. Falls diese Karte in der Monsterzone durch Kampf oder einen Karteneffekt zerstört und auf den Friedhof gelegt wird: Du kannst 1 Karte in deinem Friedhof wählen; wirf einen sechsseitigen Würfel und falls das Ergebnis 6 ist, füge jenes gewählte Ziel deiner Hand hinzu. Du kannst jeden Effekt von „Donnerball“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "400",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/11/17",
+  "species_id": 3,
+  "starchip": "3"
+}

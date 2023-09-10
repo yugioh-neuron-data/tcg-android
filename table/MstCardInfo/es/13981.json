@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 2,
+  "card_id": 13981,
+  "card_name": "¿¡Peligro!? ¿Lebrílope?",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Puedes mostrar esta carta en tu mano; tu adversario elige al azar 1 carta en toda tu mano, y después descartas la carta elegida. Después, si la carta descartada no fue \"¿¡Peligro!? ¿Lebrílope?\", Invoca de Modo Especial, desde tu mano, 1 \"¿¡Peligro!? ¿Lebrílope?\" y, si lo haces, roba 1 carta. Si esta carta es descartada: puedes Invocar de Modo Especial, desde tu Deck, 1 monstruo \"¡Peligro!\" en Posición de Defensa, excepto \"¿¡Peligro!? ¿Lebrílope?\". Sólo puedes usar este efecto de \"¿¡Peligro!? ¿Lebrílope?\" una vez por turno.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/07/26",
+  "species_id": 11,
+  "starchip": "3"
+}

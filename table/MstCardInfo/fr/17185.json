@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 17185,
+  "card_name": "Affrontraflure Griffrayeur",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Une fois par tour : vous pouvez cibler 1 \"Visas Starfrost\" ou monstre \"Griffrayeur\" que vous contrôlez ; ce tour, il peut attaquer tant qu'il est en Position de Défense face recto. S'il le fait, appliquez son ATK ou DEF (la plus haute valeur) pour le calcul des dommages. Lorsque votre adversaire active une carte ou un effet, tant que vous contrôlez un monstre \"Griffrayeur\" dans la Zone Monstre Extra : vous pouvez envoyer cette carte face recto au Cimetière ; annulez l'effet. Vous ne pouvez utiliser cet effet de \"Affrontraflure Griffrayeur\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/05/19",
+  "species_id": 25,
+  "starchip": "0"
+}

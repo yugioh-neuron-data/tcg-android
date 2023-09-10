@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 11008,
+  "card_name": "Poupée Truquée Antenne Obscure",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Non destructible au combat. Lorsque vous recevez des dommages de combat d'une attaque directe de votre adversaire tant que cette carte est dans votre Cimetière : vous pouvez Invoquer Spécialement cette carte depuis votre Cimetière en Position d'Attaque face recto, et si vous le faites, recevez 1000 points de dommages. Vous ne pouvez utiliser cet effet de \"Poupée Truquée Antenne Obscure\" qu'une fois par tour. Si cette carte est un Matériel Xyz et va être envoyée au Cimetière, bannissez-la à la place.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/03/28",
+  "species_id": 7,
+  "starchip": "8"
+}

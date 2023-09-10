@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 15311,
+  "card_name": "ドラゴンメイドのお片付け",
+  "card_name_label": "ドラゴンメイドのおかたづけ",
+  "card_name_search": "どらごんめいどのおかたづけ",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：自分フィールドのドラゴン族モンスター１体と相手のフィールド・墓地のカード１枚を対象として発動できる。そのカードを持ち主の手札に戻す。②：墓地のこのカードを除外して発動できる。自分の手札・墓地から「ドラゴンメイド」モンスター１体を選んで守備表示で特殊召喚する。この効果で特殊召喚したモンスターはエンドフェイズに持ち主の手札に戻る。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/18",
+  "species_id": 25,
+  "starchip": "0"
+}

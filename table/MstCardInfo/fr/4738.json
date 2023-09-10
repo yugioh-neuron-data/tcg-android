@@ -1,0 +1,23 @@
+{
+  "attack_power": "200",
+  "attribute_id": 4,
+  "card_id": 4738,
+  "card_name": "Jigen Bakudan",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "FLIP : Une fois que cette carte est retournée, sacrifiez-la durant votre Standby Phase pour détruire tous les monstres de votre Terrain et infligez aux Life Points de votre adversaire des dommages égaux à la moitié du total des ATK des monstres détruits (ce monstre exclu).",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 24,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/09/16",
+  "species_id": 4,
+  "starchip": "2"
+}

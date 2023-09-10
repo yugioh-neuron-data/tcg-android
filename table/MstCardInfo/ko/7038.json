@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 6,
+  "card_id": 7038,
+  "card_name": "헌터 아울",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "자신 필드 위에 앞면 표시로 존재하는 바람 속성 몬스터 1장당, 이 카드의 공격력은 500 포인트 올린다. 또한, 자신 필드 위에 다른 바람 속성 몬스터가 존재하는 한, 상대는 이 카드를 공격 대상으로 선택할 수 없다.",
+  "defense_power": "900",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/09/07",
+  "species_id": 16,
+  "starchip": "4"
+}

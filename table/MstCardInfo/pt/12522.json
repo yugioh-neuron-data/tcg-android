@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 12522,
+  "card_name": "Nova Carmesim, o Senhor Cúbico Obscuro",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Não pode ser Invocado por Invocação-Normal/Baixado. Deve ser Invocado por Invocação-Especial (da sua mão) ao revelar 3 outros cards \"Cúbico(a)\" com nomes diferentes na sua mão e não pode ser Invocado por Invocação-Especial de nenhuma outra forma. Não é afetado pelos efeitos ativados de outros monstros cujo ATK original seja 3000 ou menos. Quando este card atacante destruir um monstro em batalha: você pode ativar este efeito; este card pode realizar um segundo ataque durante esta Fase de Batalha. Durante sua Fase Final: cada duelista sofre 3000 de dano. Você só pode usar este efeito de \"Nova Carmesim, o Senhor Cúbico Obscuro\" uma vez por turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/07/21",
+  "species_id": 3,
+  "starchip": "10"
+}

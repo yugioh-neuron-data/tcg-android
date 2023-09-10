@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 5,
+  "card_id": 11345,
+  "card_name": "Samurai Superpesado Alma Explotacañón",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Puedes seleccionar 1 monstruo \"Samurai Superpesado\" que controles; equipa este monstruo en tu mano o tu lado del Campo a ese objetivo. Éste gana 1000 DEF. Durante la Battle Phase de cualquier jugador, cuando tu adversario activa un efecto de carta mientras tú controlas un monstruo \"Samurai Superpesado\" en Posición de Defensa: puedes desterrar esta carta en tu Cementerio; niega la activación y, si lo haces, destruye la carta, y después destruye tantos monstruos en el Campo como sea posible (mín. 1) y, si lo haces, ambos jugadores reciben 1000 puntos de daño.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/11/06",
+  "species_id": 7,
+  "starchip": "3"
+}

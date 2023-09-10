@@ -1,0 +1,956 @@
+[
+  {
+    "card_count": 1,
+    "card_id": 4041,
+    "card_image_id": 9,
+    "card_number": "25TH-IT001",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 13453,
+    "card_image_id": 1,
+    "card_number": "BACH-IT092",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14364,
+    "card_image_id": 1,
+    "card_number": "BACH-IT099",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14738,
+    "card_image_id": 1,
+    "card_number": "BACH-IT095",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14905,
+    "card_image_id": 1,
+    "card_number": "BACH-IT100",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 47
+  },
+  {
+    "card_count": 1,
+    "card_id": 15827,
+    "card_image_id": 1,
+    "card_number": "BACH-IT097",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15888,
+    "card_image_id": 1,
+    "card_number": "BACH-IT093",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15889,
+    "card_image_id": 1,
+    "card_number": "BACH-IT094",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15891,
+    "card_image_id": 1,
+    "card_number": "BACH-IT098",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16306,
+    "card_image_id": 1,
+    "card_number": "BACH-IT096",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16806,
+    "card_image_id": 1,
+    "card_number": "BACH-IT001",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 16807,
+    "card_image_id": 1,
+    "card_number": "BACH-IT002",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16808,
+    "card_image_id": 1,
+    "card_number": "BACH-IT003",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 16809,
+    "card_image_id": 1,
+    "card_number": "BACH-IT004",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 16809,
+    "card_image_id": 1,
+    "card_number": "BACH-IT004",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 47
+  },
+  {
+    "card_count": 1,
+    "card_id": 16810,
+    "card_image_id": 1,
+    "card_number": "BACH-IT005",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 16811,
+    "card_image_id": 1,
+    "card_number": "BACH-IT006",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 16812,
+    "card_image_id": 1,
+    "card_number": "BACH-IT007",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 16813,
+    "card_image_id": 1,
+    "card_number": "BACH-IT008",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 16814,
+    "card_image_id": 1,
+    "card_number": "BACH-IT009",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 16814,
+    "card_image_id": 1,
+    "card_number": "BACH-IT009",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 47
+  },
+  {
+    "card_count": 1,
+    "card_id": 16815,
+    "card_image_id": 1,
+    "card_number": "BACH-IT010",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16816,
+    "card_image_id": 1,
+    "card_number": "BACH-IT011",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 16817,
+    "card_image_id": 1,
+    "card_number": "BACH-IT012",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 16818,
+    "card_image_id": 1,
+    "card_number": "BACH-IT013",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 16819,
+    "card_image_id": 1,
+    "card_number": "BACH-IT014",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16820,
+    "card_image_id": 1,
+    "card_number": "BACH-IT015",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 16821,
+    "card_image_id": 1,
+    "card_number": "BACH-IT016",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16822,
+    "card_image_id": 1,
+    "card_number": "BACH-IT017",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 16823,
+    "card_image_id": 1,
+    "card_number": "BACH-IT018",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16824,
+    "card_image_id": 1,
+    "card_number": "BACH-IT019",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16825,
+    "card_image_id": 1,
+    "card_number": "BACH-IT020",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16826,
+    "card_image_id": 1,
+    "card_number": "BACH-IT021",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16827,
+    "card_image_id": 1,
+    "card_number": "BACH-IT022",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16828,
+    "card_image_id": 1,
+    "card_number": "BACH-IT023",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16829,
+    "card_image_id": 1,
+    "card_number": "BACH-IT024",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16830,
+    "card_image_id": 1,
+    "card_number": "BACH-IT025",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 16831,
+    "card_image_id": 1,
+    "card_number": "BACH-IT026",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 16832,
+    "card_image_id": 1,
+    "card_number": "BACH-IT027",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16833,
+    "card_image_id": 1,
+    "card_number": "BACH-IT028",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 16834,
+    "card_image_id": 1,
+    "card_number": "BACH-IT029",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16835,
+    "card_image_id": 1,
+    "card_number": "BACH-IT030",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16836,
+    "card_image_id": 1,
+    "card_number": "BACH-IT031",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16837,
+    "card_image_id": 1,
+    "card_number": "BACH-IT032",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16838,
+    "card_image_id": 1,
+    "card_number": "BACH-IT033",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16839,
+    "card_image_id": 1,
+    "card_number": "BACH-IT034",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 16839,
+    "card_image_id": 1,
+    "card_number": "BACH-IT034",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 47
+  },
+  {
+    "card_count": 1,
+    "card_id": 16840,
+    "card_image_id": 1,
+    "card_number": "BACH-IT035",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 16841,
+    "card_image_id": 1,
+    "card_number": "BACH-IT036",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 16842,
+    "card_image_id": 1,
+    "card_number": "BACH-IT037",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 16843,
+    "card_image_id": 1,
+    "card_number": "BACH-IT038",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 16844,
+    "card_image_id": 1,
+    "card_number": "BACH-IT039",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 16845,
+    "card_image_id": 1,
+    "card_number": "BACH-IT040",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 16846,
+    "card_image_id": 1,
+    "card_number": "BACH-IT041",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 16847,
+    "card_image_id": 1,
+    "card_number": "BACH-IT042",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16848,
+    "card_image_id": 1,
+    "card_number": "BACH-IT043",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 16849,
+    "card_image_id": 1,
+    "card_number": "BACH-IT044",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 16850,
+    "card_image_id": 1,
+    "card_number": "BACH-IT045",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 16851,
+    "card_image_id": 1,
+    "card_number": "BACH-IT046",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16852,
+    "card_image_id": 1,
+    "card_number": "BACH-IT047",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16853,
+    "card_image_id": 1,
+    "card_number": "BACH-IT048",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 16854,
+    "card_image_id": 1,
+    "card_number": "BACH-IT049",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 16854,
+    "card_image_id": 1,
+    "card_number": "BACH-IT049",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 47
+  },
+  {
+    "card_count": 1,
+    "card_id": 16855,
+    "card_image_id": 1,
+    "card_number": "BACH-IT050",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 16856,
+    "card_image_id": 1,
+    "card_number": "BACH-IT051",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 16857,
+    "card_image_id": 1,
+    "card_number": "BACH-IT052",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 16858,
+    "card_image_id": 1,
+    "card_number": "BACH-IT053",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16859,
+    "card_image_id": 1,
+    "card_number": "BACH-IT054",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16860,
+    "card_image_id": 1,
+    "card_number": "BACH-IT055",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 16861,
+    "card_image_id": 1,
+    "card_number": "BACH-IT056",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 16862,
+    "card_image_id": 1,
+    "card_number": "BACH-IT057",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16863,
+    "card_image_id": 1,
+    "card_number": "BACH-IT058",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16864,
+    "card_image_id": 1,
+    "card_number": "BACH-IT059",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 16865,
+    "card_image_id": 1,
+    "card_number": "BACH-IT060",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 16866,
+    "card_image_id": 1,
+    "card_number": "BACH-IT061",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 16867,
+    "card_image_id": 1,
+    "card_number": "BACH-IT062",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16868,
+    "card_image_id": 1,
+    "card_number": "BACH-IT063",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 16869,
+    "card_image_id": 1,
+    "card_number": "BACH-IT064",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16870,
+    "card_image_id": 1,
+    "card_number": "BACH-IT065",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16871,
+    "card_image_id": 1,
+    "card_number": "BACH-IT066",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16872,
+    "card_image_id": 1,
+    "card_number": "BACH-IT067",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16873,
+    "card_image_id": 1,
+    "card_number": "BACH-IT068",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 16874,
+    "card_image_id": 1,
+    "card_number": "BACH-IT069",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16875,
+    "card_image_id": 1,
+    "card_number": "BACH-IT070",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16876,
+    "card_image_id": 1,
+    "card_number": "BACH-IT071",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16877,
+    "card_image_id": 1,
+    "card_number": "BACH-IT072",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16878,
+    "card_image_id": 1,
+    "card_number": "BACH-IT073",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 16879,
+    "card_image_id": 1,
+    "card_number": "BACH-IT074",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 16880,
+    "card_image_id": 1,
+    "card_number": "BACH-IT075",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16881,
+    "card_image_id": 1,
+    "card_number": "BACH-IT076",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16882,
+    "card_image_id": 1,
+    "card_number": "BACH-IT077",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16883,
+    "card_image_id": 1,
+    "card_number": "BACH-IT078",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16884,
+    "card_image_id": 1,
+    "card_number": "BACH-IT079",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16885,
+    "card_image_id": 1,
+    "card_number": "BACH-IT080",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17227,
+    "card_image_id": 1,
+    "card_number": "BACH-IT081",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17228,
+    "card_image_id": 1,
+    "card_number": "BACH-IT082",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17229,
+    "card_image_id": 1,
+    "card_number": "BACH-IT083",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17230,
+    "card_image_id": 1,
+    "card_number": "BACH-IT084",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17231,
+    "card_image_id": 1,
+    "card_number": "BACH-IT085",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17232,
+    "card_image_id": 1,
+    "card_number": "BACH-IT000",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 17233,
+    "card_image_id": 1,
+    "card_number": "BACH-IT086",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17234,
+    "card_image_id": 1,
+    "card_number": "BACH-IT087",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17235,
+    "card_image_id": 1,
+    "card_number": "BACH-IT088",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17236,
+    "card_image_id": 1,
+    "card_number": "BACH-IT089",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17237,
+    "card_image_id": 1,
+    "card_number": "BACH-IT090",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17238,
+    "card_image_id": 1,
+    "card_number": "BACH-IT091",
+    "language": "it",
+    "pack_id": "2000001152000",
+    "rarity_id": 3
+  }
+]

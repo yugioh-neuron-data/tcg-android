@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14361,
+  "card_name": "終幕の光",
+  "card_name_label": "しゅうまくのひかり",
+  "card_name_search": "しゅうまくのひかり",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：１０００の倍数のLPを払い、払ったLP１０００につき１体、自分の墓地の「ワルキューレ」モンスターを対象として発動できる（同名カードは１枚まで）。そのモンスターを特殊召喚する。その後、この効果で特殊召喚したモンスターの数まで、相手は自身の墓地から攻撃力２０００以下のモンスターを選んで特殊召喚できる。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/09/14",
+  "species_id": 24,
+  "starchip": "0"
+}

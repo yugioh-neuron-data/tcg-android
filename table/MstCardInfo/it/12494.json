@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 12494,
+  "card_name": "Avatar Krystal",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Quando un mostro dell'avversario dichiara un attacco diretto, se il suo ATK è pari o superiore ai tuoi LP: Evoca Specialmente questa carta in Posizione di Attacco come Mostro con Effetto (Tipo Guerriero/LUCE/Livello 4/ATK ?/DEF 0) che ha ATK pari ai tuoi LP, poi cambia il bersaglio dell'attacco su questa carta. (Questa carta è ancora anche una Carta Trappola.) Se questa carta Evocata in questo modo viene distrutta in battaglia, dopo il calcolo dei danni: infliggi al tuo avversario danno pari al suo ATK.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/07/21",
+  "species_id": 25,
+  "starchip": "0"
+}

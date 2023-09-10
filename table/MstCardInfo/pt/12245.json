@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 2,
+  "card_id": 12245,
+  "card_name": "Transporte Delta de Kozmo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Uma vez por turno: você pode enviar 1 monstro \"Kozmo\" do seu Deck para o Cemitério e, depois, escolher 1 monstro com a face para cima no campo; ele perde ATK e DEF igual ao Nível do monstro enviado x 100. Se este card for destruído em batalha ou por um efeito de card e enviado para o Cemitério: você pode banir este card do seu Cemitério; Invoque por Invocação-Especial 1 monstro \"Kozmo\" de Nível 4 ou menos do seu Deck.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/01/15",
+  "species_id": 7,
+  "starchip": "5"
+}

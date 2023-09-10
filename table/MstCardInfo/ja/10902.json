@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 4,
+  "card_id": 10902,
+  "card_name": "森羅の影胞子 ストール",
+  "card_name_label": "しんらのかげぼうし　ストール",
+  "card_name_search": "しんらのかげぼうしすとーる",
+  "card_pen_effect": "",
+  "card_text": "このカードがリバースした時、自分のデッキの上からカードを５枚までめくる事ができる。めくったカードの中に植物族モンスターがあった場合、それらのモンスターを全て墓地へ送る。残りのカードは好きな順番でデッキの一番下に戻す。また、デッキのこのカードがカードの効果によってめくられて墓地へ送られた場合、フィールド上の魔法・罠カード１枚を選択して破壊できる。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/11/16",
+  "species_id": 13,
+  "starchip": "2"
+}

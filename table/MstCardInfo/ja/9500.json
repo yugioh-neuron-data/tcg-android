@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 5,
+  "card_id": 9500,
+  "card_name": "紫炎の参謀",
+  "card_name_label": "シエンのさんぼう",
+  "card_name_search": "しえんのさんぼう",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上に「六武衆」と名のついたモンスターが表側表示で存在する場合にこのカードが召喚に成功した時、種族を１つ宣言して発動する。このカードがフィールド上に表側表示で存在する限り、宣言した種族のモンスターは攻撃宣言をする事ができず、お互いのプレイヤーは宣言した種族のモンスターを特殊召喚する事ができない。",
+  "defense_power": "400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/02/11",
+  "species_id": 15,
+  "starchip": "4"
+}

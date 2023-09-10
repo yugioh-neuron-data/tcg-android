@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 3,
+  "card_id": 12594,
+  "card_name": "EMシール・イール",
+  "card_name_label": "エンタメイトシール・イール",
+  "card_name_search": "えんためいとしーるいーる",
+  "card_pen_effect": "①：１ターンに１度、相手フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターの効果をターン終了時まで無効にする。",
+  "card_text": "①：このカードが召喚・特殊召喚に成功した時、相手フィールドにセットされた魔法・罠カード１枚を対象として発動できる。このターン、そのカードは発動できない。この効果の発動に対して、お互いは魔法・罠・モンスターの効果を発動できない。",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2016/07/09",
+  "species_id": 8,
+  "starchip": "1"
+}

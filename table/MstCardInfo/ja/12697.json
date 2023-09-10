@@ -1,0 +1,23 @@
+{
+  "attack_power": "700",
+  "attribute_id": 2,
+  "card_id": 12697,
+  "card_name": "魔界劇団－ダンディ・バイプレイヤー",
+  "card_name_label": "まかいげきだん－ダンディ・バイプレイヤー",
+  "card_name_search": "まかいげきだんだんでぃばいぷれいやー",
+  "card_pen_effect": "①：自分がP召喚に成功した時に発動できる。自分のEXデッキから表側表示のレベル１またはレベル８の「魔界劇団」Pモンスター１体を手札に加える。",
+  "card_text": "このカード名のモンスター効果は１ターンに１度しか使用できない。①：自分のPゾーンに「魔界劇団」カードが２枚存在する場合、このカードをリリースして発動できる。手札及び自分のEXデッキの表側表示のモンスターの中から、レベル１またはレベル８の「魔界劇団」Pモンスター１体を特殊召喚する。",
+  "defense_power": "700",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "8",
+  "pen_scale_r": "8",
+  "sales_at": "2016/07/21",
+  "species_id": 3,
+  "starchip": "2"
+}

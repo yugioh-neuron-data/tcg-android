@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 4,
+  "card_id": 11630,
+  "card_name": "Dragoner aus Draconia",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Einmal pro Spielzug, falls ein Normales Monster, das du kontrollierst, ein Monster deines Gegners durch Kampf zerstört, nach der Schadensberechnung: Du kannst deiner Hand 1 Normales Monster der Stufe 4 oder höher von deinem Deck hinzufügen.",
+  "card_text": "Diese berittenen Landtruppen des Reiches von Draconia sind mit Musketen und Eisenspeeren bewaffnet und werden vom Königreich Reptier und anderen angrenzenden Nationen gefürchtet.",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 25,
+  "pen_scale_l": "2",
+  "pen_scale_r": "2",
+  "sales_at": "2015/01/10",
+  "species_id": 12,
+  "starchip": "4"
+}

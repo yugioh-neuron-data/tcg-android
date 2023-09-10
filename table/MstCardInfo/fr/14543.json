@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 4,
+  "card_id": 14543,
+  "card_name": "Salamangrande Coyote",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durant la End Phase, si cette carte est dans le Cimetière parce qu'elle y a été envoyée comme Matériel Lien ce tour : vous pouvez activer 1 des effets suivants.$N●Ciblez 1 monstre \"Salamangrande\" (\"Salamangrande Coyote\" exclu) dans votre Cimetière ; Invoquez-le Spécialement en Position de Défense.$N●Ciblez 1 carte \"Salamangrande\" (\"Salamangrande Coyote\" exclu) dans votre Cimetière ; ajoutez-la à votre main.$NVous ne pouvez utiliser cet effet de \"Salamangrande Coyote\" qu'une fois par tour.",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/09/12",
+  "species_id": 27,
+  "starchip": "3"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 2,
+  "card_id": 12482,
+  "card_name": "오드아이즈 팬텀 드래곤",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "①: 1턴에 1번, 다른 한쪽 자신의 펜듈럼 존에 \"오드아이즈\" 카드가 존재할 경우, 자신의 앞면 표시 몬스터가 상대 몬스터와 전투를 실행하는 공격 선언시에 발동할 수 있다. 그 자신 몬스터의 공격력은 배틀 페이즈 종료시까지 1200 올린다.",
+  "card_text": "\"오드아이즈 팬텀 드래곤\"의 몬스터 효과는 1턴에 1번밖에 사용할 수 없다. ①: 펜듈럼 소환한 이 카드의 공격으로 상대에게 전투 데미지를 주었을 때에 발동할 수 있다. 자신의 펜듈럼 존의 \"오드아이즈\" 카드의 수 × 1200 데미지를 상대에게 준다.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "4",
+  "pen_scale_r": "4",
+  "sales_at": "2017/06/08",
+  "species_id": 1,
+  "starchip": "7"
+}

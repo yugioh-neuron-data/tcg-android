@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 5,
+  "card_id": 9100,
+  "card_name": "カラクリ武者 六参壱八",
+  "card_name_label": "カラクリむしゃ　ムザンイチハ",
+  "card_name_search": "からくりむしゃむざんいちは",
+  "card_pen_effect": "",
+  "card_text": "このカードは攻撃可能な場合には攻撃しなければならない。フィールド上に表側攻撃表示で存在するこのカードが攻撃対象に選択された時、このカードの表示形式を守備表示にする。フィールド上に存在する「カラクリ」と名のついたモンスターが破壊された場合、このカードの攻撃力は４００ポイントアップする。",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/07/17",
+  "species_id": 7,
+  "starchip": "4"
+}

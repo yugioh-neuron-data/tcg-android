@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15342,
+  "card_name": "Deviazione Meklord",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Scegli come bersaglio 1 mostro \"Meklord\" che controlli; il tuo avversario non subisce danno da combattimento da attacchi che coinvolgono quel mostro scoperto fino alla fine di questo turno, inoltre il suo ATK diventa (permanentemente) la somma degli ATK originali di tutti i mostri \"Meklord\" che controlli attualmente. Se uno o più mostri \"Meklord\" che controlli stanno per essere distrutti in battaglia o dall'effetto di una carta, puoi invece bandire questa carta dal tuo Cimitero. Puoi attivare solo 1 \"Deviazione Meklord\" per turno.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/09/24",
+  "species_id": 24,
+  "starchip": "0"
+}

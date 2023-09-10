@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 3,
+  "card_id": 11483,
+  "card_name": "Necroz de Clausolas",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Você pode Invocar este card por Invocação-Ritual com qualquer Magia de Ritual \"Necroz\". Deve ser Invocado por Invocação-Ritual. Você só pode usar cada um desses efeitos de \"Necroz de Clausolas\" uma vez por turno.$N●Você pode descartar este card; adicione 1 Magia/Armadilha \"Necroz\" do seu Deck à sua mão.$N●(Efeito Rápido): você pode escolher 1 monstro com a face para cima no campo que foi Invocado por Invocação-Especial do Deck Adicional; até o final deste turno, o ATK do alvo se torna 0 e, além disso, os efeitos do alvo são negados.",
+  "defense_power": "2300",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 5,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/02/13",
+  "species_id": 15,
+  "starchip": "3"
+}

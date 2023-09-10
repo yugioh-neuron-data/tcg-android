@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15056,
+  "card_name": "メガリス・アンフォームド",
+  "card_name_label": "メガリス・アンフォームド",
+  "card_name_search": "めがりすあんふぉーむど",
+  "card_pen_effect": "",
+  "card_text": "①：以下の効果から１つを選択して発動できる。$N●相手フィールドの全てのモンスターの攻撃力はターン終了時まで、フィールドの儀式モンスターの数×５００ダウンする。$N●レベルの合計が儀式召喚するモンスターのレベルの倍になるように、自分の手札・フィールドのモンスターをリリースし、デッキから「メガリス」儀式モンスター１体を守備表示で儀式召喚する。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/01/11",
+  "species_id": 24,
+  "starchip": "0"
+}

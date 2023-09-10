@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 1,
+  "card_id": 8142,
+  "card_name": "Außerirdisches Kind",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lege 1 A-Zählmarke auf alle Monster, die als Spezialbeschwörung auf die Spielfeldseite deines Gegners beschworen werden. (Falls ein Monster mit einer A-Zählmarke gegen ein „Außerirdisch“-Monster kämpft, verliert es nur während der Schadensberechnung 300 ATK und DEF für jede A-Zählmarke.)",
+  "defense_power": "700",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/03/03",
+  "species_id": 20,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 12082,
+  "card_name": "Paläozoischer Olenoides",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wähle 1 Zauber-/Fallenkarte auf dem Spielfeld; zerstöre sie. Einmal pro Kette, wenn eine Fallenkarte aktiviert wird, solange sich diese Karte in deinem Friedhof befindet: Beschwöre diese Karte als Spezialbeschwörung als Normales Monster (Typ Aqua/WASSER/Stufe 2/ATK 1200/DEF 0). (Diese Karte wird NICHT als Fallenkarte behandelt.) Falls diese Karte auf diese Art beschworen wird, bleibt sie von Monstereffekten unberührt, zusätzlich verbanne sie, wenn sie das Spielfeld verlässt.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/08/04",
+  "species_id": 25,
+  "starchip": "0"
+}

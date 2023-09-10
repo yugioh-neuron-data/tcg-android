@@ -1,0 +1,23 @@
+{
+  "attack_power": "4400",
+  "attribute_id": 5,
+  "card_id": 7616,
+  "card_name": "Golem de Mecanismo Antiguo Definitivo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"Golem de Mecanismo Antiguo\" + 2 monstruos \"Mecanismo Antiguo\"$NDebe ser Invocado por Fusión. Si esta carta ataca a un monstruo en Posición de Defensa, inflige daño de batalla de penetración. Si esta carta ataca, hasta el final del Damage Step tu adversario no puede activar Cartas Mágicas/de Trampa. Si esta carta es destruida: puedes seleccionar 1 \"Golem de Mecanismo Antiguo\" en tu Cementerio; Invócalo de Modo Especial, ignorando sus condiciones de Invocación.",
+  "defense_power": "3400",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/05/13",
+  "species_id": 7,
+  "starchip": "10"
+}

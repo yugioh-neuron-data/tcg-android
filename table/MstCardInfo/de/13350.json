@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 1,
+  "card_id": 13350,
+  "card_name": "Parshath, der heilige Erz-Luftritter",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls du eine Konterfallenkarte aktivierst ODER falls du die Aktivierung einer Zauber-/Fallenkarte oder eines Monstereffekts annullierst (außer während des Damage Steps): Du kannst 2 andere Fee-Monster von deiner Hand, deiner Spielfeldseite und/oder deinem Friedhof verbannen; beschwöre diese Karte als Spezialbeschwörung vom Friedhof (falls sie dort lag, als du aktiviert/annulliert hast) oder deiner Hand (selbst falls nicht). Falls diese Karte ein Monster in Verteidigungsposition angreift, füge durchschlagenden Kampfschaden zu. Wenn diese Karte deinem Gegner Kampfschaden zufügt: Du kannst deiner Hand 1 „Parshath“-Karte oder 1 Konterfalle von deinem Deck hinzufügen.",
+  "defense_power": "2300",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/01/18",
+  "species_id": 17,
+  "starchip": "9"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 9240,
+  "card_name": "Karte der Opferung",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Ziehe 2 Karten, falls die Summe der ATK aller deiner Monster in offener Angriffsposition (mindestens 2) kleiner ist als die ATK des offenen Monsters deines Gegners mit den niedrigsten ATK. Du kannst in dem Spielzug, in dem du diese Karte aktivierst, keine Monster beschwören und Kampfpositionen nicht ändern.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/01/20",
+  "species_id": 25,
+  "starchip": "0"
+}

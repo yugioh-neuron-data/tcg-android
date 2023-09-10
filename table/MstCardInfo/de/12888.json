@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 12888,
+  "card_name": "Beschwörung als Kette",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls du 2 oder mehr offene Xyz-Monster kontrollierst: Wähle das mit dem niedrigsten Rang (bei Gleichstand bestimmst du eins); beschwöre 1 Xyz-Monster, dessen Rang niedriger ist als der des Xyz-Monsters, als Spezialbeschwörung von deinem Extra Deck, aber das als Spezialbeschwörung beschworene Monster kann nicht direkt angreifen, zusätzlich lege es während der End Phase ins Extra Deck zurück.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/03/30",
+  "species_id": 24,
+  "starchip": "0"
+}

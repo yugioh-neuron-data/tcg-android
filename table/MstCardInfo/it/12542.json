@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 12542,
+  "card_name": "Genio Stretta di Mani",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "I mostri controllati dal tuo avversario non possono scegliere mostri come bersaglio per gli attacchi, eccetto questo. Guadagna DEF pari alla somma dei DEF originali di tutti gli altri mostri scoperti in Posizione di Difesa che controlli.",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/08/18",
+  "species_id": 3,
+  "starchip": "4"
+}

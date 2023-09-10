@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 4,
+  "card_id": 11702,
+  "card_name": "Zefraxa, Bestia de la Llama de los Necroz",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "No puedes Invocar monstruos por Péndulo, excepto monstruos \"Necroz\" y \"Zefra\". Este efecto no puede ser negado.",
+  "card_text": "Mientras esta carta esté en tu mano o Cementerio, si una o más cartas \"Necroz\" o \"Zefra\" boca arriba, excepto \"Zefraxa, Bestia de la Llama de los Necroz\", son destruidas en batalla o por efecto de una carta mientras están en tu Zona de Monstruos o Zona del Péndulo: puedes Invocar esta carta de Modo Especial. Sólo puedes usar este efecto de \"Zefraxa, Bestia de la Llama de los Necroz\" una vez por turno.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "7",
+  "pen_scale_r": "7",
+  "sales_at": "2015/05/14",
+  "species_id": 1,
+  "starchip": "5"
+}

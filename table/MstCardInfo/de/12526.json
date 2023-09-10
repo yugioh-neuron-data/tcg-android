@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 12526,
+  "card_name": "Kubische Wiedergeburt",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wenn ein Monster deines Gegners einen direkten Angriff deklariert: Wähle das angreifende Monster; dein Gegner beschwört so viele Monster mit demselben Namen wie das Monster wie möglich als Spezialbeschwörung von seiner Hand, seinem Deck und/oder seinem Friedhof in die Angriffsposition, zusätzlich werden die ATK des als Ziel gewählten Monsters und der als Spezialbeschwörung beschworenen Monsters zu 0 und lege auf jedes 1 Kubisch-Zählmarke. (Monster mit einer Kubisch-Zählmarke können nicht angreifen, zusätzlich annulliere ihre Effekte.) Zusätzlich, danach, falls durch diesen Effekt Kubisch-Zählmarken gelegt wurden, beschwöre 1 „Kubisch“-Monster der Stufe 4 oder niedriger als Spezialbeschwörung von deiner Hand, ungeachtet seiner Beschwörungsbedingungen.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/07/21",
+  "species_id": 25,
+  "starchip": "0"
+}

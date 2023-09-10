@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 6,
+  "card_id": 5030,
+  "card_name": "Béhémoth à Deux Têtes",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durant la End Phase, si cette carte est dans le Cimetière parce qu'elle a été détruite sur le Terrain et y a été envoyée ce tour : vous pouvez Invoquer Spécialement cette carte, mais son ATK/DEF deviennent 1000. Vous ne pouvez utiliser cet effet de \"Béhémoth à Deux Têtes\" qu'une fois par Duel.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/01/01",
+  "species_id": 1,
+  "starchip": "3"
+}

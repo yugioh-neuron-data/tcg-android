@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13950,
+  "card_name": "Heraldo del Abismo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Paga 1500 LP y declara 1 Tipo de Monstruo y 1 Atributo; tu adversario debe mandar al Cementerio 1 monstruo boca arriba con el Tipo y Atributo declarados en su Campo, si es posible. Por el resto de este turno, tu adversario no puede activar los efectos de monstruos con el nombre de ese monstruo mandado. Sólo puedes activar 1 \"Heraldo del Abismo\" por turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/10/18",
+  "species_id": 24,
+  "starchip": "0"
+}

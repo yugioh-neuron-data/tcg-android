@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 12458,
+  "card_name": "Magia Oscura Expandida",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Aplica estos efectos en orden, basándote en la cantidad de \"Mago Oscuro\" y/o \"Chica Maga Oscura\" en el Campo y en los Cementerios.$N●1+: Hasta el final de este turno, 1 monstruo de OSCURIDAD Lanzador de Conjuros en el Campo gana 1000 ATK.$N●2+: Este turno, tu adversario no puede activar cartas y efectos en respuesta a la activación de tus Cartas Mágicas/de Trampa o efectos de Mágica/Trampa, y además las Mágicas/Trampas que controles no pueden ser destruidas por efectos de cartas de tu adversario.$N●3+: Hasta el final de este turno, los monstruos de OSCURIDAD Lanzador de Conjuros que controles en este momento no son afectados por los efectos de cartas de tu adversario.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/08/04",
+  "species_id": 24,
+  "starchip": "0"
+}

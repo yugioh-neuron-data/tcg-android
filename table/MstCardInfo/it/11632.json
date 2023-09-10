@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 11632,
+  "card_name": "Farfa, Malebranche dell'Abisso Bruciante",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se controlli un mostro che non è un mostro \"Abisso Bruciante\", distruggi questa carta. Puoi utilizzare solo 1 di questi effetti di \"Farfa, Malebranche dell'Abisso Bruciante\" per turno, e solo una volta in quel turno.$N●Se non controlli nessuna Magia/Trappola: puoi Evocare Specialmente questa carta dalla tua mano.$N●Se questa carta viene mandata al Cimitero: puoi scegliere come bersaglio 1 mostro sul Terreno; bandiscilo fino alla End Phase.",
+  "defense_power": "1900",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/01/15",
+  "species_id": 3,
+  "starchip": "3"
+}

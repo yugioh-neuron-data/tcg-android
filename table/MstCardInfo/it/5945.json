@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 5945,
+  "card_name": "Sesto Senso",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Dichiara 2 numeri tra 1 e 6, poi il tuo avversario tira un dado a sei facce e, se il risultato è uno dei numeri che hai dichiarato, tu peschi quel numero di carte. Altrimenti, manda un numero di carte pari al risultato dalla cima del tuo Deck al Cimitero.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/10/10",
+  "species_id": 25,
+  "starchip": "0"
+}

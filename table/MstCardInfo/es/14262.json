@@ -1,0 +1,23 @@
+{
+  "attack_power": "4500",
+  "attribute_id": 5,
+  "card_id": 14262,
+  "card_name": "T.G. Cañón Alabarda/Modo de Ataque",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "No puede ser Invocada de Modo Normal/Colocada. Debe ser Invocada de Modo Especial con \"Activar Modo de Ataque\". Sólo puedes usar cada uno de los siguientes efectos de \"T.G. Cañón Alabarda/Modo de Ataque\" una vez por turno.$N●Cuando tu adversario fuera a Invocar un monstruo (Efecto Rápido): puedes negar la Invocación y, si lo haces, destierra ese monstruo y todos los monstruos Invocados de Modo Especial que controle tu adversario.$N●Cuando esta carta en el Campo es destruida: puedes seleccionar 1 \"T.G. Cañón Alabarda\" en tu Cementerio; Invócalo de Modo Especial, ignorando sus condiciones de Invocación.",
+  "defense_power": "4500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/05/02",
+  "species_id": 7,
+  "starchip": "12"
+}

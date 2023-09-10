@@ -1,0 +1,23 @@
+{
+  "attack_power": "1850",
+  "attribute_id": 1,
+  "card_id": 15852,
+  "card_name": "妖精伝姫－ラチカ",
+  "card_name_label": "フェアリーテイル－ラチカ",
+  "card_name_search": "ふぇありーているらちか",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①の効果は１ターンに１度しか使用できない。①：このカードが召喚に成功した時に発動できる。相手は５００LP回復する。その後、相手はこの効果を発動したプレイヤーのデッキの上からカードを３枚確認し、その中から１枚を選ぶ。自分は相手が選んだカードを手札に加える。残りのカードはデッキに戻してシャッフルする。②：このカードが戦闘を行うダメージ計算前に発動できる。このカードを墓地へ送る。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/11/21",
+  "species_id": 18,
+  "starchip": "4"
+}

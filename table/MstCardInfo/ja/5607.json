@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 5607,
+  "card_name": "ご隠居の猛毒薬",
+  "card_name_label": "ごいんきょのもうどくやく",
+  "card_name_search": "ごいんきょのもうどくやく",
+  "card_pen_effect": "",
+  "card_text": "①：以下の効果から１つを選択して発動できる。$N●自分は１２００LP回復する。$N●相手に８００ダメージを与える。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/07/18",
+  "species_id": 24,
+  "starchip": "0"
+}

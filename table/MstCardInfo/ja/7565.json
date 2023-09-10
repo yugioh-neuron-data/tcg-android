@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 2,
+  "card_id": 7565,
+  "card_name": "メタボ・サッカー",
+  "card_name_label": "メタボ・サッカー",
+  "card_name_search": "めたぼさっかー",
+  "card_pen_effect": "",
+  "card_text": "このカードをリリースして闇属性モンスターのアドバンス召喚に成功した時、自分フィールド上に「メタボトークン」（悪魔族・闇・星１・攻／守０）３体を守備表示で特殊召喚する。このトークンはアドバンス召喚のためにはリリースできない。",
+  "defense_power": "300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/09/13",
+  "species_id": 3,
+  "starchip": "3"
+}

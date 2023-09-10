@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 5,
+  "card_id": 10247,
+  "card_name": "Magidolce Cwaussant",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wenn diese Karte, die dir gehört, durch eine Karte deines Gegners zerstört (entweder durch Kampf oder durch einen Karteneffekt) und auf deinen Friedhof gelegt wird: Mische diese Karte ins Deck. Einmal pro Spielzug: Du kannst 1 offene „Magidolce“-Karte wählen, die du kontrollierst, außer dieser Karte; gib sie auf die Hand zurück und falls du dies tust, erhöhe die Stufe dieser Karte um 1 und ihre ATK um 300.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/11/08",
+  "species_id": 11,
+  "starchip": "3"
+}

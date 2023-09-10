@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 2,
+  "card_id": 12711,
+  "card_name": "Abgrundschauspieler - Komischer Komödiant",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Einmal pro Spielzug: Du kannst 1 „Abgrundschauspieler“-Monster als Tribut anbieten und dann 1 „Abgrundschauspieler“-Monster wählen, das du kontrollierst; es erhält bis zum Ende dieses Spielzugs ATK in Höhe der Grund-ATK des als Tribut angebotenen Monsters (selbst falls diese Karte das Spielfeld verlässt).",
+  "card_text": "Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst diese Karte bis zum Ende dieses Spielzugs 300 ATK für jedes „Abgrundschauspieler“-Monster erhalten lassen, das du derzeit kontrollierst. Du kannst 1 anderes „Abgrundschauspieler“-Monster wählen, das du kontrollierst; es erhält bis zum Ende dieses Spielzugs ATK in Höhe der derzeitigen ATK dieser Karte. Diese Karte kann nicht in dem Spielzug angreifen, in dem dieser Effekt aktiviert wird. Du kannst diesen Effekt von „Abgrundschauspieler - Komischer Komödiant“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "8",
+  "pen_scale_r": "8",
+  "sales_at": "2016/11/17",
+  "species_id": 3,
+  "starchip": "1"
+}

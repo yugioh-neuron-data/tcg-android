@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 18863,
+  "card_name": "御巫かみかくし",
+  "card_name_label": "みかんこかみかくし",
+  "card_name_search": "みかんこかみかくし",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。$N①：相手フィールドの表側表示モンスター１体を対象として発動できる。その表側表示モンスターを自分フィールドの「御巫」モンスター１体に装備魔法カード扱いで装備する。フィールドに儀式モンスターカードが存在する場合、さらに自分フィールドの装備魔法カードの数×５００ダメージを相手に与える事ができる。$N②：墓地のこのカードを除外して発動できる。自分の手札・除外状態の「御巫」モンスター１体を特殊召喚する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/04/22",
+  "species_id": 25,
+  "starchip": "0"
+}

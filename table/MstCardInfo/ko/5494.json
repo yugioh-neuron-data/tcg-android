@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 5494,
+  "card_name": "퀴즈",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "발동 중, 상대는 묘지의 카드를 확인할 수 없다. 상대 플레이어는 \"퀴즈\" 발동 플레이어의 묘지의 맨 아래에 있는 몬스터명을 맞춘다. 맞춘 경우, 그 카드를 게임에서 제외한다. 못 맞춘 경우, 그 카드는 주인의 필드 위에 특수 소환된다.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/12/14",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2900",
+  "attribute_id": 1,
+  "card_id": 6639,
+  "card_name": "E・HERO エリクシーラー",
+  "card_name_label": "エレメンタルヒーロー　エリクシーラー",
+  "card_name_search": "えれめんたるひーろーえりくしーらー",
+  "card_pen_effect": "",
+  "card_text": "「E・HERO フェザーマン」＋「E・HERO バーストレディ」＋「E・HERO クレイマン」＋「E・HERO バブルマン」$Nこのモンスターは融合召喚でしか特殊召喚できない。このカードの属性は「風」「水」「炎」「地」としても扱う。このカードが融合召喚に成功した時、ゲームから除外された全てのカードを持ち主のデッキに戻し、デッキをシャッフルする。相手フィールド上に存在するこのカードと同じ属性のモンスター１体につき、このカードの攻撃力は３００ポイントアップする。",
+  "defense_power": "2600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/12/17",
+  "species_id": 15,
+  "starchip": "10"
+}

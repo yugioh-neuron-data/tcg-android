@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 6,
+  "card_id": 14459,
+  "card_name": "天威龍－ナハタ",
+  "card_name_label": "てんいりゅう－ナハタ",
+  "card_name_search": "てんいりゅうなはた",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドに効果モンスターが存在しない場合に発動できる。このカードを手札から特殊召喚する。②：効果モンスター以外の自分の表側表示モンスターが相手の表側表示モンスターと戦闘を行う攻撃宣言時に、手札・墓地のこのカードを除外して発動できる。その相手モンスターの攻撃力はターン終了時まで１５００ダウンする。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/04/13",
+  "species_id": 26,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1900",
+  "attribute_id": 5,
+  "card_id": 13265,
+  "card_name": "エクスクローラー・ニューロゴス",
+  "card_name_label": "エクスクローラー・ニューロゴス",
+  "card_name_search": "えくすくろーらーにゅーろごす",
+  "card_pen_effect": "",
+  "card_text": "昆虫族モンスター２体$N①：このカードのリンク先の「クローラー」モンスターは戦闘では破壊されず、攻撃力・守備力が３００アップし、相手モンスターと戦闘を行う場合、相手に与える戦闘ダメージは倍になる。②：表側表示のこのカードが相手の効果でフィールドから離れた場合、または戦闘で破壊された場合、自分の墓地の「クローラー」モンスター２体を対象として発動できる（同名カードは１枚まで）。そのモンスターを裏側守備表示で特殊召喚する。",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "46",
+  "linkno": "2",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/07/08",
+  "species_id": 10,
+  "starchip": ""
+}

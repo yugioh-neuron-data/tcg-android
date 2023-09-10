@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 13150,
+  "card_name": "Gladiatore Bestia Noxious",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Quando un mostro dell'avversario dichiara un attacco diretto: puoi Evocare Specialmente questa carta dalla tua mano e, se lo fai, cambia il bersaglio dell'attacco su questa carta, e procedi al calcolo dei danni. Questa carta non può essere distrutta in quella battaglia. Se questa carta viene Evocata Specialmente dall'effetto di un mostro \"Gladiatore Bestia\": puoi mandare 1 mostro \"Gladiatore Bestia\" dal tuo Deck al Cimitero. Alla fine della Battle Phase, se questa carta ha combattuto: puoi mischiarla nel Deck; Evoca Specialmente 1 mostro \"Gladiatore Bestia\" dal tuo Deck, eccetto \"Gladiatore Bestia Noxious\".",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/07/06",
+  "species_id": 12,
+  "starchip": "5"
+}

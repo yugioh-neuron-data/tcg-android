@@ -1,0 +1,23 @@
+{
+  "attack_power": "-1",
+  "attribute_id": 2,
+  "card_id": 8089,
+  "card_name": "Tragödia",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wenn du Kampfschaden erhältst: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Erhält 600 ATK/DEF für jede Karte in deiner Hand. Einmal pro Spielzug: Du kannst 1 Monster von deiner Hand auf den Friedhof legen und dann 1 offenes Monster wählen, das dein Gegner kontrolliert und das dieselbe Stufe hat, die das auf den Friedhof gelegte Monster in der Hand hatte; übernimm die Kontrolle über das offene Monster. Einmal pro Spielzug: Du kannst 1 Monster in deinem Friedhof wählen; die Stufe dieser Karte wird bis zum Ende dieses Spielzugs dieselbe wie die des gewählten Ziels.",
+  "defense_power": "-1",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/11/19",
+  "species_id": 3,
+  "starchip": "10"
+}

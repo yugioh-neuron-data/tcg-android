@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 8619,
+  "card_name": "マジック・ホール・ゴーレム",
+  "card_name_label": "マジック・ホール・ゴーレム",
+  "card_name_search": "まじっくほーるごーれむ",
+  "card_pen_effect": "",
+  "card_text": "１ターンに１度、自分フィールド上に表側表示で存在するモンスター１体を選択して発動する事ができる。選択したモンスターはエンドフェイズ時まで攻撃力が半分になり、このターン相手プレイヤーに直接攻撃する事ができる。この効果を発動するターン、選択したモンスター以外のモンスターは攻撃する事ができない。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/11/14",
+  "species_id": 6,
+  "starchip": "3"
+}

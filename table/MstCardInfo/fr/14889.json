@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 14889,
+  "card_name": "Jugement dans la Tête",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsqu'un monstre sur le Terrain active son effet : vous pouvez faire prendre une pièce au joueur activant et le faire jouer à pile ou face. S'il gagne, envoyez cette carte au Cimetière. S'il perd, annulez l'activation de l'effet, et si vous le faites, passez le contrôle du monstre à son adversaire. Vous ne pouvez utiliser cet effet de \"Jugement dans la Tête\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/01/30",
+  "species_id": 25,
+  "starchip": "0"
+}

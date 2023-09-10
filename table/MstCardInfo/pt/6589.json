@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 6,
+  "card_id": 6589,
+  "card_name": "Explosivo Adesivo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Antes do cálculo de dano, se este card foi atacado por um monstro do oponente e estava com a face para baixo em Posição de Defesa no começo da Etapa de Dano: equipe este card no monstro atacante. Depois, durante a próxima Fase de Apoio do seu oponente, destrua o monstro no qual este card está equipado.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/01/17",
+  "species_id": 7,
+  "starchip": "3"
+}

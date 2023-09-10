@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 10676,
+  "card_name": "Traicionero Superficial",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando un Monstruo Xyz de tu adversario declara un ataque: activa esta carta seleccionando al monstruo atacante. Éste no puede atacar, y además sus efectos son negados. Mientras ese monstruo esté en el Campo, durante cada una de las End Phases de tu adversario: manda al Cementerio las 3 cartas de la parte superior del Deck de tu adversario. Cuando ese monstruo deja el Campo, destruye esta carta.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/08/08",
+  "species_id": 25,
+  "starchip": "0"
+}

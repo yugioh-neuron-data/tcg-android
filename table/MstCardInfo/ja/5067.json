@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 1,
+  "card_id": 5067,
+  "card_name": "ロケット戦士",
+  "card_name_label": "ロケットせんし",
+  "card_name_search": "ろけっとせんし",
+  "card_pen_effect": "",
+  "card_text": "①：自分バトルフェイズ中、このカードは戦闘では破壊されず、このカードの戦闘で発生する自分への戦闘ダメージは０になる。②：このカードがモンスターに攻撃したダメージ計算後に発動する。攻撃対象モンスターの攻撃力はターン終了時まで５００ダウンする。",
+  "defense_power": "1300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2000/12/21",
+  "species_id": 15,
+  "starchip": "4"
+}

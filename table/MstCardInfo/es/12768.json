@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 1,
+  "card_id": 12768,
+  "card_name": "Princesa Espectro",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "El nombre de esta carta se convierte en \"Sirviente de la Calavera\" mientras esté en el Cementerio. Si esta carta es Invocada de Modo Normal o Especial: puedes mandar al Cementerio, desde tu Deck, 1 \"Príncipe Espectro\". Durante el turno de cualquier jugador: puedes mandar al Cementerio esta carta en tu mano o Campo; hasta el final de este turno, todos los monstruos en el Campo en este momento, pierden ATK y DEF igual a su propio Nivel/Rango x 300.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/02/09",
+  "species_id": 2,
+  "starchip": "3"
+}

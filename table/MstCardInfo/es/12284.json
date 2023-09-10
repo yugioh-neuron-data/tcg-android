@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 1,
+  "card_id": 12284,
+  "card_name": "Loba de la Lunaluz",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "No puedes Invocar monstruos por Péndulo, excepto monstruos \"Lunaluz\". Este efecto no puede ser negado. Una vez por turno: puedes Invocar por Fusión, desde tu Deck Extra, 1 Monstruo de Fusión \"Lunaluz\", desterrando de tu Campo o Cementerio los Materiales de Fusión listados en él.",
+  "card_text": "Si un monstruo \"Lunaluz\" que controles ataca a un monstruo en Posición de Defensa, inflige daño de batalla de penetración a tu adversario.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2016/05/05",
+  "species_id": 12,
+  "starchip": "6"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 17180,
+  "card_name": "Échelle Pendule",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si vous avez 2 cartes dans vos Zones Pendule : appliquez l'effet suivant, selon la différence en Échelles Pendule.$N●0 : Détruisez 2 Magies/Pièges sur le Terrain.$N●1, 2 ou 3 : Ajoutez 1 Monstre Pendule de Niveau 2, 3 ou 4 depuis votre Deck à votre main.$N●4, 5 ou 6 : Ajoutez 1 Monstre Pendule de Niveau 5, 6 ou 7 depuis votre Deck à votre main.$N●7+ : Renvoyez max. 2 cartes depuis vos Zones Pendule à la main, puis vous pouvez Invoquer Spécialement 1 Monstre Pendule depuis votre main.$NVous ne pouvez activer qu'1 \"Échelle Pendule\" par tour.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/05/19",
+  "species_id": 25,
+  "starchip": "0"
+}

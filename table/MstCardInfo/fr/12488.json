@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 1,
+  "card_id": 12488,
+  "card_name": "Dragon Blanc aux Yeux Profonds",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsqu'un ou plusieurs monstres \"Yeux Bleus\" face recto que vous contrôlez sont détruits au combat ou par un effet de carte de votre adversaire, et que vous avez un monstre de Type Dragon dans votre Cimetière : vous pouvez Invoquer Spécialement cette carte depuis votre main, et si vous le faites, infligez 600 points de dommages à votre adversaire pour chaque monstre de Type Dragon de noms différents dans votre Cimetière. Si cette carte est Invoquée Normalement ou Spécialement : ciblez 1 monstre de Type Dragon dans votre Cimetière ; l'ATK de cette carte devient égale à celle du monstre. Si cette carte sur le Terrain est détruite par un effet de carte : détruisez tous les monstres contrôlés par votre adversaire.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/07/21",
+  "species_id": 1,
+  "starchip": "10"
+}

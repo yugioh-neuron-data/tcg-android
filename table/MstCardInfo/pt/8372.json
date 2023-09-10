@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 5,
+  "card_id": 8372,
+  "card_name": "Soldado de Guerra Koa'ki Meiru",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante cada uma das suas Fases Finais, destrua este card a não ser que você envie 1 \"Núcleo de Ferro de Koa'ki Meiru\" da sua mão para o Cemitério ou revele 1 monstro do Tipo Guerreiro da sua mão. Uma vez por turno: você pode escolher 1 monstro do Tipo Guerreiro de Nível 3 ou menos no seu Cemitério; equipe o alvo à este card. Este card ganha ATK igual à metade do ATK combinado dos monstros equipados a ele por este efeito. Se este card seria destruído em batalha, em vez disso, destrua todos os monstros equipados a ele por este efeito.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/08/01",
+  "species_id": 15,
+  "starchip": "4"
+}

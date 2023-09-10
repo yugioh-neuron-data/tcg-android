@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 1,
+  "card_id": 5835,
+  "card_name": "Soldado del Brillo Negro - Enviado del Principio",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "No puede ser Invocado de Modo Normal/Colocado. Debe ser primero Invocado de Modo Especial (desde tu mano) desterrando 1 monstruo de LUZ y 1 de OSCURIDAD en tu Cementerio. Una vez por turno, puedes activar 1 de estos efectos.$N●Selecciona 1 monstruo en el Campo; destiérralo. Esta carta no puede atacar el turno en el que este efecto es activado.$N●Si esta carta atacante destruye un monstruo del adversario en batalla: ésta puede hacer un segundo ataque inmediatamente después.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/10/20",
+  "species_id": 15,
+  "starchip": "8"
+}

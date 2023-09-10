@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 11700,
+  "card_name": "비룡성－세피라시우고",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "①: 자신은 \"룡성\" 몬스터 및 \"세피라\" 몬스터밖에 펜듈럼 소환할 수 없다. 이 효과는 무효화되지 않는다.",
+  "card_text": "이 카드명의 몬스터 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 펜듈럼 소환에 성공했을 때, 또는 자신 몬스터 존의 이 카드가 전투 / 효과로 파괴되었을 때에 발동할 수 있다. 덱에서 \"룡성\" 마법 / 함정 카드 또는 \"세피라\" 마법 / 함정 카드 1장을 패에 넣는다.",
+  "defense_power": "2600",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "7",
+  "pen_scale_r": "7",
+  "sales_at": "2015/05/18",
+  "species_id": 26,
+  "starchip": "6"
+}

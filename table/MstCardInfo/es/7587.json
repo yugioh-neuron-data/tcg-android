@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 1,
+  "card_id": 7587,
+  "card_name": "Fuerza Arcana XIV - Templanza",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante el cálculo de daño, en el turno de cualquier jugador: puedes descartar esta carta; no recibes daño de batalla de esa batalla. Cuando esta carta es Invocada: lanza una moneda y aplica este efecto. El efecto dura mientras esta carta esté boca arriba en el Campo.$N● Cara: Divide a la mitad todo el daño de batalla que recibas.$N● Cruz: Divide a la mitad todo el daño de batalla que reciba tu adversario.",
+  "defense_power": "2400",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/05/13",
+  "species_id": 17,
+  "starchip": "6"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 1,
+  "card_id": 14250,
+  "card_name": "プラチナ・ガジェット",
+  "card_name_label": "プラチナ・ガジェット",
+  "card_name_search": "ぷらちながじぇっと",
+  "card_pen_effect": "",
+  "card_text": "機械族モンスター２体$Nこのカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。このカードはリンク召喚されたターンにはリンク素材にできない。①：自分メインフェイズに発動できる。手札からレベル４以下の機械族モンスター１体をこのカードのリンク先となる自分フィールドに特殊召喚する。②：このカードが戦闘・効果で破壊された場合に発動できる。デッキからレベル４の「ガジェット」モンスター１体を特殊召喚する。",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "13",
+  "linkno": "2",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/11/21",
+  "species_id": 7,
+  "starchip": ""
+}

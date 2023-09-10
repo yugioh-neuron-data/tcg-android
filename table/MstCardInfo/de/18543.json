@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 18543,
+  "card_name": "Hatsugai",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Grabe die obersten 5 Karten des Decks deines Gegners aus (oder so viele wie möglich), bestimme 1 ausgegrabene Karte und deklariere eine Zahl in Vielfachen von 100 (min. 100, max. 3000). Dein Gegner kann bestimmen, LP in Höhe der deklarierten Zahl zu erhalten. Falls er LP erhalten hat, verlierst du jene Menge an LP und falls du dies tust, füge jene bestimmte Karte deiner Hand hinzu, zusätzlich lege den Rest in derselben Reihenfolge auf das Deck. Falls er dies nicht getan hat, lege die ausgegrabenen Karten in derselben Reihenfolge auf das Deck.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/05/04",
+  "species_id": 25,
+  "starchip": "0"
+}

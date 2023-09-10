@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 6,
+  "card_id": 12910,
+  "card_name": "Mago de Asas Brancas",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Uma vez por turno, quando um card ou efeito ativado resolver que escolheu como alvo um monstro de TREVAS do Tipo Mago que você controla, negue o efeito e, depois, destrua este card.",
+  "card_text": "(Este card deve ser sempre considerado como um card \"Dragão Sincro\".)$NSe este card Invocado por Invocação-Pêndulo for usado para uma Invocação-Sincro, bana-o.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 33,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2017/06/22",
+  "species_id": 18,
+  "starchip": "4"
+}

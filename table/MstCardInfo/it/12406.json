@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 5,
+  "card_id": 12406,
+  "card_name": "Artistamico Cavallorafano",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Una volta per turno: puoi scegliere come bersaglio 1 mostro scoperto controllato dal tuo avversario e 1 mostro \"Artistamico\" che controlli; quel mostro dell'avversario perde ATK pari all'ATK di quel mostro \"Artistamico\" che controlli (anche se questa carta lascia il Terreno).",
+  "card_text": "Se il tuo avversario controlla un mostro Evocato Specialmente e controlla almeno tanti mostri quanto te, puoi Evocare Specialmente questa carta (dalla tua mano). Una volta per turno: puoi scegliere come bersaglio 1 mostro scoperto sul Terreno di ogni giocatore; fino alla fine di questo turno, quel mostro dell'avversario perde ATK pari all'ATK di questa carta e, se lo fa, quel mostro che controlli guadagna ATK pari all'ATK di questa carta.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2016/08/04",
+  "species_id": 13,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "3200",
+  "attribute_id": 3,
+  "card_id": 9999,
+  "card_name": "이비리추어 지르기가스",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"리추어\"라는 이름이 붙은 의식 마법 카드에 의해 의식 소환. 1턴에 1번, 1000 라이프 포인트를 지불하고 발동할 수 있다. 덱에서 카드를 1장 드로우하고, 서로 확인한다. 확인한 카드가 \"리추어\"라는 이름이 붙은 몬스터였을 경우, 필드 위의 카드 1장을 고르고 주인의 덱으로 되돌린다.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 5,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/07/30",
+  "species_id": 14,
+  "starchip": "10"
+}

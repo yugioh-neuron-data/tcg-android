@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14508,
+  "card_name": "フォーチュン・ヴィジョン",
+  "card_name_label": "フォーチュン・ヴィジョン",
+  "card_name_search": "ふぉーちゅんう゛ぃじょん",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：このカードの発動時の効果処理として、デッキから「フォーチュンレディ」カード１枚を手札に加える事ができる。②：１ターンに１度、自分フィールドのカードが効果で除外された場合に発動できる。このターン、自分フィールドのモンスターは効果では破壊されない。③：１ターンに１度、相手フィールドのカードが効果で除外された場合に発動できる。このターン、自分が受ける戦闘ダメージは１度だけ０になる。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/04/13",
+  "species_id": 24,
+  "starchip": "0"
+}

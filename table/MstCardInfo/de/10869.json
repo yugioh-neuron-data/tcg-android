@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 10869,
+  "card_name": "Cyber Netzwerk",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Zerstöre diese Karte während deiner 3. Standby Phase nach ihrer Aktivierung. Einmal pro Spielzug, falls sich „Cyber Drache“ auf dem Spielfeld befindet: Du kannst 1 LICHT Maschine-Monster von deinem Deck verbannen. Falls diese Karte vom Spielfeld auf den Friedhof gelegt wird: Beschwöre so viele deiner verbannten LICHT Maschine-Monster als Spezialbeschwörung wie möglich und falls du dies tust, zerstöre alle Zauber und Fallen, die du kontrollierst. Die Effekte von Monstern, die durch diesen Effekt als Spezialbeschwörung beschworen wurden, können nicht aktiviert werden. Du kannst in dem Spielzug, in dem du diesen Effekt aktivierst, keine Battle Phase durchführen.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/02/06",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 5,
+  "card_id": 15039,
+  "card_name": "강귀 더 파워로드 오우거",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "전사족 몬스터 2장 이상$N이 카드명의 ③의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드의 공격력은, 이 카드 이외의 자신 필드의 링크 몬스터의 링크 마커의 합계 × 200 올린다. ②: 링크 소환한 이 카드는 다른 카드의 효과를 받지 않는다. ③: 자신 필드의 \"강귀\" 링크 몬스터 1장을 릴리스하고, 그 링크 마커의 수까지 필드의 카드를 대상으로 하여 발동할 수 있다. 그 카드를 파괴한다.",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "6123",
+  "linkno": "4",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/14",
+  "species_id": 15,
+  "starchip": ""
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 1,
+  "card_id": 15993,
+  "card_name": "Cavaliere Bianco della Dogmatika",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Puoi Evocare tramite Rituale questa carta con \"Dogmatikalamità\". Non puoi Evocare Specialmente mostri dall'Extra Deck. Se il tuo avversario attiva una carta o un effetto (eccetto durante il Damage Step): puoi mandare 1 mostro dal tuo Extra Deck al Cimitero e, se lo fai, guarda l'Extra Deck del tuo avversario e manda 1 mostro da esso al Cimitero. Questa carta guadagna ATK pari alla metà della somma degli ATK di quei mostri mandati al Cimitero, fino alla fine di questo turno. Puoi utilizzare questo effetto di \"Cavaliere Bianco della Dogmatika\" una sola volta per turno.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 5,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/06/03",
+  "species_id": 18,
+  "starchip": "8"
+}

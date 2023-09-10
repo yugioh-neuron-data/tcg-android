@@ -1,0 +1,23 @@
+{
+  "attack_power": "2300",
+  "attribute_id": 4,
+  "card_id": 16750,
+  "card_name": "遺跡の魔鉱戦士",
+  "card_name_label": "いせきのまこうせんし",
+  "card_name_search": "いせきのまこうせんし",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①③の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドに「勇者トークン」が存在する場合に発動できる。このカードを手札から特殊召喚する。②：自分フィールドに「勇者トークン」が存在しない場合、このカードは攻撃できない。③：「勇者トークン」のトークン名が記された自分のモンスターが戦闘を行ったバトルフェイズ終了時に発動できる。デッキから「勇者トークン」のトークン名が記された罠カード１枚を選んで自分の魔法＆罠ゾーンにセットする。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/08/28",
+  "species_id": 15,
+  "starchip": "4"
+}

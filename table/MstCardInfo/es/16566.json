@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 16566,
+  "card_name": "Trampa Lavandera",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Una vez por Cadena, si uno o más monstruos son Invocados de Modo Normal o Especial a tu Campo (excepto durante el Damage Step): puedes mandar al Cementerio la carta de la parte superior de tu Deck. Si esta carta en tu Deck es mandada al Cementerio por efecto de una carta: puedes seleccionar 1 carta en tu Cementerio que fue mandada ahí este turno, excepto \"Trampa Lavandera\"; añádela a tu mano, pero hasta el final de tu siguiente turno después de que se resuelva este efecto, no puedes activar cartas, o efectos de cartas, con su nombre. Sólo puedes usar este efecto de \"Trampa Lavandera\" una vez por turno.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/11/04",
+  "species_id": 25,
+  "starchip": "0"
+}

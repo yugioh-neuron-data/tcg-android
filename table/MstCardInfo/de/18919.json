@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 18919,
+  "card_name": "Feuerausstoß",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lege 1 Pyro-Monster von deinem Deck auf den Friedhof, dann, falls du ein „Vulkanisch“-Monster auf den Friedhof gelegt hast, kannst du 1 dieser Effekte ausführen.$N●Füge deinem Gegner Schaden in Höhe seiner Stufe x 100 zu.$N●Beschwöre 1 „Bombe-Spielmarke“ (Pyro/FEUER/Stufe 1/ATK 1000/DEF 1000) als Spezialbeschwörung auf die Spielfeldseite deines Gegners. Jedes Mal, wenn 1 zerstört wird, erhält ihr Beherrscher 500 Schaden.$NDu kannst nur 1 „Feuerausstoß“ pro Spielzug aktivieren.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/08/10",
+  "species_id": 24,
+  "starchip": "0"
+}

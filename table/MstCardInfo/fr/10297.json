@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 10297,
+  "card_name": "Mémoire d'un Adversaire",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsqu'un monstre de votre adversaire déclare une attaque : vous recevez des dommages égaux à l'ATK du monstre attaquant, et si vous le faites, bannissez le monstre. Durant la End Phase du prochain tour de votre adversaire, Invoquez Spécialement le monstre sur votre Terrain.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/11/08",
+  "species_id": 25,
+  "starchip": "0"
+}

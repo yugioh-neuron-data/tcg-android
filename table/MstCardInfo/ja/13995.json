@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 1,
+  "card_id": 13995,
+  "card_name": "ワルキューレ・ヴリュンヒルデ",
+  "card_name_label": "ワルキューレ・ヴリュンヒルデ",
+  "card_name_search": "わるきゅーれう゛りゅんひるで",
+  "card_pen_effect": "",
+  "card_text": "①：このカードの攻撃力は、相手フィールドのモンスターの数×５００アップする。②：このカードは相手の魔法カードの効果を受けない。③：相手モンスターの攻撃宣言時に発動できる。このカードの守備力を１０００ダウンし、このターン、自分の「ワルキューレ」モンスターは戦闘では破壊されない。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/09/14",
+  "species_id": 17,
+  "starchip": "7"
+}

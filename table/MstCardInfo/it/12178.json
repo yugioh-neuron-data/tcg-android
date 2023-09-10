@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 12178,
+  "card_name": "Segui Ala",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Attiva questa carta scegliendo come bersaglio 1 Mostro Synchro che controlli; esso non può essere distrutto in battaglia o dagli effetti delle carte del tuo avversario. All'inizio del Damage Step, se combatte con un mostro dell'avversario di Livello 5 o superiore: puoi distruggere quel mostro dell'avversario e, se lo fai, il Mostro Synchro scelto come bersaglio guadagna ATK pari all'ATK originale del mostro distrutto, fino alla fine di questo turno. Quando quel mostro lascia il Terreno, distruggi questa carta.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/01/14",
+  "species_id": 25,
+  "starchip": "0"
+}

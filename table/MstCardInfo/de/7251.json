@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 2,
+  "card_id": 7251,
+  "card_name": "Der große Saturn",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Diese Karte kann nicht als Spezialbeschwörung von der Hand oder vom Deck beschworen werden. Einmal pro Spielzug, während deiner Main Phase, kannst du 1 Karte abwerfen und 1000 Life Points zahlen, um diese Karte bis zur End Phase 1000 ATK erhalten zu lassen. Wenn diese Karte durch einen Karteneffekt deines Gegners zerstört und auf den Friedhof gelegt wird, erhalten beide Spieler Schaden in Höhe der ATK dieser Karte.",
+  "defense_power": "2200",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/02/18",
+  "species_id": 7,
+  "starchip": "8"
+}

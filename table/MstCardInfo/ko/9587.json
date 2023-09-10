@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 4,
+  "card_id": 9587,
+  "card_name": "라바르 건맨",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드가 일반 소환에 성공했을 때, 자신의 묘지에 \"라바르 건맨\" 이외의 \"라바르\"라는 이름이 붙은 몬스터가 존재할 경우, 덱 위에서 카드를 5장까지 묘지로 보내고 발동할 수 있다. 이 카드의 공격력은 이 효과를 발동하기 위해 묘지로 보낸 \"라바르\"라는 이름이 붙은 몬스터의 수 × 200 포인트 올린다.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/11/06",
+  "species_id": 15,
+  "starchip": "4"
+}

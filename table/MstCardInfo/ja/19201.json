@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 19201,
+  "card_name": "ファイヤー・バック",
+  "card_name_label": "ファイヤー・バック",
+  "card_name_search": "ふぁいやーばっく",
+  "card_pen_effect": "",
+  "card_text": "このカード名の②の効果は１ターンに１度しか使用できない。$N①：自分の墓地の炎属性モンスター１体を対象として発動できる。自分の手札を１枚選んで墓地へ送り、対象のモンスターを特殊召喚する。$N②：墓地のこのカードを除外し、自分の墓地・除外状態の炎属性モンスター３体を対象として発動できる。そのモンスターをデッキに戻す。その後、自分は１枚ドローする。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/07/22",
+  "species_id": 24,
+  "starchip": "0"
+}

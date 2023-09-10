@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14928,
+  "card_name": "スマイル・アクション",
+  "card_name_label": "スマイル・アクション",
+  "card_name_search": "すまいるあくしょん",
+  "card_pen_effect": "",
+  "card_text": "①：このカードの発動時の効果処理として、お互いのプレイヤーは、それぞれ自分の墓地から魔法カードを５枚まで選んで裏側表示で除外できる。②：モンスターの攻撃宣言時に発動する。攻撃されたプレイヤーは以下の効果を適用できる。$N●このカードの効果で除外した自分のカードの中からランダムに１枚選び、手札に加える。その後、そのカードを捨ててその攻撃を無効にできる。捨てなかった場合、このターン、自分が受ける戦闘ダメージは倍になる。",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/11/09",
+  "species_id": 24,
+  "starchip": "0"
+}

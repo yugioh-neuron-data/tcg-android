@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 5989,
+  "card_name": "魔法封印の呪符",
+  "card_name_label": "まほうふういんのじゅふ",
+  "card_name_search": "まほうふういんのじゅふ",
+  "card_pen_effect": "",
+  "card_text": "「封印師 メイセイ」が自分フィールド上に存在している時のみ発動する事ができる。このカードがフィールド上に存在する限り魔法カードは発動できず、全てのフィールド上魔法カードの効果は無効になる。「封印師 メイセイ」が自分フィールド上に存在しなくなった時、このカードを破壊する。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2003/11/20",
+  "species_id": 25,
+  "starchip": "0"
+}

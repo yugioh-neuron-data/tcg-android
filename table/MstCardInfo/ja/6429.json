@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 2,
+  "card_id": 6429,
+  "card_name": "黒魔導師クラン",
+  "card_name_label": "くろまどうしクラン",
+  "card_name_search": "くろまどうしくらん",
+  "card_pen_effect": "",
+  "card_text": "自分のスタンバイフェイズ時、相手フィールド上に存在するモンスターの数×３００ポイントダメージを相手ライフに与える。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/05/26",
+  "species_id": 18,
+  "starchip": "2"
+}

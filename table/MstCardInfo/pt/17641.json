@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 3,
+  "card_id": 17641,
+  "card_name": "Tubarão dos Sonhos",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Na primeira vez que este card seria destruído em batalha a cada turno, ele não é destruído. Você só pode usar cada um dos seguintes efeitos de \"Tubarão dos Sonhos\" uma vez por turno. Se você não controlar nenhum monstro, ou se todos os monstros que você controlar forem de ÁGUA: você pode Invocar este card por Invocação-Especial da sua mão. Quando um card ou efeito que causaria dano a você for ativado, enquanto este card estiver no seu Cemitério (exceto durante a Etapa de Dano): você pode Invocar este card por Invocação-Especial e, se isso acontecer, transforme em 0 esse dano de efeito a você. Se Invocado desta forma, ele perde 1000 de DEF e, além disso, bana-o quando ele deixar o campo.",
+  "defense_power": "2600",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/11/17",
+  "species_id": 8,
+  "starchip": "5"
+}

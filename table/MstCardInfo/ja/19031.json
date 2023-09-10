@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 19031,
+  "card_name": "トライアングル－O",
+  "card_name_label": "トライアングル－オー",
+  "card_name_search": "とらいあんぐるおー",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。$N①：自分フィールドに「水晶ドクロ」「アショカ・ピラー」「カブレラストーン」が全て存在する場合に発動できる。フィールドのカードを全て破壊する。このターン、自分が受ける効果ダメージは代わりに相手が受ける。$N②：墓地のこのカードを除外し、自分の墓地の「水晶ドクロ」「アショカ・ピラー」「カブレラストーン」を１体ずつ対象として発動できる。そのモンスターをデッキに戻す。その後、自分は３枚ドローする。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/06/10",
+  "species_id": 24,
+  "starchip": "0"
+}

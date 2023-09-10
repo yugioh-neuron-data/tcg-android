@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 6,
+  "card_id": 14010,
+  "card_name": "ネフティスの祈り手",
+  "card_name_label": "ネフティスのいのりて",
+  "card_name_search": "ねふてぃすのいのりて",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分メインフェイズに発動できる。手札を１枚選んで破壊し、デッキから「ネフティスの祈り手」以外の「ネフティス」モンスター１体を手札に加える。②：このカードが効果で破壊され墓地へ送られた場合、次の自分スタンバイフェイズに発動できる。デッキから「ネフティス」魔法・罠カード１枚を手札に加える。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/08/04",
+  "species_id": 18,
+  "starchip": "2"
+}

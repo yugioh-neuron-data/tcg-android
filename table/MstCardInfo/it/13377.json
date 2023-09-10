@@ -1,0 +1,23 @@
+{
+  "attack_power": "1100",
+  "attribute_id": 2,
+  "card_id": 13377,
+  "card_name": "Drago Bossolmizzile",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Quando viene attivato l'effetto di un Mostro Link che sceglie come bersaglio questa carta scoperta sul Terreno (Effetto Rapido): puoi distruggere questa carta, poi distruggere 1 mostro nella colonna in cui era questa carta e, se lo fai, distruggi qualsiasi mostro nelle zone adiacenti di quella carta. Durante la End Phase, se questa carta è nel Cimitero perché è stata distrutta sul Terreno in battaglia o dall'effetto di una carta e mandata lì in questo turno: puoi Evocare Specialmente 1 mostro \"Mizzile\" dal tuo Deck, eccetto \"Drago Bossolmizzile\". Puoi utilizzare ogni effetto di \"Drago Bossolmizzile\" una sola volta per turno.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/02/01",
+  "species_id": 1,
+  "starchip": "2"
+}

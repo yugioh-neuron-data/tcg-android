@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 1,
+  "card_id": 8785,
+  "card_name": "Gardien de la Paix",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cette carte ne peut pas être utilisée en tant que Monstre-Matériel de Synchro, excepté pour l'Invocation Synchro d'un Monstre Synchro de Niveau 7 ou plus. Une fois par tour, ce Monstre Synchro ne peut pas être détruit au combat. Chaque fois que cet effet est appliqué, ce Monstre Synchro perd 400 points d'ATK et de DEF à la fin de la Damage Step.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/05/06",
+  "species_id": 17,
+  "starchip": "3"
+}

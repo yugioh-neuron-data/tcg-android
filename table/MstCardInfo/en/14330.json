@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 14330,
+  "card_name": "Dice It",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Roll a six-sided die. Apply this effect, depending on whose turn it is.$N●During your turn: Banish cards from your GY equal to the result. Then, if the result was 1, send 6 cards from the top of your Deck to the GY.$N●During your opponent's turn: Send cards from the top of your Deck to the GY equal to the result. Then, if the result was 6, banish 1 card from your GY.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/05/03",
+  "species_id": 25,
+  "starchip": "0"
+}

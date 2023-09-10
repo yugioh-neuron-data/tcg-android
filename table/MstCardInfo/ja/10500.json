@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 4,
+  "card_id": 10500,
+  "card_name": "BK スイッチヒッター",
+  "card_name_label": "バーニングナックラー スイッチヒッター",
+  "card_name_search": "ばーにんぐなっくらーすいっちひったー",
+  "card_pen_effect": "",
+  "card_text": "このカードの効果を発動するターン、自分は「BK」モンスターしか特殊召喚できない。①：このカードが召喚した時、自分の墓地の「BK」モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/02/16",
+  "species_id": 15,
+  "starchip": "4"
+}

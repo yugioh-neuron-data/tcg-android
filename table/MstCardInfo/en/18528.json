@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 18528,
+  "card_name": "Solfachord Symphony",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Apply these effects, in sequence, based on the number of face-up \"Solfachord\" Pendulum Monsters with different names in your Extra Deck.$N●3+: \"Solfachord\" Pendulum Monsters you control gain ATK equal to their own Pendulum Scale x 300 this turn.$N●5+: You can destroy 1 card your opponent controls, then if you have an odd Pendulum Scale in your Pendulum Zone, draw 1 card.$N●7+: You can Special Summon 1 \"GranSolfachord\" monster from your Extra Deck.$NYou can only activate 1 \"Solfachord Symphony\" per turn.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/05/04",
+  "species_id": 24,
+  "starchip": "0"
+}

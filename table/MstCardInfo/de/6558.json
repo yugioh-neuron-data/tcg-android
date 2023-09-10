@@ -1,0 +1,23 @@
+{
+  "attack_power": "2700",
+  "attribute_id": 2,
+  "card_id": 6558,
+  "card_name": "Gorz der Gesandte der Finsternis",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wenn du Schaden von einer Karte erhältst, die deinem Gegner gehört: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Du darfst keine Karten kontrollieren, um diesen Effekt zu aktivieren und aufzulösen. Wenn diese Karte durch ihren Effekt als Spezialbeschwörung beschworen wird: Aktiviere den entsprechenden Effekt, basierend auf dem Typ des Schadens.$N●Kampfschaden: Beschwöre 1 „Gesandter der Finsternis-Spielmarke“ (Fee/LICHT/Stufe 7/ATK ?/DEF ?) als Spezialbeschwörung. Ihre ATK und DEF entsprechen jeweils der Menge des Kampfschadens, den du erhalten hast.$N●Effektschaden: Füge deinem Gegner Schaden in Höhe des Schadens zu, den du erhalten hast.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/07/24",
+  "species_id": 3,
+  "starchip": "7"
+}

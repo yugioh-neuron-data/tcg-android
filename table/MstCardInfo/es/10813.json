@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 1,
+  "card_id": 10813,
+  "card_name": "Noble Caballero Drystan",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Mientras controles otro monstruo \"Noble Caballero\", tu adversario no puede seleccionar con efectos de cartas a tus monstruos con menos de 1800 ATK, excepto esta carta, y sus monstruos tampoco pueden seleccionarlos para ataques. Si una Mágica de Equipo \"Armas Nobles\" es equipada a esta carta: selecciona 1 carta boca arriba en el Campo; destruye ese objetivo. Sólo puedes usar este efecto de \"Noble Caballero Drystan\" una vez por turno.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/08/08",
+  "species_id": 15,
+  "starchip": "4"
+}

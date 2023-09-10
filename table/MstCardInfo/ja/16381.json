@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16381,
+  "card_name": "SRルーレット",
+  "card_name_label": "スピードロイドルーレット",
+  "card_name_search": "すぴーどろいどるーれっと",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：手札を１枚捨てて発動できる。サイコロを１回振る。レベルの合計が出た目と同じになるように手札・デッキから「スピードロイド」モンスターを２体まで効果を無効にして特殊召喚する。特殊召喚できなかった場合、自分は出た目の数×５００LPを失う。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/05/22",
+  "species_id": 24,
+  "starchip": "0"
+}

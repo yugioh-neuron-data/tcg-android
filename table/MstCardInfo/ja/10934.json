@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 1,
+  "card_id": 10934,
+  "card_name": "No.39 希望皇ホープ・ルーツ",
+  "card_name_label": "ナンバーズ３９ きぼうおうホープ・ルーツ",
+  "card_name_search": "なんばーずさんじゅうきゅうきぼうおうほーぷるーつ",
+  "card_pen_effect": "",
+  "card_text": "レベル１モンスター×２$N①：自分または相手モンスターの攻撃宣言時、このカードのX素材を１つ取り除いて発動できる。その攻撃を無効にし、そのモンスターがXモンスターだった場合、このカードの攻撃力はそのモンスターのランク×５００アップする。",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/11/16",
+  "species_id": 15,
+  "starchip": "1"
+}

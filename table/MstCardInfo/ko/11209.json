@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 11209,
+  "card_name": "고스트릭 브레이크",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "자신 필드 위의 \"고스트릭\"이라는 이름이 붙은 몬스터 1장이 전투 또는 상대 카드의 효과에 의해서 파괴되어 묘지로 보내졌을 때, 파괴된 그 몬스터와 카드명이 다른, \"고스트릭\"이라는 이름이 붙은 몬스터 2장을 자신의 묘지에서 선택하고 뒷면 수비 표시로 특수 소환한다.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/05/13",
+  "species_id": 25,
+  "starchip": "0"
+}

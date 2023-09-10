@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 2,
+  "card_id": 14107,
+  "card_name": "孤高除獣",
+  "card_name_label": "ココウノケモノ",
+  "card_name_search": "ここうのけもの",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚に成功した時、手札からモンスター１体を除外して発動できる。デッキからそのモンスターと同じ種族のモンスター１体を除外する。②：このカードが戦闘または相手の効果で破壊された場合、除外されている自分のモンスター１体を対象として発動できる。そのモンスターを手札に加える。",
+  "defense_power": "300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/10/13",
+  "species_id": 11,
+  "starchip": "4"
+}

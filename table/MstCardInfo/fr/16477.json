@@ -1,0 +1,23 @@
+{
+  "attack_power": "-1",
+  "attribute_id": 1,
+  "card_id": 16477,
+  "card_name": "Alakan le Triomphe Harlequin",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si cette carte est dans votre main ou Cimetière : vous pouvez envoyer 1 \"Chevalier de la Reine\", \"Chevalier du Roi\" et \"Chevalier du Valet\" depuis votre main et/ou Zone Monstre face recto au Cimetière ; Invoquez Spécialement cette carte. Cette carte gagne 500 ATK x la somme du nombre de cartes dans la main de chaque joueur. Vous pouvez défausser 1 carte ; détruisez toutes les cartes face recto contrôlées par votre adversaire du même type (Monstre, Magie ou Piège) que la carte défaussée.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/07/08",
+  "species_id": 15,
+  "starchip": "10"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 2,
+  "card_id": 14271,
+  "card_name": "カオス・ベトレイヤー",
+  "card_name_label": "カオス・ベトレイヤー",
+  "card_name_search": "かおすべとれいやー",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが墓地に存在する場合、自分の墓地から「カオス・ベトレイヤー」以外の光属性と闇属性のモンスターを１体ずつ除外して発動できる。このカードを守備表示で特殊召喚する。この効果で特殊召喚したこのカードは、フィールドから離れた場合に除外される。②：このカードが特殊召喚に成功した場合、相手の墓地のカード１枚を対象として発動できる。そのカードを除外する。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/01/12",
+  "species_id": 3,
+  "starchip": "6"
+}

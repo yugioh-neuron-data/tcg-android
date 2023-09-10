@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 5,
+  "card_id": 12401,
+  "card_name": "Performapal Gongato",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Once per turn, when an opponent's monster declares a direct attack: You can activate this effect; you take no battle damage from that battle (even if this card leaves the field).",
+  "card_text": "Once per turn, when an attack is declared involving a monster you control and an opponent's monster: You can activate this effect; you take no battle damage from that battle.",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "2",
+  "pen_scale_r": "2",
+  "sales_at": "2016/08/05",
+  "species_id": 11,
+  "starchip": "1"
+}

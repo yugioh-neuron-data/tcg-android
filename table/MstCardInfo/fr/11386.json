@@ -1,0 +1,23 @@
+{
+  "attack_power": "2100",
+  "attribute_id": 1,
+  "card_id": 11386,
+  "card_name": "Stellchevalier Triwinter",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "3 monstres \"tellchevalier\" de Niveau 4$NDurant le tour où vous Invoquez par Xyz cette carte, vous ne pouvez pas Invoquer Spécialement de monstres (monstres \"tellchevalier\" exclus). Si cette carte est Invoquée par Xyz : renvoyez toutes les autres cartes sur le Terrain à la main. Une fois par tour : vous pouvez détacher 1 Matériel Xyz de cette carte ; envoyez 1 carte au hasard depuis la main de votre adversaire au Cimetière. Si cette carte avec du Matériel Xyz est envoyée au Cimetière : vous pouvez cibler 1 monstre \"tellchevalier\" dans votre Cimetière ; Invoquez-le Spécialement.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/11/06",
+  "species_id": 15,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 1,
+  "card_id": 17247,
+  "card_name": "Wake Up Your E・HERO",
+  "card_name_label": "ウェイク アップ ユア エレメンタルヒーロー",
+  "card_name_search": "うぇいくあっぷゆあえれめんたるひーろー",
+  "card_pen_effect": "",
+  "card_text": "「E・HERO」融合モンスター＋戦士族モンスター１体以上$Nこのカードは融合召喚でしか特殊召喚できない。①：このカードの攻撃力はこのカードの融合素材としたモンスターの数×３００アップし、その内の融合モンスターの数まで１度のバトルフェイズ中にモンスターに攻撃できる。②：このカードがモンスターと戦闘を行ったダメージ計算後に発動する。そのモンスターを破壊し、その元々の攻撃力分のダメージを相手に与える。③：融合召喚したこのカードが破壊された場合に発動する。手札・デッキから戦士族モンスター１体を特殊召喚する。",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/02/19",
+  "species_id": 15,
+  "starchip": "10"
+}

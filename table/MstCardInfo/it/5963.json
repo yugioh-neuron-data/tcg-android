@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 2,
+  "card_id": 5963,
+  "card_name": "Scavatore a Punte",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Quando questa carta distrugge un mostro in seguito ad una battaglia e lo manda al Cimitero, infliggi ai Life Points del tuo avversario un danno pari al Livello del mostro distrutto x 500 punti.",
+  "defense_power": "1700",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/06/01",
+  "species_id": 7,
+  "starchip": "5"
+}

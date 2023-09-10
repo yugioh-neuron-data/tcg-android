@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 17461,
+  "card_name": "Extensión Terrogarra",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Puedes activar 1 de los siguientes efectos.$N●Selecciona 1 monstruo \"Terrogarra\" o 1 \"Visas Starfrost\" en tu Zona de Monstruos, y 1 monstruo boca arriba que controle tu adversario; tu monstruo gana ATK/DEF iguales al ATK o DEF del monstruo de tu adversario (lo que sea mayor).$N●Cuando es activada una carta o efecto que seleccione un monstruo \"Terrogarra\" o \"Visas Starfrost\" que controlas: niega ese efecto.$NSólo puedes activar 1 \"Extensión Terrogarra\" por turno.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/08/04",
+  "species_id": 24,
+  "starchip": "0"
+}

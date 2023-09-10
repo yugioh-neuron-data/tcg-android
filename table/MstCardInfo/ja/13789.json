@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 13789,
+  "card_name": "クルセイド・パラディオン",
+  "card_name_label": "クルセイド・パラディオン",
+  "card_name_search": "くるせいどぱらでぃおん",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：このカードは自分フィールドの、「パラディオン」モンスターまたは「星遺物」モンスター１体をリリースして発動する事もできる。その場合、そのモンスターと元々のカード名が異なる、「パラディオン」モンスターまたは「星遺物」モンスター１体を自分のデッキ・墓地から選んで特殊召喚する。②：自分フィールドに「パラディオン」リンクモンスターが存在する限り、相手はリンクモンスターしか攻撃対象に選択できない。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/04/14",
+  "species_id": 25,
+  "starchip": "0"
+}

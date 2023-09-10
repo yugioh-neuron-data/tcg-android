@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 1,
+  "card_id": 6031,
+  "card_name": "Scommettitore della Sabbia",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lancia una moneta 3 volte. Se il risultato è 3 volte testa, distruggi tutti i mostri sul Terreno del tuo avversario. Se il risultato è 3 volte croce, distruggi tutti i mostri sul tuo Terreno. Questo effetto può essere usato solo una volta per turno durante la tua Main Phase.",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/06/01",
+  "species_id": 18,
+  "starchip": "3"
+}

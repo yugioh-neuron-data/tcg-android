@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 5,
+  "card_id": 18790,
+  "card_name": "幻爪の王ガゼル",
+  "card_name_label": "げんそうのおうガゼル",
+  "card_name_search": "げんそうのおうがぜる",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。$N①：このカードが召喚・特殊召喚した場合に発動できる。デッキから悪魔族・レベル５モンスター１体か「合成獣融合」１枚を手札に加える。$N②：このカードが融合召喚の素材となって墓地へ送られた場合に発動できる。デッキから幻想魔族モンスター１体を手札に加える。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/04/22",
+  "species_id": 11,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 6,
+  "card_id": 13996,
+  "card_name": "Carruaje de la Fortuna",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "(Esta carta también se trata siempre como una carta \"Valquiria-\").$NUna vez por turno, puedes: seleccionar 1 monstruo Hada que controles; equipa esta carta a ese objetivo, O: desequipa esta carta e Invócala de Modo Especial. Si el monstruo equipado fuera a ser destruido en batalla o por el efecto de una carta, destruye esta carta en su lugar. El monstruo equipado puede atacar directamente, pero cuando lo hace usando este efecto, el daño de batalla infligido a tu adversario se divide a la mitad.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 8,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/08/16",
+  "species_id": 17,
+  "starchip": "6"
+}

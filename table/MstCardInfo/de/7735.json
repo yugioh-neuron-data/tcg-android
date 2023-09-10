@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 7735,
+  "card_name": "Rotdrachen-Erzunterweltler",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Empfänger + 1+ Nicht-Empfänger-Monster$NNach der Schadensberechnung, falls diese Karte ein Monster eines Gegners in Verteidigungsposition angegriffen hat: Zerstöre alle Monster in Verteidigungsposition, die dein Gegner kontrolliert. Einmal pro Spielzug, während deiner End Phase: Zerstöre alle anderen Monster, die du kontrollierst und die in diesem Spielzug keinen Angriff deklariert haben. Diese Karte muss offen auf dem Spielfeld liegen, um diesen Effekt zu aktivieren und aufzulösen.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/08/19",
+  "species_id": 1,
+  "starchip": "8"
+}

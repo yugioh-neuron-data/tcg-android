@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16252,
+  "card_name": "古代遺跡の静粛",
+  "card_name_label": "トラミッド・ローディング",
+  "card_name_search": "とらみっどろーでぃんぐ",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが魔法＆罠ゾーンに存在し、フィールドゾーンにフィールド魔法カードが表側表示で置かれた場合に発動できる。デッキから「古代遺跡の静粛」以外の「トラミッド」魔法・罠カード１枚を手札に加える。②：自分フィールドの表側表示の岩石族モンスターが戦闘または相手の効果で破壊された場合に発動できる。破壊されたモンスターとはカード名が異なる「トラミッド」モンスター１体をデッキから特殊召喚する。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/04/17",
+  "species_id": 24,
+  "starchip": "0"
+}

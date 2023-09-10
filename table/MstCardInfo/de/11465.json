@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 11465,
+  "card_name": "Nordische Schlange Jormungardr",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Falls ein „Asen“-Monster auf dem Spielfeld liegt, kannst du diese Karte als Spezialbeschwörung (von deiner Hand) auf die Spielfeldseite deines Gegners in die Verteidigungsposition beschwören. Falls kein „Asen“-Monster auf dem Spielfeld liegt, zerstöre diese Karte. Falls diese Karte in offener Verteidigungsposition, die du kontrollierst, in die offene Angriffsposition geändert wird: Du erhältst 3000 Schaden. Dieser Effekt kann nur einmal verwendet werden, solange diese Karte offen auf dem Spielfeld liegt.",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/10/23",
+  "species_id": 1,
+  "starchip": "8"
+}

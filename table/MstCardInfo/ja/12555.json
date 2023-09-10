@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 2,
+  "card_id": 12555,
+  "card_name": "花札衛－芒－",
+  "card_name_label": "カーディアン－すすき－",
+  "card_name_search": "かーでぃあんすすき",
+  "card_pen_effect": "",
+  "card_text": "①：自分フィールドにレベル７以下の「花札衛」モンスターが存在する場合に発動できる。このカードを手札から特殊召喚する。この効果の発動後、ターン終了時まで自分は「花札衛」モンスターしか召喚・特殊召喚できない。②：このカードが召喚・特殊召喚に成功した場合に発動できる。手札の「花札衛」モンスターを任意の数だけ相手に見せ、デッキに戻してシャッフルする。その後、自分はデッキに戻した数だけデッキからドローする。",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/05/14",
+  "species_id": 15,
+  "starchip": "8"
+}

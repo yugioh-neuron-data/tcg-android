@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 6993,
+  "card_name": "Fuerza Neos",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Sólo puedes equipar esta carta a \"HÉROE Elemental Neos\", que gana 800 ATK. Cuando \"HÉROE Elemental Neos\" destruye a otro monstruo en batalla y lo manda al Cementerio, inflige daño a tu adversario igual al ATK original del monstruo destruido. Durante la End Phase, devuelve esta carta al Deck y barájalo.",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/02/28",
+  "species_id": 24,
+  "starchip": "0"
+}

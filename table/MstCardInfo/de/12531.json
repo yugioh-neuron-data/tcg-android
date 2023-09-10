@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 1,
+  "card_id": 12531,
+  "card_name": "Künstlerkumpel Horn",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Einmal pro Spielzug, während deiner Main Phase, falls diese Karte in diesem Spielzug als Normal- oder Spezialbeschwörung beschworen wurde: Du kannst 1 anderes „Künstlerkumpel“-Monster mit 1000 oder weniger ATK wählen, das du kontrollierst; ändere sowohl es als auch diese Karte, die du kontrollierst, aus der offenen Angriffsposition in die Verteidigungsposition und falls du dies tust, füge deiner Hand 1 „Buntäugig“-Monster von deinem Deck hinzu. Während des Spielzugs deines Gegners (Schnelleffekt): Du kannst 1 „Künstlerkumpel“-Monster, außer „Künstlerkumpel Horn“, und diese Karte von deinem Friedhof verbannen; du erhältst 500 LP.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/08/18",
+  "species_id": 12,
+  "starchip": "3"
+}

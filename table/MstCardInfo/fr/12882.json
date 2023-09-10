@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 5,
+  "card_id": 12882,
+  "card_name": "Barracuda Potartiste",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Une fois par tour, si votre monstre \"Potartiste\" combat un monstre de votre adversaire, avant le calcul des dommages : vous pouvez faire perdre au monstre de votre adversaire une ATK égale à la différence entre son ATK d'origine et son ATK actuelle (même si cette carte quitte le Terrain).",
+  "card_text": "Durant le tour de chaque joueur : vous pouvez cibler 1 monstre \"Potartiste\" dont l'ATK actuelle est différente de son ATK d'origine ; jusqu'à la fin de ce tour, il gagne une ATK égale à la différence. Vous ne pouvez utiliser cet effet de \"Barracuda Potartiste\" qu'une fois par tour.",
+  "defense_power": "1100",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2017/05/25",
+  "species_id": 13,
+  "starchip": "3"
+}

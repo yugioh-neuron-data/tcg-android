@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 14254,
+  "card_name": "Überflussdrache",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wenn ein oder mehr Monster auf dem Spielfeld durch einen Karteneffekt zerstört werden (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören, dann, falls durch den Karteneffekt 2 oder mehr Monster auf dem Spielfeld zerstört wurden, kannst du 1 „Überfluss-Spielmarke“ (Drache/FINSTERNIS/Stufe 1/ATK 0/DEF 0) als Spezialbeschwörung beschwören. Du kannst diesen Effekt von „Überflussdrache“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/05/02",
+  "species_id": 1,
+  "starchip": "1"
+}

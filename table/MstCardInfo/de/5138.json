@@ -1,0 +1,23 @@
+{
+  "attack_power": "400",
+  "attribute_id": 6,
+  "card_id": 5138,
+  "card_name": "Bombardierkäfer",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "FLIPP: Nimm 1 Monsterkarte, die verdeckt in Verteidigungsposition auf der Spielfeldseite deines Gegners liegt, auf und schau sie dir an. Wenn es eine Effektmonsterkarte ist, zerstöre sie (ihr Flippeffekt wird nicht aktiviert). Wenn es keine Effektmonsterkarte ist, lege sie in ihre ursprüngliche Position zurück.",
+  "defense_power": "900",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 24,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/10/20",
+  "species_id": 10,
+  "starchip": "2"
+}

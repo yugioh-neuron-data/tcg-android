@@ -1,0 +1,23 @@
+{
+  "attack_power": "1900",
+  "attribute_id": 5,
+  "card_id": 9659,
+  "card_name": "発条機甲ゼンマイスター",
+  "card_name_label": "ぜんまいきこうゼンマイスター",
+  "card_name_search": "ぜんまいきこうぜんまいすたー",
+  "card_pen_effect": "",
+  "card_text": "レベル４モンスター×２$Nこのカードの攻撃力は、このカードのエクシーズ素材の数×３００ポイントアップする。１ターンに１度、このカードのエクシーズ素材を１つ取り除き、自分フィールド上に表側表示で存在するモンスター１体を選択して発動する事ができる。選択したモンスターを裏側守備表示にする。このターンのエンドフェイズ時、選択したモンスターは表側攻撃表示になる。",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/04/16",
+  "species_id": 7,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 1,
+  "card_id": 8644,
+  "card_name": "聖なるあかり",
+  "card_name_label": "せいなるあかり",
+  "card_name_search": "せいなるあかり",
+  "card_pen_effect": "",
+  "card_text": "このカードは闇属性モンスターとの戦闘では破壊されず、その戦闘によって発生する自分への戦闘ダメージは０になる。また、このカードがフィールド上に表側表示で存在する限り、闇属性モンスターは攻撃宣言できず、お互いに闇属性モンスターを召喚・特殊召喚できない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/11/14",
+  "species_id": 17,
+  "starchip": "1"
+}

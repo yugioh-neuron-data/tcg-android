@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 2,
+  "card_id": 12705,
+  "card_name": "Dystopia - EROE del Destino",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 mostri \"EROE del Destino\"$NSe questa carta viene Evocata Specialmente: puoi scegliere come bersaglio 1 mostro \"EROE del Destino\" di Livello 4 o inferiore nel tuo Cimitero; infliggi al tuo avversario danno pari all'ATK di quel bersaglio. Se l'ATK attuale di questa carta è diverso dal suo ATK originale (eccetto durante il Damage Step) (Effetto Rapido): puoi scegliere come bersaglio 1 carta sul Terreno; distruggila e, se lo fai, l'ATK di questa carta diventa pari all'ATK originale di questa carta. Puoi utilizzare ogni effetto di \"Dystopia - EROE del Destino\" una sola volta per turno.",
+  "defense_power": "2400",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/11/17",
+  "species_id": 15,
+  "starchip": "8"
+}

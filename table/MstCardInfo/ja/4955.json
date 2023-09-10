@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 4955,
+  "card_name": "大騒動",
+  "card_name_label": "おおそうどう",
+  "card_name_search": "おおそうどう",
+  "card_pen_effect": "",
+  "card_text": "相手のコントロールするカードの効果によって、自分のモンスターがフィールドから手札に戻された時に発動する事ができる。フィールド上の全モンスターを持ち主の手札に戻す。その後、お互いに戻された数のモンスターを裏側守備表示で手札から特殊召喚する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2000/09/28",
+  "species_id": 25,
+  "starchip": "0"
+}

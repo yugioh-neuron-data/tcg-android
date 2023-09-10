@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15334,
+  "card_name": "Cañón Llameante",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "(Esta carta también se trata siempre como una carta \"Acelerador de Llama\".)$NHasta el final de este turno, un \"El Dragón Alado de Ra\" que controles gana los siguientes efectos. La activación y el efecto de esta carta no pueden ser negados.$N●Esta carta no es afectada por los efectos de cartas de tu adversario.$N●Cuando es declarado un ataque que involucre esta carta: puedes Sacrificar cualquier cantidad de otros monstruos que no declararon un ataque este turno; hasta el final de este turno esta carta gana ATK igual al ATK original combinado de los monstruos Sacrificados.$N●Después del cálculo de daño, si esta carta atacó: puedes mandar al Cementerio todos los monstruos que controle tu adversario.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/09/24",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 2,
+  "card_id": 6658,
+  "card_name": "D-HERO デビルガイ",
+  "card_name_label": "デステニーヒーロー　デビルガイ",
+  "card_name_search": "ですてにーひーろーでびるがい",
+  "card_pen_effect": "",
+  "card_text": "このカードが自分フィールド上に表側攻撃表示で存在する場合、１ターンに１度だけ相手モンスター１体をゲームから除外する事ができる。この効果を使用したプレイヤーはこのターン戦闘を行えない。この効果によって除外したモンスターは、２回目の自分のスタンバイフェイズ時に同じ表示形式で相手フィールド上に戻る。",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/02/16",
+  "species_id": 15,
+  "starchip": "3"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 9238,
+  "card_name": "武闘円舞",
+  "card_name_label": "バトルワルツ",
+  "card_name_search": "ばとるわるつ",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上に表側表示で存在するシンクロモンスター１体を選択して発動する。そのモンスターと同じ種族・属性・レベル・攻撃力・守備力を持つ「ワルツトークン」１体を自分フィールド上に特殊召喚する。このトークンの戦闘によって発生するお互いのプレイヤーへの戦闘ダメージは０になる。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/10/16",
+  "species_id": 24,
+  "starchip": "0"
+}

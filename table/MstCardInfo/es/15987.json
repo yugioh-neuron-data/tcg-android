@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 1,
+  "card_id": 15987,
+  "card_name": "Ancamufrito",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Si no tienes cartas en tu Deck Extra excepto \"Ancamufrito\": puedes destruir esta carta, y después robar 1 carta. Sólo puedes usar este efecto de \"Ancamufrito\" una vez por turno.",
+  "card_text": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial (desde tu Deck Extra boca arriba) no teniendo cartas en tu Deck Extra excepto \"Ancamufrito\". Sólo puedes Invocar de Modo Especial \"Ancamufrito\" una vez por turno de esta forma. Si esta carta boca arriba en la Zona de Monstruos deja el Campo, destiérrala.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 40,
+  "pen_scale_l": "4",
+  "pen_scale_r": "4",
+  "sales_at": "2021/06/03",
+  "species_id": 18,
+  "starchip": "5"
+}

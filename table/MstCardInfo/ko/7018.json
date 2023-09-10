@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 1,
+  "card_id": 7018,
+  "card_name": "메탈 슈터",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드가 일반 소환에 성공했을 때, 이 카드에 카운터를 2개 놓는다. 이 효과에 의해서 카드에 얹힌 카운터 1개당, 이 카드의 공격력은 800 포인트 올린다. 이 카드가 다른 카드의 효과에 의해서 파괴될 경우, 대신에 이 카드의 카운터를 1개 제거한다.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/02/01",
+  "species_id": 7,
+  "starchip": "5"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13002,
+  "card_name": "Almas en Choque",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante el cálculo de daño, si tu monstruo en Posición de Ataque batalla con un monstruo de tu adversario en Posición de Ataque con un ATK mayor: el controlador del monstruo batallante con menor ATK puede pagar 500 LP para que ese monstruo gane 500 ATK sólo durante el cálculo de daño, y después seguir repitiendo este efecto hasta que un jugador elija no pagar LP. Ningún jugador recibe daño de batalla de esa batalla y, además, después del cálculo de daño, si un monstruo de cualquier jugador fuera a ser destruido en esa batalla, manda al Cementerio todas las cartas que ese jugador controle en su lugar.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/03/30",
+  "species_id": 24,
+  "starchip": "0"
+}

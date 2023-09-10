@@ -1,0 +1,23 @@
+{
+  "attack_power": "5000",
+  "attribute_id": 2,
+  "card_id": 11943,
+  "card_name": "絶望神アンチホープ",
+  "card_name_label": "ぜつぼうしんアンチホープ",
+  "card_name_search": "ぜつぼうしんあんちほーぷ",
+  "card_pen_effect": "",
+  "card_text": "このカードは通常召喚できない。自分フィールドの表側表示のレベル１モンスター４体を墓地へ送った場合のみ手札・墓地から特殊召喚できる。①：このカードがモンスターゾーンに存在する限り、他の自分のモンスターは攻撃できない。②：このカードが戦闘を行うバトルステップ中に１度、自分の墓地のレベル１モンスター１体を除外して発動できる。このカードはそのダメージステップ終了時まで、他のカードの効果を受けず、戦闘では破壊されない。",
+  "defense_power": "5000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/06/20",
+  "species_id": 3,
+  "starchip": "12"
+}

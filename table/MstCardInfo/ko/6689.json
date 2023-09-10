@@ -1,0 +1,23 @@
+{
+  "attack_power": "2900",
+  "attribute_id": 1,
+  "card_id": 6689,
+  "card_name": "라이트닝 기어－굉룡",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드는 제물 1장으로 소환할 수 있다. 이 방법으로 소환했을 경우, 이 카드는 엔드 페이즈시에 묘지로 보내진다. 또한, 이 카드가 수비 표시 몬스터를 공격했을 때, 그 수비력을 공격력이 넘었으면, 그 수치만큼 상대 라이프에 전투 데미지를 준다.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/09/01",
+  "species_id": 17,
+  "starchip": "8"
+}

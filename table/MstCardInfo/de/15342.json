@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15342,
+  "card_name": "Meklord-Umlenkung",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wähle 1 „Meklord“-Monster, das du kontrollierst; dein Gegner erhält bis zum Ende dieses Spielzugs keinen Kampfschaden aus Angriffen, an denen das offene Monster beteiligt ist, zusätzlich werden seine ATK (dauerhaft) gleich der Summe der Grund-ATK aller „Meklord“-Monster, die du derzeit kontrollierst. Falls ein oder mehr „Meklord“-Monster, die du kontrollierst, durch Kampf oder einen Karteneffekt zerstört würden, kannst du stattdessen diese Karte von deinem Friedhof verbannen. Du kannst nur 1 „Meklord-Umlenkung“ pro Spielzug aktivieren.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/09/24",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 3,
+  "card_id": 12135,
+  "card_name": "Brachion Dinobrume",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Une fois, tant que cette carte est dans votre Zone Pendule, vous pouvez annuler un effet de carte activé qui cible une ou plusieurs autres cartes \"Dinobrume\" que vous contrôlez, puis détruisez cette carte.",
+  "card_text": "Si vous ne contrôlez pas \"Brachion Dinobrume\" dans votre Zone Monstre et que votre adversaire contrôle un monstre qui a la plus haute ATK sur le Terrain (même en cas d'égalité), vous pouvez Invoquer Spécialement cette carte (depuis votre main).",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "6",
+  "pen_scale_r": "6",
+  "sales_at": "2016/01/14",
+  "species_id": 7,
+  "starchip": "5"
+}

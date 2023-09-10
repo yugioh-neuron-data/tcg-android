@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 2,
+  "card_id": 13356,
+  "card_name": "Secreto Legendario de los Seis Samuráis",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando Invocas de Modo Normal o Especial uno o más monstruos \"Seis Samuráis Secretos\" (excepto durante el Damage Step): puedes Invocar esta carta de Modo Especial desde tu mano. Sólo puedes usar este efecto de \"Secreto Legendario de los Seis Samuráis\" una vez por turno. Una vez por turno: puedes desterrar 1 monstruo \"Seis Samuráis\" de Nivel 4 o menor en tu Cementerio; hasta el final de este turno, el Atributo, Nivel y ATK/DEF de esta carta se convierten en los de ese monstruo desterrado.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/01/31",
+  "species_id": 15,
+  "starchip": "4"
+}

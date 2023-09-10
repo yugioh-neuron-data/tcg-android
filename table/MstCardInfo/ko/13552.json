@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 1,
+  "card_id": 13552,
+  "card_name": "포톤 어드밴서",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드명의 ①의 방법에 의한 특수 소환은 1턴에 1번밖에 할 수 없다. ①: 필드에 \"포톤\" 몬스터가 존재할 경우, 이 카드는 패에서 특수 소환할 수 있다. ②: 필드에 이 카드 이외의 \"포톤\" 몬스터가 존재할 경우, 이 카드의 공격력은 1000 올린다.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/08/13",
+  "species_id": 15,
+  "starchip": "4"
+}

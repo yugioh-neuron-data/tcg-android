@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 5,
+  "card_id": 8622,
+  "card_name": "Maestro di Spada",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se un mostro di Tipo Guerriero che controlli attacca un mostro dell'avversario e il mostro dell'avversario non viene distrutto in battaglia, alla fine del Damage Step puoi Evocare Specialmente questa carta dalla tua mano. Durante un combattimento tra questa carta attaccante ed un mostro in Posizione di Difesa il cui DEF è inferiore all'ATK di questa carta, infliggi la differenza come danno da combattimento al tuo avversario.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/02/11",
+  "species_id": 15,
+  "starchip": "3"
+}

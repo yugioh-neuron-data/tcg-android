@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15052,
+  "card_name": "超重機回送",
+  "card_name_label": "ヘビー・フォワード",
+  "card_name_search": "へびーふぉわーど",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：このカードの発動時の効果処理として、デッキから「無限起動」モンスター１体を手札に加える事ができる。②：１ターンに１度、自分フィールドの機械族Xモンスター１体を対象とし、以下の効果から１つを選択して発動できる。$N●そのモンスターの表示形式を変更する。$N●このカードをそのモンスターの下に重ねてX素材とする。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/01/11",
+  "species_id": 24,
+  "starchip": "0"
+}

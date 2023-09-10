@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 1,
+  "card_id": 10991,
+  "card_name": "甲化鎧骨格",
+  "card_name_label": "インゼクトロン・パワード",
+  "card_name_search": "いんぜくとろんぱわーど",
+  "card_pen_effect": "",
+  "card_text": "チューナー＋チューナー以外のモンスター１体以上$N①：このカードがS召喚に成功した場合に発動する。このターン、このカードは戦闘・効果では破壊されず、自分が受ける全てのダメージは０になる。",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/09/13",
+  "species_id": 7,
+  "starchip": "6"
+}

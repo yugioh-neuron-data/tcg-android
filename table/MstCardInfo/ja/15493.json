@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 1,
+  "card_id": 15493,
+  "card_name": "双天拳の熊羆",
+  "card_name_label": "そうてんけんのゆうひ",
+  "card_name_search": "そうてんけんのゆうひ",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドの「双天」モンスター１体を対象として発動できる。そのモンスターを破壊し、デッキから「双天」魔法カード１枚を手札に加える。②：このカードが墓地に存在する状態で、効果モンスターを素材として融合召喚された自分フィールドの表側表示の「双天」融合モンスターが、戦闘または相手の効果で破壊された場合に発動できる。このカードを手札に加える。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/08/08",
+  "species_id": 15,
+  "starchip": "4"
+}

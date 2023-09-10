@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 1,
+  "card_id": 7576,
+  "card_name": "ミラクル・フリッパー",
+  "card_name_label": "ミラクル・フリッパー",
+  "card_name_search": "みらくるふりっぱー",
+  "card_pen_effect": "",
+  "card_text": "「ミラクル・フリッパー」が自分フィールド上に存在する場合、このカードは召喚・反転召喚・特殊召喚できない。このカードがフィールド上に表側表示で存在する限り、相手は他の表側表示のモンスターを攻撃対象に選択できない。このカードが戦闘によって破壊された場合、このカードを相手フィールド上に特殊召喚する。このカードが魔法・罠の効果によって破壊された場合、相手フィールド上のモンスター１体を破壊する。",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/02/23",
+  "species_id": 18,
+  "starchip": "2"
+}

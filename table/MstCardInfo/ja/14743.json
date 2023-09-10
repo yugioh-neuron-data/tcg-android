@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 5,
+  "card_id": 14743,
+  "card_name": "バイナル・ブレーダー",
+  "card_name_label": "バイナル・ブレーダー",
+  "card_name_search": "ばいなるぶれーだー",
+  "card_pen_effect": "",
+  "card_text": "通常モンスター２体$N①：このカードと相互リンクしているモンスターの数によって以下の効果を得る。$N●１体以上：このカードが相手モンスターに攻撃する攻撃宣言時に発動できる。このターン、このカードは１度のバトルフェイズ中に２回攻撃でき、このカードが相手モンスターと戦闘を行う場合、その相手モンスターはその戦闘では破壊されない。$N●２体：このカードが相手モンスターと戦闘を行ったダメージ計算後に発動できる。その相手モンスターを除外する。",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "46",
+  "linkno": "2",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/07/21",
+  "species_id": 27,
+  "starchip": ""
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16438,
+  "card_name": "Conversion Électroménageur",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Bannissez autant de Monstres Lien \"Électroménageur\" depuis votre Zone Monstre Main que possible, puis vous pouvez Invoquer Spécialement un nombre de vos Monstres Lien \"Électroménageur\" bannis, inférieur ou égal au nombre banni par cet effet. Durant votre Main Phase, si cette carte est dans votre Cimetière, sauf le tour où elle y a été envoyée : vous pouvez bannir 1 autre Magie/Piège \"Électroménageur\" depuis votre Cimetière ; ajoutez cette carte à votre main. Vous ne pouvez utiliser chaque effet de \"Conversion Électroménageur\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/12/02",
+  "species_id": 24,
+  "starchip": "0"
+}

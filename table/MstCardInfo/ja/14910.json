@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 1,
+  "card_id": 14910,
+  "card_name": "E・HERO サンライザー",
+  "card_name_label": "エレメンタルヒーロー　サンライザー",
+  "card_name_search": "えれめんたるひーろーさんらいざー",
+  "card_pen_effect": "",
+  "card_text": "属性が異なる「HERO」モンスター×２$Nこのカードは融合召喚でしか特殊召喚できない。このカード名の①③の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが特殊召喚に成功した場合に発動できる。デッキから「ミラクル・フュージョン」１枚を手札に加える。②：自分フィールドのモンスターの攻撃力は、自分フィールドのモンスターの属性の種類×２００アップする。③：このカード以外の自分の「HERO」モンスターが戦闘を行う攻撃宣言時に、フィールドのカード１枚を対象として発動できる。そのカードを破壊する。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/11/09",
+  "species_id": 15,
+  "starchip": "7"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 5,
+  "card_id": 11679,
+  "card_name": "Camarartista Compragarto",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Se você tiver um card \"Camarartista\" na sua outra Zona de Pêndulo, exceto \"Camarartista Compragarto\": você pode destruir este card e, se isso acontecer, compre 1 card. Você só pode usar este efeito de \"Camarartista Compragarto\" uma vez por turno.",
+  "card_text": "Se outro monstro com a face para cima que você controla for destruído por um ataque ou efeito de card do seu oponente: você pode comprar cards igual ao número de monstros \"Camarartista\" que você controla atualmente. Você só pode usar este efeito de \"Camarartista Compragarto\" uma vez por turno.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "6",
+  "pen_scale_r": "6",
+  "sales_at": "2015/05/14",
+  "species_id": 20,
+  "starchip": "3"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 5,
+  "card_id": 6863,
+  "card_name": "E・HERO クノスペ",
+  "card_name_label": "エレメンタルヒーロー　クノスペ",
+  "card_name_search": "えれめんたるひーろーくのすぺ",
+  "card_pen_effect": "",
+  "card_text": "相手プレイヤーに戦闘ダメージを与える度に、このカードの攻撃力は１００ポイントアップし、守備力は１００ポイントダウンする。このカードを除く「E・HERO」と名のついたモンスターが自分フィールド上に表側表示で存在する限り、相手はこのカードを攻撃対象に選択できず、このカードは相手プレイヤーに直接攻撃する事ができる。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/12/16",
+  "species_id": 13,
+  "starchip": "3"
+}

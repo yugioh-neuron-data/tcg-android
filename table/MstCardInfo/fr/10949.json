@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10949,
+  "card_name": "Mont Sylvania",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Vous pouvez envoyer 1 monstre de Type Plante depuis votre main ou face recto sur votre Terrain au Cimetière ; choisissez 1 carte \"Sylvan\" depuis votre Deck et placez-la au-dessus de votre Deck. Vous ne pouvez utiliser cet effet de \"Mont Sylvania\" qu'une fois par tour. Une fois par tour, durant la End Phase de votre adversaire : vous pouvez dévoiler la carte du dessus de votre Deck, et si c'est un monstre de Type Plante, envoyez-la au Cimetière. Sinon, placez-la au-dessus ou au-dessous de votre Deck.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/01/24",
+  "species_id": 24,
+  "starchip": "0"
+}

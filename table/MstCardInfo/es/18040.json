@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 18040,
+  "card_name": "Cosmos Ghoti",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Aplica estos efectos en secuencia, basados en el número de monstruos Pez desterrados.$N●1+: Tus monstruos Pez no pueden ser destruidos en batalla este turno.$N●4+: La activación y efectos de los efectos de monstruos Pez activados en tu Campo no pueden ser negados este turno.$N●8+: Invoca de Modo Especial 1 Monstruo de Sincronía Pez desde tu Deck Extra. (Esto se trata como una Invocación por Sincronía).$NSólo puedes activar 1 \"Cosmos Ghoti\" por turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/10/20",
+  "species_id": 25,
+  "starchip": "0"
+}

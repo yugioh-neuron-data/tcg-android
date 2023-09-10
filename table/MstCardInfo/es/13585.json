@@ -1,0 +1,23 @@
+{
+  "attack_power": "2200",
+  "attribute_id": 2,
+  "card_id": 13585,
+  "card_name": "Invasor Yajiro",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si esta carta es Invocada de Modo Normal o Especial a una zona que no sea la Zona de Monstruos Principal central, destruye esta carta. Una vez por turno: puedes mover esta carta a una Zona de Monstruos Principal adyacente que no esté siendo usada. Cada vez que exactamente 1 monstruo es Invocado de Modo Normal o Especial al Campo de tu adversario: mueve esta carta a la Zona de Monstruos Principal adyacente más cercana a la de ese monstruo del adversario, y después destruye todas las demás cartas en la columna de esta carta.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/05/03",
+  "species_id": 20,
+  "starchip": "5"
+}

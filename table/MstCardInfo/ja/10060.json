@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 5,
+  "card_id": 10060,
+  "card_name": "アブソーブポッド",
+  "card_name_label": "アブソーブポッド",
+  "card_name_search": "あぶそーぶぽっど",
+  "card_pen_effect": "",
+  "card_text": "リバース：フィールド上にセットされた魔法・罠カードを全て破壊する。破壊されたカードのコントローラーは、破壊された数だけデッキからカードをドローする。このターン、自分はカードをセットできない。",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 24,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/02/18",
+  "species_id": 6,
+  "starchip": "3"
+}

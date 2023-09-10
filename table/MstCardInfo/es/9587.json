@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 4,
+  "card_id": 9587,
+  "card_name": "Artillero Laval",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando esta carta es Invocada de Modo Normal, si tienes un monstruo \"Laval\" en tu Cementerio que no sea \"Artillero Laval\": puedes elegir un número de 1 a 5, y después mandar al Cementerio, desde la parte superior de tu Deck, esa cantidad de cartas; esta carta gana 200 ATK por cada monstruo \"Laval\" mandado al Cementerio para activar este efecto.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/07/24",
+  "species_id": 15,
+  "starchip": "4"
+}

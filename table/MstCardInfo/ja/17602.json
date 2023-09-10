@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 17602,
+  "card_name": "命の奇跡",
+  "card_name_label": "ライフ・エクストリーム",
+  "card_name_search": "らいふえくすとりーむ",
+  "card_pen_effect": "",
+  "card_text": "地属性Sモンスターにのみ装備可能。①：装備モンスターが相手モンスターと戦闘を行うダメージ計算時のみ、その相手モンスターの攻撃力は１５００ダウンする。②：１ターンに１度、モンスターの表示形式が変更された場合、フィールドのカード１枚を対象として発動できる。そのカードを破壊する。③：このカードが魔法＆罠ゾーンから墓地へ送られた場合、自分フィールドの「パワー・ツール」Sモンスター１体をリリースして発動できる。EXデッキから「ライフ・ストリーム・ドラゴン」１体をS召喚扱いで特殊召喚する。",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/05/21",
+  "species_id": 24,
+  "starchip": "0"
+}

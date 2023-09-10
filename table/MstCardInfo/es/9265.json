@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 9265,
+  "card_name": "Emperador Meklord Grannel",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial por su propio efecto. Cuando un monstruo boca arriba que controlas es destruido por efecto de una carta y mandado al Cementerio (excepto durante el Damage Step): puedes Invocar esta carta de Modo Especial desde tu mano. Una vez por turno: puedes seleccionar 1 Monstruo de Sincronía que controle tu adversario; equipa ese objetivo a esta carta. Esta carta gana ATK/DEF iguales a la mitad de tus LP y ATK igual al ATK combinado de los monstruos equipados a ella por este efecto. Puedes seleccionar 1 de estos monstruos equipados; Invoca ese objetivo de Modo Especial a tu Campo en Posición de Defensa.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/10/23",
+  "species_id": 7,
+  "starchip": "1"
+}

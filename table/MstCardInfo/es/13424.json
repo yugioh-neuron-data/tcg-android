@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13424,
+  "card_name": "Lanzamiento del Sector de Arranque",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Todos los monstruos \"Cohette\" en el Campo ganan 300 ATK/DEF.$NPuedes activar 1 de estos efectos;$N●Invoca de Modo Especial, desde tu mano, hasta 2 monstruos \"Cohette\" con nombres diferentes en Posición de Defensa.$N●Si tu adversario controla más monstruos que tú: Invoca de Modo Especial, desde tu Cementerio, hasta tantos monstruos \"Cohette\" con nombres diferentes como la diferencia, en Posición de Defensa.$NSólo puedes usar este efecto de \"Lanzamiento del Sector de Arranque\" una vez por turno.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/02/01",
+  "species_id": 24,
+  "starchip": "0"
+}

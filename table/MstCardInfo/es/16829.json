@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 2,
+  "card_id": 16829,
+  "card_name": "Mago Marrón Hábil",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cada vez que es activada una Carta Mágica, pon 1 Contador Mágico en esta carta cuando esa Mágica se resuelva (máx. 3). Puedes retirar 1 Contador Mágico de esta carta, y después activar 1 de estos efectos;$N●Esta carta gana 1500 ATK, y su Nivel es aumentado en 1.$N●Añade a tu mano 1 monstruo \"Kuriboh\" o 1 \"Multiplicar\" en tu Deck o Cementerio.$NSólo puedes usar este efecto de \"Mago Marrón Hábil\" una vez por turno.",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/02/10",
+  "species_id": 18,
+  "starchip": "4"
+}

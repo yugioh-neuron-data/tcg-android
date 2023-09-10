@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 5,
+  "card_id": 11542,
+  "card_name": "Furtivité Qliphort",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Vous ne pouvez pas Invoquer Spécialement de monstres (monstres \"Qli\" exclus). Cet effet ne peut pas être annulé. Tous les monstres \"Qli\" que vous contrôlez gagnent 300 ATK.",
+  "card_text": "Vous pouvez Invoquer Normalement cette carte sans Sacrifices. Si cette carte est Invoquée Normalement sans Sacrifices ou Invoquée Spécialement, son Niveau devient 4 et son ATK d'origine devient 1800. Si cette carte est Invoquée Normalement ou Posée Normalement, elle n'est pas affectée par les effets activés de monstres dont le Niveau/Rang d'origine est inférieur au Niveau actuel de cette carte. Lorsque cette carte est Invoquée par Sacrifice en Sacrifiant un ou plusieurs monstres \"Qli\" : vous pouvez cibler 1 carte sur le Terrain ; renvoyez-la à la main. Votre adversaire ne peut ni activer de cartes ni d'effets en réponse à l'activation de cet effet.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2015/01/15",
+  "species_id": 7,
+  "starchip": "8"
+}

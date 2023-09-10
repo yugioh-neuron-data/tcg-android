@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16555,
+  "card_name": "Petit Monde",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Révélez 1 monstre dans votre main, choisissez 1 monstre depuis votre Deck qui a exactement soit le même Type, soit le même Attribut, soit le même Niveau, soit la même ATK ou soit la même DEF, et bannissez face verso le monstre révélé depuis votre main. Puis ajoutez, depuis le Deck à votre main, 1 monstre qui a exactement soit le même Type, soit le même Attribut, soit le même Niveau, soit la même ATK ou soit la même DEF que le monstre choisi depuis votre Deck, et bannissez face verso la carte choisie depuis le Deck. Vous ne pouvez activer qu'1 \"Petit Monde\" par tour.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/11/04",
+  "species_id": 24,
+  "starchip": "0"
+}

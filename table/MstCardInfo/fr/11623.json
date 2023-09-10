@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11623,
+  "card_name": "Poing de Ferraille",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Ciblez 1 \"Robot Guerrier\" que vous contrôlez ; si la cible combat un monstre de votre adversaire ce tour tant que vous le contrôlez, appliquez ces effets.$N●Jusqu'à la fin de la Damage Step, votre adversaire ne peut ni activer de cartes ni d'effets.$N●S'il attaque un monstre en Position de Défense, infligez des dommages de combat perçants à votre adversaire.$N●Doublez les dommages de combat que votre adversaire reçoit.$N●Il ne peut pas être détruit au combat.$N●À la fin de la Damage Step, détruisez le monstre de votre adversaire qui l'a combattu.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/08/27",
+  "species_id": 24,
+  "starchip": "0"
+}

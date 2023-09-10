@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 18214,
+  "card_name": "三戦の号",
+  "card_name_label": "さんせんのごう",
+  "card_name_search": "さんせんのごう",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：このターンに相手がモンスターの効果を発動している場合に発動できる。デッキから「三戦の号」以外の通常魔法・通常罠カード１枚を選んで自分フィールドにセットする。この効果でセットしたカードはこのターン発動できない。相手フィールドにモンスターが存在する場合、代わりに選んだカードを手札に加える事もできる。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/10/15",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 2,
+  "card_id": 10052,
+  "card_name": "Donnacimice Inzektor",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Una volta per turno: puoi equipaggiare 1 mostro \"Inzektor\" dalla tua mano o Cimitero a questa carta. Mentre questa carta è equipaggiata a un mostro, il Livello di quel aumenta di 2, e inoltre esso guadagna ATK/DEF pari all'ATK/DEF di questa carta. Mentre questa carta è equipaggiata a un mostro: puoi mandare questa Carta Equipaggiamento al Cimitero, poi scegliere come bersaglio 1 mostro scoperto che controlli; aumenta il Livello di quel bersaglio di 1 o 2.",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/05/10",
+  "species_id": 10,
+  "starchip": "2"
+}

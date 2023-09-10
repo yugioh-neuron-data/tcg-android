@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 4,
+  "card_id": 14082,
+  "card_name": "Salamangrande Zorr",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si tienes 3 o más monstruos \"Salamangrande\" en tu Cementerio: puedes mandar al Cementerio esta carta en tu mano, y después selecciona 1 Monstruo de Enlace \"Salamangrande\" en tu Cementerio y 1 carta en la Zona de Magia y Trampas de tu adversario; devuelve al Deck Extra ese monstruo seleccionado en tu Cementerio y, si lo haces, destruye la carta seleccionada en el Campo. Si una o más cartas en la Zona de Magia y Trampas de tu adversario son destruidas y mandadas al Cementerio, mientras esta carta está en tu Cementerio (excepto durante el Damage Step): puedes Invocar esta carta de Modo Especial en Posición de Defensa. Sólo puedes usar 1 efecto de \"Salamangrande Zorr\" por turno, y sólo una vez ese turno.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/01/31",
+  "species_id": 27,
+  "starchip": "3"
+}

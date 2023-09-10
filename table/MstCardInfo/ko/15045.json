@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15045,
+  "card_name": "메일의 계단",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "①: 자신 메인 페이즈에 이 효과를 발동할 수 있다. 패에서 \"틴당글\" 카드 1장을 버리고, 이하의 효과에서 1개를 골라 적용한다. 이 턴에, 이 효과로 버린 카드와 같은 이름의 카드를 자신의 \"메일의 계단\"의 효과로 버릴 수 없다.$N●자신 필드의 뒷면 수비 표시 몬스터 1장을 고르고 앞면 공격 표시로 한다.$N●자신 필드의 앞면 공격 표시 몬스터 1장을 고르고 뒷면 수비 표시로 한다.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/14",
+  "species_id": 24,
+  "starchip": "0"
+}

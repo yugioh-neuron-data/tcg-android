@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 2,
+  "card_id": 14124,
+  "card_name": "クロック・リザード",
+  "card_name_label": "クロック・リザード",
+  "card_name_search": "くろっくりざーど",
+  "card_pen_effect": "",
+  "card_text": "サイバース族モンスター２体$N①：このカードをリリースして発動できる。自分の墓地から融合モンスター１体を選んでEXデッキに戻す。その後、その融合モンスターカードによって決められた融合素材モンスターを自分の墓地から除外し、その融合モンスター１体をEXデッキから融合召喚する。②：墓地のこのカードが除外された場合に発動できる。相手フィールドの特殊召喚されたモンスターの攻撃力は、ターン終了時まで自分の墓地のサイバース族モンスターの数×４００ダウンする。",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "12",
+  "linkno": "2",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/10/13",
+  "species_id": 27,
+  "starchip": ""
+}

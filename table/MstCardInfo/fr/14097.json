@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 2,
+  "card_id": 14097,
+  "card_name": "Phantazmay Dragon Fantastique",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si votre adversaire Invoque Spécialement un ou plusieurs Monstres Lien (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte depuis votre main, piochez un nombre de cartes égal au nombre de Monstres Lien contrôlés par votre adversaire +1, puis mélangez un nombre de cartes depuis votre main dans le Deck, égal au nombre de Monstres Lien qu'il contrôle. Lorsque votre adversaire active une carte ou un effet qui cible un ou plusieurs monstres que vous contrôlez (Effet Rapide) : vous pouvez défausser 1 carte ; annulez l'activation, et si vous le faites, détruisez-la. Vous ne pouvez utiliser chaque effet de \"Phantazmay Dragon Fantastique\" qu'une fois par tour.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/01/31",
+  "species_id": 1,
+  "starchip": "7"
+}

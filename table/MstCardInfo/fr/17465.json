@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 17465,
+  "card_name": "Concours de Regard Melffy",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Vous pouvez révéler 1 monstre Bête dans votre main ; ajoutez 1 monstre \"Melffy\" de nom différent depuis votre Deck ou Cimetière à votre main, et placez le monstre révélé au-dessous du Deck. Vous ne pouvez utiliser cet effet de \"Concours de Regard Melffy\" qu'une fois par tour. Au début de la Battle Phase de votre adversaire : vous pouvez révéler un nombre de votre choix de monstres \"Melffy\" dans votre main, et gardez-les révélés durant cette Battle Phase uniquement. Les monstres contrôlés par votre adversaire perdent une ATK égale à la somme des ATK/DEF des monstres révélés par cet effet.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/08/04",
+  "species_id": 24,
+  "starchip": "0"
+}

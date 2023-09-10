@@ -1,0 +1,23 @@
+{
+  "attack_power": "1900",
+  "attribute_id": 2,
+  "card_id": 11882,
+  "card_name": "デス・ウイルス・ドラゴン",
+  "card_name_label": "デス・ウイルス・ドラゴン",
+  "card_name_search": "ですういるすどらごん",
+  "card_pen_effect": "",
+  "card_text": "このカードは「クリティウスの牙」の効果で自分の手札・フィールドの「死のデッキ破壊ウイルス」を墓地へ送った場合のみ特殊召喚できる。①：このカードが特殊召喚に成功した場合に発動する。相手フィールドのモンスター、相手の手札、相手ターンで数えて３ターンの間に相手がドローしたカードを全て確認し、その内の攻撃力１５００以上のモンスターを全て破壊する。",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/05/16",
+  "species_id": 1,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 5,
+  "card_id": 15992,
+  "card_name": "Otoshidamashi",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Solange du ein Monster kontrollierst, das kein Empfänger ist, können Monster deines Gegners diese Karte nicht als Angriffsziel wählen. Falls ein oder mehr Monster vom Spielfeld auf den Friedhof deines Gegners gelegt werden: Lege 1 Otoshidamashi-Zählmarke auf diese Karte, dann beschwöre „Otoshidamashi-Spielmarken“ (Ungeheuer/ERDE/Stufe 1/ATK ?/DEF ?) bis zur Anzahl der Otoshidamashi-Zählmarken auf dieser Karte als Spezialbeschwörung. Die Stufe jeder Spielmarke wird um die Anzahl der Otoshidamashi-Zählmarken auf dieser Karte erhöht, wenn sie beschworen wird, zusätzlich entsprechen die ATK/DEF jeder Spielmarke ihrer Stufe, wenn sie beschworen wird, x 500. Du kannst diesen Effekt von „Otoshidamashi“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/06/03",
+  "species_id": 11,
+  "starchip": "1"
+}

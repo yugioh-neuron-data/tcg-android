@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 5,
+  "card_id": 10402,
+  "card_name": "아스텔 드론",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "①: 이 카드를 엑시즈 소환에 사용할 경우, 이 카드의 레벨을 5 로서 취급할 수 있다. ②: 필드의 이 카드를 소재로서 엑시즈 소환한 몬스터는 이하의 효과를 얻는다.$N●이 엑시즈 소환에 성공했을 경우에 발동한다. 자신은 덱에서 1장 드로우한다.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/02/05",
+  "species_id": 18,
+  "starchip": "4"
+}

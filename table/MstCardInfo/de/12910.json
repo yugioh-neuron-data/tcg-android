@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 6,
+  "card_id": 12910,
+  "card_name": "Weißflügel-Magierin",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Einmal pro Spielzug, wenn eine aktivierte Karte oder ein aktivierter Effekt aufgelöst wird, die oder der ein FINSTERNIS Monster vom Typ Hexer, das du kontrollierst, als Ziel wählt, annulliere den Effekt, dann zerstöre diese Karte.",
+  "card_text": "(Diese Karte wird immer als „Synchrodrache“-Karte behandelt.)$NFalls diese als Pendelbeschwörung beschworene Karte für eine Synchrobeschwörung verwendet wird, verbanne sie.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 33,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2017/06/22",
+  "species_id": 18,
+  "starchip": "4"
+}

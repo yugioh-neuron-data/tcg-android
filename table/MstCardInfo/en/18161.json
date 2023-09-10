@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 2,
+  "card_id": 18161,
+  "card_name": "Abyss Actor - Liberty Dramatist",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "When a monster declares an attack: You can discard 1 card; Special Summon this card to your opponent's field. You can only use this effect of \"Abyss Actor - Liberty Dramatist\" once per turn.",
+  "card_text": "If this card is Special Summoned from the Pendulum Zone: The owner of this card reveals 3 \"Abyss Script\" Spells from their Deck, their opponent randomly picks 1 for this card's owner to Set on their field (but the owner destroys it during the End Phase), also shuffle the rest into the Deck. If this card is destroyed: You can shuffle 1 \"Abyss Script\" Spell from your GY into the Deck. You can only use each effect of \"Abyss Actor - Liberty Dramatist\" once per turn.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "8",
+  "pen_scale_r": "8",
+  "sales_at": "2023/02/06",
+  "species_id": 3,
+  "starchip": "4"
+}

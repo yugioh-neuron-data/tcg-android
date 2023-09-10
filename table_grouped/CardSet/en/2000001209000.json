@@ -1,0 +1,947 @@
+[
+  {
+    "card_count": 1,
+    "card_id": 5051,
+    "card_image_id": 1,
+    "card_number": "DABL-EN029",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8815,
+    "card_image_id": 1,
+    "card_number": "DABL-EN100",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 47
+  },
+  {
+    "card_count": 1,
+    "card_id": 17103,
+    "card_image_id": 1,
+    "card_number": "DABL-EN092",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17610,
+    "card_image_id": 1,
+    "card_number": "DABL-EN093",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17611,
+    "card_image_id": 1,
+    "card_number": "DABL-EN094",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17612,
+    "card_image_id": 1,
+    "card_number": "DABL-EN095",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17613,
+    "card_image_id": 1,
+    "card_number": "DABL-EN096",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17614,
+    "card_image_id": 1,
+    "card_number": "DABL-EN097",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17615,
+    "card_image_id": 1,
+    "card_number": "DABL-EN098",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17616,
+    "card_image_id": 1,
+    "card_number": "DABL-EN099",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17757,
+    "card_image_id": 1,
+    "card_number": "DABL-EN001",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17758,
+    "card_image_id": 1,
+    "card_number": "DABL-EN002",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17759,
+    "card_image_id": 1,
+    "card_number": "DABL-EN003",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17760,
+    "card_image_id": 1,
+    "card_number": "DABL-EN004",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17761,
+    "card_image_id": 1,
+    "card_number": "DABL-EN005",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17762,
+    "card_image_id": 1,
+    "card_number": "DABL-EN006",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17763,
+    "card_image_id": 1,
+    "card_number": "DABL-EN007",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17764,
+    "card_image_id": 1,
+    "card_number": "DABL-EN008",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17765,
+    "card_image_id": 1,
+    "card_number": "DABL-EN009",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 17766,
+    "card_image_id": 1,
+    "card_number": "DABL-EN010",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17767,
+    "card_image_id": 1,
+    "card_number": "DABL-EN011",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 17767,
+    "card_image_id": 1,
+    "card_number": "DABL-EN011",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 47
+  },
+  {
+    "card_count": 1,
+    "card_id": 17768,
+    "card_image_id": 1,
+    "card_number": "DABL-EN012",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17769,
+    "card_image_id": 1,
+    "card_number": "DABL-EN013",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17770,
+    "card_image_id": 1,
+    "card_number": "DABL-EN014",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17771,
+    "card_image_id": 1,
+    "card_number": "DABL-EN015",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17772,
+    "card_image_id": 1,
+    "card_number": "DABL-EN016",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17772,
+    "card_image_id": 1,
+    "card_number": "DABL-EN016",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 47
+  },
+  {
+    "card_count": 1,
+    "card_id": 17773,
+    "card_image_id": 1,
+    "card_number": "DABL-EN017",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17774,
+    "card_image_id": 1,
+    "card_number": "DABL-EN018",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17775,
+    "card_image_id": 1,
+    "card_number": "DABL-EN019",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17776,
+    "card_image_id": 1,
+    "card_number": "DABL-EN020",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17777,
+    "card_image_id": 1,
+    "card_number": "DABL-EN021",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17778,
+    "card_image_id": 1,
+    "card_number": "DABL-EN022",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 17779,
+    "card_image_id": 1,
+    "card_number": "DABL-EN023",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17780,
+    "card_image_id": 1,
+    "card_number": "DABL-EN024",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17781,
+    "card_image_id": 1,
+    "card_number": "DABL-EN025",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17782,
+    "card_image_id": 1,
+    "card_number": "DABL-EN026",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17783,
+    "card_image_id": 1,
+    "card_number": "DABL-EN027",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17784,
+    "card_image_id": 1,
+    "card_number": "DABL-EN028",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17785,
+    "card_image_id": 1,
+    "card_number": "DABL-EN030",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 17785,
+    "card_image_id": 1,
+    "card_number": "DABL-EN030",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 47
+  },
+  {
+    "card_count": 1,
+    "card_id": 17786,
+    "card_image_id": 1,
+    "card_number": "DABL-EN031",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17787,
+    "card_image_id": 1,
+    "card_number": "DABL-EN032",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17788,
+    "card_image_id": 1,
+    "card_number": "DABL-EN033",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17789,
+    "card_image_id": 1,
+    "card_number": "DABL-EN034",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17790,
+    "card_image_id": 1,
+    "card_number": "DABL-EN035",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17791,
+    "card_image_id": 1,
+    "card_number": "DABL-EN036",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17792,
+    "card_image_id": 1,
+    "card_number": "DABL-EN037",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17793,
+    "card_image_id": 1,
+    "card_number": "DABL-EN038",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17794,
+    "card_image_id": 1,
+    "card_number": "DABL-EN039",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 17794,
+    "card_image_id": 1,
+    "card_number": "DABL-EN039",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 47
+  },
+  {
+    "card_count": 1,
+    "card_id": 17795,
+    "card_image_id": 1,
+    "card_number": "DABL-EN040",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17796,
+    "card_image_id": 1,
+    "card_number": "DABL-EN041",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17797,
+    "card_image_id": 1,
+    "card_number": "DABL-EN042",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17798,
+    "card_image_id": 1,
+    "card_number": "DABL-EN043",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17799,
+    "card_image_id": 1,
+    "card_number": "DABL-EN044",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17800,
+    "card_image_id": 1,
+    "card_number": "DABL-EN045",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17801,
+    "card_image_id": 1,
+    "card_number": "DABL-EN046",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17802,
+    "card_image_id": 1,
+    "card_number": "DABL-EN047",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17803,
+    "card_image_id": 1,
+    "card_number": "DABL-EN048",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 17804,
+    "card_image_id": 1,
+    "card_number": "DABL-EN049",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17805,
+    "card_image_id": 1,
+    "card_number": "DABL-EN050",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 17806,
+    "card_image_id": 1,
+    "card_number": "DABL-EN051",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 17807,
+    "card_image_id": 1,
+    "card_number": "DABL-EN052",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17808,
+    "card_image_id": 1,
+    "card_number": "DABL-EN053",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17809,
+    "card_image_id": 1,
+    "card_number": "DABL-EN054",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17810,
+    "card_image_id": 1,
+    "card_number": "DABL-EN055",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17811,
+    "card_image_id": 1,
+    "card_number": "DABL-EN056",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17812,
+    "card_image_id": 1,
+    "card_number": "DABL-EN057",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17813,
+    "card_image_id": 1,
+    "card_number": "DABL-EN058",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17814,
+    "card_image_id": 1,
+    "card_number": "DABL-EN059",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17815,
+    "card_image_id": 1,
+    "card_number": "DABL-EN060",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17816,
+    "card_image_id": 1,
+    "card_number": "DABL-EN061",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17817,
+    "card_image_id": 1,
+    "card_number": "DABL-EN062",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17818,
+    "card_image_id": 1,
+    "card_number": "DABL-EN063",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17819,
+    "card_image_id": 1,
+    "card_number": "DABL-EN064",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17820,
+    "card_image_id": 1,
+    "card_number": "DABL-EN065",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17821,
+    "card_image_id": 1,
+    "card_number": "DABL-EN066",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17822,
+    "card_image_id": 1,
+    "card_number": "DABL-EN067",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17823,
+    "card_image_id": 1,
+    "card_number": "DABL-EN068",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17824,
+    "card_image_id": 1,
+    "card_number": "DABL-EN069",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17825,
+    "card_image_id": 1,
+    "card_number": "DABL-EN070",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17826,
+    "card_image_id": 1,
+    "card_number": "DABL-EN071",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17827,
+    "card_image_id": 1,
+    "card_number": "DABL-EN072",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17828,
+    "card_image_id": 1,
+    "card_number": "DABL-EN073",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17829,
+    "card_image_id": 1,
+    "card_number": "DABL-EN074",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17830,
+    "card_image_id": 1,
+    "card_number": "DABL-EN075",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17831,
+    "card_image_id": 1,
+    "card_number": "DABL-EN076",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17832,
+    "card_image_id": 1,
+    "card_number": "DABL-EN077",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17833,
+    "card_image_id": 1,
+    "card_number": "DABL-EN078",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17834,
+    "card_image_id": 1,
+    "card_number": "DABL-EN079",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17835,
+    "card_image_id": 1,
+    "card_number": "DABL-EN080",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18030,
+    "card_image_id": 1,
+    "card_number": "DABL-EN081",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18031,
+    "card_image_id": 1,
+    "card_number": "DABL-EN082",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18032,
+    "card_image_id": 1,
+    "card_number": "DABL-EN083",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18033,
+    "card_image_id": 1,
+    "card_number": "DABL-EN000",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 18034,
+    "card_image_id": 1,
+    "card_number": "DABL-EN084",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 18035,
+    "card_image_id": 1,
+    "card_number": "DABL-EN085",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 18036,
+    "card_image_id": 1,
+    "card_number": "DABL-EN086",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18037,
+    "card_image_id": 1,
+    "card_number": "DABL-EN087",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 18038,
+    "card_image_id": 1,
+    "card_number": "DABL-EN088",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 18039,
+    "card_image_id": 1,
+    "card_number": "DABL-EN089",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 18040,
+    "card_image_id": 1,
+    "card_number": "DABL-EN090",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18041,
+    "card_image_id": 1,
+    "card_number": "DABL-EN091",
+    "language": "en",
+    "pack_id": "2000001209000",
+    "rarity_id": 3
+  }
+]

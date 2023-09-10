@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 3,
+  "card_id": 15331,
+  "card_name": "Limo Guardián",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si recibes daño de batalla o de efecto: puedes Invocar esta carta de Modo Especial desde tu mano. Durante el cálculo de daño, si esta carta batalla con un monstruo del adversario (Efecto Rápido): puedes hacer que esta carta gane DEF igual al ATK de ese monstruo del adversario, sólo durante ese cálculo de daño. Si esta carta es mandada de la mano o Campo al Cementerio: puedes añadir a tu mano 1 Mágica/Trampa en tu Deck que liste específicamente la carta \"El Dragón Alado de Ra\" en su texto. Sólo puedes usar cada efecto de \"Limo Guardián\" una vez por turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/09/24",
+  "species_id": 14,
+  "starchip": "10"
+}

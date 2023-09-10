@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 5270,
+  "card_name": "Láser de Ciclón",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Solamente \"Gradius\" puede ser equipado con esta carta. Aumenta el ATK de ese \"Gradius\" en 300 puntos. Cuando \"Gradius\" ataca con un ATK superior a la DEF de un monstruo en Posición de Defensa, inflige la diferencia a los Life Points de tu adversario como daño de batalla.",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/07/22",
+  "species_id": 24,
+  "starchip": "0"
+}

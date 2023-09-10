@@ -1,0 +1,23 @@
+{
+  "attack_power": "2200",
+  "attribute_id": 1,
+  "card_id": 8730,
+  "card_name": "마굉신수 쿠다베",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"마굉신\"이라는 이름이 붙은 튜너 ＋ 튜너 이외의 몬스터 1장 이상$N이 카드는 자신의 패의 매수에 따라서 이하의 효과를 얻는다.$N●0장 : 이 카드는 전투 및 카드의 효과로는 파괴되지 않는다.$N●3장 이상 : 엔드 페이즈시에 이 카드를 파괴한다.",
+  "defense_power": "1100",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/12/06",
+  "species_id": 11,
+  "starchip": "4"
+}

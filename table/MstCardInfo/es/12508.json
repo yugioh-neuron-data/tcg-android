@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 12508,
+  "card_name": "Espejismo de la Dimensión",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Activa esta carta seleccionando 1 monstruo en Posición de Ataque boca arriba que controle tu adversario. Al final del Damage Step, cuando ataque a un monstruo, pero el objetivo del ataque no sea destruido en batalla: puedes desterrar 1 monstruo en tu Cementerio; esta carta debe atacar otra vez de manera consecutiva. Si el monstruo seleccionado deja el Campo, destruye esta carta.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/07/21",
+  "species_id": 25,
+  "starchip": "0"
+}

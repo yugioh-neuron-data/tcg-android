@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 7451,
+  "card_name": "サイバネティック・ゾーン",
+  "card_name_label": "サイバネティック・ゾーン",
+  "card_name_search": "さいばねてぃっくぞーん",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上に表側表示で存在する機械族の融合モンスター１体を選択し、発動ターンのエンドフェイズ時までゲームから除外する。ゲームから除外されたモンスターがフィールド上に戻った時、そのモンスターの攻撃力は倍になる。次の自分のターンのスタンバイフェイズ時に、このカードの対象となった機械族の融合モンスター１体を破壊する。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/11/23",
+  "species_id": 24,
+  "starchip": "0"
+}

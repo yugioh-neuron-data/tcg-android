@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 1,
+  "card_id": 12100,
+  "card_name": "Kozmo－フォルミート",
+  "card_name_label": "コズモ－フォルミート",
+  "card_name_search": "こずもふぉるみーと",
+  "card_pen_effect": "",
+  "card_text": "「Kozmo－フォルミート」の①の効果は１ターンに１度しか使用できない。①：フィールドのこのカードを除外して発動できる。手札からレベル３以上の「Kozmo」モンスター１体を特殊召喚する。この効果は相手ターンでも発動できる。②：１ターンに１度、５００LPを払い、除外されている自分の「Kozmo」モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。この効果で特殊召喚したモンスターの効果は無効化され、エンドフェイズに破壊される。",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/09/10",
+  "species_id": 21,
+  "starchip": "2"
+}

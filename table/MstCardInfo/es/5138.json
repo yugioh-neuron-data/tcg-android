@@ -1,0 +1,23 @@
+{
+  "attack_power": "400",
+  "attribute_id": 6,
+  "card_id": 5138,
+  "card_name": "Escarabajo Bombardero",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "VOLTEO: Toma y mira 1 Carta de Monstruo boca abajo en Posición de Defensa en el Campo de tu adversario. Si es un Monstruo de Efecto, destruyelo (su Efecto de Volteo no se activa), y si la carta no lo es, devuelvela a su posición original.",
+  "defense_power": "900",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 24,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/12/01",
+  "species_id": 10,
+  "starchip": "2"
+}

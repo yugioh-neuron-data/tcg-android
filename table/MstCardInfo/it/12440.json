@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 5,
+  "card_id": 12440,
+  "card_name": "Panda Carro Attrezzi",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Una volta per turno, durante la Standby Phase: puoi pagare 500 LP; manda la prima carta del tuo Deck al Cimitero e, se lo fai, questa carta guadagna ATK e DEF pari al Livello di quel mostro x 200 se era un mostro. Se questa carta sotto il tuo comando viene distrutta da una carta del tuo avversario (in battaglia o dall'effetto di una carta) e mandata al tuo Cimitero: puoi aggiungere 1 mostro con il Livello più basso dal tuo Cimitero alla tua mano (in caso di parità, scegli tu).",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/08/04",
+  "species_id": 11,
+  "starchip": "2"
+}

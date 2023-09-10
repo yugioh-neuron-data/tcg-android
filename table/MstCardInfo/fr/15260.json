@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 2,
+  "card_id": 15260,
+  "card_name": "Réservengeur Méchabot",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "(Effet Rapide) : vous pouvez envoyer cette carte depuis votre main ou Terrain au Cimetière, puis ciblez 1 monstre \"Méchabot\" que vous contrôlez ; jusqu'à la fin de ce tour, il gagne 1200 ATK. Lorsque votre monstre \"Méchabot\" détruit un monstre de l'adversaire au combat, tant que cette carte est dans votre Cimetière : vous pouvez ajouter cette carte à votre main. Vous ne pouvez utiliser chaque effet de \"Réservengeur Méchabot\" qu'une fois par tour.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/07/02",
+  "species_id": 7,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14691,
+  "card_name": "ご隠居の大釜",
+  "card_name_label": "ごいんきょのおおがま",
+  "card_name_search": "ごいんきょのおおがま",
+  "card_pen_effect": "",
+  "card_text": "①：このカードの発動時の効果処理として、このカードにカウンターを１つ置く。②：自分スタンバイフェイズに発動する。このカードにカウンターを１つ置く。③：１ターンに１度、以下の効果から１つを選択して発動できる。$N●自分はこのカードのカウンターの数×５００LP回復する。$N●このカードのカウンターの数×３００ダメージを相手に与える。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/07/13",
+  "species_id": 24,
+  "starchip": "0"
+}

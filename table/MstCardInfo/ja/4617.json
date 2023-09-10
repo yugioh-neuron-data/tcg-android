@@ -1,0 +1,23 @@
+{
+  "attack_power": "650",
+  "attribute_id": 2,
+  "card_id": 4617,
+  "card_name": "悪魔の偵察者",
+  "card_name_label": "あくまのていさつしゃ",
+  "card_name_search": "あくまのていさつしゃ",
+  "card_pen_effect": "",
+  "card_text": "リバース：相手はデッキからカードを３枚ドローする。この効果でドローしたカードをお互いに確認し、その中から魔法カードを全て墓地へ捨てる。",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 24,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2000/04/20",
+  "species_id": 3,
+  "starchip": "2"
+}

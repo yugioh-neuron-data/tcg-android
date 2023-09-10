@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 2,
+  "card_id": 4923,
+  "card_name": "ダークファミリア",
+  "card_name_label": "ダークファミリア",
+  "card_name_search": "だーくふぁみりあ",
+  "card_pen_effect": "",
+  "card_text": "リバース：このカードが墓地へ送られた時、お互いのプレイヤーはそれぞれの墓地に存在するモンスター１体を選択し、表側攻撃表示または裏側守備表示で特殊召喚する。",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 24,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2000/07/13",
+  "species_id": 3,
+  "starchip": "2"
+}

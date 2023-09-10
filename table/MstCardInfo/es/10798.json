@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10798,
+  "card_name": "Retorno de los Monarcas",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "No puedes Invocar monstruos de Modo Especial desde el Deck Extra. Cuando Invocas un monstruo por Sacrificio: puedes activar 1 de estos efectos;$N●Añade a tu mano, desde tu Deck, 1 monstruo con 2400 ATK y 1000 DEF con un nombre diferente que el de ese monstruo Invocado por Sacrificio.$N●Añade a tu mano, desde tu Deck, 1 monstruo con 2800 ATK y 1000 DEF con un nombre diferente que el de ese monstruo Invocado por Sacrificio.$NEl monstruo Invocado por Sacrificio debe estar boca arriba en el Campo para activar y resolver este efecto. Sólo puedes usar este efecto de \"Retorno de los Monarcas\" una vez por turno.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/11/07",
+  "species_id": 24,
+  "starchip": "0"
+}

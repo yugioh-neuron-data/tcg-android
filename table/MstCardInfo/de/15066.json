@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 15066,
+  "card_name": "Präziser Sprint",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Jeder Spieler zeigt 1 verdeckte Karte von seinem Extra Deck vor. Falls sie denselben Kartentyp haben (Fusion, Synchro, Xyz oder Link), lege die Karte deines Gegners auf den Friedhof und falls du dies tust, beschwöre deine Karte als Spezialbeschwörung, dann, falls die Karten denselben Grund-Typ und dieselbe Grund-Eigenschaft haben, verliert dein Gegner LP in Höhe der ATK seiner vorgezeigten Karte. Lege andernfalls deine Karte auf den Friedhof und falls du dies tust, beschwört dein Gegner seine vorgezeigte Karte als Spezialbeschwörung. Du kannst nur 1 „Präziser Sprint“ pro Spielzug aktivieren.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/30",
+  "species_id": 25,
+  "starchip": "0"
+}

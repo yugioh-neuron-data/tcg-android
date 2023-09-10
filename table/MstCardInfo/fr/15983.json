@@ -1,0 +1,23 @@
+{
+  "attack_power": "1100",
+  "attribute_id": 2,
+  "card_id": 15983,
+  "card_name": "Ange de Loyauté des Ténèbres",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Une fois par tour, durant votre Main Phase : vous pouvez renvoyer cette carte face recto à la main. Durant la Damage Step, lorsque votre monstre TÉNÈBRES combat un monstre de l'adversaire (Effet Rapide) : vous pouvez envoyer cette carte depuis votre main au Cimetière ; jusqu'à la fin de ce tour, le monstre de l'adversaire perd une ATK égale à sa propre ATK.",
+  "defense_power": "1900",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/06/03",
+  "species_id": 17,
+  "starchip": "4"
+}

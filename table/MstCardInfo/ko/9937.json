@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 9937,
+  "card_name": "주사위크론",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "①: 주사위를 1회 던지고, 나온 눈의 효과를 적용한다.$N●2, 3, 4: 필드의 마법 / 함정 카드 1장을 고르고 파괴한다.$N●5: 필드의 마법 / 함정 카드 2장을 고르고 파괴한다.$N●1, 6: 자신은 1000 데미지를 받는다.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/02/07",
+  "species_id": 24,
+  "starchip": "0"
+}

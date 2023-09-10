@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 5101,
+  "card_name": "La Elegida",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Selecciona 1 Carta de Monstruo y 2 Cartas que no sean de Monstruo de tu mano. Tu adversario selecciona al azar 1 de las 3 cartas. Si es una Carta de Monstruo, es Invocada mediante una Invocación Especial y manda las 2 cartas restantes al Cementerio. Si no, manda todas las cartas al Cementerio.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/12/01",
+  "species_id": 24,
+  "starchip": "0"
+}

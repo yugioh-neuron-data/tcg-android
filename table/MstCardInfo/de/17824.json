@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 17824,
+  "card_name": "Schrecken in der versteckten Stadt",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Dein Gegner kann Monster in verdeckter Verteidigungsposition, die du kontrollierst, nicht als Ziel für Karteneffekte wählen. Monster, die du kontrollierst und die aufgedeckt wurden, solange diese Karte offen auf dem Spielfeld lag, erhalten 1500 ATK/DEF. Falls diese Karte in der Zauber- & Fallenzone ihres Besitzers durch einen Karteneffekt eines Gegners zerstört wird: Du kannst 1 Monster in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung in die verdeckte Verteidigungsposition.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/10/20",
+  "species_id": 24,
+  "starchip": "0"
+}

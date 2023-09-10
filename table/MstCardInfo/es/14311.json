@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14311,
+  "card_name": "Testamento Cruzadia",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Activa 1 de estos efectos.$N●Este turno, tu adversario no puede activar cartas o efectos en respuesta a la activación de los efectos de tu monstruo \"Cruzadia\".$N●Después del cálculo de daño, si tu Monstruo de Enlace \"Cruzadia\" destruye un monstruo del adversario en batalla: roba tantas cartas como el Rating de Enlace de tu monstruo.$NSólo puedes activar 1 \"Testamento Cruzadia\" por turno.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/05/02",
+  "species_id": 24,
+  "starchip": "0"
+}

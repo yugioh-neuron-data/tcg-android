@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 1,
+  "card_id": 10469,
+  "card_name": "Noble Caballero Medraut",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Esta carta se trata como un Monstruo Normal mientras esté boca arriba en el Campo. Mientras esté equipada con una Mágica de Equipo \"Armas Nobles\", esta carta se convierte en un Monstruo de Efecto con este efecto.$N●Esta carta se convierte en una de OSCURIDAD y su Nivel se incrementa en 1. Una vez por turno, si no controlas otros monstruos: puedes Invocar de Modo Especial, desde tu Deck, 1 monstruo \"Noble Caballero\" en Posición de Defensa, excepto \"Noble Caballero Medraut\" y, si lo haces, destruye 1 Mágica de Equipo que controles.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/01/24",
+  "species_id": 15,
+  "starchip": "4"
+}

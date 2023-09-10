@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 11403,
+  "card_name": "びっくり箱",
+  "card_name_label": "びっくりばこ",
+  "card_name_search": "びっくりばこ",
+  "card_pen_effect": "",
+  "card_text": "①：相手フィールドにモンスターが２体以上存在する場合、相手モンスターの攻撃宣言時にそのモンスター１体を対象として発動できる。その攻撃を無効にし、そのモンスター以外の相手フィールドのモンスター１体を選んで墓地へ送る。その後、墓地へ送られたモンスターの攻撃力と守備力の内、高い方の数値分だけ対象のモンスターの攻撃力をダウンする。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/07/19",
+  "species_id": 25,
+  "starchip": "0"
+}

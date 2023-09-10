@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 8060,
+  "card_name": "ロスト・スター・ディセント",
+  "card_name_label": "ロスト・スター・ディセント",
+  "card_name_search": "ろすとすたーでぃせんと",
+  "card_pen_effect": "",
+  "card_text": "①：自分の墓地のSモンスター１体を対象として発動できる。そのモンスターのレベルを１つ下げ、守備力を０にして守備表示で特殊召喚する。この効果で特殊召喚したモンスターの効果は無効化され、表示形式を変更できない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/11/15",
+  "species_id": 25,
+  "starchip": "0"
+}

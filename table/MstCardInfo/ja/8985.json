@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 8985,
+  "card_name": "アマゾネスの闘志",
+  "card_name_label": "アマゾネスのとうし",
+  "card_name_search": "あまぞねすのとうし",
+  "card_pen_effect": "",
+  "card_text": "「アマゾネス」と名のついたモンスターが、その攻撃力よりも高い攻撃力を持つモンスターを攻撃する場合、ダメージ計算時のみ攻撃モンスターの攻撃力は１０００ポイントアップする。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/04/17",
+  "species_id": 24,
+  "starchip": "0"
+}

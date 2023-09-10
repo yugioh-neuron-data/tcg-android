@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 14888,
+  "card_name": "幻魔の肖像",
+  "card_name_label": "デビルズ・ポートレイト",
+  "card_name_search": "でびるずぽーとれいと",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：相手フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターの同名モンスター１体を自分のデッキ・EXデッキから特殊召喚する。この効果で特殊召喚したモンスターは次のターンのエンドフェイズに持ち主のデッキに戻る。このカードの発動後、ターン終了時まで自分はデッキ・EXデッキからモンスターを特殊召喚できない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/10/12",
+  "species_id": 25,
+  "starchip": "0"
+}

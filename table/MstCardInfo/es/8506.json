@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 8506,
+  "card_name": "Rugido del Inmortal Terrestre",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Una vez por turno, si un monstruo del adversario declara un ataque: selecciona el monstruo atacante; destruye ese objetivo y, si lo haces, inflige daño a tu adversario igual a la mitad del ATK del monstruo destruido. Debes controlar un monstruo \"Inmortal Terrestre\" con ATK mayor al ATK del monstruo atacante para activar y resolver este efecto.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "Nombre de Carta actualizado de \"Rugido del Terrestre\" en 26-09-2019.",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/11/12",
+  "species_id": 25,
+  "starchip": "0"
+}

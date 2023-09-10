@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 1,
+  "card_id": 13397,
+  "card_name": "Cerbero Maestro Mitica Bestia",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Se non hai nessuna carta nella tua altra Zona Pendulum: puoi distruggere questa carta e, se lo fai, aggiungi 1 Mostro con Effetto \"Mitica Bestia\" di Livello 7 o inferiore dal tuo Deck alla tua mano. Puoi utilizzare questo effetto di \"Cerbero Maestro Mitica Bestia\" una sola volta per turno.",
+  "card_text": "Ogni volta che viene attivata una Carta Magia, metti 2 Segnalini Magia su questa carta quando quella Magia si risolve. Non può essere distrutto dagli effetti delle carte mentre sul tuo Terreno ci sono 4 o più Segnalini Magia. Una volta per turno: puoi rimuovere 4 Segnalini Magia dal tuo Terreno, poi scegliere come bersaglio 1 mostro controllato dal tuo avversario; bandiscilo scoperto e, se lo fai, questa carta guadagna ATK pari all'ATK originale del mostro bandito fino alla fine del turno dell'avversario.",
+  "defense_power": "2800",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "4",
+  "pen_scale_r": "4",
+  "sales_at": "2018/02/01",
+  "species_id": 18,
+  "starchip": "8"
+}

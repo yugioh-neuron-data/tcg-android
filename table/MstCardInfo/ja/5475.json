@@ -1,0 +1,23 @@
+{
+  "attack_power": "900",
+  "attribute_id": 2,
+  "card_id": 5475,
+  "card_name": "トゥーン・仮面魔道士",
+  "card_name_label": "トゥーン・かめんまどうし",
+  "card_name_search": "とぅーんかめんまどうし",
+  "card_pen_effect": "",
+  "card_text": "このカードは召喚・反転召喚・特殊召喚したターンには攻撃する事ができない。自分フィールド上に「トゥーン・ワールド」が存在し、相手フィールド上にトゥーンモンスターが存在しない場合、このカードは相手プレイヤーに直接攻撃する事ができる。フィールド上の「トゥーン・ワールド」が破壊された時、このカードを破壊する。このカードが相手ライフに戦闘ダメージを与えた時、自分のデッキからカードを１枚ドローする。",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 6,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/03/21",
+  "species_id": 18,
+  "starchip": "4"
+}

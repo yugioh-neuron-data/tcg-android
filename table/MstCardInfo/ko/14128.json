@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 14128,
+  "card_name": "수호룡 엘피",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "레벨 4 이하의 드래곤족 몬스터 1장$N자신은 \"수호룡 엘피\"를 1턴에 1번밖에 특수 소환할 수 없으며, 그 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 몬스터 존에 존재하는 한, 자신은 드래곤족 몬스터밖에 특수 소환할 수 없다. ②: 자신 메인 페이즈에 발동할 수 있다. 2장 이상의 링크 몬스터의 링크 앞이 되는 자신 필드에, 패 / 덱에서 드래곤족 몬스터 1장을 특수 소환한다.",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "4",
+  "linkno": "1",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/01/15",
+  "species_id": 1,
+  "starchip": ""
+}

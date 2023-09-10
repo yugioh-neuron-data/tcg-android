@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 4,
+  "card_id": 10461,
+  "card_name": "獣神ヴァルカン",
+  "card_name_label": "じゅうしんヴァルカン",
+  "card_name_search": "じゅうしんう゛ぁるかん",
+  "card_pen_effect": "",
+  "card_text": "チューナー＋チューナー以外のモンスター１体以上$N「獣神ヴァルカン」の効果は１ターンに１度しか使用できない。①：このカードがS召喚に成功した場合、自分及び相手フィールドの表側表示のカードを１枚ずつ対象として発動する。その自分及び相手の表側表示のカードを手札に戻す。このターン、自分はこの効果で手札に戻したカード及びそれらの同名カードの効果を発動できない。",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/12/22",
+  "species_id": 12,
+  "starchip": "6"
+}

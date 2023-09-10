@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 5,
+  "card_id": 15134,
+  "card_name": "Gussari @Ignister",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wenn ein Linkmonster durch Kampf zerstört wird: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Wenn dein Linkmonster ein Monster eines Gegners durch Kampf zerstört: Du kannst deinem Gegner Schaden in Höhe der Grund-ATK des zerstörten Monsters zufügen. Wenn ein Angriff deklariert wird, an dem ein Linkmonster, das du kontrollierst, und ein Monster eines Gegners beteiligt sind: Du kannst diese Karte von deinem Friedhof verbannen; die ATK der Monster werden zu 3000. Du kannst jeden Effekt von „Gussari @Ignister“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/30",
+  "species_id": 27,
+  "starchip": "8"
+}

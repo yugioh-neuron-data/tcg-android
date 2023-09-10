@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 1,
+  "card_id": 8292,
+  "card_name": "Kuribon",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durant le calcul des dommages, si cette carte est attaquée par un monstre de votre adversaire : vous pouvez activer cet effet ; vous ne recevez aucun dommage de combat de ce combat, votre adversaire gagne des LP égaux à l'ATK du monstre attaquant, et aussi, vous renvoyez cette carte à votre main.",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/08/27",
+  "species_id": 17,
+  "starchip": "1"
+}

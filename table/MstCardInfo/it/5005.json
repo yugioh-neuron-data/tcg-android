@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 5005,
+  "card_name": "Anello della Distruzione",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante il turno del tuo avversario: scegli come bersaglio 1 mostro scoperto controllato dal tuo avversario con ATK pari o inferiore ai suoi LP; distruggi quel mostro scoperto e, se lo fai, subisci danno pari al suo ATK originale, poi infliggi al tuo avversario danno pari al danno che hai subito tu. Puoi attivare solo 1 \"Anello della Distruzione\" per turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/02/06",
+  "species_id": 25,
+  "starchip": "0"
+}

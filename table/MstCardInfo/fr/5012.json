@@ -1,0 +1,23 @@
+{
+  "attack_power": "-1",
+  "attribute_id": 2,
+  "card_id": 5012,
+  "card_name": "L'Incarné du Légendaire Éxodia",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Ni Invocable Normalement ni Posable Normalement. Uniquement Invocable Spécialement (depuis votre main) en Sacrifiant 1 monstre \"l'Interdit\", et non Invocable Spécialement autrement. Cette carte gagne 1000 ATK pour chaque monstre \"l'Interdit\" dans votre Cimetière. Non affectée par les effets d'autres cartes. Une fois par tour, durant votre End Phase : ajoutez 1 monstre \"l'Interdit\" depuis votre Cimetière à votre main. Lorsque cette carte est détruite au combat et envoyée au Cimetière : vous pouvez révéler un nombre de votre choix de monstres \"l'Interdit\" dans votre main, et si vous le faites, piochez 1 carte pour chacun d'eux.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/10/06",
+  "species_id": 18,
+  "starchip": "10"
+}

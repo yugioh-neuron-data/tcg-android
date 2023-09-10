@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 1,
+  "card_id": 6249,
+  "card_name": "Chien Mécanique Marron",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsque cette carte sur le Terrain est détruite à l'issue du combat et envoyée au Cimetière, infligez 1000 points de dommages aux Life Points des deux joueurs. Lorsque cette carte est détruite excepté à l'issue du combat et envoyée au Cimetière, infligez 1000 points de dommages aux Life Points de votre adversaire.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/03/01",
+  "species_id": 7,
+  "starchip": "4"
+}

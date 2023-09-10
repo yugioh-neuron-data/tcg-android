@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 5,
+  "card_id": 13917,
+  "card_name": "ゴキポール",
+  "card_name_label": "ゴキポール",
+  "card_name_search": "ごきぽーる",
+  "card_pen_effect": "",
+  "card_text": "このカード名の効果は１ターンに１度しか使用できない。①：このカードが墓地へ送られた場合に発動できる。デッキからレベル４の昆虫族モンスター１体を手札に加える。この効果で通常モンスターを加えた場合、さらにそのモンスターを手札から特殊召喚できる。その後、この効果で特殊召喚したモンスターの攻撃力以上の攻撃力を持つ、フィールドのモンスター１体を選んで破壊できる。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/07/14",
+  "species_id": 10,
+  "starchip": "3"
+}

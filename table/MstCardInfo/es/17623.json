@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 17623,
+  "card_name": "Calabozo de Dados",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando esta carta es activada: puedes añadir a tu mano 1 \"Dados Dimensionales\" en tu Deck. Al comienzo de la Battle Phase: puedes activar este efecto; cada jugador lanza un dado de seis caras y, hasta el final de este turno, aplica el resultado a todos los monstruos que controle.$N●1: Pierde 1000 ATK.$N●2: Gana 1000 ATK.$N●3: Pierde 500 ATK.$N●4: Gana 500 ATK.$N●5: Divide su ATK a la mitad.$N●6: Duplica su ATK.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/11/17",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14138,
+  "card_name": "Guardragón Escudo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Puedes seleccionar 1 monstruo Dragón que controles; hasta el final del turno del adversario, éste gana ATK/DEF iguales al Rating de Enlace total de los Monstruos de Enlace en el Campo en este momento x 100. Sólo puedes usar este efecto de \"Guardragón Escudo\" una vez por turno. Una vez por turno, si exactamente 1 monstruo Dragón que controlas fuera a ser destruido en batalla o por el efecto de una carta, puedes mandar al Cementerio 1 Monstruo Normal en tu mano o Deck en su lugar.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/01/31",
+  "species_id": 24,
+  "starchip": "0"
+}

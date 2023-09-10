@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 14637,
+  "card_name": "Losgekettete Seele des Unheils",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Erhält 300 ATK für jede „Losgekettet“-Karte in deinem Friedhof. Du kannst jeden der folgenden Effekte von „Losgekettete Seele des Unheils“ nur einmal pro Spielzug verwenden.$N●Du kannst 1 offenes Monster wählen, das dein Gegner kontrolliert; sofort nachdem dieser Effekt aufgelöst wurde, beschwöre 1 FINSTERNIS Linkmonster als Linkbeschwörung und verwende dafür nur diese Karte, die du kontrollierst, und das Monster des Gegners als Material.$N●Falls diese Karte auf dem Spielfeld durch Kampf oder einen Karteneffekt zerstört wird: Du kannst 1 „Losgekettet“-Monster in deinem Friedhof wählen, außer „Losgekettete Seele des Unheils“; beschwöre es als Spezialbeschwörung.",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/10/24",
+  "species_id": 3,
+  "starchip": "8"
+}

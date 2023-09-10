@@ -1,0 +1,23 @@
+{
+  "attack_power": "3300",
+  "attribute_id": 2,
+  "card_id": 9515,
+  "card_name": "メンタルオーバー・デーモン",
+  "card_name_label": "メンタルオーバー・デーモン",
+  "card_name_search": "めんたるおーばーでーもん",
+  "card_pen_effect": "",
+  "card_text": "サイキック族チューナー＋チューナー以外のサイキック族モンスター２体以上$N１ターンに１度、自分の墓地に存在するサイキック族モンスター１体を選択してゲームから除外する事ができる。このカードがフィールド上から墓地へ送られた時、このカードの効果で除外したモンスターを可能な限り自分フィールド上に特殊召喚する。",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/02/11",
+  "species_id": 21,
+  "starchip": "9"
+}

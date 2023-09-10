@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 3,
+  "card_id": 14630,
+  "card_name": "Marincesa Cauda de Coroa",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante o cálculo de dano, se um monstro batalhar outro monstro (Efeito Rápido): você pode enviar 1 outro monstro \"Marincesa\" da sua mão para o Cemitério; Invoque este card por Invocação-Especial da sua mão e, se isso acontecer, o dano que você sofrer dessa batalha é diminuído pela metade. No começo da Etapa de Dano, se um monstro do oponente atacar: você pode banir este card do seu Cemitério; neste turno, você não sofre dano de batalha que seja menor ou igual que a soma dos Valores Link dos Monstros Link \"Marincesa\" no seu Cemitério x 1000. Você só pode usar cada efeito de \"Marincesa Cauda de Coroa\" uma vez por turno.",
+  "defense_power": "2300",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/10/24",
+  "species_id": 27,
+  "starchip": "5"
+}

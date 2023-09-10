@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 2,
+  "card_id": 11555,
+  "card_name": "Caius le Méga Monarque",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Vous pouvez Invoquer par Sacrifice cette carte en Sacrifiant 1 monstre Invoqué par Sacrifice. Si cette carte est Invoquée par Sacrifice : ciblez 1 carte sur le Terrain ; bannissez-la, et si vous le faites, infligez 1000 points de dommages à votre adversaire, puis, si c'est une Carte Monstre TÉNÈBRES, bannissez toutes les cartes de ce nom depuis la main, Main Deck, Extra Deck et Cimetière du joueur qui la contrôlait. Si cette carte a été Invoquée par Sacrifice en Sacrifiant un monstre TÉNÈBRES, ajoutez cet effet supplémentaire.$N●Vous pouvez cibler 2 cartes à la place.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/01/15",
+  "species_id": 3,
+  "starchip": "8"
+}

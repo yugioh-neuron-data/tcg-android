@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 14535,
+  "card_name": "Estás en ¡Peligro!",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Muestra 3 monstruos \"¡Peligro!\" con nombres diferentes en tu Deck, tu adversario elige 1 al azar para que lo Invoques de Modo Especial, y barajas el resto al Deck. Durante la End Phase, destruye ese monstruo Invocado de Modo Especial. Sólo puedes activar 1 \"Estás en ¡Peligro!\" por turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/05/02",
+  "species_id": 25,
+  "starchip": "0"
+}

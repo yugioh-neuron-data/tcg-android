@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 6,
+  "card_id": 15720,
+  "card_name": "風の天翼ミラドーラ",
+  "card_name_label": "かぜのてんよくミラドーラ",
+  "card_name_search": "かぜのてんよくみらどーら",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できず、その発動と効果は無効化されない。①：相手がEXデッキから攻撃力２０００以上のモンスターを特殊召喚した場合に発動できる。このカードを手札から特殊召喚する。②：このカードが手札からの特殊召喚に成功した場合、EXデッキから特殊召喚された相手フィールドの表側表示モンスター１体を対象として発動できる。このモンスターが表側表示で存在する間、対象のモンスターは効果を発動できない。",
+  "defense_power": "2600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/10/31",
+  "species_id": 1,
+  "starchip": "7"
+}

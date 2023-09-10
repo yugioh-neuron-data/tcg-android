@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 5,
+  "card_id": 11355,
+  "card_name": "Hélice Qlifuerte",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "No puedes Invocar monstruos de Modo Especial, excepto monstruos \"Qli\". Este efecto no puede ser negado. Todos los monstruos que controle tu adversario pierden 300 ATK.",
+  "card_text": "Puedes Invocar esta carta de Modo Normal sin Sacrificar. Si esta carta es Invocada de Modo Normal sin Sacrificar, o es Invocada de Modo Especial, su Nivel se convierte en 4 y su ATK original se convierte en 1800. Si esta carta es Invocada de Modo Normal/Colocada, no es afectada por efectos activados de ningún monstruo cuyo Nivel/Rango original sea menor que el Nivel de esta carta en este momento. Si esta carta es Sacrificada: puedes seleccionar 1 Carta Mágica/de Trampa en el Campo; destrúyela.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "9",
+  "pen_scale_r": "9",
+  "sales_at": "2014/11/06",
+  "species_id": 7,
+  "starchip": "6"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10456,
+  "card_name": "Destructeur Utopie",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si vous contrôlez un monstre \"Utopie\" : détruisez le monstre face recto contrôlé par votre adversaire avec la plus faible ATK (en cas d'égalité, vous choisissez), et si vous le faites, infligez des dommages à votre adversaire égaux à l'ATK du monstre détruit sur le Terrain.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/03/28",
+  "species_id": 24,
+  "starchip": "0"
+}

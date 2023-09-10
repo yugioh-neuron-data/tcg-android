@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 7229,
+  "card_name": "Pioche de la Destruction",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si un des deux joueurs n'a pas de cartes dans sa main au début de sa Draw Phase, il peut piocher 1 carte supplémentaire en complément de sa pioche normale. Le contrôleur de cette carte perd 700 Life Points durant ses End Phase. (Si ses Life Points sont inférieurs à 700, ils sont réduits à 0.) Lorsque cette carte face recto est retirée du Terrain, infligez 3000 points de dommages au joueur qui la contrôlait.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/08/04",
+  "species_id": 25,
+  "starchip": "0"
+}

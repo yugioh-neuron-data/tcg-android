@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 5,
+  "card_id": 12401,
+  "card_name": "Artistamigo Gongato",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Una vez por turno, cuando un monstruo de tu adversario declara un ataque directo: puedes activar este efecto; no recibes daño de batalla de esa batalla (aún si esta carta deja el Campo).",
+  "card_text": "Una vez por turno, cuando es declarado un ataque que involucre a un monstruo que controlas y un monstruo de tu adversario: puedes activar este efecto; no recibes daño de batalla de esa batalla.",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "2",
+  "pen_scale_r": "2",
+  "sales_at": "2016/08/04",
+  "species_id": 11,
+  "starchip": "1"
+}

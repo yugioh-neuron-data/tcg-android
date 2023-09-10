@@ -1,0 +1,23 @@
+{
+  "attack_power": "1100",
+  "attribute_id": 2,
+  "card_id": 4580,
+  "card_name": "Bruja del Bosque Negro",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si esta carta es mandada del Campo al Cementerio: añade a tu mano 1 monstruo con 1500 DEF o menos en tu Deck, pero por el resto de este turno no puedes activar cartas, o los efectos de cartas, con ese nombre. Sólo puedes usar este efecto de \"Bruja del Bosque Negro\" una vez por turno.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/06/27",
+  "species_id": 18,
+  "starchip": "4"
+}

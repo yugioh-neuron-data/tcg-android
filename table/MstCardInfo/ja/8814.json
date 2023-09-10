@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 1,
+  "card_id": 8814,
+  "card_name": "黒羽を狩る者",
+  "card_name_label": "ダークネス・ハンター",
+  "card_name_search": "だーくねすはんたー",
+  "card_pen_effect": "",
+  "card_text": "相手フィールド上にモンスターが表側表示で２体以上存在し、そのモンスターの種族が全て同じ場合、手札を１枚墓地へ送る事で、相手フィールド上に表側表示で存在するモンスター１体を選択して破壊する。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/02/20",
+  "species_id": 12,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 9542,
+  "card_name": "Reattore Psichico",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se controlli un mostro di Tipo Psichico: applica questo effetto a tutti i mostri di Tipo Psichico che controlli attualmente, per il resto di questo turno. Quando un mostro di Tipo Psichico che controlli combatte con un mostro dell'avversario, dopo il calcolo dei danni: bandisci quel mostro di Tipo Psichico, inoltre bandisci quel mostro dell'avversario.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/05/05",
+  "species_id": 25,
+  "starchip": "0"
+}

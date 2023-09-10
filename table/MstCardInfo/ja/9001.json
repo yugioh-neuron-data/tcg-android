@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 9001,
+  "card_name": "スクラップ・カウンター",
+  "card_name_label": "スクラップ・カウンター",
+  "card_name_search": "すくらっぷかうんたー",
+  "card_pen_effect": "",
+  "card_text": "フィールド上に守備表示で存在する「スクラップ」と名のついたモンスターが攻撃された場合、そのダメージ計算時に発動する事ができる。攻撃された「スクラップ」と名のついたモンスターの守備力は２０００ポイントアップし、バトルフェイズ終了時に破壊される。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/04/17",
+  "species_id": 25,
+  "starchip": "0"
+}

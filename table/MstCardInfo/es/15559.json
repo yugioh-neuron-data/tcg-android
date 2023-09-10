@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 15559,
+  "card_name": "Uno u Ocho",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si tus LP son menores que los de tu adversario: muestra la carta de la parte superior de tu Deck, y si es de Nivel 1 u 8, añádela a tu mano o Invócala de Modo Especial. De otro modo, tu adversario puede aplicar 1 de estos efectos.$N●El jugador que activó esta carta convierte sus LP en 1000.$N●El adversario del jugador que activó esta carta gana LP hasta convertirse en 8000.$NSólo puedes activar 1 \"Uno u Ocho\" por turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/11/05",
+  "species_id": 25,
+  "starchip": "0"
+}

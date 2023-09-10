@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 5608,
+  "card_name": "Mise Initiale",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Chaque joueur révèle 1 carte dans sa main. Si une carte est d'un Niveau supérieur à l'autre, la carte avec le Niveau le plus faible est envoyée au Cimetière, et le joueur qui l'a révélé reçoit 1000 points de dommages. (Les Cartes non-Monstre sont traitées comme de Niveau 0.)",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/03/19",
+  "species_id": 24,
+  "starchip": "0"
+}

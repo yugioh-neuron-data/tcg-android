@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13949,
+  "card_name": "Estadio de Béisbol Gigante",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante el cálculo de daño, si un jugador fuera a recibir daño de batalla: puedes hacer que ningún jugador reciba daño de batalla de esa batalla y, si lo haces, manda al Cementerio 1 monstruo Insecto de Nivel 4 o menor en tu Deck, y después, si mandaste un Monstruo Normal de esta forma, puedes Invocar de Modo Especial cualquier cantidad de monstruos con el mismo nombre que ese monstruo, desde tu mano, Deck y/o Cementerio. Si uno o más monstruos que controlas son mandados al Cementerio por el efecto de una carta del adversario (excepto durante el Damage Step): puedes Invocar de Modo Especial 1 Monstruo Normal Insecto en tu Cementerio. Sólo puedes usar cada efecto de \"Estadio de Béisbol Gigante\" una vez por turno.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/10/18",
+  "species_id": 24,
+  "starchip": "0"
+}

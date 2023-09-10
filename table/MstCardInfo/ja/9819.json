@@ -1,0 +1,23 @@
+{
+  "attack_power": "2700",
+  "attribute_id": 3,
+  "card_id": 9819,
+  "card_name": "イビリチュア・リヴァイアニマ",
+  "card_name_label": "イビリチュア・リヴァイアニマ",
+  "card_name_search": "いびりちゅありう゛ぁいあにま",
+  "card_pen_effect": "",
+  "card_text": "「リチュア」と名のついた儀式魔法カードにより降臨。このカードの攻撃宣言時、自分のデッキからカードを１枚ドローし、お互いに確認する。確認したカードが「リチュア」と名のついたモンスターだった場合、相手の手札をランダムに１枚確認する。",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 5,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/10/04",
+  "species_id": 14,
+  "starchip": "8"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 5,
+  "card_id": 12769,
+  "card_name": "Métrognome",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Une fois par tour : vous pouvez cibler 1 autre carte dans une Zone Pendule ; jusqu'à la fin de ce tour, l'Échelle Pendule de cette carte devient égale à celle de la carte.",
+  "card_text": "Tant que vous avez 2 cartes de même Échelle Pendule dans vos Zones Pendule, cette carte gagne une ATK/DEF égales à l'Échelle Pendule x 100, et elle peut attaquer directement votre adversaire. Si cette carte inflige des dommages de combat à votre adversaire par une attaque directe : détruisez toutes les cartes dans les Zones Pendule.",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "4",
+  "pen_scale_r": "4",
+  "sales_at": "2017/02/09",
+  "species_id": 17,
+  "starchip": "4"
+}

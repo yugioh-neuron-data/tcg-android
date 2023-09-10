@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 4,
+  "card_id": 7415,
+  "card_name": "ヴォルカニック・カウンター",
+  "card_name_label": "ヴォルカニック・カウンター",
+  "card_name_search": "う゛ぉるかにっくかうんたー",
+  "card_pen_effect": "",
+  "card_text": "このカードが墓地に存在し、自分が戦闘ダメージを受けた時に発動する。墓地のこのカードをゲームから除外し、自分の墓地に「ヴォルカニック・カウンター」以外の炎属性モンスターが存在する場合、自分が受けた戦闘ダメージと同じ数値のダメージを相手ライフに与える。",
+  "defense_power": "1300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/11/23",
+  "species_id": 4,
+  "starchip": "3"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 15880,
+  "card_name": "Schalenritter",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wenn diese Karte als Normalbeschwörung beschworen wird: Du kannst diese Karte in die Verteidigungsposition ändern und falls du dies tust, füge deinem Gegner 500 Schaden zu. Falls diese Karte durch Kampf zerstört oder durch einen Karteneffekt auf den Friedhof gelegt wird: Du kannst deiner Hand 1 Fels-Monster der Stufe 8 von deinem Deck hinzufügen oder falls sich „Fossilfusion“ in deinem Friedhof befindet, kannst du es stattdessen als Spezialbeschwörung beschwören. Für den Rest dieses Spielzugs kannst du weder Karten noch die Effekte von Karten mit demselben Namen wie die Karte aktivieren. Du kannst diesen Effekt von „Schalenritter“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/05/05",
+  "species_id": 6,
+  "starchip": "4"
+}

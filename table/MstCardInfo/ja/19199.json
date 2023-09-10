@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 19199,
+  "card_name": "原罪宝－スネークアイ",
+  "card_name_label": "げんざいほう－スネークアイ",
+  "card_name_search": "げんざいほうすねーくあい",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。$N①：このカード以外の自分フィールドの表側表示カード１枚を墓地へ送って発動できる。手札・デッキから炎属性・レベル１モンスター１体を特殊召喚する。$N②：墓地のこのカードを除外し、自分の墓地の「スネークアイ」モンスターか「ディアベルスター」モンスター１体を対象として発動できる。デッキから炎属性・レベル１モンスター１体を手札に加える。その後、対象のモンスターをデッキの一番下に戻す。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/07/22",
+  "species_id": 24,
+  "starchip": "0"
+}

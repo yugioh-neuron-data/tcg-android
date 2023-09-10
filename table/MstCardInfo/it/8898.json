@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 5,
+  "card_id": 8898,
+  "card_name": "Mercante-Gemma",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante il Damage Step, nel turno di qualsiasi giocatore, quando un Mostro Normale TERRA scoperto che controlli attacca o viene attaccato: puoi mandare questa carta dalla tua mano al Cimitero; quel mostro guadagna 1000 ATK e DEF fino alla End Phase.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/12/01",
+  "species_id": 18,
+  "starchip": "3"
+}

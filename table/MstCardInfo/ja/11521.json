@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 4,
+  "card_id": 11521,
+  "card_name": "EMファイア・マフライオ",
+  "card_name_label": "エンタメイトファイア・マフライオ",
+  "card_name_search": "えんためいとふぁいあまふらいお",
+  "card_pen_effect": "①：自分フィールドのPモンスターが戦闘で破壊された時に発動できる。Pゾーンのこのカードを特殊召喚する。",
+  "card_text": "①：１ターンに１度、自分のPモンスターが相手モンスターを戦闘で破壊したダメージ計算後に発動できる。その自分のモンスターは、バトルフェイズ終了時まで攻撃力が２００アップし、もう１度だけ続けて攻撃できる。",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2014/11/15",
+  "species_id": 11,
+  "starchip": "3"
+}

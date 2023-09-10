@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 6,
+  "card_id": 12757,
+  "card_name": "Shinobivogel Krähe",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Kann nicht als Spezialbeschwörung beschworen werden. Einmal pro Spielzug, während des Damage Steps eines beliebigen Spielers, wenn diese Karte gegen ein Monster deines Gegners kämpft: Du kannst 1 Spirit-Monster abwerfen; bis zum Ende der Battle Phase erhält diese Karte ATK und DEF in Höhe der ATK und DEF des abgeworfenen Monsters. Einmal pro Spielzug, während der End Phase, falls diese Karte in diesem Spielzug als Normalbeschwörung beschworen oder aufgedeckt wurde: Gib sie auf die Hand zurück.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 7,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/02/09",
+  "species_id": 16,
+  "starchip": "4"
+}

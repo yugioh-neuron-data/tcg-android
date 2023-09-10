@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 1,
+  "card_id": 4773,
+  "card_name": "Blauäugiger Toon-Drache",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss erst als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 2 Monster als Tribut anbietest, solange du „Toon-Welt“ kontrollierst. Diese Karte kann nicht in dem Spielzug angreifen, in dem sie als Spezialbeschwörung beschworen wurde. Du musst 500 LP zahlen, um einen Angriff mit diesem Monster zu deklarieren. Falls „Toon-Welt“ auf dem Spielfeld zerstört wird, zerstöre diese Karte. Kann deinen Gegner direkt angreifen, es sei denn, er kontrolliert ein Toon-Monster, in welchem Fall diese Karte ein Toon-Monster als Ziel für ihre Angriffe wählen muss.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 28,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/09/16",
+  "species_id": 1,
+  "starchip": "8"
+}

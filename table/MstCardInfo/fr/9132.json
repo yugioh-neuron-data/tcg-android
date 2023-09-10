@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 9132,
+  "card_name": "Miroir de la Barrière de Glace",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durant ce tour, chaque fois qu'une ou plusieurs cartes sont bannies depuis votre main, Terrain et/ou Cimetière par un effet de monstre de votre adversaire activé, appliquez les effets suivants, selon d'où les cartes ont été bannies.$N●Main : Bannissez max. 2 cartes au hasard depuis la main de votre adversaire.$N●Terrain : Bannissez max. 2 cartes contrôlées par votre adversaire.$N●Cimetière : Bannissez max. 2 cartes depuis le Cimetière de votre adversaire.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/11/11",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 1,
+  "card_id": 7831,
+  "card_name": "ワーム・イリダン",
+  "card_name_label": "ワーム・イリダン",
+  "card_name_search": "わーむいりだん",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上にカードがセットされる度に、このカードにワームカウンターを１つ置く。このカードに乗っているワームカウンターを２つ取り除く事で、相手フィールド上のカード１枚を選択して破壊する。",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/06/24",
+  "species_id": 20,
+  "starchip": "5"
+}

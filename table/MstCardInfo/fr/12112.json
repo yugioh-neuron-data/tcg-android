@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 3,
+  "card_id": 12112,
+  "card_name": "Guitortue Potartiste",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Si une carte \"Potartiste\" est activée dans votre autre Zone Pendule : vous pouvez piocher 1 carte. Vous ne pouvez utiliser cet effet de \"Guitortue Potartiste\" qu'une fois par tour.",
+  "card_text": "Une fois par tour : vous pouvez cibler 1 carte dans votre Zone Pendule ; jusqu'à la fin de ce tour, augmentez son Échelle Pendule de 2.",
+  "defense_power": "400",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "6",
+  "pen_scale_r": "6",
+  "sales_at": "2016/01/14",
+  "species_id": 14,
+  "starchip": "1"
+}

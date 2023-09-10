@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 2,
+  "card_id": 17802,
+  "card_name": "사조의 예룡 워로",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "레벨 6 몬스터 × 2장 이상$N이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 자신 필드의 몬스터의 공격력 / 수비력은, 상대 묘지의 카드의 수 × 100 올린다. ②: 상대 묘지의 카드 1장을 대상으로 하고, 이 카드의 엑시즈 소재를 이하의 수만큼 제거하여, 그 효과를 발동할 수 있다. 이 효과는 상대 턴에도 발동할 수 있다.$N●1개: 그 카드를 덱으로 되돌린다.$N●2개: 그 카드가 몬스터일 경우, 자신 필드에 앞면 표시 또는 뒷면 수비 표시로 특수 소환한다. 그 이외일 경우, 자신 필드에 세트한다.",
+  "defense_power": "1300",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/10/18",
+  "species_id": 2,
+  "starchip": "6"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 2,
+  "card_id": 10073,
+  "card_name": "甲虫装機 エクサスタッグ",
+  "card_name_label": "インゼクター　エクサスタッグ",
+  "card_name_search": "いんぜくたーえくさすたっぐ",
+  "card_pen_effect": "",
+  "card_text": "昆虫族レベル５モンスター×２$N１ターンに１度、このカードのエクシーズ素材を１つ取り除く事で、相手のフィールド上・墓地のモンスター１体を選択して装備カード扱いとしてこのカードに装備する。このカードの攻撃力・守備力は、この効果で装備したモンスターのそれぞれの半分の数値分アップする。",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/02/18",
+  "species_id": 10,
+  "starchip": "5"
+}

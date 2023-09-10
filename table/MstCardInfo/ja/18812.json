@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 2,
+  "card_id": 18812,
+  "card_name": "幻惑の魔術師",
+  "card_name_label": "ナイトメア・マジシャン",
+  "card_name_search": "ないとめあまじしゃん",
+  "card_pen_effect": "",
+  "card_text": "①：このカードがモンスターと戦闘を行う場合、その２体はその戦闘では破壊されない。$N②：このカードが相手モンスターと戦闘を行ったダメージステップ終了時に発動できる。その相手モンスターのコントロールを得る。$N③：１ターンに１度、このカード以外のモンスターが攻撃するダメージステップ開始時に発動できる。フィールドのカード１枚を破壊する。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/04/22",
+  "species_id": 34,
+  "starchip": "7"
+}

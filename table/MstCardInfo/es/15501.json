@@ -1,0 +1,23 @@
+{
+  "attack_power": "2150",
+  "attribute_id": 6,
+  "card_id": 15501,
+  "card_name": "Makami Cacharrek, la Fortaleza Feroz con Colmillos",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Mientras 6 o más de tus cartas están desterradas, puedes Invocar esta carta de Modo Normal sin Sacrificar. Sólo puedes usar cada uno de los siguientes efectos de \"Makami Cacharrek, la Fortaleza Feroz con Colmillos\" una vez por turno. Si esta carta es Invocada de Modo Normal o Especial: puedes descartar 1 monstruo; añade a tu mano 1 monstruo en tu Deck cuyo ATK sea igual a su propia DEF, excepto \"Makami Cacharrek, la Fortaleza Feroz con Colmillos\". Si esta carta en la Zona de Monstruos es destruida: puedes barajar al Deck 6 de tus cartas desterradas.",
+  "defense_power": "2150",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/11/05",
+  "species_id": 7,
+  "starchip": "6"
+}

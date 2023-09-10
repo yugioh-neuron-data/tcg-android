@@ -1,0 +1,23 @@
+{
+  "attack_power": "900",
+  "attribute_id": 2,
+  "card_id": 10763,
+  "card_name": "Princesse des Fantômes",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si cette carte face recto est détruite dans une Zone Monstre, vous pouvez la placer face recto dans votre Zone Magie & Piège comme Magie Continue au lieu de l'envoyer au Cimetière. Tant que cette carte est traitée comme Magie Continue par cet effet, durant chaque Standby Phase : placez 1 Compteur Citrouille sur cette carte. Tous les monstres contrôlés par votre adversaire perdent 100 ATK/DEF pour chaque Compteur Citrouille sur cette carte.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/11/07",
+  "species_id": 2,
+  "starchip": "3"
+}

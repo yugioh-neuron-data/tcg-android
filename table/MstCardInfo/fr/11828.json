@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 5,
+  "card_id": 11828,
+  "card_name": "Robobureau 005",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Vous ne pouvez pas Invoquer par Pendulation de monstres (monstres \"Robobureau\" exclus). Cet effet ne peut pas être annulé.",
+  "card_text": "Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez cibler 1 Carte Magie/Piège sur le Terrain ; détruisez-la. Cette carte gagne 500 ATK pour chaque monstre \"Robobureau\" face recto dans votre Extra Deck. Si cette carte dans la Zone Pendule est détruite : vous pouvez cibler 1 monstre \"Robobureau\" dans votre Cimetière ; Invoquez-le Spécialement. Vous ne pouvez utiliser cet effet de \"Robobureau 005\" qu'une fois par tour.",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "10",
+  "pen_scale_r": "10",
+  "sales_at": "2015/08/06",
+  "species_id": 7,
+  "starchip": "5"
+}

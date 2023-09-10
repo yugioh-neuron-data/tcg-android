@@ -1,0 +1,23 @@
+{
+  "attack_power": "1900",
+  "attribute_id": 1,
+  "card_id": 10043,
+  "card_name": "Dragón Hierático de Eset",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Puedes Invocar esta carta de Modo Normal sin Sacrificar, pero su ATK original se convierte en 1000. Una vez por turno: puedes seleccionar 1 Monstruo Normal Dragón boca arriba en el Campo; hasta la End Phase los Niveles de todos los monstruos \"Hierático\" boca arriba en el Campo en este momento se convierten en el Nivel de ese monstruo. Cuando esta carta es Sacrificada: Invoca de Modo Especial 1 Monstruo Normal Dragón desde tu mano, Deck o Cementerio, y haz que su ATK/DEF sean 0.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/05/10",
+  "species_id": 1,
+  "starchip": "5"
+}

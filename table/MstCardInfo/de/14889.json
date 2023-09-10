@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 14889,
+  "card_name": "Kopfentscheidung",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wenn der Effekt eines Monsters auf dem Spielfeld aktiviert wird: Du kannst den aktivierenden Spieler eine Münze werfen und das Ergebnis voraussagen lassen. Falls er richtig voraussagt, lege diese Karte auf den Friedhof. Falls er falsch voraussagt, annulliere die Aktivierung des Effekts und falls du dies tust, übernimmt sein Gegner die Kontrolle über das Monster. Du kannst diesen Effekt von „Kopfentscheidung“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/01/30",
+  "species_id": 25,
+  "starchip": "0"
+}

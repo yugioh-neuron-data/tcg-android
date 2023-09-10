@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 2,
+  "card_id": 16506,
+  "card_name": "レプティレス・コアトル",
+  "card_name_label": "レプティレス・コアトル",
+  "card_name_search": "れぷてぃれすこあとる",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①の効果は１ターンに１度しか使用できない。①：自分フィールドに爬虫類族・闇属性モンスターが存在する場合に発動できる。このカードを手札から特殊召喚する。相手フィールドに攻撃力０のモンスターが存在する場合、さらにその数まで手札から「レプティレス」モンスターを特殊召喚できる。②：自分フィールドのこのカードを爬虫類族SモンスターのS素材とする場合、このカードをチューナー以外のモンスターとして扱う事ができる。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/07/17",
+  "species_id": 20,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 6864,
+  "card_name": "Cementerio de Almas Errantes",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si esta carta ya está boca arriba en el Campo:$N●Si un monstruo que controlas es destruido en batalla y mandado al Cementerio: Invoca de Modo Especial 1 \"Ficha Bola de Fuego\" (Piro/FUEGO/Nivel 1/ATK 100/DEF 100).$N●Si uno o más monstruos en tu mano y/o Campo son mandados al Cementerio por el efecto de una carta del adversario: Invoca de Modo Especial tantas \"Fichas Bola de Fuego\" como sea posible, hasta el número de monstruos mandados. Sólo puedes usar este efecto de \"Cementerio de Almas Errantes\" una vez por turno.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/03/19",
+  "species_id": 25,
+  "starchip": "0"
+}

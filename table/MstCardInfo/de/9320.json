@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 5,
+  "card_id": 9320,
+  "card_name": "Schrottwurm",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Diese Karte kann deinen Gegner direkt angreifen. Falls diese Karte angreift, wird sie am Ende der Battle Phase zerstört. Falls diese Karte durch den Effekt einer „Schrott“-Karte zerstört und auf den Friedhof gelegt wird, kannst du 1 „Schrott“-Monster in deinem Friedhof wählen, außer „Schrottwurm“, und deiner Hand hinzufügen.",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/02/10",
+  "species_id": 10,
+  "starchip": "2"
+}

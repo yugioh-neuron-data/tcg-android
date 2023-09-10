@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 15956,
+  "card_name": "マテリアクトル・ギガドラ",
+  "card_name_label": "マテリアクトル・ギガドラ",
+  "card_name_search": "まてりあくとるぎがどら",
+  "card_pen_effect": "",
+  "card_text": "このカード名の②の効果は１ターンに１度しか使用できない。①：このカードがモンスターゾーンに存在する限り、自分はXモンスターしかEXデッキから特殊召喚できない。②：手札を１枚捨てて発動できる。手札・デッキからレベル３の通常モンスター１体を特殊召喚する。通常モンスターを捨てて発動した場合、特殊召喚するモンスターを「マテリアクトル」モンスター１体にできる。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/09/25",
+  "species_id": 1,
+  "starchip": "3"
+}

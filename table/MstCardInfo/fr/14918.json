@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14918,
+  "card_name": "Poursuite Synchro",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Votre adversaire ne peut activer ni de cartes ni d'effets en réponse aux activations d'effet de vos Monstres Synchro avec \"Guerrier\", \"Synchronique\" ou \"Poussière d'Étoile\" dans leur nom d'origine. Si vous Invoquez par Synchronisation un Monstre Synchro \"Guerrier\", \"Synchronique\" ou \"Poussière d'Étoile\" : vous pouvez cibler 1 monstre dans votre Cimetière utilisé comme son Matériel ; Invoquez-le Spécialement en Position de Défense. Vous ne pouvez utiliser cet effet de \"Poursuite Synchro\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/01/16",
+  "species_id": 24,
+  "starchip": "0"
+}

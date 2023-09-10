@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 4,
+  "card_id": 11875,
+  "card_name": "Huntaur",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Einmal pro Spielzug, falls diese Karte gegen ein Monster deines Gegners kämpft, während der Schadensberechnung (im Spielzug eines beliebigen Spielers): Du kannst 1 Monster vom Typ Ungeheuer, Ungeheuer-Krieger oder Geflügeltes Ungeheuer von deiner Hand oder deinem Deck auf den Friedhof legen und falls du dies tust, erhält diese Karte bis zum Ende der Battle Phase ATK in Höhe der Stufe des auf den Friedhof gelegten Monsters x 100.",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/11/03",
+  "species_id": 12,
+  "starchip": "3"
+}

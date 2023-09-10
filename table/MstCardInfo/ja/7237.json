@@ -1,0 +1,23 @@
+{
+  "attack_power": "1300",
+  "attribute_id": 2,
+  "card_id": 7237,
+  "card_name": "モーターシェル",
+  "card_name_label": "モーターシェル",
+  "card_name_search": "もーたーしぇる",
+  "card_pen_effect": "",
+  "card_text": "このカード名の効果は１ターンに１度しか使用できない。①：このカードがフィールドから墓地へ送られた場合に発動できる。自分フィールドに「モータートークン」（機械族・地・星１・攻／守２００）１体を攻撃表示で特殊召喚する。",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/09/21",
+  "species_id": 7,
+  "starchip": "4"
+}

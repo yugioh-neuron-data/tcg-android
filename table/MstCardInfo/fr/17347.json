@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 3,
+  "card_id": 17347,
+  "card_name": "Shinonome la Prêtresse Vaylantz",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Durant votre Main Phase : vous pouvez Invoquer Spécialement cette carte dans votre Zone Monstre Main dans sa même colonne, et aussi, vous ne pouvez pas Invoquer Spécialement de monstres non-\"Vaylantz\" le reste de ce tour, sauf depuis l'Extra Deck. Vous ne pouvez utiliser cet effet de \"Shinonome la Prêtresse Vaylantz\" qu'une fois par tour.",
+  "card_text": "Durant votre Main Phase, si vous contrôlez cette carte Invoquée Spécialement : vous pouvez ajouter 1 Magie \"Vaylantz\" depuis votre Deck à votre main. Si cette carte dans la Zone Monstre est déplacée dans une autre Zone Monstre : vous pouvez ajouter 1 monstre \"Vaylantz\" (\"Shinonome la Prêtresse Vaylantz\" exclu) depuis votre Deck à votre main. Vous ne pouvez utiliser chaque effet de \"Shinonome la Prêtresse Vaylantz\" qu'une fois par tour.",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2022/08/25",
+  "species_id": 18,
+  "starchip": "2"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 5514,
+  "card_name": "Sentinelle des Protecteurs du Tombeau",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durant le tour de chaque joueur, lorsque votre adversaire active une Carte Magie/Piège ou un effet de monstre qui le ferait défausser lors de sa résolution : vous pouvez envoyer cette carte depuis votre main au Cimetière ; annulez l'activation, et si vous le faites, détruisez-la/le.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/03/19",
+  "species_id": 18,
+  "starchip": "4"
+}

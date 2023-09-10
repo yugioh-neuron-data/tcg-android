@@ -1,0 +1,23 @@
+{
+  "attack_power": "200",
+  "attribute_id": 3,
+  "card_id": 17772,
+  "card_name": "Mitsu die Insekten-Ninja",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls du eine „Ninja“-Karte oder ein Monster in verdeckter Verteidigungsposition kontrollierst: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Wenn dein Gegner einen Monstereffekt aktiviert (Schnelleffekt): Du kannst 1 Monster in verdeckter Verteidigungsposition wählen, das du kontrollierst; ändere es in die offene Verteidigungsposition und falls du dies tust, ändere diese Karte in die verdeckte Verteidigungsposition, dann, falls das als Ziel gewählte Monster ein „Ninja“-Monster war, außer „Mitsu die Insekten-Ninja“, annulliere jenen aktivierten Effekt des Gegners. Du kannst jeden Effekt von „Mitsu die Insekten-Ninja“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/10/20",
+  "species_id": 10,
+  "starchip": "2"
+}

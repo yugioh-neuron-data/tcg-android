@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 6681,
+  "card_name": "エレメンタル・アブソーバー",
+  "card_name_label": "エレメンタル・アブソーバー",
+  "card_name_search": "えれめんたるあぶそーばー",
+  "card_pen_effect": "",
+  "card_text": "手札のモンスターカード１枚をゲームから除外する。この効果によって除外したモンスターと同じ属性を持つ相手モンスターは、このカードがフィールド上に存在する限り攻撃宣言をする事ができない。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/02/16",
+  "species_id": 25,
+  "starchip": "0"
+}

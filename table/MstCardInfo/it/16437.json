@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 6,
+  "card_id": 16437,
+  "card_name": "Apparecchio Ventoleone",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 mostro \"Apparecchio\"$NNon può essere utilizzato come Materiale Link nel turno in cui viene Evocato Link. Questa carta può attaccare direttamente. Una volta per turno, durante il calcolo dei danni, se un tuo mostro combatte con un mostro dell'avversario, mentre questa carta è co-linkata (Effetto Rapido): puoi rendere l'ATK di quel mostro dell'avversario 0 solamente durante quel calcolo dei danni. Una volta per turno, durante il calcolo dei danni, se questo mostro che non è co-linkato combatte con un mostro dell'avversario (Effetto Rapido): puoi rendere l'ATK di quel mostro dell'avversario 0 solamente durante quel calcolo dei danni.",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "8",
+  "linkno": "1",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/12/02",
+  "species_id": 7,
+  "starchip": ""
+}

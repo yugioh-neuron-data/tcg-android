@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 15880,
+  "card_name": "Chevalier Coquillage",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsque cette carte est Invoquée Normalement : vous pouvez changer cette carte en Position de Défense, et si vous le faites, infligez 500 points de dommages à votre adversaire. Si cette carte est détruite au combat ou envoyée au Cimetière par un effet de carte : vous pouvez ajouter 1 monstre Rocher de Niveau 8 depuis votre Deck à votre main, ou si \"Fusion Fossile\" est dans votre Cimetière, vous pouvez l'Invoquer Spécialement à la place. Le reste de ce tour, vous ne pouvez activer ni de cartes ni d'effets de cartes du même nom que la carte. Vous ne pouvez utiliser cet effet de \"Chevalier Coquillage\" qu'une fois par tour.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/05/05",
+  "species_id": 6,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 2,
+  "card_id": 12909,
+  "card_name": "Schwarzzahn-Magier",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Einmal pro Spielzug: Du kannst 1 offenes Monster wählen, das dein Gegner kontrolliert; seine ATK werden (bis zum Ende dieses Spielzugs) gleich der Hälfte seiner derzeitigen ATK, dann zerstöre diese Karte.",
+  "card_text": "(Diese Karte wird immer als „Xyz-Drache“-Karte behandelt.)$NFalls diese Karte durch Kampf oder einen Karteneffekt zerstört wird: Du kannst 1 FINSTERNIS Monster vom Typ Hexer in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "8",
+  "pen_scale_r": "8",
+  "sales_at": "2017/06/22",
+  "species_id": 18,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 14914,
+  "card_name": "Maîtrise Alchimiste",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Bannissez 4 monstres \"HÉROS\" depuis votre Cimetière et/ou Terrain face recto, puis ciblez 1 monstre \"HÉROS\" dans votre Cimetière ; Invoquez-le Spécialement, en ignorant ses conditions d'Invocation. Si vous avez banni des Attributs TERRE, EAU, FEU et VENT pour activer cet effet, l'ATK d'origine du monstre sera doublée, et aussi, annulez les effets de toutes les cartes face recto actuellement contrôlées par votre adversaire. Vous ne pouvez activer qu'1 \"Maîtrise Alchimiste\" par tour.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/01/16",
+  "species_id": 25,
+  "starchip": "0"
+}

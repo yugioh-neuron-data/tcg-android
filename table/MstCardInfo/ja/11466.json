@@ -1,0 +1,23 @@
+{
+  "attack_power": "4000",
+  "attribute_id": 2,
+  "card_id": 11466,
+  "card_name": "極星邪狼フェンリル",
+  "card_name_label": "きょくせいじゃろうフェンリル",
+  "card_name_search": "きょくせいじゃろうふぇんりる",
+  "card_pen_effect": "",
+  "card_text": "このカードは通常召喚できない。自分メインフェイズ２に、フィールドに「極神」モンスターが存在する場合に手札から相手フィールドに守備表示で特殊召喚できる。①：フィールドに「極神」モンスターが存在しない場合にこのカードは破壊される。②：自分バトルフェイズ開始時に発動する。自分フィールドの守備表示モンスターを全て表側攻撃表示にする。③：このカードの戦闘で発生する戦闘ダメージはお互いのプレイヤーが受ける。",
+  "defense_power": "4000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/09/19",
+  "species_id": 11,
+  "starchip": "10"
+}

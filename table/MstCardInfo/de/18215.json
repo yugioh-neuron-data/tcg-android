@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 18215,
+  "card_name": "Grundstücksspekulation",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wähle 1 offene Karte in einer Spielfeldzone; verbanne sie, dann lege sie offen in die andere Spielfeldzone, dann kannst du 1 Spielfeldzauber mit einem unterschiedlichen Grund-Namen im Friedhof des derzeitigen Beherrschers bestimmen und ihn offen in die Spielfeldzone des Spielers legen, dessen Karte verbannt wurde. Du kannst nur 1 „Grundstücksspekulation“ pro Spielzug aktivieren.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/02/06",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 5,
+  "card_id": 13037,
+  "card_name": "Artistamigo Carta Gardna",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Una vez por turno: puedes seleccionar 1 monstruo en Posición de Defensa boca arriba que controles; su DEF se convierte igual a la DEF original combinada de todos los monstruos en Posición de Defensa boca arriba que controlas en este momento (aun si esta carta deja el Campo).",
+  "card_text": "Gana DEF igual a la DEF original combinada de todos los otros monstruos \"Artistamigo\" que controles.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "8",
+  "pen_scale_r": "8",
+  "sales_at": "2020/08/06",
+  "species_id": 6,
+  "starchip": "3"
+}

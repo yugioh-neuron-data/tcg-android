@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 4,
+  "card_id": 8707,
+  "card_name": "Neo-Flamvell-Säbel",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "(Diese Karte wird nicht als „Säbel“-Karte behandelt.)$NSolange dein Gegner 4 oder weniger Karten in seinem Friedhof hat, erhält diese Karte 600 ATK. Solange dein Gegner 8 oder mehr Karten in seinem Friedhof hat, verliert diese Karte 300 ATK.",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/04/14",
+  "species_id": 4,
+  "starchip": "4"
+}

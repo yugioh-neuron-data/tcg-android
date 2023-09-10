@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 3,
+  "card_id": 12133,
+  "card_name": "ダイナミスト・プレシオス",
+  "card_name_label": "ダイナミスト・プレシオス",
+  "card_name_search": "だいなみすとぷれしおす",
+  "card_pen_effect": "①：このカードがPゾーンに存在する限り１度だけ、このカード以外の自分フィールドの「ダイナミスト」カードを対象として発動した効果を無効にできる。その後、このカードを破壊する。",
+  "card_text": "①：このカードがモンスターゾーンに存在する限り、相手フィールドのモンスターの攻撃力・守備力は、自分フィールドの「ダイナミスト」カードの数×１００ダウンする。",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "6",
+  "pen_scale_r": "6",
+  "sales_at": "2015/10/17",
+  "species_id": 7,
+  "starchip": "4"
+}

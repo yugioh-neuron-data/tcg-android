@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 13134,
+  "card_name": "Superstarker Samurai Helfer",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Während der Schadensberechnung, falls dein Monster in Verteidigungsposition mit einem Monster deines Gegners kämpft, solange du keine Zauber/Fallen in deinem Friedhof hast (Schnelleffekt): Du kannst diese Karte abwerfen und dann 1 „Superstarker Samurai“-Monster wählen, das du kontrollierst, außer dem kämpfenden Monster; dein kämpfendes Monster erhält nur während der Schadensberechnung DEF in Höhe der DEF des Monsters. Wenn ein Monster deines Gegners einen direkten Angriff deklariert: Du kannst diese Karte von deinem Friedhof verbannen und dann 1 „Superstarker Samurai“-Monster in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/07/06",
+  "species_id": 7,
+  "starchip": "1"
+}

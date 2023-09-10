@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14000,
+  "card_name": "Guide de la Norne Verdande",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsque cette carte est activée : si tous les monstres que vous contrôlez sont des monstres \"Valkyrie-\" (min. 1), vous pouvez ajouter 1 \"Verdict de la Norne Urd\" depuis votre Deck à votre main. Une fois par tour : vous pouvez déclarer 1 type de carte (Monstre, Magie ou Piège) ; révélez la carte du dessus du Deck de votre adversaire et si elle était du type déclaré, il la Pose sur son Terrain. Sinon, il l'ajoute à sa main. Vous ne pouvez activer qu'1 \"Guide de la Norne Verdande\" par tour.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/08/16",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 2,
+  "card_id": 18812,
+  "card_name": "Magicien du Cauchemar",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si cette carte combat un monstre, aucun de ces 2 monstres ne peut être détruit par ce combat. À la fin de la Damage Step, si cette carte a combattu un monstre de l'adversaire : vous pouvez prendre le contrôle du monstre de l'adversaire. Une fois par tour, au début de la Damage Step, si un autre monstre attaque : vous pouvez détruire 1 carte sur le Terrain.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/07/27",
+  "species_id": 34,
+  "starchip": "7"
+}

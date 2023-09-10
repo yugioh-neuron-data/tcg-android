@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 5,
+  "card_id": 17437,
+  "card_name": "Propa Gandake",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Una vez por turno, si controlas uno o más monstruos cuyo Tipo original es Bestia, Insecto, Planta o Roca: puedes declarar 1 de esos Tipos que controlas; esta carta se convierte en ese Tipo declarado. Si esta carta aplicó este efecto, aplica también los siguientes efectos mientras esté en la Zona de Monstruos.$N●Todos los monstruos boca arriba en el Campo se convierten en el mismo Tipo que esta carta.$N●Los monstruos en el Campo con el Tipo de esta carta no pueden ser seleccionados por ningún jugador usando los efectos de monstruos que controle tu adversario con ese mismo Tipo.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/08/04",
+  "species_id": 21,
+  "starchip": "3"
+}

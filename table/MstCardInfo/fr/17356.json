@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 4,
+  "card_id": 17356,
+  "card_name": "Grand-Duc de la Genèse Vaylantz",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Vous pouvez activer 1 de ces effets ;$N●Invoquez Spécialement cette carte dans votre Zone Monstre Main dans sa même colonne.$N●Déplacez 1 monstre dans votre Zone Monstre Main dans une Zone Monstre (horizontale) adjacente.$NVous ne pouvez utiliser cet effet de \"Grand-Duc de la Genèse Vaylantz\" qu'une fois par tour.",
+  "card_text": "2 monstres \"Vaylantz\"$NCette carte face verso dans l'Extra Deck doit d'abord être soit Invoquée par Fusion, soit Invoquée Spécialement en Sacrifiant 1 monstre non-Fusion \"Vaylantz\" de min. Niveau 5 dans la même colonne que la Zone Monstre Extra. Si cette carte est Invoquée Spécialement : vous pouvez cibler 1 Carte Monstre dans la Zone Magie & Piège de votre adversaire ; renvoyez-la à la main, et si vous le faites, infligez des dommages à votre adversaire égaux à son ATK, puis, cette carte gagne une ATK égale à la moitié des dommages infligés.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 41,
+  "pen_scale_l": "10",
+  "pen_scale_r": "10",
+  "sales_at": "2022/08/25",
+  "species_id": 7,
+  "starchip": "10"
+}

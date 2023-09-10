@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 5,
+  "card_id": 12377,
+  "card_name": "EMギッタンバッタ",
+  "card_name_label": "エンタメイトギッタンバッタ",
+  "card_name_search": "えんためいとぎったんばった",
+  "card_pen_effect": "",
+  "card_text": "「EMギッタンバッタ」の③の効果は１ターンに１度しか使用できない。①：特殊召喚されたこのカードは１ターンに１度だけ戦闘では破壊されない。②：相手エンドフェイズに自分の墓地のレベル３以下の「EM」モンスター１体を対象として発動できる。このカードを墓地へ送り、そのモンスターを手札に加える。③：このカードが墓地に存在する状態で、「EM」モンスターが手札から自分の墓地へ送られた場合に発動できる。このカードを墓地から特殊召喚する。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/03/19",
+  "species_id": 10,
+  "starchip": "4"
+}

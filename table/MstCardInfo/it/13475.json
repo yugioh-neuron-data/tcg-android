@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 13475,
+  "card_name": "Scarica Protonica",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Una volta per turno, se l'effetto attivato di una carta lancia delle monete, immediatamente dopo che si è risolto, applica i seguenti effetti, a seconda del numero di testa.$N●1+: Infliggi 500 danni al tuo avversario.$N●2+: Distruggi 1 carta controllata dal tuo avversario.$N●3+: Guarda la mano del tuo avversario e scarta 1 carta dalla sua mano.$NQuando viene attivato un effetto che lancia una moneta 2 o più volte: puoi bandire questa carta dal Cimitero; considera tutti i risultati come testa.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/02/22",
+  "species_id": 25,
+  "starchip": "0"
+}

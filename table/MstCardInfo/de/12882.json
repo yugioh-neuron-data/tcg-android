@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 5,
+  "card_id": 12882,
+  "card_name": "Künstlerkumpel Barrakuda",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Einmal pro Spielzug, falls dein „Künstlerkumpel“-Monster gegen ein Monster deines Gegners kämpft, vor der Schadensberechnung: Du kannst das Monster deines Gegners ATK in Höhe der Differenz zwischen seinen Grund- und seinen derzeitigen ATK verlieren lassen (selbst falls diese Karte das Spielfeld verlässt).",
+  "card_text": "Während des Spielzugs eines beliebigen Spielers: Du kannst 1 „Künstlerkumpel“-Monster wählen, dessen derzeitige ATK nicht seinen Grund-ATK entsprechen; es erhält bis zum Ende dieses Spielzugs ATK in Höhe der Differenz. Du kannst diesen Effekt von „Künstlerkumpel Barrakuda“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "1100",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2017/05/25",
+  "species_id": 13,
+  "starchip": "3"
+}

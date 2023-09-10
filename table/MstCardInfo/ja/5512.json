@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 2,
+  "card_id": 5512,
+  "card_name": "墓守の長槍兵",
+  "card_name_label": "はかもりのながやりへい",
+  "card_name_search": "はかもりのながやりへい",
+  "card_pen_effect": "",
+  "card_text": "守備表示モンスターを攻撃した時、このカードの攻撃力が守備表示モンスターの守備力を越えていれば、その数値だけ相手ライフポイントに戦闘ダメージを与える。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/05/16",
+  "species_id": 18,
+  "starchip": "4"
+}

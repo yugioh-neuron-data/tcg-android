@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 1,
+  "card_id": 12361,
+  "card_name": "巨竜の聖騎士",
+  "card_name_label": "パラディン・オブ・フェルグラント",
+  "card_name_search": "ぱらでぃんおぶふぇるぐらんと",
+  "card_pen_effect": "",
+  "card_text": "①：このカードが召喚・特殊召喚に成功した場合に発動できる。自分の手札・デッキからレベル７・８のドラゴン族モンスター１体を装備カード扱いとしてこのカードに装備する。②：装備カードを装備したこのカードは他のモンスターの効果を受けない。③：自分フィールドのモンスター１体とこのカードをリリースし、自分の墓地のレベル７・８のドラゴン族モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。",
+  "defense_power": "300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/02/06",
+  "species_id": 15,
+  "starchip": "4"
+}

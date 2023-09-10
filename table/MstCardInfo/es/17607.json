@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 17607,
+  "card_name": "Trampa del Cuidador de Tumbas",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Mientras \"Inversión de Sepulturas\" está en tu Cementerio, tu adversario no puede activar los efectos de cartas en el Cementerio, o Invocar de Modo Especial monstruos desde el Cementerio. Sólo puedes usar cada uno de los siguientes efectos de \"Trampa del Cuidador de Tumbas\" una vez por turno. Durante la Main Phase: puedes descartar 1 carta; añade a tu mano 1 monstruo \"Cuidador de Tumbas\", o Hada de TIERRA, en tu Deck. Durante la Draw Phase de tu adversario, antes de su robo normal, si esta carta ya está boca arriba en el Campo: declara 1 nombre de carta; mira la o las cartas robadas en su robo normal y, si era la carta declarada, mándala al Cementerio.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/11/03",
+  "species_id": 25,
+  "starchip": "0"
+}

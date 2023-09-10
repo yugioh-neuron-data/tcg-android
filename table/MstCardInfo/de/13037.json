@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 5,
+  "card_id": 13037,
+  "card_name": "Künstlerkumpel Kartenwache",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Einmal pro Spielzug: Du kannst 1 Monster in offener Verteidigungsposition wählen, das du kontrollierst; seine DEF werden gleich den kombinierten Grund-DEF aller Monster in offener Verteidigungsposition, die du derzeit kontrollierst (selbst falls diese Karte das Spielfeld verlässt).",
+  "card_text": "Erhält DEF in Höhe der kombinierten Grund-DEF aller anderen „Künstlerkumpel“-Monster, die du kontrollierst.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "8",
+  "pen_scale_r": "8",
+  "sales_at": "2020/08/06",
+  "species_id": 6,
+  "starchip": "3"
+}

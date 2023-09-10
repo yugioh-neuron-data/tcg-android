@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 1,
+  "card_id": 15123,
+  "card_name": "Eldlich der goldene Lord",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Du kannst diese Karte und 1 Zauber/Falle von deiner Hand auf den Friedhof legen und dann 1 Karte auf dem Spielfeld wählen; lege sie auf den Friedhof. Falls sich diese Karte in deinem Friedhof befindet: Du kannst 1 Zauber/Falle, den oder die du kontrollierst, auf den Friedhof legen; füge diese Karte deiner Hand hinzu, dann kannst du 1 Zombie-Monster als Spezialbeschwörung von deiner Hand beschwören und falls du dies tust, bis zum Ende des Spielzugs deines Gegners erhält es 1000 ATK/DEF und kann nicht durch Karteneffekte zerstört werden. Du kannst jeden Effekt von „Eldlich der goldene Lord“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "2800",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/02",
+  "species_id": 2,
+  "starchip": "10"
+}

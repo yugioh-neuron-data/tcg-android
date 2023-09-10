@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 1,
+  "card_id": 10886,
+  "card_name": "Raiden, Hand der Lichtverpflichteten",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Während deiner Main Phase: Du kannst die obersten 2 Karten deines Decks auf den Friedhof legen, dann, falls durch diesen Effekt „Lichtverpflichtet“-Monster auf den Friedhof gelegt wurden, erhält diese Karte bis zum Ende des Spielzugs deines Gegners 200 ATK. Du kannst diesen Effekt von „Raiden, Hand der Lichtverpflichteten“ nur einmal pro Spielzug verwenden. Einmal pro Spielzug, während deiner End Phase: Lege die obersten 2 Karten deines Decks auf den Friedhof.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/06/26",
+  "species_id": 15,
+  "starchip": "4"
+}

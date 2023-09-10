@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 5,
+  "card_id": 10860,
+  "card_name": "除雪機関車ハッスル・ラッセル",
+  "card_name_label": "じょせつきかんしゃハッスル・ラッセル",
+  "card_name_search": "じょせつきかんしゃはっするらっせる",
+  "card_pen_effect": "",
+  "card_text": "①：自分の魔法＆罠ゾーンにカードが存在する場合、相手モンスターの直接攻撃宣言時に発動できる。このカードを手札から特殊召喚する。その後、自分の魔法＆罠ゾーンのカードを全て破壊し、破壊した数×２００ダメージを相手に与える。②：このカードがモンスターゾーンに存在する限り、自分は機械族モンスターしか特殊召喚できない。",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/12/05",
+  "species_id": 7,
+  "starchip": "10"
+}

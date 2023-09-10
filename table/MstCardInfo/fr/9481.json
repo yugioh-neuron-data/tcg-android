@@ -1,0 +1,23 @@
+{
+  "attack_power": "200",
+  "attribute_id": 1,
+  "card_id": 9481,
+  "card_name": "Lampe Morphtronique",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "$N ● En Position d'Attaque : Tous les dommages d'effet de carte de votre adversaire que vous recevez lui sont infligés à la place.$N ● En Position de Défense : Lorsque cette carte est détruite au combat et envoyée au Cimetière, vous ne recevez aucun dommage de combat ce tour.",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/05/05",
+  "species_id": 7,
+  "starchip": "1"
+}

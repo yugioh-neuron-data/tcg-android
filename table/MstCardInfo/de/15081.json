@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 15081,
+  "card_name": "Plünderpatrouillen-Beute",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Du kannst 1 Eigenschaft deklarieren und dann 1 offenes Monster wählen, das dein Gegner kontrolliert; es wird bis zum Ende dieses Spielzugs zu der Eigenschaft (selbst falls diese Karte das Spielfeld verlässt), dann kannst du 1 „Plünderpatrouillen“-Monster von deinem Friedhof nehmen und es entweder ins Deck mischen oder als Spezialbeschwörung beschwören. Du kannst diesen Effekt von „Plünderpatrouillen-Beute“ nur einmal pro Spielzug verwenden. Einmal pro Spielzug, während der End Phase, falls du keine „Plünderpatrouillen“-Monster kontrollierst: Lege diese Karte auf den Friedhof.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/01/30",
+  "species_id": 25,
+  "starchip": "0"
+}

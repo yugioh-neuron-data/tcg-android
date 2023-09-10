@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 5,
+  "card_id": 6255,
+  "card_name": "暴れ牛鬼",
+  "card_name_label": "あばれうしおに",
+  "card_name_search": "あばれうしおに",
+  "card_pen_effect": "",
+  "card_text": "コイントスで裏表を当てる。当たった場合、相手ライフに１０００ポイントダメージを与える。ハズレの場合、自分は１０００ポイントダメージを受ける。この効果は１ターンに１度だけ自分のメインフェイズに使用する事ができる。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/11/25",
+  "species_id": 12,
+  "starchip": "4"
+}

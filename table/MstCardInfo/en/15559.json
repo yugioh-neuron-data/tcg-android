@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 15559,
+  "card_name": "One or Eight",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "If your LP are lower than your opponent's: Reveal the top card of your Deck, and if it is Level 1 or 8, add it to your hand or Special Summon it. Otherwise, your opponent can apply 1 of these effects.$N●The player who activated this card has their LP become 1000.$N●The opponent of the player who activated this card gains LP so it becomes 8000.$NYou can only activate 1 \"One or Eight\" per turn.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/11/06",
+  "species_id": 25,
+  "starchip": "0"
+}

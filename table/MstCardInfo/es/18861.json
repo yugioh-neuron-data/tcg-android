@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 18861,
+  "card_name": "Oleada Vaylantz - Máster Fase",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Una vez por turno, si una carta en la Zona de Monstruos se mueve a otra Zona de Monstruos (excepto durante el Damage Step): puedes activar 1 de estos efectos;$N●Los monstruos \"Vaylantz\" de Nivel 5 o mayor que controles en este momento ganan 1200 ATK hasta el final de este turno.$N●Manda al Cementerio esta carta boca arriba en la Zona de Magia y Trampas, y después selecciona 1 Monstruo de Efecto en la Zona de Monstruos Principal de tu adversario; pon ese monstruo del adversario como una Mágica Continua boca arriba en su Zona de Magia y Trampas en su misma columna. (Si la zona está ocupada, destruye la carta ocupante).",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/07/27",
+  "species_id": 25,
+  "starchip": "0"
+}

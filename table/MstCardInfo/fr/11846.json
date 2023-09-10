@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11846,
+  "card_name": "Jardin d'Arôma",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Une fois par tour, si vous contrôlez un monstre \"Arôma\" : vous pouvez gagner 500 LP, et aussi, tous les monstres que vous contrôlez gagnent 500 ATK/DEF jusqu'à la fin du prochain tour de votre adversaire (même si cette carte quitte le Terrain). Si un monstre \"Arôma\" face recto que vous contrôlez est détruit au combat ou par un effet de carte, et envoyé au Cimetière : gagnez 1000 LP.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/08/06",
+  "species_id": 24,
+  "starchip": "0"
+}

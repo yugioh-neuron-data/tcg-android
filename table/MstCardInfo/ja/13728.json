@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 5,
+  "card_id": 13728,
+  "card_name": "百獣のパラディオン",
+  "card_name_label": "ひゃくじゅうのパラディオン",
+  "card_name_search": "ひゃくじゅうのぱらでぃおん",
+  "card_pen_effect": "",
+  "card_text": "このカード名の、①の方法による特殊召喚は１ターンに１度しかできず、②の効果は１ターンに１度しか使用できない。①：このカードはリンクモンスターのリンク先となる自分フィールドに手札から守備表示で特殊召喚できる。②：自分フィールドの「パラディオン」リンクモンスター１体を対象として発動できる。このターン、そのモンスターが守備表示モンスターを攻撃した場合、その守備力を攻撃力が超えた分だけ相手に戦闘ダメージを与える。",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/04/14",
+  "species_id": 11,
+  "starchip": "3"
+}

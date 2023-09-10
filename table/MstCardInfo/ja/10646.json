@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 6,
+  "card_id": 10646,
+  "card_name": "霞鳥クラウソラス",
+  "card_name_label": "かちょうクラウソラス",
+  "card_name_search": "かちょうくらうそらす",
+  "card_pen_effect": "",
+  "card_text": "チューナー＋チューナー以外のモンスター１体以上$N１ターンに１度、相手フィールド上に表側表示で存在するモンスター１体を選択して発動できる。ターン終了時まで選択したモンスターの攻撃力を０にし、その効果を無効にする。",
+  "defense_power": "2300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/04/20",
+  "species_id": 16,
+  "starchip": "3"
+}

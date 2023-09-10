@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 5,
+  "card_id": 11254,
+  "card_name": "분보그001",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "①: 이 카드의 공격력 / 수비력은, 자신 필드의 기계족 몬스터의 수 × 500 올린다. ②: 이 카드가 묘지에 존재하고, 필드에 기계족 몬스터가 2장 이상 동시에 특수 소환되었을 경우에 발동할 수 있다. 이 카드를 특수 소환한다.",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/07/18",
+  "species_id": 7,
+  "starchip": "1"
+}

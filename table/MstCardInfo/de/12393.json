@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 4,
+  "card_id": 12393,
+  "card_name": "Milder Truthahn",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Einmal pro Spielzug: Du kannst einen sechsseitigen Würfel werfen. Verringere den Pendelbereich dieser Karte bis zum Ende dieses Spielzugs um die gewürfelte Zahl (min. 1).",
+  "card_text": "Der Geschmack des Sieges wird dich überwältigen.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 25,
+  "pen_scale_l": "7",
+  "pen_scale_r": "7",
+  "sales_at": "2017/05/04",
+  "species_id": 16,
+  "starchip": "4"
+}

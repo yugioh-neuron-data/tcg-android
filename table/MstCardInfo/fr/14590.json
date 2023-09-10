@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14590,
+  "card_name": "Esprit Maléfique",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si vous contrôlez un monstre Démon : activez 1 de ces effets, selon le nombre de monstres dans le Cimetière de votre adversaire ;$N●1+ : Piochez 1 carte.$N●4+ : Ajoutez 1 monstre \"HÉROS\" ou 1 \"Fusion des Ténèbres\" depuis votre Deck à votre main.$N●10+ : Ajoutez 1 Magie \"Polymérisation\" ou 1 Magie \"Fusion\" depuis votre Deck à votre main.$NVous ne pouvez activer qu'1 \"Esprit Maléfique\" par tour.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/09/26",
+  "species_id": 24,
+  "starchip": "0"
+}

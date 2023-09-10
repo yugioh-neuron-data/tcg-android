@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 5,
+  "card_id": 11054,
+  "card_name": "Dionaea Atrapadora",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "No es afectada por los efectos de Trampas Normales \"Agujero\". Cuando esta carta es Invocada de Modo Normal: puedes seleccionar 1 monstruo \"Atrapadora\" en tu Cementerio; Invoca ese objetivo de Modo Especial en Posición de Defensa. Cuando esta carta es Invocada de Modo Especial: puedes seleccionar 1 Trampa Normal \"Agujero\" en tu Cementerio; Coloca ese objetivo, pero destiérralo durante la End Phase de tu próximo turno si todavía está en el Campo. Sólo puedes usar este efecto de \"Dionaea Atrapadora\" una vez por turno.",
+  "defense_power": "1100",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/05/15",
+  "species_id": 13,
+  "starchip": "4"
+}

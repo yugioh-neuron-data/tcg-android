@@ -1,0 +1,23 @@
+{
+  "attack_power": "1300",
+  "attribute_id": 6,
+  "card_id": 6721,
+  "card_name": "Schallraser",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls keine Karten in der Zauber- & Fallenzone deines Gegners liegen, kann diese Karte deinen Gegner direkt angreifen. Falls sie dies tut, entspricht der deinem Gegner zugefügte Kampfschaden den Grund-ATK dieser Karte.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/07/12",
+  "species_id": 16,
+  "starchip": "4"
+}

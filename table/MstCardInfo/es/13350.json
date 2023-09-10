@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 1,
+  "card_id": 13350,
+  "card_name": "Archi-Caballero del Aire Parsath Sagrado",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si activas una Carta de Trampa de Contraefecto, O si niegas la activación de una Carta Mágica/de Trampa, o efecto de monstruo (excepto durante el Damage Step): puedes desterrar de tu mano, Campo y/o Cementerio otros 2 monstruos Hada; Invoca esta carta de Modo Especial desde el Cementerio (si estaba ahí cuando activaste/negaste) o mano (aun si no lo hacía). Si esta carta ataca un monstruo en Posición de Defensa, inflige daño de batalla de penetración. Cuando esta carta inflige daño de batalla a tu adversario: puedes añadir a tu mano, 1 carta \"Parsath\" o 1 Trampa de Contraefecto en tu Deck.",
+  "defense_power": "2300",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/01/18",
+  "species_id": 17,
+  "starchip": "9"
+}

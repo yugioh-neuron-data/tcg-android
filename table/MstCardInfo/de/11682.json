@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 5,
+  "card_id": 11682,
+  "card_name": "Superstarker Samurai Gigandschuh",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls diese Karte auf den Friedhof gelegt wird und du keine Zauber-/Fallenkarten in deinem Friedhof hast: Du kannst dir die 5 obersten Karten deines Decks ansehen, dann lege sie in beliebiger Reihenfolge auf das Deck. Wenn ein Monster deines Gegners einen direkten Angriff deklariert: Du kannst diese Karte von deinem Friedhof verbannen; grabe die oberste Karte deines Decks aus und falls es ein „Superstarker Samurai“-Monster ist, füge sie deiner Hand hinzu und falls du dies tust, werden die ATK des angreifenden Monsters zu 0. Lege sie andernfalls auf den Friedhof.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/05/14",
+  "species_id": 7,
+  "starchip": "3"
+}

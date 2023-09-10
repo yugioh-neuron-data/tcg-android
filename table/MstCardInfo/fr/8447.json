@@ -1,0 +1,23 @@
+{
+  "attack_power": "-1",
+  "attribute_id": 5,
+  "card_id": 8447,
+  "card_name": "Gaïa, Demoiselle de Fortune",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "L'ATK et la DEF de cette carte sont égales à son Niveau x 400. Durant chacune de vos Standby Phases, augmentez le Niveau de cette carte de 1 (max 12). Lorsque le Niveau de cette carte augmente, infligez 400 points de dommages à votre adversaire.",
+  "defense_power": "-1",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/11/12",
+  "species_id": 18,
+  "starchip": "6"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 5,
+  "card_id": 8400,
+  "card_name": "Mouche à Fruits Naturia",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Tous les monstres contrôlés par votre adversaire perdent 300 ATK/DEF pour chaque monstre \"Naturia\" que vous contrôlez. Une fois par tour : vous pouvez cibler 1 monstre contrôlé par votre adversaire avec 0 DEF ; jusqu'à la End Phase, prenez le contrôle de la cible.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/12/02",
+  "species_id": 10,
+  "starchip": "3"
+}

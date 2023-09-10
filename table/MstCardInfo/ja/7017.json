@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 3,
+  "card_id": 7017,
+  "card_name": "ブリザード・ドラゴン",
+  "card_name_label": "ブリザード・ドラゴン",
+  "card_name_search": "ぶりざーどどらごん",
+  "card_pen_effect": "",
+  "card_text": "相手フィールド上に存在するモンスター１体を選択して発動する。選択したモンスターは次の相手のエンドフェイズ時まで攻撃宣言をする事ができず、表示形式を変更する事もできない。この効果は１ターンに１度しか使用できない。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/08/09",
+  "species_id": 1,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 2,
+  "card_id": 12682,
+  "card_name": "マジックアブソーバー",
+  "card_name_label": "マジックアブソーバー",
+  "card_name_search": "まじっくあぶそーばー",
+  "card_pen_effect": "",
+  "card_text": "このカード名の③の効果は１ターンに１度しか使用できない。①：このカードがモンスターゾーンに存在する限り、自分または相手が魔法カードを発動する度に、このカードに魔力カウンターを１つ置く。②：このカードのレベルは、このカードの魔力カウンターの数だけ上がる。③：このカードの魔力カウンターを３つ取り除き、自分の墓地の速攻魔法カード１枚を対象として発動できる。そのカードを自分の魔法＆罠ゾーンにセットする。",
+  "defense_power": "1300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/09/09",
+  "species_id": 18,
+  "starchip": "4"
+}

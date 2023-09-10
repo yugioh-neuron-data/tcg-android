@@ -1,0 +1,23 @@
+{
+  "attack_power": "2600",
+  "attribute_id": 1,
+  "card_id": 10884,
+  "card_name": "ライトロード・アーク ミカエル",
+  "card_name_label": "ライトロード・アーク　ミカエル",
+  "card_name_search": "らいとろーどあーくみかえる",
+  "card_pen_effect": "",
+  "card_text": "チューナー＋チューナー以外の光属性モンスター１体以上$N①：１ターンに１度、１０００LPを払い、フィールドのカード１枚を対象として発動できる。そのカードを除外する。②：このカードが破壊された時、このカード以外の自分の墓地の「ライトロード」モンスターを任意の数だけ対象として発動できる。そのモンスターをデッキに戻し、自分は戻した数×３００LP回復する。③：自分エンドフェイズに発動する。自分のデッキの上からカードを３枚墓地へ送る。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/11/23",
+  "species_id": 1,
+  "starchip": "7"
+}

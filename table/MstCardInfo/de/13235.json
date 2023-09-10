@@ -1,0 +1,23 @@
+{
+  "attack_power": "900",
+  "attribute_id": 5,
+  "card_id": 13235,
+  "card_name": "Krawler Rezeptor",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "(Diese Karte wird nicht als „Rezept“-Karte behandelt.)$NFLIPP: Du kannst deiner Hand 1 „Krawler“-Monster von deinem Deck hinzufügen.$NFalls diese offene Karte, die ihr Besitzer kontrolliert, das Spielfeld durch einen Karteneffekt eines Gegners verlässt: Du kannst 2 „Krawler“-Monster mit unterschiedlichen Namen als Spezialbeschwörung von deinem Deck in die verdeckte Verteidigungsposition beschwören, außer „Krawler Rezeptor“. Du kannst jeden Effekt von „Krawler Rezeptor“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 24,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/10/19",
+  "species_id": 10,
+  "starchip": "2"
+}

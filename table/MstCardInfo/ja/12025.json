@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 1,
+  "card_id": 12025,
+  "card_name": "武神－ヒルコ",
+  "card_name_label": "ぶじん－ヒルコ",
+  "card_name_search": "ぶじんひるこ",
+  "card_pen_effect": "①：自分のPゾーンのこのカードを除外し、自分フィールドの「武神」Xモンスター１体を対象として発動できる。その自分のモンスターとカード名が異なる「武神」Xモンスター１体を、対象のモンスターの上に重ねてX召喚扱いとしてエクストラデッキから特殊召喚する。",
+  "card_text": "遥か太古の昔に主神の座をかけて「武神－ヒルメ」と戦い、死闘の末に封印されてしまった悪神。自らの封印を解くために「ヒルメ」を操り、禍々しき「アマテラス」を生み出して世界に闇を齎したが、その野望は「ヤマト」たち若き武神の活躍によって潰えた。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 25,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2015/07/18",
+  "species_id": 12,
+  "starchip": "4"
+}

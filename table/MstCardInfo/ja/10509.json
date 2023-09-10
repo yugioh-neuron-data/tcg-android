@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 4,
+  "card_id": 10509,
+  "card_name": "空炎星－サイチョウ",
+  "card_name_label": "くうえんせい－サイチョウ",
+  "card_name_search": "くうえんせいさいちょう",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上の「炎星」と名のついたモンスターが戦闘を行うダメージ計算時に１度だけ、自分フィールド上に表側表示で存在する「炎舞」と名のついた魔法・罠カード１枚と手札の「炎星」と名のついたモンスター１体を墓地へ送って発動できる。戦闘を行う自分のモンスターの攻撃力は、そのダメージ計算時のみ墓地へ送ったモンスターの元々の攻撃力分アップする。",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/02/16",
+  "species_id": 12,
+  "starchip": "4"
+}

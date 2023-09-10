@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 17730,
+  "card_name": "Kristallobhut",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wähle 1 „Kristallungeheuer“-Monsterkarte, die du kontrollierst; zerstöre sie, dann beschwöre 1 „Kristallungeheuer-Spielmarke“ mit Grund-Typ, -Eigenschaft, -Stufe und -ATK/DEF des zerstörten Monsters als Spezialbeschwörung. Falls eine oder mehr „Kristallungeheuer“-Karten in deine Zauber- & Fallenzone gelegt werden, solange sich diese Karte in deinem Friedhof befindet, selbst während des Damage Steps: Du kannst diese Karte verbannen; beschwöre 1 „Kristallungeheuer“-Monsterkarte als Spezialbeschwörung von deiner Zauber- & Fallenzone. Du kannst diesen Effekt von „Kristallobhut“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/09/29",
+  "species_id": 24,
+  "starchip": "0"
+}

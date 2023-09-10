@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 5794,
+  "card_name": "血の刻印",
+  "card_name_label": "ちのこくいん",
+  "card_name_search": "ちのこくいん",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上に存在する「デーモン」という名のついたモンスター１体を選択して発動する。選択したモンスターがスタンバイフェイズに払うライフポイントは相手プレイヤーも払う。このカードがフィールド上から離れた時、選択したモンスターを破壊する。選択したモンスターがフィールド上から離れた場合、このカードを破壊する。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2003/02/20",
+  "species_id": 25,
+  "starchip": "0"
+}

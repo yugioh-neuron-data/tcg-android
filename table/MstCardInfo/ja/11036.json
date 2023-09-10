@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 3,
+  "card_id": 11036,
+  "card_name": "ブリザード・サンダーバード",
+  "card_name_label": "ブリザード・サンダーバード",
+  "card_name_search": "ぶりざーどさんだーばーど",
+  "card_pen_effect": "",
+  "card_text": "手札を１枚捨てて発動できる。「ブリザード・サンダーバード」以外の鳥獣族・水属性モンスターを自分の手札・墓地からそれぞれ１体ずつ選んで特殊召喚する。その後、フィールド上のこのカードを持ち主の手札に戻す。「ブリザード・サンダーバード」の効果は１ターンに１度しか使用できない。",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/02/15",
+  "species_id": 16,
+  "starchip": "4"
+}

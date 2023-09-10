@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 2,
+  "card_id": 12817,
+  "card_name": "幻想の見習い魔導師",
+  "card_name_label": "げんそうのみならいまどうし",
+  "card_name_search": "げんそうのみならいまどうし",
+  "card_pen_effect": "",
+  "card_text": "①：このカードは手札を１枚捨てて、手札から特殊召喚できる。②：このカードが召喚・特殊召喚に成功した場合に発動できる。デッキから「ブラック・マジシャン」１体を手札に加える。③：このカード以外の自分の魔法使い族・闇属性モンスターが相手モンスターと戦闘を行うダメージ計算時、手札・フィールドのこのカードを墓地へ送って発動できる。その自分のモンスターの攻撃力・守備力はそのダメージ計算時のみ２０００アップする。",
+  "defense_power": "1700",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/09/21",
+  "species_id": 18,
+  "starchip": "6"
+}

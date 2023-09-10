@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10281,
+  "card_name": "Libro de Magia del Destino",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si controlas un monstruo Lanzador de Conjuros: puedes desterrar hasta 3 Mágicas \"Libro de Magia\" en tu Cementerio; aplica este efecto, dependiendo del número de Mágicas desterradas para la activación de esta carta. Sólo puedes activar 1 \"Libro de Magia del Destino\" por turno.$N●1: Devuelve a la mano 1 Mágica/Trampa Colocada en el Campo.$N●2: Cambia 1 monstruo en el Campo a Posición de Defensa boca abajo o a Posición de Ataque boca arriba.$N●3: Destierra 1 carta que controle tu adversario.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/11/08",
+  "species_id": 24,
+  "starchip": "0"
+}

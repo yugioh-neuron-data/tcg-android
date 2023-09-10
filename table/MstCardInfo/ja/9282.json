@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 2,
+  "card_id": 9282,
+  "card_name": "墓守の召喚師",
+  "card_name_label": "はかもりのしょうかんし",
+  "card_name_search": "はかもりのしょうかんし",
+  "card_pen_effect": "",
+  "card_text": "このカードが自分フィールド上から墓地へ送られた時、自分のデッキから守備力１５００以下の「墓守の」と名のついたモンスター１体を手札に加える。",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/09/17",
+  "species_id": 18,
+  "starchip": "3"
+}

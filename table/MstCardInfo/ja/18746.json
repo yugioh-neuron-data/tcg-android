@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 18746,
+  "card_name": "Voici la Carte～メニューはこちら～",
+  "card_name_label": "ボワシ・ラ・カルト～メニューはこちら～",
+  "card_name_search": "ぼわしらかるとめにゅーはこちら",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。$N①：デッキからカード名が異なる「ヌーベルズ」モンスター２体を相手に見せ、相手はその中から１体選ぶ。そのモンスター１体を自分の手札に加え、残りをデッキに戻す。その後、この効果で手札に加えたモンスターの種族によって以下のカード１枚を自分のデッキ・墓地から選んで手札に加える事ができる。$N●獣戦士族：「Recette de Poisson～魚料理のレシピ～」$N●戦士族：「Recette de Viande～肉料理のレシピ～」",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/03/18",
+  "species_id": 24,
+  "starchip": "0"
+}

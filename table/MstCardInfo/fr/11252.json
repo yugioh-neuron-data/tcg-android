@@ -1,0 +1,23 @@
+{
+  "attack_power": "1300",
+  "attribute_id": 6,
+  "card_id": 11252,
+  "card_name": "Hypnosœur",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cette carte gagne des effets selon le nombre total de cartes dans les Zones Pendule de chaque joueur.$N●Min. 1 : Cette carte gagne 800 ATK/DEF.$N●Min. 2 : Au début de la Damage Step, si cette carte combat un monstre Invoqué par Pendulation : détruisez le monstre.$N●Min. 3 : Les monstres contrôlés par votre adversaire doivent attaquer cette carte, si possible.$N●4 : Si cette carte détruit un monstre au combat ou par son propre effet : piochez 1 carte.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/08/14",
+  "species_id": 21,
+  "starchip": "4"
+}

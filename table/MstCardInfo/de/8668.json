@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 8668,
+  "card_name": "Maschinen-Fließband",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Alle Maschine-Monster auf dem Spielfeld erhalten 200 ATK. Jedes Mal, wenn ein oder mehr offene Maschine-Monster auf dem Spielfeld durch Kampf oder einen Karteneffekt zerstört werden, lege 2 Schrott-Zählmarken auf diese Karte. Du kannst diese Karte auf den Friedhof legen und dann 1 Maschine-Monster in deinem Friedhof wählen, dessen Stufe kleiner oder gleich der Anzahl der Schrott-Zählmarken ist, die auf dieser Karte lagen; beschwöre das gewählte Ziel als Spezialbeschwörung.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/02/11",
+  "species_id": 24,
+  "starchip": "0"
+}

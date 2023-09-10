@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 15765,
+  "card_name": "Saga des Guerriers Anciens - Le Chemin Galant",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si un ou plusieurs monstres \"Guerriers Anciens\" vont être détruits au combat, vous pouvez envoyer cette carte au Cimetière à la place. Vous ne pouvez utiliser chacun des effets suivants de \"Saga des Guerriers Anciens - Le Chemin Galant\" qu'une fois par tour. Si votre adversaire Invoque Spécialement un ou plusieurs monstres (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement 1 \"Jeton Guerriers Anciens\" (Bête-Guerrier/VENT/Niveau 1/ATK 500/DEF 500). Lorsqu'une carte ou un effet qui cible un ou plusieurs monstres \"Guerriers Anciens\" sur le Terrain est activé : vous pouvez bannir cette carte depuis votre Cimetière ; annulez l'activation.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/02/04",
+  "species_id": 25,
+  "starchip": "0"
+}

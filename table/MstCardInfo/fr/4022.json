@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 1,
+  "card_id": 4022,
+  "card_name": "Magicien du Temps",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Une fois par tour : vous pouvez jouer à pile ou face. Si vous gagnez, détruisez tous les monstres contrôlés par votre adversaire. Si vous perdez, détruisez autant de monstres que vous contrôlez que possible, et si vous le faites, recevez des dommages égaux à la moitié de la somme des ATK que ces monstres détruits avaient tant qu'ils étaient face recto sur le Terrain.",
+  "defense_power": "400",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/06/27",
+  "species_id": 18,
+  "starchip": "2"
+}

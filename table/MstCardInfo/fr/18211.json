@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 18211,
+  "card_name": "Nékromiroir Gishki",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cette carte peut être utilisée pour Invoquer Rituellement un Monstre Rituel \"Gishki\". Vous devez aussi Sacrifier des monstres depuis votre main ou Terrain, dont le Niveau total est exactement égal au Niveau du Monstre Rituel que vous Invoquez Rituellement, OU Sacrifiez 1 monstre face recto contrôlé par votre adversaire. Si vous Invoquez Rituellement en utilisant cette carte, vous perdez des LP égaux à l'ATK d'origine du monstre Invoqué Rituellement. Si cette carte est dans votre Cimetière : vous pouvez cibler 1 monstre \"Gishki\" dans votre Cimetière ; placez la carte au-dessus du Deck, et si vous le faites, placez cette carte au-dessous du Deck.",
+  "defense_power": "0",
+  "effect_id": 6,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/02/06",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 6,
+  "card_id": 10516,
+  "card_name": "해피 채널러",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드명의 ③의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드의 카드명은, 필드 / 묘지에 존재하는 한 \"해피 레이디\"로 취급한다. ②: 자신 필드에 드래곤족 몬스터가 존재할 경우, 이 카드의 레벨은 7 이 된다. ③: 패에서 \"해피\" 카드 1장을 버리고 발동할 수 있다. 덱에서 \"해피 채널러\" 이외의 \"해피\" 몬스터 1장을 수비 표시로 특수 소환한다.",
+  "defense_power": "1300",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/05/01",
+  "species_id": 16,
+  "starchip": "4"
+}

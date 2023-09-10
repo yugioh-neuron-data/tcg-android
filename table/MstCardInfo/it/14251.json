@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 2,
+  "card_id": 14251,
+  "card_name": "Guardiano Firewall",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se questa carta viene mandata al Cimitero come materiale per l'Evocazione Link di un mostro Cyberso: puoi Evocare Specialmente questa carta, ma bandiscila quando lascia il Terreno. Quando viene dichiarato un attacco che coinvolge un tuo Mostro Link e un Mostro Link dell'avversario: puoi bandire questa carta dal tuo Cimitero; annulla quell'attacco e, se lo fai, fino alla fine di questo turno, l'ATK originale di quel mostro dell'avversario diventa 0, inoltre esso è immune agli effetti delle altre carte, eccetto i suoi stessi. Puoi utilizzare ogni effetto di \"Guardiano Firewall\" una sola volta per turno.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/05/02",
+  "species_id": 27,
+  "starchip": "4"
+}

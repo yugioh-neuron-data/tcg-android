@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 8666,
+  "card_name": "강철핵 합성수 연구소",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드의 컨트롤러는 자신의 엔드 페이즈마다 패에서 \"코아키메일의 강철핵\" 1장을 상대에게 보여준다. 또는, 보여주지 않고 이 카드를 파괴한다. 필드 위에 존재하는 \"코아키메일\"이라는 이름이 붙은 몬스터가 엔드 페이즈시에 파괴될 때마다, 그 몬스터의 원래 주인은 덱에서 \"코아키메일\"이라는 이름이 붙은 몬스터 1장을 패로 넣을 수 있다.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/02/23",
+  "species_id": 24,
+  "starchip": "0"
+}

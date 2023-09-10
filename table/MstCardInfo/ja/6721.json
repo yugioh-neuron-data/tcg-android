@@ -1,0 +1,23 @@
+{
+  "attack_power": "1300",
+  "attribute_id": 6,
+  "card_id": 6721,
+  "card_name": "ソニック・シューター",
+  "card_name_label": "ソニック・シューター",
+  "card_name_search": "そにっくしゅーたー",
+  "card_pen_effect": "",
+  "card_text": "相手の魔法＆罠カードゾーンにカードが存在しない場合、このカードは相手プレイヤーに直接攻撃する事ができる。この時、相手プレイヤーに与える戦闘ダメージはこのカードの元々の攻撃力となる。",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/03/16",
+  "species_id": 16,
+  "starchip": "4"
+}

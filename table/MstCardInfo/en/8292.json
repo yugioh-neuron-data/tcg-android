@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 1,
+  "card_id": 8292,
+  "card_name": "Kuribon",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "During damage calculation, if this card is attacked by your opponent's monster: You can activate this effect; you take no battle damage from that battle, your opponent gains LP equal to the attacking monster's ATK, also you return this card to your hand.",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/09/01",
+  "species_id": 17,
+  "starchip": "1"
+}

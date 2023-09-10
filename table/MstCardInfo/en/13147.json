@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 5,
+  "card_id": 13147,
+  "card_name": "Amazoness Pet Liger",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"Amazoness Tiger\" + 1 \"Amazoness\" monster$NOnce per battle, if this card attacks, during damage calculation: You can make this card gain 500 ATK during that damage calculation only. If your \"Amazoness\" monster attacked an opponent's monster, after damage calculation: You can target 1 face-up monster your opponent controls; it loses 800 ATK. Monsters your opponent controls cannot attack \"Amazoness\" monsters you control, except this one.",
+  "defense_power": "2400",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/10/20",
+  "species_id": 11,
+  "starchip": "7"
+}

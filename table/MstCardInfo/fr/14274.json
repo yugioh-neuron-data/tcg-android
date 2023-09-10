@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 6,
+  "card_id": 14274,
+  "card_name": "Fixétoileur",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cette carte gagne un effet selon votre Zone Monstre Main dans laquelle elle est.$N●La plus à gauche : Augmentez son Niveau de 4.$N●La plus à droite : Augmentez son Niveau de 3.$N●Centre : Augmentez son Niveau de 2.$N●Autres : Augmentez son Niveau de 1.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/05/02",
+  "species_id": 16,
+  "starchip": "4"
+}

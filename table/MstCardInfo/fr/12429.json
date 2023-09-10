@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 5,
+  "card_id": 12429,
+  "card_name": "Sphinx Triamid",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Ni Invocable Normalement ni Posable Normalement. Uniquement Invocable Spécialement avec l'effet d'une carte \"Triamid\" et non Invocable Spécialement autrement. Si une ou plusieurs cartes \"Triamid\" face recto que vous contrôlez (\"Sphinx Triamid\" exclu) sont détruites au combat ou par un effet de carte : vous pouvez Invoquer Spécialement cette carte depuis votre main. Tant que vous contrôlez une autre carte \"Triamid\" , cette carte gagne 500 ATK/DEF pour chaque Carte Magie de Terrain de nom différent dans votre Cimetière, et aussi, les monstres contrôlés par votre adversaire ne peuvent pas attaquer, sauf pour attaquer \"Sphinx Triamid\".",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/08/04",
+  "species_id": 6,
+  "starchip": "10"
+}

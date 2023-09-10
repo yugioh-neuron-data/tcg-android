@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 6860,
+  "card_name": "トロイボム",
+  "card_name_label": "トロイボム",
+  "card_name_search": "とろいぼむ",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上のモンスターのコントロールが相手のカードの効果によって相手に移った時に発動できる。そのモンスター１体を破壊し、破壊したモンスターの攻撃力分のダメージを相手ライフに与える。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/08/10",
+  "species_id": 25,
+  "starchip": "0"
+}

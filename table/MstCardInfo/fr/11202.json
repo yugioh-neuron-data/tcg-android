@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11202,
+  "card_name": "Table Ronde du Chevalier Noble",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durant votre End Phase : vous pouvez activer chacun de ces effets max. une fois par tour, selon le nombre total de cartes \"Chevalier Noble\" de noms différents dans votre Cimetière et/ou que vous contrôlez ;$N●3+ : Envoyez 1 carte \"Chevalier Noble\" depuis votre Deck au Cimetière.$N●6+ : Invoquez Spécialement 1 monstre \"Chevalier Noble\" depuis votre main, puis vous pouvez équiper 1 Magie d'Équipement \"Armes Nobles\" depuis votre main au monstre.$N●9+ : Ciblez 1 monstre \"Chevalier Noble\" dans votre Cimetière ; ajoutez la cible à votre main.$N●12 : Piochez 1 carte.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/05/15",
+  "species_id": 24,
+  "starchip": "0"
+}

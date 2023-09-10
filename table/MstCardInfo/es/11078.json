@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 1,
+  "card_id": 11078,
+  "card_name": "Artefacto Durandarete",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 monstruos de Nivel 5$NUna vez por turno (Efecto Rápido): puedes activar 1 de estos efectos.$N●Cuando es activado un efecto de monstruo en el Campo O cuando es activada una Carta Mágica/de Trampa Normal: puedes desacoplar 1 material de esta carta; el efecto activado se convierte en \"Destruye 1 Carta Mágica/de Trampa que controle tu adversario\".$N●Puedes desacoplar 1 material de esta carta; cada jugador que tenga cartas en la mano baraja su mano completa al Deck, y después roba el mismo número de cartas que barajó al Deck.",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/05/15",
+  "species_id": 17,
+  "starchip": "5"
+}

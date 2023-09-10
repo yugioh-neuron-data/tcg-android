@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 12987,
+  "card_name": "幻煌龍の浸渦",
+  "card_name_label": "げんおうりゅうのしんか",
+  "card_name_search": "げんおうりゅうのしんか",
+  "card_pen_effect": "",
+  "card_text": "フィールドに「海」が存在する場合、このカードの発動は手札からもできる。①：自分フィールドのモンスターが通常モンスターのみの場合、相手フィールドの効果モンスター１体を対象として発動できる。そのモンスターはターン終了時まで、攻撃力・守備力が１０００ダウンし、効果が無効化される。②：墓地のこのカードを除外し、自分フィールドの通常モンスター１体を対象として発動できる。自分の手札・墓地から「幻煌龍」装備魔法カード１枚を選んでその通常モンスターに装備する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/01/14",
+  "species_id": 25,
+  "starchip": "0"
+}

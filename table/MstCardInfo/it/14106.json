@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 3,
+  "card_id": 14106,
+  "card_name": "Calamaro Spruzzatore",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Una volta per turno, quando questa carta viene scelta come bersaglio per un attacco da un mostro dell'avversario: puoi spostare questa carta che controlli in un'altra delle tue Zone Mostri Main, poi, Evoca Specialmente 1 \"Segna-Calamaro Inchiostro\" (Acqua/ACQUA/Livello 2/ATK ?/DEF 0). L'ATK di questo Segna-Mostro diventa l'ATK di quel mostro dell'avversario. Mentre questa carta è nella tua Zona Mostri Main più a sinistra o più a destra, i mostri del tuo avversario con ATK pari o inferiore al DEF di questa carta non possono sceglierla come bersaglio per gli attacchi.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/01/31",
+  "species_id": 14,
+  "starchip": "2"
+}

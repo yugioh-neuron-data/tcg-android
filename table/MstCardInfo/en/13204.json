@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 5,
+  "card_id": 13204,
+  "card_name": "Binary Sorceress",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 monsters, except Tokens$NThis card gains these effects based on the number of monsters co-linked to this card.$N●1+: When a monster co-linked to this card battles your opponent's monster and inflicts battle damage to them: You can gain that much LP.$N●2: Once per turn (Quick Effect): You can target 2 face-up monsters you control; until the end of this turn, halve the ATK of 1 monster, and if you do, add that lost ATK to the other monster.",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "46",
+  "linkno": "2",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/11/03",
+  "species_id": 27,
+  "starchip": ""
+}

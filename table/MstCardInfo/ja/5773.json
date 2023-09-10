@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 6,
+  "card_id": 5773,
+  "card_name": "シャドウナイトデーモン",
+  "card_name_label": "シャドウナイトデーモン",
+  "card_name_search": "しゃどうないとでーもん",
+  "card_pen_effect": "",
+  "card_text": "このカードのコントローラーは自分のスタンバイフェイズ毎に９００ライフポイントを払う。このカードが相手のコントロールするカードの効果の対象になり、その処理を行う時にサイコロを１回振る。３が出た場合、その効果を無効にし破壊する。このカードが相手プレイヤーに与えるダメージは半分になる。",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2003/02/20",
+  "species_id": 3,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 10023,
+  "card_name": "忍法 分身の術",
+  "card_name_label": "にんぽう ぶんしんのじゅつ",
+  "card_name_search": "にんぽうぶんしんのじゅつ",
+  "card_pen_effect": "",
+  "card_text": "①：自分フィールドの「忍者」モンスター１体をリリースしてこのカードを発動できる。レベルの合計がリリースしたモンスターのレベル以下になるように、デッキから「忍者」モンスターを任意の数だけ選び、それぞれ表側攻撃表示または裏側守備表示で特殊召喚する。このカードがフィールドから離れた時にそのモンスターは全て破壊される。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/10/13",
+  "species_id": 25,
+  "starchip": "0"
+}

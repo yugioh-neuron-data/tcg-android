@@ -1,0 +1,23 @@
+{
+  "attack_power": "1900",
+  "attribute_id": 4,
+  "card_id": 8432,
+  "card_name": "Beschwörer-Ordensritter",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Diese Karte wird als ein Normales Monster behandelt, solange sie offen auf dem Spielfeld oder im Friedhof liegt. Solange diese Karte offen auf dem Spielfeld liegt, kannst du sie als Normalbeschwörung beschwören, damit sie als Effektmonster mit diesem Effekt behandelt wird.$N●Du kannst 1 offene Ausrüstungskarte, die du kontrollierst, auf den Friedhof legen und dann 1 Karte wählen, die dein Gegner kontrolliert; zerstöre das gewählte Ziel.",
+  "defense_power": "900",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 9,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/10/22",
+  "species_id": 15,
+  "starchip": "4"
+}

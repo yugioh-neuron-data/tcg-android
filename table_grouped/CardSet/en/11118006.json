@@ -1,0 +1,938 @@
+[
+  {
+    "card_count": 1,
+    "card_id": 12864,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN092",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13162,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN093",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13456,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN094",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13545,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN095",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 13551,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN096",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 14051,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN097",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14198,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN098",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 14449,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN001",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14450,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN002",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14451,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN003",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 14451,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN003",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 47
+  },
+  {
+    "card_count": 1,
+    "card_id": 14452,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN004",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14453,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN005",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14454,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN006",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14455,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN007",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14456,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN012",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14457,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN013",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14458,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN014",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14459,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN015",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14460,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN016",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14461,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN017",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14462,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN018",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14463,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN019",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14464,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN020",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14465,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN021",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 14466,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN022",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 14467,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN009",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14468,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN010",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14469,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN011",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 14470,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN008",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14471,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN023",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 14472,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN024",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14473,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN025",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14474,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN036",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14475,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN030",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14476,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN033",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14477,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN032",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14478,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN034",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 14479,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN035",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14480,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN029",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 14481,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN031",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14482,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN026",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14483,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN028",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 14484,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN027",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 14485,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN037",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14486,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN038",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 14487,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN039",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 14488,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN040",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 14489,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN041",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 14490,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN042",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 14491,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN043",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14492,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN044",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 14493,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN045",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14494,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN049",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14495,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN047",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 14496,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN048",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 14496,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN048",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 47
+  },
+  {
+    "card_count": 1,
+    "card_id": 14497,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN046",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14497,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN046",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 47
+  },
+  {
+    "card_count": 1,
+    "card_id": 14498,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN050",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14499,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN051",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14500,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN052",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14501,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN053",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14502,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN054",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14503,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN058",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14504,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN059",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14505,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN060",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14506,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN061",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14507,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN062",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14508,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN055",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14509,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN056",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 14510,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN057",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14511,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN063",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 14512,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN064",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14513,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN065",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14514,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN066",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14515,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN067",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14516,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN068",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 14517,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN069",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14518,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN072",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14519,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN073",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14520,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN070",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14521,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN071",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14522,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN075",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14523,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN077",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 14523,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN077",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 47
+  },
+  {
+    "card_count": 1,
+    "card_id": 14524,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN078",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14525,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN079",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14526,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN076",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 14527,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN074",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14528,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN080",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14545,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN099",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14709,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN000",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 14710,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN081",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14711,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN082",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14712,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN083",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14713,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN084",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14714,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN085",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 14715,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN086",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 14716,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN087",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 14717,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN088",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 14718,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN089",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 14719,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN090",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 14720,
+    "card_image_id": 1,
+    "card_number": "RIRA-EN091",
+    "language": "en",
+    "pack_id": "11118006",
+    "rarity_id": 1
+  }
+]

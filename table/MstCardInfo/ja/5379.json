@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 1,
+  "card_id": 5379,
+  "card_name": "竜宮之姫",
+  "card_name_label": "オトヒメ",
+  "card_name_search": "おとひめ",
+  "card_pen_effect": "",
+  "card_text": "このカードは特殊召喚できない。召喚・リバースしたターンのエンドフェイズ時に持ち主の手札に戻る。このカードが召喚・リバースした時、相手フィールド上に表側表示で存在するモンスター１体を選択し、表示形式を変更する事ができる。",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 7,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2001/11/29",
+  "species_id": 18,
+  "starchip": "3"
+}

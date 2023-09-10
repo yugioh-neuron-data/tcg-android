@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 2,
+  "card_id": 15716,
+  "card_name": "Guerriers Anciens - Rebelle Lu Feng",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Ni Invocable Normalement ni Posable Normalement. Uniquement Invocable Spécialement (depuis votre main) en contrôlant le monstre \"Guerriers Anciens\" avec la plus haute ATK sur le Terrain (même en cas d'égalité). Vous ne pouvez Invoquer Spécialement \"Guerriers Anciens - Rebelle Lu Feng\" qu'une fois par tour de cette façon. Une fois par tour, durant la Main Phase (Effet Rapide) : vous pouvez détruire le monstre face recto contrôlé par votre adversaire avec la plus haute ATK (en cas d'égalité, vous choisissez), et aussi, vous ne pouvez pas activer d'effets de monstre (ceux des monstres \"Guerriers Anciens\" exclus) le tour où vous activez cet effet. Une fois par tour, durant la End Phase, si votre adversaire contrôle le monstre avec la plus haute ATK sur le Terrain (même en cas d'égalité) : donnez le contrôle de cette carte à votre adversaire.",
+  "defense_power": "2200",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/02/04",
+  "species_id": 12,
+  "starchip": "8"
+}

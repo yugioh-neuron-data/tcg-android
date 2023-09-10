@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 2,
+  "card_id": 12370,
+  "card_name": "Renard Cramoisi Clair de Lune",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si cette carte est envoyée au Cimetière par un effet de carte : vous pouvez cibler 1 monstre face recto contrôlé par votre adversaire ; jusqu'à la fin de ce tour, changez son ATK à 0. Lorsqu'une carte ou un effet qui cible un ou plusieurs monstres \"Clair de Lune\" que vous contrôlez est activé (Effet Rapide) : vous pouvez bannir cette carte depuis votre Cimetière ; annulez l'activation, et si vous le faites, chaque joueur gagne 1000 LP.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/10/19",
+  "species_id": 12,
+  "starchip": "4"
+}

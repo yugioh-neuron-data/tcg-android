@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16253,
+  "card_name": "Sintesi Dimero",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Attiva 1 di questi effetti;$N●Aggiungi 1 \"Campo Catalitico\" dal tuo Deck alla tua mano.$N●Aggiungi 1 mostro \"Surriscaldamento\" e 1 mostro \"Chimicreatura\" dal tuo Deck alla tua mano.$NPuoi bandire questa carta dal tuo Cimitero, poi scegliere come bersaglio 2 mostri scoperti che controlli, compreso un mostro Gemello che viene considerato come un Mostro con Effetto e che ha guadagnato i suoi effetti; fino alla fine di questo turno, rendi l'ATK di 1 di quei mostri 0 e, se lo fai, il secondo mostro guadagna ATK pari all'ATK originale del primo mostro. Puoi utilizzare ogni effetto di \"Sintesi Dimero\" una sola volta per turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/08/12",
+  "species_id": 24,
+  "starchip": "0"
+}

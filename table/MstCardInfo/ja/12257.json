@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 6,
+  "card_id": 12257,
+  "card_name": "スターダスト・チャージ・ウォリアー",
+  "card_name_label": "スターダスト・チャージ・ウォリアー",
+  "card_name_search": "すたーだすとちゃーじうぉりあー",
+  "card_pen_effect": "",
+  "card_text": "チューナー＋チューナー以外のモンスター１体以上$Nこのカード名の①の効果は１ターンに１度しか使用できない。①：このカードがS召喚に成功した時に発動できる。自分はデッキから１枚ドローする。②：このカードは特殊召喚された相手モンスター全てに１回ずつ攻撃できる。",
+  "defense_power": "1300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/12/19",
+  "species_id": 15,
+  "starchip": "6"
+}

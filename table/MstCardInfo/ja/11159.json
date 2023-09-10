@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11159,
+  "card_name": "ソウル・チャージ",
+  "card_name_label": "ソウル・チャージ",
+  "card_name_search": "そうるちゃーじ",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できず、このカードを発動するターン、自分はバトルフェイズを行えない。①：自分の墓地のモンスターを任意の数だけ対象として発動できる。そのモンスターを特殊召喚し、自分はこの効果で特殊召喚したモンスターの数×１０００LPを失う。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/05/17",
+  "species_id": 24,
+  "starchip": "0"
+}

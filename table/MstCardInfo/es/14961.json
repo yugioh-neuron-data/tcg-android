@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 2,
+  "card_id": 14961,
+  "card_name": "D/D/D Réquiem, Rey del Vicio",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Puedes seleccionar cualquier número de cartas \"Contrato Oscuro\" que controles; destrúyelas y, si lo haces, Invoca esta carta de Modo Especial desde tu Zona de Péndulo, y después puedes aumentar o reducir su Nivel en el número destruido. Sólo puedes usar este efecto de \"D/D/D Réquiem, Rey del Vicio\" una vez por turno.",
+  "card_text": "No puedes Invocar monstruos de Modo Especial, excepto monstruos \"D/D/D\". Un monstruo \"D/D/D\" que haya sido Invocado por Fusión, Sincronía, Xyz o Enlace usando esta carta en el Campo como material gana este efecto.$N●Una vez por turno: puedes seleccionar 1 carta en el Campo; baraja al Deck 1 carta \"Contrato Oscuro\" en tu Campo o Cementerio y, si lo haces, destruye ese objetivo, y después gana 1000 LP.$NSólo puedes usar este efecto de \"D/D/D Réquiem, Rey del Vicio\" una vez por turno.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "4",
+  "pen_scale_r": "4",
+  "sales_at": "2022/05/05",
+  "species_id": 3,
+  "starchip": "8"
+}

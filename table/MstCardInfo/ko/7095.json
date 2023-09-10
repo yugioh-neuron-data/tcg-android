@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 2,
+  "card_id": 7095,
+  "card_name": "데스티니 히어로 디스크 가이",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드명의 효과는 듀얼 중에 1번밖에 사용할 수 없다. 이 카드는 묘지로 보내진 턴에는 묘지에서의 특수 소환은 할 수 없다. ①: 이 카드가 묘지에서의 특수 소환에 성공했을 경우에 발동할 수 있다. 자신은 덱에서 2장 드로우한다.",
+  "defense_power": "300",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/02/02",
+  "species_id": 15,
+  "starchip": "1"
+}

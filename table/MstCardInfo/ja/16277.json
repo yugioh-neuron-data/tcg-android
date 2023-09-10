@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 5,
+  "card_id": 16277,
+  "card_name": "ウォークライ・マムード",
+  "card_name_label": "ウォークライ・マムード",
+  "card_name_search": "うぉーくらいまむーど",
+  "card_pen_effect": "",
+  "card_text": "このカード名の②の効果は１ターンに１度しか使用できない。①：自分フィールドのモンスターが、存在しない場合または戦士族モンスターのみの場合、このカードはリリースなしで召喚できる。②：自分の戦士族・地属性モンスターが戦闘を行ったダメージ計算後に、相手フィールドの魔法・罠カード１枚を対象として発動できる。そのカードを破壊する。その後、自分フィールドの全ての「ウォークライ」モンスターの攻撃力は相手ターン終了時まで２００アップする。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/09/25",
+  "species_id": 15,
+  "starchip": "5"
+}

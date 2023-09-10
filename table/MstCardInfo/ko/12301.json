@@ -1,0 +1,23 @@
+{
+  "attack_power": "1750",
+  "attribute_id": 5,
+  "card_id": 12301,
+  "card_name": "아모르파지 휴펠",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "이 카드의 컨트롤러는, 자신 스탠바이 페이즈마다 자신 필드의 몬스터 1장을 릴리스한다. 또한 릴리스하지 않고 이 카드를 파괴한다. ①: 자신 필드에 \"아모르파지\" 몬스터가 존재하는 한, 서로 받는 효과 데미지는 0 이 된다.",
+  "card_text": "①: 펜듈럼 소환 / 리버스한 이 카드가 몬스터 존에 존재하는 한, 서로 \"아모르파지\" 몬스터밖에 엑스트라 덱에서 특수 소환할 수 없다.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2016/05/17",
+  "species_id": 1,
+  "starchip": "4"
+}

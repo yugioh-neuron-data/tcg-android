@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 7504,
+  "card_name": "Cassimolar",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Quando questa carta viene Evocata Normalmente: puoi scegliere come bersaglio 1 mostro scoperto controllato dal tuo avversario; esso guadagna ATK pari al suo ATK originale, inoltre, durante la End Phase del prossimo turno, distruggi quel mostro scoperto e, se lo fai, il tuo avversario subisce danno pari alla metà del suo ATK originale. All'inizio della Battle Phase del tuo avversario: puoi offrire come Tributo questa carta Evocata Normalmente/Posizionata; i mostri del tuo avversario non possono attaccare direttamente per il resto di questo turno.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/02/06",
+  "species_id": 3,
+  "starchip": "3"
+}

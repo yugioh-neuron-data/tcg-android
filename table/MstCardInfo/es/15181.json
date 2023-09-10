@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 2,
+  "card_id": 15181,
+  "card_name": "Perro D/D",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Puedes seleccionar 1 Monstruo de Fusión, Sincronía o Xyz que controle tu adversario; hasta el final de este turno niega sus efectos, y después destruye esta carta. Sólo puedes usar este efecto de \"Perro D/D\" una vez por turno.",
+  "card_text": "Una vez por turno, si tu adversario Invoca de Modo Especial uno o más Monstruos de Fusión, Sincronía o Xyz (excepto durante el Damage Step): puedes seleccionar 1 de esos monstruos; este turno, ese monstruo boca arriba no puede atacar, y además sus efectos son negados.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2020/08/06",
+  "species_id": 3,
+  "starchip": "6"
+}

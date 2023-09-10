@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 12807,
+  "card_name": "霊魂の円環",
+  "card_name_label": "エスプリット・ヒーリング",
+  "card_name_search": "えすぷりっとひーりんぐ",
+  "card_pen_effect": "",
+  "card_text": "「霊魂の円環」の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが魔法＆罠ゾーンに存在し、自分フィールドの表側表示のスピリットモンスターが自分の手札に戻った場合、相手フィールドのカード１枚を対象として発動できる。そのカードを破壊する。②：相手モンスターの攻撃宣言時に自分の墓地のスピリットモンスター１体を除外して発動できる。その攻撃を無効にし、その後バトルフェイズを終了する。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/10/08",
+  "species_id": 25,
+  "starchip": "0"
+}

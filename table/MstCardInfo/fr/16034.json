@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 16034,
+  "card_name": "Attraction-Étonnante Manège Majestueux",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Ciblez 1 monstre \"Incroyable\" que vous contrôlez ou 1 monstre face recto contrôlé par votre adversaire ; équipez-lui cette carte. Vous pouvez appliquer l'effet suivant, selon quel joueur contrôle le monstre équipé ;$N●Vous : Le monstre équipé gagne 500 ATK. S'il va être détruit au combat ou par un effet de carte, vous pouvez envoyer cette carte au Cimetière à la place.$N●Votre adversaire : Le monstre équipé perd 500 ATK pour chacun de vos Pièges \"Attraction-\" équipés à un ou plusieurs monstres.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/06/03",
+  "species_id": 25,
+  "starchip": "0"
+}

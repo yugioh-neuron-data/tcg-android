@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 2,
+  "card_id": 5815,
+  "card_name": "Canguru Des",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se o ATK de um monstro que estiver atacando este monstro for menor que a DEF deste card, destrua o monstro atacante.",
+  "defense_power": "1700",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/03/01",
+  "species_id": 11,
+  "starchip": "4"
+}

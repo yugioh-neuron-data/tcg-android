@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 4,
+  "card_id": 15517,
+  "card_name": "Capitaine Oliver, Chevalier Noble Inferno",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Syntoniseur + 1+ monstre non-Syntoniseur$NLorsque cette carte déclare une attaque tant qu'elle est équipée : vous pouvez cibler 1 carte face recto sur le Terrain ; détruisez-la. Durant votre Main Phase, sauf le tour où cette carte a été envoyée au Cimetière : vous pouvez cibler 1 monstre Guerrier que vous contrôlez ; Invoquez Spécialement cette carte depuis votre Cimetière comme un Syntoniseur, et si vous le faites, équipez le monstre que vous contrôlez à cette carte comme une Magie d'Équipement qui donne 500 ATK. Vous ne pouvez utiliser cet effet de \"Capitaine Oliver, Chevalier Noble Inferno\" qu'une fois par tour.",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/11/05",
+  "species_id": 15,
+  "starchip": "5"
+}

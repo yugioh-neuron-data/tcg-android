@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 2,
+  "card_id": 12716,
+  "card_name": "Attore dell'Abisso - Speranza Selvaggia",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Una volta per turno: puoi scegliere come bersaglio 1 carta \"Attore dell'Abisso\" nella tua altra Zona Pendulum; il suo Valore Pendulum diventa 9 fino alla fine di questo turno, inoltre non puoi Evocare Specialmente mostri per il resto di questo turno, eccetto mostri \"Attore dell'Abisso\" (anche se questa carta lascia il Terreno).",
+  "card_text": "Una volta per turno: puoi far guadagnare a questa carta 100 ATK per ogni mostro \"Attore dell'Abisso\" che controlli attualmente con nomi diversi, fino alla fine di questo turno. Se questa carta viene distrutta in battaglia o dall'effetto di una carta: puoi aggiungere 1 carta \"Attore dell'Abisso\" dal tuo Deck alla tua mano, eccetto \"Attore dell'Abisso - Speranza Selvaggia\". Puoi utilizzare questo effetto di \"Attore dell'Abisso - Speranza Selvaggia\" una sola volta per turno.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "2",
+  "pen_scale_r": "2",
+  "sales_at": "2016/11/17",
+  "species_id": 3,
+  "starchip": "4"
+}

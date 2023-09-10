@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 4,
+  "card_id": 17747,
+  "card_name": "Earlie, Chevalier du Stand",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 Monstres à Effet$NLorsqu'un monstre pointé par cette carte active son effet (sauf durant la Damage Step) (Effet Rapide) : vous pouvez cibler 1 Monstre à Effet contrôlé par votre adversaire ; jusqu'à la fin de ce tour, changez son ATK à 0, et aussi, annulez ses effets. Durant la End Phase, si cette carte est dans le Cimetière parce qu'elle a été détruite au combat ou par un effet de carte, et y a été envoyée ce tour : vous pouvez Invoquer Spécialement cette carte. Vous ne pouvez utiliser chaque effet de \"Earlie, Chevalier du Stand\" qu'une fois par tour.",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "96",
+  "linkno": "2",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/08/04",
+  "species_id": 27,
+  "starchip": ""
+}

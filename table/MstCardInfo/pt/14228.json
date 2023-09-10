@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14228,
+  "card_name": "Decodificar Destruição",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Escolha 1 \"Decodificar Transmissor\" que você controla; neste turno, aplique os seguintes efeitos, dependendo do número de monstros para os quais ele apontar atualmente.$N●1+: Esse monstro ganha 500 de ATK para cada monstro para os quais ele apontar atualmente.$N●2+: Os monstros destruídos em batalha com esse monstro são banidos depois do cálculo de dano.$N●3: Depois do cálculo de dano, se esse monstro destruir um monstro do seu oponente em batalha: destrua todos os cards que seu oponente controla.$NVocê só pode ativar 1 \"Decodificar Destruição\" por turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/04/04",
+  "species_id": 24,
+  "starchip": "0"
+}

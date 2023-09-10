@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 2,
+  "card_id": 7675,
+  "card_name": "ツインバレル・ドラゴン",
+  "card_name_label": "ツインバレル・ドラゴン",
+  "card_name_search": "ついんばれるどらごん",
+  "card_pen_effect": "",
+  "card_text": "このカードが召喚・反転召喚・特殊召喚に成功した時、相手フィールド上に存在するカード１枚を選択して発動する。コイントスを２回行い、２回とも表だった場合、選択したカードを破壊する。",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/04/19",
+  "species_id": 7,
+  "starchip": "4"
+}

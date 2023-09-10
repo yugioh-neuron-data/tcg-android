@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 12913,
+  "card_name": "Pendulegraphe du Temps",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Votre adversaire ne peut pas cibler de monstres de Type Magicien que vous contrôlez avec des Cartes Piège ou effets de Piège. Vous ne pouvez utiliser l'effet suivant de \"Pendulegraphe du Temps\" qu'une fois par tour. Vous pouvez cibler 1 Carte Monstre Pendule \"Magicien\" dans votre Zone Monstre ou Zone Pendule, et 1 carte contrôlée par votre adversaire ; détruisez-les. Puis, si cet effet n'a pas détruit 2 cartes, vous pouvez envoyer 1 carte sur le Terrain au Cimetière.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/06/22",
+  "species_id": 25,
+  "starchip": "0"
+}

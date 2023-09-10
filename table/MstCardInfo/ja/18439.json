@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 18439,
+  "card_name": "ベビー・スパイダー",
+  "card_name_label": "ベビー・スパイダー",
+  "card_name_search": "べびーすぱいだー",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドの闇属性モンスター１体をリリースして発動できる。自分フィールドの全ての「ベビー・スパイダー」のレベルは、この効果を発動するためにリリースしたモンスターのレベル分だけ上がる。②：LPを半分払い、墓地のこのカードを除外し、自分フィールドの闇属性XモンスターのX素材を１つ取り除き、自分の墓地の闇属性モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/12/17",
+  "species_id": 10,
+  "starchip": "3"
+}

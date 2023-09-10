@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 8619,
+  "card_name": "Gólem del Agujero Mágico",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Una vez por turno, puedes seleccionar 1 monstruo boca arriba que controles. Su ATK se reduce a la mitad hasta la End Phase y este turno puede atacar directamente a tu adversario. Durante el turno en el que activaste este efecto, sólo puede atacar el monstruo seleccionado.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/02/11",
+  "species_id": 6,
+  "starchip": "3"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11093,
+  "card_name": "武神決戦",
+  "card_name_label": "ぶじんけっせん",
+  "card_name_search": "ぶじんけっせん",
+  "card_pen_effect": "",
+  "card_text": "フィールド上の「武神」と名のついたモンスター１体を選択して発動できる。このターン選択したモンスターが、そのモンスターの元々の攻撃力以上の攻撃力を持つモンスターを戦闘によって破壊した場合、破壊したそのモンスターを除外し、さらにその同名モンスターを相手の手札・デッキ・エクストラデッキ・墓地から全て除外する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/02/15",
+  "species_id": 24,
+  "starchip": "0"
+}

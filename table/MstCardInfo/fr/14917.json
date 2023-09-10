@@ -1,0 +1,23 @@
+{
+  "attack_power": "700",
+  "attribute_id": 2,
+  "card_id": 14917,
+  "card_name": "Satellite Synchronique",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si un ou plusieurs monstres sont Invoqués Spécialement depuis votre Cimetière (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte depuis votre main. Si vous avez un Monstre Synchro avec \"Guerrier\", \"Synchronique\" ou \"Poussière d'Étoile\" dans son nom d'origine sur votre Terrain ou Cimetière : jusqu'à la fin de ce tour, vous pouvez faire devenir 4 le Niveau de cette carte. Vous ne pouvez utiliser chaque effet de \"Satellite Synchronique\" qu'une fois par tour.",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/01/16",
+  "species_id": 7,
+  "starchip": "2"
+}

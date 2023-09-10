@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 6,
+  "card_id": 8438,
+  "card_name": "マックス・ウォリアー",
+  "card_name_label": "マックス・ウォリアー",
+  "card_name_search": "まっくすうぉりあー",
+  "card_pen_effect": "",
+  "card_text": "このカードは相手モンスターに攻撃する場合、ダメージステップの間攻撃力が４００ポイントアップする。このカードが戦闘によって相手モンスターを破壊した場合、次の自分のスタンバイフェイズ時までこのカードのレベルは２になり、元々の攻撃力・守備力は半分になる。",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/07/18",
+  "species_id": 15,
+  "starchip": "4"
+}

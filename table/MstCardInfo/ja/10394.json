@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 5,
+  "card_id": 10394,
+  "card_name": "魔導化士 マット",
+  "card_name_label": "まどうけし　マット",
+  "card_name_search": "まどうけしまっと",
+  "card_pen_effect": "",
+  "card_text": "１ターンに１度、デッキから「魔導書」と名のついた魔法カード１枚を墓地へ送る事ができる。この効果を発動したターンのエンドフェイズ時、自分の墓地の「魔導書」と名のついた魔法カードが５種類以上の場合、このカードをリリースする事で、デッキから魔法使い族・闇属性・レベル５以上のモンスター１体を特殊召喚する。",
+  "defense_power": "900",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/11/17",
+  "species_id": 18,
+  "starchip": "3"
+}

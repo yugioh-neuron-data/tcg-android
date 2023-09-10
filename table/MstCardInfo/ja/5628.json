@@ -1,0 +1,23 @@
+{
+  "attack_power": "2900",
+  "attribute_id": 2,
+  "card_id": 5628,
+  "card_name": "超魔導剣士－ブラック・パラディン",
+  "card_name_label": "ちょうまどうけんし－ブラック・パラディン",
+  "card_name_search": "ちょうまどうけんしぶらっくぱらでぃん",
+  "card_pen_effect": "",
+  "card_text": "「ブラック・マジシャン」＋「バスター・ブレイダー」$Nこのカードは融合召喚でしか特殊召喚できない。$N①：このカードの攻撃力は、お互いのフィールド・墓地のドラゴン族モンスターの数×５００アップする。$N②：魔法カードが発動した時、手札を１枚捨てて発動できる。このカードがモンスターゾーンに表側表示で存在する場合、その発動を無効にし破壊する。",
+  "defense_power": "2400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/09/19",
+  "species_id": 18,
+  "starchip": "8"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 4,
+  "card_id": 8782,
+  "card_name": "セカンド・ブースター",
+  "card_name_label": "セカンド・ブースター",
+  "card_name_search": "せかんどぶーすたー",
+  "card_pen_effect": "",
+  "card_text": "このカードをリリースし、自分フィールド上に表側攻撃表示で存在するモンスター１体を選択して発動する。選択したモンスターの攻撃力は、エンドフェイズ時まで１５００ポイントアップする。",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/02/20",
+  "species_id": 7,
+  "starchip": "3"
+}

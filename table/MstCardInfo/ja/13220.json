@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 1,
+  "card_id": 13220,
+  "card_name": "トリックスター・ナルキッス",
+  "card_name_label": "トリックスター・ナルキッス",
+  "card_name_search": "とりっくすたーなるきっす",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①の効果は１ターンに１度しか使用できない。①：相手が効果ダメージを受けた場合に発動できる。このカードを手札から特殊召喚する。②：このカードがモンスターゾーンに存在する限り、相手が手札・墓地のモンスターの効果を発動する度に、相手に２００ダメージを与える。",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/07/08",
+  "species_id": 17,
+  "starchip": "4"
+}

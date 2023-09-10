@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 1,
+  "card_id": 15870,
+  "card_name": "Noche de Estrellas, Dragón de Estrellas",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si esta carta es Invocada de Modo Normal o Especial desde la mano: puedes seleccionar 1 carta en el Campo; destrúyela. No puede ser destruida en batalla con un monstruo de OSCURIDAD, o por el efecto de un monstruo de OSCURIDAD. Una vez por turno, al comienzo del Damage Step, si esta carta ataca un monstruo del adversario: puedes desterrar ese monstruo del adversario hasta la End Phase, y además esta carta puede hacer un segundo ataque inmediatamente después.",
+  "defense_power": "2300",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/04/16",
+  "species_id": 1,
+  "starchip": "7"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 1,
+  "card_id": 10876,
+  "card_name": "Edler Ritter Borz",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Diese Karte wird als Normales Monster behandelt, solange sie offen auf dem Spielfeld liegt. Solange diese Karte mit einem „Edle Waffen“-Ausrüstungszauber ausgerüstet ist, wird sie ein Effektmonster mit diesen Effekten.$N●Diese Karte wird zu FINSTERNIS und ihre Stufe wird um 1 erhöht.$N●Während deiner Main Phase: Du kannst 3 „Edle Waffen“-Karten von deinem Deck vorzeigen, deinen Gegner zufällig 1 von ihnen deiner Hand hinzufügen lassen und die restlichen auf den Friedhof legen. Du kannst diesen Effekt von „Edler Ritter Borz“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "900",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/11/07",
+  "species_id": 15,
+  "starchip": "4"
+}

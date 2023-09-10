@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 2,
+  "card_id": 14186,
+  "card_name": "Oiseau Émeraude Clair de Lune",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez envoyer 1 carte \"Clair de Lune\" depuis votre main au Cimetière, et si vous le faites, piochez 1 carte. Si cette carte est envoyée au Cimetière par un effet de carte : vous pouvez cibler 1 de vos monstres \"Clair de Lune\" de max. Niveau 4 (\"Oiseau Émeraude Clair de Lune\" exclu) qui est banni ou dans votre Cimetière ; Invoquez-le Spécialement en Position de Défense, mais annulez ses effets. Vous ne pouvez utiliser chaque effet de \"Oiseau Émeraude Clair de Lune\" qu'une fois par tour.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/01/10",
+  "species_id": 12,
+  "starchip": "4"
+}

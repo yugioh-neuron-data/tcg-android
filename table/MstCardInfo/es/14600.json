@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 14600,
+  "card_name": "Desfile de Marionetas",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si tu adversario controla más monstruos que tú: Invoca de Modo Especial, desde tu Deck, hasta tantos monstruos \"Marioneta Trucada\" con nombres diferentes como la diferencia y después, si los LP de tu adversario son al menos 2000 más que los tuyos, puedes Colocar 1 Mágica Normal \"Magia de Subida de Rango\" directamente desde tu Deck. Por el resto de este turno después de que esta carta se resuelva, no puedes Invocar monstruos de Modo Especial, excepto monstruos \"Marioneta Trucada\". Sólo puedes activar 1 \"Desfile de Marionetas\" por turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/09/26",
+  "species_id": 25,
+  "starchip": "0"
+}

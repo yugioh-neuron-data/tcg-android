@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 14600,
+  "card_name": "傀儡葬儀－パペット・パレード",
+  "card_name_label": "くぐつそうぎ－パペット・パレード",
+  "card_name_search": "くぐつそうぎぱぺっとぱれーど",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：相手フィールドのモンスターの数が自分フィールドのモンスターより多い場合、その差の数までデッキから「ギミック・パペット」モンスターを特殊召喚する（同名カードは１枚まで）。自分のLPが相手より２０００以上少ない場合、さらにデッキから「RUM」通常魔法カード１枚を選んで自分の魔法＆罠ゾーンにセットできる。このカードの発動後、ターン終了時まで自分は「ギミック・パペット」モンスターしか特殊召喚できない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/06/08",
+  "species_id": 25,
+  "starchip": "0"
+}

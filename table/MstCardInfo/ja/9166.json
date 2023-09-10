@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 6,
+  "card_id": 9166,
+  "card_name": "ガスタ・サンボルト",
+  "card_name_label": "ガスタ・サンボルト",
+  "card_name_search": "がすたさんぼると",
+  "card_pen_effect": "",
+  "card_text": "このカードが戦闘によって破壊され墓地へ送られた場合、そのバトルフェイズ終了時に自分の墓地の「ガスタ」と名のついたモンスター１体をゲームから除外して発動できる。デッキから守備力１５００以下のサイキック族・風属性モンスター１体を特殊召喚する。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/08/03",
+  "species_id": 19,
+  "starchip": "4"
+}

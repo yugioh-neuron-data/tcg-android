@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15371,
+  "card_name": "Inspección del Espécimen",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Muestra 1 \"Fusión Fósil\" en tu mano; manda al Cementerio 1 monstruo en tu mano y, si lo haces, declara un Tipo y un Nivel, y después tu adversario mira su mano y Deck, y manda al Cementerio 1 monstruo del Tipo y Nivel declarados, desde uno de ellos (si es posible). Sólo puedes activar 1 \"Inspección del Espécimen\" por turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/07/23",
+  "species_id": 24,
+  "starchip": "0"
+}

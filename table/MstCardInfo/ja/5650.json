@@ -1,0 +1,23 @@
+{
+  "attack_power": "400",
+  "attribute_id": 2,
+  "card_id": 5650,
+  "card_name": "見習い魔術師",
+  "card_name_label": "みならいまじゅつし",
+  "card_name_search": "みならいまじゅつし",
+  "card_pen_effect": "",
+  "card_text": "①：このカードが召喚・反転召喚・特殊召喚に成功した場合、フィールドの魔力カウンターを置く事ができるカード１枚を対象として発動する。そのカードに魔力カウンターを１つ置く。②：このカードが戦闘で破壊された時に発動できる。デッキからレベル２以下の魔法使い族モンスター１体を裏側守備表示で特殊召喚する。",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/09/19",
+  "species_id": 18,
+  "starchip": "2"
+}

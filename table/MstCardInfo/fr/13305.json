@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 1,
+  "card_id": 13305,
+  "card_name": "Résistance Interrompue",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsque vous recevez des dommages de combat : vous pouvez Invoquer Spécialement cette carte depuis votre main, et si vous le faites, elle gagne une ATK égale aux dommages que vous avez reçus. Une fois par tour, durant le calcul des dommages, lorsqu'un autre monstre en Position de Défense que vous contrôlez est attaqué par un monstre de l'adversaire (Effet Rapide) : vous pouvez activer cet effet ; durant ce calcul des dommages, la DEF de votre monstre attaqué devient égale à la DEF de cette carte, et aussi, il ne peut pas être détruit par ce combat.",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/07/26",
+  "species_id": 27,
+  "starchip": "6"
+}

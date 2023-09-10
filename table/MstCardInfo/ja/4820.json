@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 4820,
+  "card_name": "ルーレット・スパイダー",
+  "card_name_label": "ルーレット・スパイダー",
+  "card_name_search": "るーれっとすぱいだー",
+  "card_pen_effect": "",
+  "card_text": "①：相手モンスターの攻撃宣言時に発動できる。サイコロを１回振り、出た目の効果を適用する。$N１・自分のLPを半分にする。$N２・その攻撃を自分への直接攻撃にする。$N３・自分フィールドのモンスター１体を選び、そのモンスターに攻撃対象を移し替えてダメージ計算を行う。$N４・攻撃モンスター以外の相手フィールドのモンスター１体を選び、そのモンスターに攻撃対象を移し替えてダメージ計算を行う。$N５・その攻撃を無効にし、そのモンスターの攻撃力分のダメージを相手に与える。$N６・その相手モンスターを破壊する。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/05/16",
+  "species_id": 24,
+  "starchip": "0"
+}

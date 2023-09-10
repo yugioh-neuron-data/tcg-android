@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 2,
+  "card_id": 18812,
+  "card_name": "Albtraum-Magier",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls diese Karte gegen ein Monster kämpft, können beide durch jenen Kampf nicht zerstört werden. Am Ende des Damage Steps, falls diese Karte gegen ein Monster eines Gegners gekämpft hat: Du kannst die Kontrolle über jenes Monster des Gegners übernehmen. Einmal pro Spielzug, am Beginn des Damage Steps, falls ein anderes Monster angreift: Du kannst 1 Karte auf dem Spielfeld zerstören.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/07/27",
+  "species_id": 34,
+  "starchip": "7"
+}

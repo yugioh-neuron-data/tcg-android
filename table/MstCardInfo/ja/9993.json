@@ -1,0 +1,23 @@
+{
+  "attack_power": "1650",
+  "attribute_id": 2,
+  "card_id": 9993,
+  "card_name": "ヴェルズ・サンダーバード",
+  "card_name_label": "ヴェルズ・サンダーバード",
+  "card_name_search": "う゛ぇるずさんだーばーど",
+  "card_pen_effect": "",
+  "card_text": "魔法・罠・効果モンスターの効果が発動した時、自分フィールド上のこのカードをゲームから除外できる。この効果は相手ターンでも発動できる。この効果で除外したこのカードは次のスタンバイフェイズ時にフィールド上に戻り、攻撃力は３００ポイントアップする。「ヴェルズ・サンダーバード」の効果は１ターンに１度しか発動できない。",
+  "defense_power": "1050",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/01/24",
+  "species_id": 19,
+  "starchip": "4"
+}

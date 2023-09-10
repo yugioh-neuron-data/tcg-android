@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 5,
+  "card_id": 5891,
+  "card_name": "Fée à Piquants",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Votre adversaire ne peut pas attaquer de monstres Insecte. Si cette carte a combattu un monstre, à la fin de la Damage Step : changez le monstre en Position de Défense.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/10/20",
+  "species_id": 13,
+  "starchip": "4"
+}

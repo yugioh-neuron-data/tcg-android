@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 5,
+  "card_id": 15365,
+  "card_name": "風化戦士",
+  "card_name_label": "ウェザリングソルジャー",
+  "card_name_search": "うぇざりんぐそるじゃー",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①の効果は１ターンに１度しか使用できない。①：このカードが効果で墓地へ送られた場合、または戦闘で破壊された場合に発動できる。「風化戦士」以外の「化石融合－フォッシル・フュージョン」のカード名が記されたカードまたは「化石融合－フォッシル・フュージョン」１枚をデッキから手札に加える。②：自分エンドフェイズに発動する。このカードの攻撃力は６００ダウンする。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/06/20",
+  "species_id": 6,
+  "starchip": "4"
+}

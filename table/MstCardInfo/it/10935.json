@@ -1,0 +1,23 @@
+{
+  "attack_power": "4000",
+  "attribute_id": 1,
+  "card_id": 10935,
+  "card_name": "Numero C69: Cimiero dell'Araldo dell'Orrore",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "4 mostri di Livello 5$NQuando un mostro dell'avversario dichiara un attacco: puoi distruggere tutte le carte controllate dal tuo avversario. Se questa carta ha \"Numero 69: Cimiero dell'Araldo\" come Materiale Xyz, essa guadagna questo effetto.$N●Una volta per turno: puoi staccare 1 Materiale Xyz da questa carta, poi scegliere come bersaglio 1 Mostro Xyz scoperto controllato dal tuo avversario; questa carta guadagna ATK pari all'ATK originale di quel mostro scoperto e, se guadagna ATK in questo modo, il nome di questa carta diventa quello di quel mostro ed essa guadagna l'effetto originale di quel mostro. Questi effetti durano fino alla End Phase.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/01/23",
+  "species_id": 21,
+  "starchip": "5"
+}

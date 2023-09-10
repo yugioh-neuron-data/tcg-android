@@ -1,0 +1,23 @@
+{
+  "attack_power": "-1",
+  "attribute_id": 5,
+  "card_id": 12961,
+  "card_name": "Marteaukong du Zoodiaque",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Min. 3 monstres de Niveau 4$NUne fois par tour, vous pouvez aussi Invoquer par Xyz \"Marteaukong du Zoodiaque\" en utilisant 1 monstre \"Zoodiaque\" que vous contrôlez de nom différent comme Matériel Xyz. (Si vous avez utilisé un Monstre Xyz, les Matériels Xyz qui lui sont attachés deviennent aussi des Matériels Xyz de cette carte.) Cette carte gagne une ATK/DEF égales à l'ATK/DEF de tous les monstres \"Zoodiaque\" qui lui sont attachés comme Matériels. Tant que cette carte a du Matériel Xyz, votre adversaire ne peut pas cibler de monstres \"Zoodiaque\" face recto sur le Terrain (celui-ci exclu) avec des effets de carte. Une fois par tour, durant la End Phase : détachez 1 Matériel Xyz de cette carte.",
+  "defense_power": "-1",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/05/04",
+  "species_id": 12,
+  "starchip": "4"
+}

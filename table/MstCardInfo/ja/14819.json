@@ -1,0 +1,23 @@
+{
+  "attack_power": "700",
+  "attribute_id": 3,
+  "card_id": 14819,
+  "card_name": "戦華の妙－魯敬",
+  "card_name_label": "せんかのみょう－ろけい",
+  "card_name_search": "せんかのみょうろけい",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドの永続魔法・永続罠カード１枚を対象として発動できる。そのカードを墓地へ送り、そのカードとはカード名が異なる「戦華」魔法・罠カード１枚を自分の墓地から選んで手札に加える。②：このカード以外の自分の「戦華」モンスターの効果が発動した場合、相手フィールドの魔法・罠カード１枚を対象として発動できる。そのカードを破壊する。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/10/12",
+  "species_id": 12,
+  "starchip": "4"
+}

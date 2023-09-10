@@ -1,0 +1,23 @@
+{
+  "attack_power": "3200",
+  "attribute_id": 1,
+  "card_id": 15244,
+  "card_name": "Dogmatika Nexus",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Diese Karte muss durch ihren eigenen Effekt als Spezialbeschwörung beschworen werden. Du kannst 4 Fusions-, Synchro-, Xyz- und/oder Linkmonster in den Friedhöfen wählen; beschwöre diese Karte als Spezialbeschwörung von deiner Hand und falls du dies tust, verbanne die Monster. Am Beginn des Damage Steps, falls diese Karte gegen ein als Spezialbeschwörung beschworenes Monster kämpft: Zerstöre alle Monster deines Gegners in Angriffsposition, dann füge deinem Gegner für jedes durch diesen Effekt zerstörte Fusions-, Synchro-, Xyz- und Linkmonster 800 Schaden zu.",
+  "defense_power": "3200",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/08/06",
+  "species_id": 18,
+  "starchip": "11"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 14382,
+  "card_name": "Causalità Cubica",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Distribuisci un numero di Segnalini Cubico su mostri scoperti controllati dal tuo avversario, fino al numero di mostri \"Cubico\" che controlli. (I mostri con un Segnalino Cubico non possono attaccare, inoltre annulla i loro effetti.) Puoi bandire questa carta dal tuo Cimitero, poi scegliere come bersaglio 1 mostro \"Cubico\" che controlli; in questo turno, ogni volta che esso distrugge in battaglia un mostro che ha un Segnalino Cubico, infliggi al tuo avversario danno pari all'ATK originale di quel mostro distrutto. Puoi utilizzare ogni effetto di \"Causalità Cubica\" una sola volta per turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/03/19",
+  "species_id": 25,
+  "starchip": "0"
+}

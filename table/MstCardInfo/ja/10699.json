@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 1,
+  "card_id": 10699,
+  "card_name": "おもちゃ箱",
+  "card_name_label": "おもちゃばこ",
+  "card_name_search": "おもちゃばこ",
+  "card_pen_effect": "",
+  "card_text": "このカード名の効果は１ターンに１度しか使用できない。①：このカードが破壊され墓地へ送られた場合に発動できる。デッキから攻撃力か守備力が０の通常モンスター２体を守備表示で特殊召喚する（同名カードは１枚まで）。この効果で特殊召喚したモンスターはS素材にできず、次の自分エンドフェイズに破壊される。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/08/10",
+  "species_id": 7,
+  "starchip": "1"
+}

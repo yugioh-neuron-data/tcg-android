@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 13475,
+  "card_name": "銃砲撃",
+  "card_name_label": "ガン・キャノン・ショット",
+  "card_name_search": "がんきゃのんしょっと",
+  "card_pen_effect": "",
+  "card_text": "①：１ターンに１度、コイントスを行う効果が発動した場合、その効果で表が出た数によって以下の効果を適用する。$N●１回以上：相手に５００ダメージを与える。$N●２回以上：相手フィールドのカード１枚を選んで破壊する。$N●３回以上：相手の手札を確認し、その中からカード１枚を選んで捨てる。$N②：コイントスを２回以上行う効果が発動した時、墓地のこのカードを除外して発動できる。そのコイントスの結果を全て表が出たものとして扱う。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/11/11",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13470,
+  "card_name": "超進化の繭",
+  "card_name_label": "ちょうしんかのまゆ",
+  "card_name_search": "ちょうしんかのまゆ",
+  "card_pen_effect": "",
+  "card_text": "このカード名の②の効果は１ターンに１度しか使用できない。①：装備カードを装備した自分・相手フィールドの昆虫族モンスター１体をリリースし、デッキから昆虫族モンスター１体を召喚条件を無視して特殊召喚する。②：自分メインフェイズに墓地のこのカードを除外し、自分の墓地の昆虫族モンスター１体を対象として発動できる。そのモンスターをデッキに戻してシャッフルする。その後、自分はデッキから１枚ドローする。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/11/11",
+  "species_id": 24,
+  "starchip": "0"
+}

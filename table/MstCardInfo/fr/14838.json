@@ -1,0 +1,23 @@
+{
+  "attack_power": "700",
+  "attribute_id": 5,
+  "card_id": 14838,
+  "card_name": "Tombeur de Daruma",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "(Effet Rapide) : vous pouvez détacher 1 Matériel d'un Monstre Xyz que vous contrôlez, puis ciblez 1 monstre face recto contrôlé par votre adversaire ; jusqu'à la fin de ce tour, changez son ATK à 0. Si un Monstre Xyz que vous contrôlez va activer un effet en détachant un ou plusieurs Matériels, sauf le tour où cette carte a été envoyée au Cimetière, vous pouvez bannir cette carte depuis votre Cimetière au lieu d'1 de ces Matériels. Vous ne pouvez utiliser chaque effet de \"Tombeur de Daruma\" qu'une fois par tour.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/01/30",
+  "species_id": 15,
+  "starchip": "4"
+}

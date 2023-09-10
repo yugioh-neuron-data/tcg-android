@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 3,
+  "card_id": 16526,
+  "card_name": "Buque Insignia Definitivo Osatron",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "(Esta carta se trata siempre como una carta \"Osártico/a\" y \"Drytron\").$NDebe ser Invocado de Modo Especial con \"Drytron Osártico\". Una vez por turno, si otro Monstruo de Efecto es Invocado de Modo Especial a tu Campo (excepto durante el Damage Step): puedes añadir a tu mano 1 monstruo \"Osártico/a\" o \"Drytron\" en tu Deck. Una vez por turno: puedes seleccionar 1 de tus monstruos \"Osártico/a\" o \"Drytron\" desterrados; añádelo a tu mano.",
+  "defense_power": "700",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/11/04",
+  "species_id": 7,
+  "starchip": "7"
+}

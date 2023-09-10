@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 13833,
+  "card_name": "Shura, l'Étoile de Combat",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"Idaten, l'Étoile du Conquérant\" + 1 monstre Guerrier de min. Niveau 5$NUne fois par tour, durant la Battle Phase (Effet Rapide) : vous pouvez faire devenir 0 l'ATK de tous les monstres face recto actuellement contrôlés par votre adversaire. Une fois par combat, si un monstre combat un autre monstre, durant le calcul des dommages (Effet Rapide) : durant ce calcul des dommages uniquement, vous pouvez faire gagner à chaque monstre combattant une ATK égale à son propre Niveau x 200. Si cette carte Invoquée par Fusion que vous contrôlez est détruite par une carte de l'adversaire et envoyée à votre Cimetière : vous pouvez Invoquer Spécialement 1 \"Idaten, l'Étoile du Conquérant\" depuis votre Extra Deck. (Ceci est traité comme une Invocation Fusion.)",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/06/28",
+  "species_id": 15,
+  "starchip": "12"
+}

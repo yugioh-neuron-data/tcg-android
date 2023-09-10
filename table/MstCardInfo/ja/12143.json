@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 2,
+  "card_id": 12143,
+  "card_name": "ダーク・ドリアード",
+  "card_name_label": "ダーク・ドリアード",
+  "card_name_search": "だーくどりあーど",
+  "card_pen_effect": "①：自分フィールドの地・水・炎・風属性モンスターの攻撃力・守備力は、自分フィールドのモンスターの属性の種類×２００アップする。",
+  "card_text": "①：このカードが召喚・特殊召喚に成功した場合に発動できる。デッキから地・水・炎・風属性モンスターを１体ずつ選び、好きな順番でデッキの上に戻す。",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2015/10/17",
+  "species_id": 18,
+  "starchip": "4"
+}

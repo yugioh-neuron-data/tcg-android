@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 3,
+  "card_id": 15114,
+  "card_name": "Erica el Hada Rikka",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando es declarado un ataque que involucre otro monstruo Planta que controlas: puedes Sacrificar esta carta en tu mano o Campo boca arriba; hasta el final de este turno, ese monstruo que controlas gana 1000 ATK/DEF. Si uno o más monstruos Planta que controlas son Sacrificados, mientras esta carta está en tu Cementerio (excepto durante el Damage Step): puedes Invocar esta carta de Modo Especial en Posición de Defensa, pero destiérrala cuando deje el Campo. Sólo puedes usar cada efecto de \"Erica el Hada Rikka\" una vez por turno.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/02",
+  "species_id": 13,
+  "starchip": "6"
+}

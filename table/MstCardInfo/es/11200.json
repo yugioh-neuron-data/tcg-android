@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 2,
+  "card_id": 11200,
+  "card_name": "Mujer Vampira",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Una vez por turno, cuando esta carta o un monstruo \"Vampiro/a\" es Invocado de Modo Normal a tu Campo: puedes seleccionar 1 monstruo boca arriba que controle tu adversario y cuyo ATK sea mayor que el de esta carta; equípalo a esta carta. Esta carta gana ATK igual al ATK original combinado de los monstruos equipados a ella por este efecto. Si esta carta es mandada al Cementerio, mientras está equipada con una o más cartas por este efecto: Invoca esta carta de Modo Especial.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/05/15",
+  "species_id": 2,
+  "starchip": "7"
+}

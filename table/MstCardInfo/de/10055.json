@@ -1,0 +1,23 @@
+{
+  "attack_power": "2300",
+  "attribute_id": 1,
+  "card_id": 10055,
+  "card_name": "Lichtstrahl-Hexer",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Kann nicht als Normalbeschwörung beschworen oder gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand) beschworen werden, solange 3 oder mehr deiner LICHT Monster verbannt sind, und kann nicht auf andere Art als Spezialbeschwörung beschworen werden. Einmal pro Spielzug: Du kannst 1 deiner verbannten LICHT Monster und 1 offenes Monster auf dem Spielfeld wählen; mische das erste gewählte Ziel ins Deck und falls du dies tust, verbanne das zweite gewählte Ziel. Diese Karte kann nicht in dem Spielzug angreifen, in dem du diesen Effekt aktivierst.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/05/10",
+  "species_id": 18,
+  "starchip": "6"
+}

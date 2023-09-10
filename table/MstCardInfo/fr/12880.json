@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 12880,
+  "card_name": "MISSION ESPIRALE - Recapture",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Détruisez cette carte durant votre 3e End Phase après activation. Une fois par tour, si un monstre \"ESPIRALE\" est Invoqué Spécialement sur votre Terrain (sauf durant la Damage Step) : vous pouvez cibler 1 monstre contrôlé par votre adversaire ; prenez son contrôle jusqu'à la End Phase, mais il ne peut pas attaquer directement ce tour. Si un ou plusieurs monstres \"ESPIRALE\" que vous contrôlez vont être détruits au combat ou par un effet de carte, vous pouvez bannir cette carte depuis votre Cimetière au lieu de détruire 1 de ces monstres \"ESPIRALE\".",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/02/09",
+  "species_id": 25,
+  "starchip": "0"
+}

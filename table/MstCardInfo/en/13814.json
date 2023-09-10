@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13814,
+  "card_name": "Slash Draw",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Discard 1 card; send cards from the top of your Deck to the GY, equal to the number of cards your opponent controls, then draw 1 card and show it. Then, if it was \"Slash Draw\", send it to the GY, and if you do, destroy as many cards on the field as possible, then inflict 2000 damage to your opponent for each card destroyed and sent to the GY by this effect. If the card you drew was not \"Slash Draw\", shuffle cards from your GY into your Deck, equal to the number of cards sent from your Deck to the GY by this effect. You can only activate 1 \"Slash Draw\" per turn.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/06/29",
+  "species_id": 24,
+  "starchip": "0"
+}

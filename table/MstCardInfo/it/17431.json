@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 5,
+  "card_id": 17431,
+  "card_name": "Krawler Soma",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Puoi scegliere come bersaglio 1 mostro scoperto che controlli; Evoca Specialmente questa carta dalla tua mano e, se lo fai, metti il mostro scelto come bersaglio coperto in Posizione di Difesa, inoltre esso non può cambiare la sua posizione per il resto di questo turno. Durante la tua Main Phase: puoi ridurre il Livello di questa carta di 2 o 4 e, se lo fai, Evoca Specialmente dalla tua mano, Deck o Cimitero uno o più mostri \"Krawler\" con nomi diversi con Livello totale pari all'ammontare ridotto, scoperti e/o coperti in Posizione di Difesa. Puoi utilizzare ogni effetto di \"Krawler Soma\" una sola volta per turno.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/08/04",
+  "species_id": 10,
+  "starchip": "6"
+}

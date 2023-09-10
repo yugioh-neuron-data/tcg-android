@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10795,
+  "card_name": "Reino Vampiro",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Los monstruos Zombi ganan 500 ATK, sólo durante el cálculo de daño. Una vez por turno, cuando una o más cartas en el Deck de tu adversario son mandadas al Cementerio: selecciona 1 carta en el Campo; manda al Cementerio 1 monstruo \"Vampiro/a\" de OSCURIDAD en tu mano o Deck y, si lo haces, destruye ese objetivo.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/09/26",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 1,
+  "card_id": 6428,
+  "card_name": "전지맨－C",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "자신 필드 위의 \"전지맨－C\"가 전부 공격 표시였을 경우, \"전지맨－C\" 1장당 자신 필드 위의 모든 기계족 몬스터의 공격력은 500 포인트 올린다. 자신 필드 위의 \"전지맨－C\"가 전부 수비 표시였을 경우, \"전지맨－C\" 1장당 자신 필드 위의 모든 기계족 몬스터의 수비력은 500 포인트 올린다.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/02/05",
+  "species_id": 19,
+  "starchip": "2"
+}

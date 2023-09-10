@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 6449,
+  "card_name": "Prepararsi al Contrattacco",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Ogni volta che il tuo avversario dichiara un attacco su un mostro scoperto in Posizione di Difesa, lancia una moneta e scegli testa o croce. Se indovini, cambia la posizione del mostro scoperto bersaglio da Posizione di Difesa a Posizione d'Attacco. Se sbagli, il controllore di questa carta riceve danno pari alla differenza tra l'ATK del mostro attaccante e il DEF del mostro attaccato.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/08/06",
+  "species_id": 25,
+  "starchip": "0"
+}

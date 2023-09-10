@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 2,
+  "card_id": 6502,
+  "card_name": "暗黒界の狩人 ブラウ",
+  "card_name_label": "あんこくかいのかりうど ブラウ",
+  "card_name_search": "あんこくかいのかりうどぶらう",
+  "card_pen_effect": "",
+  "card_text": "①：このカードが効果で手札から墓地へ捨てられた場合に発動する。自分はデッキから１枚ドローする。相手の効果で捨てられた場合、この効果でドローする枚数は２枚になる。",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/08/11",
+  "species_id": 3,
+  "starchip": "3"
+}

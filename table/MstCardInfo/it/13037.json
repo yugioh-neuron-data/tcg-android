@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 5,
+  "card_id": 13037,
+  "card_name": "Artistamico Carta Gardna",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Una volta per turno: puoi scegliere come bersaglio 1 mostro scoperto in Posizione di Difesa che controlli; il suo DEF diventa pari alla somma dei DEF originali di tutti i mostri scoperti in Posizione di Difesa che controlli attualmente (anche se questa carta lascia il Terreno).",
+  "card_text": "Guadagna DEF pari alla somma dei DEF originali di tutti gli altri mostri \"Artistamico\" che controlli.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "8",
+  "pen_scale_r": "8",
+  "sales_at": "2020/08/06",
+  "species_id": 6,
+  "starchip": "3"
+}

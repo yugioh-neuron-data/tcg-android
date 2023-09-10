@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 1,
+  "card_id": 10003,
+  "card_name": "セイクリッド・ビーハイブ",
+  "card_name_label": "セイクリッド・ビーハイブ",
+  "card_name_search": "せいくりっどびーはいぶ",
+  "card_pen_effect": "",
+  "card_text": "レベル４「セイクリッド」モンスター×２$N①：１ターンに１度、自分の「セイクリッド」モンスターが戦闘を行うダメージステップ開始時からダメージ計算前までに、このカードのX素材を１つ取り除いて発動できる。そのモンスターの攻撃力はターン終了時まで１０００アップする。この効果は相手ターンでも発動できる。",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/01/24",
+  "species_id": 7,
+  "starchip": "4"
+}

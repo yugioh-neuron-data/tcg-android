@@ -1,0 +1,947 @@
+[
+  {
+    "card_count": 1,
+    "card_id": 8732,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT100",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 47
+  },
+  {
+    "card_count": 1,
+    "card_id": 15566,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT089",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 15567,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT090",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15585,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT099",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 15692,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT001",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 15692,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT001",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 47
+  },
+  {
+    "card_count": 1,
+    "card_id": 15693,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT002",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 15694,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT003",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 15695,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT004",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 15696,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT005",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 15697,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT006",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15698,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT007",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15699,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT008",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15700,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT009",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15701,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT010",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 15702,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT011",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 15703,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT012",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15704,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT013",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 15705,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT014",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 15706,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT015",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 15707,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT016",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15708,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT017",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 15709,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT018",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15710,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT019",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15711,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT020",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15712,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT021",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 15713,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT022",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 15714,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT023",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15715,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT024",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 15716,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT025",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 15717,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT026",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15718,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT027",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15719,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT028",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 15719,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT028",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 47
+  },
+  {
+    "card_count": 1,
+    "card_id": 15720,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT029",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 15720,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT029",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 47
+  },
+  {
+    "card_count": 1,
+    "card_id": 15721,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT030",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15722,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT031",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15723,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT032",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15724,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT033",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15725,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT034",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15726,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT035",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 15727,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT036",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15728,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT037",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15729,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT038",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15730,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT039",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 15731,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT040",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 15732,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT041",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 15733,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT042",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 15734,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT043",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 15735,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT044",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 15736,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT045",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 15737,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT046",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 15738,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT047",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 15739,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT048",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 15740,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT049",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15741,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT050",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 15742,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT051",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 15743,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT052",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15744,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT053",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15745,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT054",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 15746,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT055",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 15747,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT056",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15748,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT057",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 15749,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT058",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15750,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT059",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 15751,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT060",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15752,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT061",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15753,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT062",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 15754,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT063",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15755,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT064",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15756,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT065",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 15756,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT065",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 47
+  },
+  {
+    "card_count": 1,
+    "card_id": 15757,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT066",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15758,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT067",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 15759,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT068",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15760,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT069",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15761,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT070",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15762,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT071",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15763,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT072",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15764,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT073",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15765,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT074",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15766,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT075",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15767,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT076",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15768,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT077",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15769,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT078",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 15770,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT079",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 15771,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT080",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15945,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT093",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 15946,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT094",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 15947,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT095",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15948,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT096",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15949,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT097",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 15950,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT000",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 15951,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT098",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15952,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT082",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15953,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT086",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15954,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT083",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 15955,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT087",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 15956,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT081",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 15957,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT084",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 15958,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT091",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15959,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT085",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15960,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT088",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15961,
+    "card_image_id": 1,
+    "card_number": "BLVO-PT092",
+    "language": "pt",
+    "pack_id": "2000001101000",
+    "rarity_id": 5
+  }
+]

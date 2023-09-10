@@ -1,0 +1,23 @@
+{
+  "attack_power": "2100",
+  "attribute_id": 2,
+  "card_id": 10943,
+  "card_name": "ダウナード・マジシャン",
+  "card_name_label": "ダウナード・マジシャン",
+  "card_name_search": "だうなーどまじしゃん",
+  "card_pen_effect": "",
+  "card_text": "魔法使い族レベル４モンスター×２$Nこのカードは自分メインフェイズ２に、自分フィールドのランク３以下のXモンスターの上に重ねてX召喚する事もできる。①：このカードの攻撃力は、このカードのX素材の数×２００アップする。②：このカードが守備表示モンスターを攻撃した場合、その守備力を攻撃力が超えた分だけ戦闘ダメージを与える。③：このカードが戦闘を行ったダメージ計算後に発動する。このカードのX素材を１つ取り除く。",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/11/16",
+  "species_id": 18,
+  "starchip": "4"
+}

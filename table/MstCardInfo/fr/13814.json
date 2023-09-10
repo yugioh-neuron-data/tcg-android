@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13814,
+  "card_name": "Coup du Destin",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Défaussez 1 carte ; envoyez un nombre de cartes du dessus de votre Deck au Cimetière, égal au nombre de cartes contrôlées par votre adversaire, puis piochez 1 carte et montrez-la. Puis, si c'était \"Coup du Destin\", envoyez-le au Cimetière, et si vous le faites, détruisez autant de cartes sur le Terrain que possible, puis infligez 2000 points de dommages à votre adversaire pour chaque carte détruite et envoyée au Cimetière par cet effet. Si la carte que vous avez piochée n'était pas \"Coup du Destin\", mélangez un nombre de cartes depuis votre Cimetière dans votre Deck, égal au nombre de cartes envoyées depuis votre Deck au Cimetière par cet effet. Vous ne pouvez activer qu'1 \"Coup du Destin\" par tour.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/06/28",
+  "species_id": 24,
+  "starchip": "0"
+}

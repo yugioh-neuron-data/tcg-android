@@ -1,0 +1,23 @@
+{
+  "attack_power": "200",
+  "attribute_id": 1,
+  "card_id": 5040,
+  "card_name": "Elektromagnetischer Wurm",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "FLIPP: Wähle 1 Monster vom Typ Maschine, das dein Gegner kontrolliert; übernimm bis zu deiner nächsten End Phase die Kontrolle über das gewählte Ziel.$NFalls diese Karte durch Kampf zerstört wird: Das Monster, das sie zerstört hat, verliert 500 ATK und DEF.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 24,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/11/08",
+  "species_id": 10,
+  "starchip": "3"
+}

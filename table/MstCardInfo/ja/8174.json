@@ -1,0 +1,23 @@
+{
+  "attack_power": "2100",
+  "attribute_id": 5,
+  "card_id": 8174,
+  "card_name": "コアキメイル・パワーハンド",
+  "card_name_label": "コアキメイル・パワーハンド",
+  "card_name_search": "こあきめいるぱわーはんど",
+  "card_pen_effect": "",
+  "card_text": "このカードのコントローラーは自分のエンドフェイズ毎に、手札から「コアキメイルの鋼核」１枚を墓地へ送るか、手札の通常罠カード１枚を相手に見せる。または、どちらも行わずにこのカードを破壊する。このカードが光属性または闇属性のモンスターと戦闘を行う場合、バトルフェイズの間だけそのモンスターの効果は無効化される。",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/02/14",
+  "species_id": 7,
+  "starchip": "4"
+}

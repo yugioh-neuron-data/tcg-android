@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 4,
+  "card_id": 12038,
+  "card_name": "Dogoran, der Kaiju der verrückten Flamme",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Du kannst diese Karte als Spezialbeschwörung (von deiner Hand) auf die Spielfeldseite deines Gegners in die Angriffsposition beschwören, indem du 1 Monster als Tribut anbietest, das er kontrolliert. Falls dein Gegner ein „Kaiju“-Monster kontrolliert, kannst du diese Karte als Spezialbeschwörung (von deiner Hand) in die Angriffsposition beschwören. Du kannst nur 1 „Kaiju“-Monster kontrollieren. Einmal pro Spielzug: Du kannst 3 Kaiju-Zählmarken von irgendwo auf dem Spielfeld entfernen; zerstöre alle Monster, die dein Gegner kontrolliert. Diese Karte kann nicht in dem Spielzug angreifen, in dem dieser Effekt aktiviert wird.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/08/06",
+  "species_id": 9,
+  "starchip": "8"
+}

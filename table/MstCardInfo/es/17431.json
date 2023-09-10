@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 5,
+  "card_id": 17431,
+  "card_name": "Krawler Soma",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Puedes seleccionar 1 monstruo boca arriba que controles; Invoca esta carta de Modo Especial desde tu mano y, si lo haces, cambia el monstruo seleccionado a Posición de Defensa boca abajo, y además no puede cambiar su posición de batalla por el resto de este turno. Durante tu Main Phase: puedes reducir el Nivel de esta carta en 2 o 4 y, si lo haces, Invoca de Modo Especial, desde tu mano, Deck o Cementerio, uno o más monstruos \"Krawler\" con nombres diferentes cuyos Niveles totales sean iguales a la cantidad reducida, en Posición de Defensa boca arriba y/o boca abajo. Sólo puedes usar cada efecto de \"Krawler Soma\" una vez por turno.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/08/04",
+  "species_id": 10,
+  "starchip": "6"
+}

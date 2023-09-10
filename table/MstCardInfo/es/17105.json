@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 17105,
+  "card_name": "Eveil de Números",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si tu adversario controla uno o más monstruos Invocados de Modo Especial desde el Deck Extra y tú no: elige 4 Monstruos Xyz \"Número\" en tu Deck Extra con Rangos diferentes, más un 5º Monstruo Xyz \"Número\" cuyo valor \"Número\" en su nombre sea igual a los valores \"Número\" combinados de los otros 4 monstruos, Invoca de Modo Especial ese 5º monstruo \"Número\" (esto se trata como una Invocación Xyz), y acóplale los 4 monstruos elegidos como material, pero no puedes Invocar monstruos de Modo Especial, excepto Monstruos Xyz \"Número\", mientras controles ese monstruo boca arriba.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/05/04",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 6,
+  "card_id": 13588,
+  "card_name": "Stürmisches Häschenpferd",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls es eine Spalte ohne Karten gibt, kannst du diese Karte als Spezialbeschwörung (von deiner Hand) in die Angriffsposition in deine Zone in die Spalte beschwören. Du kannst „Stürmisches Häschenpferd“ nur einmal pro Spielzug auf diese Art als Spezialbeschwörung beschwören. Falls eine andere Karte in die Spalte dieser Karte gelegt wird: Zerstöre diese Karte. Einmal pro Spielzug: Du kannst die Grund-ATK dieser Karte für den Rest dieses Spielzugs halbieren und falls du dies tust, kann sie in diesem Spielzug direkt angreifen.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/05/03",
+  "species_id": 11,
+  "starchip": "5"
+}

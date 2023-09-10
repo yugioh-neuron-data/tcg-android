@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 2,
+  "card_id": 14056,
+  "card_name": "Untergangskönig Balerdroch",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Während der Standby Phase, falls eine offene Karte in einer Spielfeldzone liegt und sich diese Karte in deinem Friedhof befindet: Du kannst diese Karte als Spezialbeschwörung in die Verteidigungsposition beschwören. Du kannst diesen Effekt von „Untergangskönig Balerdroch“ nur einmal pro Spielzug verwenden. Einmal pro Kette, wenn der Effekt eines Zombie-Monsters, außer „Untergangskönig Balerdroch“, aktiviert wird (außer während des Damage Steps) (Schnelleffekt): Du kannst 1 dieser Effekte ausführen (aber du kannst denselben Effekt von „Untergangskönig Balerdroch“ in diesem Spielzug nicht noch mal ausführen).$N●Annulliere den Effekt.$N●Verbanne 1 Monster vom Spielfeld oder Friedhof.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/11/01",
+  "species_id": 2,
+  "starchip": "8"
+}

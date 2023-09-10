@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 16565,
+  "card_name": "Fall des riesigen Sterns",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Kein Spieler kann die Effekte von Monstern ohne Stufe als Reaktion auf die Aktivierung dieser Karte aktivieren. Wähle 1 offenes Monster ohne Stufe auf dem Spielfeld; für den Rest dieses Spielzugs wird der Kampfschaden aus Kämpfen, an denen das gewählte Ziel beteiligt ist, halbiert, seine Effekte können nicht aktiviert werden, es kann nicht durch Kampf zerstört werden, zusätzlich werden seine ATK zu 0.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/11/04",
+  "species_id": 25,
+  "starchip": "0"
+}

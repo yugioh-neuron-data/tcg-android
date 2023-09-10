@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 8056,
+  "card_name": "魔法族の結界",
+  "card_name_label": "まほうぞくのけっかい",
+  "card_name_search": "まほうぞくのけっかい",
+  "card_pen_effect": "",
+  "card_text": "①：フィールドの表側表示の魔法使い族モンスターが破壊される度にこのカードに魔力カウンターを１つ置く（最大４つまで）。②：魔力カウンターが置かれているこのカードと自分フィールドの表側表示の魔法使い族モンスター１体を墓地へ送って発動できる。このカードに置かれていた魔力カウンターの数だけ、自分はデッキからドローする。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/11/15",
+  "species_id": 24,
+  "starchip": "0"
+}

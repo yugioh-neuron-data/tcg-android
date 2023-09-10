@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 1,
+  "card_id": 10623,
+  "card_name": "Bujingi Grue",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durant le calcul des dommages (du tour de chaque joueur), si un monstre \"Bujin\" de Type Bête-Guerrier que vous contrôlez combat un monstre de votre adversaire : vous pouvez envoyer cette carte depuis votre main au Cimetière ; durant ce calcul des dommages uniquement, l'ATK de votre monstre devient le double de son ATK d'origine.",
+  "defense_power": "300",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/08/08",
+  "species_id": 16,
+  "starchip": "4"
+}

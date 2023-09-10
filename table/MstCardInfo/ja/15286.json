@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15286,
+  "card_name": "天底の使徒",
+  "card_name_label": "てんていのしと",
+  "card_name_search": "てんていのしと",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：EXデッキからモンスター１体を墓地へ送る。その後、墓地へ送ったモンスターの攻撃力以下の攻撃力を持つ、「ドラグマ」モンスターまたは「アルバスの落胤」１体を自分のデッキ・墓地から選んで手札に加える。このカードの発動後、ターン終了時まで自分はEXデッキからモンスターを特殊召喚できない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/18",
+  "species_id": 24,
+  "starchip": "0"
+}

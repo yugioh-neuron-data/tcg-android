@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 3,
+  "card_id": 6768,
+  "card_name": "Dauphin Aquatique Néo-Spacien",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Une fois par tour : vous pouvez défausser 1 carte ; regardez la main de votre adversaire et choisissez 1 monstre. Si vous contrôlez un monstre avec une ATK supérieure ou égale à l'ATK de la carte choisie, détruisez la carte choisie, et si vous le faites, infligez 500 points de dommages à votre adversaire. Sinon, recevez 500 points de dommages.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/08/05",
+  "species_id": 15,
+  "starchip": "3"
+}

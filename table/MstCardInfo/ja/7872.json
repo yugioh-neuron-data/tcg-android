@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 5,
+  "card_id": 7872,
+  "card_name": "アイヴィ・ウォール",
+  "card_name_label": "アイヴィ・ウォール",
+  "card_name_search": "あいう゛ぃうぉーる",
+  "card_pen_effect": "",
+  "card_text": "リバース：相手フィールド上に「アイヴィトークン」（植物族・地・星１・攻／守０）１体を守備表示で特殊召喚する。「アイヴィトークン」が破壊された時、このトークンのコントローラーは３００ポイントダメージを受ける。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 24,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/07/19",
+  "species_id": 13,
+  "starchip": "2"
+}

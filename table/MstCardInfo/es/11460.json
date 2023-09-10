@@ -1,0 +1,23 @@
+{
+  "attack_power": "2600",
+  "attribute_id": 2,
+  "card_id": 11460,
+  "card_name": "D/D/D Rey Rebelde Leónidas",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Cuando recibes daño de efecto (excepto durante el Damage Step): puedes destruir esta carta y, si lo haces, cualquier efecto que fuera a infligir daño a un jugador este turno aumenta sus LP en la misma cantidad en su lugar.",
+  "card_text": "Cuando recibes daño de efecto (excepto durante el Damage Step): puedes Invocar esta carta de Modo Especial desde tu mano y, si lo haces, gana LP iguales a la cantidad de daño que recibiste. No recibes daño de efecto.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2015/11/05",
+  "species_id": 3,
+  "starchip": "7"
+}

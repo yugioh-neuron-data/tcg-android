@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 12289,
+  "card_name": "Aile Noire - Décomposition le Vent Néfaste",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Une fois par tour, durant la End Phase, si cette carte est dans le Cimetière parce qu'elle y a été envoyée ce tour : recevez 1000 points de dommages. Lorsque cette carte est Invoquée Normalement ou Spécialement : vous pouvez cibler 1 monstre \"Aile Noire\" que vous contrôlez, puis activez 1 de ces effets ;$N●Augmentez son Niveau de 1.$N●Réduisez son Niveau de 1.$NVous ne pouvez utiliser cet effet de \"Aile Noire - Décomposition le Vent Néfaste\" qu'une fois par tour.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/05/05",
+  "species_id": 16,
+  "starchip": "4"
+}

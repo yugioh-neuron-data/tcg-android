@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 5,
+  "card_id": 9039,
+  "card_name": "Akz, el Puma",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Esta carta no puede ser Invocada de Modo Normal, ni Colocada. Esta carta sólo puede ser Invocada de Modo Especial retirando del juego 2 monstruos de Tipo Guerrero-Bestia en tu Cementerio. Una vez por turno, puedes descartar 1 monstruo de Tipo Guerrero-Bestia para activar 1 de los siguientes efectos:$N●Duplica el ATK de esta carta hasta la End Phase.$N●Esta carta puede atacar directamente a tu adversario este turno.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/05/06",
+  "species_id": 12,
+  "starchip": "6"
+}

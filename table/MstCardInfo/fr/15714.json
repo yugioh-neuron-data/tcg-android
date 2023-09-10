@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 1,
+  "card_id": 15714,
+  "card_name": "Registaraigneau Insecte Numérique",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Non utilisable comme Matériel Xyz pour une Invocation Xyz, sauf pour l'Invocation Xyz d'un monstre Insecte. Lorsque vous Invoquez Normalement un monstre Insecte de Niveau 3 : vous pouvez Invoquer Spécialement cette carte depuis votre main, puis vous pouvez faire devenir cette carte ainsi que le monstre Niveau 5 ou 7. Si cette carte est Invoquée Spécialement depuis la main : vous pouvez changer la position de combat d'1 monstre Insecte que vous contrôlez. Un Monstre Xyz qui a été Invoqué en utilisant cette carte sur le Terrain comme Matériel gagne cet effet.$N●Cette carte gagne 1000 ATK/DEF.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/02/04",
+  "species_id": 10,
+  "starchip": "3"
+}

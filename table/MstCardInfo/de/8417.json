@@ -1,0 +1,23 @@
+{
+  "attack_power": "3300",
+  "attribute_id": 2,
+  "card_id": 8417,
+  "card_name": "Verbündeter der Gerechtigkeit Entscheidungspanzer",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Empfänger + 2+ Nicht-Empfänger-Monster$NEinmal pro Spielzug, falls dein Gegner ein LICHT Monster kontrolliert: Du kannst 1 dieser Effekte aktivieren.$N●Wähle 1 gesetzte Karte, die dein Gegner kontrolliert; zerstöre das gewählte Ziel.$N●Lege 1 Karte von deiner Hand auf den Friedhof; zerstöre alle Zauber und Fallen, die dein Gegner kontrolliert.$N●Lege deine gesamte Hand auf den Friedhof; sieh dir die Hand deines Gegners an und lege alle LICHT Monster in seiner Hand auf den Friedhof, dann füge deinem Gegner Schaden in Höhe der Summe der ATK der auf den Friedhof gelegten Monster zu.",
+  "defense_power": "3300",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/12/02",
+  "species_id": 7,
+  "starchip": "10"
+}

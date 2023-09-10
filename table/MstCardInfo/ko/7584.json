@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 1,
+  "card_id": 7584,
+  "card_name": "아르카나 포스 Ⅳ－디 엠페러",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드가 일반 소환/반전 소환/특수 소환에 성공했을 때, 코인 토스를 1회 실행하고 이하의 효과를 얻는다.$N●앞 : 자신 필드 위에 앞면 표시로 존재하는 \"아르카나 포스\"라는 이름이 붙은 몬스터의 공격력은 500 포인트 올린다.$N●뒤 : 자신 필드 위에 앞면 표시로 존재하는 \"아르카나 포스\"라는 이름이 붙은 몬스터의 공격력은 500 포인트 내린다.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/06/02",
+  "species_id": 17,
+  "starchip": "4"
+}

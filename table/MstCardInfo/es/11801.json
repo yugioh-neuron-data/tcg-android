@@ -1,0 +1,23 @@
+{
+  "attack_power": "1100",
+  "attribute_id": 5,
+  "card_id": 11801,
+  "card_name": "Artilusionista Truco de Sombrero",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si 2 o más monstruos están en el Campo, puedes Invocar esta carta de Modo Especial (desde tu mano). Cuando es activada una carta o efecto que fuera a infligirte daño (Efecto Rápido): puedes poner 1 Contador de Artilusionista en esta carta (máx. 3), y después hacer que ese daño de efecto sea 0 para ti. Cuando pones el 3er. Contador de Artilusionista en esta carta, su ATK/DEF se convierten en 3300.",
+  "defense_power": "1100",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/08/06",
+  "species_id": 18,
+  "starchip": "4"
+}

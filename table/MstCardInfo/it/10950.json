@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10950,
+  "card_name": "Museo Fantasmatrucco",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "I mostri che controlli, eccetto i mostri \"Fantasmatrucco\", non possono attaccare. I mostri non possono attaccare i mostri coperti in Posizione di Difesa, ma possono attaccare direttamente se tutti i mostri controllati dal proprio avversario sono coperti in Posizione di Difesa. Alla fine del Damage Step, metti coperto in Posizione di Difesa qualsiasi mostro che ha inflitto danno da combattimento ad un giocatore durante questa battaglia.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/01/23",
+  "species_id": 24,
+  "starchip": "0"
+}

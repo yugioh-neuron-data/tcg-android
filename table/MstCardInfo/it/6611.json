@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 1,
+  "card_id": 6611,
+  "card_name": "Excelion - Drago Divino",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Quando questa carta viene Evocata tramite Evocazione Normale, guadagna 1 dei seguenti effetti per ogni \"Excelion - Drago Divino\" nel tuo Cimitero quando l'effetto risolve (a tua scelta). Questi effetti non sono cumulativi.$N●Aumenta l'ATK di questa carta di 1000 punti.$N●Se questa carta distrugge un mostro del tuo avversario in seguito ad una battaglia, può attaccare un'altra volta di seguito.$N●Quando questa carta distrugge un mostro in seguito ad una battaglia e lo manda al Cimitero, infliggi un danno ai Life Points del tuo avversario pari all'ATK del mostro distrutto.",
+  "defense_power": "900",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/02/18",
+  "species_id": 1,
+  "starchip": "5"
+}

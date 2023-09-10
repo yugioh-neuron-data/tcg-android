@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 1,
+  "card_id": 10321,
+  "card_name": "伝説の白き龍",
+  "card_name_label": "レジェンダリー・ドラゴン・オブ・ホワイト",
+  "card_name_search": "れじぇんだりーどらごんおぶほわいと",
+  "card_pen_effect": "",
+  "card_text": "レベル８モンスター×３$NこのカードはX召喚でしか特殊召喚できない。$Nドラゴン族モンスターをX素材としているこのカードが直接攻撃で相手のLPを０にした場合、このカードのコントローラーはマッチに勝利する。",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "※公式のデュエルでは使用できません。",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/08/11",
+  "species_id": 1,
+  "starchip": "8"
+}

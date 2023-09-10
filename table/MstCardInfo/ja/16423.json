@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 3,
+  "card_id": 16423,
+  "card_name": "サイレンス・シーネットル",
+  "card_name_label": "サイレンス・シーネットル",
+  "card_name_search": "さいれんすしーねっとる",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドに水属性モンスターが存在する場合に発動できる。このカードを手札から特殊召喚する。この効果を発動するターン、自分は水属性モンスターしか特殊召喚できない。②：墓地のこのカードを除外し、自分の墓地の水属性モンスターを３体まで対象として発動できる。そのモンスターをデッキに戻す。",
+  "defense_power": "1300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/06/12",
+  "species_id": 14,
+  "starchip": "4"
+}

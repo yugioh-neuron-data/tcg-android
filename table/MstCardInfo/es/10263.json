@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 5,
+  "card_id": 10263,
+  "card_name": "Vaquero Gagaga",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 monstruos de Nivel 4$NUna vez por turno: puedes desacoplar de esta carta 1 Material Xyz; aplica este efecto, dependiendo de la posición de batalla de esta carta en este momento.$N●Posición de Ataque: Si esta carta ataca a un monstruo de tu adversario este turno, gana 1000 ATK y además el monstruo de tu adversario pierde 500 ATK, sólo durante el Damage Step.$N●Posición de Defensa: Inflige 800 puntos de daño a tu adversario.",
+  "defense_power": "2400",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/11/08",
+  "species_id": 15,
+  "starchip": "4"
+}

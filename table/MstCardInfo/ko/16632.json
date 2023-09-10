@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 5,
+  "card_id": 16632,
+  "card_name": "비틀트루퍼 인빈시블 아트라스",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "곤충족 몬스터 2장 이상$N이 카드명의 ③의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 링크 소환한 이 카드는 공격력이 3000 이하일 경우, 상대 효과의 대상이 되지 않으며, 상대 효과로는 파괴되지 않는다. ②: 이 카드가 몬스터 존에 존재하는 한, 자신은 곤충족 몬스터밖에 특수 소환할 수 없다. ③: 자신 필드의 곤충족 몬스터 1장을 릴리스하고, 이하의 효과에서 1개를 선택하여 발동할 수 있다.$N●덱에서 \"비틀트루퍼\" 몬스터 1장을 특수 소환한다.$N●이 카드의 공격력은 턴 종료시까지 2000 올린다.",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "8123",
+  "linkno": "4",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/12/20",
+  "species_id": 10,
+  "starchip": ""
+}

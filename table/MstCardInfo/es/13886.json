@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13886,
+  "card_name": "Fiesta de Enlace",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Aplica este efecto dependiendo del número de Atributos originales diferentes de los Monstruos de Enlace en el Campo.$N●1: Todos los Monstruos de Enlace que controles ganan 500 ATK.$N●2: Todos los Monstruos de Enlace que controle tu adversario pierden 1000 ATK.$N●3: Gana 1500 LP.$N●4: Inflige 2000 puntos de daño a tu adversario.$N●5: Invoca de Modo Especial 1 monstruo con 2500 ATK o más desde tu Deck.$N●6: Destruye todos los monstruos que controle tu adversario con 3000 ATK o menos.$NSólo puedes activar 1 \"Fiesta de Enlace\" por turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/01/30",
+  "species_id": 24,
+  "starchip": "0"
+}

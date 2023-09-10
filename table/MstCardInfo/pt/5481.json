@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 5481,
+  "card_name": "Destruição Múltipla",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se os dois duelistas tiverem 3 ou mais cards em suas mãos: cada duelista coloca sua mão no fundo do Deck em qualquer ordem e, além disso, você perde PV igual ao número total de cards devolvidos ao Deck por este efeito x 300 (mín. 1) e, depois, cada duelista compra 5 cards. Você só pode ativar 1 \"Destruição Múltipla\" por turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/12/10",
+  "species_id": 25,
+  "starchip": "0"
+}

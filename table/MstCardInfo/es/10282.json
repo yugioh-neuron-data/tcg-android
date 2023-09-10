@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10282,
+  "card_name": "La Gran Torre del Libro de Magia",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Una vez por turno, durante tu Standby Phase, si tienes un monstruo de Tipo Lanzador de Conjuros en tu lado del Campo o tu Cementerio: puedes poner en el fondo de tu Deck 1 Carta Mágica \"Libro de Magia\" en tu Cementerio, excepto \"La Gran Torre del Libro de Magia\", y después robar 1 carta. Cuando esta carta en tu posesión es destruida por una carta de tu adversario y mandada a tu Cementerio: puedes Invocar de Modo Especial, desde tu mano o Deck, 1 monstruo de Tipo Lanzador de Conjuros cuyo Nivel sea menor o igual a la cantidad de Cartas Mágicas \"Libro de Magia\" en tu Cementerio.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/11/08",
+  "species_id": 24,
+  "starchip": "0"
+}

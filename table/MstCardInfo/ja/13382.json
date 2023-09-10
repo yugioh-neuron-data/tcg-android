@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 2,
+  "card_id": 13382,
+  "card_name": "ティンダングル・アポストル",
+  "card_name_label": "ティンダングル・アポストル",
+  "card_name_search": "てぃんだんぐるあぽすとる",
+  "card_pen_effect": "",
+  "card_text": "このカード名の効果は１ターンに１度しか使用できない。①：このカードがリバースした場合に発動できる。自分フィールドの裏側表示モンスターを３体まで選んで表側守備表示にする。この効果で表側守備表示にしたモンスターが全て「ティンダングル」モンスターだった場合、そのモンスターの数までデッキから「ティンダングル」カードを手札に加える事ができる。",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 24,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/10/14",
+  "species_id": 3,
+  "starchip": "3"
+}

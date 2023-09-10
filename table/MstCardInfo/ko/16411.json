@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 1,
+  "card_id": 16411,
+  "card_name": "성기사의 방패지기",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드명의 ①②의 효과는 1턴에 1번, 어느 쪽이든 1개밖에 사용할 수 없다. ①: 이 카드가 일반 소환 / 특수 소환에 성공했을 경우, 자신 묘지에서 빛 속성 몬스터 1장을 제외하고 발동할 수 있다. 자신은 덱에서 1장 드로우한다. ②: 패 / 필드의 이 카드를 제외하고 발동할 수 있다. 덱에서 레벨 6 이하의 야수족 / 바람 속성 몬스터 1장을 패에 넣는다.",
+  "defense_power": "1300",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/09/10",
+  "species_id": 15,
+  "starchip": "4"
+}

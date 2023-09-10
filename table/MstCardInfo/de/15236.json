@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 2,
+  "card_id": 15236,
+  "card_name": "Drachenfluch, der verfluchte Drache",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst deiner Hand 1 Zauber/Falle, der oder die ausdrücklich die Karte „Drachenmeister Gaia“ in seinem oder ihrem Text erwähnt, von deinem Deck hinzufügen. Falls diese Karte auf den Friedhof gelegt wird: Du kannst 1 „Drachenmeister Gaia“ in deiner Monsterzone wählen; annulliere bis zum Ende dieses Spielzugs die Effekte der offenen Monster, die dein Gegner derzeit kontrolliert und deren ATK kleiner oder gleich seinen ATK sind. Du kannst jeden Effekt von „Drachenfluch, der verfluchte Drache“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/07/02",
+  "species_id": 1,
+  "starchip": "5"
+}

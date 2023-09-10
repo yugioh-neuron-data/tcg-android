@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 5,
+  "card_id": 13800,
+  "card_name": "Orgoth der Unbarmherzige",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Einmal pro Spielzug, während deiner Main Phase: Du kannst 3 Mal einen sechsseitigen Würfel werfen und diese Karte erhält (bis zum Ende des Spielzugs deines Gegners) ATK/DEF in Höhe der Summe x 100, dann, falls 2 der Ergebnisse gleich waren, führe den entsprechenden Effekt aus. Falls alle 3 gleich waren, führe alle diese Effekte aus.$N●1 oder 2: Diese Karte kann bis zum Ende des Spielzugs deines Gegners weder durch Kampf noch durch Karteneffekte zerstört werden.$N●3 oder 4: Ziehe 2 Karten.$N●5 oder 6: Diese Karte kann in diesem Spielzug direkt angreifen.",
+  "defense_power": "2450",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/06/28",
+  "species_id": 15,
+  "starchip": "7"
+}

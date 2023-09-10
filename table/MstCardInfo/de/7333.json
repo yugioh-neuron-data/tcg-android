@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 3,
+  "card_id": 7333,
+  "card_name": "Behüter des Ozeans",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Während eines Kampfes zwischen dieser angreifenden Karte und einem Monster in Verteidigungsposition, dessen DEF niedriger sind als die ATK dieser Karte, füge die Differenz deinem Gegner als Kampfschaden zu. Wenn diese Karte durch Kampf zerstört wird, füge deiner Hand 1 „Tausendäugige Qualle“ oder 1 „Hirnschädelfisch“ von deinem Deck hinzu.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/08/15",
+  "species_id": 8,
+  "starchip": "3"
+}

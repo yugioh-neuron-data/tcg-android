@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 12710,
+  "card_name": "Ator do Abismo - Calcanhar Malvado",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Uma vez por turno: você pode oferecer como Tributo 1 monstro \"Ator do Abismo\" e, depois, escolher 1 monstro com a face para cima que seu oponente controla; até o final deste turno, ele perde ATK igual ao ATK original do monstro oferecido como Tributo (mesmo que este card deixe o campo).",
+  "card_text": "Se este card for Invocado por Invocação-Normal ou Especial: você pode escolher 1 monstro com a face para cima que seu oponente controla; até o final deste turno, ele perde 1000 de ATK para cada monstro \"Ator do Abismo\" que você controla. Quando este card destruir um monstro do oponente em batalha: você pode escolher 1 Card de Magia \"Script do Abismo\" no seu Cemitério; Baixe esse card.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2016/11/17",
+  "species_id": 3,
+  "starchip": "8"
+}

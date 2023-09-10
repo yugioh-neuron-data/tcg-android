@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 13712,
+  "card_name": "F.A. La Sfida si fa Calda",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Quando un mostro dell'avversario dichiara un attacco diretto: puoi Evocare Specialmente 1 mostro \"F.A.\" dal tuo Deck. Puoi utilizzare questo effetto di \"F.A. La Sfida si fa Calda\" una sola volta per turno. Una volta per battaglia, se un tuo mostro \"F.A.\" combatte con un mostro dell'avversario, prima del calcolo dei danni: puoi far tirare a entrambi i giocatori un dado a sei facce. Se il tuo risultato è più alto, aumenta il Livello del tuo mostro che sta combattendo di 4, fino alla fine di questo turno (anche se questa carta lascia il Terreno). Se il tuo risultato è più basso, distruggi il tuo mostro che sta combattendo. Se è un pareggio, entrambi i giocatori tirano ancora.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/05/03",
+  "species_id": 25,
+  "starchip": "0"
+}

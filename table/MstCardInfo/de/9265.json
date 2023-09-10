@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 9265,
+  "card_name": "Meklord-Imperator Granel",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Diese Karte muss durch ihren eigenen Effekt als Spezialbeschwörung beschworen werden. Wenn ein offenes Monster, das du kontrollierst, durch einen Karteneffekt zerstört und auf den Friedhof gelegt wird (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Einmal pro Spielzug: Du kannst 1 Synchromonster wählen, das dein Gegner kontrolliert; rüste diese Karte mit dem gewählten Ziel aus. Diese Karte erhält ATK/DEF in Höhe der Hälfte deiner LP und ATK in Höhe der Summe der ATK der Monster, mit denen sie durch diesen Effekt ausgerüstet ist. Du kannst 1 dieser ausrüstenden Monster wählen; beschwöre das gewählte Ziel als Spezialbeschwörung auf deine Spielfeldseite in die Verteidigungsposition.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/10/23",
+  "species_id": 7,
+  "starchip": "1"
+}

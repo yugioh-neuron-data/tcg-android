@@ -1,0 +1,23 @@
+{
+  "attack_power": "2600",
+  "attribute_id": 2,
+  "card_id": 11460,
+  "card_name": "D/D/D Rei Rebelde Leonidas",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Quando você sofrer dano de efeito (exceto durante a Etapa de Dano): você pode destruir este card e, se isso acontecer, qualquer efeito que causaria dano a um duelista neste turno, em vez disso, aumente os PV dele no mesmo valor.",
+  "card_text": "Quando você sofrer dano de efeito (exceto durante a Etapa de Dano): você pode Invocar este card por Invocação-Especial da sua mão e, se isso acontecer, você ganha PV igual ao dano que sofreu. Você não sofre dano de efeito.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2015/11/06",
+  "species_id": 3,
+  "starchip": "7"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1100",
+  "attribute_id": 2,
+  "card_id": 13377,
+  "card_name": "Dragão Projefoguette",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Quando um efeito de um Monstro Link for ativado que escolha como alvo este card com a face para cima no campo (Efeito Rápido): você pode destruir este card e, depois, destrua 1 monstro na coluna em que este card estava e, se isso acontecer, destrua quaisquer monstros nas zonas adjacentes a esse card. Durante a Fase Final, se este card estiver no Cemitério porque foi destruído no campo, em batalha ou por um efeito de card e enviado para lá neste turno: você pode Invocar por Invocação-Especial 1 monstro \"Foguette\" do seu Deck, exceto \"Dragão Projefoguette\". Você só pode usar cada efeito de \"Dragão Projefoguette\" uma vez por turno.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/02/01",
+  "species_id": 1,
+  "starchip": "2"
+}

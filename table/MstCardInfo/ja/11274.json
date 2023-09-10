@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11274,
+  "card_name": "魔力の泉",
+  "card_name_label": "まりょくのいずみ",
+  "card_name_search": "まりょくのいずみ",
+  "card_pen_effect": "",
+  "card_text": "「魔力の泉」は１ターンに１枚しか発動できない。①：相手フィールドの表側表示の魔法・罠カードの数だけ自分はデッキからドローする。その後、自分フィールドの表側表示の魔法・罠カードの数だけ自分の手札からカードを選んで捨てる。このカードの発動後、次の相手ターンの終了時まで、相手フィールドの魔法・罠カードは破壊されず、発動と効果を無効化されない。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/04/19",
+  "species_id": 24,
+  "starchip": "0"
+}

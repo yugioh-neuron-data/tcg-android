@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 2,
+  "card_id": 13472,
+  "card_name": "BM-4-Sprengspinne",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Einmal pro Spielzug: Du kannst 1 FINSTERNIS Maschine-Monster, das du kontrollierst, und 1 offene Karte, die dein Gegner kontrolliert, wählen; zerstöre sie. Falls ein Monster, das du kontrollierst und das ursprünglich eine FINSTERNIS Maschine war, ein oder mehr Monster eines Gegners durch Kampf oder einen Karteneffekt zerstört und auf den Friedhof legt: Du kannst deinem Gegner Schaden in Höhe der Hälfte der Grund-ATK von 1 der Monster zufügen, die zerstört und auf den Friedhof gelegt wurden. Du kannst diesen Effekt von „BM-4-Sprengspinne“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "2200",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/02/22",
+  "species_id": 7,
+  "starchip": "4"
+}

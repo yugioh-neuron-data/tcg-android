@@ -1,0 +1,956 @@
+[
+  {
+    "card_count": 1,
+    "card_id": 10863,
+    "card_image_id": 1,
+    "card_number": "NECH-PT090",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10978,
+    "card_image_id": 1,
+    "card_number": "NECH-PT091",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10979,
+    "card_image_id": 1,
+    "card_number": "NECH-PT092",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10980,
+    "card_image_id": 1,
+    "card_number": "NECH-PT093",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10981,
+    "card_image_id": 1,
+    "card_number": "NECH-PT094",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11126,
+    "card_image_id": 1,
+    "card_number": "NECH-PT097",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11127,
+    "card_image_id": 1,
+    "card_number": "NECH-PT098",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11132,
+    "card_image_id": 1,
+    "card_number": "NECH-PT095",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 11133,
+    "card_image_id": 1,
+    "card_number": "NECH-PT096",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 11305,
+    "card_image_id": 1,
+    "card_number": "NECH-PT099",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 11333,
+    "card_image_id": 1,
+    "card_number": "NECH-PT001",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11334,
+    "card_image_id": 1,
+    "card_number": "NECH-PT002",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11335,
+    "card_image_id": 1,
+    "card_number": "NECH-PT003",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11336,
+    "card_image_id": 1,
+    "card_number": "NECH-PT004",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11337,
+    "card_image_id": 1,
+    "card_number": "NECH-PT005",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11338,
+    "card_image_id": 1,
+    "card_number": "NECH-PT006",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11339,
+    "card_image_id": 1,
+    "card_number": "NECH-PT007",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11340,
+    "card_image_id": 1,
+    "card_number": "NECH-PT008",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11341,
+    "card_image_id": 1,
+    "card_number": "NECH-PT009",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11342,
+    "card_image_id": 1,
+    "card_number": "NECH-PT010",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11343,
+    "card_image_id": 1,
+    "card_number": "NECH-PT011",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11344,
+    "card_image_id": 1,
+    "card_number": "NECH-PT012",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11345,
+    "card_image_id": 1,
+    "card_number": "NECH-PT013",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11346,
+    "card_image_id": 1,
+    "card_number": "NECH-PT014",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 11347,
+    "card_image_id": 1,
+    "card_number": "NECH-PT015",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11348,
+    "card_image_id": 1,
+    "card_number": "NECH-PT016",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11349,
+    "card_image_id": 1,
+    "card_number": "NECH-PT017",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11350,
+    "card_image_id": 1,
+    "card_number": "NECH-PT018",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11351,
+    "card_image_id": 1,
+    "card_number": "NECH-PT019",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11352,
+    "card_image_id": 1,
+    "card_number": "NECH-PT020",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11353,
+    "card_image_id": 1,
+    "card_number": "NECH-PT021",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 11354,
+    "card_image_id": 1,
+    "card_number": "NECH-PT022",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 11355,
+    "card_image_id": 1,
+    "card_number": "NECH-PT023",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 11356,
+    "card_image_id": 1,
+    "card_number": "NECH-PT024",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 11357,
+    "card_image_id": 1,
+    "card_number": "NECH-PT025",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11358,
+    "card_image_id": 1,
+    "card_number": "NECH-PT026",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11359,
+    "card_image_id": 1,
+    "card_number": "NECH-PT027",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11360,
+    "card_image_id": 1,
+    "card_number": "NECH-PT028",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11361,
+    "card_image_id": 1,
+    "card_number": "NECH-PT029",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11362,
+    "card_image_id": 1,
+    "card_number": "NECH-PT030",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11363,
+    "card_image_id": 1,
+    "card_number": "NECH-PT031",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 11364,
+    "card_image_id": 1,
+    "card_number": "NECH-PT032",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 11365,
+    "card_image_id": 1,
+    "card_number": "NECH-PT033",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11366,
+    "card_image_id": 1,
+    "card_number": "NECH-PT034",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 11367,
+    "card_image_id": 1,
+    "card_number": "NECH-PT035",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11368,
+    "card_image_id": 1,
+    "card_number": "NECH-PT036",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 11369,
+    "card_image_id": 1,
+    "card_number": "NECH-PT037",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 11370,
+    "card_image_id": 1,
+    "card_number": "NECH-PT038",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11371,
+    "card_image_id": 1,
+    "card_number": "NECH-PT039",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 11372,
+    "card_image_id": 1,
+    "card_number": "NECH-PT040",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11373,
+    "card_image_id": 1,
+    "card_number": "NECH-PT041",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 11374,
+    "card_image_id": 1,
+    "card_number": "NECH-PT042",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11375,
+    "card_image_id": 1,
+    "card_number": "NECH-PT043",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11376,
+    "card_image_id": 1,
+    "card_number": "NECH-PT044",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11377,
+    "card_image_id": 1,
+    "card_number": "NECH-PT045",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 11378,
+    "card_image_id": 1,
+    "card_number": "NECH-PT046",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11378,
+    "card_image_id": 1,
+    "card_number": "NECH-PT046",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 11379,
+    "card_image_id": 1,
+    "card_number": "NECH-PT047",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11380,
+    "card_image_id": 1,
+    "card_number": "NECH-PT048",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 11381,
+    "card_image_id": 1,
+    "card_number": "NECH-PT049",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 11381,
+    "card_image_id": 1,
+    "card_number": "NECH-PT049",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 11382,
+    "card_image_id": 1,
+    "card_number": "NECH-PT050",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 11383,
+    "card_image_id": 1,
+    "card_number": "NECH-PT051",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 11383,
+    "card_image_id": 1,
+    "card_number": "NECH-PT051",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 11384,
+    "card_image_id": 1,
+    "card_number": "NECH-PT052",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 11385,
+    "card_image_id": 1,
+    "card_number": "NECH-PT053",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 11385,
+    "card_image_id": 1,
+    "card_number": "NECH-PT053",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 11385,
+    "card_image_id": 1,
+    "card_number": "NECH-PT053",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 7
+  },
+  {
+    "card_count": 1,
+    "card_id": 11386,
+    "card_image_id": 1,
+    "card_number": "NECH-PT054",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 11386,
+    "card_image_id": 1,
+    "card_number": "NECH-PT054",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 11387,
+    "card_image_id": 1,
+    "card_number": "NECH-PT055",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11388,
+    "card_image_id": 1,
+    "card_number": "NECH-PT056",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11389,
+    "card_image_id": 1,
+    "card_number": "NECH-PT057",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11390,
+    "card_image_id": 1,
+    "card_number": "NECH-PT058",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11391,
+    "card_image_id": 1,
+    "card_number": "NECH-PT059",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 11392,
+    "card_image_id": 1,
+    "card_number": "NECH-PT060",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11393,
+    "card_image_id": 1,
+    "card_number": "NECH-PT061",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 11394,
+    "card_image_id": 1,
+    "card_number": "NECH-PT062",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11395,
+    "card_image_id": 1,
+    "card_number": "NECH-PT063",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11396,
+    "card_image_id": 1,
+    "card_number": "NECH-PT064",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 11397,
+    "card_image_id": 1,
+    "card_number": "NECH-PT065",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11398,
+    "card_image_id": 1,
+    "card_number": "NECH-PT066",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11399,
+    "card_image_id": 1,
+    "card_number": "NECH-PT067",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11400,
+    "card_image_id": 1,
+    "card_number": "NECH-PT068",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11401,
+    "card_image_id": 1,
+    "card_number": "NECH-PT069",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11402,
+    "card_image_id": 1,
+    "card_number": "NECH-PT070",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11403,
+    "card_image_id": 1,
+    "card_number": "NECH-PT071",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11404,
+    "card_image_id": 1,
+    "card_number": "NECH-PT072",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11405,
+    "card_image_id": 1,
+    "card_number": "NECH-PT073",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11406,
+    "card_image_id": 1,
+    "card_number": "NECH-PT074",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11407,
+    "card_image_id": 1,
+    "card_number": "NECH-PT075",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11408,
+    "card_image_id": 1,
+    "card_number": "NECH-PT076",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11409,
+    "card_image_id": 1,
+    "card_number": "NECH-PT077",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11410,
+    "card_image_id": 1,
+    "card_number": "NECH-PT078",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 11411,
+    "card_image_id": 1,
+    "card_number": "NECH-PT079",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 11412,
+    "card_image_id": 1,
+    "card_number": "NECH-PT080",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11503,
+    "card_image_id": 1,
+    "card_number": "NECH-PT000",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 11504,
+    "card_image_id": 1,
+    "card_number": "NECH-PT081",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11505,
+    "card_image_id": 1,
+    "card_number": "NECH-PT082",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 11506,
+    "card_image_id": 1,
+    "card_number": "NECH-PT083",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11507,
+    "card_image_id": 1,
+    "card_number": "NECH-PT084",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11508,
+    "card_image_id": 1,
+    "card_number": "NECH-PT085",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 11509,
+    "card_image_id": 1,
+    "card_number": "NECH-PT086",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 11510,
+    "card_image_id": 1,
+    "card_number": "NECH-PT087",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11511,
+    "card_image_id": 1,
+    "card_number": "NECH-PT088",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11512,
+    "card_image_id": 1,
+    "card_number": "NECH-PT089",
+    "language": "pt",
+    "pack_id": "11113011",
+    "rarity_id": 1
+  }
+]

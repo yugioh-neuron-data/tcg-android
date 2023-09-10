@@ -1,0 +1,911 @@
+[
+  {
+    "card_count": 1,
+    "card_id": 14628,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR001",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14629,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR002",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14630,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR003",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14631,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR004",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14632,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR005",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14633,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR006",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14634,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR007",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14635,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR008",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14636,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR009",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14637,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR010",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 14637,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR010",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 14638,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR011",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14639,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR012",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14640,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR013",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14641,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR014",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 14641,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR014",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 14642,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR015",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14643,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR016",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14644,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR017",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14645,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR018",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14646,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR019",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14647,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR020",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14648,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR021",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14649,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR022",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14650,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR023",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 14650,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR023",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 14651,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR024",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 14651,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR024",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 14652,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR025",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14653,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR026",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14654,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR027",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14655,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR028",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14656,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR029",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14657,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR030",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14658,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR031",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14659,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR032",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14660,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR033",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 14660,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR033",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 14660,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR033",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 14661,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR034",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 14661,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR034",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 14662,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR035",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 14662,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR035",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 14663,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR036",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 14663,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR036",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 14664,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR037",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 14664,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR037",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 14664,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR037",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 14664,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR037",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 7
+  },
+  {
+    "card_count": 1,
+    "card_id": 14665,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR038",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14666,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR039",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 14666,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR039",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 14666,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR039",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 14667,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR040",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14668,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR041",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14669,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR042",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14670,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR043",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14671,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR044",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14672,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR045",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 14672,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR045",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 14672,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR045",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 14673,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR046",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 14673,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR046",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 14674,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR047",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 14674,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR047",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 14675,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR048",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14676,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR049",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 14676,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR049",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 14677,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR050",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14678,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR051",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14679,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR052",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14680,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR053",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14681,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR054",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14682,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR055",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14683,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR056",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14684,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR057",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14685,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR058",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14686,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR059",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14687,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR060",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14688,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR061",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14689,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR062",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14690,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR063",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 14690,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR063",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 14691,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR064",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14692,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR065",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14693,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR066",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14694,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR067",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14695,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR068",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14696,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR069",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14697,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR070",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14698,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR071",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14699,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR072",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14700,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR073",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14701,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR074",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14702,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR075",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14703,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR076",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14704,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR077",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 14704,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR077",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 14705,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR078",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14706,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR079",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14707,
+    "card_image_id": 1,
+    "card_number": "CHIM-KR080",
+    "language": "ko",
+    "pack_id": "71117003",
+    "rarity_id": 1
+  }
+]

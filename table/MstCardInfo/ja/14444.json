@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14444,
+  "card_name": "魔法都市の実験施設",
+  "card_name_label": "エンディミオン・ラボ",
+  "card_name_search": "えんでぃみおんらぼ",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：このカードは魔法＆罠ゾーンに存在する限り、カード名を「魔法都市エンディミオン」として扱う。②：自分または相手が魔法カードを発動する度に、このカードに魔力カウンターを１つ置く。③：１ターンに１度、自分の魔法使い族モンスターが戦闘で破壊されたダメージ計算後に、自分フィールドの魔力カウンターを６つ取り除いて発動できる。手札・デッキからレベル７以上の魔法使い族モンスター１体を特殊召喚する。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/03/09",
+  "species_id": 24,
+  "starchip": "0"
+}

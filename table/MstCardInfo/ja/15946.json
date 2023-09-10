@@ -1,0 +1,23 @@
+{
+  "attack_power": "1900",
+  "attribute_id": 5,
+  "card_id": 15946,
+  "card_name": "ウォークライ・ガトス",
+  "card_name_label": "ウォークライ・ガトス",
+  "card_name_search": "うぉーくらいがとす",
+  "card_pen_effect": "",
+  "card_text": "このカード名の②の効果は１ターンに１度しか使用できない。①：自分フィールドに戦士族・地属性モンスターが召喚された場合に発動できる。このカードを手札から特殊召喚する。②：このカードが相手の効果でモンスターゾーンから墓地へ送られた場合に発動できる。手札・デッキからレベル５以上の「ウォークライ」モンスター１体を特殊召喚する。",
+  "defense_power": "1900",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/09/25",
+  "species_id": 15,
+  "starchip": "4"
+}

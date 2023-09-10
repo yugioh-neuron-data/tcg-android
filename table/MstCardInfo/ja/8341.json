@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 8341,
+  "card_name": "フューチャー・ヴィジョン",
+  "card_name_label": "フューチャー・ヴィジョン",
+  "card_name_search": "ふゅーちゃーう゛ぃじょん",
+  "card_pen_effect": "",
+  "card_text": "このカードがフィールド上に存在する限り、自分または相手がモンスターの召喚に成功した時、そのモンスター１体を選択してゲームから除外する。召喚したモンスターのコントローラーから見て次の自分のスタンバイフェイズ時、この効果で除外したモンスターを表側攻撃表示でフィールド上に戻す。",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/04/18",
+  "species_id": 24,
+  "starchip": "0"
+}

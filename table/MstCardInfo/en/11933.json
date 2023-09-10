@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 1,
+  "card_id": 11933,
+  "card_name": "Dharma-Eye Magician",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Once per turn: You can reveal 1 Pendulum Monster in your hand, then target 1 \"Magician\" card in your Pendulum Zone; that target's Pendulum Scale becomes the same as the revealed Pendulum Monster's, until the end of this turn (even if this card leaves the field).",
+  "card_text": "While this Pendulum Summoned card is on the field, \"Magician\" Pendulum Monsters you control cannot be destroyed by your opponent's card effects during the turn this card was Pendulum Summoned.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "2",
+  "pen_scale_r": "2",
+  "sales_at": "2016/01/15",
+  "species_id": 18,
+  "starchip": "7"
+}

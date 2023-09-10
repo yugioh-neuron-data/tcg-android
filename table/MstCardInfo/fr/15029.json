@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 3,
+  "card_id": 15029,
+  "card_name": "Crocodragon Archethys Vorace",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Syntoniseur + 1+ monstre non-Syntoniseur$NGagne 500 ATK/DEF pour chaque carte dans votre main. Vous ne pouvez utiliser chacun des effets suivants de \"Crocodragon Archethys Vorace\" qu'une fois par tour.$N●Si cette carte est Invoquée par Synchronisation : vous pouvez piocher un nombre de cartes égal au nombre de non-Syntoniseurs utilisés pour son Invocation Synchro.$N●(Effet Rapide) : vous pouvez défausser 2 cartes, puis ciblez 1 carte sur le Terrain ; détruisez-la.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/30",
+  "species_id": 8,
+  "starchip": "9"
+}

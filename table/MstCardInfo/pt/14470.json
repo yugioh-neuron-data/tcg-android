@@ -1,0 +1,23 @@
+{
+  "attack_power": "-1",
+  "attribute_id": 2,
+  "card_id": 14470,
+  "card_name": "Senhora Fortuna do Passado",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "O ATK/DEF deste card se tornam seu Nível x 200. Uma vez por turno, durante sua Fase de Apoio: aumente em 1 o Nível deste card (máx. 12). Você pode escolher 1 monstro \"Senhora Fortuna\" que você controla; bana qualquer número de outros monstros Mago da sua mão, do campo e/ou do Cemitério e, se isso acontecer, até o final deste turno, aumente ou reduza o Nível desse monstro pelo número de monstros banidos. Você só pode usar este efeito de \"Senhora Fortuna do Passado\" uma vez por turno.",
+  "defense_power": "-1",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/07/26",
+  "species_id": 18,
+  "starchip": "1"
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "card_count": 1,
+    "card_id": 4007,
+    "card_image_id": 1,
+    "card_number": "PCK-S001",
+    "language": "es",
+    "pack_id": "5141402002",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 5006,
+    "card_image_id": 1,
+    "card_number": "PCK-S002",
+    "language": "es",
+    "pack_id": "5141402002",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 5011,
+    "card_image_id": 1,
+    "card_number": "PCK-S003",
+    "language": "es",
+    "pack_id": "5141402002",
+    "rarity_id": 5
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16744,
+  "card_name": "エクソシスター・パークス",
+  "card_name_label": "エクソシスター・パークス",
+  "card_name_search": "えくそしすたーぱーくす",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：自分・相手のメインフェイズに８００LPを払って発動できる。デッキから「エクソシスター・パークス」以外の「エクソシスター」カード１枚を手札に加える。この効果でモンスターを手札に加え、そのモンスターにカード名が記された「エクソシスター」モンスターが自分のフィールド・墓地に存在している場合、さらに手札に加えたそのモンスターを特殊召喚できる。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/08/28",
+  "species_id": 24,
+  "starchip": "0"
+}

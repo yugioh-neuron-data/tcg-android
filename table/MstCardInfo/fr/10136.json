@@ -1,0 +1,23 @@
+{
+  "attack_power": "2100",
+  "attribute_id": 5,
+  "card_id": 10136,
+  "card_name": "Challenger Héroïque - Marteau de Guerre",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsque cette carte détruit un monstre de votre adversaire au combat et l'envoie au Cimetière : vous pouvez équiper le monstre détruit à cette carte. (Vous ne pouvez équiper qu'1 monstre à cette carte à la fois avec cet effet.) Cette carte gagne une ATK égale à l'ATK du monstre équipé.",
+  "defense_power": "1300",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/08/23",
+  "species_id": 15,
+  "starchip": "6"
+}

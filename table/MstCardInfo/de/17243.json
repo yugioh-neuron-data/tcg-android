@@ -1,0 +1,23 @@
+{
+  "attack_power": "900",
+  "attribute_id": 2,
+  "card_id": 17243,
+  "card_name": "Rotäugige Seele",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Der Name dieser Karte wird zu „Rotäugiger schwarzer Drache“, solange sie auf dem Spielfeld oder im Friedhof liegt. Falls dein Gegner ein oder mehr Monster als Spezialbeschwörung beschwört (außer während des Damage Steps): Du kannst diese Karte von deiner Hand oder Spielfeldseite auf den Friedhof legen; beschwöre 1 „Rotäugig“-Monster als Spezialbeschwörung von deiner Hand oder deinem Deck, außer „Rotäugige Seele“. Du kannst diesen Effekt von „Rotäugige Seele“ nur einmal pro Spielzug verwenden. (Schnelleffekt): Du kannst 1 „Rotäugiger schwarzer Drache“ wählen, den du kontrollierst; füge deinem Gegner Schaden in Höhe der Grund-ATK jenes Monsters zu. Du kannst diesen Effekt von „Rotäugige Seele“ nur einmal pro Duell verwenden.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/03/09",
+  "species_id": 1,
+  "starchip": "7"
+}

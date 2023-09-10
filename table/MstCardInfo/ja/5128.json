@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 5128,
+  "card_name": "メテオ・ストライク",
+  "card_name_label": "メテオ・ストライク",
+  "card_name_search": "めておすとらいく",
+  "card_pen_effect": "",
+  "card_text": "装備モンスターが守備表示モンスターを攻撃した時、その守備力を攻撃力が超えていれば、その数値だけ相手ライフに戦闘ダメージを与える。",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2000/12/14",
+  "species_id": 24,
+  "starchip": "0"
+}

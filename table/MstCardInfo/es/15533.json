@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15533,
+  "card_name": "Dogmátiksmo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si el monstruo equipado es un monstruo \"Dogmátik\", éste gana ATK igual a su Nivel x 100. Si no, éste pierde 200 ATK por cada monstruo \"Dogmátik\" que controles. Si esta carta es mandada al Cementerio porque el monstruo equipado es destruido: puedes mandar al Cementerio 1 monstruo en tu Deck Extra. Sólo puedes usar este efecto de \"Dogmátiksmo\" una vez por turno.",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/11/05",
+  "species_id": 24,
+  "starchip": "0"
+}

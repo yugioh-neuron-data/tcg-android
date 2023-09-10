@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 1,
+  "card_id": 8324,
+  "card_name": "화이트 포탄",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "자신 필드 위에 튜너가 앞면 표시로 존재할 경우, 이 카드는 전투로는 파괴되지 않는다. 자신 필드 위에 앞면 표시로 존재하는 튜너가 전투에 의해서 파괴되어 묘지로 보내졌을 때, 상대 라이프에 500 포인트 데미지를 준다.",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/09/23",
+  "species_id": 17,
+  "starchip": "1"
+}

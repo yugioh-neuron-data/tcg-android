@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 6347,
+  "card_name": "ダブルアタック",
+  "card_name_label": "ダブルアタック",
+  "card_name_search": "だぶるあたっく",
+  "card_pen_effect": "",
+  "card_text": "自分の手札からモンスターカード１枚を墓地に捨てる。捨てたモンスターよりもレベルが低いモンスター１体を自分フィールド上から選択する。選択したモンスター１体はこのターン２回攻撃をする事ができる。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/02/24",
+  "species_id": 24,
+  "starchip": "0"
+}

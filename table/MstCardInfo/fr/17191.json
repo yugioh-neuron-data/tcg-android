@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 17191,
+  "card_name": "Vif Arrière",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Ciblez 1 carte que vous contrôlez ; renvoyez-la à la main. Si cette carte est dans votre Cimetière : vous pouvez cibler 1 carte face recto que vous contrôlez ; Posez cette carte (mais bannissez-la lorsqu'elle quitte le Terrain), et si vous le faites, renvoyez la carte face recto à la main, mais le reste de ce tour, vous ne pouvez activer ni de cartes ni d'effets de cartes du même nom que la carte avait une fois renvoyée à la main. Vous ne pouvez utiliser qu'1 effet de \"Vif Arrière\" par tour, et uniquement une fois le tour.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/05/19",
+  "species_id": 25,
+  "starchip": "0"
+}

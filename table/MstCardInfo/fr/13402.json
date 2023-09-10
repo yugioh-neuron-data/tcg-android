@@ -1,0 +1,23 @@
+{
+  "attack_power": "1300",
+  "attribute_id": 2,
+  "card_id": 13402,
+  "card_name": "Oiseau Fantôme de l'Enchantement",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cette carte gagne un effet selon votre Zone Monstre Main dans laquelle elle est.$N●La plus à gauche : Gagne 1000 ATK/DEF.$N●La plus à droite : Durant chaque Battle Phase, elle peut faire max. 2 attaques sur des monstres.$N●Centre : Votre adversaire ne peut pas cibler cette carte avec des effets de carte, et aussi, elle ne peut pas être détruite par des effets de carte de votre adversaire.$N●Autres : Les monstres dans cette colonne ne peuvent pas activer leurs effets.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/02/01",
+  "species_id": 16,
+  "starchip": "4"
+}

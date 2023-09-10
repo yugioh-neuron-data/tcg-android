@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13005,
+  "card_name": "ドン・サウザンドの契約",
+  "card_name_label": "ドン・サウザンドのけいやく",
+  "card_name_search": "どんさうざんどのけいやく",
+  "card_pen_effect": "",
+  "card_text": "「ドン・サウザンドの契約」は１ターンに１枚しか発動できない。①：このカードの発動時の効果処理として、お互いのプレイヤーは１０００LPを失い、それぞれデッキから１枚ドローする。②：お互いのプレイヤーは、このカードが魔法＆罠ゾーンに存在する間にドローしたカード及び、このカードの①の効果でドローしたカードを公開し続ける。③：このカードの効果で手札の魔法カードを公開しているプレイヤーは、モンスターを通常召喚できない。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/02/11",
+  "species_id": 24,
+  "starchip": "0"
+}

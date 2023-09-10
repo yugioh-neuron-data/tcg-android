@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 5,
+  "card_id": 16222,
+  "card_name": "Mechamortero Magillave - Garestrozador",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Puedes Invocar esta carta por Ritual con \"Maftea Magillave\". Gana 300 ATK por cada Atributo diferente en tu Cementerio. Sólo puedes usar cada uno de los siguientes efectos de \"Mechamortero Magillave - Garestrozador\" una vez por turno. Cuando tu adversario activa un efecto de un monstruo con el mismo Atributo que el de un monstruo en tu Cementerio, si al menos 2 Atributos de monstruos fueron usados para la Invocación por Ritual de esta carta (Efecto Rápido): puedes negar la activación y, si lo haces, destruye esa carta. Si esta carta Invocada por Ritual es mandada al Cementerio: puedes añadir a tu mano 1 monstruo \"Magillave\" en tu Deck.",
+  "defense_power": "2800",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 5,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/08/12",
+  "species_id": 7,
+  "starchip": "8"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14225,
+  "card_name": "Pendule Âme",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Vous pouvez cibler 2 cartes dans vos Zones Pendule ; changez l'Échelle Pendule de chaque cible de 1 (min. 1). Vous ne pouvez utiliser cet effet de \"Pendule Âme\" qu'une fois par tour. Chaque fois qu'un ou plusieurs Monstres Pendule sont Invoqués par Pendulation, placez 1 Compteur sur cette carte. Les Monstres Pendule sur le Terrain gagnent 300 ATK pour chaque Compteur sur cette carte. Vous pouvez retirer 3 Compteurs de cette carte ; durant votre Main Phase ce tour, vous pouvez mener 1 Invocation Pendule d'un ou plusieurs monstres en plus de votre Invocation Pendule. (Vous ne pouvez gagner cet effet qu'une fois par tour.)",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/04/04",
+  "species_id": 24,
+  "starchip": "0"
+}

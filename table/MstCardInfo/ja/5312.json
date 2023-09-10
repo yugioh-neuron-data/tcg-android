@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 5312,
+  "card_name": "生命吸収装置",
+  "card_name_label": "せいめいきゅうしゅうそうち",
+  "card_name_search": "せいめいきゅうしゅうそうち",
+  "card_pen_effect": "",
+  "card_text": "自分のスタンバイフェイズ毎に、直前の自分のターンに払ったライフポイントの半分が回復する。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2001/09/20",
+  "species_id": 25,
+  "starchip": "0"
+}

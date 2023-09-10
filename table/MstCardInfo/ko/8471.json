@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 3,
+  "card_id": 8471,
+  "card_name": "오샤레온",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드가 자신 필드 위에 앞면 공격 표시로 존재하는 한, 상대는 \"오샤레온\" 이외의 몬스터를 공격 대상으로 선택할 수 없다. 이 카드가 전투에 의해서 파괴되어 묘지로 보내졌을 때, 자신의 덱에서 공격력 500 이하의 파충류족 몬스터 1장을 패에 넣을 수 있다.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/11/19",
+  "species_id": 20,
+  "starchip": "3"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1850",
+  "attribute_id": 3,
+  "card_id": 5069,
+  "card_name": "전설의 어부",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "①: 필드에 \"바다\"가 존재하는 한, 필드의 이 카드는 마법 카드의 효과를 받지 않는다. ②: 필드에 \"바다\"가 존재하는 한, 이 카드는 공격 대상이 되지 않는다(이 효과가 적용된 몬스터밖에 자신 필드에 존재하지 않은 상태에서의 상대의 공격은 자신에게로의 직접 공격이 된다).",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/06/19",
+  "species_id": 15,
+  "starchip": "5"
+}

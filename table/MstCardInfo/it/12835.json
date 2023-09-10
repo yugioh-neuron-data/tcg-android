@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 2,
+  "card_id": 12835,
+  "card_name": "Predapianta Chimerafflesia",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 mostro \"Predapianta\" + 1 mostro OSCURITÀ$NUna volta per turno: puoi scegliere come bersaglio 1 mostro sul Terreno con Livello pari o inferiore a quello di questa carta; bandiscilo. Quando viene dichiarato un attacco che coinvolge questa carta e un mostro scoperto dell'avversario: puoi attivare questo effetto; fino alla fine di questo turno, quel mostro dell'avversario perde 1000 ATK e, se lo fa, questa carta guadagna 1000 ATK. Una volta per turno, durante la prossima Standby Phase dopo che questa carta è stata mandata al Cimitero: puoi aggiungere 1 Magia \"Polimerizzazione\" o Magia \"Fusione\" dal tuo Deck alla tua mano.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/02/23",
+  "species_id": 13,
+  "starchip": "7"
+}

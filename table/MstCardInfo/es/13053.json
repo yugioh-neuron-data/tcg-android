@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 13053,
+  "card_name": "Dragón Resquebrajado",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "No puede ser destruido en batalla con un monstruo de igual o menor Nivel. Cuando tu adversario Invoca de Modo Normal o Especial a exactamente 1 monstruo (y ningún monstruo más es Invocado) mientras este monstruo está en el Campo: puedes hacer que ese monstruo pierda ATK igual a su Nivel x 200 (hasta el final de este turno) y, si lo haces, inflige daño a tu adversario igual al ATK perdido por este efecto.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/08/03",
+  "species_id": 7,
+  "starchip": "8"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 5,
+  "card_id": 17610,
+  "card_name": "Mestra do Chicote Dourado Amazoness",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Monstros \"Amazoness\" que você controla ganham ATK igual ao seu próprio Nível x 100. Quando um ataque for declarado envolvendo um monstro \"Amazoness\" seu: você pode escolher 1 Magia/Armadilha no campo; destrua-a. Você só pode usar este efeito de \"Mestra do Chicote Dourado Amazoness\" uma vez por turno.",
+  "card_text": "Se este card na Zona de Monstros for destruído em batalha ou por um efeito de card: você pode colocar este card na sua Zona de Pêndulo. Se um ou mais monstros \"Amazoness\" forem Invocados por Invocação-Especial no seu campo, enquanto este card estiver no seu Cemitério (exceto durante a Etapa de Dano): você pode colocar este card na sua Zona de Pêndulo. Você só pode usar cada efeito de \"Mestra do Chicote Dourado Amazoness\" uma vez por turno.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2022/10/20",
+  "species_id": 15,
+  "starchip": "5"
+}

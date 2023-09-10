@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 2,
+  "card_id": 12149,
+  "card_name": "Engraver of the Mark",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "When your opponent activates a card or effect by declaring exactly 1 card name (Quick Effect): You can send this card from your hand to the GY; declare 1 other card name. The card name your opponent declared becomes the card name declared by this effect. Once per turn (Quick Effect): You can target 1 face-up card on the field; destroy it during the End Phase of the next turn.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/12/10",
+  "species_id": 18,
+  "starchip": "4"
+}

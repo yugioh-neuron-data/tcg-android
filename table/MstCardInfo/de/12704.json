@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 2,
+  "card_id": 12704,
+  "card_name": "Schicksals-HELD - Decider",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Monster der Stufe 6 oder höher, die dein Gegner kontrolliert, können diese Karte nicht als Angriffsziel wählen. Du kannst jeden der folgenden Effekte von „Schicksals-HELD - Decider“ nur einmal pro Duell verwenden.$N●Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst deiner Hand während der End Phase dieses Spielzugs 1 „HELD“-Monster von deinem Friedhof hinzufügen.$N●Wenn eine Karte oder ein Effekt aktiviert wird, die oder der dir Schaden zufügen würde, solange sich diese Karte in deinem Friedhof befindet (Schnelleffekt): Gib diese Karte auf deine Hand zurück und falls du dies tust, lasse diesen Effektschaden gegen dich zu 0 werden.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/11/17",
+  "species_id": 15,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11733,
+  "card_name": "妖仙大旋風",
+  "card_name_label": "ようせんだいせんぷう",
+  "card_name_search": "ようせんだいせんぷう",
+  "card_pen_effect": "",
+  "card_text": "８００LPを払ってこのカードを発動できる。①：１ターンに１度、自分フィールドの表側表示の「妖仙獣」モンスターが手札に戻った場合、相手フィールドのカード１枚を対象として発動できる。そのカードを持ち主の手札に戻す。②：自分ターンにこのカードの①の効果を適用していない場合、そのターンのエンドフェイズにこのカードは破壊される。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/02/14",
+  "species_id": 24,
+  "starchip": "0"
+}

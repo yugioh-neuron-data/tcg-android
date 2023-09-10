@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 12001,
+  "card_name": "Porte du Chaos",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsque cette carte est activée : ajoutez 1 Monstre Rituel \"Soldat du Lustre Noir\" ou 1 monstre \"Gaïa le Chevalier Implacable\" depuis votre Deck à votre main. Chaque fois qu'une ou plusieurs Cartes Monstre sont envoyées depuis la main ou Terrain au Cimetière, placez 1 Compteur Magie sur cette carte pour chacune de ces cartes (max. 6). Une fois par tour : vous pouvez retirer 3 Compteurs Magie de cette carte ; ajoutez 1 Magie Rituelle depuis votre Deck à votre main. Vous ne pouvez activer qu'1 \"Porte du Chaos\" par tour.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/11/05",
+  "species_id": 24,
+  "starchip": "0"
+}

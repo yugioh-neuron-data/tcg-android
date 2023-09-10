@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 7624,
+  "card_name": "Light Barrier",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "During your Standby Phase, toss a coin. If the result is Tails, the following effects are negated until your next Standby Phase:$N●When you Summon an \"Arcana Force\" monster, choose which effect to apply without tossing a coin. If an \"Arcana Force\" monster destroys an opponent's monster by battle, you gain Life Points equal to the destroyed monster's original ATK.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/05/13",
+  "species_id": 24,
+  "starchip": "0"
+}

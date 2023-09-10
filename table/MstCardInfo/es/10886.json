@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 1,
+  "card_id": 10886,
+  "card_name": "Raiden, Mano Luminosa",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante tu Main Phase: puedes mandar al Cementerio las 2 cartas de la parte superior de tu Deck, y después, si algún monstruo \"Luminoso/a\" fue mandado al Cementerio por este efecto, hasta el final del turno de tu adversario, esta carta gana 200 ATK. Sólo puedes usar este efecto de \"Raiden, Mano Luminosa\" una vez por turno. Una vez por turno, durante tu End Phase: manda al Cementerio las 2 cartas de la parte superior de tu Deck.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/06/26",
+  "species_id": 15,
+  "starchip": "4"
+}

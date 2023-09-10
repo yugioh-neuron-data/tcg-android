@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 5223,
+  "card_name": "魔術の呪文書",
+  "card_name_label": "まじゅつのじゅもんしょ",
+  "card_name_search": "まじゅつのじゅもんしょ",
+  "card_pen_effect": "",
+  "card_text": "「ブラック・マジシャン」「ブラック・マジシャン・ガール」にのみ装備可能。装備モンスターの攻撃力は７００ポイントアップする。このカードがフィールド上から墓地へ送られた時、自分は１０００ライフポイント回復する。",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2003/05/01",
+  "species_id": 24,
+  "starchip": "0"
+}

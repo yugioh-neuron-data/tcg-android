@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 2,
+  "card_id": 8638,
+  "card_name": "묘지기의 대신관",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드는 \"묘지기의\"라는 이름이 붙은 몬스터 1장을 릴리스하고 일반 소환할 수 있다. 이 카드의 공격력은 자신의 묘지에 존재하는 \"묘지기의\"라는 이름이 붙은 몬스터의 수 × 200 포인트 올린다. 필드 위에 앞면 표시로 존재하는 이 카드가 파괴될 경우, 대신에 패에서 \"묘지기의\"라는 이름이 붙은 몬스터 1장을 버릴 수 있다.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/02/23",
+  "species_id": 18,
+  "starchip": "8"
+}

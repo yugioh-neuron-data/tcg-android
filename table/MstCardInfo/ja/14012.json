@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 6,
+  "card_id": 14012,
+  "card_name": "ネフティスの護り手",
+  "card_name_label": "ネフティスのまもりて",
+  "card_name_search": "ねふてぃすのまもりて",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分メインフェイズに発動できる。手札を１枚選んで破壊し、手札から「ネフティスの護り手」以外のレベル４以下の「ネフティス」モンスター１体を特殊召喚する。②：このカードが効果で破壊され墓地へ送られた場合、次の自分スタンバイフェイズに発動できる。デッキから「ネフティスの護り手」以外の「ネフティス」モンスター１体を選んで破壊する。",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/08/04",
+  "species_id": 18,
+  "starchip": "2"
+}

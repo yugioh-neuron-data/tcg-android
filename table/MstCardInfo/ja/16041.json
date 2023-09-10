@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 16041,
+  "card_name": "福悲喜",
+  "card_name_label": "ふくびき",
+  "card_name_search": "ふくびき",
+  "card_pen_effect": "",
+  "card_text": "①：お互いのプレイヤーは、デッキをシャッフルし、デッキの一番上のカードをめくってそのカードの攻撃力を確認する（攻撃力？のモンスターまたは魔法・罠カードの場合はその攻撃力を０として扱う）。攻撃力が高い方のカードをそのプレイヤーの手札に加え、攻撃力が低い方のカードを墓地へ送る。攻撃力が同じだった場合、それらのカードをデッキの一番下に戻す。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/01/16",
+  "species_id": 25,
+  "starchip": "0"
+}

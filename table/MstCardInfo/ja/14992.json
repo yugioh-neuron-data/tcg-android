@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 3,
+  "card_id": 14992,
+  "card_name": "海晶乙女バシランリマ",
+  "card_name_label": "マリンセスバシランリマ",
+  "card_name_search": "まりんせすばしらんりま",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①③の効果はそれぞれ１ターンに１度しか使用できない。①：自分の墓地から「マリンセス」罠カード１枚を除外して発動できる。そのカードとはカード名が異なる「マリンセス」罠カード１枚をデッキから手札に加える。②：自分フィールドのモンスターが効果で破壊される場合、代わりに墓地のこのカードを除外できる。③：このカードが除外された場合、自分フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターの攻撃力は６００アップする。",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/01/11",
+  "species_id": 27,
+  "starchip": "4"
+}

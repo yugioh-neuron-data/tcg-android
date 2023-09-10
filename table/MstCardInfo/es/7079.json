@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 7079,
+  "card_name": "Ciudad Antigua - Perdición Arco Iris",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Debes tener la cantidad necesaria de cartas \"Bestia de Cristal\" en tu Zona de Magia y Trampas para activar y resolver estos efectos.$N●1+: Esta carta no puede ser destruida por efectos de cartas.$N●2+: Una vez por turno (incluyendo el del adversario), puedes dividir a la mitad el daño de batalla que recibas.$N●3+: Cuando es activada una Carta Mágica/de Trampa: puedes mandar al Cementerio 1 monstruo \"Bestia de Cristal\" que controles; niega la activación y, si lo haces, destrúyela.$N●4+: Una vez por turno, durante tu Main Phase: puedes robar 1 carta.$N●5: Una vez por turno, durante tu Main Phase: puedes seleccionar 1 carta \"Bestia de Cristal\" en tu Zona de Magia y Trampas; Invoca ese objetivo de Modo Especial.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/05/05",
+  "species_id": 24,
+  "starchip": "0"
+}

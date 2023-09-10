@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 1,
+  "card_id": 7584,
+  "card_name": "アルカナフォースⅣ－THE EMPEROR",
+  "card_name_label": "アルカナフォースフォー－ジ・エンペラー",
+  "card_name_search": "あるかなふぉーすふぉーじえんぺらー",
+  "card_pen_effect": "",
+  "card_text": "このカードが召喚・反転召喚・特殊召喚に成功した時、コイントスを１回行い以下の効果を得る。●表：自分フィールド上に表側表示で存在する「アルカナフォース」と名のついたモンスターの攻撃力は５００ポイントアップする。●裏：自分フィールド上に表側表示で存在する「アルカナフォース」と名のついたモンスターの攻撃力は５００ポイントダウンする。",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/02/23",
+  "species_id": 17,
+  "starchip": "4"
+}

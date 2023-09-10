@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 3,
+  "card_id": 13244,
+  "card_name": "Sirenarmada Abisnereida",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "(Efecto Rápido): puedes descartar esta carta, y después seleccionar 1 monstruo de AGUA que controles; destruye otro monstruo de AGUA en tu mano o Campo y, si lo haces, hasta el final de este turno el monstruo seleccionado gana ATK/DEF igual al ATK/DEF original del monstruo destruido. Si esta carta es mandada del Campo al Cementerio: puedes robar 1 carta, y después descartar 1 carta. Sólo puedes usar cada efecto de \"Sirenarmada Abisnereida\" una vez por turno.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/10/19",
+  "species_id": 14,
+  "starchip": "3"
+}

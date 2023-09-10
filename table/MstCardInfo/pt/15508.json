@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 4,
+  "card_id": 15508,
+  "card_name": "Hinezumi Hanabi",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Não pode ser usado como matéria para uma Invocação-Fusão, Sincro, Xyz ou Link. Se este card for Invocado por Invocação-Normal ou Especial: coloque 6 marcadores nele. Uma vez por turno, durante sua Fase Final: conceda o controle deste card ao seu oponente. Uma vez por turno, se o controle deste card com a face para cima com um ou mais marcadores mudar: lance um dado de seis faces, remova tantos marcadores deste card quanto possível, até o resultado e se todos os marcadores deste card forem removidos por este efeito, destrua este card e, se isso acontecer, sofra 2000 de dano.",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/11/05",
+  "species_id": 11,
+  "starchip": "4"
+}

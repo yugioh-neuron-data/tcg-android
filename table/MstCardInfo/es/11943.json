@@ -1,0 +1,23 @@
+{
+  "attack_power": "5000",
+  "attribute_id": 2,
+  "card_id": 11943,
+  "card_name": "Distopía el Abatido",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial (desde tu mano o Cementerio) mandando al Cementerio 4 monstruos de Nivel 1 boca arriba que controles, y no puede ser Invocado de Modo Especial de otra forma. Los otros monstruos que controles no pueden atacar. Durante el Battle Step de cualquier jugador, una vez por batalla que involucre esta carta: puedes desterrar 1 monstruo de Nivel 1 en tu Cementerio; hasta el final del Damage Step, esta carta no es afectada por los efectos de otras cartas, y además no puede ser destruida en batalla.",
+  "defense_power": "5000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/12/08",
+  "species_id": 3,
+  "starchip": "12"
+}

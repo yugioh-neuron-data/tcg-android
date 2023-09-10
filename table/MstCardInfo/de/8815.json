@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 2,
+  "card_id": 8815,
+  "card_name": "Schwarz geflügelter Drache",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Empfänger + 1+ Nicht-Empfänger-Monster$NFalls du Schaden von einem Karteneffekt erhalten würdest, lege stattdessen 1 Schwarzfeder-Zählmarke auf diese Karte. Diese Karte verliert für jede Schwarzfeder-Zählmarke auf ihr 700 ATK. Einmal pro Spielzug: Du kannst alle Schwarzfeder-Zählmarken von dieser Karte entfernen und dann 1 offenes Monster wählen, das dein Gegner kontrolliert; jenes gewählte Ziel verliert 700 ATK für jede entfernte Schwarzfeder-Zählmarke und falls es dies tut, füge deinem Gegner Schaden in Höhe der ATK zu, die durch diesen Effekt verloren wurden.",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/05/06",
+  "species_id": 1,
+  "starchip": "8"
+}

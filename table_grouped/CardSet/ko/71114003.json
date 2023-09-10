@@ -1,0 +1,929 @@
+[
+  {
+    "card_count": 1,
+    "card_id": 12591,
+    "card_image_id": 1,
+    "card_number": "INOV-KR001",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 12592,
+    "card_image_id": 1,
+    "card_number": "INOV-KR002",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 12592,
+    "card_image_id": 1,
+    "card_number": "INOV-KR002",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 12593,
+    "card_image_id": 1,
+    "card_number": "INOV-KR003",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12594,
+    "card_image_id": 1,
+    "card_number": "INOV-KR004",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12595,
+    "card_image_id": 1,
+    "card_number": "INOV-KR005",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12596,
+    "card_image_id": 1,
+    "card_number": "INOV-KR006",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 12597,
+    "card_image_id": 1,
+    "card_number": "INOV-KR007",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12598,
+    "card_image_id": 1,
+    "card_number": "INOV-KR008",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12599,
+    "card_image_id": 1,
+    "card_number": "INOV-KR009",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 12600,
+    "card_image_id": 1,
+    "card_number": "INOV-KR010",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12601,
+    "card_image_id": 1,
+    "card_number": "INOV-KR011",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12602,
+    "card_image_id": 1,
+    "card_number": "INOV-KR012",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12603,
+    "card_image_id": 1,
+    "card_number": "INOV-KR013",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12604,
+    "card_image_id": 1,
+    "card_number": "INOV-KR014",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12605,
+    "card_image_id": 1,
+    "card_number": "INOV-KR015",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 12606,
+    "card_image_id": 1,
+    "card_number": "INOV-KR016",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 12606,
+    "card_image_id": 1,
+    "card_number": "INOV-KR016",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 12607,
+    "card_image_id": 1,
+    "card_number": "INOV-KR017",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12608,
+    "card_image_id": 1,
+    "card_number": "INOV-KR018",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12609,
+    "card_image_id": 1,
+    "card_number": "INOV-KR019",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12610,
+    "card_image_id": 1,
+    "card_number": "INOV-KR020",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12611,
+    "card_image_id": 1,
+    "card_number": "INOV-KR021",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 12611,
+    "card_image_id": 1,
+    "card_number": "INOV-KR021",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 12612,
+    "card_image_id": 1,
+    "card_number": "INOV-KR022",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12613,
+    "card_image_id": 1,
+    "card_number": "INOV-KR023",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12614,
+    "card_image_id": 1,
+    "card_number": "INOV-KR024",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12615,
+    "card_image_id": 1,
+    "card_number": "INOV-KR025",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12616,
+    "card_image_id": 1,
+    "card_number": "INOV-KR026",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 12617,
+    "card_image_id": 1,
+    "card_number": "INOV-KR027",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12618,
+    "card_image_id": 1,
+    "card_number": "INOV-KR028",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12619,
+    "card_image_id": 1,
+    "card_number": "INOV-KR029",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12620,
+    "card_image_id": 1,
+    "card_number": "INOV-KR030",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12621,
+    "card_image_id": 1,
+    "card_number": "INOV-KR031",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12622,
+    "card_image_id": 1,
+    "card_number": "INOV-KR032",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12623,
+    "card_image_id": 1,
+    "card_number": "INOV-KR033",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 12624,
+    "card_image_id": 1,
+    "card_number": "INOV-KR034",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12625,
+    "card_image_id": 1,
+    "card_number": "INOV-KR035",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12626,
+    "card_image_id": 1,
+    "card_number": "INOV-KR036",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 12627,
+    "card_image_id": 1,
+    "card_number": "INOV-KR037",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 12627,
+    "card_image_id": 1,
+    "card_number": "INOV-KR037",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 12627,
+    "card_image_id": 1,
+    "card_number": "INOV-KR037",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 12628,
+    "card_image_id": 1,
+    "card_number": "INOV-KR038",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 12628,
+    "card_image_id": 1,
+    "card_number": "INOV-KR038",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 12628,
+    "card_image_id": 1,
+    "card_number": "INOV-KR038",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 12628,
+    "card_image_id": 1,
+    "card_number": "INOV-KR038",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 7
+  },
+  {
+    "card_count": 1,
+    "card_id": 12629,
+    "card_image_id": 1,
+    "card_number": "INOV-KR039",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 12629,
+    "card_image_id": 1,
+    "card_number": "INOV-KR039",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 12630,
+    "card_image_id": 1,
+    "card_number": "INOV-KR040",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 12631,
+    "card_image_id": 1,
+    "card_number": "INOV-KR041",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 12631,
+    "card_image_id": 1,
+    "card_number": "INOV-KR041",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 12631,
+    "card_image_id": 1,
+    "card_number": "INOV-KR041",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 12632,
+    "card_image_id": 1,
+    "card_number": "INOV-KR042",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 12633,
+    "card_image_id": 1,
+    "card_number": "INOV-KR043",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 12633,
+    "card_image_id": 1,
+    "card_number": "INOV-KR043",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 12634,
+    "card_image_id": 1,
+    "card_number": "INOV-KR044",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 12634,
+    "card_image_id": 1,
+    "card_number": "INOV-KR044",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 12635,
+    "card_image_id": 1,
+    "card_number": "INOV-KR045",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 12636,
+    "card_image_id": 1,
+    "card_number": "INOV-KR046",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 12636,
+    "card_image_id": 1,
+    "card_number": "INOV-KR046",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 12636,
+    "card_image_id": 1,
+    "card_number": "INOV-KR046",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 12637,
+    "card_image_id": 1,
+    "card_number": "INOV-KR047",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 12637,
+    "card_image_id": 1,
+    "card_number": "INOV-KR047",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 12638,
+    "card_image_id": 1,
+    "card_number": "INOV-KR048",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 12638,
+    "card_image_id": 1,
+    "card_number": "INOV-KR048",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 12639,
+    "card_image_id": 1,
+    "card_number": "INOV-KR049",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 12639,
+    "card_image_id": 1,
+    "card_number": "INOV-KR049",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 12639,
+    "card_image_id": 1,
+    "card_number": "INOV-KR049",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 12640,
+    "card_image_id": 1,
+    "card_number": "INOV-KR050",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 12641,
+    "card_image_id": 1,
+    "card_number": "INOV-KR051",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 12641,
+    "card_image_id": 1,
+    "card_number": "INOV-KR051",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 12641,
+    "card_image_id": 1,
+    "card_number": "INOV-KR051",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 12642,
+    "card_image_id": 1,
+    "card_number": "INOV-KR052",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 12643,
+    "card_image_id": 1,
+    "card_number": "INOV-KR053",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12644,
+    "card_image_id": 1,
+    "card_number": "INOV-KR054",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 12645,
+    "card_image_id": 1,
+    "card_number": "INOV-KR055",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12646,
+    "card_image_id": 1,
+    "card_number": "INOV-KR056",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 12647,
+    "card_image_id": 1,
+    "card_number": "INOV-KR057",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12648,
+    "card_image_id": 1,
+    "card_number": "INOV-KR058",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12649,
+    "card_image_id": 1,
+    "card_number": "INOV-KR059",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 12650,
+    "card_image_id": 1,
+    "card_number": "INOV-KR060",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 12651,
+    "card_image_id": 1,
+    "card_number": "INOV-KR061",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12652,
+    "card_image_id": 1,
+    "card_number": "INOV-KR062",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12653,
+    "card_image_id": 1,
+    "card_number": "INOV-KR063",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12654,
+    "card_image_id": 1,
+    "card_number": "INOV-KR064",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12655,
+    "card_image_id": 1,
+    "card_number": "INOV-KR065",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 12655,
+    "card_image_id": 1,
+    "card_number": "INOV-KR065",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 12656,
+    "card_image_id": 1,
+    "card_number": "INOV-KR066",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12657,
+    "card_image_id": 1,
+    "card_number": "INOV-KR067",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12658,
+    "card_image_id": 1,
+    "card_number": "INOV-KR068",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12659,
+    "card_image_id": 1,
+    "card_number": "INOV-KR069",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12660,
+    "card_image_id": 1,
+    "card_number": "INOV-KR070",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12661,
+    "card_image_id": 1,
+    "card_number": "INOV-KR071",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12662,
+    "card_image_id": 1,
+    "card_number": "INOV-KR072",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12663,
+    "card_image_id": 1,
+    "card_number": "INOV-KR073",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12664,
+    "card_image_id": 1,
+    "card_number": "INOV-KR074",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12665,
+    "card_image_id": 1,
+    "card_number": "INOV-KR075",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12666,
+    "card_image_id": 1,
+    "card_number": "INOV-KR076",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 12667,
+    "card_image_id": 1,
+    "card_number": "INOV-KR077",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 12668,
+    "card_image_id": 1,
+    "card_number": "INOV-KR078",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 12668,
+    "card_image_id": 1,
+    "card_number": "INOV-KR078",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 12669,
+    "card_image_id": 1,
+    "card_number": "INOV-KR079",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12670,
+    "card_image_id": 1,
+    "card_number": "INOV-KR080",
+    "language": "ko",
+    "pack_id": "71114003",
+    "rarity_id": 1
+  }
+]

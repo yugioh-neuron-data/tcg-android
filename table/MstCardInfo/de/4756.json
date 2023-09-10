@@ -1,0 +1,23 @@
+{
+  "attack_power": "2100",
+  "attribute_id": 6,
+  "card_id": 4756,
+  "card_name": "Schimäre das fliegende Sagenungeheuer",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "„Gazelle, König der mythischen Bestien“ + „Berfomet“$N(Diese Karte wird immer als eine „Phantomungeheuer“-Karte behandelt.)$NWenn diese Karte zerstört wird: Du kannst 1 „Berfomet“ oder 1 „Gazelle, König der mythischen Bestien“ in deinem Friedhof wählen; beschwöre das gewählte Ziel als Spezialbeschwörung.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/02/11",
+  "species_id": 11,
+  "starchip": "6"
+}

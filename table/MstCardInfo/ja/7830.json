@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 1,
+  "card_id": 7830,
+  "card_name": "ワーム・ホープ",
+  "card_name_label": "ワーム・ホープ",
+  "card_name_search": "わーむほーぷ",
+  "card_pen_effect": "",
+  "card_text": "リバース：このカードが相手モンスターの攻撃によってリバースした場合、デッキからカードを１枚ドローする。また、このカードがフィールド上から墓地へ送られた時、自分は手札を１枚選んで墓地へ送る。",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 24,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/06/24",
+  "species_id": 20,
+  "starchip": "1"
+}

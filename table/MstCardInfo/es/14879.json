@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 14879,
+  "card_name": "Saga de los Antiguos Guerreros - Defensa de Changban",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si tu monstruo \"Antiguos Guerreros\" batalla, tu adversario no puede activar ninguna Carta Mágica/de Trampa hasta el final del Damage Step. Sólo puedes usar 1 de los siguientes efectos de \"Saga de los Antiguos Guerreros - Defensa de Changban\" por turno, y sólo una vez ese turno.$N●Al comienzo de la Battle Phase de tu adversario: puedes mandar al Cementerio esta carta boca arriba en tu Zona de Magia y Trampas; este turno, los monstruos que controla tu adversario no pueden seleccionar a monstruos \"Antiguos Guerreros\" para ataques.$N●Cuando un monstruo del adversario declara un ataque: puedes desterrar esta carta en tu Cementerio; Invoca de Modo Especial, desde tu Deck, 1 monstruo \"Antiguos Guerreros\".",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/01/30",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 2,
+  "card_id": 12394,
+  "card_name": "Res Fantasma",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Una vez por turno: puedes lanzar un dado de seis caras. Hasta el final de este turno, aumenta la Escala del Péndulo de esta carta en ese número (máx. 10).",
+  "card_text": "El Fantasma de la Cena de Navidad.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 25,
+  "pen_scale_l": "4",
+  "pen_scale_r": "4",
+  "sales_at": "2017/05/04",
+  "species_id": 11,
+  "starchip": "7"
+}

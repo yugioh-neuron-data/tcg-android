@@ -1,0 +1,23 @@
+{
+  "attack_power": "1900",
+  "attribute_id": 2,
+  "card_id": 7563,
+  "card_name": "ダーク・パーシアス",
+  "card_name_label": "ダーク・パーシアス",
+  "card_name_search": "だーくぱーしあす",
+  "card_pen_effect": "",
+  "card_text": "このカードが戦闘によって相手モンスターを破壊した場合、自分の墓地に存在する闇属性モンスター１体をゲームから除外する事で、自分のデッキからカードを１枚ドローする。このカードの攻撃力は、自分の墓地に存在する闇属性モンスターの数×１００ポイントアップする。",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/09/13",
+  "species_id": 17,
+  "starchip": "5"
+}

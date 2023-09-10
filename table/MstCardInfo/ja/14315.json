@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14315,
+  "card_name": "モルトシュラーク",
+  "card_name_label": "モルトシュラーク",
+  "card_name_search": "もるとしゅらーく",
+  "card_pen_effect": "",
+  "card_text": "自分フィールドの通常召喚されたモンスターにのみ装備可能。①：装備モンスターは特殊召喚された相手フィールドのモンスターが発動した効果を受けない。②：装備モンスターが特殊召喚された相手モンスターと戦闘を行うダメージ計算時に発動する。その相手モンスターの攻撃力・守備力はそのダメージ計算時のみ、装備モンスターの元々の攻撃力分ダウンする。",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/01/12",
+  "species_id": 24,
+  "starchip": "0"
+}

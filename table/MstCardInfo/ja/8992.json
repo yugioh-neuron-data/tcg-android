@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 8992,
+  "card_name": "召喚の呪詛",
+  "card_name_label": "しょうかんのじゅそ",
+  "card_name_search": "しょうかんのじゅそ",
+  "card_pen_effect": "",
+  "card_text": "このカードのコントローラーは自分のエンドフェイズ毎に５００ライフポイントを払う。または、５００ライフポイント払わずにこのカードを破壊する。このカードがフィールド上に存在する場合にモンスターが特殊召喚に成功した時、そのモンスターのコントローラーは手札を１枚選択してゲームから除外する。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/04/17",
+  "species_id": 24,
+  "starchip": "0"
+}

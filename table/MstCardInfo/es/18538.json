@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 18538,
+  "card_name": "¡REFUERZO!",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "(Esta carta se trata siempre como una carta \"AS-Rescate\").$NSelecciona 1 monstruo \"AS-Rescate\" que controles; por el resto de este turno, ese monstruo que controlas gana 1500 ATK/DEF, no es afectado por los efectos de monstruos de tu adversario y la próxima vez que fuera a ser destruido en batalla, no es destruido. Puedes desterrar esta carta en tu Cementerio, y después selecciona 1 Mágica \"AS-Rescate\" en tu Cementerio; Coloca esa carta. Sólo puedes usar este efecto de \"¡REFUERZO!\" una vez por turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/05/04",
+  "species_id": 25,
+  "starchip": "0"
+}

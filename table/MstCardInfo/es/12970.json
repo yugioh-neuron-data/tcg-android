@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 12970,
+  "card_name": "Pacifis, la Ciudad Fantasma",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "(El nombre de esta carta se trata siempre como \"Umi\")$NNo puedes Invocar Monstruos de Efecto de Modo Normal o Especial el turno en el que activas cualquiera de los efectos de esta carta (aún si esta carta deja el Campo). Una vez por turno, si Invocaste de Modo Normal o Especial exactamente 1 Monstruo Normal (y ninguna otra carta): añade a tu mano 1 carta \"Fantasma Espiral\" en tu Deck. Si tu adversario activa una carta o efecto (excepto durante el Damage Step) y tú no controlas Fichas: puedes Invocar de Modo Especial 1 \"Ficha Fantasma Espiral\" (Tipo Wyrm/AGUA/Nivel 8/ATK 2000/DEF 2000).",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/05/04",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 14276,
+  "card_name": "Handigalop",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Ne peut pas attaquer directement. Gagne une ATK égale à la différence entre vos LP et ceux de votre adversaire. Si vos LP sont supérieurs à ceux de votre adversaire, vous recevez les dommages de combat que votre adversaire aurait dû recevoir des combats impliquant cette carte attaquante à la place.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/05/02",
+  "species_id": 11,
+  "starchip": "1"
+}

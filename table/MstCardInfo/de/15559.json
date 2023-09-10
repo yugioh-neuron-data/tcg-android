@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 15559,
+  "card_name": "Eins oder acht",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls du weniger LP hast als dein Gegner: Zeige die oberste Karte deines Decks vor und falls ihre Stufe 1 oder 8 ist, füge sie deiner Hand hinzu oder beschwöre sie als Spezialbeschwörung. Andernfalls kann dein Gegner 1 dieser Effekte ausführen.$N●Die LP des Spielers, der diese Karte aktiviert hat, werden zu 1000.$N●Der Gegner des Spielers, der diese Karte aktiviert hat, erhält LP, sodass seine LP zu 8000 werden.$NDu kannst nur 1 „Eins oder acht“ pro Spielzug aktivieren.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/11/05",
+  "species_id": 25,
+  "starchip": "0"
+}

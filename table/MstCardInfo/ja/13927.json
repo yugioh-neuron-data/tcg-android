@@ -1,0 +1,23 @@
+{
+  "attack_power": "2300",
+  "attribute_id": 4,
+  "card_id": 13927,
+  "card_name": "転生炎獣ヒートライオ",
+  "card_name_label": "サラマングレイトヒートライオ",
+  "card_name_search": "さらまんぐれいとひーとらいお",
+  "card_pen_effect": "",
+  "card_text": "炎属性の効果モンスター２体以上$N①：このカードがL召喚した場合、相手の魔法＆罠ゾーンのカード１枚を対象として発動できる。そのカードをデッキに戻す。$N②：このカードが「転生炎獣ヒートライオ」を素材としてL召喚されている場合、１ターンに１度、フィールドの表側表示モンスター１体と、自分の墓地のモンスター１体を対象として発動できる。対象のフィールドのモンスターの攻撃力はターン終了時まで、対象の墓地のモンスターの攻撃力と同じになる。",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "813",
+  "linkno": "3",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/07/14",
+  "species_id": 27,
+  "starchip": ""
+}

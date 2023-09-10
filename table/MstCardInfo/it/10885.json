@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 1,
+  "card_id": 10885,
+  "card_name": "Minerva, Fanciulla Fedele della Luce",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Quando questa carta viene Evocata Normalmente: puoi aggiungere dal tuo Deck alla tua mano 1 mostro LUCE di Tipo Drago con Livello pari o inferiore al numero totale di mostri \"Fedele della Luce\" con nomi diversi nel tuo Cimitero. Se questa carta viene mandata dalla mano o Deck al Cimitero: manda la prima carta del tuo Deck al Cimitero. Durante ogni tua End Phase: manda le prime 2 carte del tuo Deck al Cimitero.",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/06/26",
+  "species_id": 18,
+  "starchip": "3"
+}

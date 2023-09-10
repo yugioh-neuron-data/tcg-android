@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 4950,
+  "card_name": "Glücksspiel",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Du kannst diese Karte nur aktivieren, wenn die Hand deines Gegners 6 oder mehr und deine Hand 2 oder weniger Karten enthält. Wirf eine Münze und wähle Kopf oder Zahl. Wenn du richtig vorausgesagt hast, ziehe, bis deine Hand 5 Karten enthält. Wenn du falsch vorausgesagt hast, überspringe deinen nächsten Spielzug.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/10/20",
+  "species_id": 25,
+  "starchip": "0"
+}

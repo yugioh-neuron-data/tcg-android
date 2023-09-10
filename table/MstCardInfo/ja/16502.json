@@ -1,0 +1,23 @@
+{
+  "attack_power": "2900",
+  "attribute_id": 3,
+  "card_id": 16502,
+  "card_name": "ふわんだりぃず×すのーる",
+  "card_name_label": "ふわんだりぃず×すのーる",
+  "card_name_search": "ふわんだりぃずすのーる",
+  "card_pen_effect": "",
+  "card_text": "①：アドバンス召喚したこのカードが存在する場合、１ターンに１度、発動できる。このターン自分は通常召喚を３回まで行う事ができる。②：アドバンス召喚したこのカードがモンスターゾーンに存在する限り、自分のモンスターが守備表示モンスターを攻撃した場合、その守備力を攻撃力が超えた分だけ相手に戦闘ダメージを与える。③：相手ターンに１度、手札を１枚除外して発動できる。相手フィールドの特殊召喚されたモンスターを全て裏側守備表示にする。",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/07/17",
+  "species_id": 16,
+  "starchip": "10"
+}

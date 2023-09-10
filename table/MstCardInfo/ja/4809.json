@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 4809,
+  "card_name": "闇竜族の爪",
+  "card_name_label": "やみりゅうぞくのつめ",
+  "card_name_search": "やみりゅうぞくのつめ",
+  "card_pen_effect": "",
+  "card_text": "闇属性モンスターにのみ装備可能。このカード名の②の効果は１ターンに１度しか使用できない。①：装備モンスターの攻撃力は６００アップし、相手の効果では破壊されない。②：装備モンスターが戦闘で破壊され墓地へ送られた事でこのカードが墓地へ送られた場合に発動できる。そのモンスターを自分フィールドに特殊召喚し、このカードを装備する。この効果で装備されたこのカードは、フィールドから離れた場合に除外される。",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/06/11",
+  "species_id": 24,
+  "starchip": "0"
+}

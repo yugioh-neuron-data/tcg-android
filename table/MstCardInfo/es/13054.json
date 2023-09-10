@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 2,
+  "card_id": 13054,
+  "card_name": "Rey Supremo Dragón de Ojos Anómalos",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Puedes Sacrificar 1 monstruo \"Rey Supremo Dragón\"; destruye esta carta y, si lo haces, añade a tu mano 1 Monstruo de Péndulo con 1500 ATK o menos en tu Deck.",
+  "card_text": "Puedes Sacrificar 2 monstruos \"Rey Supremo Dragón\"; Invoca esta carta de Modo Especial desde tu mano. Si tu Monstruo de Péndulo batalla con un monstruo de tu adversario, cualquier daño de batalla que inflija a tu adversario se duplica. Durante la Battle Phase (Efecto Rápido): puedes Sacrificar esta carta; Invoca de Modo Especial, desde tu Deck Extra, hasta 2 Monstruos de Péndulo \"Rey Supremo Dragón\" y/o \"Rey Supremo Puerta\" boca arriba en Posición de Defensa, excepto \"Rey Supremo Dragón de Ojos Anómalos\".",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "4",
+  "pen_scale_r": "4",
+  "sales_at": "2017/08/03",
+  "species_id": 1,
+  "starchip": "8"
+}

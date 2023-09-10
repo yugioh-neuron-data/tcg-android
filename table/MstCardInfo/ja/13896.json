@@ -1,0 +1,23 @@
+{
+  "attack_power": "2600",
+  "attribute_id": 5,
+  "card_id": 13896,
+  "card_name": "ダイナレスラー・パンクラトプス",
+  "card_name_label": "ダイナレスラー・パンクラトプス",
+  "card_name_search": "だいなれすらーぱんくらとぷす",
+  "card_pen_effect": "",
+  "card_text": "このカード名の、①の方法による特殊召喚は１ターンに１度しかできず、②の効果は１ターンに１度しか使用できない。①：相手フィールドのモンスターの数が自分フィールドのモンスターより多い場合、このカードは手札から特殊召喚できる。②：自分フィールドの「ダイナレスラー」モンスター１体をリリースし、相手フィールドのカード１枚を対象として発動できる。そのカードを破壊する。この効果は相手ターンでも発動できる。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/07/14",
+  "species_id": 9,
+  "starchip": "7"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15754,
+  "card_name": "Vara del Desespero del Archidemonio",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Sólo puedes equipar esta carta a un monstruo que controles. Durante tu Main Phase: hasta el final de este turno puedes hacer que todos los monstruos que controla tu adversario en este momento pierdan ATK igual a la mitad del ATK del monstruo equipado (aun si esta carta deja el Campo). Si esta carta es mandada al Cementerio mientras está equipada a un monstruo: puedes pagar 1000 LP; devuelve esta carta a tu mano. Sólo puedes usar cada efecto de \"Vara del Desespero del Archidemonio\" una vez por turno.",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/02/04",
+  "species_id": 24,
+  "starchip": "0"
+}

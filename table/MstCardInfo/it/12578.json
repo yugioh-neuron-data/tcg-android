@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 12578,
+  "card_name": "Campo Magnetico",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se controlli un mostro TERRA Roccia di Livello 4 o inferiore: puoi scegliere come bersaglio 1 mostro \"Guerriero Magnetico\" di Livello 4 o inferiore nel tuo Cimitero; Evocalo Specialmente. Puoi utilizzare questo effetto di \"Campo Magnetico\" una sola volta per turno. Una volta per turno, alla fine del Damage Step, quando un mostro TERRA Roccia che controlli ha combattuto con un mostro dell'avversario, ma il mostro dell'avversario non è stato distrutto in battaglia: puoi far ritornare quel mostro dell'avversario nella mano.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/10/20",
+  "species_id": 24,
+  "starchip": "0"
+}

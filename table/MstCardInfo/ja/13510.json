@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 2,
+  "card_id": 13510,
+  "card_name": "ダブルバイト・ドラゴン",
+  "card_name_label": "ダブルバイト・ドラゴン",
+  "card_name_search": "だぶるばいとどらごん",
+  "card_pen_effect": "",
+  "card_text": "リンクモンスター２体$N①：このカードの攻撃力は、このカードのリンク素材としたモンスターのリンクマーカーの合計×３００アップする。②：このカードはモンスターゾーンに存在する限り、リンクモンスター以外のモンスターの効果を受けず、リンクモンスター以外のモンスターとの戦闘では破壊されない。",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "82",
+  "linkno": "2",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/12/23",
+  "species_id": 27,
+  "starchip": ""
+}

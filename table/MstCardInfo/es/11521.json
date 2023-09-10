@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 4,
+  "card_id": 11521,
+  "card_name": "Artistamigo Bufandaleón",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Cuando un Monstruo de Péndulo que controles es destruido en batalla: puedes Invocar esta carta de Modo Especial desde tu Zona de Péndulo.",
+  "card_text": "Una vez por turno, si un Monstruo de Péndulo que controlas destruye un monstruo de tu adversario en batalla, después del cálculo de daño: puedes hacer que ese monstruo que controlas gane 200 ATK hasta el final de la Battle Phase y, si lo haces, ese monstruo puede hacer un segundo ataque inmediatamente después.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2015/01/15",
+  "species_id": 11,
+  "starchip": "3"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14928,
+  "card_name": "Acción Sonriente",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando esta carta es activada: cada jugador puede desterrar, boca abajo, hasta 5 Mágicas en su Cementerio. Si un monstruo declara un ataque: el jugador atacado activa este efecto;$N●Tú (el jugador atacado) puedes añadir a tu mano 1 de tus cartas desterradas por efecto de esta carta, al azar, y después puedes descartarla y negar ese ataque, pero si no descartas esa carta añadida, cualquier daño de batalla que recibas este turno se duplica (aun si esta carta deja el Campo).",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/01/16",
+  "species_id": 24,
+  "starchip": "0"
+}

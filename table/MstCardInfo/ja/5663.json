@@ -1,0 +1,23 @@
+{
+  "attack_power": "200",
+  "attribute_id": 1,
+  "card_id": 5663,
+  "card_name": "魔導雑貨商人",
+  "card_name_label": "まどうざっかしょうにん",
+  "card_name_search": "まどうざっかしょうにん",
+  "card_pen_effect": "",
+  "card_text": "①：このカードがリバースした場合に発動する。魔法・罠カードが出るまで自分のデッキの上からカードをめくり、その魔法・罠カードを手札に加える。残りのめくったカードは全て墓地へ送る。",
+  "defense_power": "700",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 24,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/09/19",
+  "species_id": 10,
+  "starchip": "1"
+}

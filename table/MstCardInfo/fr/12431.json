@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 2,
+  "card_id": 12431,
+  "card_name": "Magicien Sombre Toon",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Ne peut pas attaquer le tour où elle est Invoquée. Tant que vous contrôlez \"Monde des Toons\" et que votre adversaire ne contrôle aucun monstre Toon, cette carte peut attaquer directement votre adversaire. Une fois par tour : vous pouvez défausser 1 carte \"Toon\", puis activez 1 de ces effets ;$N●Invoquez Spécialement 1 monstre Toon (\"Magicien Sombre Toon\" exclu) depuis votre Deck, en ignorant ses conditions d'Invocation.$N●Ajoutez 1 Magie/Piège \"Toon\" depuis votre Deck à votre main.",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 6,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/08/04",
+  "species_id": 18,
+  "starchip": "7"
+}

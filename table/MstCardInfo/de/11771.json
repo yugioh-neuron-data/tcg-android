@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11771,
+  "card_name": "Mondspiegelschild",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls das ausgerüstete Monster gegen ein Monster deines Gegners kämpft, während der Schadensberechnung: Die ATK/DEF des ausgerüsteten Monsters werden nur während der Schadensberechnung gleich den ATK oder DEF (was davon höher ist) des kämpfenden Monsters eines Gegners +100. Falls diese offene Karte vom Spielfeld auf den Friedhof gelegt wird: Zahle 500 LP; lege diese Karte auf oder unter dein Deck.",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/05/14",
+  "species_id": 24,
+  "starchip": "0"
+}

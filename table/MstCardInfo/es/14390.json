@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 14390,
+  "card_name": "Kingyo Sukui",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Puedes seleccionar 1 monstruo en el Cementerio de tu adversario; excava la carta de la parte superior de tu Deck, y si es un monstruo con el mismo Atributo que el objetivo, añádelo a tu mano y, si lo haces, baraja el objetivo al Deck. De otro modo, manda la carta excavada al Cementerio, y además destruye esta carta. Sólo puedes usar este efecto de \"Kingyo Sukui\" una vez por turno.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/03/19",
+  "species_id": 25,
+  "starchip": "0"
+}

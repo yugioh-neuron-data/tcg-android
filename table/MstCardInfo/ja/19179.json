@@ -1,0 +1,23 @@
+{
+  "attack_power": "2300",
+  "attribute_id": 1,
+  "card_id": 19179,
+  "card_name": "マナドゥム・トリロスークタ",
+  "card_name_label": "マナドゥム・トリロスークタ",
+  "card_name_search": "まなどぅむとりろすーくた",
+  "card_pen_effect": "",
+  "card_text": "チューナー＋チューナー以外のモンスター１体以上$Nこのカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。$N①：このカードがS召喚した場合、自分の墓地のレベル２チューナー１体を対象として発動できる。そのモンスターを特殊召喚する。この効果で特殊召喚したモンスターの効果は無効化される。$N②：自分フィールドのチューナーを任意の数だけ対象として発動できる。そのモンスターのレベルを２にする。このターン、自分はSモンスターしかEXデッキから特殊召喚できない。",
+  "defense_power": "1300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 19,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/07/22",
+  "species_id": 17,
+  "starchip": "6"
+}

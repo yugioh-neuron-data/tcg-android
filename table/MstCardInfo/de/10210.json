@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 10210,
+  "card_name": "Glückstreffer",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Einmal pro Spielzug, wenn ein Monster deines Gegners einen Angriff deklariert: Du kannst 3-mal eine Münze werfen. Falls das Ergebnis 3-mal Kopf ist, ziehe 3 Karten, falls das Ergebnis 3-mal Zahl ist, zerstöre diese Karte. Falls diese offene Karte auf dem Spielfeld zerstört wird: Du verlierst 6000 Life Points.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/08/23",
+  "species_id": 25,
+  "starchip": "0"
+}

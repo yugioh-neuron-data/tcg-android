@@ -1,0 +1,23 @@
+{
+  "attack_power": "4000",
+  "attribute_id": 1,
+  "card_id": 7171,
+  "card_name": "Dragão Arco-Íris",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "(Este card deve ser sempre considerado como um card \"Cristalino(a) Definitivo(a)\".)$NNão pode ser Invocado por Invocação-Normal/Baixado. Deve ser Invocado por Invocação-Especial (da sua mão) ao ter 7 cards \"Fera Cristalina\" com nomes diferentes no seu campo e/ou Cemitério. Este card não pode ativar os seguintes efeitos no turno em que for Invocado por Invocação-Especial. (Efeito Rápido): você pode enviar para o Cemitério todos os monstros \"Fera Cristalina\" que você controla; este card ganha 1000 de ATK para cada monstro enviado para o Cemitério. Você pode banir todos os monstros \"Fera Cristalina\" do seu Cemitério; embaralhe no Deck todos os cards no campo.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/02/22",
+  "species_id": 1,
+  "starchip": "10"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 5,
+  "card_id": 11825,
+  "card_name": "Rapitrice Magica",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Ogni volta che viene attivata una Carta Magia, metti 1 Segnalino Magia su questa carta quando quella Magia si risolve. Una volta per turno: puoi rimuovere 3 Segnalini Magia da questa carta; aggiungi 1 Mostro Pendulum dal tuo Deck alla tua mano.",
+  "card_text": "Ogni volta che viene attivata una Carta Magia, metti 1 Segnalino Magia su questa carta quando quella Magia si risolve. Guadagna 100 ATK per ogni Segnalino Magia su di essa. Una volta per turno: puoi rimuovere 3 Segnalini Magia da questa carta; aggiungi 1 mostro Incantatore di Livello 1 dal tuo Deck alla tua mano.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2015/08/06",
+  "species_id": 18,
+  "starchip": "4"
+}

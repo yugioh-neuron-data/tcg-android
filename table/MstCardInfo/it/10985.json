@@ -1,0 +1,23 @@
+{
+  "attack_power": "400",
+  "attribute_id": 3,
+  "card_id": 10985,
+  "card_name": "Mikoarancia Silvana",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Quando questa carta che controlli viene distrutta da una carta del tuo avversario (in battaglia o dall'effetto di una carta) e mandata al tuo Cimitero: puoi dissotterrare la prima carta del tuo Deck e, se è un mostro di Tipo Pianta, mandarla al Cimitero. Altrimenti, mettila in fondo al tuo Deck. Se questa carta viene dissotterrata dal Deck e mandata al Cimitero dall'effetto di una carta: tutti i mostri di Tipo Pianta che controlli attualmente guadagnano 300 ATK e DEF.",
+  "defense_power": "1100",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/01/23",
+  "species_id": 13,
+  "starchip": "3"
+}

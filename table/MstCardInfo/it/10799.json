@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10799,
+  "card_name": "Scia del Serpente Sacro",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Puoi attivare solo 1 \"Scia del Serpente Sacro\" per turno. Se controlli 2 o più tipi diversi di mostri (Rituale, Fusione, Synchro o Xyz): attiva 1 o più effetti, a seconda del numero di tipi diversi che controlli, e risolvili in ordine;$N●2 o più: Scegli come bersaglio 1 mostro nel tuo Cimitero o 1 dei tuoi mostri banditi; aggiungi quel bersaglio alla tua mano.$N●3 o più: Scegli come bersaglio 1 Carta Trappola nel tuo Cimitero; aggiungi quel bersaglio alla tua mano.$N●4: Scegli come bersaglio 1 Carta Magia nel tuo Cimitero, eccetto \"Scia del Serpente Sacro\"; aggiungi quel bersaglio alla tua mano.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/11/07",
+  "species_id": 24,
+  "starchip": "0"
+}

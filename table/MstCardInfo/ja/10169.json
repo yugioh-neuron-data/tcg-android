@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 5,
+  "card_id": 10169,
+  "card_name": "針三千本",
+  "card_name_label": "スリーサウザンド・ニードル",
+  "card_name_search": "すりーさうざんどにーどる",
+  "card_pen_effect": "",
+  "card_text": "守備表示のこのカードが攻撃を受けた場合、このカードの守備力が相手攻撃モンスターの攻撃力を超えていれば、ダメージステップ終了時にその攻撃モンスターを破壊する。",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/04/14",
+  "species_id": 11,
+  "starchip": "8"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 5,
+  "card_id": 9096,
+  "card_name": "カラクリ兵 弐参六",
+  "card_name_label": "カラクリへい　ニサム",
+  "card_name_search": "からくりへいにさむ",
+  "card_pen_effect": "",
+  "card_text": "このカードは攻撃可能な場合には攻撃しなければならない。フィールド上に表側攻撃表示で存在するこのカードが攻撃対象に選択された時、このカードの表示形式を守備表示にする。このカードが戦闘によって破壊され墓地へ送られた時、自分のデッキからレベル４以下の「カラクリ」と名のついたモンスター１体を表側攻撃表示で特殊召喚する事ができる。",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/07/17",
+  "species_id": 7,
+  "starchip": "4"
+}

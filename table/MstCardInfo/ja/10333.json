@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 1,
+  "card_id": 10333,
+  "card_name": "フォトン・パイレーツ",
+  "card_name_label": "フォトン・パイレーツ",
+  "card_name_search": "ふぉとんぱいれーつ",
+  "card_pen_effect": "",
+  "card_text": "自分のメインフェイズ時に自分の墓地の「フォトン」と名のついたモンスター１体をゲームから除外して発動できる。このカードの攻撃力はエンドフェイズ時まで１０００ポイントアップする。「フォトン・パイレーツ」の効果は１ターンに２度まで使用できる。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/09/15",
+  "species_id": 7,
+  "starchip": "3"
+}

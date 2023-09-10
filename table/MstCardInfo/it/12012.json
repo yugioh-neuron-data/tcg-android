@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 12012,
+  "card_name": "D/D/D Cambio di Contratto",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Quando un mostro dell'avversario dichiara un attacco: attiva 1 di questi effetti;$N●Bandisci 1 mostro \"D/D/D\" dal tuo Cimitero e, se lo fai, il mostro attaccante perde ATK pari all'ATK del mostro bandito.$N●Aggiungi 1 Mostro Pendulum \"D/D\" di Livello 4 o inferiore dal tuo Deck alla tua mano.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/11/05",
+  "species_id": 25,
+  "starchip": "0"
+}

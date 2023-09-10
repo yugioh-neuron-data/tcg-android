@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 5,
+  "card_id": 9318,
+  "card_name": "カラクリ守衛 参壱参",
+  "card_name_label": "カラクリしゅえい　サイザン",
+  "card_name_search": "からくりしゅえいさいざん",
+  "card_pen_effect": "",
+  "card_text": "このカードは攻撃可能な場合には攻撃しなければならない。フィールド上に表側表示で存在するこのカードが攻撃対象に選択された時、このカードの表示形式を変更する。このカードの戦闘によって自分が戦闘ダメージを受けた時、自分フィールド上に表側表示で存在する「カラクリ」と名のついた全てのモンスターの攻撃力・守備力は、エンドフェイズ時まで８００ポイントアップする。また、このカードはフィールド上に表側攻撃表示で存在する限り戦闘では破壊されない。",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/11/13",
+  "species_id": 7,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 5,
+  "card_id": 12684,
+  "card_name": "Guerrier Némésis Subterreur",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durant le tour de chaque joueur : vous pouvez envoyer 1 monstre \"Subterreur\" depuis votre Deck au Cimetière ; Sacrifiez cette carte et min. 1 autre monstre afin que la somme des Niveaux d'origine Sacrifiés soit égale ou supérieure au Niveau du monstre \"Subterreur\" dans le Cimetière, et si vous le faites, Invoquez Spécialement le monstre en Position de Défense face recto ou face verso. Si un monstre \"Subterreur Béhémoth\" est retourné face recto tant que cette carte est dans votre Cimetière : vous pouvez Invoquer Spécialement cette carte. Vous ne pouvez utiliser chaque effet de \"Guerrier Némésis Subterreur\" qu'une fois par tour.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/08/04",
+  "species_id": 15,
+  "starchip": "4"
+}

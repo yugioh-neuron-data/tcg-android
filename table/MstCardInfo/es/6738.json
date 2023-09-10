@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 3,
+  "card_id": 6738,
+  "card_name": "Submarineroid",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Esta carta puede atacar a tu adversario directamente, pero cuando lo hace usando este efecto, el daño de batalla que inflige a tu adversario es el ATK original de esta carta. Al final del Damage Step, si esta carta batalló: puedes cambiar esta carta a Posición de Defensa.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/08/16",
+  "species_id": 7,
+  "starchip": "4"
+}

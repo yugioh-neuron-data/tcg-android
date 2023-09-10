@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 19213,
+  "card_name": "フル・アーマード・エクシーズ",
+  "card_name_label": "フル・アーマード・エクシーズ",
+  "card_name_search": "ふるあーまーどえくしーず",
+  "card_pen_effect": "",
+  "card_text": "①：フィールドにXモンスターが存在する場合に発動できる。Xモンスター１体のX召喚を行う。$N②：墓地のこのカードを除外し、自分フィールドのXモンスター１体を対象として発動できる。そのモンスター以外の、自分のフィールド（表側表示）・墓地のXモンスター１体を以下の効果を持つ装備魔法カード扱いで対象のモンスターに装備する。$N●装備モンスターの攻撃力は、このカードの攻撃力分アップする。$N●装備モンスターが戦闘・効果で破壊される場合、代わりにこのカードを破壊する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/07/22",
+  "species_id": 25,
+  "starchip": "0"
+}

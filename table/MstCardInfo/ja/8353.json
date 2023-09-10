@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 8353,
+  "card_name": "スキル・サクセサー",
+  "card_name_label": "スキル・サクセサー",
+  "card_name_search": "すきるさくせさー",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上のモンスター１体を選択して発動できる。選択したモンスターの攻撃力はエンドフェイズ時まで４００ポイントアップする。また、墓地のこのカードをゲームから除外し、自分フィールド上のモンスター１体を選択して発動できる。選択した自分のモンスターの攻撃力はエンドフェイズ時まで８００ポイントアップする。この効果はこのカードが墓地へ送られたターンには発動できず、自分のターンにのみ発動できる。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/04/18",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 1,
+  "card_id": 8142,
+  "card_name": "エーリアン・キッズ",
+  "card_name_label": "エーリアン・キッズ",
+  "card_name_search": "えーりあんきっず",
+  "card_pen_effect": "",
+  "card_text": "このカードが自分フィールド上に表側表示で存在する限り、相手フィールド上にモンスターが特殊召喚される度に、その時に特殊召喚されたモンスターにAカウンターを１つ置く。Aカウンターが乗ったモンスターは、「エーリアン」と名のついたモンスターと戦闘する場合、Aカウンター１つにつき攻撃力と守備力が３００ポイントダウンする。",
+  "defense_power": "700",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/09/19",
+  "species_id": 20,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 5,
+  "card_id": 13021,
+  "card_name": "Démone Subterreur",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsque votre adversaire active une carte ou un effet (Effet Rapide) : vous pouvez envoyer cette carte depuis votre main ou Terrain au Cimetière, puis ciblez 1 monstre \"Subterreur\" que vous contrôlez ; annulez l'activation, puis changez le monstre ciblé en Position de Défense face verso. Vous pouvez cibler 1 monstre face recto que vous contrôlez ; changez-le en Position de Défense face verso, et si vous le faites, Invoquez Spécialement 1 monstre \"Subterreur\" depuis votre main ou Cimetière en Position de Défense face recto ou face verso. Vous ne pouvez utiliser chaque effet de \"Démone Subterreur\" qu'une fois par tour.",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/05/04",
+  "species_id": 18,
+  "starchip": "1"
+}

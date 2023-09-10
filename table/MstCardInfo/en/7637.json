@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 7637,
+  "card_name": "Hero Blast",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Target 1 \"Elemental HERO\" Normal Monster in your Graveyard; add that target to your hand, then if your opponent controls any monsters with ATK less than or equal to that target's ATK, destroy 1 of them.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/05/13",
+  "species_id": 25,
+  "starchip": "0"
+}

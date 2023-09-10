@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 1,
+  "card_id": 12637,
+  "card_name": "アロマセラフィ－ローズマリー",
+  "card_name_label": "アロマセラフィ－ローズマリー",
+  "card_name_search": "あろませらふぃろーずまりー",
+  "card_pen_effect": "",
+  "card_text": "チューナー＋チューナー以外のモンスター１体以上$N①：自分のLPが相手より多く、このカードがモンスターゾーンに存在する限り、自分フィールドの植物族モンスターの攻撃力・守備力は５００アップする。②：１ターンに１度、自分のLPが回復した場合、相手フィールドの表側表示のカード１枚を対象として発動する。そのカードの効果をターン終了時まで無効にする。",
+  "defense_power": "900",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/07/09",
+  "species_id": 13,
+  "starchip": "5"
+}

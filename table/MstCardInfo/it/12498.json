@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 4,
+  "card_id": 12498,
+  "card_name": "Ragazza Maga Mela",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Una volta per turno, se questa carta viene scelta come bersaglio per un attacco: puoi Evocare Specialmente 1 mostro di Tipo Incantatore di Livello 5 o inferiore dalla tua mano, poi cambiare il bersaglio dell'attacco su di esso e, se lo fai, l'ATK del mostro attaccante diventa la meta del suo ATK attuale. Se questa carta viene distrutta in battaglia o dall'effetto di una carta: puoi scegliere come bersaglio fino a 3 altri mostri \"Ragazza Maga\" con nomi diversi nel tuo Cimitero; aggiungili alla tua mano.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/07/21",
+  "species_id": 18,
+  "starchip": "3"
+}

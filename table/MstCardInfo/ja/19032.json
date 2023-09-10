@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 19032,
+  "card_name": "トーテムポール",
+  "card_name_label": "トーテムポール",
+  "card_name_search": "とーてむぽーる",
+  "card_pen_effect": "",
+  "card_text": "①：自分フィールドの元々の攻撃力が０の岩石族モンスターを相手は効果の対象にできない。$N②：相手モンスターの攻撃宣言時に１度、発動できる。その攻撃を無効にし、このカードにカウンターを１つ置く。$N③：このカードにカウンターが３つ置かれている場合、このカードは墓地へ送られる。$N④：自分の墓地に攻撃力０の岩石族モンスターが３種類以上存在する場合、墓地のこのカードを除外して発動できる。このターン、相手が受ける効果ダメージは倍になる。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/06/10",
+  "species_id": 25,
+  "starchip": "0"
+}

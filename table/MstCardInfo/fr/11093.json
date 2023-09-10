@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11093,
+  "card_name": "Bujintervention",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Ciblez 1 monstre \"Bujin\" sur le Terrain ; le reste de ce tour, appliquez-lui cet effet. Chaque fois qu'il détruit un monstre au combat dont l'ATK actuelle est supérieure ou égale à l'ATK d'origine du monstre ciblé, et l'envoie au Cimetière : bannissez le monstre détruit, et si vous le faites, bannissez tous les monstres du même nom que le monstre détruit avait dans le Cimetière depuis la main, Main Deck, Extra Deck et Cimetière de votre adversaire.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/03/07",
+  "species_id": 24,
+  "starchip": "0"
+}

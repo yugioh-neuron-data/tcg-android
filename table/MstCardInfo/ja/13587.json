@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 13587,
+  "card_name": "屋敷わらし",
+  "card_name_label": "やしきわらし",
+  "card_name_search": "やしきわらし",
+  "card_pen_effect": "",
+  "card_text": "このカード名の効果は１ターンに１度しか使用できない。①：以下のいずれかの効果を含む魔法・罠・モンスターの効果が発動した時、このカードを手札から捨てて発動できる。その発動を無効にする。$N●墓地からカードを手札・デッキ・EXデッキに加える効果$N●墓地からモンスターを特殊召喚する効果$N●墓地からカードを除外する効果",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/01/13",
+  "species_id": 2,
+  "starchip": "3"
+}

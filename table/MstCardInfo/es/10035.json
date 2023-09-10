@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 2,
+  "card_id": 10035,
+  "card_name": "Morpho Maripospía",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Una vez por turno, cuando es cambiada la posición de batalla de uno o más monstruos de tu adversario (excepto durante el Damage Step): puedes seleccionar uno de esos monstruos; éste pierde 1000 ATK y DEF.",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/05/10",
+  "species_id": 15,
+  "starchip": "4"
+}

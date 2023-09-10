@@ -1,0 +1,938 @@
+[
+  {
+    "card_count": 1,
+    "card_id": 4177,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT003",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4317,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT068",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4378,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT004",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 4663,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT069",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 4760,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT008",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4856,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT065",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 4880,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT002",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 4889,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT066",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 4890,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT067",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5091,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT020",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 5130,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT079",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 5168,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT073",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 5263,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT080",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5379,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT005",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5442,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT081",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5453,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT021",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 5488,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT012",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5521,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT006",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 5522,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT007",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5609,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT070",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 5619,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT082",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5624,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT083",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 5736,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT071",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 5823,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT009",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5922,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT010",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5961,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT011",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 6212,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT072",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 6227,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT084",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 6245,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT013",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 6254,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT014",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 6447,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT085",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 6494,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT086",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 6589,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT015",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 6665,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT016",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 6666,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT017",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 6689,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT018",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 6755,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT019",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7125,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT074",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7219,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT075",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7349,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT087",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 7404,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT099",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 7543,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT028",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7559,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT027",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7592,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT022",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 7634,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT076",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7670,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT024",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 7712,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT023",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7804,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT025",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 7832,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT029",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7955,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT031",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7984,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT045",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8165,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT026",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 8236,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT036",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 8275,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT030",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 8335,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT077",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 8548,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT101",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 8564,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT038",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8573,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT039",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 8936,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT032",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8938,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT033",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8949,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT034",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 8956,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT035",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 9013,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT046",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 9022,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT043",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 9087,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT037",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 9359,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT088",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 9360,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT089",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 9485,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT040",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 9549,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT103",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 9623,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT041",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 9637,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT042",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 9695,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT090",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 9696,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT091",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 9813,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT001",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 9815,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT050",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 9817,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT051",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 9852,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT059",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 9861,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT102",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 9906,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT044",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 9973,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT056",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 9991,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT057",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 9994,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT058",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10036,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT047",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10040,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT048",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10077,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT078",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10089,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT092",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10093,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT093",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10099,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT094",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10150,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT100",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 10152,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT049",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10226,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT052",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10229,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT053",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10231,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT054",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10299,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT095",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10378,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT055",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10453,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT104",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 10503,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT060",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10504,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT061",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10505,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT062",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10551,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT096",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10575,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT063",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10618,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT064",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10673,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT098",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10729,
+    "card_image_id": 1,
+    "card_number": "WGRT-IT097",
+    "language": "it",
+    "pack_id": "41113000",
+    "rarity_id": 1
+  }
+]

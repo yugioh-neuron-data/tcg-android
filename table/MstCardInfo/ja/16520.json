@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 5,
+  "card_id": 16520,
+  "card_name": "ニャータリング",
+  "card_name_label": "ニャータリング",
+  "card_name_search": "にゃーたりんぐ",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①の効果は１ターンに１度しか使用できない。①：フィールド魔法カードが発動した場合に発動できる。このカードを手札から特殊召喚する。お互いのフィールドゾーンに表側表示でカードが存在する場合、さらにこのターン、このカードは戦闘・効果では破壊されない。②：このカードがモンスターゾーンに存在する限り、自分ターンの間、相手のフィールドゾーンの表側表示のカードの効果は無効化され、相手ターンの間、自分のフィールドゾーンの表側表示のカードの効果は無効化される。",
+  "defense_power": "1100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/07/17",
+  "species_id": 27,
+  "starchip": "4"
+}

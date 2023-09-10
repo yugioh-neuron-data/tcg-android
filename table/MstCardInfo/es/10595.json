@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 1,
+  "card_id": 10595,
+  "card_name": "Noble Caballero Gwalchavad",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Esta carta se trata como un Monstruo Normal mientras esté boca arriba en el Campo. Mientras esté equipada con una Carta Mágica de Equipo \"Armas Nobles\", esta carta se convierte en un Monstruo de Efecto con este efecto.$N●Puedes seleccionar 1 monstruo \"Noble Caballero\" en tu Cementerio; añádelo a tu mano y, si lo haces, destruye 1 Carta Mágica de Equipo \"Armas Nobles\" que controles. Sólo puedes usar este efecto de \"Noble Caballero Gwalchavad\" una vez por turno.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/05/16",
+  "species_id": 15,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 2,
+  "card_id": 15181,
+  "card_name": "D/D Chien",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Vous pouvez cibler 1 Monstre Fusion, Synchro ou Xyz contrôlé par votre adversaire ; annulez ses effets jusqu'à la fin de ce tour, puis détruisez cette carte. Vous ne pouvez utiliser cet effet de \"D/D Chien\" qu'une fois par tour.",
+  "card_text": "Une fois par tour, si votre adversaire Invoque Spécialement un ou plusieurs Monstres Fusion, Synchro ou Xyz (sauf durant la Damage Step) : vous pouvez cibler 1 de ces monstres ; ce tour, le monstre face recto ne peut pas attaquer, et aussi, ses effets sont annulés.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2020/08/06",
+  "species_id": 3,
+  "starchip": "6"
+}

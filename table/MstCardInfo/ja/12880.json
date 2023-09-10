@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 12880,
+  "card_name": "SPYRAL MISSION－奪還",
+  "card_name_label": "スパイラル　ミッション－だっかん",
+  "card_name_search": "すぱいらるみっしょんだっかん",
+  "card_pen_effect": "",
+  "card_text": "このカードは発動後、３回目の自分エンドフェイズに破壊される。①：１ターンに１度、自分フィールドに「SPYRAL」モンスターが特殊召喚された場合、相手フィールドのモンスター１体を対象として発動できる。そのモンスターのコントロールをエンドフェイズまで得る。この効果でコントロールを得たモンスターは、このターン直接攻撃できない。②：自分フィールドの「SPYRAL」モンスターが戦闘・効果で破壊される場合、その破壊されるモンスター１体の代わりに墓地のこのカードを除外できる。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/09/09",
+  "species_id": 25,
+  "starchip": "0"
+}

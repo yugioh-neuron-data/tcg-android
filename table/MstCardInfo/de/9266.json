@@ -1,0 +1,23 @@
+{
+  "attack_power": "2200",
+  "attribute_id": 6,
+  "card_id": 9266,
+  "card_name": "Meklord-Imperator Skiel",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Diese Karte muss durch ihren eigenen Effekt als Spezialbeschwörung beschworen werden. Wenn ein offenes Monster, das du kontrollierst, durch einen Karteneffekt zerstört und auf den Friedhof gelegt wird (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Andere Monster, die du kontrollierst, können keinen Angriff deklarieren. Einmal pro Spielzug: Du kannst 1 Synchromonster wählen, das dein Gegner kontrolliert; rüste diese Karte mit dem gewählten Ziel aus. Diese Karte erhält ATK in Höhe der Summe der ATK der Monster, mit denen sie durch diesen Effekt ausgerüstet ist. Du kannst 1 Monster, das du kontrollierst und mit dem diese Karte ausgerüstet ist, auf den Friedhof legen; diese Karte kann deinen Gegner in diesem Spielzug direkt angreifen.",
+  "defense_power": "2200",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/05/05",
+  "species_id": 7,
+  "starchip": "1"
+}

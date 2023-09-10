@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 3,
+  "card_id": 11820,
+  "card_name": "Romarin Arômage",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Tant que vos LP sont supérieurs à ceux de votre adversaire, si un monstre Plante que vous contrôlez attaque, votre adversaire ne peut pas activer d'effets de monstre jusqu'à la fin de la Damage Step. Une fois par tour, si vous gagnez des LP : ciblez 1 monstre face recto sur le Terrain ; changez sa position de combat.",
+  "defense_power": "700",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/08/06",
+  "species_id": 13,
+  "starchip": "4"
+}

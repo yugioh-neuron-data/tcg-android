@@ -1,0 +1,23 @@
+{
+  "attack_power": "200",
+  "attribute_id": 3,
+  "card_id": 8570,
+  "card_name": "Défenseur de la Barrière de Glace",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Tant que vous contrôlez un autre monstre \"Barrière de Glace\", les monstres contrôlés par votre adversaire ne peuvent pas déclarer d'attaque si leur ATK est supérieure ou égale à la DEF de cette carte.",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/04/14",
+  "species_id": 14,
+  "starchip": "3"
+}

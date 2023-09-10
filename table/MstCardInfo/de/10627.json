@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 6,
+  "card_id": 10627,
+  "card_name": "Mecha-Phantomungeheuer Coltflügel",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls diese Karte als Spezialbeschwörung beschworen wird: Beschwöre 2 „Mecha-Phantomungeheuer-Spielmarken“ (Maschine/WIND/Stufe 3/ATK 0/DEF 0) als Spezialbeschwörung. Du musst ein anderes „Mecha-Phantomungeheuer“-Monster kontrollieren, um diesen Effekt zu aktivieren und aufzulösen. Die Stufe dieser Karte wird um die gemeinsame Stufe aller „Mecha-Phantomungeheuer-Spielmarken“ erhöht, die du kontrollierst. Solange du eine Spielmarke kontrollierst, kann diese Karte weder durch Kampf noch durch Karteneffekte zerstört werden. Einmal pro Spielzug: Du kannst 2 Spielmarken als Tribut anbieten und dann 1 Karte wählen, die dein Gegner kontrolliert; zerstöre das gewählte Ziel und falls du dies tust, verbanne es.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/08/08",
+  "species_id": 7,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 14535,
+  "card_name": "Vous êtes en Danger !",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Révélez 3 monstres \"Danger !\" de noms différents depuis votre Deck, votre adversaire en prend 1 au hasard pour vous à Invoquer Spécialement, et vous mélangez les cartes restantes dans le Deck. Durant la End Phase, détruisez le monstre Invoqué Spécialement. Vous ne pouvez activer qu'1 \"Vous êtes en Danger !\" par tour.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/05/02",
+  "species_id": 25,
+  "starchip": "0"
+}

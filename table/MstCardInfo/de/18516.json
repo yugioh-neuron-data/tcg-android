@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 18516,
+  "card_name": "Gebrüll der Sta-Brigade",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls du ein Linkmonster kontrollierst: Lege 1 „Sta-Brigade“-Karte von deinem Deck oder Extra Deck auf den Friedhof und wähle dann 1 Effektmonster auf dem Spielfeld; führe den folgenden Effekt aus, basierend auf dem Typ der auf den Friedhof gelegten Karte.$N●Monster: Ändere die ATK des als Ziel gewählten Monsters bis zum Ende dieses Spielzugs zu 0.$N●Zauber: Annulliere bis zum Ende dieses Spielzugs die Effekte jenes Monsters.$N●Falle: Gib jenes Monster auf die Hand zurück.$NDu kannst nur 1 „Gebrüll der Sta-Brigade“ pro Spielzug aktivieren.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/05/04",
+  "species_id": 24,
+  "starchip": "0"
+}

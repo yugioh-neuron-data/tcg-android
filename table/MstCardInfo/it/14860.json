@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14860,
+  "card_name": "Colpo TA.I.",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante il calcolo dei danni, se un tuo mostro combatte con un mostro dell'avversario: l'ATK del tuo mostro che sta combattendo diventa l'ATK di quel mostro dell'avversario, solamente durante quel calcolo dei danni, inoltre il controllore di qualsiasi mostro distrutto in quella battaglia subisce danno pari al suo ATK originale, alla fine del Damage Step. Se un tuo mostro \"@Ignister\" sta per essere distrutto in battaglia, puoi invece bandire questa carta dal tuo Cimitero. Puoi attivare solo 1 \"Colpo TA.I.\" per turno.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "it",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/01/30",
+  "species_id": 24,
+  "starchip": "0"
+}

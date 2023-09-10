@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 6,
+  "card_id": 12861,
+  "card_name": "WW－글라스 벨",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"WW(윈드 위치)－글라스 벨\"의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 일반 소환 / 특수 소환에 성공했을 경우에 발동할 수 있다. 덱에서 \"WW(윈드 위치)－글라스 벨\" 이외의 \"WW(윈드 위치)\" 몬스터 1장을 패에 넣는다. 이 효과의 발동 후, 턴 종료시까지 자신은 바람 속성 몬스터밖에 특수 소환할 수 없다.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/01/20",
+  "species_id": 18,
+  "starchip": "4"
+}

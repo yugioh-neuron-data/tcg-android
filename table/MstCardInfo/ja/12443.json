@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 4,
+  "card_id": 12443,
+  "card_name": "メタルフォーゼ・オリハルク",
+  "card_name_label": "メタルフォーゼ・オリハルク",
+  "card_name_search": "めたるふぉーぜおりはるく",
+  "card_pen_effect": "",
+  "card_text": "「メタルフォーゼ」モンスター×２$N①：自分の「メタルフォーゼ」モンスターが守備表示モンスターを攻撃した場合、その守備力を攻撃力が超えた分の倍の数値だけ相手に戦闘ダメージを与える。②：このカードがフィールドから墓地へ送られた場合、フィールドのカード１枚を対象として発動できる。そのカードを破壊する。",
+  "defense_power": "2200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/04/09",
+  "species_id": 21,
+  "starchip": "8"
+}

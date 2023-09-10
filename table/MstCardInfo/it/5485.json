@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 3,
+  "card_id": 5485,
+  "card_name": "Signore del Veleno",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "(Questa carta non viene considerata come una carta \"Veleno\".)$NSe questa carta viene distrutta in battaglia e mandata al Cimitero: scegli come bersaglio 1 mostro di Tipo Pianta nel tuo Cimitero, eccetto \"Signore del Veleno\"; Evoca Specialmente quel bersaglio.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/10/20",
+  "species_id": 13,
+  "starchip": "4"
+}

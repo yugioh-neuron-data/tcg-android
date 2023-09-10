@@ -1,0 +1,23 @@
+{
+  "attack_power": "2100",
+  "attribute_id": 5,
+  "card_id": 13163,
+  "card_name": "Numéro 41 : Bagooska le Tapir Terriblement Fatigué",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 monstres de Niveau 4$NUne fois par tour, durant votre Standby Phase, détachez 1 Matériel de cette carte. Si vous ne pouvez pas, détruisez-la. Cette carte en Position d'Attaque ne peut pas être détruite par des effets de carte de votre adversaire. Votre adversaire ne peut pas cibler cette carte en Position d'Attaque avec des effets de carte. Tant que cette carte est en Position de Défense face recto, changez tous les monstres face recto sur le Terrain en Position de Défense, et aussi, annulez les effets activés des monstres qui étaient en Position de Défense lorsque l'effet a été activé.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/10/19",
+  "species_id": 3,
+  "starchip": "4"
+}

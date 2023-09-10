@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 6243,
+  "card_name": "Gatinho Erva-Gato",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Este card não pode ser atacado se existir outro monstro do Tipo Besta no seu Campo. Torne o DEF de 1 monstro no Campo do seu adversário, em Posição de Defesa, 0 até à End Phase. Este efeito pode ser usado apenas uma vez por turno.",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/03/01",
+  "species_id": 11,
+  "starchip": "2"
+}

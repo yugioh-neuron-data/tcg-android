@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 17393,
+  "card_name": "Gruppo di Riserva",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Pesca carte pari al numero di carte controllate dal tuo avversario, poi metti carte dalla tua mano in fondo al Deck in qualsiasi ordine, pari al numero di carte che hai pescato. Durante la End Phase, se il tuo avversario controlla più carte di te mentre questa carta è nel tuo Cimitero: puoi Posizionare questa carta, ma bandiscila quando lascia il Terreno. Puoi utilizzare solo 1 effetto di \"Gruppo di Riserva\" per turno, e solo una volta in quel turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/05/19",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 2,
+  "card_id": 10059,
+  "card_name": "ドラゴン・ウィッチ－ドラゴンの守護者－",
+  "card_name_label": "ドラゴン・ウィッチ－ドラゴンのしゅごしゃ－",
+  "card_name_search": "どらごんうぃっちどらごんのしゅごしゃ",
+  "card_pen_effect": "",
+  "card_text": "このカードがフィールド上に表側表示で存在する限り、自分フィールド上のドラゴン族モンスターを相手は攻撃対象に選択できない。フィールド上のこのカードが戦闘またはカードの効果によって破壊される場合、代わりに手札からドラゴン族モンスター１体を墓地へ送る事ができる。",
+  "defense_power": "1100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/02/18",
+  "species_id": 18,
+  "starchip": "4"
+}

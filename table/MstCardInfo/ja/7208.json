@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 3,
+  "card_id": 7208,
+  "card_name": "水晶の占い師",
+  "card_name_label": "すいしょうのうらないし",
+  "card_name_search": "すいしょうのうらないし",
+  "card_pen_effect": "",
+  "card_text": "リバース：自分のデッキの上からカードを２枚めくり、その中から１枚を選んで手札に加える。その後、残りのカードをデッキの一番下に戻す。",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 24,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/05/12",
+  "species_id": 18,
+  "starchip": "1"
+}

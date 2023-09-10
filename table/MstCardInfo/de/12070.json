@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 1,
+  "card_id": 12070,
+  "card_name": "PSI-Hüllenpanzer Gamma",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss durch einen Karteneffekt als Spezialbeschwörung beschworen werden. Wenn dein Gegner einen Monstereffekt aktiviert, solange du keine Monster kontrollierst (Schnelleffekt): Du kannst sowohl diese Karte als Spezialbeschwörung von deiner Hand als auch 1 „PSI-Hüllentreiber“ als Spezialbeschwörung von deiner Hand, deinem Deck oder deinem Friedhof beschwören und falls du dies tust, annulliere die Aktivierung und falls du dies tust, zerstöre das Monster. Während der End Phase, verbanne die durch diesen Effekt als Spezialbeschwörung beschworenen offenen Monster.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 30,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/10/01",
+  "species_id": 21,
+  "starchip": "2"
+}

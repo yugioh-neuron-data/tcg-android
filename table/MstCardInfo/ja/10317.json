@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10317,
+  "card_name": "聖剣ガラティーン",
+  "card_name_label": "せいけんガラティーン",
+  "card_name_search": "せいけんがらてぃーん",
+  "card_pen_effect": "",
+  "card_text": "戦士族モンスターにのみ装備可能。このカード名の③の効果は１ターンに１度しか使用できない。①：「聖剣ガラティーン」は自分フィールドに１枚しか表側表示で存在できない。②：装備モンスターの攻撃力は１０００アップし、自分スタンバイフェイズ毎に２００ダウンする。③：フィールドの表側表示のこのカードが破壊され墓地へ送られた場合、自分フィールドの戦士族の「聖騎士」モンスター１体を対象として発動できる。その自分の戦士族の「聖騎士」モンスターにこのカードを装備する。",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/05/18",
+  "species_id": 24,
+  "starchip": "0"
+}

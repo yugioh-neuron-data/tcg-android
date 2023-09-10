@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 12494,
+  "card_name": "クリスタル・アバター",
+  "card_name_label": "クリスタル・アバター",
+  "card_name_search": "くりすたるあばたー",
+  "card_pen_effect": "",
+  "card_text": "①：相手モンスターの直接攻撃宣言時、そのモンスターの攻撃力が自分のLP以上の場合に発動できる。このカードは発動後、自分のLPの数値と同じ攻撃力の効果モンスター（戦士族・光・星４・攻？／守０）となり、モンスターゾーンに攻撃表示で特殊召喚する。その後、攻撃対象をこのカードに移し替える。このカードは罠カードとしても扱う。②：このカードの効果で特殊召喚したこのカードが戦闘で破壊されたダメージ計算後に発動する。このカードの攻撃力分のダメージを相手に与える。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/04/23",
+  "species_id": 25,
+  "starchip": "0"
+}

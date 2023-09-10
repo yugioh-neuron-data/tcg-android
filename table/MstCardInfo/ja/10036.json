@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 2,
+  "card_id": 10036,
+  "card_name": "幻蝶の刺客アゲハ",
+  "card_name_label": "げんちょうのしきゃくアゲハ",
+  "card_name_search": "げんちょうのしきゃくあげは",
+  "card_pen_effect": "",
+  "card_text": "このカード以外の自分フィールド上のモンスターが相手ライフに戦闘ダメージを与えた時、相手フィールド上に表側表示で存在するモンスター１体を選択して発動する。選択したモンスターの攻撃力は、その時に与えたダメージの数値分ダウンする。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/02/18",
+  "species_id": 15,
+  "starchip": "4"
+}

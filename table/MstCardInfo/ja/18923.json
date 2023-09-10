@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 4,
+  "card_id": 18923,
+  "card_name": "BK チーフセコンド",
+  "card_name_label": "バーニングナックラー チーフセコンド",
+  "card_name_search": "ばーにんぐなっくらーちーふせこんど",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①の効果は１ターンに１度しか使用できない。$N①：相手モンスターの攻撃宣言時、自分フィールドに戦士族モンスターか炎属性モンスターが存在していれば発動できる。このカードを手札から特殊召喚し、その攻撃を無効にする。その後、フィールドのモンスター１体をエンドフェイズまで除外する。$N②：このカードがモンスターゾーンに存在する限り、自分は通常召喚に加えて１度だけ、自分メインフェイズに「BK」モンスター１体を召喚できる。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/05/27",
+  "species_id": 15,
+  "starchip": "4"
+}

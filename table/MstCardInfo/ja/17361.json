@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 2,
+  "card_id": 17361,
+  "card_name": "白銀の城の魔神像",
+  "card_name_label": "ラビュリンス・デーモン",
+  "card_name_search": "らびゅりんすでーもん",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：罠カードが発動した場合に発動できる。このカードを手札から特殊召喚する。②：このカードが特殊召喚に成功した場合に発動できる。攻撃宣言時にのみカードの発動ができる通常罠カード１枚をデッキから選んで自分フィールドにセットする。③：このカードの攻撃力は自分の墓地の通常罠カードの種類×４００アップし、相手は「白銀の城の魔神像」以外の悪魔族モンスターを攻撃対象に選択できない。",
+  "defense_power": "2800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/03/19",
+  "species_id": 3,
+  "starchip": "7"
+}

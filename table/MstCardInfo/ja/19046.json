@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 19046,
+  "card_name": "異界共鳴－シンクロ・フュージョン",
+  "card_name_label": "いかいきょうめい－シンクロ・フュージョン",
+  "card_name_search": "いかいきょうめいしんくろふゅーじょん",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できず、このカードを発動するターン、自分は融合・SモンスターしかEXデッキから特殊召喚できない。$N①：自分フィールドの表側表示の、チューナーとチューナー以外のモンスターを１体ずつ墓地へ送って発動できる。以下のモンスターを１体ずつEXデッキから特殊召喚する。$N●墓地のそのモンスター２体を素材としてS召喚可能なSモンスター$N●墓地のそのモンスター２体を素材として融合召喚可能な融合モンスター",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/06/10",
+  "species_id": 24,
+  "starchip": "0"
+}

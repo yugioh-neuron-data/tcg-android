@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 1,
+  "card_id": 7049,
+  "card_name": "勝利の導き手フレイヤ",
+  "card_name_label": "しょうりのみちびきてフレイヤ",
+  "card_name_search": "しょうりのみちびきてふれいや",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上に「勝利の導き手フレイヤ」以外の天使族モンスターが表側表示で存在する場合、このカードを攻撃対象に選択する事はできない。このカードが自分フィールド上に表側表示で存在する限り、自分フィールド上に表側表示で存在する天使族モンスターの攻撃力・守備力は４００ポイントアップする。",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/12/14",
+  "species_id": 17,
+  "starchip": "1"
+}

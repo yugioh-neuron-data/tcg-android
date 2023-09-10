@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 5,
+  "card_id": 11244,
+  "card_name": "デーモン・イーター",
+  "card_name_label": "デーモン・イーター",
+  "card_name_search": "でーもんいーたー",
+  "card_pen_effect": "",
+  "card_text": "①：「デーモン・イーター」は自分フィールドに１体しか表側表示で存在できない。②：自分フィールドに魔法使い族モンスターが存在する場合、このカードは手札から特殊召喚できる。③：相手エンドフェイズにこのカードが墓地に存在する場合、自分フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターを破壊し、このカードを墓地から特殊召喚する。",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/04/19",
+  "species_id": 11,
+  "starchip": "4"
+}

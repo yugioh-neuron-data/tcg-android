@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 8937,
+  "card_name": "아성의 가디언",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "자신 필드 위에 수비 표시로 존재하는 몬스터가 공격받았을 경우, 그 데미지 스텝시에 이 카드를 패에서 묘지로 보내는 것으로, 그 전투를 실행하는 자신 몬스터의 수비력은 엔드 페이즈시까지 1500 포인트 올린다.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/07/17",
+  "species_id": 15,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 6,
+  "card_id": 5773,
+  "card_name": "Chevalier de l'Ombre - Archdémon",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Une fois par tour, durant votre Standby Phase, vous devez payer 900 LP (ceci est obligatoire), ou cette carte est détruite. Lors de la résolution d'un effet de carte de l'adversaire qui cible cette carte, lancez un dé à six faces et annulez l'effet si le résultat est 3, et si vous le faites, détruisez la carte. Les dommages de combat infligés par cette carte à votre adversaire sont divisés par deux.",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/03/19",
+  "species_id": 3,
+  "starchip": "4"
+}

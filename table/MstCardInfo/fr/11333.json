@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 5,
+  "card_id": 11333,
+  "card_name": "Pompomtaupe Potartiste",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Tous les Monstres Pendules que vous contrôlez gagnent 300 ATK.",
+  "card_text": "Vous pouvez cibler 1 monstre dont l'ATK actuelle est différente de son ATK d'origine ; appliquez l'effet approprié. Vous ne pouvez utiliser cet effet de \"Pompomtaupe Potartiste\" qu'une fois par tour.$N●Si l'ATK actuelle du monstre est supérieure à son ATK d'origine, il gagne 1000 ATK.$N●Si l'ATK actuelle du monstre est inférieure à son ATK d'origine, il perd 1000 ATK.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2014/11/06",
+  "species_id": 11,
+  "starchip": "2"
+}

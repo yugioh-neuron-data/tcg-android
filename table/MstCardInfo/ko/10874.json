@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 2,
+  "card_id": 10874,
+  "card_name": "데몬의 거신",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "①: 몬스터 존의 이 카드가 효과로 파괴될 경우, 대신에 500 LP를 지불할 수 있다. 이 효과는 이 카드가 필드에 앞면 표시로 존재하는 한 1번밖에 사용할 수 없다. ②: 이 카드가 효과로 파괴되어 묘지로 보내졌을 경우에 발동할 수 있다. 패에서 \"데몬\" 몬스터 1장을 특수 소환한다.",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/12/17",
+  "species_id": 3,
+  "starchip": "6"
+}

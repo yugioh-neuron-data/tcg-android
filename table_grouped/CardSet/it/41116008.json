@@ -1,0 +1,902 @@
+[
+  {
+    "card_count": 1,
+    "card_id": 12370,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT090",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12860,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT091",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12862,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT092",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13146,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT093",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13147,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT094",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13148,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT095",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13149,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT096",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 13163,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT097",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 13217,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT001",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13218,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT002",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13219,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT003",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13220,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT004",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 13221,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT005",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13222,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT006",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13223,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT007",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 13224,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT008",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13225,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT009",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13226,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT010",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 13227,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT011",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 13228,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT012",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 13229,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT013",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 13230,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT014",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 13231,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT015",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13232,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT016",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13233,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT017",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13234,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT018",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13235,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT019",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13236,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT020",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13237,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT021",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13238,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT022",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 13239,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT023",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 13240,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT024",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 13241,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT025",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 13242,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT026",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 13243,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT027",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 13244,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT028",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13245,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT029",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 13246,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT030",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13247,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT031",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13248,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT032",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13249,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT033",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13250,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT034",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13251,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT035",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13252,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT036",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13253,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT037",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 13254,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT038",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 13255,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT039",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 13256,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT040",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13257,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT041",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13258,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT042",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 13259,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT043",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 13260,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT044",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 13261,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT045",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 13262,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT046",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 13263,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT047",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 13264,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT048",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13265,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT049",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13266,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT050",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 13267,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT051",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 13268,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT052",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13269,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT053",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 13270,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT054",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 13271,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT055",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 13272,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT056",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 13273,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT057",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13274,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT058",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13275,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT059",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13276,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT060",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 13277,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT061",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 13278,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT062",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 13279,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT063",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 13280,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT064",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13281,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT065",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 13282,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT066",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13283,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT067",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13284,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT068",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13285,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT069",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13286,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT070",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 13287,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT071",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 13288,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT072",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 13289,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT073",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13290,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT074",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 13291,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT075",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 13292,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT076",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 13293,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT077",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 13294,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT078",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 13295,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT079",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 13296,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT080",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13360,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT081",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 13361,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT000",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 13362,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT082",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 13363,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT083",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13364,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT084",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 13365,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT085",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 13366,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT086",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13367,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT087",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13368,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT088",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13369,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT089",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13370,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT098",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 13371,
+    "card_image_id": 1,
+    "card_number": "CIBR-IT099",
+    "language": "it",
+    "pack_id": "41116008",
+    "rarity_id": 4
+  }
+]

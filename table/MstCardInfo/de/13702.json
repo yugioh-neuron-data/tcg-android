@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 6,
+  "card_id": 13702,
+  "card_name": "Kai-Den Kendogeist",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Falls ein oder mehr Monster als Pendelbeschwörung beschworen werden: Gib diese Karte von der Pendelzone auf die Hand zurück.",
+  "card_text": "Wenn diese Karte als Normalbeschwörung beschworen wird: Du kannst 1 Karte in deiner Pendelzone bestimmen und alle Karten, die dein Gegner kontrolliert, in derselben Spalte wie die Karte auf den Friedhof legen. Einmal pro Spielzug, während der End Phase, falls diese Karte in diesem Spielzug als Normalbeschwörung beschworen oder aufgedeckt wurde: Gib diese Karte auf die Hand zurück.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 45,
+  "pen_scale_l": "9",
+  "pen_scale_r": "9",
+  "sales_at": "2018/05/03",
+  "species_id": 15,
+  "starchip": "5"
+}

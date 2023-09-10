@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 2,
+  "card_id": 15726,
+  "card_name": "Cozinheiro Inumano",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "O nome deste card se torna \"Servo Caveira\" enquanto estiver no Cemitério. Se um ou mais monstros Zumbi de Nível 3 ou menos que você controla seriam destruídos em batalha ou por um efeito de card, em vez disso, você pode descartar este card. Se este card for enviado para o Cemitério: você pode adicionar 2 monstros com nomes diferentes do seu Deck à sua mão, exceto \"Cozinheiro Inumano\", que sejam \"Servo Caveira\" ou que o mencionem e, depois, descarte 1 card. Você só pode usar este efeito de \"Cozinheiro Inumano\" uma vez por turno.",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/02/04",
+  "species_id": 2,
+  "starchip": "1"
+}

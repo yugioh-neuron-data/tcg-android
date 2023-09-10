@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 5632,
+  "card_name": "デビルズ・サンクチュアリ",
+  "card_name_label": "デビルズ・サンクチュアリ",
+  "card_name_search": "でびるずさんくちゅあり",
+  "card_pen_effect": "",
+  "card_text": "①：自分フィールドに「メタルデビル・トークン」（悪魔族・闇・星１・攻／守０）１体を特殊召喚する。このトークンは攻撃できず、このトークンの戦闘で発生するコントローラーへの戦闘ダメージは代わりに相手が受ける。このトークンのコントローラーは自分スタンバイフェイズ毎に１０００LPを払う。または、LPを払わずにこのトークンを破壊する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/10/04",
+  "species_id": 24,
+  "starchip": "0"
+}

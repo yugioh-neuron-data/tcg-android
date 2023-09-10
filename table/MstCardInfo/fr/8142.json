@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 1,
+  "card_id": 8142,
+  "card_name": "Enfant Alien",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Placez 1 Compteur-A sur tous les monstres Invoqués Spécialement sur le Terrain de votre adversaire (si un monstre avec un Compteur-A combat un monstre \"Alien\", il perd 300 points d'ATK et de DEF pour chaque Compteur-A durant le calcul des dommages uniquement).",
+  "defense_power": "700",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/03/03",
+  "species_id": 20,
+  "starchip": "4"
+}

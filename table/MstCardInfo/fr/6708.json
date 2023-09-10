@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 6708,
+  "card_name": "Égaliseur de Vie",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Vous ne pouvez activer cette carte que lorsque la différence entre les Life Points des deux joueurs est de 8000 ou plus. Les Life Points de chaque joueur deviennent 3000.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/05/13",
+  "species_id": 25,
+  "starchip": "0"
+}

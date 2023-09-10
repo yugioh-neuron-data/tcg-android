@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 2,
+  "card_id": 13127,
+  "card_name": "Künstlerkumpel Buntäugiger Minitaurus",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Falls dein „Künstlerkumpel“- oder „Buntäugig“-Monster ein Monster in Verteidigungsposition angreift, füge deinem Gegner durchschlagenden Kampfschaden zu.",
+  "card_text": "Während der Schadensberechnung, falls dein Pendelmonster ein Monster deines Gegners angreift: Du kannst das Monster deines Gegners nur während der Schadensberechnung für jede „Künstlerkumpel“- und „Buntäugig“-Karte, die du kontrollierst, 100 ATK verlieren lassen.",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "6",
+  "pen_scale_r": "6",
+  "sales_at": "2017/07/06",
+  "species_id": 12,
+  "starchip": "4"
+}

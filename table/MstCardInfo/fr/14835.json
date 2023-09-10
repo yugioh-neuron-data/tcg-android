@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 4,
+  "card_id": 14835,
+  "card_name": "Jack-o-Bolan",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Vous pouvez défausser 1 monstre Zombie ; Invoquez Spécialement cette carte depuis votre main. Durant la Main Phase de votre adversaire (Effet Rapide) : vous pouvez cibler 1 monstre Zombie dans l'un des Cimetières ; Invoquez Spécialement le monstre (mais bannissez-le lorsqu'il quitte le Terrain), puis bannissez cette carte face recto jusqu'à la End Phase. Vous ne pouvez utiliser chaque effet de \"Jack-o-Bolan\" qu'une fois par tour.",
+  "defense_power": "2200",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/01/30",
+  "species_id": 2,
+  "starchip": "7"
+}

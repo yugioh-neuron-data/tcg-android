@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 18440,
+  "card_name": "D/D/D/D-Superdimensionaler Kaiserherrscher Zero Paradox",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Du kannst 1 Karte in der Pendelzone deines Gegners wählen; beschwöre diese Karte als Spezialbeschwörung und falls du dies tust, lege jene Karte in deine Pendelzone, aber zerstöre sie während der End Phase des nächsten Spielzugs. Du kannst diesen Effekt von „D/D/D/D-Superdimensionaler Kaiserherrscher Zero Paradox“ nur einmal pro Spielzug verwenden.",
+  "card_text": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Diese Karte muss durch ihren eigenen Effekt als Spezialbeschwörung beschworen werden. Wenn du ein oder mehr Monster als Pendelbeschwörung beschwörst, solange die Summe der Pendelbereiche in deinen Pendelzonen höher ist als die Summe der Stufen der als Pendelbeschwörung beschworenen Monster: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören und falls du dies tust, zerstöre so viele andere Karten auf dem Spielfeld wie möglich, dann kannst du diese Karte in deine Pendelzone legen. Einmal pro Spielzug, falls ein oder mehr andere offene „D/D/D“-Monster, die du kontrollierst, das Spielfeld durch eine Zauberkarte oder einen Zaubereffekt verlassen: Die ATK dieser Karte werden zu 6000.",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 40,
+  "pen_scale_l": "10",
+  "pen_scale_r": "10",
+  "sales_at": "2023/06/22",
+  "species_id": 3,
+  "starchip": "12"
+}

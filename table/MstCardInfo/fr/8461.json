@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 2,
+  "card_id": 8461,
+  "card_name": "Esprit de la Terre Immortel Wiraqocha Rasca",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Il ne peut y avoir qu'1 monstre \"Esprit de la Terre Immortel\" sur le Terrain. S'il n'y a aucune Magie de Terrain face recto sur le Terrain, détruisez cette carte. Les monstres de votre adversaire ne peuvent pas cibler cette carte avec une attaque. Cette carte peut attaquer directement. Si cette carte est Invoquée Normalement : ciblez de 1 à 3 cartes que vous contrôlez, mais pas plus que votre adversaire a dans sa main ; mélangez-les dans le Deck, puis défaussez au hasard le même nombre de cartes à votre adversaire (ou autant que possible), et si vous le faites, cette carte gagne 1000 ATK pour chaque carte défaussée par cet effet.",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/11/05",
+  "species_id": 16,
+  "starchip": "10"
+}

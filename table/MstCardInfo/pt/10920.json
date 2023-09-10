@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 2,
+  "card_id": 10920,
+  "card_name": "Oráculo do Coveiro",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Você pode oferecer como Tributo 3 monstros ou 1 monstro \"do Coveiro\" para Invocar este card por Invocação-Tributo (mas não Baixar). Quando este card for Invocado por Invocação-Tributo: você pode ativar quaisquer desses efeitos, até o número de monstros \"do Coveiro\" oferecidos como Tributo para sua Invocação, e resolvê-los em sequência;$N●Este card ganha ATK igual à soma dos Níveis que todos os monstros oferecidos como Tributo para sua Invocação-Tributo tinham no campo x 100.$N●Destrua todos os monstros Baixados que seu oponente controla.$N●Todos os monstros que seu oponente controla atualmente perdem 2000 de ATK/DEF.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/01/24",
+  "species_id": 18,
+  "starchip": "10"
+}

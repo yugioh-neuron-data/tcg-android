@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 3,
+  "card_id": 11780,
+  "card_name": "Seeschlangen-Kaiser",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls dein Gegner ein Monster kontrolliert und du keine Monster kontrollierst, kannst du diese Karte als Spezialbeschwörung (von deiner Hand) beschwören. Du kannst „Seeschlangen-Kaiser“ nur einmal pro Spielzug auf diese Art als Spezialbeschwörung beschwören. Wenn sie auf diese Art beschworen wird: Du kannst 1 Seeschlange-Monster der Stufe 8 als Spezialbeschwörung von deiner Hand oder deinem Friedhof beschwören, aber seine ATK/DEF werden zu 0. Falls diese Karte als Spezialbeschwörung beschworen wird, wird ihre Stufe zu 4 und ihre Grund-ATK werden zu 0.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/05/04",
+  "species_id": 5,
+  "starchip": "8"
+}

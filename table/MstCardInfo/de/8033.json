@@ -1,0 +1,23 @@
+{
+  "attack_power": "2200",
+  "attribute_id": 2,
+  "card_id": 8033,
+  "card_name": "Außerirdischer Oberherr",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Du kannst 2 A-Zählmarken von irgendwo auf dem Spielfeld entfernen, um diese Karte als Spezialbeschwörung von deiner Hand zu beschwören. Einmal pro Spielzug kannst du 1 A-Zählmarke auf jedes offene Monster legen, das dein Gegner kontrolliert. (Falls ein Monster mit A-Zählmarken gegen ein „Außerirdisch“-Monster kämpft, verliert es nur während der Schadensberechung 300 ATK und DEF für jede A-Zählmarke.) Du kannst nur 1 „Außerirdischer Oberherr“ kontrollieren.",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/03/03",
+  "species_id": 20,
+  "starchip": "6"
+}

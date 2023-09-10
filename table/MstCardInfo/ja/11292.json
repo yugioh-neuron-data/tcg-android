@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 1,
+  "card_id": 11292,
+  "card_name": "光天使セプター",
+  "card_name_label": "ホーリー・ライトニングセプター",
+  "card_name_search": "ほーりーらいとにんぐせぷたー",
+  "card_pen_effect": "",
+  "card_text": "①：このカードが召喚・特殊召喚に成功した時に発動できる。デッキから「光天使セプター」以外の「光天使」モンスター１体を手札に加える。②：フィールドのこのカードを含むモンスター３体以上を素材としてX召喚したモンスターは以下の効果を得る。$N●このX召喚に成功した時、このカード以外のフィールドのカード１枚を対象として発動できる。そのカードを破壊し、自分はデッキから１枚ドローできる。",
+  "defense_power": "400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/04/19",
+  "species_id": 17,
+  "starchip": "4"
+}

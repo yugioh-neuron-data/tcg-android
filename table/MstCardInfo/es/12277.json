@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 1,
+  "card_id": 12277,
+  "card_name": "Artistamigo Luxciérnaga",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Una vez por turno, cuando un monstruo de tu adversario declara un ataque: puedes Sacrificar 1 monstruo \"Artistamigo\"; niega el ataque, y después termina la Battle Phase.",
+  "card_text": "Si un monstruo \"Artistamigo\" u \"Ojos Anómalos\" que controles ataca, hasta el final del Damage Step tu adversario no puede activar Cartas Mágicas/de Trampa.",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2016/05/05",
+  "species_id": 10,
+  "starchip": "4"
+}

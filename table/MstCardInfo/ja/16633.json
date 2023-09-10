@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16633,
+  "card_name": "騎甲虫隊戦術機動",
+  "card_name_label": "ビートルーパー・フォーメーション",
+  "card_name_search": "びーとるーぱーふぉーめーしょん",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分の墓地の「ビートルーパー」モンスター１体を対象として発動できる。そのモンスターを特殊召喚し、自分はそのモンスターの元々の攻撃力分のLPを失う。この効果で特殊召喚したモンスターはこのターン攻撃できない。②：自分フィールドの表側表示の昆虫族モンスターが戦闘・効果で破壊された場合に発動できる。自分フィールドに「騎甲虫トークン」（昆虫族・地・星３・攻／守１０００）１体を特殊召喚する。",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/09/10",
+  "species_id": 24,
+  "starchip": "0"
+}

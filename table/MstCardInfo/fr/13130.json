@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 1,
+  "card_id": 13130,
+  "card_name": "Magicien Cinq-Arc-en-Ciel Potartiste",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Vous ne pouvez pas Invoquer par Pendulation, sauf depuis l'Extra Deck. Cet effet ne peut pas être annulé. Chaque joueur applique 1 de ces effets selon le nombre de cartes Posées dans ses Zones Magie & Piège.$N●0 : Tous les monstres qu'il contrôle ne peuvent ni attaquer ni activer leurs effets.$N●Min. 4 : L'ATK de tous les monstres qu'il contrôle devient le double de leur ATK d'origine.",
+  "card_text": "Si un joueur Pose une Magie/Piège sur votre Terrain tant que cette carte est dans votre Cimetière (sauf durant la Damage Step) : vous pouvez placer cette carte dans votre Zone Pendule.",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "12",
+  "pen_scale_r": "12",
+  "sales_at": "2017/07/06",
+  "species_id": 18,
+  "starchip": "1"
+}

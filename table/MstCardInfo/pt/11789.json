@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 5,
+  "card_id": 11789,
+  "card_name": "Camarartista Camededor",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Uma vez por turno, durante sua Fase Principal 1: você pode escolher 1 monstro com a face para cima que você controla; até o final deste turno, os monstros que seu oponente controla atualmente perdem 800 de DEF e, se isso acontecer, se o monstro escolhido como alvo atacar um monstro em Posição de Defesa neste turno, cause dano de batalha perfurante ao seu oponente. (Esses efeitos permanecem mesmo que este card deixe o campo.)",
+  "card_text": "Se este card for destruído em batalha: você pode fazer com que o monstro que destruiu este card perca 800 de ATK.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "2",
+  "pen_scale_r": "2",
+  "sales_at": "2015/08/06",
+  "species_id": 11,
+  "starchip": "4"
+}

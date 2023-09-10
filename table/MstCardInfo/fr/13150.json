@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 13150,
+  "card_name": "Noxious, Bête Gladiateur",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsqu'un monstre de votre adversaire déclare une attaque directe : vous pouvez Invoquer Spécialement cette carte depuis votre main, et si vous le faites, transférez la cible de l'attaque sur cette carte et passez au calcul des dommages. Cette carte ne peut pas être détruite par ce combat. Si cette carte est Invoquée Spécialement par l'effet d'un monstre \"Bête Gladiateur\" : vous pouvez envoyer 1 monstre \"Bête Gladiateur\" depuis votre Deck au Cimetière. À la fin de la Battle Phase, si cette carte a combattu : vous pouvez la mélanger dans le Deck ; Invoquez Spécialement 1 monstre \"Bête Gladiateur\" (\"Noxious, Bête Gladiateur\" exclu) depuis votre Deck.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/07/06",
+  "species_id": 12,
+  "starchip": "5"
+}

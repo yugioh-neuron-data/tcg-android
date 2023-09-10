@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 2,
+  "card_id": 15003,
+  "card_name": "クリムゾン・リゾネーター",
+  "card_name_label": "クリムゾン・リゾネーター",
+  "card_name_search": "くりむぞんりぞねーたー",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できず、この効果を発動するターン、自分はドラゴン族・闇属性SモンスターしかEXデッキから特殊召喚できない。$N①：自分フィールドにモンスターが存在しない場合に発動できる。このカードを手札から特殊召喚する。$N②：このカード以外の自分フィールドのモンスターがドラゴン族・闇属性Sモンスター１体のみの場合に発動できる。手札・デッキから「クリムゾン・リゾネーター」以外の「リゾネーター」モンスターを２体まで特殊召喚する。",
+  "defense_power": "300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/01/11",
+  "species_id": 3,
+  "starchip": "2"
+}

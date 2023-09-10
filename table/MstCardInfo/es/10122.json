@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10122,
+  "card_name": "Ensayo y Tribulación",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Sólo puedes activar 1 \"Ensayo y Tribulación\" por turno. Durante la End Phase del turno en el que esta carta fue activada, aplica este efecto, dependiendo de la cantidad de monstruos que Sacrificaste del Campo y de tu mano este turno, excepto Fichas.$N●1: Roba 1 carta.$N●2: Añade a tu mano 2 monstruos en tu Cementerio.$N●3+: Destruye hasta 3 cartas boca arriba en el Campo.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/05/10",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 3,
+  "card_id": 10849,
+  "card_name": "ダブルフィン・シャーク",
+  "card_name_label": "ダブルフィン・シャーク",
+  "card_name_search": "だぶるふぃんしゃーく",
+  "card_pen_effect": "",
+  "card_text": "このカードが召喚に成功した時、自分の墓地からレベル３またはレベル４の魚族・水属性モンスター１体を選択して表側守備表示で特殊召喚できる。この効果で特殊召喚したモンスターの効果は無効化される。この効果を発動するターン、自分は水属性以外のモンスターを特殊召喚できない。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/10/19",
+  "species_id": 8,
+  "starchip": "4"
+}

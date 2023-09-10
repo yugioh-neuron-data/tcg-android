@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 2,
+  "card_id": 11433,
+  "card_name": "Catturatore P.M.",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Quando Evochi Pendulum uno o più mostri di Tipo Zombie: puoi attivare questo effetto; essi non possono essere distrutti in battaglia o dagli effetti delle carte in questo turno.",
+  "card_text": "Se questa carta distrugge un mostro in battaglia: puoi scegliere come bersaglio 1 Mostro Pendulum nel tuo Cimitero; aggiungilo alla tua mano.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2015/04/16",
+  "species_id": 2,
+  "starchip": "4"
+}

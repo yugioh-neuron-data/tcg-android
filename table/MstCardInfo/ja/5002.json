@@ -1,0 +1,23 @@
+{
+  "attack_power": "3500",
+  "attribute_id": 5,
+  "card_id": 5002,
+  "card_name": "磁石の戦士マグネット・バルキリオン",
+  "card_name_label": "じしゃくのせんしマグネット・バルキリオン",
+  "card_name_search": "じしゃくのせんしまぐねっとばるきりおん",
+  "card_pen_effect": "",
+  "card_text": "このカードは通常召喚できない。自分の手札・フィールドから、「磁石の戦士α」「磁石の戦士β」「磁石の戦士γ」を１体ずつリリースした場合に特殊召喚できる。①：このカードをリリースし、自分の墓地の「磁石の戦士α」「磁石の戦士β」「磁石の戦士γ」を１体ずつ対象として発動できる。そのモンスターを特殊召喚する。",
+  "defense_power": "3850",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2000/12/07",
+  "species_id": 6,
+  "starchip": "8"
+}

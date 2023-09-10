@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 11100,
+  "card_name": "Ultimo Contrattacco",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Quando viene dichiarato un attacco che coinvolge un mostro \"Pugile Indomito\" che controlli e un mostro dell'avversario: annulla l'attacco e, se lo fai, manda quel mostro che controlli al Cimitero, poi 1 mostro \"Pugile Indomito\" che controlli (in Posizione di Attacco, se hai dichiarato tu l'attacco) guadagna ATK pari all'ATK originale di quel mostro dell'avversario, inoltre procedi al calcolo dei danni utilizzando quei mostri. Poi, subisci danno pari all'ammontare di ATK guadagnato da questo effetto.",
+  "defense_power": "0",
+  "effect_id": 1,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/05/15",
+  "species_id": 25,
+  "starchip": "0"
+}

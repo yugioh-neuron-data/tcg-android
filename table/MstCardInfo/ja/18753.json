@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 18753,
+  "card_name": "血肉の代償",
+  "card_name_label": "ちにくのだいしょう",
+  "card_name_search": "ちにくのだいしょう",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。$N①：自分メインフェイズに１０００LPを払って発動できる。このターン、自分は通常召喚を３回まで行う事ができる。$N②：相手バトルフェイズに５００LPを払って発動できる。モンスター１体の召喚を行う。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/03/20",
+  "species_id": 25,
+  "starchip": "0"
+}

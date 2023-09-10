@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 17105,
+  "card_name": "Éveil d'un Numéro",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si votre adversaire contrôle un ou plusieurs monstres qui ont été Invoqués Spécialement depuis l'Extra Deck, et que vous non : choisissez 4 Monstres Xyz \"Numéro\" depuis votre Extra Deck de Rangs différents, plus un 5e Monstre Xyz \"Numéro\" dont la valeur \"Numéro\" dans son nom est égale à la somme des valeurs \"Numéro\" des 4 autres monstres, Invoquez Spécialement le 5e monstre \"Numéro\" (ceci est traité comme une Invocation Xyz), et attachez-lui les 4 monstres choisis comme Matériel, mais vous ne pouvez pas Invoquer Spécialement de monstres (Monstres Xyz \"Numéro\" exclus) tant que vous contrôlez le monstre face recto.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/05/04",
+  "species_id": 24,
+  "starchip": "0"
+}

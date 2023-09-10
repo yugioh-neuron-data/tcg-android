@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 3,
+  "card_id": 4734,
+  "card_name": "トゥーン・マーメイド",
+  "card_name_label": "トゥーン・マーメイド",
+  "card_name_search": "とぅーんまーめいど",
+  "card_pen_effect": "",
+  "card_text": "このカードは通常召喚できない。自分フィールドに「トゥーン・ワールド」が存在する場合に特殊召喚できる。①：このカードは特殊召喚したターンには攻撃できない。②：このカードは５００LPを払わなければ攻撃宣言できない。③：相手フィールドにトゥーンモンスターが存在しない場合、このカードは直接攻撃できる。存在する場合、トゥーンモンスターを攻撃対象にしなければならない。④：フィールドの「トゥーン・ワールド」が破壊された時にこのカードは破壊される。",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 28,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2000/07/13",
+  "species_id": 14,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 5,
+  "card_id": 14100,
+  "card_name": "Petingcessoeur Magidulce",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si esta carta en tu posesión es destruida por una carta del adversario y mandada a tu Cementerio: baraja esta carta al Deck. Sólo puedes usar cada uno de los siguientes efectos de \"Petingcessoeur Magidulce\" una vez por turno.$N●Si no tienes monstruos en tu Cementerio: puedes Invocar esta carta de Modo Especial desde tu mano.$N●Si esta carta es Invocada de Modo Especial: puedes Invocar de Modo Especial, desde tu mano o Deck, 1 monstruo \"Magidulce\", excepto \"Petingcessoeur Magidulce\" y, si lo haces, reduce su Nivel en 1, y además, por el resto de este turno no puedes Invocar monstruos de Modo Especial, excepto monstruos \"Magidulce\".",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/01/31",
+  "species_id": 17,
+  "starchip": "4"
+}

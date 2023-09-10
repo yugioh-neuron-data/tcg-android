@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 3,
+  "card_id": 12137,
+  "card_name": "Dinofoschia Rex",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Una volta, mentre questa carta è nella tua Zona Pendulum, puoi annullare l'effetto attivato di una carta che sceglie come bersaglio una o più altre carte \"Dinofoschia\" che controlli, poi distruggi questa carta.",
+  "card_text": "Se questa carta attacca, alla fine del Damage Step: puoi offrire come Tributo 1 altro mostro \"Dinofoschia\", poi attivare 1 di questi effetti;$N●Questa carta può attaccare un mostro dell'avversario ancora di seguito e, se attacca un mostro in Posizione di Difesa, infliggi danno da combattimento perforante al tuo avversario.$N●Mischia 1 carta dalla mano del tuo avversario (a caso) o dal suo Terreno nel Deck, poi questa carta guadagna 100 ATK.",
+  "defense_power": "2200",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "6",
+  "pen_scale_r": "6",
+  "sales_at": "2016/01/14",
+  "species_id": 7,
+  "starchip": "5"
+}

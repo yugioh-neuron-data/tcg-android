@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14686,
+  "card_name": "アロマガーデニング",
+  "card_name_label": "アロマガーデニング",
+  "card_name_search": "あろまがーでにんぐ",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分が「アロマ」モンスターの召喚・特殊召喚に成功した場合に発動できる。自分は１０００LP回復する。②：自分のLPが相手より少ない場合、相手モンスターの攻撃宣言時に発動できる。デッキから「アロマ」モンスター１体を特殊召喚する。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/07/13",
+  "species_id": 24,
+  "starchip": "0"
+}

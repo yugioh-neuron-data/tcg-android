@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 2,
+  "card_id": 16215,
+  "card_name": "Diplomann des Meisters",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls diese Karte als Tributbeschwörung beschworen wird: Du kannst 1 Monster in deinem Friedhof und 1 offenes Monster, das dein Gegner kontrolliert, wählen; rüste jenes Monster des Gegners mit dem Monster von deinem Friedhof aus. Solange das Monster durch diesen Effekt ausgerüstet ist, verliert es ATK in Höhe der ATK jenes Monsters, mit dem es ausgerüstet ist. Dein Gegner kann die Effekte von Monstern, die er kontrolliert und die mit Ausrüstungskarten in deinen Zauber- & Fallenzonen ausgerüstet sind, nicht aktivieren.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/08/12",
+  "species_id": 7,
+  "starchip": "5"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 3,
+  "card_id": 12132,
+  "card_name": "Dinonebel Stegosaurier",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Falls eine oder mehr andere „Dinonebel“-Karten, die du kontrollierst, durch Kampf oder einen Karteneffekt deines Gegners zerstört würden, kannst du stattdessen diese Karte zerstören.",
+  "card_text": "Falls ein anderes Pendelmonster, das du kontrollierst, gegen ein Monster deines Gegners kämpft, nach der Schadensberechnung: Du kannst die Monster zerstören.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2016/01/14",
+  "species_id": 7,
+  "starchip": "4"
+}

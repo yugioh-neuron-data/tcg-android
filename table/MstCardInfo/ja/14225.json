@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14225,
+  "card_name": "魂のペンデュラム",
+  "card_name_label": "たましいのペンデュラム",
+  "card_name_search": "たましいのぺんでゅらむ",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①の効果は１ターンに１度しか使用できない。①：自分のPゾーンのカード２枚を対象として発動できる。対象のカードのPスケールをそれぞれ、１つ上げるか下げる（最小１まで）。②：自分のPモンスターがP召喚される度にこのカードにカウンターを１つ置く。③：フィールドのPモンスターの攻撃力は、このカードのカウンターの数×３００アップする。④：このカードのカウンターを３つ取り除いて発動できる。このターン、自分は通常のP召喚に加えて１度だけ、自分メインフェイズにモンスターをP召喚できる。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/12/22",
+  "species_id": 24,
+  "starchip": "0"
+}

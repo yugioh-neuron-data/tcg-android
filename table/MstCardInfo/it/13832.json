@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 1,
+  "card_id": 13832,
+  "card_name": "Idaten la Stella del Conquistatore",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 mostri Guerriero di Livello 5 o superiore$NSe questa carta viene Evocata tramite Fusione: puoi aggiungere 1 mostro Guerriero di Livello 5 dal tuo Deck alla tua mano. Puoi utilizzare questo effetto di \"Idaten la Stella del Conquistatore\" una sola volta per turno. Una volta per turno: puoi scartare un qualsiasi numero di carte; questa carta guadagna 200 ATK per ogni carta scartata. Una volta per battaglia, durante il calcolo dei danni, se questa carta combatte con un mostro dell'avversario con Livello pari o inferiore (Effetto Rapido): puoi far diventare 0 l'ATK di quel mostro dell'avversario solamente durante quel calcolo dei danni.",
+  "defense_power": "2200",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/06/28",
+  "species_id": 15,
+  "starchip": "10"
+}

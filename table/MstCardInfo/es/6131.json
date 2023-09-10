@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 6131,
+  "card_name": "Memoria Borrada",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Puedes activar esta carta si tu adversario tiene 3 o menos cartas en su mano. Tu adversario añade su mano a su Deck y lo baraja. Entonces tu adversario roba un número de cartas igual al número de cartas que añadió a su Deck.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/10/01",
+  "species_id": 24,
+  "starchip": "0"
+}

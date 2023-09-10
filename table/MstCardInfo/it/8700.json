@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 6,
+  "card_id": 8700,
+  "card_name": "Sfera Trasformante",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Una volta per turno: Puoi scegliere come bersaglio 1 mostro scoperto in Posizione di Difesa controllato dal tuo avversario; scarta 1 carta ed equipaggia quel bersaglio a questa carta. (Puoi equipaggiare 1 solo mostro alla volta a questa carta con questo effetto.) Questa carta guadagna l'ATK de mostro equipaggiato. Se questa carta attacca, essa viene messa in Posizione di Difesa alla fine della Battle Phase. Durante la End Phase: il mostro equipaggiato a questa carta dall'effetto di questa carta viene Evocato Specialmente sul Terreno del tuo avversario scoperto in Posizione di Difesa.",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/08/11",
+  "species_id": 16,
+  "starchip": "3"
+}

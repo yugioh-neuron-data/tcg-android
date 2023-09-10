@@ -1,0 +1,956 @@
+[
+  {
+    "card_count": 1,
+    "card_id": 4294,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN090",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4405,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN091",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8775,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN096",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 9060,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN093",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 9062,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN092",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 9435,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN094",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10105,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN095",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10478,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN097",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10579,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN098",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10586,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN099",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10887,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN001",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10888,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN002",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10889,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN003",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10890,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN004",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 10891,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN005",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10892,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN006",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10893,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN007",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10894,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN008",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10895,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN009",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10896,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN010",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10897,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN011",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10898,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN012",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10899,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN013",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10900,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN014",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10901,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN015",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10902,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN016",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10903,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN017",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 10904,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN018",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10905,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN019",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10906,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN020",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 10907,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN021",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10908,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN022",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10909,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN023",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10910,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN024",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10911,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN025",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10912,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN026",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 10913,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN027",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10914,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN028",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10915,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN029",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10916,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN030",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10917,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN031",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 10918,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN032",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10919,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN033",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10920,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN034",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 10921,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN035",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10922,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN036",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10923,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN037",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10924,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN038",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10925,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN039",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10926,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN040",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 10926,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN040",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 7
+  },
+  {
+    "card_count": 1,
+    "card_id": 10927,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN041",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10928,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN042",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10929,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN043",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10930,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN044",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10931,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN045",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10932,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN046",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 10932,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN046",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 10933,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN047",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 10933,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN047",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 10934,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN048",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10934,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN048",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 10935,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN049",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10936,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN050",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10937,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN051",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10938,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN052",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 10939,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN053",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10940,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN054",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 10940,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN054",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 10941,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN055",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10942,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN056",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 10943,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN057",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 10944,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN058",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10945,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN059",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 10945,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN059",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 10946,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN060",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10947,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN061",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10948,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN062",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10949,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN063",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10950,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN064",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10951,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN065",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10952,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN066",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10953,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN067",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10954,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN068",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10955,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN069",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10956,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN070",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 10957,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN071",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10958,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN072",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10959,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN073",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10960,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN074",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10961,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN075",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10962,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN076",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 10963,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN077",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10964,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN078",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10965,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN079",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10966,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN080",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10984,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN000",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10985,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN081",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10986,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN082",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10987,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN083",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10988,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN084",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10989,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN085",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10990,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN086",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 10991,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN087",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10992,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN088",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10993,
+    "card_image_id": 1,
+    "card_number": "LVAL-EN089",
+    "language": "en",
+    "pack_id": "11113002",
+    "rarity_id": 5
+  }
+]

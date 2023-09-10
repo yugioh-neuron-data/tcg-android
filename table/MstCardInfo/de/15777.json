@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15777,
+  "card_name": "Myutanten-Explosion",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Rüste nur ein „Myutant“-Monster der Stufe 8 oder höher, das du kontrollierst, mit dieser Karte aus. Am Beginn des Damage Steps, falls das ausgerüstete Monster ein als Spezialbeschwörung beschworenes Monster eines Gegners angreift: Du kannst das Monster des Gegners verbannen. Solange diese Karte ein Monster ausrüstet: Du kannst diese Karte verbannen; lege das Monster, das mit dieser Karte ausgerüstet war, auf den Friedhof und falls du dies tust, beschwöre 1 „Myutant“-Monster der Stufe 8 mit einer unterschiedlichen Grund-Eigenschaft als Spezialbeschwörung von deiner Hand oder deinem Deck. Du kannst diesen Effekt von „Myutanten-Explosion“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/11/05",
+  "species_id": 24,
+  "starchip": "0"
+}

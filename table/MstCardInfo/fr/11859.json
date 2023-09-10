@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 11859,
+  "card_name": "Vents Secs",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si vous gagnez des LP : ciblez 1 monstre face recto contrôlé par votre adversaire ; détruisez-le. Si vous contrôlez un monstre \"Arôma\" et que vous avez min. 3000 LP de plus que votre adversaire : vous pouvez payer des LP égaux à la différence ; détruisez des monstres face recto contrôlés par votre adversaire dont la somme des ATK est inférieure ou égale aux LP que vous avez payés pour activer cet effet. Vous ne pouvez utiliser chaque effet de \"Vents Secs\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/08/06",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 5,
+  "card_id": 10033,
+  "card_name": "ブレード・バウンサー",
+  "card_name_label": "ブレード・バウンサー",
+  "card_name_search": "ぶれーどばうんさー",
+  "card_pen_effect": "",
+  "card_text": "このカードが攻撃を行ったダメージステップ終了時、相手フィールド上にモンスターが存在する場合、手札を１枚捨てて発動できる。このバトルフェイズ中、このカードは相手モンスターにもう１度だけ攻撃できる。この効果は１ターンに１度しか使用できない。",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/02/18",
+  "species_id": 15,
+  "starchip": "4"
+}

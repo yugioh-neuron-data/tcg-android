@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 5,
+  "card_id": 8037,
+  "card_name": "Hiper Destruidor Psíquico",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Regulador + 1 ou mais monstros não-Reguladores do Tipo Psíquico$NSe este card atacar um monstro em Posição de Defesa, cause dano de batalha perfurante ao seu oponente. No final da Etapa de Dano, se este card atacou um monstro em Posição de Defesa e a DEF desse monstro for menor que o ATK deste card (use os valores originais se o outro monstro não estiver mais no campo): ganhe PV igual a esse excesso.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/10/24",
+  "species_id": 21,
+  "starchip": "9"
+}

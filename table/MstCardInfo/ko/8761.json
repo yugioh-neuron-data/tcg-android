@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 8761,
+  "card_name": "묘지기의 무녀",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드가 필드 위에 앞면 표시로 존재하는 한, 필드는 \"왕가의 골짜기－네크로밸리\"가 된다. 필드 마법 카드가 앞면 표시로 존재할 경우, 이 효과는 적용되지 않는다. 또한, 이 카드가 필드 위에 앞면 표시로 존재하는 한, 필드 위의 \"묘지기\"라는 이름이 붙은 몬스터의 공격력 / 수비력은 200 포인트 올린다.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/11/18",
+  "species_id": 18,
+  "starchip": "3"
+}

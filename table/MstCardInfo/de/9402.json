@@ -1,0 +1,23 @@
+{
+  "attack_power": "4000",
+  "attribute_id": 5,
+  "card_id": 9402,
+  "card_name": "Barbaroid, die ultimative Kampfmaschine",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "5 „roid“-Monster vom Typ Maschine$NDiese Karte kann während jeder Battle Phase einen zweiten Angriff durchführen. Diese Karte kann deinen Gegner nicht direkt angreifen. Nach der Schadensberechnung, falls diese Karte ein Monster deines Gegners angegriffen hat: Annulliere die Effekte des Monsters (einschließlich im Friedhof). Falls diese Karte ein Monster deines Gegners durch Kampf zerstört: Füge deinem Gegner 1000 Schaden zu.",
+  "defense_power": "4000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/02/28",
+  "species_id": 7,
+  "starchip": "12"
+}

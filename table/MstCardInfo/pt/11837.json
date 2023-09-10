@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 1,
+  "card_id": 11837,
+  "card_name": "Camaramágico Mago Trapezista",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 monstros do Tipo Mago de Nível 4$NVocê nunca sofre dano se o valor do dano for menor ou igual que o ATK deste card. Uma vez por turno, durante a Fase Principal 1 de qualquer duelista: você pode desassociar 1 Matéria Xyz deste card e, depois, escolher 1 monstro com a face para cima em Posição de Ataque controlado pelo duelista do turno (que não seja este card); ele pode realizar um segundo ataque durante cada Fase de Batalha neste turno e, além disso, destrua-o no final da Fase de Batalha. Se este card for destruído em batalha e enviado para o Cemitério, ou se este card em sua posse for destruído por um efeito de card do oponente e enviado para o seu Cemitério: você pode Invocar por Invocação-Especial 1 monstro \"Camaramágico\" do Deck.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/08/06",
+  "species_id": 18,
+  "starchip": "4"
+}

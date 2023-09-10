@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16549,
+  "card_name": "ロイヤル・ペンギンズ・ガーデン",
+  "card_name_label": "ロイヤル・ペンギンズ・ガーデン",
+  "card_name_search": "ろいやるぺんぎんずがーでん",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：このカードの発動時の効果処理として、デッキから「ロイヤル・ペンギンズ・ガーデン」以外の「ペンギン」カード１枚を手札に加える事ができる。②：１ターンに１度、自分メインフェイズに発動できる。手札及び自分フィールドの表側表示モンスターの中から、「ペンギン」モンスター１体を選び、そのモンスターのレベルをターン終了時まで１つ下げる。その後、自分の手札を１枚選んで捨てる。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/07/17",
+  "species_id": 24,
+  "starchip": "0"
+}

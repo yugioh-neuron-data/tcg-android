@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 2,
+  "card_id": 15991,
+  "card_name": "Uhrbogen",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Falls du keine Monster oder nur Pendelmonster kontrollierst, führe diesen Effekt aus, basierend auf der Pendelzone dieser Karte.$N●Links: Verringere ihren Pendelbereich um 3.$N●Rechts: Erhöhe ihren Pendelbereich um 4.$NWährend der Standby Phase deines Gegners: Du kannst diese Karte als Spezialbeschwörung beschwören.",
+  "card_text": "Falls diese Karte als Spezialbeschwörung in eine Zone beschworen wird, die nicht die mittlere Main-Monsterzone ist, zerstöre sie. Kann nicht durch Kampf zerstört werden. Einmal pro Spielzug, während der End Phase deines Gegners: Du kannst 1 Karte in deiner Pendelzone wählen; zerstöre sie und falls du dies tust, lege diese Karte in deine Pendelzone.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "4",
+  "pen_scale_r": "4",
+  "sales_at": "2021/06/03",
+  "species_id": 7,
+  "starchip": "4"
+}

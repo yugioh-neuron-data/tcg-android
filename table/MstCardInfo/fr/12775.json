@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 6,
+  "card_id": 12775,
+  "card_name": "Sorcièrevent - Cristal Clochette",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"Sorcièrevent - Hiver Clochette\" + 1 monstre \"Sorcièrevent\"$NVous pouvez cibler 1 monstre dans l'un des Cimetières ; jusqu'à la End Phase, le nom de cette carte devient le nom d'origine de la cible, et remplacez cet effet avec les effets d'origine de la cible. Si cette carte en votre possession est détruite par une carte de votre adversaire (au combat ou par un effet de carte) et envoyée à votre Cimetière : vous pouvez cibler 1 \"Sorcièrevent - Hiver Clochette\" et 1 monstre \"Sorcièrevent\" de max. Niveau 4 dans votre Cimetière ; Invoquez-les Spécialement. Vous ne pouvez utiliser chaque effet de \"Sorcièrevent - Cristal Clochette\" qu'une fois par tour.",
+  "defense_power": "2400",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/02/09",
+  "species_id": 18,
+  "starchip": "8"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 4,
+  "card_id": 11800,
+  "card_name": "Emフレイム・イーター",
+  "card_name_label": "エンタメイジフレイム・イーター",
+  "card_name_search": "えんためいじふれいむいーたー",
+  "card_pen_effect": "",
+  "card_text": "①：自分にダメージを与える魔法・罠・モンスターの効果が発動した時に発動できる。このカードを手札から特殊召喚し、その効果で自分が受けるダメージを０にする。このターン、自分は「Em」モンスターしか特殊召喚できない。この効果で特殊召喚したこのカードは、フィールドから離れた場合に除外される。②：このカードが召喚・特殊召喚に成功した場合に発動する。お互いのプレイヤーは５００ダメージを受ける。",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/04/25",
+  "species_id": 18,
+  "starchip": "4"
+}

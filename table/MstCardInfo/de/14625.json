@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 14625,
+  "card_name": "Kalliberlade-Wut-Drache",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 FINSTERNIS Drache-Monster$N(Schnelleffekt): Du kannst 1 Monster, das du kontrollierst, und 1 Karte, die dein Gegner kontrolliert, wählen; zerstöre sie. Du kannst diese Karte von deinem Friedhof verbannen und dann 1 FINSTERNIS Linkmonster in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung, aber seine Effekte können in diesem Spielzug nicht aktiviert werden. Du kannst jeden Effekt von „Kalliberlade-Wut-Drache“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/08/16",
+  "species_id": 1,
+  "starchip": "8"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 15862,
+  "card_name": "聖天樹の精霊",
+  "card_name_label": "サンアバロン・ドリュアデス",
+  "card_name_search": "さんあばろんどりゅあです",
+  "card_pen_effect": "",
+  "card_text": "「サンアバロン」リンクモンスターを含む植物族モンスター２体$N①：このカードは攻撃対象にされない（この効果が適用されたモンスターしか自分フィールドに存在しない状態での相手の攻撃は自分への直接攻撃になる）。②：自分が戦闘・効果でダメージを受けた場合に発動できる。その数値分だけ自分のLPを回復し、EXデッキから「サンヴァイン」モンスター１体を特殊召喚する。この効果は１ターンに２度まで使用できる。",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "13",
+  "linkno": "2",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/11/21",
+  "species_id": 13,
+  "starchip": ""
+}

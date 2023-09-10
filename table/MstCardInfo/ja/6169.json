@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 6169,
+  "card_name": "マジシャンズ・クロス",
+  "card_name_label": "マジシャンズ・クロス",
+  "card_name_search": "まじしゃんずくろす",
+  "card_pen_effect": "",
+  "card_text": "①：自分フィールドに攻撃表示の魔法使い族モンスターが２体以上存在する場合、その内の１体を対象として発動できる。そのモンスターの攻撃力はターン終了時まで３０００になる。このカードの発動後、ターン終了時までそのモンスター以外の魔法使い族モンスターは攻撃できない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/07/21",
+  "species_id": 24,
+  "starchip": "0"
+}

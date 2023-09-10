@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 1,
+  "card_id": 15381,
+  "card_name": "No.2 ゲート・オブ・ヌメロン－ドゥヴェー",
+  "card_name_label": "ナンバーズ２ ゲート・オブ・ヌメロン－ドゥヴェー",
+  "card_name_search": "なんばーずにげーとおぶぬめろんどぅう゛ぇー",
+  "card_pen_effect": "",
+  "card_text": "レベル１モンスター×３$N①：このカードは戦闘では破壊されない。②：このカードが相手モンスターと戦闘を行ったダメージステップ終了時に、このカードのX素材を１つ取り除いて発動できる。自分フィールドの全ての「ヌメロン」モンスターの攻撃力はターン終了時まで倍になる。",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/06/20",
+  "species_id": 7,
+  "starchip": "1"
+}

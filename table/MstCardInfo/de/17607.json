@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 17607,
+  "card_name": "Grabwächters Falle",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Solange sich „Austausch des Geistes“ in deinem Friedhof befindet, kann dein Gegner weder die Effekte von Karten im Friedhof aktivieren noch Monster als Spezialbeschwörung vom Friedhof beschwören. Du kannst jeden der folgenden Effekte von „Grabwächters Falle“ nur einmal pro Spielzug verwenden. Während der Main Phase: Du kannst 1 Karte abwerfen; füge deiner Hand 1 „Grabwächter“- oder ERDE Fee-Monster von deinem Deck hinzu. Während der Draw Phase deines Gegners, vor seinem normalen Ziehen, falls diese Karte bereits offen auf dem Spielfeld liegt: Deklariere 1 Kartennamen; sieh dir die Karten an, die er als sein normales Ziehen zieht, und falls es die deklarierte Karte war, lege sie auf den Friedhof.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/11/03",
+  "species_id": 25,
+  "starchip": "0"
+}

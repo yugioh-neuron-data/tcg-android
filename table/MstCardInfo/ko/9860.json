@@ -1,0 +1,23 @@
+{
+  "attack_power": "2300",
+  "attribute_id": 1,
+  "card_id": 9860,
+  "card_name": "No.16 쇼크 마스터",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "레벨 4 몬스터 × 3$N1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고, 카드의 종류(몬스터 / 마법 / 함정)을 선언하고 발동할 수 있다. 다음 상대 턴 종료시까지, 선언한 종류의 카드를 서로 발동할 수 없다.",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/03/22",
+  "species_id": 17,
+  "starchip": "4"
+}

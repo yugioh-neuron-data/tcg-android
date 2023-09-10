@@ -1,0 +1,23 @@
+{
+  "attack_power": "1300",
+  "attribute_id": 2,
+  "card_id": 11560,
+  "card_name": "Uni-Zombie",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Vous pouvez cibler 1 monstre face recto sur le Terrain ; défaussez 1 carte, et si vous le faites, augmentez le Niveau de la cible de 1. Vous pouvez cibler 1 monstre face recto sur le Terrain ; les monstres que vous contrôlez (monstres Zombie exclus) ne peuvent pas attaquer le reste de ce tour, et aussi, envoyez 1 monstre Zombie depuis votre Deck au Cimetière, et si vous le faites, augmentez le Niveau de la cible de 1. Vous ne pouvez utiliser chaque effet de \"Uni-Zombie\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/01/15",
+  "species_id": 2,
+  "starchip": "3"
+}

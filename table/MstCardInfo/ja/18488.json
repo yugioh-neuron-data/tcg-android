@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 6,
+  "card_id": 18488,
+  "card_name": "フルアクティブ・デュプレックス",
+  "card_name_label": "フルアクティブ・デュプレックス",
+  "card_name_search": "ふるあくてぃぶでゅぷれっくす",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①③の効果はそれぞれ１ターンに１度しか使用できない。①：自分の墓地からリンクモンスター２体を除外して発動できる。このカードを手札から特殊召喚する。②：リンク状態の自分のモンスターは１度のバトルフェイズ中に２回までモンスターに攻撃できる。③：このカードが墓地へ送られた場合、自分フィールドのサイバース族モンスター１体を対象として発動できる。そのモンスターの攻撃力は１０００アップする。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/01/14",
+  "species_id": 27,
+  "starchip": "9"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2600",
+  "attribute_id": 5,
+  "card_id": 16278,
+  "card_name": "Caverguerra Meteoragon",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Não pode ser destruído por efeitos de card do oponente. Quando um ataque for declarado envolvendo este card e um monstro do oponente: você pode negar os efeitos desse monstro do oponente neste turno, assim como os efeitos ativados e efeitos no campo de monstros com o seu mesmo nome original. Uma vez por turno, durante uma Fase de Batalha na qual um monstro Guerreiro de TERRA seu batalhar (Efeito Rápido): você pode fazer com que todos os monstros \"Caverguerra\" que você controla atualmente ganhem 200 de ATK até o final do turno do seu oponente e, além disso, este card pode realizar até 2 ataques contra monstros durante cada Fase de Batalha neste turno.",
+  "defense_power": "2600",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/06/03",
+  "species_id": 15,
+  "starchip": "7"
+}

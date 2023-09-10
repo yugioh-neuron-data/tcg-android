@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 8868,
+  "card_name": "幽合－ゴースト・フュージョン",
+  "card_name_label": "ゆうごう－ゴースト・フュージョン",
+  "card_name_search": "ゆうごうごーすとふゅーじょん",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：自分フィールドから、融合モンスターカードによって決められた融合素材モンスターを墓地へ送り、その融合モンスター１体をEXデッキから融合召喚する。その際、融合素材モンスターは全てアンデット族モンスターでなければならない。自分のLPが相手より少ない場合、自分の手札・デッキ・墓地のアンデット族モンスターも１体まで除外して融合素材とする事ができる。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/12/18",
+  "species_id": 24,
+  "starchip": "0"
+}

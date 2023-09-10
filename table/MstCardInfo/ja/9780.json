@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 9780,
+  "card_name": "猛毒の風",
+  "card_name_label": "もうどくのかぜ",
+  "card_name_search": "もうどくのかぜ",
+  "card_pen_effect": "",
+  "card_text": "このカードがフィールド上に存在する限り、お互いに風属性モンスターを特殊召喚する事はできない。また、フィールド上に表側表示で存在する全ての風属性モンスターの攻撃力は５００ポイントダウンする。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/07/16",
+  "species_id": 24,
+  "starchip": "0"
+}

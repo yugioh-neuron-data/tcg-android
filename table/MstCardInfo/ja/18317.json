@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 18317,
+  "card_name": "転轍地点",
+  "card_name_label": "てんてつちてん",
+  "card_name_search": "てんてつちてん",
+  "card_pen_effect": "",
+  "card_text": "①：相手フィールドにモンスターが３体以上存在する場合、その内の１体を選ぶ。相手は以下のいずれかを墓地へ送らなければならない。$N●選んだモンスター$N●選んだモンスター以外の自身のフィールドの全てのモンスター",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/11/05",
+  "species_id": 25,
+  "starchip": "0"
+}

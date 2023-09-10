@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 5,
+  "card_id": 12159,
+  "card_name": "Rey Goyo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Cantante + 1 o más Monstruos de Sincronía que no sean Cantantes$NCuando esta carta declara un ataque a un monstruo de tu adversario: hasta el final del Damage Step, esta carta gana 400 ATK por cada Monstruo de Sincronía de TIERRA de Tipo Guerrero que controles. Cuando esta carta destruye un monstruo de tu adversario en batalla y lo manda al Cementerio: puedes activar 1 de estos efectos;$N●Invoca ese monstruo de Modo Especial a tu lado del Campo.$N●Toma el control de 1 monstruo boca arriba que controle tu adversario.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/01/14",
+  "species_id": 15,
+  "starchip": "8"
+}

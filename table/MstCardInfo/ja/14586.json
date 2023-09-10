@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 14586,
+  "card_name": "E-HERO マリシャス・ベイン",
+  "card_name_label": "イービルヒーロー　マリシャス・ベイン",
+  "card_name_search": "いーびるひーろーまりしゃすべいん",
+  "card_pen_effect": "",
+  "card_text": "「E-HERO」モンスター＋レベル５以上のモンスター$Nこのカードは「ダーク・フュージョン」の効果でのみ特殊召喚できる。このカード名の②の効果は１ターンに１度しか使用できない。①：フィールドのこのカードは戦闘・効果では破壊されない。②：自分メインフェイズに発動できる。このカードの攻撃力以下の攻撃力を持つ相手フィールドのモンスターを全て破壊し、このカードの攻撃力は破壊したモンスターの数×２００アップする。この効果の発動後、ターン終了時まで自分は「HERO」モンスターでしか攻撃宣言できない。",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/06/08",
+  "species_id": 3,
+  "starchip": "8"
+}

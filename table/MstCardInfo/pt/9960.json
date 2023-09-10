@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 5,
+  "card_id": 9960,
+  "card_name": "Demolidor Zubaba",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se este card causar dano de batalha ao seu oponente, no final da Etapa de Dano: destrua o 1 monstro com a face para cima no campo com o menor ATK (em caso de empate, você escolhe) e, se isso acontecer, este card perde 800 de ATK.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/02/21",
+  "species_id": 15,
+  "starchip": "3"
+}

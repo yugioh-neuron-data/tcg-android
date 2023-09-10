@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 4,
+  "card_id": 7177,
+  "card_name": "E・HERO マグマ・ネオス",
+  "card_name_label": "エレメンタルヒーロー　マグマ・ネオス",
+  "card_name_search": "えれめんたるひーろーまぐまねおす",
+  "card_pen_effect": "",
+  "card_text": "「E・HERO ネオス」＋「N・フレア・スカラベ」＋「N・グラン・モール」$N自分フィールド上の上記のカードをデッキに戻した場合のみ、エクストラデッキから特殊召喚できる（「融合」魔法カードは必要としない）。このカードの攻撃力は、フィールド上のカードの数×４００ポイントアップする。また、エンドフェイズ時、このカードはエクストラデッキに戻る。この効果によってこのカードがエクストラデッキに戻った時、フィールド上のカードを全て持ち主の手札に戻す。",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/05/12",
+  "species_id": 15,
+  "starchip": "9"
+}

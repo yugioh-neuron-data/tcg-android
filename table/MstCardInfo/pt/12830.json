@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 2,
+  "card_id": 12830,
+  "card_name": "Predaplanta Formisarracenia",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Quando um monstro do oponente declarar um ataque direto: você pode Invocar este card por Invocação-Especial da sua mão. Depois do cálculo de dano, se este card batalhou um monstro do oponente: você pode destruir esse monstro do oponente. Se este card for destruído em batalha, ou se este card no campo for enviado para o Cemitério por um efeito de card: você pode adicionar 1 card \"Predap\" do seu Deck à sua mão, exceto \"Predaplanta Formisarracenia\". Você só pode usar este efeito de \"Predaplanta Formisarracenia\" uma vez por turno.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/02/23",
+  "species_id": 13,
+  "starchip": "1"
+}

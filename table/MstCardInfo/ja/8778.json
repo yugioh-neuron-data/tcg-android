@@ -1,0 +1,23 @@
+{
+  "attack_power": "900",
+  "attribute_id": 2,
+  "card_id": 8778,
+  "card_name": "BF－逆風のガスト",
+  "card_name_label": "ブラックフェザー－ぎゃくふうのガスト",
+  "card_name_search": "ぶらっくふぇざーぎゃくふうのがすと",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上にカードが存在しない場合、このカードは手札から特殊召喚する事ができる。このカードがフィールド上に表側表示で存在する限り、相手モンスターが自分フィールド上に存在する「BF」と名のついたモンスターを攻撃する場合、その攻撃モンスターはダメージステップの間攻撃力が３００ポイントダウンする。",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/02/20",
+  "species_id": 16,
+  "starchip": "2"
+}

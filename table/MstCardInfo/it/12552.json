@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 1,
+  "card_id": 12552,
+  "card_name": "Cipher Drago Occhi Galattici",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 mostri di Livello 8$NUna volta per turno: puoi staccare 1 materiale da questa carta, poi scegliere come bersaglio 1 mostro scoperto controllato dal tuo avversario; i mostri che controlli non possono attaccare il tuo avversario direttamente per il resto di questo turno, eccetto questa carta, inoltre prendi il controllo del mostro scelto come bersaglio fino alla End Phase ma, mentre si applica questo effetto, i suoi effetti si annullano, il suo ATK diventa 3000, inoltre il suo nome diventa \"Cipher Drago Occhi Galattici\".",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/08/18",
+  "species_id": 1,
+  "starchip": "8"
+}

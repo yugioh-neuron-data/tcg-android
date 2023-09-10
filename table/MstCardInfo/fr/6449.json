@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 6449,
+  "card_name": "Préparation à la Contre-attaque",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "À chaque fois que votre adversaire déclare une attaque sur un monstre en Position de Défense face recto, tirez à pile ou face. Si vous gagnez, changez le monstre face recto en Position de Défense ciblé en Position d'Attaque. Si vous perdez, le contrôleur de cette carte reçoit des dommages égaux à la différence entre l' ATK du monstre attaquant et la DEF du monstre attaqué.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/08/06",
+  "species_id": 25,
+  "starchip": "0"
+}

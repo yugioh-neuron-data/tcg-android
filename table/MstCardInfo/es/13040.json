@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 1,
+  "card_id": 13040,
+  "card_name": "Mago Ciberso",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Una vez por turno: puedes seleccionar 1 monstruo del adversario en Posición de Ataque; cámbialo a Posición de Defensa y, si lo haces, por el resto de este turno tus monstruos no pueden atacar, excepto para atacar a ese monstruo, y si tu monstruo Ciberso ataca a un monstruo en Posición de Defensa, inflige daño de batalla de penetración a tu adversario.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/08/03",
+  "species_id": 27,
+  "starchip": "4"
+}

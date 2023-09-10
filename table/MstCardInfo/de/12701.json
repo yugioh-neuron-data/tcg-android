@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 1,
+  "card_id": 12701,
+  "card_name": "Künstlerkumpel Goldener Reißzahn",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Einmal pro Spielzug, falls dein „Künstlerkumpel“-Monster ein Monster eines Gegners durch Kampf zerstört: Füge deinem Gegner 1000 Schaden zu.",
+  "card_text": "Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Alle „Künstlerkumpel“-Monster, die du derzeit kontrollierst, erhalten bis zum Ende dieses Spielzugs 200 ATK.",
+  "defense_power": "700",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2018/07/26",
+  "species_id": 11,
+  "starchip": "4"
+}

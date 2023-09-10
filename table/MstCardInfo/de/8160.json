@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 8160,
+  "card_name": "Heckenschutz",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Während der Schadensberechnung im Spielzug eines beliebigen Spielers, wenn ein Monster, das du kontrollierst, angreift oder angegriffen wird: Du kannst diese Karte von deiner Hand auf den Friedhof legen; halbiere bis zum Ende dieses Spielzugs die ATK des Monsters, das du kontrollierst, aber das Monster kann durch diesen Kampf nicht zerstört werden.",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/06/04",
+  "species_id": 13,
+  "starchip": "3"
+}

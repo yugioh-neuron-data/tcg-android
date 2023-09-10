@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 18920,
+  "card_name": "Vulkanischer Auswurf",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Aktiviere 1 dieser Effekte (aber du kannst jeden Effekt von „Vulkanischer Auswurf“ nur einmal pro Spielzug verwenden);$N●Nimm 1 „Vulkanisch“-Monster von deinem Deck und füge es entweder deiner Hand hinzu oder beschwöre es als Spezialbeschwörung, ungeachtet seiner Beschwörungsbedingungen, aber gib es während der End Phase auf die Hand zurück.$N●Wähle 1 Pyro-Monster auf dem Spielfeld; füge deinem Gegner Schaden in Höhe der Grund-ATK jenes Monsters zu oder falls du ein Monster, das du kontrollierst, als Ziel gewählt hast, wird der Schaden halbiert.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/08/10",
+  "species_id": 25,
+  "starchip": "0"
+}

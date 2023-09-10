@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 6,
+  "card_id": 11471,
+  "card_name": "Mayosenju Daibak",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Quando un mostro \"Yosenju\" che controlli dichiara un attacco: puoi far guadagnare 300 ATK a quel mostro attaccante fino alla fine della Battle Phase.",
+  "card_text": "Non può essere Evocato Specialmente, eccetto tramite Evocazione Pendulum. L'Evocazione Pendulum di questa carta non può essere annullata. Se questa carta viene Evocata Normalmente o Specialmente: puoi scegliere come bersaglio fino a 2 carte sul Terreno; falle ritornare nella mano. Una volta per turno, durante la End Phase, se questa carta è stata Evocata Specialmente in questo turno: falla ritornare nella mano.",
+  "defense_power": "300",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "7",
+  "pen_scale_r": "7",
+  "sales_at": "2015/02/12",
+  "species_id": 11,
+  "starchip": "10"
+}

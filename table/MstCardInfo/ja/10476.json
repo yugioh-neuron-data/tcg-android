@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10476,
+  "card_name": "魔力隔壁",
+  "card_name_label": "マジック・ウォール",
+  "card_name_search": "まじっくうぉーる",
+  "card_pen_effect": "",
+  "card_text": "①：以下の効果から１つを選択して発動できる。このカードの発動後、ターン終了時まで相手が受ける全てのダメージは０になる。$N●このターン、魔法使い族モンスターの召喚・反転召喚・特殊召喚は無効化されず、魔法使い族モンスターの召喚・反転召喚・特殊召喚成功時に相手は魔法・罠・モンスターの効果を発動できない。$N●自分フィールドの魔法使い族モンスター１体を対象として発動できる。このターンそのモンスターが攻撃する場合、相手はダメージステップ終了時まで魔法・罠・モンスターの効果を発動できない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/05/18",
+  "species_id": 24,
+  "starchip": "0"
+}

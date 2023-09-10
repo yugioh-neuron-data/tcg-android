@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 6,
+  "card_id": 12955,
+  "card_name": "LL－インディペンデント・ナイチンゲール",
+  "card_name_label": "リリカル・ルスキニア－インディペンデント・ナイチンゲール",
+  "card_name_search": "りりかるるすきにあいんでぃぺんでんとないちんげーる",
+  "card_pen_effect": "",
+  "card_text": "「LL－アセンブリー・ナイチンゲール」＋「LL」モンスター$N①：元々のカード名に「LL」を含むXモンスターを素材としてこのカードが融合召喚に成功した場合に発動できる。そのモンスターが持っていたX素材の数だけ、このカードのレベルを上げる。②：このカードの攻撃力はこのカードのレベル×５００アップし、このカードは他のカードの効果を受けない。③：１ターンに１度、自分メインフェイズに発動できる。このカードのレベル×５００ダメージを相手に与える。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/01/14",
+  "species_id": 16,
+  "starchip": "1"
+}

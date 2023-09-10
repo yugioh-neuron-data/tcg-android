@@ -1,0 +1,23 @@
+{
+  "attack_power": "2600",
+  "attribute_id": 3,
+  "card_id": 9272,
+  "card_name": "마스크드 히어로 애시드",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드는 \"마스크 체인지\"의 효과로만 특수 소환할 수 있다. 이 카드가 특수 소환에 성공했을 때, 상대 필드 위의 마법 / 함정 카드를 전부 파괴하고, 상대 필드 위의 모든 몬스터의 공격력은 300 포인트 내린다.",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/08/20",
+  "species_id": 15,
+  "starchip": "8"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13618,
+  "card_name": "Blickduell",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wenn du ein Monster als Spezialbeschwörung in die Extra-Monsterzone beschwörst: Du kannst 1 Monster in der Main-Monsterzone deines Gegners wählen; bewege das gewählte Ziel in seine Zone in derselben Spalte wie das Extra-Monsterzonen-Monster. Wenn dein Gegner ein Monster als Spezialbeschwörung in die Extra-Monsterzone beschwört: Du kannst 1 Monster in deiner Main-Monsterzone wählen; bewege das gewählte Ziel in deine Zone in derselben Spalte wie das Extra-Monsterzonen-Monster. Diese Effekte können nicht im Damage Step aktiviert werden.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/05/03",
+  "species_id": 24,
+  "starchip": "0"
+}

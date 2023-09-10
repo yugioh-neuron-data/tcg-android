@@ -1,0 +1,23 @@
+{
+  "attack_power": "400",
+  "attribute_id": 6,
+  "card_id": 16412,
+  "card_name": "花騎士団の駿馬",
+  "card_name_label": "はなきしだんのしゅんめ",
+  "card_name_search": "はなきしだんのしゅんめ",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①の効果は１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功した場合に発動できる。デッキから光属性の「聖騎士」モンスター１体を手札に加える。②：１ターンに１度、自分メインフェイズに発動できる。融合モンスターカードによって決められた、フィールドのこのカードを含む融合素材モンスターを自分の手札・フィールドから墓地へ送り、その融合モンスター１体をEXデッキから融合召喚する。",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/06/12",
+  "species_id": 11,
+  "starchip": "3"
+}

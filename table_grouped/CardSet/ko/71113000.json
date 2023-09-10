@@ -1,0 +1,902 @@
+[
+  {
+    "card_count": 1,
+    "card_id": 11521,
+    "card_image_id": 1,
+    "card_number": "SECE-KR001",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11522,
+    "card_image_id": 1,
+    "card_number": "SECE-KR002",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11523,
+    "card_image_id": 1,
+    "card_number": "SECE-KR003",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11524,
+    "card_image_id": 1,
+    "card_number": "SECE-KR004",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11525,
+    "card_image_id": 1,
+    "card_number": "SECE-KR005",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11526,
+    "card_image_id": 1,
+    "card_number": "SECE-KR006",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11527,
+    "card_image_id": 1,
+    "card_number": "SECE-KR007",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 11527,
+    "card_image_id": 1,
+    "card_number": "SECE-KR007",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 11528,
+    "card_image_id": 1,
+    "card_number": "SECE-KR008",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11529,
+    "card_image_id": 1,
+    "card_number": "SECE-KR009",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11530,
+    "card_image_id": 1,
+    "card_number": "SECE-KR010",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11531,
+    "card_image_id": 1,
+    "card_number": "SECE-KR011",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11532,
+    "card_image_id": 1,
+    "card_number": "SECE-KR012",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11533,
+    "card_image_id": 1,
+    "card_number": "SECE-KR013",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11534,
+    "card_image_id": 1,
+    "card_number": "SECE-KR014",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11535,
+    "card_image_id": 1,
+    "card_number": "SECE-KR015",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11536,
+    "card_image_id": 1,
+    "card_number": "SECE-KR016",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11537,
+    "card_image_id": 1,
+    "card_number": "SECE-KR017",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11538,
+    "card_image_id": 1,
+    "card_number": "SECE-KR018",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11539,
+    "card_image_id": 1,
+    "card_number": "SECE-KR019",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 11539,
+    "card_image_id": 1,
+    "card_number": "SECE-KR019",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 11540,
+    "card_image_id": 1,
+    "card_number": "SECE-KR020",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11541,
+    "card_image_id": 1,
+    "card_number": "SECE-KR021",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11542,
+    "card_image_id": 1,
+    "card_number": "SECE-KR022",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11543,
+    "card_image_id": 1,
+    "card_number": "SECE-KR023",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11544,
+    "card_image_id": 1,
+    "card_number": "SECE-KR024",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11545,
+    "card_image_id": 1,
+    "card_number": "SECE-KR025",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11546,
+    "card_image_id": 1,
+    "card_number": "SECE-KR026",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11547,
+    "card_image_id": 1,
+    "card_number": "SECE-KR027",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11548,
+    "card_image_id": 1,
+    "card_number": "SECE-KR028",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11549,
+    "card_image_id": 1,
+    "card_number": "SECE-KR029",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11550,
+    "card_image_id": 1,
+    "card_number": "SECE-KR030",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11551,
+    "card_image_id": 1,
+    "card_number": "SECE-KR031",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11552,
+    "card_image_id": 1,
+    "card_number": "SECE-KR032",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11553,
+    "card_image_id": 1,
+    "card_number": "SECE-KR033",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11554,
+    "card_image_id": 1,
+    "card_number": "SECE-KR034",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11555,
+    "card_image_id": 1,
+    "card_number": "SECE-KR035",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 11555,
+    "card_image_id": 1,
+    "card_number": "SECE-KR035",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 11556,
+    "card_image_id": 1,
+    "card_number": "SECE-KR036",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11557,
+    "card_image_id": 1,
+    "card_number": "SECE-KR037",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11558,
+    "card_image_id": 1,
+    "card_number": "SECE-KR038",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11559,
+    "card_image_id": 1,
+    "card_number": "SECE-KR039",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11560,
+    "card_image_id": 1,
+    "card_number": "SECE-KR040",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11561,
+    "card_image_id": 1,
+    "card_number": "SECE-KR041",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11562,
+    "card_image_id": 1,
+    "card_number": "SECE-KR042",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11563,
+    "card_image_id": 1,
+    "card_number": "SECE-KR043",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11564,
+    "card_image_id": 1,
+    "card_number": "SECE-KR044",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 11564,
+    "card_image_id": 1,
+    "card_number": "SECE-KR044",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 11565,
+    "card_image_id": 1,
+    "card_number": "SECE-KR045",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 11565,
+    "card_image_id": 1,
+    "card_number": "SECE-KR045",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 11565,
+    "card_image_id": 1,
+    "card_number": "SECE-KR045",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 7
+  },
+  {
+    "card_count": 1,
+    "card_id": 11566,
+    "card_image_id": 1,
+    "card_number": "SECE-KR046",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11567,
+    "card_image_id": 1,
+    "card_number": "SECE-KR047",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 11567,
+    "card_image_id": 1,
+    "card_number": "SECE-KR047",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 11568,
+    "card_image_id": 1,
+    "card_number": "SECE-KR048",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 11568,
+    "card_image_id": 1,
+    "card_number": "SECE-KR048",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 11569,
+    "card_image_id": 1,
+    "card_number": "SECE-KR049",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 11569,
+    "card_image_id": 1,
+    "card_number": "SECE-KR049",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 11570,
+    "card_image_id": 1,
+    "card_number": "SECE-KR050",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11571,
+    "card_image_id": 1,
+    "card_number": "SECE-KR051",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 11571,
+    "card_image_id": 1,
+    "card_number": "SECE-KR051",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 11572,
+    "card_image_id": 1,
+    "card_number": "SECE-KR052",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 11572,
+    "card_image_id": 1,
+    "card_number": "SECE-KR052",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 11573,
+    "card_image_id": 1,
+    "card_number": "SECE-KR053",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11574,
+    "card_image_id": 1,
+    "card_number": "SECE-KR054",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11575,
+    "card_image_id": 1,
+    "card_number": "SECE-KR055",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11576,
+    "card_image_id": 1,
+    "card_number": "SECE-KR056",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11577,
+    "card_image_id": 1,
+    "card_number": "SECE-KR057",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11578,
+    "card_image_id": 1,
+    "card_number": "SECE-KR058",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11579,
+    "card_image_id": 1,
+    "card_number": "SECE-KR059",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11580,
+    "card_image_id": 1,
+    "card_number": "SECE-KR060",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11581,
+    "card_image_id": 1,
+    "card_number": "SECE-KR061",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11582,
+    "card_image_id": 1,
+    "card_number": "SECE-KR062",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11583,
+    "card_image_id": 1,
+    "card_number": "SECE-KR063",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 11583,
+    "card_image_id": 1,
+    "card_number": "SECE-KR063",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 11584,
+    "card_image_id": 1,
+    "card_number": "SECE-KR064",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 11584,
+    "card_image_id": 1,
+    "card_number": "SECE-KR064",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 11585,
+    "card_image_id": 1,
+    "card_number": "SECE-KR065",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11586,
+    "card_image_id": 1,
+    "card_number": "SECE-KR066",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11587,
+    "card_image_id": 1,
+    "card_number": "SECE-KR067",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11588,
+    "card_image_id": 1,
+    "card_number": "SECE-KR068",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11589,
+    "card_image_id": 1,
+    "card_number": "SECE-KR069",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11590,
+    "card_image_id": 1,
+    "card_number": "SECE-KR070",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11591,
+    "card_image_id": 1,
+    "card_number": "SECE-KR071",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11592,
+    "card_image_id": 1,
+    "card_number": "SECE-KR072",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11593,
+    "card_image_id": 1,
+    "card_number": "SECE-KR073",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11594,
+    "card_image_id": 1,
+    "card_number": "SECE-KR074",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11595,
+    "card_image_id": 1,
+    "card_number": "SECE-KR075",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11596,
+    "card_image_id": 1,
+    "card_number": "SECE-KR076",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11597,
+    "card_image_id": 1,
+    "card_number": "SECE-KR077",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11598,
+    "card_image_id": 1,
+    "card_number": "SECE-KR078",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 11598,
+    "card_image_id": 1,
+    "card_number": "SECE-KR078",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 11599,
+    "card_image_id": 1,
+    "card_number": "SECE-KR079",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11600,
+    "card_image_id": 1,
+    "card_number": "SECE-KR080",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11664,
+    "card_image_id": 1,
+    "card_number": "SECE-KR081",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11665,
+    "card_image_id": 1,
+    "card_number": "SECE-KR082",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11666,
+    "card_image_id": 1,
+    "card_number": "SECE-KR083",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11667,
+    "card_image_id": 1,
+    "card_number": "SECE-KR084",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 11667,
+    "card_image_id": 1,
+    "card_number": "SECE-KR084",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 11668,
+    "card_image_id": 1,
+    "card_number": "SECE-KR085",
+    "language": "ko",
+    "pack_id": "71113000",
+    "rarity_id": 1
+  }
+]

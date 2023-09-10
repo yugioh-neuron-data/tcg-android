@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15045,
+  "card_name": "Escaliers du Courrier",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durant votre Main Phase : vous pouvez activer cet effet ; défaussez 1 carte \"Tindangle\", et si vous le faites, appliquez 1 de ces effets.$N●Changez 1 monstre en Position de Défense face verso que vous contrôlez en Position d'Attaque face recto.$N●Changez 1 monstre en Position d'Attaque face recto que vous contrôlez en Position de Défense face verso.$NCe tour (même si cette carte quitte le Terrain), vous ne pouvez pas défausser une autre carte de même nom par l'effet de \"Escaliers du Courrier\".",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/30",
+  "species_id": 24,
+  "starchip": "0"
+}

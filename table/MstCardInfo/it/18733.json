@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 18733,
+  "card_name": "Roccia dello Sgominatore",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 mostro \"Sgomina Anima\"$NNon può essere utilizzato come Materiale Link. Mentre controlli un mostro \"Sgomina Anima\", i mostri del tuo avversario possono scegliere come bersaglio per gli attacchi solo mostri che controlli con l'ATK più alto (in caso di parità, sceglie lui). Durante la Main Phase (Effetto Rapido): puoi attivare 1 di questi effetti;$N●Evoca Specialmente 1 mostro \"Sgomina Anima\" dalla tua mano.$N●Aggiungi 1 mostro \"Sgomina Anima\" dal tuo Cimitero alla tua mano.$NPuoi utilizzare questo effetto di \"Roccia dello Sgominatore\" una sola volta per turno.",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "2",
+  "linkno": "1",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/06/01",
+  "species_id": 6,
+  "starchip": ""
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 13156,
+  "card_name": "ジュラシック・インパクト",
+  "card_name_label": "ジュラシック・インパクト",
+  "card_name_search": "じゅらしっくいんぱくと",
+  "card_pen_effect": "",
+  "card_text": "①：自分フィールドに恐竜族モンスターが２体以上存在し、自分のLPが相手より少ない場合に発動できる。フィールドのモンスターを全て破壊し、自分は破壊したモンスターの数×１０００ダメージを受ける。その後、自分が受けたダメージと同じ数値分のダメージを相手に与える。このカードの発動後、次のターンの終了時までお互いはモンスターを召喚・特殊召喚できない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/05/13",
+  "species_id": 25,
+  "starchip": "0"
+}

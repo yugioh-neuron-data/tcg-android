@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14315,
+  "card_name": "Mordschlag",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Équipable uniquement à un monstre Invoqué/Posé Normalement que vous contrôlez. Il n'est pas affecté par les effets activés de monstres Invoqués Spécialement de votre adversaire. Durant le calcul des dommages, si le monstre équipé combat un monstre Invoqué Spécialement de l'adversaire : durant ce calcul des dommages uniquement, le monstre de l'adversaire perd une ATK/DEF égales à l'ATK d'origine du monstre équipé.",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/05/02",
+  "species_id": 24,
+  "starchip": "0"
+}

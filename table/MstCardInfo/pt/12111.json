@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 5,
+  "card_id": 12111,
+  "card_name": "Camarartista Maclado",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "A não ser que você tenha um card \"Camarartista\" na sua outra Zona de Pêndulo, a Escala de Pêndulo deste card se torna 4. Durante sua Fase Principal, se este card foi ativado neste turno: você pode adicionar 1 monstro \"Camarartista\" de Nível 4 ou menos do seu Deck à sua mão. Você só pode usar este efeito de \"Camarartista Maclado\" uma vez por turno.",
+  "card_text": "Você pode descartar este card; revele 1 monstro \"Camarartista\" ou \"Olhos Anômalos\" na sua mão e, se isso acontecer, pelo resto deste turno, reduza em 1 o Nível dos monstros na sua mão com esse nome (mesmo depois que eles forem Invocados/Baixados).",
+  "defense_power": "2400",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2016/01/15",
+  "species_id": 11,
+  "starchip": "6"
+}

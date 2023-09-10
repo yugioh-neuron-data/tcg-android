@@ -1,0 +1,23 @@
+{
+  "attack_power": "450",
+  "attribute_id": 2,
+  "card_id": 11698,
+  "card_name": "オルシャドール－セフィラルーツ",
+  "card_name_label": "オルシャドール－セフィラルーツ",
+  "card_name_search": "おるしゃどーるせふぃらるーつ",
+  "card_pen_effect": "①：自分は「シャドール」モンスター及び「セフィラ」モンスターしかP召喚できない。この効果は無効化されない。",
+  "card_text": "このカード名のモンスター効果は１ターンに１度しか使用できない。①：このカードがP召喚に成功した場合、またはこのカードが墓地へ送られた場合、「オルシャドール－セフィラルーツ」以外の自分のPゾーンの「セフィラ」カード１枚を対象として発動できる。そのカードを特殊召喚する。",
+  "defense_power": "1950",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "7",
+  "pen_scale_r": "7",
+  "sales_at": "2015/02/14",
+  "species_id": 6,
+  "starchip": "4"
+}

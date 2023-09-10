@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 2,
+  "card_id": 11328,
+  "card_name": "DDD制覇王カイゼル",
+  "card_name_label": "ディーディーディーせいはおうカイゼル",
+  "card_name_search": "でぃーでぃーでぃーせいはおうかいぜる",
+  "card_pen_effect": "",
+  "card_text": "①：このカードがP召喚に成功した場合に発動する。相手フィールドの表側表示のカードの効果はターン終了時まで無効になる。②：このカードがP召喚に成功したターンのメインフェイズに１度、自分の魔法＆罠ゾーンのカードを２枚まで対象として発動できる。そのカードを破壊する。このターン、このカードは通常の攻撃に加えて、この効果で破壊したカードの数まで１度のバトルフェイズ中に攻撃できる。",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/05/21",
+  "species_id": 3,
+  "starchip": "7"
+}

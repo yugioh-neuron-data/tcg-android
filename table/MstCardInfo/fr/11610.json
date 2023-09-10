@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11610,
+  "card_name": "Amplifeu Symph",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Chaque fois que l'effet d'une carte \"Guerrier Symphonique\" est activé, placez 1 Compteur Symphonique sur cette carte lorsque l'effet est résolu. Tous les monstres \"Guerrier Symphonique\" sur le Terrain gagnent 100 ATK pour chaque Compteur Symphonique sur cette carte. Une fois par tour : vous pouvez retirer 5 ou 7 Compteurs Symphonique depuis votre Terrain ; appliquez cet effet, selon le nombre de Compteurs Symphonique retirés.$N●5 : Infligez 300 points de dommages à votre adversaire pour chaque carte \"Guerrier Symphonique\" sur le Terrain.$N●7 : Bannissez un nombre de cartes contrôlées par votre adversaire et/ou dans son Cimetière, inférieur ou égal au nombre de cartes \"Guerrier Symphonique\" sur le Terrain.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/02/09",
+  "species_id": 24,
+  "starchip": "0"
+}

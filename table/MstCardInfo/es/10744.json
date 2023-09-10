@@ -1,0 +1,23 @@
+{
+  "attack_power": "4000",
+  "attribute_id": 1,
+  "card_id": 10744,
+  "card_name": "Dragón del Drenaje de Alma",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial por el efecto de un Monstruo Xyz de Tipo Dragón en tu posesión, y no puede ser Invocado de Modo Especial de otra forma. Cuando es Invocado de Modo Especial, si tus Life Points son menos que los de tu adversario: esta carta gana ATK igual a la diferencia de Life Points y, si lo hace, este turno tu adversario no recibe más daño. Esta carta no puede atacar a tu adversario directamente.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/11/07",
+  "species_id": 1,
+  "starchip": "8"
+}

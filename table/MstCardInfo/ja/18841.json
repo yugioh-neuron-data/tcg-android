@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 18841,
+  "card_name": "世壊同心",
+  "card_name_label": "せかいどうしん",
+  "card_name_search": "せかいどうしん",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。$N①：以下の効果から１つを選択して発動できる。$N●自分の墓地から攻撃力１５００／守備力２１００のモンスター１体を特殊召喚する。$N●自分のフィールド（表側表示）・墓地・除外状態の、「ヴィサス＝スタフロスト」１体と攻撃力１５００／守備力２１００のモンスター４体をデッキに戻し、「ヴィサス」Sモンスター１体をS召喚扱いでEXデッキから特殊召喚する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/04/22",
+  "species_id": 24,
+  "starchip": "0"
+}

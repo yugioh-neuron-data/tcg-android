@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 2,
+  "card_id": 7430,
+  "card_name": "不死武士",
+  "card_name_label": "ふしぶし",
+  "card_name_search": "ふしぶし",
+  "card_pen_effect": "",
+  "card_text": "①：このカードはモンスターゾーンに存在する限り、戦士族モンスターのアドバンス召喚以外のためにはリリースできない。$N②：自分スタンバイフェイズにこのカードが墓地に存在し、自分の墓地に戦士族モンスター以外のモンスターが存在しない場合に発動できる。このカードを特殊召喚する。この効果は自分フィールドにモンスターが存在しない場合に発動と処理ができる。",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/11/23",
+  "species_id": 15,
+  "starchip": "3"
+}

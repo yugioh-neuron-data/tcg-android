@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 18852,
+  "card_name": "Overexaggeration",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "At the start of the Damage Step, if 2 monsters battle: Activate 1 of these effects;$N●Change the attacking monster to Defense Position.$N●Return the attack target monster to the hand.$N●Destroy both battling monsters.$NYou can only activate 1 \"Overexaggeration\" per turn.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/07/27",
+  "species_id": 24,
+  "starchip": "0"
+}

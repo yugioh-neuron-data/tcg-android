@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 6,
+  "card_id": 10125,
+  "card_name": "弦魔人ムズムズリズム",
+  "card_name_label": "げんまじんムズムズリズム",
+  "card_name_search": "げんまじんむずむずりずむ",
+  "card_pen_effect": "",
+  "card_text": "レベル３モンスター×２$N自分フィールド上の「魔人」と名のついたエクシーズモンスターが相手モンスターを攻撃するダメージステップ時に、このカードのエクシーズ素材を１つ取り除いて発動できる。その攻撃モンスターの攻撃力はエンドフェイズ時まで倍になる。「弦魔人ムズムズリズム」の効果は１ターンに１度しか使用できない。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/03/17",
+  "species_id": 3,
+  "starchip": "3"
+}

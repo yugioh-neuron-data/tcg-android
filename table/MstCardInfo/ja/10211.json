@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 5,
+  "card_id": 10211,
+  "card_name": "オヤコーン",
+  "card_name_label": "オヤコーン",
+  "card_name_search": "おやこーん",
+  "card_pen_effect": "",
+  "card_text": "フィールド魔法カードが表側表示で存在する場合、このカードの攻撃力は１０００ポイントアップする。",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/03/21",
+  "species_id": 13,
+  "starchip": "4"
+}

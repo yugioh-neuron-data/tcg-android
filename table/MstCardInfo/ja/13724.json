@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 6,
+  "card_id": 13724,
+  "card_name": "ドラグニティ－セナート",
+  "card_name_label": "ドラグニティ－セナート",
+  "card_name_search": "どらぐにてぃせなーと",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①の効果は１ターンに１度しか使用できない。①：手札から「ドラグニティ」カード１枚を捨てて発動できる。デッキから「ドラグニティ」チューナー１体を選び、装備カード扱いとしてこのカードに装備する。この効果の発動後、ターン終了時まで自分はドラゴン族モンスターしかEXデッキから特殊召喚できない。②：自分フィールドの「ドラグニティ」カードが戦闘・効果で破壊される場合、代わりにこのカードに装備された「ドラグニティ」カード１枚を破壊できる。",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/04/14",
+  "species_id": 16,
+  "starchip": "4"
+}

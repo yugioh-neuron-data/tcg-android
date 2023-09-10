@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 3,
+  "card_id": 14630,
+  "card_name": "Marincipessa Coda Coronata",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante il calcolo dei danni, se un mostro combatte con un altro mostro (Effetto Rapido): puoi mandare 1 altro mostro \"Marincipessa\" dalla tua mano al Cimitero; Evoca Specialmente questa carta dalla tua mano e, se lo fai, il danno che subisci da quella battaglia viene dimezzato. All'inizio del Damage Step, se un mostro dell'avversario attacca: puoi bandire questa carta dal tuo Cimitero; in questo turno, non subisci il danno da combattimento che è pari o inferiore alla somma delle Classificazioni Link dei Mostri Link \"Marincipessa\" nel tuo Cimitero x 1000. Puoi utilizzare ogni effetto di \"Marincipessa Coda Coronata\" una sola volta per turno.",
+  "defense_power": "2300",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/10/24",
+  "species_id": 27,
+  "starchip": "5"
+}

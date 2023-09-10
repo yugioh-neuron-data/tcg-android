@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 4,
+  "card_id": 18916,
+  "card_name": "Soldat Volcanique",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez ajouter 1 carte \"Volcanique\" (\"Soldat Volcanique\" exclu) depuis votre Deck à votre main. Vous pouvez défausser 1 carte ; Invoquez Spécialement 1 \"Jeton Bombe\" (Pyro/FEU/Niveau 1/ATK 1000/DEF 1000) sur le Terrain de votre adversaire. Chaque fois qu'1 est détruit, son contrôleur reçoit 500 points de dommages. Vous ne pouvez utiliser chaque effet de \"Soldat Volcanique\" qu'une fois par tour.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/08/10",
+  "species_id": 4,
+  "starchip": "3"
+}

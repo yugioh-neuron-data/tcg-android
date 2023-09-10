@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 5,
+  "card_id": 12026,
+  "card_name": "Rafflesia Atrapadora",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 monstruos de Nivel 4$NNo es afectada por efectos de Trampas mientras tenga material. Los monstruos \"Atrapadora\" que controles, excepto \"Rafflesia Atrapadora\", no pueden ser destruidos en batalla o por efectos de cartas. Tu adversario no puede seleccionar monstruos \"Atrapadora\" que controles con efectos de cartas, excepto \"Rafflesia Atrapadora\". Una vez por turno (Efecto Rápido): puedes desacoplar 1 material de esta carta y mandar al Cementerio 1 Trampa Normal \"Agujero\" en tu Deck que cumpla sus condiciones de activación; este efecto se convierte en el efecto de esa Carta de Trampa cuando esa carta es activada.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/01/14",
+  "species_id": 13,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 6,
+  "card_id": 6589,
+  "card_name": "Haftender Sprengstoff",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Vor der Schadensberechnung, falls diese Karte von einem Monster deines Gegners angegriffen wurde und am Beginn des Damage Steps in verdeckter Verteidigungsposition lag: Rüste das angreifende Monster mit dieser Karte aus. Dann, während der nächsten Standby Phase deines Gegners, zerstöre das Monster, das diese Karte ausrüstet.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/03/15",
+  "species_id": 7,
+  "starchip": "3"
+}

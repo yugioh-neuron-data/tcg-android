@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 2,
+  "card_id": 14739,
+  "card_name": "D/D Evil",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Once, while this card is in your Pendulum Zone, when your opponent Pendulum Summons a monster(s) (except during the Damage Step): You can activate this effect; this turn, that Pendulum Summoned monster cannot attack, also its effects are negated.",
+  "card_text": "Cannot attack unless you control another \"D/D\" monster. During your opponent's Main Phase (Quick Effect): You can target 1 face-up Pendulum Summoned monster your opponent controls; negate that face-up monster's effects until the end of this turn. You can only use this effect of \"D/D Evil\" once per turn.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "8",
+  "pen_scale_r": "8",
+  "sales_at": "2020/08/07",
+  "species_id": 3,
+  "starchip": "4"
+}

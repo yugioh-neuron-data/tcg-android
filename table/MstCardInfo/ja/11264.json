@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11264,
+  "card_name": "カバーカーニバル",
+  "card_name_label": "カバーカーニバル",
+  "card_name_search": "かばーかーにばる",
+  "card_pen_effect": "",
+  "card_text": "①：自分フィールドに「カバートークン」（獣族・地・星１・攻／守０）３体を特殊召喚する。このトークンはリリースできない。「カバートークン」がモンスターゾーンに存在する限り、自分はエクストラデッキからモンスターを特殊召喚できない。このカードの発動後、ターン終了時まで相手は「カバートークン」以外のモンスターを攻撃対象にできない。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/04/19",
+  "species_id": 24,
+  "starchip": "0"
+}

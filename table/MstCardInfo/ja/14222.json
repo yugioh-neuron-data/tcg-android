@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14222,
+  "card_name": "シャイニング・ドロー",
+  "card_name_label": "シャイニング・ドロー",
+  "card_name_search": "しゃいにんぐどろー",
+  "card_pen_effect": "",
+  "card_text": "①：自分ドローフェイズに通常のドローをしたこのカードを公開し続ける事で、そのターンのメインフェイズ１に、自分フィールドの「希望皇ホープ」Xモンスター１体を対象として、以下の効果から１つを選択して発動できる。$N●デッキ・EXデッキからカード名が異なる「ZW」モンスターを任意の数だけ選び、装備カード扱いとして対象のモンスターに装備する。$N●対象の自分のモンスターとはカード名が異なる「希望皇ホープ」Xモンスター１体を、そのモンスターの上に重ねてX召喚扱いとしてEXデッキから特殊召喚する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/12/22",
+  "species_id": 24,
+  "starchip": "0"
+}

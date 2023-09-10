@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 10152,
+  "card_name": "マドルチェ・メェプル",
+  "card_name_label": "マドルチェ・メェプル",
+  "card_name_search": "まどるちぇめぇぷる",
+  "card_pen_effect": "",
+  "card_text": "このカードが相手によって破壊され墓地へ送られた時、このカードをデッキに戻す。１ターンに１度、自分フィールド上に表側攻撃表示で存在する「マドルチェ」と名のついたモンスター１体と、相手フィールド上に表側攻撃表示で存在するモンスター１体を選択して発動できる。選択した２体のモンスターを表側守備表示にし、次の相手ターン終了時まで、選択したモンスターは表示形式を変更できない。",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/04/14",
+  "species_id": 11,
+  "starchip": "3"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 11100,
+  "card_name": "ラスト・カウンター",
+  "card_name_label": "ラスト・カウンター",
+  "card_name_search": "らすとかうんたー",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上の「BK」と名のついたモンスターが相手モンスターと戦闘を行う攻撃宣言時に発動できる。その攻撃を無効にし、その自分のモンスターを墓地へ送る。その相手モンスターの元々の攻撃力分、自分フィールド上の「BK」と名のついたモンスター１体の攻撃力をアップし、その相手モンスターとダメージ計算を行う。その後、自分はこのカードの効果でアップした攻撃力の数値分のダメージを受ける。",
+  "defense_power": "0",
+  "effect_id": 1,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/02/15",
+  "species_id": 25,
+  "starchip": "0"
+}

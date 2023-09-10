@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15643,
+  "card_name": "Drytron Fafnir",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsque cette carte est activée : vous pouvez ajouter 1 Magie/Piège \"Drytron\" (\"Drytron Fafnir\" exclu) depuis votre Deck à votre main. L'activation et les effets activés des Cartes Magie Rituelle ne peuvent pas être annulés. Une fois par tour, si un monstre est Invoqué Normalement ou Spécialement face recto tant que vous contrôlez un monstre \"Drytron\" (sauf durant la Damage Step) : le reste de ce tour, vous pouvez réduire le Niveau du monstre de 1 pour chaque 1000 ATK de son ATK actuelle (min. Niveau 1). Vous ne pouvez activer qu'1 \"Drytron Fafnir\" par tour.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/12/03",
+  "species_id": 24,
+  "starchip": "0"
+}

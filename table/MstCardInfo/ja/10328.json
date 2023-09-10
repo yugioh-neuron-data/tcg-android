@@ -1,0 +1,23 @@
+{
+  "attack_power": "2200",
+  "attribute_id": 4,
+  "card_id": 10328,
+  "card_name": "炎星侯－ホウシン",
+  "card_name_label": "えんせいこう－ホウシン",
+  "card_name_search": "えんせいこうほうしん",
+  "card_pen_effect": "",
+  "card_text": "炎属性チューナー＋チューナー以外のモンスター１体以上$N①：このカードがS召喚に成功した時に発動できる。デッキから炎属性・レベル３モンスター１体を特殊召喚する。②：このカードがS召喚に成功したターン、自分はレベル５以上のモンスターを特殊召喚できない。",
+  "defense_power": "2200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/07/21",
+  "species_id": 12,
+  "starchip": "6"
+}

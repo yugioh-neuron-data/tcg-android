@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 5,
+  "card_id": 18159,
+  "card_name": "Bio-Armure d'Insecte",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si cette carte est dans votre main ou Cimetière et que vous ne contrôlez pas \"Bio-Armure d'Insecte\" : vous pouvez cibler 1 monstre Insecte que vous contrôlez ; équipez-lui cette carte, mais bannissez-le lorsqu'il quitte le Terrain, et aussi, bannissez cette Carte d'Équipement lorsqu'elle quitte le Terrain. Vous ne pouvez utiliser cet effet de \"Bio-Armure d'Insecte\" qu'une fois par tour. Le monstre équipé gagne 1500 ATK/2000 DEF uniquement durant la Battle Phase et Main Phase 2.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/02/06",
+  "species_id": 10,
+  "starchip": "5"
+}

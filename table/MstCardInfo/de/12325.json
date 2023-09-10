@@ -1,0 +1,23 @@
+{
+  "attack_power": "3500",
+  "attribute_id": 2,
+  "card_id": 12325,
+  "card_name": "Überfallraptor - Ultimativer Falke",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "3 Geflügeltes Ungeheuer-Monster der Stufe 10$NBleibt von den Effekten anderer Karten unberührt. Du kannst 1 Material von dieser Karte abhängen; für den Rest dieses Spielzugs verlieren alle Monster, die dein Gegner kontrolliert, 1000 ATK, zusätzlich kann dein Gegner weder Karten noch Effekte aktivieren. Falls diese Karte ein „Überfallraptor“-Monster als Material hat, erhält sie diesen Effekt.$N●Einmal pro Spielzug, während der End Phase: Du kannst alle Monster, die dein Gegner kontrolliert, 1000 ATK verlieren lassen, zusätzlich, falls dein Gegner keine offenen Monster kontrolliert, füge deinem Gegner 1000 Schaden zu.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/05/05",
+  "species_id": 16,
+  "starchip": "10"
+}

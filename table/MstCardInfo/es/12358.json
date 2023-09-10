@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 3,
+  "card_id": 12358,
+  "card_name": "Chica Maga Choco",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Una vez por turno: puedes descartar 1 monstruo de Tipo Lanzador de Conjuros; roba 1 carta. Una vez por turno, si esta carta es seleccionada para un ataque: puedes seleccionar 1 monstruo de Tipo Lanzador de Conjuros en tu Cementerio, excepto \"Chica Maga Choco\"; Invócalo de Modo Especial, y después cambia el objetivo del ataque a él y, si lo haces, el ATK del monstruo atacante se convierte en la mitad de su ATK en este momento.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/07/21",
+  "species_id": 18,
+  "starchip": "4"
+}

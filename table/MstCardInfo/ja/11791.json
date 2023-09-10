@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 5,
+  "card_id": 11791,
+  "card_name": "超重武者タイマ－２",
+  "card_name_label": "ちょうじゅうむしゃタイマ－ツー",
+  "card_name_search": "ちょうじゅうむしゃたいまつー",
+  "card_pen_effect": "",
+  "card_text": "①：相手モンスターの攻撃宣言時に自分の墓地に魔法・罠カードが存在しない場合、このカードを手札から墓地へ送り、自分フィールドの「超重武者」モンスター１体を対象として発動できる。攻撃対象をそのモンスターに移し替えてダメージ計算を行う。②：１ターンに１度、相手モンスターの攻撃宣言時に発動できる。攻撃対象をこのカードに移し替えてダメージ計算を行う。③：このカードは戦闘では破壊されない。",
+  "defense_power": "300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/04/25",
+  "species_id": 7,
+  "starchip": "1"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 1,
+  "card_id": 10624,
+  "card_name": "武神器－オロチ",
+  "card_name_label": "ぶじんぎ－オロチ",
+  "card_name_search": "ぶじんぎおろち",
+  "card_pen_effect": "",
+  "card_text": "自分のメインフェイズ１で、このカードを手札から墓地へ送り、自分フィールド上の「武神」と名のついたモンスター１体を選択して発動できる。このターン、選択したモンスターは相手プレイヤーに直接攻撃できる。",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/04/20",
+  "species_id": 16,
+  "starchip": "4"
+}

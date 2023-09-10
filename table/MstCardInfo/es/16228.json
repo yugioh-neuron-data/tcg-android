@@ -1,0 +1,23 @@
+{
+  "attack_power": "4000",
+  "attribute_id": 6,
+  "card_id": 16228,
+  "card_name": "Dragón Estelar Majestuoso Fugaz",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"Dragón Majestuoso\" + 1+ monstruos que no sean Cantantes, incluyendo un Monstruo de Sincronía Dragón$NDebe ser primero Invocado por Sincronía. Una vez por turno: puedes negar los efectos de 1 Monstruo de Efecto que controle tu adversario. Cada Battle Phase, esta carta gana 1 ataque adicional por cada monstruo en tu Cementerio que sea \"Dragón de Polvo de Estrellas\" o sea un Monstruo de Sincronía con \"Dragón de Polvo de Estrellas\" en su texto. Una vez por turno, cuando tu adversario activa una carta o efecto (Efecto Rápido): puedes desterrar esta carta (hasta la End Phase) y, si lo haces, niega la activación y, si haces eso, destierra esa carta.",
+  "defense_power": "3300",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/08/12",
+  "species_id": 1,
+  "starchip": "11"
+}

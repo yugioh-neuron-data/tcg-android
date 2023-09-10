@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 2,
+  "card_id": 7727,
+  "card_name": "Assassin des Ténèbres",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "L'effet de cette carte change selon le nombre de monstres TÉNÈBRES dans votre Cimetière.$N ●1 ou moins : Cette carte perd 400 points d'ATK.$N ●2 à 4 : Cette carte gagne 400 points d'ATK.$N ●5 ou plus : Vous pouvez envoyer cette carte au Cimetière pour détruire tous les monstres face verso contrôlés par votre adversaire.",
+  "defense_power": "400",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/09/02",
+  "species_id": 3,
+  "starchip": "4"
+}

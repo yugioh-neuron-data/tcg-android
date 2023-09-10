@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 4,
+  "card_id": 17158,
+  "card_name": "Musical Sumo Dice Games",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 Level 6 monsters$NAt the start of your opponent's Battle Phase: If this card is in the Main Monster Zone, roll a six-sided die and move this card directly to that many (1 to 6) Main Monster Zones clockwise, and if a monster is already in that zone it moves to, attach that monster to this card as material. (Transfer its materials to this card.) If this effect causes this monster's number of materials to exceed 6, you win the Duel. If this card cannot be moved, or the monster in the zone it moves to cannot be attached, send this card to the GY.",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/05/19",
+  "species_id": 7,
+  "starchip": "6"
+}

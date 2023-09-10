@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 4,
+  "card_id": 15392,
+  "card_name": "キリビ・レディ",
+  "card_name_label": "キリビ・レディ",
+  "card_name_search": "きりびれでぃ",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。$N①：自分フィールドに戦士族モンスターが存在する場合に発動できる。このカードを手札から特殊召喚する。$N②：フィールドのこのカードを墓地へ送って発動できる。手札からレベル４以下の戦士族モンスター１体を特殊召喚する。このターン、相手はこの効果で特殊召喚したモンスターを効果の対象にできない。",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/06/20",
+  "species_id": 15,
+  "starchip": "1"
+}

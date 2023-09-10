@@ -1,0 +1,23 @@
+{
+  "attack_power": "2700",
+  "attribute_id": 4,
+  "card_id": 12818,
+  "card_name": "灼銀の機竜",
+  "card_name_label": "ドラッグ・オン・ヴァーミリオン",
+  "card_name_search": "どらっぐおんう゛ぁーみりおん",
+  "card_pen_effect": "",
+  "card_text": "チューナー＋チューナー以外のモンスター１体以上$N①：１ターンに１度、自分の手札・墓地及び自分フィールドの表側表示モンスターの中からチューナー１体を除外し、フィールドのカード１枚を対象として発動できる。そのカードを破壊する。②：S召喚したこのカードが効果で破壊され墓地へ送られた場合、除外されている自分のチューナー１体を対象として発動できる。そのモンスターを手札に加える。",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/09/09",
+  "species_id": 7,
+  "starchip": "9"
+}

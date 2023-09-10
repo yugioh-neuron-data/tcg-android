@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 12411,
+  "card_name": "BF－逆巻のトルネード",
+  "card_name_label": "ブラックフェザー－さかまきのトルネード",
+  "card_name_search": "ぶらっくふぇざーさかまきのとるねーど",
+  "card_pen_effect": "",
+  "card_text": "①：特殊召喚されたモンスターが相手フィールドに存在し、このカードが召喚に成功した時、自分の墓地の「BF」チューナー１体を対象として発動できる。そのモンスターを特殊召喚する。この効果で特殊召喚したモンスターの効果は無効化される。この効果の発動後、ターン終了時まで自分は「BF」モンスターしかエクストラデッキから特殊召喚できない。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/04/09",
+  "species_id": 16,
+  "starchip": "4"
+}

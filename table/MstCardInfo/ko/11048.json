@@ -1,0 +1,23 @@
+{
+  "attack_power": "900",
+  "attribute_id": 2,
+  "card_id": 11048,
+  "card_name": "삼라의 은밀 스나프",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "패 / 필드 위의 이 카드가 묘지로 보내졌을 경우, 자신 덱의 맨 위의 카드를 넘길 수 있다. 넘긴 카드가 식물족 몬스터였을 경우, 그 몬스터를 묘지로 보낸다. 다를 경우, 그 카드를 덱의 맨 아래로 되돌린다. 또한, 덱의 이 카드가 카드의 효과에 의해 넘겨져 묘지로 보내졌을 경우, 자신 덱의 맨 위의 카드를 넘길 수 있다. 넘긴 카드가 식물족 몬스터였을 경우, 그 몬스터를 묘지로 보낸다. 다를 경우, 그 카드를 덱의 맨 아래로 되돌린다.",
+  "defense_power": "400",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/05/13",
+  "species_id": 13,
+  "starchip": "1"
+}

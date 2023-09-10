@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 1,
+  "card_id": 6594,
+  "card_name": "Schüler des verbotenen Zaubers",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wenn diese Karte als Normal-, Flipp- oder Spezialbeschwörung beschworen wird, deklariere eine Anzahl von Monsterkarteneigenschaften gleich der Anzahl von „Schüler des verbotenen Zaubers“-Karten in deinem Friedhof. Falls diese Karte ein Monster mit einer der deklarierten Eigenschaften angreift, zerstöre das Monster ohne Schadensberechnung.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/03/15",
+  "species_id": 15,
+  "starchip": "4"
+}

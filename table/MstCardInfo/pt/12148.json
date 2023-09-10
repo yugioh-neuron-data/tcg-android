@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 5,
+  "card_id": 12148,
+  "card_name": "Robô-secretário 008",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Você não pode Invocar monstros por Invocação-Pêndulo, exceto monstros \"Robô-secretário\". Este efeito não pode ser negado.",
+  "card_text": "Este card ganha 500 de ATK para cada card \"Robô-secretário\" no seu Cemitério. Seu oponente não pode escolher cards \"Robô-secretário\" com a face para cima como alvo de efeitos de card, exceto este. Este card pode realizar até 2 ataques contra monstros durante cada Fase de Batalha.",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2016/01/15",
+  "species_id": 7,
+  "starchip": "8"
+}

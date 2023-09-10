@@ -1,0 +1,23 @@
+{
+  "attack_power": "2100",
+  "attribute_id": 3,
+  "card_id": 11877,
+  "card_name": "Mare Mare",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "No puede ser Invocado de Modo Especial, excepto por efecto de un monstruo Wyrm. Durante tu Main Phase: puedes reducir en 1 el Nivel de esta carta y, si lo haces, Invoca de Modo Especial 1 \"Ficha Mini Mare Mare\" (Wyrm/AGUA/Nivel 1/ATK 300/DEF 200). Sólo puedes usar este efecto de \"Mare Mare\" hasta tres veces por turno.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/11/03",
+  "species_id": 26,
+  "starchip": "7"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 5,
+  "card_id": 5321,
+  "card_name": "Garde Mystérieux",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "FLIP : Ciblez 1 monstre face recto sur le Terrain, et si vous contrôlez un monstre Guerrier, vous pouvez cibler 1 monstre face recto supplémentaire sur le Terrain ; placez la première cible au-dessus du Deck, puis renvoyez la cible supplémentaire (s'il y en a une) à la main si vous contrôlez toujours un monstre Guerrier.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 24,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/07/22",
+  "species_id": 18,
+  "starchip": "3"
+}

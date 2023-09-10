@@ -1,0 +1,23 @@
+{
+  "attack_power": "-1",
+  "attribute_id": 7,
+  "card_id": 4999,
+  "card_name": "Slifer der Himmelsdrache",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Erfordert 3 Tribute, um als Normalbeschwörung beschworen zu werden. (Kann nicht Normal gesetzt werden.) Die Normalbeschwörung dieser Karte kann nicht annulliert werden. Wenn diese Karte als Normalbeschwörung beschworen wird, können weder Karten noch Effekte aktiviert werden. Einmal pro Spielzug, während der End Phase, falls diese Karte als Spezialbeschwörung beschworen wurde: Lege sie auf den Friedhof. Erhält für jede Karte in deiner Hand 1000 ATK/DEF. Falls ein oder mehr Monster als Normal- oder Spezialbeschwörung auf die Spielfeldseite deines Gegners in die Angriffsposition beschworen werden: Jene Monster verlieren 2000 ATK, dann, falls ihre ATK dadurch auf 0 reduziert wurden, zerstöre sie.",
+  "defense_power": "-1",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/06/27",
+  "species_id": 22,
+  "starchip": "10"
+}

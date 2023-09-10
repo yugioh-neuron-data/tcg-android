@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 12168,
+  "card_name": "破壊剣士の宿命",
+  "card_name_label": "はかいけんしのしゅくめい",
+  "card_name_search": "はかいけんしのしゅくめい",
+  "card_pen_effect": "",
+  "card_text": "「破壊剣士の宿命」の①②の効果はそれぞれ１ターンに１度しか使用できない。①：相手の墓地の同じ種族のモンスターを３体まで対象として発動できる。そのモンスターを除外し、自分フィールドの「バスター・ブレイダー」モンスターまたは「破壊剣」モンスター１体を選び、ターン終了時までその攻撃力・守備力を除外したモンスターの数×５００アップする。②：このカードが墓地に存在する場合、手札から「破壊剣」カード１枚を捨てて発動できる。墓地のこのカードを手札に加える。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/10/17",
+  "species_id": 24,
+  "starchip": "0"
+}

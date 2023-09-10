@@ -1,0 +1,23 @@
+{
+  "attack_power": "3450",
+  "attribute_id": 5,
+  "card_id": 12944,
+  "card_name": "Zefraath",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Durante sua Fase Principal: você pode adicionar 1 Monstro Pêndulo \"Zefra\" do seu Deck ao seu Deck Adicional com a face para cima e, se isso acontecer, até o final deste turno, a Escala de Pêndulo deste card se torna a mesma que a desse Monstro Pêndulo. Você só pode usar este efeito de \"Zefraath\" uma vez por turno.",
+  "card_text": "Não pode ser Invocado por Invocação-Normal/Baixado. Deve ser Invocado por Invocação-Especial (com a face para cima do seu Deck Adicional) ao oferecer como Tributo todos os monstros que você controla, incluindo pelo menos 3 monstros \"Zefra\", e não pode ser Invocado por Invocação-Especial de nenhuma outra forma. Depois de Invocar este card por Invocação-Especial, você pode conduzir 1 Invocação-Pêndulo de um ou mais monstros \"Zefra\" durante sua Fase Principal neste turno, em adição à sua Invocação-Pêndulo. (Você só pode se aproveitar deste efeito uma vez por turno.) Uma vez por turno: você pode oferecer 1 monstro como Tributo; Invoque por Invocação-Especial 1 monstro \"Zefra\" do seu Deck.",
+  "defense_power": "2950",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 40,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2017/05/04",
+  "species_id": 6,
+  "starchip": "11"
+}

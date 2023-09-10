@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 12011,
+  "card_name": "デストーイ・マーチ",
+  "card_name_label": "デストーイ・マーチ",
+  "card_name_search": "ですとーいまーち",
+  "card_pen_effect": "",
+  "card_text": "①：自分フィールドの「デストーイ」モンスターを対象とするモンスターの効果・魔法・罠カードを相手が発動した時に発動できる。その発動を無効にし破壊する。その後、以下の効果を適用できる。●対象となった「デストーイ」モンスター１体を墓地へ送り、レベル８以上の「デストーイ」融合モンスター１体を融合召喚扱いとしてエクストラデッキから特殊召喚する。この効果で特殊召喚したモンスターは、次の自分エンドフェイズに除外される。",
+  "defense_power": "0",
+  "effect_id": 1,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/07/18",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 6361,
+  "card_name": "Laboratoire de Changement de Niveau",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Sélectionnez 1 monstre dans votre main et révélez-le à votre adversaire, puis lancez un dé à six faces. Si le résultat est 1, envoyez le monstre sélectionné au Cimetière. Si le résultat est entre 2 et 6, le Niveau du monstre sélectionné devient égal à ce résultat jusqu'à la End Phase de ce tour.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/06/01",
+  "species_id": 25,
+  "starchip": "0"
+}

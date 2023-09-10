@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16022,
+  "card_name": "Tú y A.I.",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si uno o más monstruos Ciberso con 2300 ATK original son Invocados de Modo Especial: puedes activar 1 de estos efectos, basados en el Atributo de ese o esos monstruos en el Campo;$N●TIERRA/AGUA: Hasta el final de este turno divide a la mitad el ATK de 1 monstruo boca arriba en el Campo.$N●VIENTO/LUZ: Hasta el final de este turno niega los efectos de 1 carta boca arriba en el Campo.$N●FUEGO/OSCURIDAD: Invoca de Modo Especial 1 \"Ficha @Ignister\" (Ciberso/OSCURIDAD/Nivel 1/ATK 0/DEF 0).$NSólo puedes usar cada efecto de \"Tú y A.I.\" una vez por turno por cada Atributo.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/06/03",
+  "species_id": 24,
+  "starchip": "0"
+}

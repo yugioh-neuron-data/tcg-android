@@ -1,0 +1,23 @@
+{
+  "attack_power": "2300",
+  "attribute_id": 3,
+  "card_id": 13879,
+  "card_name": "Tirecodeur Bavard",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2+ monstres Cyberse$NAu début de votre Battle Phase : vous pouvez activer cet effet ; cette Battle Phase, cette carte peut faire des attaques sur un nombre de monstres de votre adversaire, inférieur ou égal au nombre de monstres pointés actuellement par cette carte +1, mais lorsqu'elle attaque l'unique monstre de votre adversaire ce tour, cette carte perd 400 ATK durant ce calcul des dommages uniquement. À la fin de chaque Battle Phase : vous pouvez piocher un nombre de cartes égal au nombre de monstres que cette carte a détruit au combat ce tour.",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "842",
+  "linkno": "3",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/08/22",
+  "species_id": 27,
+  "starchip": ""
+}

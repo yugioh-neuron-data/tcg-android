@@ -1,0 +1,23 @@
+{
+  "attack_power": "1300",
+  "attribute_id": 1,
+  "card_id": 6034,
+  "card_name": "吸収天児",
+  "card_name_label": "きゅうしゅうてんじ",
+  "card_name_search": "きゅうしゅうてんじ",
+  "card_pen_effect": "",
+  "card_text": "このカードが戦闘によってモンスターを破壊し墓地へ送った時、自分は破壊したモンスターのレベル×３００ライフポイント回復する。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/02/26",
+  "species_id": 17,
+  "starchip": "4"
+}

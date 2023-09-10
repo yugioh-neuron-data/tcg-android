@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 12012,
+  "card_name": "DDDの契約変更",
+  "card_name_label": "ディーディーディーのけいやくへんこう",
+  "card_name_search": "でぃーでぃーでぃーのけいやくへんこう",
+  "card_pen_effect": "",
+  "card_text": "①：相手モンスターの攻撃宣言時に以下の効果から１つを選択して発動できる。$N●自分の墓地の「DDD」モンスター１体を選んで除外する。攻撃モンスターの攻撃力は、この効果で除外したモンスターの攻撃力分ダウンする。$N●デッキからレベル４以下の「DD」Pモンスター１体を手札に加える。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/07/18",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 7641,
+  "card_name": "死神の巡遊",
+  "card_name_label": "しにがみのじゅんゆう",
+  "card_name_search": "しにがみのじゅんゆう",
+  "card_pen_effect": "",
+  "card_text": "相手ターンのスタンバイフェイズ時にコイントスを１回行い以下の効果を適用する。$N●表：相手はエンドフェイズ時まで召喚・反転召喚する事ができない。$N●裏：自分は次の自分のターン召喚・反転召喚する事ができない。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/02/23",
+  "species_id": 25,
+  "starchip": "0"
+}

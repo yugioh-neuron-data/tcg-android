@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 14722,
+  "card_name": "起動兵長コマンドリボルバー",
+  "card_name_label": "きどうへいちょうコマンドリボルバー",
+  "card_name_search": "きどうへいちょうこまんどりぼるばー",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①の効果は１ターンに１度しか使用できない。①：自分のフィールド・墓地の機械族の「ガジェット」モンスターを２体まで対象として発動できる（同名カードは１枚まで）。このカードを手札から特殊召喚する。その後、対象の自分の「ガジェット」モンスターを装備カード扱いとしてこのカードに装備する。②：このカードの攻撃力は、このカードの効果で装備しているモンスターの数×１０００アップする。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/10/03",
+  "species_id": 7,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 2,
+  "card_id": 13981,
+  "card_name": "Gefahr!? Wolpertinger?",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Du kannst diese Karte in deiner Hand vorzeigen; dein Gegner bestimmt zufällig 1 Karte von deiner gesamten Hand, dann wirfst du die bestimmte Karte ab. Dann, falls die abgeworfene Karte nicht „Gefahr!? Wolpertinger?“ war, beschwöre 1 „Gefahr!? Wolpertinger?“ als Spezialbeschwörung von deiner Hand und falls du dies tust, ziehe 1 Karte. Falls diese Karte abgeworfen wird: Du kannst 1 „Gefahr!“-Monster als Spezialbeschwörung von deinem Deck in die Verteidigungsposition beschwören, außer „Gefahr!? Wolpertinger?“. Du kannst diesen Effekt von „Gefahr!? Wolpertinger?“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/07/26",
+  "species_id": 11,
+  "starchip": "3"
+}

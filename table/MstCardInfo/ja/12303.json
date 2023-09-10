@@ -1,0 +1,23 @@
+{
+  "attack_power": "2750",
+  "attribute_id": 5,
+  "card_id": 12303,
+  "card_name": "アモルファージ・イリテュム",
+  "card_name_label": "アモルファージ・イリテュム",
+  "card_name_search": "あもるふぁーじいりてゅむ",
+  "card_pen_effect": "このカードのコントローラーは、自分スタンバイフェイズ毎に自分フィールドのモンスター１体をリリースする。またはリリースせずにこのカードを破壊する。①：自分フィールドに「アモルファージ」モンスターが存在する限り、「アモルファージ」カード以外のお互いの墓地へ送られるカードは墓地へは行かず除外される。",
+  "card_text": "①：このカードがモンスターゾーンに存在する限り、お互いに「アモルファージ」モンスターしかエクストラデッキから特殊召喚できない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2016/01/09",
+  "species_id": 1,
+  "starchip": "8"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 16881,
+  "card_name": "Fantastruco o Trato",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si controlas una Mágica de Campo \"Fantastruco\" o un Monstruo de Enlace \"Fantastruco\": puedes seleccionar 1 monstruo boca arriba que controle tu adversario; tu adversario puede pagar 2000 LP para hacer que el efecto de esta carta sea \"Coloca esta carta en vez de mandarla al Cementerio después de la activación\", de otro modo, por el resto de este turno, ese monstruo boca arriba no puede atacar, sus efectos son negados, y además se cambia a Posición de Defensa boca abajo durante la End Phase. Sólo puedes activar 1 \"Fantastruco o Trato\" por turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/02/10",
+  "species_id": 25,
+  "starchip": "0"
+}

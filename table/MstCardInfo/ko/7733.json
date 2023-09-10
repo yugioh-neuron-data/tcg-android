@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 4,
+  "card_id": 7733,
+  "card_name": "니트로 워리어",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"니트로 싱크론\" ＋ 튜너 이외의 몬스터 1장 이상$N자신의 턴에 자신이 마법 카드를 발동했을 경우, 그 턴의 데미지 계산시에만 1번 이 카드의 공격력은 1000 포인트 올린다. 이 카드의 공격에 의해서 상대 몬스터를 파괴했을 경우, 상대 필드 위에 앞면 수비 표시로 존재하는 몬스터 1장을 공격 표시로 하고 그 몬스터를 계속해서 공격할 수 있다.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/10/07",
+  "species_id": 15,
+  "starchip": "7"
+}

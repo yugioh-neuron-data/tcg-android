@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14547,
+  "card_name": "命の水",
+  "card_name_label": "いのちのみず",
+  "card_name_search": "いのちのみず",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：自分フィールドにモンスターが存在しない場合、自分の墓地のモンスター１体を対象として発動できる。そのモンスターを攻撃表示で特殊召喚する。このカードの発動後、ターン終了時まで自分はこの効果で特殊召喚したフィールドのモンスター以外のモンスターの効果を発動できない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/05/18",
+  "species_id": 24,
+  "starchip": "0"
+}

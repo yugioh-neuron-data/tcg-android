@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 4,
+  "card_id": 10509,
+  "card_name": "Bruderschaft der Feuerfaust - Nashorn",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls ein „Feuerfaust“-Monster, das du kontrollierst, angreift oder angegriffen wird, während der Schadensberechnung (im Spielzug eines beliebigen Spielers): Du kannst einmal pro Kampf 1 offene „Feuerformation“-Zauber-/Fallenkarte, die du kontrollierst, und 1 „Feuerfaust“-Monster von deiner Hand auf den Friedhof legen; dein angreifendes/angegriffenes Monster erhält nur während der Schadensberechnung ATK in Höhe der Grund-ATK des auf den Friedhof gelegten Monsters.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/05/16",
+  "species_id": 12,
+  "starchip": "4"
+}

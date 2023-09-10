@@ -1,0 +1,23 @@
+{
+  "attack_power": "1900",
+  "attribute_id": 2,
+  "card_id": 16851,
+  "card_name": "神隠し鬼火丸",
+  "card_name_label": "かみかくしおにびまる",
+  "card_name_search": "かみかくしおにびまる",
+  "card_pen_effect": "",
+  "card_text": "レベル２モンスター×２体以上$Nこのカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードのX素材を１つ取り除き、相手フィールドのモンスター１体を対象として発動できる。そのモンスターを相手エンドフェイズまで除外する。②：このカードが相手によって破壊された場合、このカードが持っていたX素材の数まで、除外されている自分・相手のモンスターを対象として発動できる。そのモンスターを持ち主のデッキに戻す。",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/10/16",
+  "species_id": 3,
+  "starchip": "2"
+}

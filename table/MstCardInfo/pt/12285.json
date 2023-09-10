@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 1,
+  "card_id": 12285,
+  "card_name": "Tigresa Luzlunar",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Uma vez por turno: você pode escolher 1 monstro \"Luzlunar\" no seu Cemitério; Invoque-o por Invocação-Especial, mas ele não pode atacar, seus efeitos são negados e, além disso, ele é destruído durante a Fase Final.",
+  "card_text": "Se este card no campo for destruído em batalha ou por um efeito de card: você pode escolher 1 monstro \"Luzlunar\" no seu Cemitério; Invoque-o por Invocação-Especial. Você só pode usar este efeito de \"Tigresa Luzlunar\" uma vez por turno.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2016/05/05",
+  "species_id": 12,
+  "starchip": "3"
+}

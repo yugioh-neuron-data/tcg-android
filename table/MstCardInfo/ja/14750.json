@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 4,
+  "card_id": 14750,
+  "card_name": "炎斬機マグマ",
+  "card_name_label": "エンザンキマグマ",
+  "card_name_search": "えんざんきまぐま",
+  "card_pen_effect": "",
+  "card_text": "チューナー＋チューナー以外のモンスター１体以上$Nこのカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが戦闘でモンスターを破壊した時、相手フィールドのカードを２枚まで対象として発動できる。そのカードを破壊する。②：このカードが戦闘または相手の効果で破壊された場合に発動できる。デッキから「斬機」魔法・罠カード１枚を手札に加える。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 19,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/08/03",
+  "species_id": 27,
+  "starchip": "8"
+}

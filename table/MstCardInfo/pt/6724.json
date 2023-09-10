@@ -1,0 +1,23 @@
+{
+  "attack_power": "2700",
+  "attribute_id": 1,
+  "card_id": 6724,
+  "card_name": "Gilti-Gearfried, o Cavaleiro de Aço Mágico",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 monstros Guerreiro com Atributos diferentes$NUma vez por turno, quando um card ou efeito for ativado que escolha este card como alvo (Efeito Rápido): você pode negar o efeito e, se isso acontecer, destrua 1 card no campo. Se este card foi Invocado por Invocação-Fusão usando apenas monstros no campo como matéria, ele pode realizar um segundo ataque durante cada Fase de Batalha. Uma vez por turno, se este card batalhar um monstro do oponente, durante o cálculo de dano (Efeito Rápido): você pode banir 1 Magia do seu Cemitério; até o final deste turno, este card ganha ATK igual à metade da sua DEF atual.",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/07/08",
+  "species_id": 15,
+  "starchip": "8"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 5,
+  "card_id": 14990,
+  "card_name": "Gouki Eisenklaue",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Während des Damage Steps, wenn dein „Gouki“-Monster gegen ein Monster eines Gegners kämpft (Schnelleffekt): Du kannst diese Karte von deiner Hand auf den Friedhof legen; bis zum Ende dieses Spielzugs erhält dein Monster 500 ATK und falls es dies tut, bleibt es von Karteneffekten deines Gegners unberührt. Falls diese Karte vom Spielfeld auf den Friedhof gelegt wird: Du kannst deiner Hand 1 „Gouki“-Karte von deinem Deck hinzufügen, außer „Gouki Eisenklaue“. Du kannst jeden Effekt von „Gouki Eisenklaue“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/30",
+  "species_id": 15,
+  "starchip": "2"
+}

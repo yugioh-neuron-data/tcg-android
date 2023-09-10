@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 2,
+  "card_id": 5756,
+  "card_name": "ブラック・マジシャンズ・ナイト",
+  "card_name_label": "ブラック・マジシャンズ・ナイト",
+  "card_name_search": "ぶらっくまじしゃんずないと",
+  "card_pen_effect": "",
+  "card_text": "このカードは通常召喚できない。「騎士の称号」の効果でのみ特殊召喚できる。①：このカードが特殊召喚に成功した場合、フィールドのカード１枚を対象として発動する。そのカードを破壊する。",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2003/03/20",
+  "species_id": 15,
+  "starchip": "7"
+}

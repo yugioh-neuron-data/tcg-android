@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 5,
+  "card_id": 12159,
+  "card_name": "ゴヨウ・キング",
+  "card_name_label": "ゴヨウ・キング",
+  "card_name_search": "ごようきんぐ",
+  "card_pen_effect": "",
+  "card_text": "チューナー＋チューナー以外のSモンスター１体以上$N①：このカードが相手モンスターに攻撃する攻撃宣言時に発動する。このカードの攻撃力はダメージステップ終了時まで、自分フィールドの戦士族・地属性のSモンスターの数×４００アップする。②：このカードが戦闘で相手モンスターを破壊し墓地へ送った時、以下の効果から１つを選択して発動できる。●破壊したそのモンスターを自分フィールドに特殊召喚する。●相手フィールドの表側表示モンスター１体を選んでコントロールを得る。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/10/17",
+  "species_id": 15,
+  "starchip": "8"
+}

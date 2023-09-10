@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 2,
+  "card_id": 6410,
+  "card_name": "Van'Dalgyon, il Signore dei Draghi Oscuri",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se annulli l'attivazione di una o più Carte Magia/Trappola dell'avversario, o uno o più effetti di un mostro dell'avversario, con una Carta Contro-Trappola (eccetto durante il Damage Step): puoi Evocare Specialmente questa carta dalla tua mano. Se viene Evocato in questo modo, attiva questi effetti e risolvili in ordine, a seconda del tipo di carte annullate da quella Contro-Trappola:$N●Magia: Infliggi 1500 danni al tuo avversario.$N●Trappola: Scegli come bersaglio 1 carta controllata dal tuo avversario; distruggi quel bersaglio.$N●Mostro: Scegli come bersaglio 1 mostro nel tuo Cimitero; Evocalo Specialmente.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/08/26",
+  "species_id": 1,
+  "starchip": "8"
+}

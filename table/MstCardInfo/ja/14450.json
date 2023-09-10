@@ -1,0 +1,23 @@
+{
+  "attack_power": "900",
+  "attribute_id": 2,
+  "card_id": 14450,
+  "card_name": "クロス・デバッガー",
+  "card_name_label": "クロス・デバッガー",
+  "card_name_search": "くろすでばっがー",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドにリンクモンスターが２体以上存在する場合に発動できる。このカードを手札から特殊召喚する。②：自分と相手のリンクモンスター同士が戦闘を行うダメージ計算時に、墓地のこのカードを除外し、自分の墓地のリンクモンスター１体を対象として発動できる。その戦闘を行う自分のモンスターの攻撃力はターン終了時まで対象のモンスターの攻撃力分アップし、その戦闘では破壊されない。",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/04/13",
+  "species_id": 27,
+  "starchip": "2"
+}

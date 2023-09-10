@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 13175,
+  "card_name": "Assaut Amazonesse",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Une fois par tour, durant la Battle Phase : vous pouvez Invoquer Spécialement 1 monstre \"Amazonesse\" depuis votre main, et si vous le faites, il gagne 500 ATK jusqu'à la fin de ce tour (même si cette carte quitte le Terrain). Après le calcul des dommages, si votre monstre \"Amazonesse\" combat un monstre de l'adversaire tant que cette carte est déjà face recto dans votre Zone Magie & Piège : vous pouvez bannir le monstre de l'adversaire. Si cette carte sur le Terrain est détruite et envoyée au Cimetière : vous pouvez cibler 1 monstre \"Amazonesse\" dans votre Cimetière ; Invoquez-le Spécialement.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/09/07",
+  "species_id": 25,
+  "starchip": "0"
+}

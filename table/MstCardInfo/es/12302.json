@@ -1,0 +1,23 @@
+{
+  "attack_power": "2250",
+  "attribute_id": 5,
+  "card_id": 12302,
+  "card_name": "Amórfago Pereza",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Mientras controles un monstruo \"Amórfago/a\", ningún jugador puede añadir a su mano cartas en su Deck excepto robándolas. Una vez por turno, durante tu Standby Phase, Sacrifica 1 monstruo o destruye esta carta.",
+  "card_text": "Ningún jugador puede Invocar monstruos de Modo Especial desde el Deck Extra, excepto monstruos \"Amórfago/a\".",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2016/05/05",
+  "species_id": 1,
+  "starchip": "6"
+}

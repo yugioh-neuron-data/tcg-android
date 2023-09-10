@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 13134,
+  "card_name": "Samurai Superpesante Aiutante",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante il calcolo dei danni, se un tuo mostro in Posizione di Difesa combatte con un mostro dell'avversario mentre non hai nessuna Magia/Trappola nel tuo Cimitero (Effetto Rapido): puoi scartare questa carta, poi scegliere come bersaglio 1 mostro \"Samurai Superpesante\" che controlli diverso dal mostro che sta combattendo; il tuo mostro che sta combattendo guadagna DEF pari al DEF di quel mostro, solamente durante quel calcolo dei danni. Quando un mostro dell'avversario dichiara un attacco diretto: puoi bandire questa carta dal tuo Cimitero, poi scegliere come bersaglio 1 mostro \"Samurai Superpesante\" nel tuo Cimitero; Evocalo Specialmente.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/07/06",
+  "species_id": 7,
+  "starchip": "1"
+}

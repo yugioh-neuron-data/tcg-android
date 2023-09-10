@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 16874,
+  "card_name": "Alerte Dinomorphia",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Payez la moitié de vos LP ; Invoquez Spécialement max. 2 monstres \"Dinomorphia\" depuis votre Cimetière dont le Niveau total est égal à max. 8, mais vous ne pouvez pas déclarer d'attaque avec eux ce tour, et aussi, vous ne pouvez pas Invoquer Spécialement de monstres (monstres \"Dinomorphia\" exclus) le reste de ce tour. Lorsque votre adversaire active une carte ou un effet, tant que vos LP sont inférieurs ou égaux à 2000 : vous pouvez bannir cette carte depuis votre Cimetière ; ce tour, vous ne recevez aucun dommage d'effet des effets de carte de votre adversaire. Vous ne pouvez activer qu'1 \"Alerte Dinomorphia\" par tour.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/02/10",
+  "species_id": 25,
+  "starchip": "0"
+}

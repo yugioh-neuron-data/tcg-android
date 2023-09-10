@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 1,
+  "card_id": 15084,
+  "card_name": "Seleglare le Dragon Lunaire Lumineux",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Vous pouvez Invoquer/Poser Normalement cette carte sans Sacrifice, mais son ATK d'origine devient 1500. Durant la Main Phase (Effet Rapide) : vous pouvez cibler 1 monstre contrôlé par votre adversaire avec une ATK inférieure ou égale à cette carte ; renvoyez cette carte à la main, et si vous le faites, prenez le contrôle du monstre de l'adversaire jusqu'à la End Phase. Vous ne pouvez utiliser cet effet de \"Seleglare le Dragon Lunaire Lumineux\" qu'une fois par tour.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/08/06",
+  "species_id": 1,
+  "starchip": "6"
+}

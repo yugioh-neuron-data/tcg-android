@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 14726,
+  "card_name": "機動砲塁 パワー・ホールド",
+  "card_name_label": "きどうほうるい　パワー・ホールド",
+  "card_name_search": "きどうほうるいぱわーほーるど",
+  "card_pen_effect": "",
+  "card_text": "①：このカードは発動後、効果モンスター（機械族・地・星４・攻０／守２０００）となり、モンスターゾーンに特殊召喚する。その後、手札・デッキから機械族・レベル４の「ガジェット」モンスター１体を選び、装備カード扱いとしてこのカードに装備できる。このカードは罠カードとしても扱う。②：このカードの効果で特殊召喚されたこのカードの攻撃力は、このカードの効果で装備しているモンスターの攻撃力の倍の数値分アップする。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/10/03",
+  "species_id": 25,
+  "starchip": "0"
+}

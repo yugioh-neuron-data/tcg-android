@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10077,
+  "card_name": "蛮勇鱗粉",
+  "card_name_label": "バーサーク・スケールス",
+  "card_name_search": "ばーさーくすけーるす",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上に表側表示で存在するモンスター１体を選択して発動できる。選択したモンスターの攻撃力は１０００ポイントアップし、このターン相手プレイヤーに直接攻撃できない。このターンのエンドフェイズ時、選択したモンスターの攻撃力は２０００ポイントダウンする。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/02/18",
+  "species_id": 24,
+  "starchip": "0"
+}

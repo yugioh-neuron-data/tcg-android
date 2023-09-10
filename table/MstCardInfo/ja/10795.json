@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10795,
+  "card_name": "ヴァンパイア帝国",
+  "card_name_label": "ヴァンパイアエンパイア",
+  "card_name_search": "う゛ぁんぱいあえんぱいあ",
+  "card_pen_effect": "",
+  "card_text": "フィールド上のアンデット族モンスターの攻撃力はダメージ計算時のみ５００ポイントアップする。また、１ターンに１度、相手のデッキからカードが墓地へ送られた時、自分の手札・デッキから「ヴァンパイア」と名のついた闇属性モンスター１体を墓地へ送り、フィールド上のカード１枚を選択して破壊する。",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/07/20",
+  "species_id": 24,
+  "starchip": "0"
+}

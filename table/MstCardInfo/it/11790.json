@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 5,
+  "card_id": 11790,
+  "card_name": "Artistamico Percussionilla",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Una volta per turno, quando viene dichiarato un attacco che coinvolge un mostro che controlli e un mostro dell'avversario: puoi scegliere come bersaglio quel mostro che controlli; esso guadagna 600 ATK fino alla fine della Battle Phase (anche se questa carta lascia il Terreno).",
+  "card_text": "Se non ci sono mostri sul Terreno, puoi Evocare Normalmente questa carta senza offrire Tributi. Se questa carta viene Evocata Normalmente senza offrire Tributi, il suo Livello diventa 4. Una volta per turno, quando viene dichiarato un attacco che coinvolge un mostro che controlli e un mostro dell'avversario: puoi scegliere come bersaglio quel mostro che controlli; esso guadagna 600 ATK fino alla fine della Battle Phase.",
+  "defense_power": "900",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "2",
+  "pen_scale_r": "2",
+  "sales_at": "2015/08/06",
+  "species_id": 11,
+  "starchip": "5"
+}

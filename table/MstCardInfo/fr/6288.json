@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 6288,
+  "card_name": "Attaque Alliée",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Ciblez 1 monstre face recto que vous contrôlez ; additionnez les ATK de tous les autres monstres en Position d'Attaque face recto que vous contrôlez actuellement, puis durant la Battle Phase de ce tour uniquement, le monstre gagne ce montant d'ATK, mais il ne peut pas infliger de dommages de combat à votre adversaire, et aussi, les autres monstres en Position d'Attaque face recto ne peuvent pas attaquer.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/05/13",
+  "species_id": 24,
+  "starchip": "0"
+}

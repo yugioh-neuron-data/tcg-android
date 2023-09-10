@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11184,
+  "card_name": "Acoplador de Trenes",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Debe ser equipado a un monstruo Máquina de TIERRA, desterrando 2 monstruos Máquina de Nivel 10 o mayor en tu Cementerio. El ATK del monstruo equipado se convierte en el doble de su ATK original, y además si éste ataca a un monstruo en Posición de Defensa, inflige daño de batalla de penetración a tu adversario. Los otros monstruos que controles no pueden atacar.",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/04/24",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 15376,
+  "card_name": "ハイレート・ドロー",
+  "card_name_label": "ハイレート・ドロー",
+  "card_name_search": "はいれーとどろー",
+  "card_pen_effect": "",
+  "card_text": "このカード名の②の効果は１ターンに１度しか使用できない。①：自分フィールドのモンスターを２体以上任意の数だけ選んで破壊し、破壊したモンスター２体につき１枚、自分はデッキからドローする。②：このカードが墓地に存在する場合、相手メインフェイズに、自分フィールドのモンスター１体を対象として発動できる。そのモンスターを破壊し、このカードを自分フィールドにセットする。この効果でセットしたこのカードはフィールドから離れた場合に除外される。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/06/20",
+  "species_id": 25,
+  "starchip": "0"
+}

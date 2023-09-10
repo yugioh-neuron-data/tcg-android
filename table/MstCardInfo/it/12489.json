@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 2,
+  "card_id": 12489,
+  "card_name": "Drago Pandemico",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Una volta per turno: puoi pagare LP in multipli di 100; gli altri mostri scoperti sul Terreno perdono quell'ammontare di ATK. Una volta per turno: puoi scegliere come bersaglio 1 mostro sul Terreno con ATK pari o inferiore a quello di questa carta; distruggilo. Se questa carta viene distrutta in battaglia o dall'effetto di una carta: tutti i mostri scoperti sul Terreno perdono 1000 ATK.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/07/21",
+  "species_id": 1,
+  "starchip": "7"
+}

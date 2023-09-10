@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 3,
+  "card_id": 12606,
+  "card_name": "水晶機巧－シトリィ",
+  "card_name_label": "クリストロン－シトリィ",
+  "card_name_search": "くりすとろんしとりぃ",
+  "card_pen_effect": "",
+  "card_text": "このカード名の効果は１ターンに１度しか使用できない。①：相手のメインフェイズ及びバトルフェイズに、チューナー以外の自分の墓地のモンスター１体を対象として発動できる。そのモンスターを効果を無効にして特殊召喚し、そのモンスターとこのカードのみを素材として機械族Sモンスター１体をS召喚する。その時のS素材モンスターは墓地へは行かず除外される。",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/07/09",
+  "species_id": 7,
+  "starchip": "2"
+}

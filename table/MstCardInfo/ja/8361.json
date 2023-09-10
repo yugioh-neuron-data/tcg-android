@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 8361,
+  "card_name": "ダメージ・トランスレーション",
+  "card_name_label": "ダメージ・トランスレーション",
+  "card_name_search": "だめーじとらんすれーしょん",
+  "card_pen_effect": "",
+  "card_text": "このターン自分が受ける効果ダメージは半分になる。このターンのエンドフェイズ時、受けた効果ダメージの回数と同じ数だけ自分フィールド上に「ゴースト・トークン」（悪魔族・闇・星１・攻／守０）を守備表示で特殊召喚する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/04/18",
+  "species_id": 25,
+  "starchip": "0"
+}

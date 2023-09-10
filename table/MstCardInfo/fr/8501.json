@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 8501,
+  "card_name": "Changement de Destinée",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Activable uniquement si tous les monstres face recto que vous contrôlez sont des monstres \"Demoiselle de Fortune\". Annulez l'activation d'une Carte Magie ou Piège, ou l'Invocation Normale d'un monstre, et retirez cette carte du jeu. La carte retirée du jeu par cet effet est renvoyée dans la main de son propriétaire durant la End Phase.",
+  "defense_power": "0",
+  "effect_id": 1,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/11/12",
+  "species_id": 25,
+  "starchip": "0"
+}

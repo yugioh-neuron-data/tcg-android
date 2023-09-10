@@ -1,0 +1,23 @@
+{
+  "attack_power": "2600",
+  "attribute_id": 2,
+  "card_id": 6890,
+  "card_name": "ライトニングパニッシャー",
+  "card_name_label": "ライトニングパニッシャー",
+  "card_name_search": "らいとにんぐぱにっしゃー",
+  "card_pen_effect": "",
+  "card_text": "チェーンが３つ以上積まれた場合に発動する。相手フィールド上のカード１枚を選択して破壊する。同一チェーン上に複数回同名カードの効果が発動している場合、この効果は発動できない。",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/08/10",
+  "species_id": 19,
+  "starchip": "7"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 2,
+  "card_id": 14214,
+  "card_name": "超魔導騎士－ブラック・キャバルリー",
+  "card_name_label": "ちょうまどうきし－ブラック・キャバルリー",
+  "card_name_search": "ちょうまどうきしぶらっくきゃばるりー",
+  "card_pen_effect": "",
+  "card_text": "「ブラック・マジシャン」＋戦士族モンスター$N①：このカードの攻撃力は、お互いのフィールド・墓地の魔法・罠カードの数×１００アップする。②：このカードが守備表示モンスターを攻撃した場合、その守備力を攻撃力が超えた分だけ戦闘ダメージを与える。③：フィールドのカードを対象とする魔法・罠・モンスターの効果が発動した時、手札を１枚捨てて発動できる。その発動を無効にし破壊する。",
+  "defense_power": "2300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/12/22",
+  "species_id": 18,
+  "starchip": "8"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "400",
+  "attribute_id": 5,
+  "card_id": 12737,
+  "card_name": "EMリターンタンタン",
+  "card_name_label": "エンタメイトリターンタンタン",
+  "card_name_search": "えんためいとりたーんたんたん",
+  "card_pen_effect": "「EMリターンタンタン」のP効果は１ターンに１度しか使用できない。①：自分フィールドの「EM」カード１枚を対象として発動できる。そのカードを持ち主の手札に戻す。このターン、自分はこの効果で手札に戻したカード及びその同名カードの発動ができない。",
+  "card_text": "①：このカードが戦闘で破壊された時、フィールドのカード１枚を対象として発動できる。そのカードを持ち主の手札に戻す。",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2016/10/08",
+  "species_id": 11,
+  "starchip": "2"
+}

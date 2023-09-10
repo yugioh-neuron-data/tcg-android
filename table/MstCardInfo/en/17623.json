@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 17623,
+  "card_name": "Dice Dungeon",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "When this card is activated: You can add 1 \"Dimension Dice\" from your Deck to your hand. At the start of the Battle Phase: You can activate this effect; each player rolls a six-sided die and applies the result to all monsters they control, until the end of this turn.$N●1: Lose 1000 ATK.$N●2: Gain 1000 ATK.$N●3: Lose 500 ATK.$N●4: Gain 500 ATK.$N●5: Halve their ATK.$N●6: Double their ATK.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/11/17",
+  "species_id": 24,
+  "starchip": "0"
+}

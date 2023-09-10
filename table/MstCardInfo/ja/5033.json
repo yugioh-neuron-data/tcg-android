@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 5,
+  "card_id": 5033,
+  "card_name": "アーマード・フライ",
+  "card_name_label": "アーマード・フライ",
+  "card_name_search": "あーまーどふらい",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上にこのカード以外の昆虫族モンスターが存在しなければ、このカードの攻撃力・守備力はそれぞれ１０００ポイントになる。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/03/21",
+  "species_id": 10,
+  "starchip": "3"
+}

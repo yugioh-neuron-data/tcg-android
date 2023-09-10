@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 2,
+  "card_id": 7148,
+  "card_name": "闇王プロメティス",
+  "card_name_label": "やみおうプロメティス",
+  "card_name_search": "やみおうぷろめてぃす",
+  "card_pen_effect": "",
+  "card_text": "①：このカードが召喚に成功した場合に発動する。自分の墓地の闇属性モンスターを任意の数だけ選んで除外する。このカードの攻撃力はターン終了時まで、除外した数×４００アップする。",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/03/08",
+  "species_id": 3,
+  "starchip": "4"
+}

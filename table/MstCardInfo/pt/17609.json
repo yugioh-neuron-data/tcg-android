@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 17609,
+  "card_name": "Explosão Causada pelo Destino",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Quando um monstro do oponente declarar um ataque: destrua o 1 monstro que seu oponente controla com o maior ATK (em caso de empate, você seleciona) e, se isso acontecer, cause dano ao seu oponente igual ao ATK original dele e, depois, se \"Troca de Espírito\" não estiver no seu Cemitério, você sofre dano igual ao dano que ele sofreu. Se este card for enviado da mão ou do Deck para o Cemitério: você pode escolher 1 monstro Fada de TERRA de Nível 4 no seu Cemitério; adicione-o à sua mão. Você só pode usar cada efeito de \"Explosão Causada pelo Destino\" uma vez por turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/11/03",
+  "species_id": 25,
+  "starchip": "0"
+}

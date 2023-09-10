@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15751,
+  "card_name": "Passage vers un Royaume Mythologique",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsque cette carte est activée : vous pouvez envoyer 1 monstre \"Mythologique\" depuis votre Deck au Cimetière. Vous pouvez cibler 1 monstre \"Mythologique\" dans votre Cimetière ; défaussez 2 cartes, et si vous le faites, ajoutez le monstre à votre main. Vous ne pouvez utiliser cet effet de \"Passage vers un Royaume Mythologique\" qu'une fois par tour. Si votre monstre \"Mythologique\" attaque un monstre de l'adversaire et que vous avez moins de cartes dans votre main que votre adversaire, votre monstre gagne une ATK égale à la différence en nombre de cartes x 200, durant le calcul des dommages uniquement. Vous ne pouvez activer qu'1 \"Passage vers un Royaume Mythologique\" par tour.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/02/04",
+  "species_id": 24,
+  "starchip": "0"
+}

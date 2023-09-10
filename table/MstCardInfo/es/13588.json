@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 6,
+  "card_id": 13588,
+  "card_name": "Liebre Roja en Caballo Veloz",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si hay una columna sin cartas, puedes Invocar esta carta de Modo Especial (desde tu mano), en Posición de Ataque, a tu zona en esa columna. Sólo puedes Invocar de Modo Especial a \"Liebre Roja en Caballo Veloz\" una vez por turno de esta forma. Si otra carta es puesta en la columna de esta carta: destruye esta carta. Una vez por turno: puedes dividir a la mitad el ATK original de esta carta por el resto de este turno y, si lo haces, este turno ésta puede atacar directamente.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/05/03",
+  "species_id": 11,
+  "starchip": "5"
+}

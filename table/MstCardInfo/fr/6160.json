@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 5,
+  "card_id": 6160,
+  "card_name": "Homme-Bloc",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Vous pouvez Sacrifier cette carte ; Invoquez Spécialement un nombre de \"Jeton Bloc\" (Type Rocher/TERRE/Niveau 4/ATK 1000/DEF 1500) en Position de Défense, égal au nombre de vos tours où cette carte a été face recto sur votre Terrain. Ces Jetons ne peuvent pas déclarer d'attaque.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/03/09",
+  "species_id": 6,
+  "starchip": "4"
+}

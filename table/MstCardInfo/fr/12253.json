@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 1,
+  "card_id": 12253,
+  "card_name": "Dragon Blanc Alternatif aux Yeux Bleus",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Ni Invocable Normalement ni Posable Normalement. Doit d'abord être Invoquée Spécialement (depuis votre main) en révélant \"Dragon Blanc aux Yeux Bleus\" dans votre main. Vous ne pouvez Invoquer Spécialement \"Dragon Blanc Alternatif aux Yeux Bleus\" qu'une fois par tour de cette façon. Le nom de cette carte devient \"Dragon Blanc aux Yeux Bleus\" tant qu'elle est sur le Terrain ou dans le Cimetière. Une fois par tour : vous pouvez cibler 1 monstre contrôlé par votre adversaire ; détruisez-le. Cette carte ne peut pas attaquer le tour où cet effet est activé.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/07/21",
+  "species_id": 1,
+  "starchip": "8"
+}

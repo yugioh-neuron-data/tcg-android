@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 6,
+  "card_id": 8156,
+  "card_name": "스트롱 윈드 드래곤",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드는 같은 공격력을 가진 몬스터와의 전투로는 파괴되지 않는다. 드래곤족 몬스터를 릴리스하고 이 카드의 어드밴스 소환에 성공했을 때, 이 카드의 공격력은 릴리스한 드래곤족 몬스터 1장의 공격력 절반의 수치만큼 올린다. 이 카드가 수비 표시 몬스터를 공격했을 때, 그 수비력을 공격력이 넘었으면, 그 수치만큼 상대 라이프에 전투 데미지를 준다.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/07/10",
+  "species_id": 1,
+  "starchip": "6"
+}

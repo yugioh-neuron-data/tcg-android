@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 1,
+  "card_id": 9378,
+  "card_name": "Prisme Vylon",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si cette carte est envoyée depuis la Zone Carte Monstre au Cimetière : vous pouvez payer 500 Life Points, puis ciblez 1 monstre face recto que vous contrôlez ; équipez cette carte à la cible. Si le monstre équipé attaque ou est attaqué : durant la Damage Step uniquement, il gagne 1000 ATK.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/07/24",
+  "species_id": 19,
+  "starchip": "4"
+}

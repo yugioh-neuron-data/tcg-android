@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 2,
+  "card_id": 14356,
+  "card_name": "Ladrón del Tiempo Repetidor",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 monstruos de Nivel 4$NUna vez por turno, durante la Standby Phase: puedes acoplar a esta carta la carta de la parte superior del Deck de tu adversario como material. (Efecto Rápido): puedes desacoplar de esta carta hasta 3 tipos diferentes de materiales, y después aplica el o los siguientes efectos, dependiendo de lo que fue desacoplado.$N●Monstruo: destierra esta carta hasta la End Phase.$N●Mágica: roba 1 carta.$N●Trampa: pon en la parte superior del Deck 1 carta boca arriba que controle tu adversario.$NSólo puedes usar este efecto de \"Ladrón del Tiempo Repetidor\" una vez por turno.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/01/31",
+  "species_id": 21,
+  "starchip": "4"
+}

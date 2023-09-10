@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 5,
+  "card_id": 12675,
+  "card_name": "Gadget Rouages Ancients",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez déclarer 1 type de carte (Monstre, Magie ou Piège) ; ce tour, si votre monstre attaque, votre adversaire ne peut activer ni de Cartes Magie/Piège ni d'effets de monstre (en fonction du type déclaré) jusqu'à la fin de la Damage Step. Une fois par tour : vous pouvez déclarer 1 nom de carte de monstre \"Gadget\" ; jusqu'à la End Phase, le nom de cette carte devient ce nom.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/04/13",
+  "species_id": 7,
+  "starchip": "4"
+}

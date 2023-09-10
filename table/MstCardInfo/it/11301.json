@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 2,
+  "card_id": 11301,
+  "card_name": "Artistamico Grinfiargento",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Tutti i mostri \"Artistamico\" che controlli guadagnano 300 ATK.",
+  "card_text": "Quando questa carta dichiara un attacco: tutti i mostri \"Artistamico\" che controlli attualmente guadagnano 300 ATK, fino alla fine della Battle Phase.",
+  "defense_power": "700",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2015/08/06",
+  "species_id": 11,
+  "starchip": "4"
+}

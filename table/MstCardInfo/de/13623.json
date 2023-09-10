@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 13623,
+  "card_name": "Gergonnes Ende",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wähle 1 „Tinwinkel“-Linkmonster, das du kontrollierst; rüste es mit dieser Karte aus. Es kann weder durch Kampf noch durch Karteneffekte zerstört werden, zusätzlich kann dein Gegner es nicht als Ziel für Karteneffekte wählen. Einmal pro Spielzug, falls in allen Zonen, auf die das ausgerüstete Monster zeigt, Monster liegen: Falls weiterhin Monster in allen Zonen liegen, auf die das ausgerüstete Monster zeigt, kannst du diese Karte und alle der Monster zerstören, dann füge deinem Gegner Schaden in Höhe der ATK des ausgerüsteten Monsters zu, bevor sie zerstört wurden.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/05/03",
+  "species_id": 25,
+  "starchip": "0"
+}

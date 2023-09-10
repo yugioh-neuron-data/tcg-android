@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 16041,
+  "card_name": "Fukubiki",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cada jugador baraja su Deck y excava la carta de la parte superior de su Deck. Añade la carta excavada con mayor ATK a la mano de ese jugador, y además, manda la carta con menor ATK al Cementerio de ese jugador (Mágicas/Trampas y monstruos con ? ATK se tratan como 0). Si hay empate, se ponen esas cartas en las partes inferiores de los Decks.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/06/03",
+  "species_id": 25,
+  "starchip": "0"
+}

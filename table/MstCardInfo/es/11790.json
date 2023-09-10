@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 5,
+  "card_id": 11790,
+  "card_name": "Artistamigo Baterisimio",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Una vez por turno, cuando es declarado un ataque que involucre a un monstruo que controlas y un monstruo de tu adversario: puedes seleccionar ese monstruo que controlas; hasta el final de la Battle Phase, éste gana 600 ATK (aún si esta carta deja el Campo).",
+  "card_text": "Si no hay monstruos en el Campo, puedes Invocar esta carta de Modo Normal sin Sacrificar. Si esta carta es Invocada de Modo Normal sin Sacrificar, su Nivel se convierte en 4. Una vez por turno, cuando es declarado un ataque que involucre a un monstruo que controlas y un monstruo de tu adversario: puedes seleccionar ese monstruo que controlas; hasta el final de la Battle Phase, éste gana 600 ATK.",
+  "defense_power": "900",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "2",
+  "pen_scale_r": "2",
+  "sales_at": "2015/08/06",
+  "species_id": 11,
+  "starchip": "5"
+}

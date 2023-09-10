@@ -1,0 +1,23 @@
+{
+  "attack_power": "2700",
+  "attribute_id": 3,
+  "card_id": 15834,
+  "card_name": "빙결계의 환영룡 트리슈라",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "튜너 ＋ 튜너 이외의 몬스터 2장 이상$N이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 싱크로 소환에 성공했을 때에 발동할 수 있다. 상대 필드의 카드를 3장까지 고르고 제외한다. ②: 싱크로 소환한 이 카드가 상대에 의해 파괴되었을 경우에 발동할 수 있다. 자신의 엑스트라 덱 / 묘지에서 \"빙결계의 용 트리슈라\" 1장을 고르고, 공격력을 3300 으로 하여 특수 소환한다. 상대 필드에 앞면 표시 몬스터가 존재할 경우, 추가로 그 몬스터들은, 공격력이 절반이 되고 효과는 무효화된다.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/03/09",
+  "species_id": 1,
+  "starchip": "11"
+}

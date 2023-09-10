@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 11700,
+  "card_name": "秘竜星－セフィラシウゴ",
+  "card_name_label": "ひりゅうせい－セフィラシウゴ",
+  "card_name_search": "ひりゅうせいせふぃらしうご",
+  "card_pen_effect": "①：自分は「竜星」モンスター及び「セフィラ」モンスターしかP召喚できない。この効果は無効化されない。",
+  "card_text": "このカード名のモンスター効果は１ターンに１度しか使用できない。①：このカードがP召喚に成功した時、または自分のモンスターゾーンのこのカードが戦闘・効果で破壊された時に発動できる。デッキから「竜星」魔法・罠カードまたは「セフィラ」魔法・罠カード１枚を手札に加える。",
+  "defense_power": "2600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "7",
+  "pen_scale_r": "7",
+  "sales_at": "2015/02/14",
+  "species_id": 26,
+  "starchip": "6"
+}

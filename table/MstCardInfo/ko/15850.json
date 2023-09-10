@@ -1,0 +1,23 @@
+{
+  "attack_power": "2900",
+  "attribute_id": 4,
+  "card_id": 15850,
+  "card_name": "헬섀도르 보이드",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드명의 ①②의 효과는 1턴에 1번, 어느 쪽이든 1개밖에 사용할 수 없다. ①: 이 카드가 리버스했을 경우, 상대 필드의 앞면 표시 몬스터 1장을 대상으로 하고 발동할 수 있다. 속성이 그 몬스터와 같은 \"섀도르\" 몬스터 1장을 자신의 엑스트라 덱에서 묘지로 보내고, 대상 몬스터를 제외한다. ②: 이 카드가 효과로 묘지로 보내졌을 경우에 발동할 수 있다. 필드의 몬스터의 원래 속성의 종류의 수만큼, 자신의 덱 위에서 카드를 묘지로 보낸다.",
+  "defense_power": "2900",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 24,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/03/19",
+  "species_id": 3,
+  "starchip": "9"
+}

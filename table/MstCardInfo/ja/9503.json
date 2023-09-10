@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 5,
+  "card_id": 9503,
+  "card_name": "スクラップ・コング",
+  "card_name_label": "スクラップ・コング",
+  "card_name_search": "すくらっぷこんぐ",
+  "card_pen_effect": "",
+  "card_text": "このカードが召喚に成功した時、このカードを破壊する。このカードが「スクラップ」と名のついたカードの効果によって破壊され墓地へ送られた場合、「スクラップ・コング」以外の自分の墓地に存在する「スクラップ」と名のついたモンスター１体を選択して手札に加える事ができる。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/02/11",
+  "species_id": 11,
+  "starchip": "4"
+}

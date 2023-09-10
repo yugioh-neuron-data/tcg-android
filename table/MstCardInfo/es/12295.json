@@ -1,0 +1,23 @@
+{
+  "attack_power": "1950",
+  "attribute_id": 2,
+  "card_id": 12295,
+  "card_name": "Lector Péndulo, el Dracoseñor",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Niega los efectos de los Monstruos de Péndulo boca arriba mientras tu adversario los controle.",
+  "card_text": "Al comienzo del Damage Step, si esta carta batalla con un Monstruo de Péndulo: destruye a ese monstruo así como esta carta.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2016/05/05",
+  "species_id": 1,
+  "starchip": "4"
+}

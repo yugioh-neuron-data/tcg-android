@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 9132,
+  "card_name": "Espejo de la Barrera de Hielo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante este turno, cada vez que una o más cartas en tu mano, Campo y/o Cementerio son desterradas por el efecto activado de un monstruo de tu adversario, aplica los siguientes efectos, basándote en de dónde fueron desterradas las cartas.$N●Mano: Destierra hasta 2 cartas al azar en la mano de tu adversario.$N●Campo: Destierra hasta 2 cartas que controle tu adversario.$N●Cementerio: Destierra hasta 2 cartas en el Cementerio de tu adversario.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/11/11",
+  "species_id": 24,
+  "starchip": "0"
+}

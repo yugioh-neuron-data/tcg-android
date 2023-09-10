@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 19222,
+  "card_name": "エスケープ・ゴート",
+  "card_name_label": "エスケープ・ゴート",
+  "card_name_search": "えすけーぷごーと",
+  "card_pen_effect": "",
+  "card_text": "①：トークン以外の自分フィールドのモンスターを対象とする効果を相手が発動した時、自分フィールドのモンスター１体をリリースして発動できる。自分フィールドに「逃羊トークン」（獣族・地・星１・攻／守０）１体を守備表示で特殊召喚する。$N②：トークン以外の自分フィールドのモンスターが戦闘・効果で破壊される場合、代わりに自分フィールドのトークン１体を破壊できる。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/07/22",
+  "species_id": 25,
+  "starchip": "0"
+}

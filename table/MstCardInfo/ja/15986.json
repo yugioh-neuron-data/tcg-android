@@ -1,0 +1,23 @@
+{
+  "attack_power": "2200",
+  "attribute_id": 5,
+  "card_id": 15986,
+  "card_name": "天魔神 シドヘルズ",
+  "card_name_label": "てんましん　シドヘルズ",
+  "card_name_search": "てんましんしどへるず",
+  "card_pen_effect": "",
+  "card_text": "このカードは特殊召喚できない。①：このカードがアドバンス召喚に成功した場合に発動できる。このカードのアドバンス召喚のためにリリースしたモンスターの種族・属性によって、以下の効果を適用する。$N●天使族・光属性：デッキから天使族・光属性または悪魔族・闇属性のモンスター１体を手札に加える。$N●悪魔族・闇属性：デッキから天使族・光属性と悪魔族・闇属性のモンスターをそれぞれ１体まで墓地へ送る。",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/01/16",
+  "species_id": 3,
+  "starchip": "6"
+}

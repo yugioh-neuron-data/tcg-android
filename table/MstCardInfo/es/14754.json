@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14754,
+  "card_name": "Hojabillón Nayuta Matemecha",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Sólo puedes equipar esta carta a un monstruo Ciberso. Si el monstruo equipado batalla con un monstruo del adversario, durante el cálculo de daño: puedes mandar al Cementerio 1 monstruo \"Matemecha\" en tu Deck; hasta el final de este turno, el monstruo equipado gana ATK igual al ATK del monstruo mandado (aun si esta carta deja el Campo). Si esta carta es mandada de la Zona de Magia y Trampas al Cementerio: puedes seleccionar 1 carta \"Matemecha\" en tu Cementerio, excepto \"Hojabillón Nayuta Matemecha\"; añádela a tu mano. Sólo puedes usar cada efecto de \"Hojabillón Nayuta Matemecha\" una vez por turno.",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/11/21",
+  "species_id": 24,
+  "starchip": "0"
+}

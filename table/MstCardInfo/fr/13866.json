@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 13866,
+  "card_name": "Rappel d'Acteur des Abysses",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si une Carte Magie ou effet de Magie \"Script des Abysses\" est activé ce tour : ajoutez un nombre de Monstres Pendule \"Acteur des Abysses\" face recto depuis votre Extra Deck à votre main, inférieur ou égal au nombre de Magies \"Script des Abysses\" dans votre Cimetière. Puis, vous pouvez Invoquer Spécialement un nombre de Monstres Pendule \"Acteur des Abysses\" depuis votre main de noms différents, inférieur ou égal au nombre de monstres ajoutés à la main par cet effet. Vous ne pouvez pas Invoquer Spécialement de monstres (Monstres Pendule \"Acteur des Abysses\" exclus) le reste de ce tour. Vous ne pouvez activer qu'1 \"Rappel d'Acteur des Abysses\" par tour.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/09/27",
+  "species_id": 25,
+  "starchip": "0"
+}

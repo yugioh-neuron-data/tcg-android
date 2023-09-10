@@ -1,0 +1,23 @@
+{
+  "attack_power": "900",
+  "attribute_id": 6,
+  "card_id": 5238,
+  "card_name": "Lâmpada Antiga",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante sua Fase Principal: você pode Invocar por Invocação-Especial \"La Jinn, o Gênio Místico da Lâmpada\" da sua mão. Este card deve estar com a face para cima no campo para que você possa ativar e resolver este efeito. Antes do cálculo de dano, se este card estiver sendo atacado por um monstro do oponente e estava com a face para baixo no começo da Etapa de Dano: você pode escolher 1 monstro que seu oponente controla, exceto o monstro atacante; em vez disso, o monstro atacante ataca o monstro alvo e você prossegue para o cálculo de dano.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/10/06",
+  "species_id": 18,
+  "starchip": "3"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 2,
+  "card_id": 9467,
+  "card_name": "Il Grande Giove",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Una volta per turno: puoi scartare 2 carte, poi scegliere come bersaglio 1 mostro scoperto controllato dal tuo avversario; equipaggia quel mostro scoperto a questa carta. Questa carta guadagna ATK pari alla somma degli ATK originali dei mostri equipaggiati ad essa da questo effetto. Una volta per turno, durante la End Phase: puoi scegliere come bersaglio 1 Carta Mostro equipaggiata a questa carta dall'effetto di questa carta; Evocala Specialmente sul tuo Terreno.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/08/18",
+  "species_id": 15,
+  "starchip": "8"
+}

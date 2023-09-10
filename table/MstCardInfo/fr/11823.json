@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 4,
+  "card_id": 11823,
+  "card_name": "Infernoid Décatron",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez envoyer 1 monstre \"Infernoid\" (\"Infernoid Décatron\" exclu) depuis votre Deck au Cimetière, et si vous le faites, augmentez le Niveau de cette carte du Niveau du monstre envoyé, et si vous faites ça, le nom de cette carte devient le nom d'origine du monstre, et remplacez cet effet par les effets d'origine du monstre.",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/08/06",
+  "species_id": 3,
+  "starchip": "1"
+}

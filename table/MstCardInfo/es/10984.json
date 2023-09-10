@@ -1,0 +1,23 @@
+{
+  "attack_power": "1900",
+  "attribute_id": 5,
+  "card_id": 10984,
+  "card_name": "Defensor de la Hoja Silvano",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando esta carta destruye un monstruo de tu adversario en batalla y lo manda al Cementerio: puedes excavar la carta de la parte superior de tu Deck y, si es un monstruo de Tipo Planta, mandarlo al Cementerio. De otra forma, ponla en el fondo de tu Deck. Si esta carta es excavada del Deck y mandada al Cementerio por efecto de una carta: puedes añadir a tu mano esta carta en tu Cementerio.",
+  "defense_power": "700",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/01/18",
+  "species_id": 13,
+  "starchip": "4"
+}

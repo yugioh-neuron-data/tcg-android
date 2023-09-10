@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 8539,
+  "card_name": "Monde Transparent",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durant chacune de vos End Phases, payez 500 Life Points ou détruisez cette carte. Chaque joueur reçoit certains effets, dépendant de l'Attribut des monstres qu'il contrôle.$N ●LUMIÈRE : Jouez toujours avec votre main révélée.$N ●TÉNÈBRES : Si vous contrôlez 2 monstres ou plus, vous ne pouvez pas déclarer une attaque.$N ●TERRE : Durant votre Standby Phase, détruisez 1 monstre en Position de Défense face recto que vous contrôlez.$N ●EAU : Durant votre End Phase, défaussez 1 carte.$N ●FEU : Durant votre End Phase, recevez 1000 points de dommages.$N ●VENT : Vous devez payer 500 Life Points pour activer une Carte Magie.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/11/12",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 3,
+  "card_id": 13741,
+  "card_name": "寝ガエル",
+  "card_name_label": "ねガエル",
+  "card_name_search": "ねがえる",
+  "card_pen_effect": "",
+  "card_text": "このカードは融合・S・X・リンク召喚の素材にできない。①：このカードが召喚・反転召喚に成功した場合に発動する。このカードを守備表示にする。②：１ターンに１度、相手のメインモンスターゾーンのモンスター１体を対象として発動できる。守備表示のこのカードを対象の相手モンスターの隣のモンスターゾーンへコントロールを移す。その後、相手のメインモンスターゾーンの「寝ガエル」が２体のみの場合、その２体の間に存在する全てのモンスターのコントロールを得る。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/04/14",
+  "species_id": 14,
+  "starchip": "2"
+}

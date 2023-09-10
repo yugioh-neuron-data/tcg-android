@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 16109,
+  "card_name": "Quinta Carga Osártica",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Una vez por turno: puedes pagar 700 LP, y después activar 1 de los siguientes efectos;$N●Añade a tu mano 1 monstruo \"Osártico/a\" en tu Cementerio.$N●Sacrifica 2 monstruos \"Osártico/a\" (aun si están boca abajo) y, si lo haces, Invoca de Modo Especial, desde tu Deck Extra, 1 monstruo \"Osártico/a\" con Nivel igual a la diferencia de Niveles de esos monstruos, ignorando sus condiciones de Invocación.$NCuando tu Monstruo de Sincronía \"Osártico/a\" es destruido por un ataque del adversario: puedes activar este efecto; tu adversario debe barajar tantas cartas al Deck como para que el número total de cartas en su Campo, mano y Cementerio sea 7.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/05/06",
+  "species_id": 25,
+  "starchip": "0"
+}

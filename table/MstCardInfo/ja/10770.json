@@ -1,0 +1,23 @@
+{
+  "attack_power": "2200",
+  "attribute_id": 6,
+  "card_id": 10770,
+  "card_name": "ジェノミックス・ファイター",
+  "card_name_label": "ジェノミックス・ファイター",
+  "card_name_search": "じぇのみっくすふぁいたー",
+  "card_pen_effect": "",
+  "card_text": "このカードはリリースなしで召喚できる。この方法で召喚したこのカードのレベルは３になり、元々の攻撃力は半分になる。また、１ターンに１度、種族を１つ宣言して発動できる。このターンこのカードをシンクロ素材とする場合、このカードを含むそのシンクロ素材モンスター一組を宣言した種族として扱う。この効果を発動したターン、自分は宣言した種族以外のモンスターを召喚・特殊召喚できない。",
+  "defense_power": "1100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/07/20",
+  "species_id": 21,
+  "starchip": "6"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 10811,
+  "card_name": "大金星！？",
+  "card_name_label": "だいきんぼし！？",
+  "card_name_search": "だいきんぼし",
+  "card_pen_effect": "",
+  "card_text": "１から１２までの任意のレベルを宣言して発動できる。お互いのプレイヤーはそれぞれコイントスを１回行い、どちらも表が出た場合、自分フィールド上に表側表示で存在する全てのモンスターのレベルは宣言したレベルになる。どちらも裏が出た場合、自分は宣言したレベルの数×５００ライフポイントを失う。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/07/20",
+  "species_id": 25,
+  "starchip": "0"
+}

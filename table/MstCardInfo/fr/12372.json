@@ -1,0 +1,23 @@
+{
+  "attack_power": "2200",
+  "attribute_id": 5,
+  "card_id": 12372,
+  "card_name": "Roi Ours Potartiste",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Une fois par tour, durant la End Phase, si cette carte a été activée ce tour : vous pouvez détruire cette carte, et si vous le faites, ajoutez 1 monstre de min. Niveau 7 à votre main, qui est soit dans votre Cimetière soit face recto dans votre Extra Deck.",
+  "card_text": "Non destructible par des effets de Magie/Piège tant qu'elle est en Position d'Attaque face recto. Durant votre Battle Phase uniquement, cette carte gagne 100 ATK pour chaque carte \"Potartiste\" que vous contrôlez.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "7",
+  "pen_scale_r": "7",
+  "sales_at": "2016/05/26",
+  "species_id": 12,
+  "starchip": "6"
+}

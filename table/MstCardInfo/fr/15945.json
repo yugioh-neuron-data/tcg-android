@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 5,
+  "card_id": 15945,
+  "card_name": "Fortia du Rocher de Guerre",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si votre monstre TERRE Guerrier combat, après le calcul des dommages : vous pouvez ajouter 1 carte \"Rocher de Guerre\" (\"Fortia du Rocher de Guerre\" exclu) depuis votre Deck à votre main, puis tous les monstres \"Rocher de Guerre\" que vous contrôlez actuellement gagnent 200 ATK jusqu'à la fin du tour de votre adversaire. Si cette carte est envoyée depuis votre Zone Monstre à votre Cimetière par un effet de carte de l'adversaire : vous pouvez Invoquer Spécialement 1 monstre \"Rocher de Guerre\" de min. Niveau 5 depuis votre main ou Deck. Vous ne pouvez utiliser chaque effet de \"Fortia du Rocher de Guerre\" qu'une fois par tour.",
+  "defense_power": "1700",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/02/04",
+  "species_id": 15,
+  "starchip": "4"
+}

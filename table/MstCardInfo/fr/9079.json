@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 1,
+  "card_id": 9079,
+  "card_name": "Coccinelle Miroir",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si vous contrôlez au moins 1 monstre face recto et que vous n'avez aucun monstre dans votre Cimetière, vous pouvez Invoquer Spécialement cette carte depuis votre main. Lorsqu'elle est Invoquée Spécialement de cette façon, le Niveau de cette carte devient égal à la somme des Niveaux de tous les autres monstres que vous contrôlez. Si cette carte a un Niveau supérieur à 12, détruisez-la.",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/11/11",
+  "species_id": 10,
+  "starchip": "1"
+}

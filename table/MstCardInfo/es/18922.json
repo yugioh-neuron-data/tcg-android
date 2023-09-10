@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 4,
+  "card_id": 18922,
+  "card_name": "Boxeador Indómito Uppercut",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si esta carta es Invocada de Modo Normal o Especial: puedes añadir a tu mano 1 monstruo \"Boxeador Indómito\" o 1 Trampa de Contraefecto \"Contra\" en tu Deck, excepto \"Boxeador Indómito Uppercut\". Si esta carta es mandada al Cementerio por efecto de una carta: puedes activar 1 de estos efectos;$N●Invoca de Modo Especial, desde tu Cementerio, 1 monstruo \"Boxeador Indómito\", excepto \"Boxeador Indómito Uppercut\".$N●Coloca en tu Campo 1 Trampa de Contraefecto \"Contra\" en tu Cementerio.$NSólo puedes usar 1 efecto de \"Boxeador Indómito Uppercut\" por turno, y sólo una vez ese turno.",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/08/10",
+  "species_id": 15,
+  "starchip": "4"
+}

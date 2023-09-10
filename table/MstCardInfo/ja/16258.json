@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16258,
+  "card_name": "信用取引",
+  "card_name_label": "マージントレード",
+  "card_name_search": "まーじんとれーど",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：相手は手札を１枚捨ててこの効果を無効にできる。捨てなかった場合、お互いのプレイヤーは、それぞれ相手のデッキを確認し、その中からカード１枚を選ぶ。その後、お互いのプレイヤーは、それぞれ相手が選んだカードを手札に加える。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/04/17",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "3500",
+  "attribute_id": 5,
+  "card_id": 14280,
+  "card_name": "Dinolutteur Chimère T Rexlutte",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Monstre Lien \"Dinolutteur\" + 1 monstre \"Dinolutteur\"$NSi cette carte combat, votre adversaire ne peut pas activer de Cartes Magie/Piège jusqu'à la fin de la Damage Step. Si cette carte attaque un monstre en Position de Défense, infligez des dommages de combat perçants. Les monstres de votre adversaire ne peuvent pas cibler de monstres (celui-ci exclu) avec une attaque. Si cette carte détruit un monstre au combat : elle gagne 500 ATK. Si cette carte est détruite par un effet de carte : détruisez tous les monstres en Position d'Attaque de votre adversaire.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/05/02",
+  "species_id": 9,
+  "starchip": "8"
+}

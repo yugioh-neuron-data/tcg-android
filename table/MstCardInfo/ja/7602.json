@@ -1,0 +1,23 @@
+{
+  "attack_power": "400",
+  "attribute_id": 3,
+  "card_id": 7602,
+  "card_name": "貫ガエル",
+  "card_name_label": "かんガエル",
+  "card_name_search": "かんがえる",
+  "card_pen_effect": "",
+  "card_text": "このカードは相手プレイヤーに直接攻撃できる。このカードが直接攻撃によって相手ライフに戦闘ダメージを与えた時、自分フィールド上に「貫ガエル」以外の「ガエル」と名のついたモンスターが存在する場合、相手フィールド上の魔法・罠カード１枚を選択して破壊できる。",
+  "defense_power": "400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/02/23",
+  "species_id": 14,
+  "starchip": "2"
+}

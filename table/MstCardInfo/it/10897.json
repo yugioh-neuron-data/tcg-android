@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 2,
+  "card_id": 10897,
+  "card_name": "Golem Gorgonico",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se questa carta viene distrutta in battaglia e mandata al Cimitero: l'ATK del mostro che l'ha distrutta diventa 0. Puoi bandire questa carta dal tuo Cimitero, poi scegliere come bersaglio 1 Carta Magia/Trappola Posizionata controllata dal tuo avversario; quel bersaglio non può essere attivato in questo turno. Il tuo avversario non può attivare la carta scelta come bersaglio in risposta all'attivazione di questo effetto.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/01/23",
+  "species_id": 6,
+  "starchip": "3"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15407,
+  "card_name": "Ichirin, Grande Artiste Spirituelle",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Annulez le premier effet de monstre de votre adversaire qui est résolu chaque tour tant que vous contrôlez un monstre Magicien avec 1500 DEF. Durant votre Main Phase : vous pouvez révéler 1 monstre Magicien depuis votre main, et si vous le faites, ajoutez 1 monstre du même Attribut, mais avec 1500 ATK/200 DEF, depuis votre Deck à votre main, et si vous faites ça, mélangez la carte révélée dans le Deck. Vous ne pouvez utiliser cet effet de \"Ichirin, Grande Artiste Spirituelle\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/10/22",
+  "species_id": 24,
+  "starchip": "0"
+}

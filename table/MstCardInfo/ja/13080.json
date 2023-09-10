@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 2,
+  "card_id": 13080,
+  "card_name": "覇王眷竜ダーク・リベリオン",
+  "card_name_label": "はおうけんりゅうダーク・リベリオン",
+  "card_name_search": "はおうけんりゅうだーくりべりおん",
+  "card_pen_effect": "",
+  "card_text": "闇属性レベル４のPモンスター×２$N①：１ターンに１度、このカードが相手モンスターと戦闘を行うダメージ計算前に、このカードのX素材を１つ取り除いて発動できる。ターン終了時まで、その相手モンスターの攻撃力を０にし、その元々の攻撃力分このカードの攻撃力をアップする。$N②：自分・相手のバトルフェイズに、このカードをEXデッキに戻して発動できる。自分のEXデッキ（表側）から「覇王眷竜」Pモンスターか「覇王門」Pモンスターを合計２体まで守備表示で特殊召喚する。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/04/15",
+  "species_id": 1,
+  "starchip": "4"
+}

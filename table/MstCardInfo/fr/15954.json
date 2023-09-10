@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 15954,
+  "card_name": "Coordius le Dealmon Triphasique",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Monstre Synchro + 1 Monstre Xyz + 1 Monstre Lien$NUne fois tant que cette carte Invoquée par Fusion est face recto sur le Terrain : vous pouvez payer des LP en multiples de 2000, et choisissez 1 effet pour chaque 2000 LP payés (vous ne pouvez appliquer chaque effet qu'une fois, et vous les résolvez dans l'ordre listé, en passant ceux qui n'ont pas été choisis) ;$N●Ajoutez 1 Magie/Piège depuis votre Cimetière à votre main.$N●Détruisez 3 cartes contrôlées par votre adversaire.$N●Ce tour, cette carte gagne une ATK égale à la moitié de la différence entre vos LP et ceux de votre adversaire, et aussi, vos autres monstres ne peuvent pas attaquer.$NVous ne pouvez utiliser cet effet de \"Coordius le Dealmon Triphasique\" qu'une fois par tour.",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/02/04",
+  "species_id": 3,
+  "starchip": "9"
+}

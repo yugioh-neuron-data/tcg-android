@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 12527,
+  "card_name": "Mandala Cúbico",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si controlas un monstruo \"Cúbico/a\": activa esta carta seleccionando cualquier cantidad de monstruos que estén en el Cementerio de tu adversario porque fueron destruidos y mandados ahí este turno; Invócalos de Modo Especial al Campo de tu adversario pero el ATK de cada uno se convierte en 0 y se le pone 1 Contador Cúbico. (Los monstruos con un Contador Cúbico no pueden atacar, y también niega sus efectos). Mientras tu adversario controle cualquiera de los monstruos Invocados por este efecto, niega cualquier efecto de monstruo que active tu adversario. Cuando el último de estos monstruos deje el Campo, destruye esta carta.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/07/21",
+  "species_id": 25,
+  "starchip": "0"
+}

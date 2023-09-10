@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 18852,
+  "card_name": "Sobreexageración",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Al comienzo del Damage Step, si 2 monstruos batallan: activa 1 de estos efectos;$N●Cambia el monstruo atacante a Posición de Defensa.$N●Devuelve a la mano el monstruo objetivo del ataque.$N●Destruye ambos monstruos batallantes.$NSólo puedes activar 1 \"Sobreexageración\" por turno.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/07/27",
+  "species_id": 24,
+  "starchip": "0"
+}

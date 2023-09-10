@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 4,
+  "card_id": 18818,
+  "card_name": "Le Coucou Ordonné de Chantonner",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Vous pouvez activer 1 de ces effets ;$N●Détruisez cette carte, puis piochez 1 carte.$N●Défaussez 1 carte, puis piochez 1 carte.$N●Durant la End Phase de ce tour, piochez 1 carte.$NVous ne pouvez utiliser cet effet de \"Le Coucou Ordonné de Chantonner\" qu'une fois par tour.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/07/27",
+  "species_id": 16,
+  "starchip": "3"
+}

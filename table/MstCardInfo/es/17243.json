@@ -1,0 +1,23 @@
+{
+  "attack_power": "900",
+  "attribute_id": 2,
+  "card_id": 17243,
+  "card_name": "Alma de Ojos Rojos",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "El nombre de esta carta se convierte en \"Dragón Negro de Ojos Rojos\" mientras está en el Campo o en el Cementerio. Si tu adversario Invoca uno o más monstruos de Modo Especial (excepto durante el Damage Step): puedes mandar al Cementerio esta carta en tu mano o Campo; Invoca de Modo Especial 1 monstruo \"Ojos Rojos\" desde tu mano o Deck, excepto \"Alma de Ojos Rojos\". Sólo puedes usar este efecto de \"Alma de Ojos Rojos\" una vez por turno. (Efecto Rápido): puedes seleccionar 1 \"Dragón Negro de Ojos Rojos\" que controles; inflige daño a tu adversario igual al ATK original de ese monstruo. Sólo puedes usar este efecto de \"Alma de Ojos Rojos\" una vez por Duelo.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/03/09",
+  "species_id": 1,
+  "starchip": "7"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 2,
+  "card_id": 9956,
+  "card_name": "다크 플레어 드래곤",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드는 자신 묘지의 빛 속성과 어둠 속성의 몬스터를 1장씩 게임에서 제외하고, 패에서 특수 소환할 수 있다. 1턴에 1번, 패와 덱에서 드래곤족 몬스터를 1장씩 묘지로 보내는 것으로, 자신 또는 상대 묘지의 카드 1장을 선택하고 게임에서 제외한다.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/03/06",
+  "species_id": 1,
+  "starchip": "5"
+}

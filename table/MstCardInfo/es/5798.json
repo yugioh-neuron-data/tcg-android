@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 5798,
+  "card_name": "Desvanecimiento de Hechizo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Descarta 2 cartas de tu mano para negar la activación de una Carta Mágica y destruirla. Además, comprueba la mano y el Deck de tu adversario y si encuentras cualquier Carta Mágica con el mismo nombre que la Carta Mágica destruida, mandalas todas al Cementerio.",
+  "defense_power": "0",
+  "effect_id": 1,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/03/19",
+  "species_id": 25,
+  "starchip": "0"
+}

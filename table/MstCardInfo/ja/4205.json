@@ -1,0 +1,23 @@
+{
+  "attack_power": "900",
+  "attribute_id": 3,
+  "card_id": 4205,
+  "card_name": "ペンギン・ナイト",
+  "card_name_label": "ペンギン・ナイト",
+  "card_name_search": "ぺんぎんないと",
+  "card_pen_effect": "",
+  "card_text": "このカードが相手のカードの効果によってデッキから墓地へ送られた時、自分の墓地に存在するカードを全てデッキに戻してシャッフルする。",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2000/04/20",
+  "species_id": 14,
+  "starchip": "3"
+}

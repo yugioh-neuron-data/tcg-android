@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 11855,
+  "card_name": "トリック・ボックス",
+  "card_name_label": "トリック・ボックス",
+  "card_name_search": "とりっくぼっくす",
+  "card_pen_effect": "",
+  "card_text": "①：自分フィールドの「Em」モンスターが戦闘・効果で破壊され墓地へ送られた場合、相手フィールドのモンスター１体を対象として発動できる。自分はそのモンスターのコントロールをエンドフェイズまで得る。その後、自分の墓地の「Em」モンスター１体を選んで相手フィールドに特殊召喚する。このターンのエンドフェイズに、この効果で特殊召喚したモンスターのコントロールは元々の持ち主に戻る。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/04/25",
+  "species_id": 25,
+  "starchip": "0"
+}

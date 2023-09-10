@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 17044,
+  "card_name": "七皇昇格",
+  "card_name_label": "セブンス・アセンション",
+  "card_name_search": "せぶんすあせんしょん",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：デッキから以下のカードの内いずれか１枚を選び、手札に加えるかデッキの一番上に置く。$N●「七皇昇格」以外の「セブンス」魔法・罠カード$N●「バリアンズ」魔法・罠カード$N●「RUM」速攻魔法カード$N②：EXデッキから特殊召喚されたモンスターが相手フィールドに存在する場合、墓地のこのカードを除外し、手札から「RUM」魔法カード１枚を墓地へ送って発動できる。この効果は、その魔法カード発動時の効果と同じになる。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/11/20",
+  "species_id": 24,
+  "starchip": "0"
+}

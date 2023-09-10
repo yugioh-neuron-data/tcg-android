@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 7504,
+  "card_name": "Cassimolar",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wenn diese Karte als Normalbeschwörung beschworen wird: Du kannst 1 offenes Monster wählen, das dein Gegner kontrolliert; es erhält ATK in Höhe seiner Grund-ATK, zusätzlich zerstöre jenes offene Monster während der End Phase des nächsten Spielzugs und falls du dies tust, erhält dein Gegner Schaden in Höhe der Hälfte seiner Grund-ATK. Am Beginn der Battle Phase deines Gegners: Du kannst diese als Normalbeschwörung beschworene/gesetzte Karte als Tribut anbieten; Monster deines Gegners können für den Rest dieses Spielzugs nicht direkt angreifen.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/02/06",
+  "species_id": 3,
+  "starchip": "3"
+}

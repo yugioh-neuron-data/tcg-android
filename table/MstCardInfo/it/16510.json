@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 3,
+  "card_id": 16510,
+  "card_name": "Scudiero Pinguino",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Non può essere utilizzato come Materiale Synchro, eccetto che per la Synchro Evocazione di un mostro ACQUA. Se un mostro viene Posizionato sul tuo Terreno (eccetto durante il Damage Step): puoi Evocare Specialmente questa carta dalla tua mano, poi puoi ridurre il suo Livello di 1 o 2. Puoi scegliere come bersaglio 1 mostro coperto in Posizione di Difesa che controlli; mettilo scoperto in Posizione di Difesa e, se lo fai, i suoi effetti sono annullati a meno che sia un mostro \"Pinguino\". Puoi utilizzare ogni effetto di \"Scudiero Pinguino\" una sola volta per turno.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/11/04",
+  "species_id": 14,
+  "starchip": "5"
+}

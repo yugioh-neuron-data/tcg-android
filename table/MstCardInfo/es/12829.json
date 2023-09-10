@@ -1,0 +1,23 @@
+{
+  "attack_power": "2200",
+  "attribute_id": 6,
+  "card_id": 12829,
+  "card_name": "Velociroid Planeadorpaso",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Una vez por turno: puedes mandar al Cementerio 1 Cantante \"Velociroid\" en tu mano o boca arriba en tu Campo; hasta el final de este turno, aumenta o reduce (min. 1) la Escala de Péndulo de esta carta tanto como el Nivel original del monstruo mandado.",
+  "card_text": "Si no hay monstruos en el Campo, puedes Invocar esta carta de Modo Especial (desde tu mano). Sólo puedes Invocar de Modo Especial a \"Velociroid Planeadorpaso\" una vez por turno de esta forma. Cuando esta carta es Invocada por Sacrificio: puedes seleccionar 1 monstruo \"Velociroid\" de Nivel 4 o menor en tu Cementerio; Invócalo de Modo Especial. Los monstruos de tu adversario no pueden seleccionar para ataques a monstruos \"Velociroid\", excepto a éste.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2017/08/03",
+  "species_id": 7,
+  "starchip": "5"
+}

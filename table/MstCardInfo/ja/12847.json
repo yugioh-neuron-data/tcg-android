@@ -1,0 +1,23 @@
+{
+  "attack_power": "2300",
+  "attribute_id": 4,
+  "card_id": 12847,
+  "card_name": "召喚獣プルガトリオ",
+  "card_name_label": "しょうかんじゅうプルガトリオ",
+  "card_name_search": "しょうかんじゅうぷるがとりお",
+  "card_pen_effect": "",
+  "card_text": "「召喚師アレイスター」＋炎属性モンスター$N①：このカードの攻撃力は、相手フィールドのカードの数×２００アップする。②：このカードは相手モンスター全てに１回ずつ攻撃でき、守備表示モンスターを攻撃した場合、その守備力を攻撃力が超えた分だけ戦闘ダメージを与える。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/11/12",
+  "species_id": 3,
+  "starchip": "7"
+}

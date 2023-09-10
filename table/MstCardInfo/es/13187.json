@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 13187,
+  "card_name": "Llamada de Emergenroid",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando es activada una Carta Mágica/de Trampa, o efecto de monstruo, mientras controlas un Monstruo de Fusión \"roid\": niega la activación, y después manda al Cementerio todas las cartas en el Deck y Deck Extra del jugador activador con el mismo nombre que esa carta. Puedes desterrar esta carta en el Cementerio, y después seleccionar 1 monstruo \"roid\" en tu Cementerio; añádelo a tu mano. Sólo puedes usar este efecto de \"Llamada de Emergenroid\" una vez por turno.",
+  "defense_power": "0",
+  "effect_id": 1,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/09/07",
+  "species_id": 25,
+  "starchip": "0"
+}

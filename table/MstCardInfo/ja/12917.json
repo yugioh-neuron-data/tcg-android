@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 1,
+  "card_id": 12917,
+  "card_name": "EMレビュー・ダンサー",
+  "card_name_label": "エンタメイトレビュー・ダンサー",
+  "card_name_search": "えんためいとれびゅーだんさー",
+  "card_pen_effect": "",
+  "card_text": "①：相手フィールドにモンスターが存在し、自分フィールドにモンスターが存在しない場合、このカードは手札から特殊召喚できる。②：「EM」モンスターをアドバンス召喚する場合、このカードは２体分のリリースにできる。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/01/14",
+  "species_id": 18,
+  "starchip": "3"
+}

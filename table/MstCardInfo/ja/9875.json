@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 1,
+  "card_id": 9875,
+  "card_name": "クリボルト",
+  "card_name_label": "クリボルト",
+  "card_name_search": "くりぼると",
+  "card_pen_effect": "",
+  "card_text": "自分のメインフェイズ時、エクシーズ素材を持っているエクシーズモンスター１体を選択して発動できる。選択したモンスターのエクシーズ素材を１つ取り除き、自分のデッキから「クリボルト」１体を特殊召喚する。このカードはシンクロ素材にできない。",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/11/19",
+  "species_id": 19,
+  "starchip": "1"
+}

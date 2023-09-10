@@ -1,0 +1,23 @@
+{
+  "attack_power": "400",
+  "attribute_id": 2,
+  "card_id": 9844,
+  "card_name": "Peintre de la Douleur",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Le nom de cette carte devient \"Zombie Épidémique\" tant qu'elle est sur le Terrain. Une fois par tour : vous pouvez cibler max. 2 monstres Zombie que vous contrôlez (cette carte exclue) ; ils deviennent Niveau 2 (jusqu'à la fin de ce tour), et s'ils le deviennent, ils ne peuvent pas être utilisés comme Matériel Synchro, sauf pour l'Invocation Synchro d'un monstre Zombie.",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/08/12",
+  "species_id": 2,
+  "starchip": "2"
+}

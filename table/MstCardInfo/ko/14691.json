@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14691,
+  "card_name": "은거의 대부",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "①: 이 카드의 발동시의 효과 처리로서, 이 카드에 카운터를 1개 놓는다. ②: 자신 스탠바이 페이즈에 발동한다. 이 카드에 카운터를 1개 놓는다. ③: 1턴에 1번, 이하의 효과에서 1개를 선택하고 발동할 수 있다.$N●자신은 이 카드의 카운터의 수 × 500 LP 회복한다.$N●이 카드의 카운터의 수 × 300 데미지를 상대에게 준다.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/10/23",
+  "species_id": 24,
+  "starchip": "0"
+}

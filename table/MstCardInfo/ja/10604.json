@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 10604,
+  "card_name": "DZW－魔装鵺妖衣",
+  "card_name_label": "ダーク・ゼアル・ウェポン－キメラ・クロス",
+  "card_name_search": "だーくぜあるうぇぽんきめらくろす",
+  "card_pen_effect": "",
+  "card_text": "自分のメインフェイズ時、手札または自分フィールド上のこのモンスターを、装備カード扱いとして自分フィールド上の「CNo.39」と名のついたモンスターに装備できる。また、このカードが装備カード扱いとして装備されている場合、装備モンスターは戦闘では破壊されない。装備モンスターの攻撃によって相手モンスターが破壊されなかったダメージステップ終了時、その相手モンスターの攻撃力を０にしてもう１度だけ同じモンスターに続けて攻撃できる。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/04/20",
+  "species_id": 3,
+  "starchip": "1"
+}

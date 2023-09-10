@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 1,
+  "card_id": 12693,
+  "card_name": "Artistamigo Botonivel",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Una vez por turno: puedes aumentar en 1 los Niveles de todos los monstruos Invocados por Péndulo que controles en este momento (aun si esta carta deja el Campo).",
+  "card_text": "Una vez por turno: puedes declarar un Nivel del 1 al 5, y después selecciona otro monstruo \"Artistamigo\" que controles; hasta el final de este turno, reduce el Nivel de esta carta por el Nivel declarado y, si lo haces, incrementa el Nivel del otro monstruo en la misma cantidad.",
+  "defense_power": "2600",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2018/07/26",
+  "species_id": 17,
+  "starchip": "6"
+}

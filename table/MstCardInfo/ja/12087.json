@@ -1,0 +1,23 @@
+{
+  "attack_power": "2100",
+  "attribute_id": 6,
+  "card_id": 12087,
+  "card_name": "スターダスト・アサルト・ウォリアー",
+  "card_name_label": "スターダスト・アサルト・ウォリアー",
+  "card_name_search": "すたーだすとあさるとうぉりあー",
+  "card_pen_effect": "",
+  "card_text": "チューナー＋チューナー以外のモンスター１体以上$N「スターダスト・アサルト・ウォリアー」の①の効果は１ターンに１度しか使用できない。①：このカードがS召喚に成功した時、自分フィールドに他のモンスターが存在しない場合に自分の墓地の「ジャンク」モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。②：このカードが守備表示モンスターを攻撃した場合、その守備力を攻撃力が超えた分だけ戦闘ダメージを与える。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/08/12",
+  "species_id": 15,
+  "starchip": "6"
+}

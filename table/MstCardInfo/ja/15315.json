@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 3,
+  "card_id": 15315,
+  "card_name": "海霊賊",
+  "card_name_label": "パイレイツ",
+  "card_name_search": "ぱいれいつ",
+  "card_pen_effect": "",
+  "card_text": "このカード名の効果は１ターンに１度しか使用できない。①：このカードが墓地に存在する状態で、「海霊賊」以外の自分フィールドの表側表示の水属性モンスターが戦闘・効果で破壊された場合に発動できる。このカードを特殊召喚する。この効果で特殊召喚したこのカードの攻撃力は次のターンの終了時まで、自分の墓地の水属性モンスターの数×１００アップする。この効果で特殊召喚したこのカードは、フィールドから離れた場合に除外される。",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/10/03",
+  "species_id": 14,
+  "starchip": "4"
+}

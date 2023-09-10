@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 1,
+  "card_id": 8957,
+  "card_name": "エレキジ",
+  "card_name_label": "エレキジ",
+  "card_name_search": "えれきじ",
+  "card_pen_effect": "",
+  "card_text": "このカードは相手プレイヤーに直接攻撃する事ができる。このカードが直接攻撃によって相手ライフに戦闘ダメージを与えた時、フィールド上に表側表示で存在するモンスター１体を選択し、このターンのエンドフェイズ時までゲームから除外する。",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/04/17",
+  "species_id": 19,
+  "starchip": "4"
+}

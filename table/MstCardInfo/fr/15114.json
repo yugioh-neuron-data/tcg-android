@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 3,
+  "card_id": 15114,
+  "card_name": "Érica la Féé Rikka",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsqu'une attaque impliquant un autre monstre Plante que vous contrôlez est déclarée : vous pouvez Sacrifier cette carte depuis votre main ou Terrain face recto ; jusqu'à la fin de ce tour, le monstre que vous contrôlez gagne 1000 ATK/DEF. Si un ou plusieurs monstres Plante que vous contrôlez sont Sacrifiés, tant que cette carte est dans votre Cimetière (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte en Position de Défense, mais bannissez-la lorsqu'elle quitte le Terrain. Vous ne pouvez utiliser chaque effet de \"Érica la Féé Rikka\" qu'une fois par tour.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/02",
+  "species_id": 13,
+  "starchip": "6"
+}

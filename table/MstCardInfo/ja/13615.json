@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13615,
+  "card_name": "再臨の帝王",
+  "card_name_label": "さいりんのていおう",
+  "card_name_search": "さいりんのていおう",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：自分の墓地の、攻撃力２４００／守備力１０００のモンスターまたは攻撃力２８００／守備力１０００のモンスター１体を対象としてこのカードを発動できる。そのモンスターを効果を無効にして守備表示で特殊召喚し、このカードを装備する。このカードがフィールドから離れた時にそのモンスターは破壊される。②：モンスターをアドバンス召喚する場合、装備モンスターは２体分のリリースにできる。",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/01/13",
+  "species_id": 24,
+  "starchip": "0"
+}

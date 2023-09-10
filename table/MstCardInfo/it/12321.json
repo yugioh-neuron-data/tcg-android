@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 6,
+  "card_id": 12321,
+  "card_name": "Drago Synchro Ala Cristallo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Tuner + 1+ Mostri Synchro non-Tuner$NUna volta per turno, quando viene attivato l'effetto di un altro mostro (Effetto Rapido): puoi annullare l'attivazione e, se lo fai, distruggi quel mostro e, se fai quello, questa carta guadagna ATK pari all'ATK originale del mostro distrutto fino alla fine di questo turno. Se questa carta combatte con un mostro di Livello 5 o superiore dell'avversario, durante il calcolo dei danni: questa carta guadagna ATK pari all'ATK attuale del mostro dell'avversario con cui sta combattendo solamente durante quel calcolo dei danni.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/05/05",
+  "species_id": 1,
+  "starchip": "8"
+}

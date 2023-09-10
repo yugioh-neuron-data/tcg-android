@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 18528,
+  "card_name": "Solfakkord-Sinfonie",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Führe nacheinander diese Effekte aus, basierend auf der Anzahl der offenen „Solfakkord“-Pendelmonster mit unterschiedlichen Namen in deinem Extra Deck.$N●3+: „Solfakkord“-Pendelmonster, die du kontrollierst, erhalten in diesem Spielzug ATK in Höhe ihres eigenen Pendelbereichs x 300.$N●5+: Du kannst 1 Karte zerstören, die dein Gegner kontrolliert, dann, falls du in deiner Pendelzone einen ungeraden Pendelbereich hast, ziehe 1 Karte.$N●7+: Du kannst 1 „GranSolfakkord“-Monster als Spezialbeschwörung von deinem Extra Deck beschwören.$NDu kannst nur 1 „Solfakkord-Sinfonie“ pro Spielzug aktivieren.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/05/04",
+  "species_id": 24,
+  "starchip": "0"
+}

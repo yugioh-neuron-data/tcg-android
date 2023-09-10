@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 1,
+  "card_id": 12531,
+  "card_name": "Artistamico Corno",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Una volta per turno, durante la tua Main Phase, se questa carta è stata Evocata Normalmente o Specialmente in questo turno: puoi scegliere come bersaglio 1 altro mostro \"Artistamico\" che controlli con ATK di 1000 o inferiore; metti sia esso che questa carta che controlli da scoperto in Posizione di Attacco a Posizione di Difesa e, se lo fai, aggiungi 1 mostro \"Occhi Diversi\" dal tuo Deck alla tua mano. Durante il turno del tuo avversario (Effetto Rapido): puoi bandire 1 mostro \"Artistamico\", eccetto \"Artistamico Corno\", e questa carta dal tuo Cimitero; guadagni 500 LP.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/08/18",
+  "species_id": 12,
+  "starchip": "3"
+}

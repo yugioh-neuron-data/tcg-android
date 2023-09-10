@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 4,
+  "card_id": 14264,
+  "card_name": "Neo-Flamvell-Dame",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "(Schnelleffekt): Du kannst 1 FEUER Monster von deiner Hand auf den Friedhof legen und dann 1 Karte im Friedhof deines Gegners wählen; verbanne die Karte. Falls eine Karte vom Friedhof deines Gegners verbannt wird, solange du dieses Monster kontrollierst (außer während des Damage Steps): Du kannst 1 FEUER Monster mit 200 oder weniger DEF von deinem Deck auf den Friedhof legen, außer „Neo-Flamvell-Dame“. Du kannst jeden Effekt von „Neo-Flamvell-Dame“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/05/02",
+  "species_id": 4,
+  "starchip": "4"
+}

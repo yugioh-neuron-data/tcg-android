@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 1,
+  "card_id": 16619,
+  "card_name": "Elfe Mystique - Foudre Blanche",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsqu'un monstre contrôlé par votre adversaire active son effet, tant que vous contrôlez un Monstre Normal de min. Niveau 5 (Effet Rapide) : vous pouvez Invoquer Spécialement cette carte depuis votre main, et si vous le faites, annulez l'effet. Durant la Battle Phase de votre adversaire (Effet Rapide) : vous pouvez cibler 1 Monstre Normal dans l'un des Cimetières ; Invoquez-le Spécialement sur votre Terrain, et si vous le faites, tous les monstres contrôlés par votre adversaire doivent attaquer le monstre ce tour, si possible, tant que vous le contrôlez. Vous ne pouvez utiliser chaque effet de \"Elfe Mystique - Foudre Blanche\" qu'une fois par tour.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/07/21",
+  "species_id": 18,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2900",
+  "attribute_id": 5,
+  "card_id": 8878,
+  "card_name": "다이다라봇치",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드는 특수 소환할 수 없다. 이 카드는 언데드족 몬스터 1장을 릴리스하고 앞면 표시로 어드밴스 소환할 수 있다. ①: 이 카드의 공격력은, 자신 필드의 다른 언데드족 몬스터의 수 × 200 올린다. ②: 이 카드가 묘지에 존재하고, 자신 묘지에 \"다이다라봇치\" 이외의 언데드족 몬스터가 2장 이상 존재할 경우, 자신 메인 페이즈 1 개시시에, 패를 1장 버리고 발동할 수 있다. 이 카드를 패에 넣는다.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/05/17",
+  "species_id": 2,
+  "starchip": "10"
+}

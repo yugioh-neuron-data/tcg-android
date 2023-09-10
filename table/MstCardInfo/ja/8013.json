@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 2,
+  "card_id": 8013,
+  "card_name": "BF－暁のシロッコ",
+  "card_name_label": "ブラックフェザー－あかつきのシロッコ",
+  "card_name_search": "ぶらっくふぇざーあかつきのしろっこ",
+  "card_pen_effect": "",
+  "card_text": "①：相手フィールドにモンスターが存在し、自分フィールドにモンスターが存在しない場合、このカードはリリースなしで通常召喚できる。②：１ターンに１度、自分メインフェイズ１に自分フィールドの「BF」モンスター１体を対象として発動できる。そのモンスターの攻撃力はターン終了時まで、そのモンスター以外のフィールドの「BF」モンスターの攻撃力の合計分アップする。この効果を発動するターン、対象のモンスターしか攻撃できない。",
+  "defense_power": "900",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/11/15",
+  "species_id": 16,
+  "starchip": "5"
+}

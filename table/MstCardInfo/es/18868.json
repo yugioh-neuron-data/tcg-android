@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 1,
+  "card_id": 18868,
+  "card_name": "Magos de Lazos y Unidad",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial (desde tu mano) teniendo 25 o más cartas en tu Cementerio. Mientras tu adversario tenga 25 o más cartas en su Cementerio, esta carta gana 2500 ATK/DEF.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/07/27",
+  "species_id": 18,
+  "starchip": "8"
+}

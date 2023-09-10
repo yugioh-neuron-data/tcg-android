@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 18535,
+  "card_name": "伍世壊砕心",
+  "card_name_label": "マナドゥム・ブレイクハート",
+  "card_name_search": "まなどぅむぶれいくはーと",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分の墓地の、チューナーまたはSモンスター１体を対象として発動できる。そのモンスターを特殊召喚する。この効果で光属性モンスターを特殊召喚した場合、さらにその攻撃力以下の攻撃力を持つ相手フィールドのモンスター１体を選んで破壊できる。②：自分フィールドの、「ヴィサス＝スタフロスト」または攻撃力１５００／守備力２１００のモンスターが戦闘・効果で破壊される場合、代わりに墓地のこのカードを除外できる。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/01/14",
+  "species_id": 25,
+  "starchip": "0"
+}

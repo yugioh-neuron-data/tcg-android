@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 5,
+  "card_id": 14748,
+  "card_name": "Multiplication Mathmech",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Vous pouvez cibler 1 monstre Cyberse de Niveau 4 que vous contrôlez ; jusqu'à la fin de ce tour, son Niveau devient 8. Si cette carte est envoyée au Cimetière : vous pouvez cibler 1 monstre Cyberse que vous contrôlez dans la Zone Monstre Extra ; jusqu'à la fin de ce tour, son ATK est doublée. Vous ne pouvez utiliser chaque effet de \"Multiplication Mathmech\" qu'une fois par tour.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/11/21",
+  "species_id": 27,
+  "starchip": "4"
+}

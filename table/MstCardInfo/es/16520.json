@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 5,
+  "card_id": 16520,
+  "card_name": "Miausclick",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si una Carta Mágica de Campo es activada: puedes Invocar esta carta de Modo Especial desde tu mano y después, si hay cartas boca arriba en ambas Zonas del Campo, este turno esta carta no puede ser destruida en batalla o por efectos de cartas. Sólo puedes usar este efecto de \"Miausclick\" una vez por turno. Durante tu turno, los efectos de las cartas boca arriba en la Zona del Campo de tu adversario son negados. Durante el turno de tu adversario, los efectos de las cartas boca arriba en tu Zona del Campo son negados.",
+  "defense_power": "1100",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/11/04",
+  "species_id": 27,
+  "starchip": "4"
+}

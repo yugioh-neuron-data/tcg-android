@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 17454,
+  "card_name": "インスタント・コンタクト",
+  "card_name_label": "インスタント・コンタクト",
+  "card_name_search": "いんすたんとこんたくと",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：１０００LPを払って発動できる。レベル７以下の、「E・HERO」モンスターまたは「N」モンスター１体を召喚条件を無視してEXデッキから特殊召喚する。自分のフィールド及び墓地に「E・HERO ネオス」が存在しない場合、この効果で特殊召喚したモンスターは攻撃できず、効果は無効化され、エンドフェイズに持ち主のEXデッキに戻る。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/04/23",
+  "species_id": 24,
+  "starchip": "0"
+}

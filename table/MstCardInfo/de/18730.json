@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 2,
+  "card_id": 18730,
+  "card_name": "Bezwingerseele Dr. Wahnsinnige Liebe",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst deiner Hand 1 „Bezwingerseele“-Zauber/Falle von deinem Deck hinzufügen. (Schnelleffekt): Du kannst 1 dieser Effekte aktivieren, indem du ein oder mehr Monster mit den aufgeführten Eigenschaften in deiner Hand vorzeigst;$N●FINSTERNIS: 1 offenes Monster, das dein Gegner kontrolliert, verliert 500 ATK/DEF.$N●FINSTERNIS und ERDE: Gib das 1 Monster mit den niedrigsten DEF auf dem Spielfeld auf die Hand zurück (bei Gleichstand bestimmst du).$NDu kannst jeden Effekt von „Bezwingerseele Dr. Wahnsinnige Liebe“ nur einmal pro Spielzug verwenden und du kannst nicht mehr als 1 in derselben Kette aktivieren.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/06/01",
+  "species_id": 3,
+  "starchip": "4"
+}

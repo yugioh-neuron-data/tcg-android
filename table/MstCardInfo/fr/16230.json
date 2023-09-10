@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 6,
+  "card_id": 16230,
+  "card_name": "Vent Stellaire Wolfrayet",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Syntoniseur + 1+ monstre non-Syntoniseur$NVous ne pouvez contrôler qu'1 \"Vent Stellaire Wolfrayet\". Gagne 300 ATK chaque fois que l'effet d'un autre monstre est activé, tant que l'ATK de cette carte est inférieure à 4000. Une fois par tour, si l'ATK de cette carte est min. 4000 (Effet Rapide) : vous pouvez mélanger cette carte ainsi que tous les monstres contrôlés par votre adversaire dans le Deck.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/08/12",
+  "species_id": 11,
+  "starchip": "9"
+}

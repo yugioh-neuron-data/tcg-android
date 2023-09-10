@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 6449,
+  "card_name": "Vorbereiten zum Zurückschlagen",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Jedes Mal wenn dein Gegner einen Angriff gegen ein offenes Monster in Verteidigungsposition deklariert, wirf eine Münze und wähle Kopf oder Zahl. Falls du richtig vorausgesagt hast, ändere das offene Monster in Verteidigungsposition in die Angriffsposition. Falls du falsch vorausgesagt hast, erhält der Beherrscher dieser Karte Schaden in Höhe der Differenz zwischen der ATK des angreifenden Monsters und der DEF des angegriffenen Monsters.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/08/01",
+  "species_id": 25,
+  "starchip": "0"
+}

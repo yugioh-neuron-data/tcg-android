@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 3,
+  "card_id": 14630,
+  "card_name": "Queue en Couronne Marincesse",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durant le calcul des dommages, si un monstre combat un autre monstre (Effet Rapide) : vous pouvez envoyer 1 autre monstre \"Marincesse\" depuis votre main au Cimetière ; Invoquez Spécialement cette carte depuis votre main, et si vous le faites, les dommages que vous recevez de ce combat sont divisés par deux. Au début de la Damage Step, si un monstre de l'adversaire attaque : vous pouvez bannir cette carte depuis votre Cimetière ; ce tour, vous ne recevez aucun dommage de combat qui est inférieur ou égal à la somme des Classifications Lien des Monstres Lien \"Marincesse\" dans votre Cimetière x 1000. Vous ne pouvez utiliser chaque effet de \"Queue en Couronne Marincesse\" qu'une fois par tour.",
+  "defense_power": "2300",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/10/24",
+  "species_id": 27,
+  "starchip": "5"
+}

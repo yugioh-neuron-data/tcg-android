@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 2,
+  "card_id": 13490,
+  "card_name": "Roi de la Maîtrise - Archdémon",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 monstres Démon$NUne fois par tour, durant votre Standby Phase, payez 500 LP ou détruisez cette carte. Une fois par Chaîne, si vous payez des LP (sauf durant la Damage Step) : vous pouvez envoyer 1 monstre Démon depuis votre Deck au Cimetière avec une ATK ou DEF égale au montant payé. Une fois par Chaîne, si un ou plusieurs monstres Démon sont envoyés à votre Cimetière (sauf durant la Damage Step) : vous pouvez lancer un dé à six faces, puis appliquez cet effet sur 1 de ces monstres selon le résultat.$N●1 : Ajoutez-le à votre main.$N●2, 3, 4, 5 : Mélangez-le dans le Deck.$N●6 : Invoquez-le Spécialement.",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "13",
+  "linkno": "2",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/02/01",
+  "species_id": 3,
+  "starchip": ""
+}

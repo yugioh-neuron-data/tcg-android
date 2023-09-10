@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 1,
+  "card_id": 17064,
+  "card_name": "El Almaespada Dorada",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando un monstruo declara un ataque: puedes Invocar esta carta de Modo Especial desde tu mano y, si lo haces, niega ese ataque y después, si controlas un Monstruo de Fusión que mencione \"Caído de Albaz\" como material, puedes destruir el monstruo que declaró ese ataque. Si un monstruo es desterrado boca arriba (excepto durante el Damage Step): puedes desterrar esta carta en tu Campo o Cementerio; Invoca de Modo Especial, desde tu mano o Cementerio, 1 monstruo Lanzador de Conjuros de LUZ cuyo ATK sea igual a su propia DEF. Sólo puedes usar este efecto de \"El Almaespada Dorada\" una vez por turno.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/04/14",
+  "species_id": 18,
+  "starchip": "4"
+}

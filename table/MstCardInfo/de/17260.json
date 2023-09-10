@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 17260,
+  "card_name": "Battle-Royal-Modus - Beitreten",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Aktiviere diese Karte, indem du 1 Effektmonster auf dem Spielfeld wählst. Die ersten zwei Male, dass jenes Monster in jedem Spielzug durch Kampf zerstört würde, wird es nicht zerstört. Wenn es durch Kampf zerstört wird, erhält der Spieler, der es zerstört hat, 2000 LP. Falls der Gegner des Zugspielers Kampf- oder Effektschaden erhält: Aktiviere diesen Effekt; jener Gegner kann den folgenden Effekt ausführen.$N●Beschwöre 1 Monster der Stufe 4 oder niedriger als Spezialbeschwörung von deiner Hand oder deinem Deck, aber du verlierst 2000 LP.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/03/09",
+  "species_id": 24,
+  "starchip": "0"
+}

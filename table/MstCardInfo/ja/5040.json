@@ -1,0 +1,23 @@
+{
+  "attack_power": "200",
+  "attribute_id": 1,
+  "card_id": 5040,
+  "card_name": "電磁ミノ虫",
+  "card_name_label": "ザックトレーガー・マグネ",
+  "card_name_search": "ざっくとれーがーまぐね",
+  "card_pen_effect": "",
+  "card_text": "①：このカードがリバースした場合、相手フィールドの機械族モンスター１体を対象として発動する。次の自分エンドフェイズまで、その機械族モンスターのコントロールを得る。②：このカードがモンスターとの戦闘で破壊された場合に発動する。そのモンスターの攻撃力・守備力を５００ダウンする。",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 24,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2001/09/06",
+  "species_id": 10,
+  "starchip": "3"
+}

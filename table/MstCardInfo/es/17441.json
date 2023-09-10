@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 17441,
+  "card_name": "Hidrañés Órbita",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si tienes 4 o más monstruos en tu Cementerio y ningún monstruo en tu Cementerio con el mismo nombre: puedes Sacrificar esta carta; excava las cartas de la parte superior de tu Deck, igual al número de monstruos en tu Cementerio (o tantas como sea posible) y, si lo haces, si 2 o más monstruos fueron excavados y todos los monstruos excavados tenían nombres diferentes, añade a tu mano 1 de esos monstruos, y además pon las cartas restantes en la parte superior de tu Deck en cualquier orden. Puedes desterrar esta carta en tu Cementerio, y después selecciona 1 monstruo en tu Cementerio; ponlo en la parte inferior del Deck. Sólo puedes usar cada efecto de \"Hidrañés Órbita\" una vez por turno.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/08/04",
+  "species_id": 7,
+  "starchip": "1"
+}

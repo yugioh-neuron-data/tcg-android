@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 2,
+  "card_id": 14062,
+  "card_name": "붉은 눈의 불시룡",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "튜너 ＋ 튜너 이외의 몬스터 1장 이상$N이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드의 공격력 / 수비력은, 서로의 필드 / 묘지의 언데드족 몬스터의 수 × 100 올린다. ②: 이 카드 이외의 언데드족 몬스터가 전투로 파괴되었을 때에 발동할 수 있다. 자신 또는 상대 묘지의 언데드족 몬스터 1장을 고르고 자신 필드에 특수 소환한다.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/01/08",
+  "species_id": 2,
+  "starchip": "7"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 17181,
+  "card_name": "セリオンズ・クロス",
+  "card_name_label": "セリオンズ・クロス",
+  "card_name_search": "せりおんずくろす",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：自分フィールドに「セリオンズ」モンスターが存在し、相手がモンスターの効果を発動した時、以下の効果から１つを選択して発動できる。自分の墓地に「無尽機関アルギロ・システム」が存在する場合、両方を選択できる。$N●その効果を無効にする。$N●そのモンスターを除外する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/01/15",
+  "species_id": 25,
+  "starchip": "0"
+}

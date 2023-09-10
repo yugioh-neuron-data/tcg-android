@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 18543,
+  "card_name": "Hatsugai",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Excava las 5 cartas de la parte superior del Deck de tu adversario (o tantas como sea posible), elige 1 carta excavada y declara un número en múltiplos de 100 (mín. 100, máx. 3000). Tu adversario puede elegir ganar LP iguales al número declarado. Si ganó LP, tú pierdes esa cantidad de LP y, si lo haces, añade esa carta elegida a tu mano, y además pon el resto en la parte superior del Deck en el mismo orden. Si no lo hizo, pon las cartas excavadas en la parte superior del Deck en el mismo orden.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/05/04",
+  "species_id": 25,
+  "starchip": "0"
+}

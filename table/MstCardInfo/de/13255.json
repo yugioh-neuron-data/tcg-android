@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 1,
+  "card_id": 13255,
+  "card_name": "Elementargrazie Doriado",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand) beschworen werden, indem 6 oder mehr Monster mit unterschiedlichen Eigenschaften in den Friedhöfen liegen. Erhält ATK/DEF in Höhe der Anzahl der verschiedenen Eigenschaften in den Friedhöfen x 500. Wenn dein Gegner ein oder mehr Monster als Spezialbeschwörung beschwören würde (Schnelleffekt): Du kannst 3 Monster von deinem Friedhof verbannen; annulliere die Beschwörung und falls du dies tust, zerstöre die Monster.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/10/19",
+  "species_id": 18,
+  "starchip": "9"
+}

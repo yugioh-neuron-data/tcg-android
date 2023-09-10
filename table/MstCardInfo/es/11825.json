@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 5,
+  "card_id": 11825,
+  "card_name": "Secuestradora Mágica",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Cada vez que es activada una Carta Mágica, pon 1 Contador Mágico en esta carta cuando se resuelva esa Mágica. Una vez por turno: puedes retirar 3 Contadores Mágicos de esta carta; añade a tu mano 1 Monstruo de Péndulo en tu Deck.",
+  "card_text": "Cada vez que es activada una Carta Mágica, pon 1 Contador Mágico en esta carta cuando se resuelva esa Mágica. Gana 100 ATK por cada Contador Mágico en ella. Una vez por turno: puedes retirar 3 Contadores Mágicos de esta carta; añade a tu mano 1 monstruo Lanzador de Conjuros de Nivel 1 en tu Deck.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2015/08/06",
+  "species_id": 18,
+  "starchip": "4"
+}

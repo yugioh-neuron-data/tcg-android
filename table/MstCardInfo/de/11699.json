@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 5,
+  "card_id": 11699,
+  "card_name": "Zefraxi, Schatz des Yang Zing",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Du kannst keine Monster als Pendelbeschwörung beschwören, außer „Yang Zing“- und „Zefra“-Monstern. Dieser Effekt kann nicht annulliert werden.",
+  "card_text": "Falls diese Karte als Pendelbeschwörung beschworen wird oder als Spezialbeschwörung vom Main Deck beschworen wird: Du kannst 1 „Yang Zing“- oder „Zefra“-Monster wählen, das du kontrollierst, außer „Zefraxi, Schatz des Yang Zing“; das offene Monster wird in diesem Spielzug als Empfänger behandelt, zusätzlich lege diese Karte unter das Deck, wenn sie das Spielfeld verlässt. Du kannst diesen Effekt von „Zefraxi, Schatz des Yang Zing“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2015/05/14",
+  "species_id": 26,
+  "starchip": "3"
+}

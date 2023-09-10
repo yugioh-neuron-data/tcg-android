@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 2,
+  "card_id": 14356,
+  "card_name": "Time Thief Redoer",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 Level 4 monsters$NOnce per turn, during the Standby Phase: You can attach the top card of your opponent's Deck to this card as material. (Quick Effect): You can detach up to 3 different types of materials from this card, then apply the following effect(s) depending on what was detached.$N●Monster: Banish this card until the End Phase.$N●Spell: Draw 1 card.$N●Trap: Place 1 face-up card your opponent controls on the top of the Deck.$NYou can only use this effect of \"Time Thief Redoer\" once per turn.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/02/01",
+  "species_id": 21,
+  "starchip": "4"
+}

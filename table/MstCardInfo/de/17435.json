@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 5,
+  "card_id": 17435,
+  "card_name": "Großzahn-Drache",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst bis zu 2 andere Karten auf dem Spielfeld wählen; zerstöre sie und falls du dies tust, erhält diese Karte für jede zerstörte Karte 600 ATK. Du kannst diesen Effekt von „Großzahn-Drache“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "2400",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/08/04",
+  "species_id": 1,
+  "starchip": "8"
+}

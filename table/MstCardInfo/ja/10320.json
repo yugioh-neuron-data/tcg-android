@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 10320,
+  "card_name": "忍法 影縫いの術",
+  "card_name_label": "にんぽう　かげぬいのじゅつ",
+  "card_name_search": "にんぽうかげぬいのじゅつ",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上の「忍者」と名のついたモンスター１体をリリースして発動できる。相手フィールド上のモンスター１体を選択してゲームから除外する。そのモンスターがゲームから除外されている限り、そのモンスターカードゾーンは使用できない。このカードがフィールド上から離れた時、この効果で除外したモンスターを同じ表示形式で元のモンスターカードゾーンに戻す。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/05/18",
+  "species_id": 25,
+  "starchip": "0"
+}

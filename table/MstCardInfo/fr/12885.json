@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 12885,
+  "card_name": "Casse-Cou Frourreur",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 monstre \"Lutin Tranchant\" + 1 monstre \"Peluchimal\"$NLorsque cette carte détruit un monstre de votre adversaire au combat : vous pouvez infliger 1000 points de dommages à votre adversaire. Si cette carte face recto est détruite au combat, ou quitte le Terrain à cause d'un effet de carte de votre adversaire tant que son propriétaire la contrôle : vous pouvez infliger 500 points de dommages à votre adversaire pour chaque monstre \"Frourreur\" dans votre Cimetière. Vous ne pouvez utiliser cet effet de \"Casse-Cou Frourreur\" qu'une fois par tour.",
+  "defense_power": "2200",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/05/25",
+  "species_id": 3,
+  "starchip": "8"
+}

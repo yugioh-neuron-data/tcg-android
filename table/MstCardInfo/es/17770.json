@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 3,
+  "card_id": 17770,
+  "card_name": "Kashtira Ogro",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si no controlas monstruos, puedes Invocar esta carta de Modo Especial (desde tu mano). Sólo puedes usar cada uno de los siguientes efectos de \"Kashtira Ogro\" una vez por turno. Durante tu Main Phase: puedes añadir a tu mano 1 Trampa \"Kashtira\" en tu Deck. Cuando esta carta declara un ataque, o si tu adversario activa un efecto de monstruo (excepto durante el Damage Step): puedes excavar hasta 5 cartas de la parte superior del Deck de tu adversario, destierra 1 carta excavada, boca abajo, y pon el resto en la parte superior del Deck en el mismo orden.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/10/20",
+  "species_id": 21,
+  "starchip": "7"
+}

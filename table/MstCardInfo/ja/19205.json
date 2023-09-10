@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 19205,
+  "card_name": "黎溟界闢",
+  "card_name_label": "れいめいかいびゃく",
+  "card_name_search": "れいめいかいびゃく",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。$N①：自分フィールドの爬虫類族モンスター１体をリリースして発動できる。そのモンスターのレベル２につき１体まで、自分フィールドに「溟界トークン」（爬虫類族・闇・星２・攻／守０）を特殊召喚する。$N②：自分メインフェイズに墓地のこのカードを除外し、自分の除外状態の爬虫類族モンスター１体を対象として発動できる。そのモンスターをデッキに戻す。その後、デッキから爬虫類族モンスター１体を墓地へ送る事ができる。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/07/22",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 9370,
+  "card_name": "カース・オブ・スタチュー",
+  "card_name_label": "カース・オブ・スタチュー",
+  "card_name_search": "かーすおぶすたちゅー",
+  "card_pen_effect": "",
+  "card_text": "このカードは発動後モンスターカード（岩石族・闇・星４・攻１８００／守１０００）となり、自分のモンスターカードゾーンに特殊召喚する。このカードがフィールド上にモンスター扱いとして存在し、このカード以外のモンスター扱いとした罠カードが相手モンスターと戦闘を行った場合、その相手モンスターをダメージ計算後に破壊する。このカードは罠カードとしても扱う。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/11/13",
+  "species_id": 25,
+  "starchip": "0"
+}

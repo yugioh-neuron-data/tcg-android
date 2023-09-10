@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 2,
+  "card_id": 11362,
+  "card_name": "シャドール・ハウンド",
+  "card_name_label": "シャドール・ハウンド",
+  "card_name_search": "しゃどーるはうんど",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：このカードがリバースした場合、自分の墓地の「シャドール」カード１枚を対象として発動できる。そのカードを手札に加える。②：このカードが効果で墓地へ送られた場合、フィールドのモンスター１体を対象として発動できる。そのモンスターの表示形式を変更する。この時、「シャドール」モンスター以外のリバースモンスターの効果は発動しない。",
+  "defense_power": "900",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 24,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/07/19",
+  "species_id": 18,
+  "starchip": "4"
+}

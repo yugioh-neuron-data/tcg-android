@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 1,
+  "card_id": 10990,
+  "card_name": "Gwenhwyfar, Queen of Noble Arms",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "You can target 1 \"Noble Knight\" monster you control; equip this card from your hand or Graveyard to that target. You can only use this effect of \"Gwenhwyfar, Queen of Noble Arms\" once per turn. The equipped monster gains 300 ATK. Apply the appropriate effect, depending on the Attribute of the equipped monster.$N●LIGHT: If the equipped monster would be destroyed by a card effect, you can destroy this card instead.$N●DARK: If the equipped monster battles an opponent's monster, at the start of the Damage Step: You can destroy that monster, then destroy this card.",
+  "defense_power": "300",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/01/24",
+  "species_id": 18,
+  "starchip": "2"
+}

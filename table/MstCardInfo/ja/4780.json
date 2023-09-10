@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 1,
+  "card_id": 4780,
+  "card_name": "サテライト・キャノン",
+  "card_name_label": "サテライト・キャノン",
+  "card_name_search": "さてらいときゃのん",
+  "card_pen_effect": "",
+  "card_text": "このカードはレベル７以下のモンスターとの戦闘では破壊されない。また、自分のエンドフェイズ毎にこのカードの攻撃力は１０００ポイントアップする。この効果でアップした攻撃力は、このカードが攻撃したダメージ計算後に０に戻る。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2003/03/20",
+  "species_id": 7,
+  "starchip": "5"
+}

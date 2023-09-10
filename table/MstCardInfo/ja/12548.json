@@ -1,0 +1,23 @@
+{
+  "attack_power": "2300",
+  "attribute_id": 4,
+  "card_id": 12548,
+  "card_name": "No.59 背反の料理人",
+  "card_name_label": "ナンバーズ５９ バック・ザ・コック",
+  "card_name_search": "なんばーずごじゅうきゅうばっくざこっく",
+  "card_pen_effect": "",
+  "card_text": "レベル４モンスター×２$N①：自分フィールドのカードがこのカードのみの場合、このカードは他のカードの効果を受けない。②：１ターンに１度、このカードのX素材を１つ取り除いて発動できる。このカード以外の自分フィールドのカードを全て破壊する。その後、このカードの攻撃力はターン終了時まで、この効果で破壊され墓地へ送られたモンスターの数×３００アップする。この効果は相手ターンでも発動できる。",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/05/14",
+  "species_id": 15,
+  "starchip": "4"
+}

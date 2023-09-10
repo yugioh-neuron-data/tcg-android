@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 5,
+  "card_id": 7721,
+  "card_name": "디스트럭터",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1000 라이프 포인트를 지불하고 발동한다. 상대 필드 위에 세트된 마법 또는 함정 카드 1장을 파괴한다. 자신 필드 위에 이 카드 이외의 사이킥족 몬스터가 존재하지 않을 경우, 엔드 페이즈시에 이 카드를 파괴한다.",
+  "defense_power": "400",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/10/07",
+  "species_id": 21,
+  "starchip": "4"
+}

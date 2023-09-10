@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 5,
+  "card_id": 11679,
+  "card_name": "EMリザードロー",
+  "card_name_label": "エンタメイトリザードロー",
+  "card_name_search": "えんためいとりざーどろー",
+  "card_pen_effect": "「EMリザードロー」のP効果は１ターンに１度しか使用できない。①：自分メインフェイズにもう片方の自分のPゾーンに「EMリザードロー」以外の「EM」カードが存在する場合に発動できる。このカードを破壊し、自分はデッキから１枚ドローする。",
+  "card_text": "「EMリザードロー」のモンスター効果は１ターンに１度しか使用できない。①：このカード以外の自分フィールドの表側表示モンスターが相手モンスターの攻撃または相手の効果で破壊された場合に発動できる。自分フィールドの「EM」モンスターの数だけ自分はデッキからドローする。",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "6",
+  "pen_scale_r": "6",
+  "sales_at": "2015/02/14",
+  "species_id": 20,
+  "starchip": "3"
+}

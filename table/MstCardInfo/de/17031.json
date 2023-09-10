@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 2,
+  "card_id": 17031,
+  "card_name": "Chronikmagier",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls ein oder mehr Monster mit 2500 Grund-ATK oder -DEF als Normal- oder Spezialbeschwörung auf deine Spielfeldseite beschworen werden (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung von deiner Hand in die Verteidigungsposition beschwören. Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst 1 „Dunkler Magier“ oder „Blauäugiger w. Drache“ in deiner Monsterzone wählen; er erhält bis zum Ende dieses Spielzugs 2500 ATK/DEF. Du kannst jeden Effekt von „Chronikmagier“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/05/05",
+  "species_id": 18,
+  "starchip": "7"
+}

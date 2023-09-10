@@ -1,0 +1,23 @@
+{
+  "attack_power": "2700",
+  "attribute_id": 6,
+  "card_id": 16091,
+  "card_name": "Coolia DoSolfacorde",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Tu adversario no puede activar una Carta Mágica/de Trampa, o efecto de monstruo, cuando uno o más de tus Monstruos de Péndulo \"Solfacorde\" son Invocados por Péndulo.",
+  "card_text": "Puedes Invocar esta carta de Modo Especial (desde tu mano) Sacrificando 2 Monstruos de Péndulo. Sólo puedes usar cada uno de los siguientes efectos de \"Coolia DoSolfacorde\" una vez por turno. Puedes seleccionar 1 carta boca arriba que controle tu adversario, o hasta 2 cartas si tienes una Escala de Péndulo impar en tu Zona de Péndulo; hasta el final del turno de tu adversario, niega sus efectos. Cuando es activado un efecto de un monstruo en el Campo con ATK igual o menor que la Escala de Péndulo más alta en tu Zona de Péndulo x 300: puedes destruir ese monstruo.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2021/05/06",
+  "species_id": 17,
+  "starchip": "8"
+}

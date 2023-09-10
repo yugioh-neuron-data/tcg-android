@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 3,
+  "card_id": 11820,
+  "card_name": "Arobruja Romero",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Mientras tus LP sean más altos que los de tu adversario, si un monstruo Planta que controles ataca, hasta el final del Damage Step tu adversario no puede activar efectos de monstruos. Una vez por turno, si ganas LP: selecciona 1 monstruo boca arriba en el Campo; cambia su posición de batalla.",
+  "defense_power": "700",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/08/06",
+  "species_id": 13,
+  "starchip": "4"
+}

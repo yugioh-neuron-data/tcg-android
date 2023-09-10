@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 5,
+  "card_id": 7799,
+  "card_name": "マジカル・コンダクター",
+  "card_name_label": "マジカル・コンダクター",
+  "card_name_search": "まじかるこんだくたー",
+  "card_pen_effect": "",
+  "card_text": "①：このカードがモンスターゾーンに存在する限り、自分または相手が魔法カードを発動する度に、このカードに魔力カウンターを２つ置く。②：１ターンに１度、このカードの魔力カウンターを任意の数だけ取り除いて発動できる。取り除いた数と同じレベルを持つ魔法使い族モンスター１体を、自分の手札・墓地から選んで特殊召喚する。",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/09/19",
+  "species_id": 18,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2100",
+  "attribute_id": 2,
+  "card_id": 16723,
+  "card_name": "Ausbruchdrache",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls du ein Monster kontrollierst: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören, dann zerstöre alle anderen Monster, die du kontrollierst, zusätzlich kannst du keine Monster als Spezialbeschwörung beschwören, außer FINSTERNIS Monstern, solange diese Karte offen in der Monsterzone liegt. Einmal pro Kette, während der Main Phase deines Gegners, kannst du (Schnelleffekt): Sofort nachdem dieser Effekt aufgelöst wurde, beschwöre 1 Drache-Linkmonster als Linkbeschwörung und verwende dafür Material, das du kontrollierst, darunter diese Karte. Du kannst jeden Effekt von „Ausbruchdrache“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "2800",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/05/05",
+  "species_id": 1,
+  "starchip": "8"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1100",
+  "attribute_id": 3,
+  "card_id": 16086,
+  "card_name": "MiSolfachord Eliteia",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Pendulum Summons of your \"Solfachord\" Pendulum Monsters cannot be negated.",
+  "card_text": "While you have an even Pendulum Scale in your Pendulum Zone, you take no damage from battles involving your \"Solfachord\" Pendulum Monsters. If this card is Normal or Special Summoned: You can target 1 Spell/Trap your opponent controls; return it to the hand. You can only use this effect of \"MiSolfachord Eliteia\" once per turn.",
+  "defense_power": "400",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "6",
+  "pen_scale_r": "6",
+  "sales_at": "2021/05/07",
+  "species_id": 17,
+  "starchip": "3"
+}

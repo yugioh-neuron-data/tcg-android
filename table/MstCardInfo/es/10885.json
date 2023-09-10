@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 1,
+  "card_id": 10885,
+  "card_name": "Minerva, Doncella Luminosa",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando esta carta es Invocada de Modo Normal: puedes añadir a tu mano 1 monstruo de LUZ de Tipo Dragón en tu Deck cuyos Nivel sea igual o menor que la cantidad total de monstruos \"Luminoso/a\" con nombres diferentes en tu Cementerio. Si esta carta es mandada de la mano o Deck al Cementerio: manda al Cementerio la carta de la parte superior de tu Deck. Durante cada una de tus End Phases: manda al Cementerio las 2 cartas de la parte superior de tu Deck.",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/06/26",
+  "species_id": 18,
+  "starchip": "3"
+}

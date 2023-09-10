@@ -1,0 +1,23 @@
+{
+  "attack_power": "2200",
+  "attribute_id": 5,
+  "card_id": 13261,
+  "card_name": "剛鬼サンダー・オーガ",
+  "card_name_label": "ごうきサンダー・オーガ",
+  "card_name_search": "ごうきさんだーおーが",
+  "card_pen_effect": "",
+  "card_text": "「剛鬼」モンスター２体以上$N①：このカードがモンスターゾーンに存在する限り、ターンプレイヤーは以下の効果を適用する。$N●自分メインフェイズに通常召喚に加えて１度だけ、このカードのリンク先となる自分フィールドに手札からモンスター１体を召喚できる。$N②：このカードのリンク先のモンスターが戦闘・効果で破壊された場合に発動できる。このカードの攻撃力は４００アップする。",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "813",
+  "linkno": "3",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/07/08",
+  "species_id": 15,
+  "starchip": ""
+}

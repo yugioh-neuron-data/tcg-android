@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 3,
+  "card_id": 15990,
+  "card_name": "Yamorimori",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 monstre Reptile que vous contrôlez et 1 monstre face recto contrôlé par votre adversaire, pour activer 1 de ces effets ;$N●Changez ces monstres en Position de Défense face verso.$N●Détruisez le monstre que vous contrôlez, et si vous le faites, changez l'ATK de l'autre monstre à 0 jusqu'à la fin de ce tour.$NVous ne pouvez utiliser cet effet de \"Yamorimori\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/06/03",
+  "species_id": 20,
+  "starchip": "2"
+}

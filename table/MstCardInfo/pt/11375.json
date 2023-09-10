@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 1,
+  "card_id": 11375,
+  "card_name": "Sra. Juíza",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se o efeito de um card do oponente for ativado, antes de resolver esse efeito, lance uma moeda duas vezes e se os resultados forem 2 Caras, negue o efeito. Você só pode usar este efeito de \"Sra. Juíza\" uma vez por turno.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/11/07",
+  "species_id": 3,
+  "starchip": "4"
+}

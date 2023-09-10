@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 2,
+  "card_id": 12705,
+  "card_name": "Dystopie - HÉROS de la Destinée",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 monstres \"HÉROS de la Destinée\"$NSi cette carte est Invoquée Spécialement : vous pouvez cibler 1 monstre \"HÉROS de la Destinée\" de max. Niveau 4 dans votre Cimetière ; infligez des dommages à votre adversaire égaux à l'ATK de la cible. Si l'ATK actuelle de cette carte est différente de son ATK d'origine (sauf durant la Damage Step) (Effet Rapide) : vous pouvez cibler 1 carte sur le Terrain ; détruisez-la, et si vous le faites, l'ATK de cette carte devient égale à l'ATK d'origine de cette carte. Vous ne pouvez utiliser chaque effet de \"Dystopie - HÉROS de la Destinée\" qu'une fois par tour.",
+  "defense_power": "2400",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/11/17",
+  "species_id": 15,
+  "starchip": "8"
+}

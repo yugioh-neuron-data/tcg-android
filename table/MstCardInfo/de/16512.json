@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 3,
+  "card_id": 16512,
+  "card_name": "Pinguinkleriker",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls ein oder mehr „Pinguin“-Monster durch eine Karte eines Gegners von deiner Monsterzone auf deinen Friedhof gelegt werden, sogar während des Damage Steps: Du kannst 1 von ihnen wählen; wirf diese Karte ab und falls du dies tust, beschwöre das Monster als Spezialbeschwörung in die verdeckte Verteidigungsposition. Du kannst diesen Effekt von „Pinguinkleriker“ nur einmal pro Spielzug verwenden. Einmal pro Spielzug: Du kannst 1 „Pinguin“-Monster wählen, das du kontrollierst; es erhält bis zum Ende des Spielzugs 600 ATK und du erhältst 600 LP.",
+  "defense_power": "1700",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/11/04",
+  "species_id": 14,
+  "starchip": "3"
+}

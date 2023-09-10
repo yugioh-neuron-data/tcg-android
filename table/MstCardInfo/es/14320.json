@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 14320,
+  "card_name": "Reinicio de Ataque",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Sacrifica 1 monstruo \"/Modo de Ataque\"; Invoca de Modo Especial, desde tu Deck, 1 monstruo \"/Modo de Ataque\" con un nombre diferente en Posición de Defensa, ignorando sus condiciones de Invocación. Puedes desterrar esta carta en tu Cementerio, y después selecciona cualquier cantidad de cartas en tu Cementerio, con nombres diferentes, que sean \"Activar Modo de Ataque\" y/o listen específicamente \"Activar Modo de Ataque\" en su texto, excepto \"Reinicio de Ataque\"; barájalas al Deck. Sólo puedes usar cada efecto de \"Reinicio de Ataque\" una vez por turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/05/02",
+  "species_id": 25,
+  "starchip": "0"
+}

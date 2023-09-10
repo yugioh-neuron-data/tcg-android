@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 1,
+  "card_id": 11196,
+  "card_name": "Hermanos del Noble Caballero",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Esta carta sólo puede atacar si controlas exactamente 3 monstruos \"Noble Caballero\" (y ningún otro monstruo). Cuando esta carta es Invocada de Modo Normal: puedes Invocar de Modo Especial, desde tu mano, hasta 2 monstruos \"Noble Caballero\", y además por el resto de este turno no puedes Invocar monstruos de Modo Especial, excepto monstruos \"Noble Caballero\". Una vez por turno: puedes seleccionar 3 cartas \"Noble Caballero\" y/o \"Armas Nobles\" en tu Cementerio; baraja las 3 al Deck, y después roba 1 carta.",
+  "defense_power": "2400",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/05/15",
+  "species_id": 15,
+  "starchip": "4"
+}

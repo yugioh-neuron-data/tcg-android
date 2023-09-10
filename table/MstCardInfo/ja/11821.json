@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 4,
+  "card_id": 11821,
+  "card_name": "アロマージ－ベルガモット",
+  "card_name_label": "アロマージ－ベルガモット",
+  "card_name_search": "あろまーじべるがもっと",
+  "card_pen_effect": "",
+  "card_text": "①：自分のLPが相手より多く、このカードがモンスターゾーンに存在する限り、自分の植物族モンスターが守備表示モンスターを攻撃した場合、その守備力を攻撃力が超えた分だけ相手に戦闘ダメージを与える。②：１ターンに１度、自分のLPが回復した場合に発動する。このカードの攻撃力・守備力は相手ターンの終了時まで１０００アップする。",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/04/25",
+  "species_id": 13,
+  "starchip": "6"
+}

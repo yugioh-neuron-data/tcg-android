@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 6715,
+  "card_name": "戦場の惨劇",
+  "card_name_label": "せんじょうのさんげき",
+  "card_name_search": "せんじょうのさんげき",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①の効果は１ターンに１度しか使用できない。①：モンスター同士が戦闘を行っていないターンの自分メインフェイズ２に、手札を１枚捨てて発動できる。デッキから「戦場の惨劇」１枚を選んで自分の魔法＆罠ゾーンにセットする。②：モンスター同士が戦闘を行ったターンのエンドフェイズに発動する。ターンプレイヤーは自身のデッキの上からカードを５枚墓地へ送る。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/12/18",
+  "species_id": 24,
+  "starchip": "0"
+}

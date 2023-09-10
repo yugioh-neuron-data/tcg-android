@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 7270,
+  "card_name": "召喚雲",
+  "card_name_label": "サモンクラウド",
+  "card_name_search": "さもんくらうど",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上にモンスターが存在しない場合、自分の手札または墓地からレベル４以下の「雲魔物」と名のついたモンスター１体を特殊召喚する事ができる。この効果は１ターンに１度だけ自分のメインフェイズに使用する事ができる。墓地から特殊召喚した場合はこのカードを破壊する。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/07/21",
+  "species_id": 24,
+  "starchip": "0"
+}

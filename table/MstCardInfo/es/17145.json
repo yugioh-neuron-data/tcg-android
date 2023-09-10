@@ -1,0 +1,23 @@
+{
+  "attack_power": "2700",
+  "attribute_id": 1,
+  "card_id": 17145,
+  "card_name": "Dragón Péndulografo de Ojos Anómalos",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Durante la End Phase: puedes añadir a tu mano 1 Mágica de Ritual en tu Deck o Cementerio, y después devuelve esta carta a la mano. Sólo puedes usar este efecto de \"Dragón Péndulografo de Ojos Anómalos\" una vez por turno.",
+  "card_text": "Puedes Invocar esta carta por Ritual con \"Llegada de los Ojos Anómalos\". Debe ser Invocada por Ritual, o Invocada por Péndulo desde tu mano. Cada vez que tu adversario Invoca uno o más monstruos de Modo Especial desde el Deck Extra, inflígeles 300 puntos de daño. Una vez por turno, cuando tu adversario activa una Carta Mágica o su efecto (Efecto Rápido): puedes poner esta carta en tu Zona de Péndulo y, si lo haces, niega ese efecto y después, si pusiste esta carta Invocada por Ritual en la Zona de Péndulo, puedes Invocar de Modo Especial 1 monstruo \"Ojos Anómalos\" desde tu Deck Extra.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 49,
+  "pen_scale_l": "4",
+  "pen_scale_r": "4",
+  "sales_at": "2022/05/19",
+  "species_id": 1,
+  "starchip": "7"
+}

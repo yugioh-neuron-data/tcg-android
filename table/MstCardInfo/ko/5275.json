@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 5275,
+  "card_name": "저주 인형",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "마법 & 함정 카드 존에 세트된 카드 1장을 선택하고 발동한다. 선택한 카드를 넘겨서 확인하고, 그 카드가 함정 카드였을 경우, 강제 발동시킨다. 발동 타이밍이 맞지 않은 경우, 그 효과를 무효로 하고 파괴한다. 그 카드가 함정 카드 이외였을 경우, 원래대로 되돌린다. 이 카드는 발동 후, 묘지로 보내지 않고 덱으로 되돌린다.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/09/02",
+  "species_id": 24,
+  "starchip": "0"
+}

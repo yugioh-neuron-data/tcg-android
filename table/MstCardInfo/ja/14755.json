@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 14755,
+  "card_name": "斬機超階乗",
+  "card_name_label": "ザンキチョウカイジョウ",
+  "card_name_search": "ざんきちょうかいじょう",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：自分の墓地の「斬機」モンスターを３体まで対象とし、以下の効果から１つを選択して発動できる（同名カードは１枚まで）。$N●そのモンスターを効果を無効にして特殊召喚し、そのモンスターのみを素材として「斬機」Sモンスター１体をS召喚する。その時のS素材モンスターは墓地へは行かず持ち主のデッキに戻る。$N●そのモンスターを効果を無効にして特殊召喚し、そのモンスターのみを素材として「斬機」Xモンスター１体をX召喚する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/08/03",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 5,
+  "card_id": 9552,
+  "card_name": "カタパルト・ウォリアー",
+  "card_name_label": "カタパルト・ウォリアー",
+  "card_name_search": "かたぱるとうぉりあー",
+  "card_pen_effect": "",
+  "card_text": "チューナー＋チューナー以外のモンスター１体以上$N自分フィールド上に存在する「ジャンク」と名のついたモンスター１体をリリースして発動する。リリースしたモンスターの元々の攻撃力分のダメージを相手ライフに与える。この効果は１ターンに１度しか使用できない。",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/12/29",
+  "species_id": 15,
+  "starchip": "5"
+}

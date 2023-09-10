@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 1,
+  "card_id": 14580,
+  "card_name": "ラスタライガー",
+  "card_name_label": "ラスタライガー",
+  "card_name_search": "らすたらいがー",
+  "card_pen_effect": "",
+  "card_text": "トークン以外のモンスター２体以上$Nこのカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分または相手の墓地のリンクモンスター１体を対象として発動できる。このカードの攻撃力はターン終了時まで、そのモンスターの攻撃力分アップする。②：このカードのリンク先の自分のモンスターを任意の数だけリリースして発動できる。リリースしたモンスターの数だけ、フィールドのカードを選んで破壊する。",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "8462",
+  "linkno": "4",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/04/27",
+  "species_id": 27,
+  "starchip": ""
+}

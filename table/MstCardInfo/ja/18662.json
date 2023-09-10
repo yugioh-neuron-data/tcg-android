@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 1,
+  "card_id": 18662,
+  "card_name": "神聖なる魔術師",
+  "card_name_label": "セインクレッド・マジシャン",
+  "card_name_search": "せいんくれっどまじしゃん",
+  "card_pen_effect": "",
+  "card_text": "このカード名の効果は１ターンに１度しか使用できない。$N①：このカードがリバースした場合、自分の墓地の魔法カード１枚を対象として発動できる。そのカードを手札に加える。その後、デッキから「聖なる魔術師」または「神聖なる魔術師」１体を裏側守備表示で特殊召喚できる。",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 24,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/02/21",
+  "species_id": 18,
+  "starchip": "5"
+}

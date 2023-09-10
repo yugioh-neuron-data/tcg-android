@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 6275,
+  "card_name": "クロスカウンター",
+  "card_name_label": "クロスカウンター",
+  "card_name_search": "くろすかうんたー",
+  "card_pen_effect": "",
+  "card_text": "攻撃された守備表示モンスターの守備力が、相手攻撃モンスターの攻撃力を越えていた場合、相手に与える戦闘ダメージは倍になる。ダメージ計算後にその攻撃モンスターを破壊する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/11/25",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 3,
+  "card_id": 17054,
+  "card_name": "Demoiselle Dormeuse Marincesse",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Vous pouvez cibler 1 carte \"Marincesse\" que vous contrôlez ; Invoquez Spécialement cette carte depuis votre main, et si vous le faites, elle gagne cet effet.$N●Tant que cette carte est dans la Zone Monstre, la carte ciblée ne peut pas être détruite par des effets de carte de votre adversaire.$NVous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 Monstre Lien \"Marincesse\" que vous contrôlez ; équipez-le avec 1 Monstre Lien \"Marincesse\" depuis votre Cimetière. Vous ne pouvez utiliser chaque effet de \"Demoiselle Dormeuse Marincesse\" qu'une fois par tour.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/06/16",
+  "species_id": 27,
+  "starchip": "5"
+}

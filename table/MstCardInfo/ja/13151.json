@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 13151,
+  "card_name": "剣闘獣アンダバタエ",
+  "card_name_label": "グラディアルビーストアンダバタエ",
+  "card_name_search": "ぐらでぃあるびーすとあんだばたえ",
+  "card_pen_effect": "",
+  "card_text": "「剣闘獣アウグストル」＋「剣闘獣」モンスター×２$N自分フィールドの上記カードをデッキに戻した場合のみ、EXデッキから特殊召喚できる（「融合」は必要としない）。①：このカードが上記の方法で特殊召喚に成功した場合に発動できる。EXデッキからレベル７以下の「剣闘獣」融合モンスター１体を召喚条件を無視して特殊召喚する。②：このカードが戦闘を行ったバトルフェイズ終了時にこのカードを持ち主のEXデッキに戻して発動できる。デッキから「剣闘獣」モンスター２体を特殊召喚する。",
+  "defense_power": "2800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/05/13",
+  "species_id": 12,
+  "starchip": "8"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1100",
+  "attribute_id": 2,
+  "card_id": 10871,
+  "card_name": "Gul Fantastruco",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "No puede ser Invocado de Modo Normal, a menos que controles un monstruo \"Fantastruco\". Una vez por turno: puedes cambiar esta carta a Posición de Defensa boca abajo. Una vez por turno, durante tu Main Phase 1: puedes seleccionar 1 monstruo \"Fantastruco\" que controles; hasta el final del próximo turno de tu adversario, su ATK se convierte en el del ATK original combinado de todos los monstruos \"Fantastruco\" en el Campo en este momento, pero si lo hace, este turno sólo ese monstruo puede atacar.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/11/02",
+  "species_id": 2,
+  "starchip": "3"
+}

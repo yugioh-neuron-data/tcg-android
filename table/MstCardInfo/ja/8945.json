@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 5,
+  "card_id": 8945,
+  "card_name": "マイン・モール",
+  "card_name_label": "マイン・モール",
+  "card_name_search": "まいんもーる",
+  "card_pen_effect": "",
+  "card_text": "このカードは１ターンに１度だけ、戦闘では破壊されない。このカードが獣族モンスターのシンクロ召喚の素材として墓地へ送られた場合、自分のデッキからカードを１枚ドローする。このカードは相手のカードの効果によってフィールド上から離れた場合、ゲームから除外される。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/04/17",
+  "species_id": 11,
+  "starchip": "3"
+}

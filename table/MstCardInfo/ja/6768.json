@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 3,
+  "card_id": 6768,
+  "card_name": "N・アクア・ドルフィン",
+  "card_name_label": "ネオスペーシアン・アクア・ドルフィン",
+  "card_name_search": "ねおすぺーしあんあくあどるふぃん",
+  "card_pen_effect": "",
+  "card_text": "①：１ターンに１度、手札を１枚捨てて発動できる。相手の手札を確認し、その中からモンスター１体を選ぶ。選んだモンスターの攻撃力以上の攻撃力を持つモンスターが自分フィールドに存在する場合、選んだモンスターを破壊し、相手に５００ダメージを与える。存在しない場合、自分は５００ダメージを受ける。",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/05/18",
+  "species_id": 15,
+  "starchip": "3"
+}

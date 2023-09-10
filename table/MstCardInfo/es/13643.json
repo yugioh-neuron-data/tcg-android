@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 13643,
+  "card_name": "Bucle Destructor",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "El nombre de esta carta se convierte en \"Anillo Destructor\" mientras esté en el Campo. Una vez por turno, si uno o más monstruos en el Campo son destruidos por el efecto de una carta (excepto durante el Damage Step): puedes seleccionar 1 monstruo en el Campo; destrúyelo y, si lo haces, cada jugador recibe 500 puntos de daño.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/03/08",
+  "species_id": 25,
+  "starchip": "0"
+}

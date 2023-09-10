@@ -1,0 +1,947 @@
+[
+  {
+    "card_count": 1,
+    "card_id": 6784,
+    "card_image_id": 1,
+    "card_number": "BODE-PT100",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 47
+  },
+  {
+    "card_count": 1,
+    "card_id": 14431,
+    "card_image_id": 1,
+    "card_number": "BODE-PT092",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14432,
+    "card_image_id": 1,
+    "card_number": "BODE-PT093",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14433,
+    "card_image_id": 1,
+    "card_number": "BODE-PT094",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14434,
+    "card_image_id": 1,
+    "card_number": "BODE-PT095",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14435,
+    "card_image_id": 1,
+    "card_number": "BODE-PT096",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14436,
+    "card_image_id": 1,
+    "card_number": "BODE-PT099",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14786,
+    "card_image_id": 1,
+    "card_number": "BODE-PT098",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 14798,
+    "card_image_id": 1,
+    "card_number": "BODE-PT097",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16487,
+    "card_image_id": 1,
+    "card_number": "BODE-PT001",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 16488,
+    "card_image_id": 1,
+    "card_number": "BODE-PT002",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 16489,
+    "card_image_id": 1,
+    "card_number": "BODE-PT003",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 16490,
+    "card_image_id": 1,
+    "card_number": "BODE-PT004",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 16491,
+    "card_image_id": 1,
+    "card_number": "BODE-PT005",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 16492,
+    "card_image_id": 1,
+    "card_number": "BODE-PT006",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 16493,
+    "card_image_id": 1,
+    "card_number": "BODE-PT007",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 16493,
+    "card_image_id": 1,
+    "card_number": "BODE-PT007",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 47
+  },
+  {
+    "card_count": 1,
+    "card_id": 16494,
+    "card_image_id": 1,
+    "card_number": "BODE-PT008",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16495,
+    "card_image_id": 1,
+    "card_number": "BODE-PT009",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16496,
+    "card_image_id": 1,
+    "card_number": "BODE-PT010",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 16497,
+    "card_image_id": 1,
+    "card_number": "BODE-PT011",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 16498,
+    "card_image_id": 1,
+    "card_number": "BODE-PT013",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 16499,
+    "card_image_id": 1,
+    "card_number": "BODE-PT014",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 16500,
+    "card_image_id": 1,
+    "card_number": "BODE-PT015",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16501,
+    "card_image_id": 1,
+    "card_number": "BODE-PT016",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16502,
+    "card_image_id": 1,
+    "card_number": "BODE-PT012",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 16502,
+    "card_image_id": 1,
+    "card_number": "BODE-PT012",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 47
+  },
+  {
+    "card_count": 1,
+    "card_id": 16503,
+    "card_image_id": 1,
+    "card_number": "BODE-PT017",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 16504,
+    "card_image_id": 1,
+    "card_number": "BODE-PT018",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 16505,
+    "card_image_id": 1,
+    "card_number": "BODE-PT019",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16506,
+    "card_image_id": 1,
+    "card_number": "BODE-PT020",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16507,
+    "card_image_id": 1,
+    "card_number": "BODE-PT021",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16508,
+    "card_image_id": 1,
+    "card_number": "BODE-PT022",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16509,
+    "card_image_id": 1,
+    "card_number": "BODE-PT023",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16510,
+    "card_image_id": 1,
+    "card_number": "BODE-PT024",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16511,
+    "card_image_id": 1,
+    "card_number": "BODE-PT025",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16512,
+    "card_image_id": 1,
+    "card_number": "BODE-PT026",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16513,
+    "card_image_id": 1,
+    "card_number": "BODE-PT027",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16514,
+    "card_image_id": 1,
+    "card_number": "BODE-PT028",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 16515,
+    "card_image_id": 1,
+    "card_number": "BODE-PT029",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16516,
+    "card_image_id": 1,
+    "card_number": "BODE-PT030",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 16517,
+    "card_image_id": 1,
+    "card_number": "BODE-PT031",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16518,
+    "card_image_id": 1,
+    "card_number": "BODE-PT032",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16519,
+    "card_image_id": 1,
+    "card_number": "BODE-PT033",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16520,
+    "card_image_id": 1,
+    "card_number": "BODE-PT034",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 16521,
+    "card_image_id": 1,
+    "card_number": "BODE-PT035",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16522,
+    "card_image_id": 1,
+    "card_number": "BODE-PT036",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 16523,
+    "card_image_id": 1,
+    "card_number": "BODE-PT037",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16524,
+    "card_image_id": 1,
+    "card_number": "BODE-PT039",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 16525,
+    "card_image_id": 1,
+    "card_number": "BODE-PT038",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 16526,
+    "card_image_id": 1,
+    "card_number": "BODE-PT040",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 16527,
+    "card_image_id": 1,
+    "card_number": "BODE-PT041",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 16527,
+    "card_image_id": 1,
+    "card_number": "BODE-PT041",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 47
+  },
+  {
+    "card_count": 1,
+    "card_id": 16528,
+    "card_image_id": 1,
+    "card_number": "BODE-PT042",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 16529,
+    "card_image_id": 1,
+    "card_number": "BODE-PT043",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 16530,
+    "card_image_id": 1,
+    "card_number": "BODE-PT044",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 16531,
+    "card_image_id": 1,
+    "card_number": "BODE-PT045",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 16532,
+    "card_image_id": 1,
+    "card_number": "BODE-PT046",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16533,
+    "card_image_id": 1,
+    "card_number": "BODE-PT047",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 16534,
+    "card_image_id": 1,
+    "card_number": "BODE-PT048",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 16535,
+    "card_image_id": 1,
+    "card_number": "BODE-PT049",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16536,
+    "card_image_id": 1,
+    "card_number": "BODE-PT050",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 16537,
+    "card_image_id": 1,
+    "card_number": "BODE-PT051",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 16537,
+    "card_image_id": 1,
+    "card_number": "BODE-PT051",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 47
+  },
+  {
+    "card_count": 1,
+    "card_id": 16538,
+    "card_image_id": 1,
+    "card_number": "BODE-PT052",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 16539,
+    "card_image_id": 1,
+    "card_number": "BODE-PT053",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 16540,
+    "card_image_id": 1,
+    "card_number": "BODE-PT054",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 16541,
+    "card_image_id": 1,
+    "card_number": "BODE-PT055",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 16542,
+    "card_image_id": 1,
+    "card_number": "BODE-PT056",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 16543,
+    "card_image_id": 1,
+    "card_number": "BODE-PT057",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 16544,
+    "card_image_id": 1,
+    "card_number": "BODE-PT058",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 16545,
+    "card_image_id": 1,
+    "card_number": "BODE-PT059",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 16546,
+    "card_image_id": 1,
+    "card_number": "BODE-PT060",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 16547,
+    "card_image_id": 1,
+    "card_number": "BODE-PT061",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16548,
+    "card_image_id": 1,
+    "card_number": "BODE-PT062",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16549,
+    "card_image_id": 1,
+    "card_number": "BODE-PT063",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16550,
+    "card_image_id": 1,
+    "card_number": "BODE-PT064",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16551,
+    "card_image_id": 1,
+    "card_number": "BODE-PT065",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 16552,
+    "card_image_id": 1,
+    "card_number": "BODE-PT066",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16553,
+    "card_image_id": 1,
+    "card_number": "BODE-PT067",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 16554,
+    "card_image_id": 1,
+    "card_number": "BODE-PT068",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16555,
+    "card_image_id": 1,
+    "card_number": "BODE-PT069",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 16556,
+    "card_image_id": 1,
+    "card_number": "BODE-PT070",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16557,
+    "card_image_id": 1,
+    "card_number": "BODE-PT071",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16558,
+    "card_image_id": 1,
+    "card_number": "BODE-PT072",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16559,
+    "card_image_id": 1,
+    "card_number": "BODE-PT073",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16560,
+    "card_image_id": 1,
+    "card_number": "BODE-PT074",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 16561,
+    "card_image_id": 1,
+    "card_number": "BODE-PT075",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 16562,
+    "card_image_id": 1,
+    "card_number": "BODE-PT076",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16563,
+    "card_image_id": 1,
+    "card_number": "BODE-PT077",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16564,
+    "card_image_id": 1,
+    "card_number": "BODE-PT078",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 16565,
+    "card_image_id": 1,
+    "card_number": "BODE-PT079",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16566,
+    "card_image_id": 1,
+    "card_number": "BODE-PT080",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16936,
+    "card_image_id": 1,
+    "card_number": "BODE-PT081",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16937,
+    "card_image_id": 1,
+    "card_number": "BODE-PT082",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16938,
+    "card_image_id": 1,
+    "card_number": "BODE-PT083",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16939,
+    "card_image_id": 1,
+    "card_number": "BODE-PT084",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16940,
+    "card_image_id": 1,
+    "card_number": "BODE-PT085",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16941,
+    "card_image_id": 1,
+    "card_number": "BODE-PT086",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 16942,
+    "card_image_id": 1,
+    "card_number": "BODE-PT087",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 16943,
+    "card_image_id": 1,
+    "card_number": "BODE-PT088",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 16944,
+    "card_image_id": 1,
+    "card_number": "BODE-PT089",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 16945,
+    "card_image_id": 1,
+    "card_number": "BODE-PT090",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16946,
+    "card_image_id": 1,
+    "card_number": "BODE-PT091",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16952,
+    "card_image_id": 1,
+    "card_number": "BODE-PT000",
+    "language": "pt",
+    "pack_id": "2000001138000",
+    "rarity_id": 1
+  }
+]

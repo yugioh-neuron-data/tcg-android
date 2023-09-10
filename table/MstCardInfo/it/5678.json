@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 5678,
+  "card_name": "Pugno Distruttivo Continuo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Quando l'ATK di un mostro attaccante sul Terreno del tuo avversario è inferiore al DEF del mostro attaccato in Posizione di Difesa sul tuo Terreno, distruggi il mostro attaccante. Il calcolo dei danni viene applicato normalmente.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/03/19",
+  "species_id": 24,
+  "starchip": "0"
+}

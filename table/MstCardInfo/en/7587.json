@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 1,
+  "card_id": 7587,
+  "card_name": "Arcana Force XIV - Temperance",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "During damage calculation, in either player's turn: You can discard this card; you take no Battle Damage from that battle. When this card is Summoned: Toss a coin and apply this effect. The effect lasts while this card is face-up on the field.$N●Heads: Halve all Battle Damage you take.$N●Tails: Halve all Battle Damage your opponent takes.",
+  "defense_power": "2400",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/05/13",
+  "species_id": 17,
+  "starchip": "6"
+}

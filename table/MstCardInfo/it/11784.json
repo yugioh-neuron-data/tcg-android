@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 1,
+  "card_id": 11784,
+  "card_name": "Mago Occhio-Saggio",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Se hai una carta \"Mago\" o \"Artistamico\" nella tua altra Zona Pendulum: puoi distruggere questa carta e, se lo fai, metti 1 Mostro Pendulum \"Mago\" dal tuo Deck nella tua Zona Pendulum, eccetto \"Mago Occhio-Saggio\".",
+  "card_text": "Puoi scartare questa carta, poi scegliere come bersaglio nella tua Zona Pendulum 1 carta il cui Valore Pendulum attuale è diverso dal suo Valore Pendulum originale; il suo Valore Pendulum diventa il suo Valore Pendulum originale fino alla fine di questo turno.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2015/12/03",
+  "species_id": 18,
+  "starchip": "4"
+}

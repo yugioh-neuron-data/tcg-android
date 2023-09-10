@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 12984,
+  "card_name": "Apocalypse du Véritable Draco",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si cette carte est envoyée depuis la Zone Magie & Piège au Cimetière : vous pouvez cibler 1 monstre sur le Terrain ; détruisez-le. Vous ne pouvez pas activer les effets suivants de \"Apocalypse du Véritable Draco\" dans la même Chaîne.$N●Vous pouvez cibler 1 autre carte \"Véritable Draco\" ou \"Roi Véritable\" que vous contrôlez ; détruisez-la, et si vous le faites, l'ATK/DEF de tous les monstres face recto contrôlés par votre adversaire deviennent la moitié de leur ATK/DEF actuelles (même si cette carte quitte le Terrain).$N●Durant la Main Phase de votre adversaire, vous pouvez : immédiatement après la résolution de cet effet, Invoquez par Sacrifice face recto 1 monstre \"Véritable Draco\" ou \"Roi Véritable\".$NVous ne pouvez utiliser chaque effet de \"Apocalypse du Véritable Draco\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/05/04",
+  "species_id": 25,
+  "starchip": "0"
+}

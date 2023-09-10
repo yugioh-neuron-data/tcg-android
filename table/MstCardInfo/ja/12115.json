@@ -1,0 +1,23 @@
+{
+  "attack_power": "200",
+  "attribute_id": 2,
+  "card_id": 12115,
+  "card_name": "EMトランプ・ガール",
+  "card_name_label": "エンタメイトトランプ・ガール",
+  "card_name_search": "えんためいととらんぷがーる",
+  "card_pen_effect": "",
+  "card_text": "①：１ターンに１度、自分メインフェイズに発動できる。融合モンスターカードによって決められた、このカードを含む融合素材モンスターを自分フィールドから墓地へ送り、その融合モンスター１体をエクストラデッキから融合召喚する。②：このカードがPゾーンで破壊された場合、自分の墓地のドラゴン族の融合モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。この効果で特殊召喚したモンスターはエンドフェイズに破壊される。",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "4",
+  "pen_scale_r": "4",
+  "sales_at": "2015/10/17",
+  "species_id": 18,
+  "starchip": "2"
+}

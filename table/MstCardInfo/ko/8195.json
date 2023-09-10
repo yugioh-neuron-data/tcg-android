@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 4,
+  "card_id": 8195,
+  "card_name": "트라이든트 드라기온",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "드래곤족 튜너 ＋ 튜너 이외의 드래곤족 몬스터 1장 이상$N이 카드는 싱크로 소환으로밖에 특수 소환할 수 없다. 이 카드가 싱크로 소환에 성공했을 때, 자신 필드 위에 존재하는 카드를 2장까지 파괴할 수 있다. 이 턴의 이 카드는 일반 공격 외에도, 이 카드의 효과로 파괴한 수만큼 1번의 배틀 페이즈 중에 공격할 수 있다.",
+  "defense_power": "2800",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/07/10",
+  "species_id": 1,
+  "starchip": "10"
+}

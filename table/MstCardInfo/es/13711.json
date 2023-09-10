@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13711,
+  "card_name": "F.A. Ganadores",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si controlas un monstruo \"F.A.\", esta carta no puede ser destruida por los efectos de cartas de tu adversario. Cuando tu monstruo \"F.A.\" cuyo Nivel sea al menos 5 más que su Nivel original batalla con un monstruo del adversario y le inflige daño de batalla: puedes desterrar 1 carta en tu mano, Campo o Cementerio. Sólo puedes activar este efecto de \"F.A. Ganadores\" una vez por turno. Si 3 de tus Mágicas de Campo \"F.A.\" con nombre diferente están desterradas en este momento, y fueron todas desterradas por el efecto de \"F.A. Ganadores\", ganas el Duelo.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/05/03",
+  "species_id": 24,
+  "starchip": "0"
+}

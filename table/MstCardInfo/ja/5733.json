@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 5733,
+  "card_name": "トークン収穫祭",
+  "card_name_label": "トークンしゅうかくさい",
+  "card_name_search": "とーくんしゅうかくさい",
+  "card_pen_effect": "",
+  "card_text": "フィールド上のトークンを全て破壊する。破壊したトークンの数×８００ライフポイントを回復する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/11/21",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10798,
+  "card_name": "Retour des Monarques",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Vous ne pouvez pas Invoquer Spécialement de monstres depuis l'Extra Deck. Lorsque vous Invoquez par Sacrifice un monstre : vous pouvez activer 1 de ces effets ;$N●Ajoutez 1 monstre avec 2400 ATK et 1000 DEF de nom différent du monstre Invoqué par Sacrifice depuis votre Deck à votre main.$N●Ajoutez 1 monstre avec 2800 ATK et 1000 DEF de nom différent du monstre Invoqué par Sacrifice depuis votre Deck à votre main.$NLe monstre Invoqué par Sacrifice doit être face recto sur le Terrain pour activer et résoudre cet effet. Vous ne pouvez utiliser cet effet de \"Retour des Monarques\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/11/07",
+  "species_id": 24,
+  "starchip": "0"
+}

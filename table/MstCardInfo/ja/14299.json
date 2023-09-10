@@ -1,0 +1,23 @@
+{
+  "attack_power": "1300",
+  "attribute_id": 1,
+  "card_id": 14299,
+  "card_name": "落消しのパズロミノ",
+  "card_name_label": "おちけしのパズロミノ",
+  "card_name_search": "おちけしのぱずろみの",
+  "card_pen_effect": "",
+  "card_text": "レベルが異なるモンスター２体$Nこのカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが既にモンスターゾーンに存在する状態で、このカードのリンク先にモンスターが表側表示で特殊召喚された場合、１～８までの任意のレベルを宣言して発動できる。そのモンスターはターン終了時まで宣言したレベルになる。②：自分と相手のフィールドから、同じレベルのモンスターを１体ずつ対象として発動できる。そのモンスターを破壊する。",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "62",
+  "linkno": "2",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/01/12",
+  "species_id": 18,
+  "starchip": ""
+}

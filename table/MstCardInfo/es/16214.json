@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 1,
+  "card_id": 16214,
+  "card_name": "Loagaeth Espíritu Protector",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si esta carta en el Campo es destruida en batalla o por el efecto de una carta: puedes seleccionar 1 monstruo en el Campo; éste no puede ser destruido en batalla este turno. Sólo puedes usar cada uno de los siguientes efectos de \"Loagaeth Espíritu Protector\" una vez por turno. Si es activado un efecto de un monstruo Hada que controlas (excepto durante el Damage Step): puedes Invocar esta carta de Modo Especial desde tu mano. Puedes seleccionar 1 carta boca arriba que controle tu adversario y 1 monstruo en Posición de Ataque que controles; destierra esa carta del adversario y, si lo haces, cambia tu monstruo a Posición de Defensa.",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/08/12",
+  "species_id": 17,
+  "starchip": "7"
+}

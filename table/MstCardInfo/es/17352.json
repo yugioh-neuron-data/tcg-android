@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 4,
+  "card_id": 17352,
+  "card_name": "Vizconde Voltaje Vaylantz",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Durante tu Main Phase: puedes Invocar esta carta de Modo Especial a tu Zona de Monstruos Principal en su misma columna, y además por el resto de este turno no puedes Invocar de Modo Especial monstruos que no sean \"Vaylantz\", excepto desde el Deck Extra. Sólo puedes usar este efecto de \"Vizconde Voltaje Vaylantz\" una vez por turno.",
+  "card_text": "Durante tu Main Phase, si controlas esta carta Invocada de Modo Especial: puedes poner 1 Monstruo de Péndulo \"Vaylantz\" boca arriba en tu Deck Extra en tu Zona de Magia y Trampas como una Mágica Continua boca arriba. Si esta carta en la Zona de Monstruos se mueve a otra Zona de Monstruos: puedes poner 1 Monstruo de Péndulo \"Vaylantz\" boca arriba en tu Deck Extra en tu Zona de Péndulo. Sólo puedes usar cada efecto de \"Vizconde Voltaje Vaylantz\" una vez por turno.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2022/08/25",
+  "species_id": 7,
+  "starchip": "4"
+}

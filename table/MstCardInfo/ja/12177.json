@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 12177,
+  "card_name": "竜の束縛",
+  "card_name_label": "ドラゴンズ・バインド",
+  "card_name_search": "どらごんずばいんど",
+  "card_pen_effect": "",
+  "card_text": "自分フィールドの攻撃力・守備力が２５００以下のドラゴン族モンスター１体を対象としてこのカードを発動できる。①：このカードが魔法＆罠ゾーンに存在する限り、お互いに対象のモンスターの元々の攻撃力以下のモンスターを特殊召喚できない。②：対象のモンスターがフィールドから離れた時にこのカードは破壊される。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/10/17",
+  "species_id": 25,
+  "starchip": "0"
+}

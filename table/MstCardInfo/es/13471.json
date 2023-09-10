@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 13471,
+  "card_name": "Escamas Corrosivas",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Selecciona 1 monstruo Insecto que controles; equípale esta carta. Mientras controles el monstruo equipado, los monstruos de tu adversario no pueden atacar a monstruos Insecto, excepto al monstruo equipado. Mientras esta carta está equipada a un monstruo, cada vez que tu adversario Invoca de Modo Normal o Especial uno o más monstruos, O activa una carta o efecto, pon 1 Contador de Escama en cada monstruo boca arriba que él controle. Cada monstruo que tu adversario controle pierde 100 ATK/DEF por cada Contador de Escama que tenga.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/02/22",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 5,
+  "card_id": 12159,
+  "card_name": "Goyo-König",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Empfänger-Monster + 1 oder mehr Nicht-Empfänger-Synchromonster$NWenn diese Karte einen Angriff gegen ein Monster deines Gegners deklariert: Diese Karte erhält bis zum Ende des Damage Steps 400 ATK für jedes ERDE Synchromonster vom Typ Krieger, das du kontrollierst. Wenn diese Karte ein Monster deines Gegners durch Kampf zerstört und auf den Friedhof legt: Du kannst 1 dieser Effekte aktivieren;$N●Beschwöre das Monster als Spezialbeschwörung auf deine Spielfeldseite.$N●Übernimm die Kontrolle über 1 offenes Monster, das dein Gegner kontrolliert.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/01/14",
+  "species_id": 15,
+  "starchip": "8"
+}

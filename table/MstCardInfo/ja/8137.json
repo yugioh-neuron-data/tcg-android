@@ -1,0 +1,23 @@
+{
+  "attack_power": "2300",
+  "attribute_id": 5,
+  "card_id": 8137,
+  "card_name": "パワー・ツール・ドラゴン",
+  "card_name_label": "パワー・ツール・ドラゴン",
+  "card_name_search": "ぱわーつーるどらごん",
+  "card_pen_effect": "",
+  "card_text": "チューナー＋チューナー以外のモンスター１体以上$N①：１ターンに１度、自分メインフェイズに発動できる。デッキから装備魔法カード３枚を相手に見せ、相手はその中からランダムに１枚選ぶ。そのカード１枚を自分の手札に加え、残りをデッキに戻す。②：このカードが破壊される場合、代わりにこのカードに装備されている装備魔法カード１枚を墓地へ送る事ができる。",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/02/14",
+  "species_id": 7,
+  "starchip": "7"
+}

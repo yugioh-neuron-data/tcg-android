@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 3,
+  "card_id": 14272,
+  "card_name": "Nuage Bruyant le Serpent Tempête",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Ni Invocable Normalement ni Posable Normalement. Doit d'abord être Invoquée Spécialement (depuis votre main) en bannissant 1 monstre FEU et 1 monstre VENT depuis votre Cimetière. Vous ne pouvez utiliser chacun des effets suivants de \"Nuage Bruyant le Serpent Tempête\" qu'une fois par tour.$N●Vous pouvez bannir 1 monstre FEU depuis votre Cimetière, puis ciblez 1 monstre contrôlé par votre adversaire ; détruisez le monstre, et si vous le faites, cette carte gagne une ATK égale à l'ATK d'origine du monstre détruit.$N●Vous pouvez bannir 1 monstre VENT depuis votre Cimetière, puis ciblez 1 carte dans la Zone Magie & Piège de votre adversaire ; détruisez-la.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/05/02",
+  "species_id": 20,
+  "starchip": "5"
+}

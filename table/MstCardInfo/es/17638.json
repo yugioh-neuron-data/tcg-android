@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 3,
+  "card_id": 17638,
+  "card_name": "Cráneo de Cristal",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si esta carta es Invocada: tú recibes 1000 puntos de daño, y después cambia esta carta a Posición de Defensa. Durante la End Phase, si este turno no recibiste daño de efecto: puedes ya sea añadir a tu mano o Invocar de Modo Especial 1 monstruo Roca con 0 ATK en tu Deck. Sólo puedes usar este efecto de \"Cráneo de Cristal\" una vez por turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/11/17",
+  "species_id": 6,
+  "starchip": "1"
+}

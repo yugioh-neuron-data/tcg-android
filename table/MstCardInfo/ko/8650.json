@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 2,
+  "card_id": 8650,
+  "card_name": "파멸의 마왕 가란돌프",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"파멸의 의식\"에 의해서 의식 소환. 이 카드가 의식 소환에 성공했을 때, 이 카드의 공격력 이하의 수비력을 가진, 이 카드 이외의 필드 위에 앞면 표시로 존재하는 몬스터를 전부 파괴하고, 파괴한 몬스터 1장당 이 카드의 공격력은 100 포인트 올린다.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 5,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/02/23",
+  "species_id": 3,
+  "starchip": "7"
+}

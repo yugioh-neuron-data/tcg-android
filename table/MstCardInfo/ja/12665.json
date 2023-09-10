@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 12665,
+  "card_name": "グレイドル・コンバット",
+  "card_name_label": "グレイドル・コンバット",
+  "card_name_search": "ぐれいどるこんばっと",
+  "card_pen_effect": "",
+  "card_text": "①：自分フィールドの「グレイドル」モンスター１体のみを対象とするモンスターの効果・魔法・罠カードが発動した時、以下の効果から１つを選択して発動できる。$N●その効果は「対象のモンスター１体を破壊する」となる。$N●その発動を無効にし破壊する。",
+  "defense_power": "0",
+  "effect_id": 1,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/07/09",
+  "species_id": 25,
+  "starchip": "0"
+}

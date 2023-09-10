@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 4740,
+  "card_name": "Restrição dos Mil Olhos",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"Renunciado\" + \"Ídolo dos Mil Olhos\"$NOutros monstros no campo não podem mudar suas posições de batalha ou atacar. Uma vez por turno: você pode escolher 1 monstro que seu oponente controla; equipe o alvo a este card (máx. 1). O ATK/DEF deste card se tornam iguais ao do monstro equipado. Se este card seria destruído em batalha, em vez disso, destrua o monstro equipado.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/09/15",
+  "species_id": 18,
+  "starchip": "1"
+}

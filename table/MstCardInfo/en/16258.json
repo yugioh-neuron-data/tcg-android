@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16258,
+  "card_name": "Margin Trading",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Your opponent can discard 1 card to negate this effect, otherwise both players look at their opponent's Deck and choose 1 card, then add the card from their own Deck chosen by their opponent to their hand. You can only activate 1 \"Margin Trading\" per turn.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/08/13",
+  "species_id": 24,
+  "starchip": "0"
+}

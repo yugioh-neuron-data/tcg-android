@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 1,
+  "card_id": 16198,
+  "card_name": "Die Iris-Schwertseele",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Während der Main Phase, falls ein Monster, dessen Effekte annulliert sind, auf dem Spielfeld liegt (Schnelleffekt): Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Falls dein Gegner ein oder mehr Monster als Spezialbeschwörung beschwört (außer während des Damage Steps): Du kannst 1 dieser Effekte aktivieren, basierend darauf, woher sie als Spezialbeschwörung beschworen wurden;$N●Hand: Beschwöre 1 Monster als Spezialbeschwörung von deiner Hand.$N●Deck: Ziehe 2 Karten.$N●Extra Deck: Zerstöre 1 jener Monster, die als Spezialbeschwörung vom Extra Deck beschworen wurden.$NDu kannst jeden Effekt von „Die Iris-Schwertseele“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/08/12",
+  "species_id": 18,
+  "starchip": "8"
+}

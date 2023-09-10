@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 14453,
+  "card_name": "DMZ Dragão",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Uma vez por turno: você pode escolher 1 monstro Dragão de Nível 4 ou menos no seu Cemitério e 1 monstro Dragão que você controla; equipe esse monstro no seu Cemitério nesse monstro no campo como uma Magia de Equipamento que faz com que ele ganhe 500 de ATK. No final da Etapa de Dano, se um monstro seu equipado com um Card de Equipamento atacou: você pode banir este card do seu Cemitério; destrua tantos cards quanto possível equipados a esse monstro que você controla e, se isso acontecer, esse monstro pode realizar um segundo ataque em seguida.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/07/26",
+  "species_id": 1,
+  "starchip": "4"
+}

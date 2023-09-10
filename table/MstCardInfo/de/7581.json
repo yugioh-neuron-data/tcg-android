@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 1,
+  "card_id": 7581,
+  "card_name": "Arkane Macht 0 - Der Narr",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Diese Karte kann nicht durch Kampf zerstört werden. Diese Karte kann nicht in die Verteidigungsposition geändert werden, außer mit einem Karteneffekt. Wenn diese Karte beschworen wird, wirf eine Münze:$N●Kopf: Annulliere die Effekte deiner Zauber, Fallen und Effektmonster, die diese Karte als Ziel wählen, und zerstöre sie.$N●Zahl: Annulliere die Effekte der Zauber, Fallen und Effektmonster deines Gegners, die diese Karte als Ziel wählen, und zerstöre sie.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/05/13",
+  "species_id": 17,
+  "starchip": "1"
+}

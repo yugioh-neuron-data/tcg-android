@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16405,
+  "card_name": "D－フォース",
+  "card_name_label": "ディー－フォース",
+  "card_name_search": "でぃーふぉーす",
+  "card_pen_effect": "",
+  "card_text": "①：このカードの発動時の効果処理として、自分のデッキ・墓地から「D-HERO Bloo-D」１体を選んで手札に加える事ができる。②：自分フィールドに「D-HERO Bloo-D」が存在する限り、以下の効果を適用する。$N●自分はドローフェイズにドローできない。$N●自分フィールドのカードは相手の効果の対象にならない。$N●自分フィールドの「D-HERO Bloo-D」は、攻撃力がお互いの墓地のモンスターの数×１００アップし、相手の効果では破壊されず、１度のバトルフェイズ中に２回攻撃できる。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/06/12",
+  "species_id": 24,
+  "starchip": "0"
+}

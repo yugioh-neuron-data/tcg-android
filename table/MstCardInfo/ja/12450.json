@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 3,
+  "card_id": 12450,
+  "card_name": "瑚之龍",
+  "card_name_label": "コーラル・ドラゴン",
+  "card_name_search": "こーらるどらごん",
+  "card_pen_effect": "",
+  "card_text": "チューナー＋チューナー以外のモンスター１体以上$Nこのカード名の②の効果は１ターンに１度しか使用できない。①：１ターンに１度、手札を１枚捨て、相手フィールドのカード１枚を対象として発動できる。そのカードを破壊する。②：S召喚したこのカードが墓地へ送られた場合に発動できる。自分はデッキから１枚ドローする。",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 19,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/04/09",
+  "species_id": 1,
+  "starchip": "6"
+}

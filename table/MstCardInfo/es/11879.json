@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11879,
+  "card_name": "País de los Sueños",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Esta carta puede activar estos efectos dependiendo de los tipos de cartas de monstruos en el Campo.$N●Fusión: Una vez por turno, si uno o más monstruos son mandados desde tu mano o Campo al Cementerio por el efecto de una carta (excepto durante el Damage Step): puedes robar 1 carta.$N●Sincronía: Cuando uno o más monstruos es Invocado de Modo Normal o Especial (excepto durante el Damage Step): puedes aumentar sus Niveles en 1.$N●Xyz: Una vez por turno, durante tu End Phase: destruye el monstruo o monstruos en el Campo con el Nivel más alto.$NSólo puedes activar 1 \"País de los Sueños\" por turno.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/08/24",
+  "species_id": 24,
+  "starchip": "0"
+}

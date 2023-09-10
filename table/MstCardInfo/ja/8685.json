@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 8685,
+  "card_name": "機械王－B.C.３０００",
+  "card_name_label": "きかいおう－Ｂ．Ｃ．３０００",
+  "card_name_search": "きかいおうびーしーさんぜん",
+  "card_pen_effect": "",
+  "card_text": "このカードは発動後モンスターカード（機械族・地・星４・攻／守１０００）となり、自分のモンスターカードゾーンに特殊召喚する。この効果で特殊召喚されている場合のみ、１ターンに１度、自分フィールド上に存在する機械族モンスター１体をリリースする事で、このカードの攻撃力はエンドフェイズ時までリリースしたモンスターの攻撃力分アップする。このカードを発動するターン、自分はモンスターを召喚・特殊召喚する事はできない。（このカードは罠カードとしても扱う）",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/11/14",
+  "species_id": 25,
+  "starchip": "0"
+}

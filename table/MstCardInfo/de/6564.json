@@ -1,0 +1,23 @@
+{
+  "attack_power": "4000",
+  "attribute_id": 1,
+  "card_id": 6564,
+  "card_name": "Hamon, Herr des tosenden Donners",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 3 offene Permanente Zauber, die du kontrollierst, auf den Friedhof legst. Falls diese Karte ein Monster eines Gegners durch Kampf zerstört und auf den Friedhof legt: Füge deinem Gegner 1000 Schaden zu. Solange sich diese Karte in offener Verteidigungsposition befindet, können Monster, die dein Gegner kontrolliert, keine Monster als Ziel für Angriffe wählen, außer diesem.",
+  "defense_power": "4000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/03/15",
+  "species_id": 19,
+  "starchip": "10"
+}

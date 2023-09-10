@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 1,
+  "card_id": 15870,
+  "card_name": "Nuit Étoilée, Dragon Étoilé",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si cette carte est Invoquée Normalement ou Spécialement depuis la main : vous pouvez cibler 1 carte sur le Terrain ; détruisez-la. Non destructible ni au combat avec un monstre TÉNÈBRES ni par des effets de monstre TÉNÈBRES. Une fois par tour, au début de la Damage Step, si cette carte attaque un monstre de l'adversaire : vous pouvez bannir le monstre de l'adversaire jusqu'à la End Phase, et aussi, cette carte peut faire une seconde attaque à la suite.",
+  "defense_power": "2300",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/04/16",
+  "species_id": 1,
+  "starchip": "7"
+}

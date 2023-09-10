@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 1,
+  "card_id": 17430,
+  "card_name": "Mathemech Kreis",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Du kannst 1 „Mathemech“-Monster, außer „Mathemech Kreis“, von deinem Deck auf deinen Friedhof legen; beschwöre diese Karte als Spezialbeschwörung von deiner Hand, zusätzlich kannst du für den Rest dieses Spielzugs nur mit 1 Monster angreifen. Falls ein „Mathemech“-Monster als Normal- oder Spezialbeschwörung auf deine Spielfeldseite beschworen wird, solange du dieses Monster kontrollierst (außer während des Damage Steps): Du kannst deiner Hand 1 „Mathemech“-Zauber/Falle von deinem Deck hinzufügen. Du kannst jeden Effekt von „Mathemech Kreis“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/08/04",
+  "species_id": 27,
+  "starchip": "4"
+}

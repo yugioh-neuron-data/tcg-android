@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 12867,
+  "card_name": "異形神の契約書",
+  "card_name_label": "いぎょうしんのけいやくしょ",
+  "card_name_search": "いぎょうしんのけいやくしょ",
+  "card_pen_effect": "",
+  "card_text": "①：自分フィールドに以下の種類の「DDD」モンスターがEXデッキから特殊召喚された時、それぞれの効果を１ターンに１度ずつ発動できる。$N●融合：自分は１０００LP回復する。$N●S：特殊召喚されたそのモンスターは相手の効果の対象にならない。$N●X：自分または相手の、フィールド・墓地のカード１枚を選んで除外する。$N●P：自分はデッキから１枚ドローし、その後手札を１枚選んで捨てる。$N②：自分スタンバイフェイズに発動する。自分は２０００ダメージを受ける。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/11/26",
+  "species_id": 24,
+  "starchip": "0"
+}

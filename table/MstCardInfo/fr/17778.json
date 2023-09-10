@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 4,
+  "card_id": 17778,
+  "card_name": "Enflamment Phénix, le Dracossassin",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Durant votre Main Phase : vous pouvez mélanger 1 Monstre Pendule face recto depuis votre Extra Deck dans le Deck, puis ajoutez 1 monstre non-Pendule \"Dracossassin\" ou \"Chevaliardent\" depuis votre Deck à votre main. Vous ne pouvez utiliser cet effet de \"Enflamment Phénix, le Dracossassin\" qu'une fois par tour.",
+  "card_text": "(Cette carte est toujours traitée comme une carte \"Chevaliardent\".)$NSi cette carte sur le Terrain est détruite au combat ou par un effet de carte : vous pouvez Invoquer Spécialement 1 monstre \"Dracossassin\" ou \"Chevaliardent\" (\"Enflamment Phénix, le Dracossassin\" exclu) depuis votre Deck, et si vous le faites, il est traité comme un Syntoniseur. Vous ne pouvez utiliser cet effet de \"Enflamment Phénix, le Dracossassin\" qu'une fois par tour.",
+  "defense_power": "1900",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "7",
+  "pen_scale_r": "7",
+  "sales_at": "2022/10/20",
+  "species_id": 15,
+  "starchip": "4"
+}

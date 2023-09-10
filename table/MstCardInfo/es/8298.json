@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 5,
+  "card_id": 8298,
+  "card_name": "Magnen Morfotrónico en Barra",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "●En Posición de Ataque: Una vez por turno, si controlas exactamente otros 2 monstruos boca arriba en Posición de Ataque y ningún monstruo adicional, esta carta gana el ATK combinado de los otros dos monstruos que controles hasta la End Phase. Esos monstruos no pueden atacar el turno que actives este efecto.$N●En Posición de Defensa: Los monstruos que controles no pueden atacar.",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/08/27",
+  "species_id": 19,
+  "starchip": "1"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "200",
+  "attribute_id": 3,
+  "card_id": 7670,
+  "card_name": "カースド・フィグ",
+  "card_name_label": "カースド・フィグ",
+  "card_name_search": "かーすどふぃぐ",
+  "card_pen_effect": "",
+  "card_text": "このカードが戦闘によって破壊され墓地へ送られた時、フィールド上にセットされた魔法・罠カードを２枚選択して発動する。このカードが墓地に存在する限り、選択したカードを発動する事はできない。",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/07/19",
+  "species_id": 13,
+  "starchip": "1"
+}

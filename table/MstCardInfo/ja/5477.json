@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 2,
+  "card_id": 5477,
+  "card_name": "トゥーン・キャノン・ソルジャー",
+  "card_name_label": "トゥーン・キャノン・ソルジャー",
+  "card_name_search": "とぅーんきゃのんそるじゃー",
+  "card_pen_effect": "",
+  "card_text": "このカードは召喚・反転召喚・特殊召喚したターンには攻撃する事ができない。自分フィールド上に「トゥーン・ワールド」が存在し、相手フィールド上にトゥーンモンスターが存在しない場合、このカードは相手プレイヤーに直接攻撃する事ができる。フィールド上の「トゥーン・ワールド」が破壊された時、このカードを破壊する。また、自分フィールド上に存在するモンスター１体をリリースする事で、相手ライフに５００ポイントダメージを与える。",
+  "defense_power": "1300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 6,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/03/21",
+  "species_id": 7,
+  "starchip": "4"
+}

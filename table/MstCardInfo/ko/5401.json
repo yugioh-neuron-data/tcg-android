@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 5401,
+  "card_name": "불길한 운세",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "자신의 스텐바이 페이즈시, 상대의 패에서 카드 1장을 무작위로 선택한다. 그 카드의 종류(몬스터/마법/함정)를 맞추었을 경우, 상대 플레이어에게 700 포인트 데미지를 준다. 이 효과는 1턴에 1번밖에 사용할 수 없다.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/10/18",
+  "species_id": 25,
+  "starchip": "0"
+}

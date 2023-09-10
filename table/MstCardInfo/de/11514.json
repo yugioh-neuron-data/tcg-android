@@ -1,0 +1,23 @@
+{
+  "attack_power": "4000",
+  "attribute_id": 2,
+  "card_id": 11514,
+  "card_name": "Beelzeus von den diabolischen Drachen",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 FINSTERNIS Empfänger + 2+ Nicht-Empfänger-Monster$NKann weder durch Kampf noch durch Karteneffekte zerstört werden. Andere Monster, die du kontrollierst, können nicht angreifen. Einmal pro Spielzug: Du kannst 1 Monster wählen, das dein Gegner kontrolliert; Kampfschaden, den dein Gegner in diesem Spielzug aus Angriffen erhält, an denen diese Karte beteiligt ist, wird halbiert, zusätzlich ändere die ATK des Monsters zu 0 und falls du dies tust, erhältst du LP in Höhe seiner Grund-ATK.",
+  "defense_power": "4000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/10/04",
+  "species_id": 1,
+  "starchip": "10"
+}

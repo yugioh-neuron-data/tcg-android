@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 1,
+  "card_id": 6115,
+  "card_name": "エレメント・ドラゴン",
+  "card_name_label": "エレメント・ドラゴン",
+  "card_name_search": "えれめんとどらごん",
+  "card_pen_effect": "",
+  "card_text": "①：フィールドのモンスターの属性によって、このカードは以下の効果を得る。$N●炎属性：このカードの攻撃力は５００アップする。$N●風属性：このカードが戦闘で相手モンスターを破壊した時に発動できる。このカードはもう１度だけ続けて攻撃できる。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/05/27",
+  "species_id": 1,
+  "starchip": "4"
+}

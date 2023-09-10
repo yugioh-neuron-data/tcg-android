@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 13376,
+  "card_name": "Lienceinture Mur de Dragon",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Ni Invocable Normalement ni Posable Normalement. Uniquement Invocable Spécialement par son propre effet. Lorsque vous Invoquez par Lien : vous pouvez Invoquer Spécialement cette carte depuis votre main, et si vous le faites, placez 2 Compteurs sur elle. Si un monstre est Invoqué par Lien : retirez 2 de ces Compteurs de cette carte (ou tous, si moins de 2). Une fois par tour, durant chaque Standby Phase : placez 1 de ces Compteurs sur cette carte. Aucun monstre ne peut être Invoqué par Lien sauf si cette carte a min. autant de ces Compteurs que la Classification Lien du monstre. Les monstres (Monstres Lien exclus) ne peuvent pas attaquer.",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/02/01",
+  "species_id": 1,
+  "starchip": "6"
+}

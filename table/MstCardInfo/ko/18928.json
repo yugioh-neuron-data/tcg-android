@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 18928,
+  "card_name": "버닝나클 크로스 카운터",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 상대가 몬스터의 효과를 발동했을 때에 발동할 수 있다. 자신 필드의, \"BK(버닝나쿠라)\" 엑시즈 몬스터나 \"No.\" 엑시즈 몬스터 1장을 파괴하고, 그 발동을 무효로 하여 파괴한다. 그 후, 이하의 효과를 적용할 수 있다.$N●파괴한 자신 몬스터와는 카드명이 다른 \"BK(버닝나쿠라)\" 엑시즈 몬스터 1장을 엑스트라 덱에서 특수 소환하고, 이 카드를 그 몬스터의 엑시즈 소재로 한다.",
+  "defense_power": "0",
+  "effect_id": 1,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/08/11",
+  "species_id": 25,
+  "starchip": "0"
+}

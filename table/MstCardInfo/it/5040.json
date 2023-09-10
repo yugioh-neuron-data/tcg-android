@@ -1,0 +1,23 @@
+{
+  "attack_power": "200",
+  "attribute_id": 1,
+  "card_id": 5040,
+  "card_name": "Bacoverme Elettromagnetico",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "SCOPRI: Scegli come bersaglio 1 mostro di Tipo Macchina controllato dal tuo avversario; prendi il controllo di quel bersaglio fino alla tua prossima End Phase.$NSe questa carta viene distrutta in battaglia: il mostro che l'ha distrutta perde 500 ATK e DEF.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 24,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/11/08",
+  "species_id": 10,
+  "starchip": "3"
+}

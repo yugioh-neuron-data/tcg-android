@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 10823,
+  "card_name": "Soldado do Lustro Negro - Enviado do Anoitecer do Crepúsculo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Não pode ser Invocado por Invocação-Normal/Baixado. Deve ser Invocado por Invocação-Especial (da sua mão) ao banir todos os monstros de LUZ ou todos os monstros de TREVAS do seu Cemitério, enquanto você tiver um mesmo número de cada um deles no seu Cemitério. Enquanto estiver com a face para cima no campo, este card também é do Atributo LUZ. Quando este card for Invocado por Invocação-Especial: você pode ativar o efeito apropriado, de acordo com o Atributo dos monstros banidos para a Invocação-Especial. Você não pode conduzir sua Fase de Batalha no turno em que ativar este efeito.$N●LUZ: Escolha 1 monstro no campo; bana-o.$N●TREVAS: Até a Fase Final do seu oponente, bana, com a face para baixo, 1 card aleatório da mão do seu oponente.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/10/23",
+  "species_id": 15,
+  "starchip": "8"
+}

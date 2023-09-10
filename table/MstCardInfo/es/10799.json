@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10799,
+  "card_name": "El Despertar de la Serpiente Sagrada",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Sólo puedes activar 1 \"El Despertar de la Serpiente Sagrada\" por turno. Si controlas 2 o más clases diferentes de monstruos (Ritual, Fusión, Sincronía o Xyz): activa 1 o más efectos dependiendo de la cantidad de clases diferentes que controles, y resuélvelos en secuencia;$N●2 o más: Selecciona 1 monstruo en tu Cementerio o 1 de tus monstruos desterrados; añade ese objetivo a tu mano.$N●3 o más: Selecciona 1 Carta de Trampa en tu Cementerio; añade ese objetivo a tu mano.$N●4: Selecciona 1 Carta Mágica en tu Cementerio, excepto \"El Despertar de la Serpiente Sagrada\"; añade ese objetivo a tu mano.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/11/07",
+  "species_id": 24,
+  "starchip": "0"
+}

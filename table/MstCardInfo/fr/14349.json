@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 14349,
+  "card_name": "Bye Bye les Dégâts",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durant le calcul des dommages, si votre monstre est attaqué : votre monstre combattant ne peut pas être détruit par ce combat, et aussi, si vous recevez des dommages de combat de ce combat, votre adversaire reçoit des dommages d'effet égaux au double du montant. Vous ne pouvez appliquer cet effet de \"Bye Bye les Dégâts\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/10/24",
+  "species_id": 25,
+  "starchip": "0"
+}

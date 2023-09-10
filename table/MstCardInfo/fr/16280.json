@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16280,
+  "card_name": "Détermination du Rocher de Guerre",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durant la Battle Phase : ciblez 1 monstre \"Rocher de Guerre\" dans votre Cimetière, puis activez 1 de ces effets ;$N●Invoquez Spécialement la cible en Position d'Attaque, mais le reste de ce tour, ses effets sont annulés, et aussi, elle ne peut pas attaquer directement.$N●Invoquez Spécialement la cible en Position de Défense, et aussi, la première fois que chaque monstre \"Rocher de Guerre\" que vous contrôlez va être détruit au combat ce tour, il n'est pas détruit.$NVous ne pouvez activer qu'1 \"Détermination du Rocher de Guerre\" par tour.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/06/03",
+  "species_id": 24,
+  "starchip": "0"
+}

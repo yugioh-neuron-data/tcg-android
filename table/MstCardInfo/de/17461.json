@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 17461,
+  "card_name": "Schreckensklauen-Grätsche",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Du kannst 1 der folgenden Effekte aktivieren.$N●Wähle 1 „Schreckensklaue“-Monster oder 1 „Visas Starfrost“ in deiner Monsterzone und 1 offenes Monster, das dein Gegner kontrolliert; dein Monster erhält ATK/DEF in Höhe der ATK oder DEF des Monsters deines Gegners (was davon höher ist).$N●Wenn eine Karte oder ein Effekt aktiviert wird, die oder der ein „Schreckensklaue“-Monster oder „Visas Starfrost“ als Ziel wählt, das oder den du kontrollierst: Annulliere jenen Effekt.$NDu kannst nur 1 „Schreckensklauen-Grätsche“ pro Spielzug aktivieren.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/08/04",
+  "species_id": 24,
+  "starchip": "0"
+}

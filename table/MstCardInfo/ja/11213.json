@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 2,
+  "card_id": 11213,
+  "card_name": "オッドアイズ・ペンデュラム・ドラゴン",
+  "card_name_label": "オッドアイズ・ペンデュラム・ドラゴン",
+  "card_name_search": "おっどあいずぺんでゅらむどらごん",
+  "card_pen_effect": "このカード名の①②のP効果はそれぞれ１ターンに１度しか使用できない。$N①：自分のPモンスターの戦闘で発生する自分への戦闘ダメージを０にできる。$N②：自分エンドフェイズに発動できる。このカードを破壊し、デッキから攻撃力１５００以下のPモンスター１体を手札に加える。",
+  "card_text": "①：このカードが相手モンスターとの戦闘で相手に与える戦闘ダメージは倍になる。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "4",
+  "pen_scale_r": "4",
+  "sales_at": "2014/04/19",
+  "species_id": 1,
+  "starchip": "7"
+}

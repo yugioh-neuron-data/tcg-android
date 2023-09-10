@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 1,
+  "card_id": 8644,
+  "card_name": "성스러운 광채",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드는 어둠 속성 몬스터와의 전투로는 파괴되지 않으며, 그 전투에 의해서 발생하는 자신에게로의 전투 데미지는 0 이 된다. 이 카드가 필드 위에 앞면 표시로 존재하는 한, 어둠 속성 몬스터는 공격 선언을 할 수 없으며, 서로 어둠 속성 몬스터를 일반 소환/특수 소환할 수 없다.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/02/23",
+  "species_id": 17,
+  "starchip": "1"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 8482,
+  "card_name": "Colisée Sauvage",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si un monstre attaque, à la fin de la Damage Step : son contrôleur gagne 300 LP. Tous les monstres doivent attaquer, si possible. Durant chaque End Phase : détruisez tous les monstres en Position d'Attaque face recto contrôlés par le joueur du tour, qui n'ont pas déclaré d'attaque.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/11/12",
+  "species_id": 24,
+  "starchip": "0"
+}

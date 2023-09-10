@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 8937,
+  "card_name": "牙城のガーディアン",
+  "card_name_label": "がじょうのガーディアン",
+  "card_name_search": "がじょうのがーでぃあん",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上に守備表示で存在するモンスターが攻撃された場合、そのダメージステップ時にこのカードを手札から墓地へ送る事で、その戦闘を行う自分のモンスターの守備力はエンドフェイズ時まで１５００ポイントアップする。",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/04/17",
+  "species_id": 15,
+  "starchip": "4"
+}

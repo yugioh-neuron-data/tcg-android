@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 7161,
+  "card_name": "다섯 번째 희망",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "자신의 묘지에 존재하는 \"엘리멘틀 히어로\"라는 이름이 붙은 카드를 5장 선택하고, 덱에 넣어 셔플한다. 그 후, 자신의 덱에서 카드를 2장 드로우한다. 이 카드의 발동시에 자신 필드 위 및 패에 다른 카드가 존재하지 않을 경우는 카드를 3장 드로우한다.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/06/08",
+  "species_id": 24,
+  "starchip": "0"
+}

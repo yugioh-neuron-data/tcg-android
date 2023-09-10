@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 13683,
+  "card_name": "Diabolos Oscurísimo, Señor de la Guarida",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Tu adversario no puede Sacrificar esta carta boca arriba en el Campo, y no puede seleccionarla con efectos de cartas. Sólo puedes usar cada uno de estos efectos de \"Diabolos Oscurísimo, Señor de la Guarida\" una vez por turno.$N●Si un monstruo de OSCURIDAD que controlas es Sacrificado (excepto durante el Damage Step): puedes Invocar esta carta de Modo Especial desde tu Cementerio (si estaba ahí cuando Sacrificaste) o mano (aun si no lo hacía).$N●Puedes Sacrificar 1 monstruo de OSCURIDAD; tu adversario pone 1 carta de su mano en la parte superior o inferior del Deck.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/04/19",
+  "species_id": 1,
+  "starchip": "8"
+}

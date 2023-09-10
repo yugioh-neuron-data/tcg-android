@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 2,
+  "card_id": 18740,
+  "card_name": "コンフィラス・ド・ヌーベルズ",
+  "card_name_label": "コンフィラス・ド・ヌーベルズ",
+  "card_name_search": "こんふぃらすどぬーべるず",
+  "card_pen_effect": "",
+  "card_text": "「レシピ」カードにより降臨。$Nこのカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。$N①：このカードが特殊召喚に成功した場合、フィールドの魔法・罠カード１枚を対象として発動できる。そのカードを破壊する。$N②：フィールドのこのカードが攻撃・効果の対象になった時に発動できる。このカードと自分・相手フィールドの攻撃表示モンスター１体をリリースし、手札・デッキからレベル３・４の「ヌーベルズ」儀式モンスター１体を特殊召喚する。",
+  "defense_power": "1850",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 5,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/03/18",
+  "species_id": 15,
+  "starchip": "2"
+}

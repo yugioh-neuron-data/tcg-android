@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 13863,
+  "card_name": "Ator do Abismo - Alívio Cômico",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Você pode escolher 1 Monstro Pêndulo \"Ator do Abismo\" que você controla e 1 monstro que seu oponente controla; troque o controle dos dois monstros e, depois, destrua este card. Você só pode usar este efeito de \"Ator do Abismo - Alívio Cômico\" uma vez por turno.",
+  "card_text": "Você não sofre dano de batalha dos ataques que envolvem este card. Uma vez por turno, durante sua Fase de Apoio: conceda o controle deste card ao seu oponente. Uma vez por turno, se o controle deste card com a face para cima mudar: ative este efeito; o dono deste card pode destruir 1 Magia \"Script do Abismo\" Baixada na sua própria Zona de Magias & Armadilhas.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "8",
+  "pen_scale_r": "8",
+  "sales_at": "2018/09/27",
+  "species_id": 3,
+  "starchip": "3"
+}

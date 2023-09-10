@@ -1,0 +1,23 @@
+{
+  "attack_power": "2100",
+  "attribute_id": 3,
+  "card_id": 16088,
+  "card_name": "ソドレミコード・グレーシア",
+  "card_name_label": "ソドレミコード・グレーシア",
+  "card_name_search": "そどれみこーどぐれーしあ",
+  "card_pen_effect": "①：自分の「ドレミコード」PモンスターのP召喚成功時に相手はモンスターの効果・魔法・罠カードを発動できない。",
+  "card_text": "このカード名の①のモンスター効果は１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功した場合に発動できる。デッキから「ドレミコード」魔法・罠カード１枚を手札に加える。②：自分のPゾーンに偶数のPスケールが存在し、自分の「ドレミコード」Pモンスターが攻撃する場合、相手はダメージステップ終了時までモンスターの効果を発動できない。",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "4",
+  "pen_scale_r": "4",
+  "sales_at": "2021/03/06",
+  "species_id": 17,
+  "starchip": "5"
+}

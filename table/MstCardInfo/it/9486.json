@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 9486,
+  "card_name": "Astro Drago Meklord Asterisco",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "(Questa carta viene sempre considerata come una carta \"Astro Meklord\".)$NNon può essere Evocato Normalmente/Posizionato. Deve prima essere Evocato Specialmente (dalla tua mano) controllando 3 o più mostri \"Meklord\". Quando questa carta viene Evocata Specialmente: puoi scegliere come bersaglio un qualsiasi numero di mostri \"Meklord\" che controlli, eccetto questa carta; manda quei bersagli al Cimitero e, se lo fai, l'ATK di questa carta diventa la somma degli ATK originali dei mostri mandati al Cimitero da questo effetto. Ogni volta che uno o più Mostri Synchro vengono Evocati Specialmente: infliggi 1000 danni al giocatore che li ha Evocati.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/05/05",
+  "species_id": 7,
+  "starchip": "10"
+}

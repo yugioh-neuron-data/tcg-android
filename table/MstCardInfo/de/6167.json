@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 1,
+  "card_id": 6167,
+  "card_name": "Schweigsamer Magier LV4",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Jedes Mal, wenn dein Gegner eine oder mehr Karten zieht, lege 1 Zauberzählmarke (max. 5) auf diese Karte. Diese Karte erhält 500 ATK für jede Zauberzählmarke auf dieser Karte. Während der Standby Phase deines nächsten Spielzugs, nachdem die 5. Zauberzählmarke auf diese Karte gelegt wurde: Du kannst diese offene Karte mit 5 Zauberzählmarken darauf auf den Friedhof legen; beschwöre 1 „Schweigsamer Magier LV8“ als Spezialbeschwörung von deiner Hand oder deinem Deck.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/11/17",
+  "species_id": 18,
+  "starchip": "4"
+}

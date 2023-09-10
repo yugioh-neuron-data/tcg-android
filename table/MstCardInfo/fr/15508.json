@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 4,
+  "card_id": 15508,
+  "card_name": "Hinezumi Hanabi",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Non utilisable comme Matériel pour une Invocation Fusion, Synchro, Xyz ou Lien. Si cette carte est Invoquée Normalement ou Spécialement : placez 6 Compteurs sur elle. Une fois par tour, durant votre End Phase : donnez le contrôle de cette carte à votre adversaire. Une fois par tour, si le contrôle de cette carte face recto avec un ou plusieurs Compteurs change : lancez un dé à six faces, retirez autant de Compteurs de cette carte que possible, inférieur ou égal au résultat, et si tous les Compteurs de cette carte sont retirés par cet effet, détruisez cette carte, et si vous le faites, recevez 2000 points de dommages.",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/11/05",
+  "species_id": 11,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15407,
+  "card_name": "Gran Arte Espiritual - Ichirin",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Niega el primer efecto de monstruo de tu adversario que se resuelva cada turno mientras controles un monstruo Lanzador de Conjuros con 1500 DEF. Durante tu Main Phase: puedes mostrar 1 monstruo Lanzador de Conjuros en tu mano y, si lo haces, añade a tu mano 1 monstruo con el mismo Atributo, pero con 1500 ATK/200 DEF en tu Deck y, si haces eso, baraja al Deck la carta mostrada. Sólo puedes usar este efecto de \"Gran Arte Espiritual - Ichirin\" una vez por turno.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/10/22",
+  "species_id": 24,
+  "starchip": "0"
+}

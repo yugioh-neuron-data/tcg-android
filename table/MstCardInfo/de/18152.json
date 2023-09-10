@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 18152,
+  "card_name": "Schreckensklaue Kashtira",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Während der Main Phase (Schnelleffekt): Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören und falls du dies tust, verbanne 1 „Kashtira“- oder „Schreckensklaue“-Karte von deiner Hand oder deinem Friedhof. Du kannst diesen Effekt von „Schreckensklaue Kashtira“ nur einmal pro Spielzug verwenden. Diese Karte kann angreifen, solange sie in offener Verteidigungsposition liegt. Falls sie dies tut, verwende ihre DEF für die Schadensberechnung. Falls dein „Kashtira“- oder „Schreckensklaue“-Monster gegen ein Monster eines Gegners kämpft, werden die Effekte jenes Monsters des Gegners bis zum Ende dieses Spielzugs annulliert.",
+  "defense_power": "2600",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/02/06",
+  "species_id": 21,
+  "starchip": "7"
+}

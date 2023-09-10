@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 5,
+  "card_id": 8939,
+  "card_name": "Egoistischer Affe",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Diese Karte kann nicht als Normalbeschwörung beschworen oder gesetzt werden. Diese Karte kann nur als Spezialbeschwörung beschworen werden, indem du 1 Monster vom Typ Ungeheuer von deiner Hand auf den Friedhof legst. Wenn diese Karte auf diese Weise als Spezialbeschwörung beschworen wird, kannst du 1 dieser Effekte aktivieren:$N● Erhöhe die Stufe dieser Karte um die Stufe des Monsters vom Typ Ungeheuer.$N● Verringere die Stufe dieser Karte um die Stufe des Monsters vom Typ Ungeheuer.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 30,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/08/12",
+  "species_id": 11,
+  "starchip": "5"
+}

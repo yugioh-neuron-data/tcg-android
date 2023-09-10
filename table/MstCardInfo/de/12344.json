@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 12344,
+  "card_name": "Amorphagen-Lysis",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Alle Monster auf dem Spielfeld, außer „Amorphage“-Monstern, verlieren 100 ATK und DEF für jede „Amorphage“-Karte auf dem Spielfeld. Falls eine oder mehr Karten in deiner Pendelzone zerstört werden (außer während des Damage Steps): Du kannst 1 „Amorphage“-Pendelmonster von deinem Deck in deine Pendelzone legen. Du kannst diesen Effekt von „Amorphagen-Lysis“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/05/05",
+  "species_id": 25,
+  "starchip": "0"
+}

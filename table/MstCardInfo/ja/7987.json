@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 1,
+  "card_id": 7987,
+  "card_name": "アームズ・エイド",
+  "card_name_label": "アームズ・エイド",
+  "card_name_search": "あーむずえいど",
+  "card_pen_effect": "",
+  "card_text": "チューナー＋チューナー以外のモンスター１体以上$N１ターンに１度、自分のメインフェイズ時に装備カード扱いとしてモンスターに装備、または装備を解除して表側攻撃表示で特殊召喚できる。この効果で装備カード扱いになっている場合のみ、装備モンスターの攻撃力は１０００ポイントアップする。また、装備モンスターが戦闘によってモンスターを破壊し墓地へ送った時、破壊したモンスターの元々の攻撃力分のダメージを相手ライフに与える。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/10/18",
+  "species_id": 7,
+  "starchip": "4"
+}

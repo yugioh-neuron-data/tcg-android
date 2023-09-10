@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 5275,
+  "card_name": "Muñeca Señuelo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Selecciona 1 carta Colocada en la Zona de Cartas Mágicas y de Trampa; muestra ese objetivo, fuerza su activación si es una Carta de Trampa, y después niega su efecto si el momento de activación es incorrecto y, si lo haces, destruye la carta. (Si no es una carta de Trampa, vuelve a ponerla boca abajo). Cuando esta carta se resuelve, barájala al Deck en vez de mandarla al Cementerio.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/05/24",
+  "species_id": 24,
+  "starchip": "0"
+}

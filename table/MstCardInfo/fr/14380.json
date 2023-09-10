@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14380,
+  "card_name": "Territoire Corrompu",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsque cette carte est activée : vous pouvez activer 1 \"Monde Corrompu\" depuis votre Deck. Tant que la carte est dans la Zone Terrain, aucun joueur ne peut cibler une ou plusieurs cartes dans la Zone Terrain avec des effets de carte. L'effet de monstre \"Corrompu\" \"Il ne peut y avoir qu'1 monstre \"Corrompu\" face recto sur le Terrain\" devient \"Il ne peut y avoir qu'1 monstre \"Corrompu\" face recto sur le Terrain de même nom\". Durant la Battle Phase, annulez les effets des monstres \"Corrompu\" face recto sur le Terrain.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/03/19",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "400",
+  "attribute_id": 1,
+  "card_id": 5083,
+  "card_name": "Médium Lei da Luz",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "No começo da Fase de Batalha do seu oponente: você pode escolher qualquer número de monstros em Posição de Ataque que seu oponente controla; enquanto este card estiver na sua Zona de Monstros, esses monstros devem atacar este card neste turno, se possível. Uma vez por turno, quando um ataque for declarado envolvendo este card e um monstro em Posição de Ataque do oponente: você pode negar o ataque e, se isso acontecer, cause dano ao seu oponente igual à metade do ATK original desse monstro do oponente.",
+  "defense_power": "300",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/05/19",
+  "species_id": 17,
+  "starchip": "2"
+}

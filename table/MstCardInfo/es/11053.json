@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 1,
+  "card_id": 11053,
+  "card_name": "Bujin Hirume",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "No puede ser Invocado de Modo Normal/Colocado. Debe ser primero Invocado de Modo Especial (desde tu mano) desterrando 1 monstruo \"Bujin\" en tu Cementerio, excepto \"Bujin Hirume\". Si esta carta, Invocada de esta forma, es destruida por una carta de tu adversario (en batalla o por efecto de una carta), y mandada a tu Cementerio desde tu lado del Campo, y ambos jugadores tienen cartas en la mano: puedes descartar 1 carta, y después tu adversario descarta 1 carta. Sólo puedes controlar 1 \"Bujin Hirume\".",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/05/15",
+  "species_id": 12,
+  "starchip": "4"
+}

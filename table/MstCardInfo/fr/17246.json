@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 17246,
+  "card_name": "Duel Académie",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cette carte gagne ces effets selon les Types de Monstre sur le Terrain.$N●Guerrier, Bête ou Pyro : Une fois par tour, si vous activez une Carte Piège (sauf durant la Damage Step) : vous pouvez cibler 1 carte contrôlée par votre adversaire ; détruisez-la.$N●Dinosaure, Serpent de Mer ou Tonnerre : Une fois par tour, si vous activez une Carte Magie (sauf durant la Damage Step) : vous pouvez infliger 1000 points de dommages à votre adversaire.$N●Machine, Elfe ou Démon : Une fois par tour, si vous activez un effet de monstre (sauf durant la Damage Step) : vous pouvez cibler 1 monstre face recto que vous contrôlez ; il gagne 1000 ATK (même si cette carte quitte le Terrain).",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/03/09",
+  "species_id": 24,
+  "starchip": "0"
+}

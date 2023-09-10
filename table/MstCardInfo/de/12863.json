@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 5,
+  "card_id": 12863,
+  "card_name": "Superstarker Samurai Karren",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wenn diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst ihre Kampfposition ändern. Diese Karte kann angreifen, solange sie in offener Verteidigungsposition liegt. Falls sie dies tut, verwende ihre DEF für die Schadensberechnung. Falls du keine Zauber/Fallen in deinem Friedhof hast: Du kannst diese Karte in offener Verteidigungsposition, die du kontrollierst, in die Angriffsposition ändern und falls du dies tust, füge deiner Hand 1 „Superstarker Samurai Seele“-Monster von deinem Deck hinzu. Du kannst diesen Effekt von „Superstarker Samurai Karren“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/30",
+  "species_id": 7,
+  "starchip": "4"
+}

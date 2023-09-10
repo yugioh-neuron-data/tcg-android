@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 2,
+  "card_id": 10897,
+  "card_name": "Gorgonischer Golem",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls diese Karte durch Kampf zerstört und auf den Friedhof gelegt wird: Die ATK des Monsters, das sie zerstört hat, werden zu 0. Du kannst diese Karte von deinem Friedhof verbannen und dann 1 gesetzte Zauber-/Fallenkarte wählen, die dein Gegner kontrolliert; das gewählte Ziel kann in diesem Spielzug nicht aktiviert werden. Dein Gegner kann die gewählte Karte nicht als Reaktion auf die Aktivierung dieses Effekts aktivieren.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/01/24",
+  "species_id": 6,
+  "starchip": "3"
+}

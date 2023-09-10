@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 6,
+  "card_id": 11547,
+  "card_name": "Yosenju Tsujik",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durant la End Phase, si cette carte a été Invoquée Normalement ce tour : renvoyez-la à la main. Vous ne pouvez utiliser chacun de ces effets de \"Yosenju Tsujik\" qu'une fois par tour.$N●Durant la Damage Step de chaque joueur, lorsqu'un monstre \"Yosenju\" que vous contrôlez combat un monstre de votre adversaire : vous pouvez défausser cette carte ; jusqu'à la fin de ce tour, le monstre que vous contrôlez gagne 1000 ATK.$N●Vous pouvez cibler 1 monstre \"Yosenju\" sur le Terrain ; jusqu'à la fin de ce tour, il gagne 1000 ATK.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/01/15",
+  "species_id": 12,
+  "starchip": "4"
+}

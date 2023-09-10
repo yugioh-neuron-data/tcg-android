@@ -1,0 +1,23 @@
+{
+  "attack_power": "920",
+  "attribute_id": 2,
+  "card_id": 4089,
+  "card_name": "闇晦ましの城",
+  "card_name_label": "やみくらましのしろ",
+  "card_name_search": "やみくらましのしろ",
+  "card_pen_effect": "",
+  "card_text": "リバース：フィールド上に表側表示で存在する全てのアンデット族モンスターの攻撃力と守備力は２００ポイントアップする。また、このカードがフィールド上に表側表示で存在する限り、自分のスタンバイフェイズ毎にさらに２００ポイントずつアップする。この効果は自分の４回目のスタンバイフェイズまで続く。",
+  "defense_power": "1930",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 24,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2000/03/01",
+  "species_id": 3,
+  "starchip": "4"
+}

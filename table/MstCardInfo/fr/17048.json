@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 3,
+  "card_id": 17048,
+  "card_name": "Kraken de la Mort",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si \"Umi\" est sur le Terrain (Effet Rapide) : vous pouvez cibler 1 monstre EAU que vous contrôlez (\"Kraken de la Mort\" exclu) et 1 monstre contrôlé par votre adversaire ; Invoquez Spécialement cette carte depuis votre main, et si vous le faites, renvoyez le monstre que vous contrôlez à la main, et si vous faites ça, détruisez le monstre de l'adversaire. Lorsqu'un monstre de l'adversaire déclare une attaque : vous pouvez renvoyer cette carte à la main, et si vous le faites, annulez l'attaque. Vous ne pouvez utiliser chaque effet de \"Kraken de la Mort\" qu'une fois par tour.",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/06/16",
+  "species_id": 14,
+  "starchip": "4"
+}

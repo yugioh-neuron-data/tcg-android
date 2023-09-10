@@ -1,0 +1,23 @@
+{
+  "attack_power": "1900",
+  "attribute_id": 1,
+  "card_id": 14103,
+  "card_name": "封狼雷坊",
+  "card_name_label": "ふうらいぼう",
+  "card_name_search": "ふうらいぼう",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：相手がモンスターの効果を発動した時、特殊召喚したこのカードをリリースして発動できる。その発動を無効にし破壊する。②：このカードがフィールドから墓地へ送られた場合に発動できる。手札から雷族モンスター１体を守備表示で特殊召喚する。",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/10/13",
+  "species_id": 19,
+  "starchip": "4"
+}

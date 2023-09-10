@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 12947,
+  "card_name": "Péndulomucho",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Una vez por turno, durante tu Main Phase, si esta carta fue activada este turno: puedes seleccionar 1 de tus Monstruos de Péndulo que esté desterrado o en tu Cementerio, excepto \"Péndulomucho\"; añádelo boca arriba a tu Deck Extra.",
+  "card_text": "Si esta carta es Invocada de Modo Normal o Especial: puedes Invocar de Modo Especial, desde tu Deck Extra, 1 Monstruo de Péndulo de Nivel 1 boca arriba, excepto \"Péndulomucho\", pero destiérralo cuando deje el Campo.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "0",
+  "pen_scale_r": "0",
+  "sales_at": "2017/05/04",
+  "species_id": 16,
+  "starchip": "1"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 18866,
+  "card_name": "Geteilter Spiegel der Unterwelt",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wenn du Schaden durch einen Karteneffekt deines Gegners oder einen Angriff seines Monsters erhältst: Führe den entsprechenden Effekt aus, basierend auf dem Typ des Schadens.$N●Kampf: Beschwöre 1 Monster mit ATK kleiner oder gleich dem Schaden als Spezialbeschwörung von deinem Friedhof und falls du dies tust, beende die Battle Phase nach dem Damage Step.$N●Effekt: Füge deinem Gegner das Doppelte des Schadens zu, den du erhalten hast.$NDu kannst nur 1 „Geteilter Spiegel der Unterwelt“ pro Spielzug aktivieren.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/07/27",
+  "species_id": 25,
+  "starchip": "0"
+}

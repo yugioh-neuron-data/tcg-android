@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 2,
+  "card_id": 4976,
+  "card_name": "Kiseitai",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsqu'un monstre de votre adversaire attaque cette carte en Position de Défense face verso, équipez-le avec celle-ci (les dommages ne sont pas appliqués). Traitez cette carte comme une Carte Magie d'Équipement. Durant chacune des Standby Phases de votre adversaire, augmentez vos Life Points de la moitié de l'ATK du monstre ainsi équipé.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/10/20",
+  "species_id": 3,
+  "starchip": "2"
+}

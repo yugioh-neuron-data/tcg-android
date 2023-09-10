@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 2,
+  "card_id": 10130,
+  "card_name": "No.15 ギミック・パペット－ジャイアントキラー",
+  "card_name_label": "ナンバーズ１５ ギミック・パペット－ジャイアントキラー",
+  "card_name_search": "なんばーずじゅうごぎみっくぱぺっとじゃいあんときらー",
+  "card_pen_effect": "",
+  "card_text": "レベル８モンスター×２$N①：自分メインフェイズ１に、このカードのX素材を１つ取り除き、相手フィールドの特殊召喚されたモンスター１体を対象として発動できる。そのモンスターを破壊する。破壊したモンスターがXモンスターだった場合、さらにそのモンスターの元々の攻撃力分のダメージを相手に与える。この効果は１ターンに２度まで使用できる。",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/02/21",
+  "species_id": 7,
+  "starchip": "8"
+}

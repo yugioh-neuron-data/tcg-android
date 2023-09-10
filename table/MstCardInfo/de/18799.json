@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 2,
+  "card_id": 18799,
+  "card_name": "Veda Kalanta",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls eine oder mehr Karten auf dem Spielfeld durch einen Karteneffekt zerstört werden und „Visas Starfrost“ auf dem Spielfeld liegt (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören, dann kannst du deiner Hand 1 „Freie neue Welt“ von deinem Deck oder Friedhof hinzufügen. Falls ein oder mehr andere Monster, die dir gehören, durch einen Karteneffekt zerstört werden (außer während des Damage Steps): Du kannst 1 Monster wählen, das dein Gegner kontrolliert; zerstöre es und falls du dies tust, erhält diese Karte bis zum Ende dieses Spielzugs ATK in Höhe der Grund-ATK jenes Monsters. Du kannst jeden Effekt von „Veda Kalanta“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/07/27",
+  "species_id": 15,
+  "starchip": "8"
+}

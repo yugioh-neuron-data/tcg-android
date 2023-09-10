@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10020,
+  "card_name": "Trident Photon",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Ciblez 1 monstre \"Photon\" face recto que vous contrôlez ; jusqu'à la End Phase, il gagne 700 ATK, et s'il attaque un monstre en Position de Défense, infligez des dommages de combat perçants à votre adversaire. Lorsqu'il inflige des dommages de combat perçants à votre adversaire ce tour : vous pouvez cibler 1 Carte Magie/Piège sur le Terrain ; détruisez la cible.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/01/19",
+  "species_id": 24,
+  "starchip": "0"
+}

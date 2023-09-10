@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 10302,
+  "card_name": "しっぺ返し",
+  "card_name_label": "しっぺがえし",
+  "card_name_search": "しっぺがえし",
+  "card_pen_effect": "",
+  "card_text": "自分の墓地に存在する魔法・罠カードと同名のカードを相手が発動した時に発動できる。その発動を無効にし破壊する。その後、この効果で発動を無効にしたカードと同名のカードを自分の墓地から１枚選んで手札に加える事ができる。",
+  "defense_power": "0",
+  "effect_id": 1,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/07/21",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 3,
+  "card_id": 17143,
+  "card_name": "Yamatako Orochi",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Diese Karte auf dem Spielfeld kann als Monster der Stufe 8 behandelt werden, wenn sie für eine Synchrobeschwörung verwendet wird. Ein Synchromonster, das diese Karte als Material verwendet hat, erhält basierend auf seiner Grund-Stufe diesen Effekt.$N●8 oder niedriger: Erhält 800 ATK/DEF.$N●9 oder höher: Falls diese Karte ein Monster in Verteidigungsposition angreift, füge durchschlagenden Kampfschaden zu.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/05/19",
+  "species_id": 5,
+  "starchip": "1"
+}

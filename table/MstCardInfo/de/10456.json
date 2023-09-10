@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10456,
+  "card_name": "Utopia-Rakete",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls du ein „Utopia“-Monster kontrollierst: Zerstöre das 1 offene Monster, das dein Gegner kontrolliert, das die niedrigsten ATK hat, (bei Gleichstand bestimmst du eins) und falls du dies tust, füge deinem Gegner Schaden in Höhe der ATK des zerstörten Monsters auf dem Spielfeld zu.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/03/28",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 1,
+  "card_id": 15477,
+  "card_name": "混沌のヴァルキリア",
+  "card_name_label": "こんとんのヴァルキリア",
+  "card_name_search": "こんとんのう゛ぁるきりあ",
+  "card_pen_effect": "",
+  "card_text": "このカードは通常召喚できず、カードの効果でのみ特殊召喚できる。このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分の墓地から光属性または闇属性のモンスター１体を除外して発動できる。このカードを手札から特殊召喚する。②：このカードが除外された場合に発動できる。デッキから光属性または闇属性のモンスター１体を墓地へ送る。このターン、自分はこの効果で墓地へ送ったカード及びその同名カードの効果を発動できない。",
+  "defense_power": "1050",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/10/03",
+  "species_id": 17,
+  "starchip": "4"
+}

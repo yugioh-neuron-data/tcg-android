@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 12059,
+  "card_name": "Batalla de Tiro de Dados",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando un monstruo de tu adversario declara un ataque: selecciona 1 monstruo \"Velociroid\" en tu Cementerio; destiérralo en tu mano así como a 1 monstruo Cantante \"Velociroid\" y, si lo haces, Invoca de Modo Especial, desde tu Deck Extra, 1 Monstruo de Sincronía cuyo Nivel sea igual a los Niveles originales totales de esos 2 monstruos. Durante el Battle Step de tu adversario: puedes desterrar esta carta de tu Cementerio, y después seleccionar 1 Monstruo de Sincronía en Posición de Ataque boca arriba en cada lado del Campo; haz que ese monstruo en Posición de Ataque boca arriba que controla tu adversario ataque a ese monstruo que controlas, y realiza el cálculo de daño.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/10/01",
+  "species_id": 25,
+  "starchip": "0"
+}

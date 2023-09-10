@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16754,
+  "card_name": "星空蝶",
+  "card_name_label": "スターリット・パピヨン",
+  "card_name_search": "すたーりっとぱぴよん",
+  "card_pen_effect": "",
+  "card_text": "自分フィールドのモンスターにのみ装備可能。このカード名の③の効果は１ターンに１度しか使用できない。①：「星空蝶」は自分フィールドに１枚しか表側表示で存在できない。②：相手フィールドのモンスターの攻撃力は、自分フィールドの「勇者トークン」のトークン名が記されたモンスターの種類×５００ダウンする。③：このカードが墓地へ送られた場合、自分フィールドの「勇者トークン」１体を対象として発動できる。その自分のモンスターにこのカードを装備する。",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/08/28",
+  "species_id": 24,
+  "starchip": "0"
+}

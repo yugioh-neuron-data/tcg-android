@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 4,
+  "card_id": 6250,
+  "card_name": "Le Magicien du Tourment",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Chaque fois qu'une Carte Magie est activée, placez 1 Compteur Magie sur cette carte lorsque la Carte Magie est résolue. Vous pouvez retirer un nombre de votre choix de Compteurs Magie de cette carte, puis ciblez 1 monstre face recto sur le Terrain avec une ATK inférieure ou égale au nombre de Compteurs retirés x 700 ; détruisez la cible.",
+  "defense_power": "1700",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/03/01",
+  "species_id": 18,
+  "starchip": "4"
+}

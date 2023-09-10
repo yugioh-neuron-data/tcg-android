@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 4820,
+  "card_name": "Aranha Roleta",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Quando um monstro do oponente declarar um ataque: lance um dado de seis faces e aplique o resultado.$N1: Diminua pela metade seus PV.$N2: Transforme o ataque em um ataque direto.$N3: Selecione 1 monstro que você controla, mude o alvo do ataque para ele e realize o cálculo de dano.$N4: Selecione 1 outro monstro que seu oponente controla, mude o alvo do ataque para ele e realize o cálculo de dano.$N5: Negue o ataque e, se isso acontecer, cause dano ao seu oponente igual ao ATK do monstro.$N6: Destrua o monstro do oponente.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/07/16",
+  "species_id": 24,
+  "starchip": "0"
+}

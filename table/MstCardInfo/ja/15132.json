@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 15132,
+  "card_name": "黄金の征服王",
+  "card_name_label": "エル・ドラド・アデランタード",
+  "card_name_search": "えるどらどあでらんたーど",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：自分フィールドに「エルドリッチ」モンスターが存在する場合、以下の効果から１つを選択して発動できる。●除外されている自分の「エルドリクシル」魔法・罠カード３種類を１枚ずつ選んでデッキに戻し、フィールドのカードを全て破壊する。●除外されている自分の「黄金郷」魔法・罠カード３種類を１枚ずつ選んでデッキに戻し、相手のLPを半分にする。その後、相手のLPの数値分だけ自分のLPを回復する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/03/07",
+  "species_id": 25,
+  "starchip": "0"
+}

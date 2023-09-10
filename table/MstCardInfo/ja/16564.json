@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 16564,
+  "card_name": "聖邪のステンドグラス",
+  "card_name_label": "せいじゃのステンドグラス",
+  "card_name_search": "せいじゃのすてんどぐらす",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。$N①：自分フィールドの効果モンスターの種族によって以下の効果をそれぞれ適用できる。$N●天使族：自分は３枚ドローする。その後、手札を２枚選んで好きな順番でデッキの下に戻す。$N●悪魔族：相手は１枚ドローする。その後、相手は手札をランダムに１枚捨てる。さらに相手は手札がある場合には１枚選んで捨てる。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/07/17",
+  "species_id": 25,
+  "starchip": "0"
+}

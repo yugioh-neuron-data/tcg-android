@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 18921,
+  "card_name": "Brasier Volcanique",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsque votre adversaire active un effet de monstre sur le Terrain : vous pouvez bannir 1 monstre Pyro depuis votre Cimetière ; infligez 500 points de dommages à votre adversaire, puis, si vous avez banni un monstre \"Volcanique\" pour activer cet effet, vous pouvez annuler l'effet. Durant la End Phase de votre adversaire : vous pouvez cibler max. 2 de vos monstres \"Volcanique\" qui sont bannis et/ou dans votre Cimetière ; placez-les au-dessous de votre Deck dans l'ordre de votre choix. Vous ne pouvez utiliser chaque effet de \"Brasier Volcanique\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/08/10",
+  "species_id": 25,
+  "starchip": "0"
+}

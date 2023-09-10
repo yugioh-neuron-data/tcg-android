@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 1,
+  "card_id": 7587,
+  "card_name": "Arkane Macht XIV - Mäßigung",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Während der Schadensberechnung im Spielzug eines beliebigen Spielers: Du kannst diese Karte abwerfen; du erhältst aus dem Kampf keinen Kampfschaden. Wenn diese Karte beschworen wird: Wirf eine Münze und führe diesen Effekt aus. Dieser Effekt dauert an, solange diese Karte offen auf dem Spielfeld liegt.$N●Kopf: Halbiere allen Kampfschaden, den du erhältst.$N●Zahl: Halbiere allen Kampfschaden, den dein Gegner erhält.",
+  "defense_power": "2400",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/05/13",
+  "species_id": 17,
+  "starchip": "6"
+}

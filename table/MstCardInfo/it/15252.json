@@ -1,0 +1,23 @@
+{
+  "attack_power": "200",
+  "attribute_id": 5,
+  "card_id": 15252,
+  "card_name": "Melffy Catty",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se il tuo avversario Evoca Normalmente o Specialmente uno o più mostri (eccetto durante il Damage Step), o se un mostro dell'avversario sceglie questa carta come bersaglio per un attacco: puoi far ritornare questa carta nella mano, poi puoi aggiungere 1 mostro Bestia dal tuo Deck alla tua mano, eccetto \"Melffy Catty\". Durante la tua End Phase: puoi Evocare Specialmente questa carta dalla tua mano. Puoi utilizzare ogni effetto di \"Melffy Catty\" una sola volta per turno.",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/08/06",
+  "species_id": 11,
+  "starchip": "2"
+}

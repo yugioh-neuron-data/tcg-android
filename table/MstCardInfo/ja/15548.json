@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 15548,
+  "card_name": "RR－ファントム・クロー",
+  "card_name_label": "レイド・ラプターズ－ファントム・クロー",
+  "card_name_search": "れいどらぷたーずふぁんとむくろー",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：モンスターの効果が発動した時、自分フィールドの闇属性XモンスターのX素材を１つ取り除いて発動できる。その発動を無効にし破壊する。このカードを発動するために取り除いたX素材が「幻影騎士団」、「RR」、「エクシーズ・ドラゴン」カードだった場合、さらに自分フィールドの「RR」Xモンスター１体を選び、その攻撃力をこの効果で破壊したモンスターの元々の攻撃力分アップする。",
+  "defense_power": "0",
+  "effect_id": 1,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/08/08",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 3,
+  "card_id": 11219,
+  "card_name": "Crapaud du Tour Potartiste",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Une fois par tour : vous pouvez cibler 1 monstre face recto sur le Terrain ; jusqu'à la fin de ce tour, échangez son ATK et sa DEF actuelles.",
+  "card_text": "Une fois par tour, durant votre Battle Phase (sauf durant la Damage Step) : vous pouvez cibler 1 monstre que vous contrôlez ; changez sa position de combat, et si vous le faites, jusqu'à la fin de ce tour, échangez son ATK et sa DEF actuelles.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2014/08/14",
+  "species_id": 14,
+  "starchip": "2"
+}

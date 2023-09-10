@@ -1,0 +1,23 @@
+{
+  "attack_power": "2250",
+  "attribute_id": 5,
+  "card_id": 15017,
+  "card_name": "Uka Cacharrek, el Zorro Festivo de Fecundidad",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cada vez que tu adversario Invoca de Modo Normal o Especial uno o más monstruos: inflígele 300 puntos de daño. Sólo puedes usar cada uno de los siguientes efectos de \"Uka Cacharrek, el Zorro Festivo de Fecundidad\" una vez por turno.$N●Si uno o más monstruos son Invocados de Modo Especial desde el Deck Principal (excepto durante el Damage Step): puedes Invocar esta carta de Modo Especial desde tu mano.$N●Si esta carta es Invocada de Modo Normal o Especial: puedes seleccionar 1 monstruo boca arriba que controle tu adversario; Invoca 1 monstruo de Modo Especial desde tu mano o Deck cuyo ATK sea igual a su propia DEF, con un mismo Atributo que ese monstruo.",
+  "defense_power": "2250",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/30",
+  "species_id": 7,
+  "starchip": "7"
+}

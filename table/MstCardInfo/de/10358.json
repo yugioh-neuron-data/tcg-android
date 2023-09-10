@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10358,
+  "card_name": "Magiebuch-Sternenhalle",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Jedes Mal, wenn eine „Magiebuch“-Zauberkarte aktiviert wird, lege 1 Zauberzählmarke auf diese Karte. Alle Monster vom Typ Hexer, die du kontrollierst, erhalten für jede Zauberzählmarke auf dieser Karte 100 ATK. Wenn diese Karte mit Zauberzählmarken zerstört und auf den Friedhof gelegt wird: Du kannst deiner Hand 1 Monster vom Typ Hexer von deinem Deck hinzufügen, dessen Stufe kleiner oder gleich der Anzahl Zauberzählmarken ist, die auf dieser Karte lagen.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/11/08",
+  "species_id": 24,
+  "starchip": "0"
+}

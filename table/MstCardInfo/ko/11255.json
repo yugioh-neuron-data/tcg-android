@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 4,
+  "card_id": 11255,
+  "card_name": "화려한 스파이－C",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "①: 이 카드가 일반 소환에 성공했을 경우에 발동한다. 상대의 엑스트라 덱에서 무작위로 1장 확인한다. 공격력 2000 이상의 몬스터였을 경우, 이 카드의 공격력은 1000 올린다. 공격력 2000 미만의 몬스터였을 경우, 그 공격력만큼 자신의 LP를 회복한다.",
+  "defense_power": "1300",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/07/18",
+  "species_id": 15,
+  "starchip": "3"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 2,
+  "card_id": 13304,
+  "card_name": "D/D/D-Supervisier-König Zero Maxwell",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Du kannst 1 offenes Monster auf dem Spielfeld wählen; seine DEF werden bis zum Ende dieses Spielzugs zu 0 (selbst falls diese Karte das Spielfeld verlässt). Du kannst diesen Effekt von „D/D/D-Supervisier-König Zero Maxwell“ nur einmal pro Spielzug verwenden.",
+  "card_text": "Vor der Schadensberechnung, falls diese Karte ein Monster eines Gegners in Verteidigungsposition angreift: Du kannst die DEF jenes Monsters des Gegners bis zum Ende des Damage Steps zu 0 ändern. Falls diese Karte ein Monster in Verteidigungsposition angreift, füge durchschlagenden Kampfschaden zu. Du erhältst keinen Kampfschaden aus Kämpfen, an denen diese Karte beteiligt ist.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "4",
+  "pen_scale_r": "4",
+  "sales_at": "2021/06/03",
+  "species_id": 3,
+  "starchip": "7"
+}

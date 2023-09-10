@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 2,
+  "card_id": 15071,
+  "card_name": "背護衛",
+  "card_name_label": "はいごえい",
+  "card_name_search": "はいごえい",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが墓地からの特殊召喚に成功した場合、自分フィールドのモンスター１体を対象として発動できる。このターン、そのモンスターは戦闘・効果では破壊されない。②：このカードが除外されたターンのエンドフェイズに発動できる。このカードを手札に加える。",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/10/03",
+  "species_id": 2,
+  "starchip": "4"
+}

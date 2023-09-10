@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 3,
+  "card_id": 12919,
+  "card_name": "EM小判竜",
+  "card_name_label": "エンタメイトドラゴ・リモーラ",
+  "card_name_search": "えんためいとどらごりもーら",
+  "card_pen_effect": "①：１ターンに１度、エクストラデッキから特殊召喚された自分フィールドのドラゴン族モンスター１体を対象として発動できる。このターン、その自分のモンスターが相手モンスターと戦闘を行った場合、その相手モンスターはダメージ計算後に除外される。",
+  "card_text": "①：このカードがモンスターゾーンに存在する限り、このカード以外の自分フィールドのドラゴン族モンスターは攻撃力が５００アップし、効果では破壊されない。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2017/01/14",
+  "species_id": 1,
+  "starchip": "4"
+}

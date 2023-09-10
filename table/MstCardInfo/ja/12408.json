@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 2,
+  "card_id": 12408,
+  "card_name": "曲芸の魔術師",
+  "card_name_label": "きょくげいのまじゅつし",
+  "card_name_search": "きょくげいのまじゅつし",
+  "card_pen_effect": "「曲芸の魔術師」のP効果は１ターンに１度しか使用できない。①：自分フィールドのモンスターが効果で破壊された時に発動できる。Pゾーンのこのカードを特殊召喚する。",
+  "card_text": "①：魔法・罠カードの発動が無効になった場合に発動できる。このカードを手札から特殊召喚する。②：このカードが戦闘で破壊された時に発動できる。このカードを自分のPゾーンに置く。",
+  "defense_power": "2300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "2",
+  "pen_scale_r": "2",
+  "sales_at": "2016/04/09",
+  "species_id": 18,
+  "starchip": "5"
+}

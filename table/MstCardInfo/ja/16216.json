@@ -1,0 +1,23 @@
+{
+  "attack_power": "1300",
+  "attribute_id": 5,
+  "card_id": 16216,
+  "card_name": "木花咲弥",
+  "card_name_label": "コノハナサクヤ",
+  "card_name_search": "このはなさくや",
+  "card_pen_effect": "",
+  "card_text": "このカードは通常召喚できない。自分フィールドにスピリットモンスターが存在する場合のみ特殊召喚できる。この方法による「木花咲弥」の特殊召喚は１ターンに１度しかできない。①：このカードを特殊召喚したターンのエンドフェイズに発動する。このカードを持ち主の手札に戻す。②：自分・相手のエンドフェイズに、墓地のこのカードを除外し、自分フィールドのスピリットモンスター１体を対象として発動できる。このターン、その表側表示モンスターはフィールドで発動する効果を発動できない。",
+  "defense_power": "1300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 29,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/04/17",
+  "species_id": 17,
+  "starchip": "3"
+}

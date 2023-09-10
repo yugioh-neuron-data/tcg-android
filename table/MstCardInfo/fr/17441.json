@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 17441,
+  "card_name": "Orbite Hydralander",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si vous avez min. 4 monstres dans votre Cimetière et aucun monstre dans votre Cimetière de même nom : vous pouvez Sacrifier cette carte ; dévoilez un nombre de cartes du dessus de votre Deck, égal au nombre de monstres dans votre Cimetière (ou autant que possible), et si vous le faites, si min. 2 monstres ont été dévoilés et que tous les monstres dévoilés avaient des noms différents, ajoutez 1 de ces monstres à votre main, et aussi, placez les cartes restantes au-dessus de votre Deck dans l'ordre de votre choix. Vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 monstre dans votre Cimetière ; placez-le au-dessous du Deck. Vous ne pouvez utiliser chaque effet de \"Orbite Hydralander\" qu'une fois par tour.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/08/04",
+  "species_id": 7,
+  "starchip": "1"
+}

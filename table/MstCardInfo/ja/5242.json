@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 5,
+  "card_id": 5242,
+  "card_name": "聖獣セルケト",
+  "card_name_label": "せいじゅうセルケト",
+  "card_name_search": "せいじゅうせるけと",
+  "card_pen_effect": "",
+  "card_text": "①：自分フィールドに「王家の神殿」が存在しない場合にこのカードは破壊される。②：このカードがモンスターゾーンに存在する限り、このカードが戦闘で破壊したモンスターは除外される。③：このカードが戦闘でモンスターを破壊した場合に発動する。このカードの攻撃力は５００アップする。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/01/28",
+  "species_id": 17,
+  "starchip": "6"
+}

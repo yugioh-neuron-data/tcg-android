@@ -1,0 +1,23 @@
+{
+  "attack_power": "1100",
+  "attribute_id": 2,
+  "card_id": 10871,
+  "card_name": "Goule Fantôruse",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Non Invocable Normalement, sauf si vous contrôlez un monstre \"Fantôruse\". Une fois par tour : vous pouvez changer cette carte en Position de Défense face verso. Une fois par tour, durant votre Main Phase 1 : vous pouvez cibler 1 monstre \"Fantôruse\" que vous contrôlez ; jusqu'à la fin du prochain tour de votre adversaire, son ATK devient égale à la somme des ATK d'origine de tous les monstres \"Fantôruse\" actuellement sur le Terrain, mais si elle le devient, seul le monstre peut attaquer ce tour.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/11/02",
+  "species_id": 2,
+  "starchip": "3"
+}

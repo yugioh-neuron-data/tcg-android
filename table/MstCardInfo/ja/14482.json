@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 6,
+  "card_id": 14482,
+  "card_name": "ランリュウ",
+  "card_name_label": "ランリュウ",
+  "card_name_search": "らんりゅう",
+  "card_pen_effect": "",
+  "card_text": "①：「ランリュウ」は自分フィールドに１体しか表側表示で存在できない。②：自分フィールドに魔法使い族モンスターが存在する場合、このカードは手札から特殊召喚できる。③：このカードが戦闘・効果で破壊され墓地へ送られた場合、「ランリュウ」以外の自分の墓地の攻撃力１５００／守備力２００のモンスター１体を対象として発動できる。そのモンスターを特殊召喚する。",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/04/13",
+  "species_id": 1,
+  "starchip": "4"
+}

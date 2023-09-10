@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 3,
+  "card_id": 15465,
+  "card_name": "エクストクス・ハイドラ",
+  "card_name_label": "エクストクス・ハイドラ",
+  "card_name_search": "えくすとくすはいどら",
+  "card_pen_effect": "",
+  "card_text": "EXデッキから特殊召喚された自分フィールドのモンスター×２体以上$N①：このカードがモンスターゾーンに存在する限り、このカードの融合素材としたモンスターの種類（融合・S・X・P・リンク）と同じ種類の相手フィールドのモンスターは、攻撃力が元々の攻撃力分ダウンする。②：このカードが相手に１０００以上の戦闘ダメージを与えた時に発動できる。そのダメージ１０００につき１枚、自分はデッキからドローする。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/12/17",
+  "species_id": 20,
+  "starchip": "4"
+}

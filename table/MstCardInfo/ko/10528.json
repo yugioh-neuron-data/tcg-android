@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 2,
+  "card_id": 10528,
+  "card_name": "CX 다크 페어리 치어 걸",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "레벨 5 몬스터 × 3$N이 카드가 필드 위에서 묘지로 보내졌을 때, 덱에서 카드를 1장 드로우한다. 또한, 이 카드가 \"페어리 치어 걸\"을 엑시즈 소재로 하고 있을 경우, 이하의 효과를 얻는다.$N●이 카드가 전투에 의해서 상대 몬스터를 파괴했을 때, 이 카드의 엑시즈 소재를 1개 제거하고 발동할 수 있다. 자신 패의 수 × 400 포인트 데미지를 상대 라이프에 준다.",
+  "defense_power": "1900",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/05/01",
+  "species_id": 17,
+  "starchip": "5"
+}

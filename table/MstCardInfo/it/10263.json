@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 5,
+  "card_id": 10263,
+  "card_name": "Cowboy Gagaga",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 mostri di Livello 4$NUna volta per turno: puoi staccare 1 Materiale Xyz da questa carta; applica questo effetto, a seconda della posizione attuale di questa carta.$N●Posizione di Attacco: Se questa carta attacca un mostro dell'avversario in questo turno, essa guadagna 1000 ATK, inoltre il mostro dell'avversario perde 500 ATK, solamente durante il Damage Step.$N●Posizione di Difesa: Infliggi 800 danni al tuo avversario.",
+  "defense_power": "2400",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/11/08",
+  "species_id": 15,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2100",
+  "attribute_id": 2,
+  "card_id": 7240,
+  "card_name": "Frénésie Automobile",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si cette carte est Invoquée Normalement ou Spécialement, ou si un ou plusieurs autres monstres Machine sont Invoqués Normalement ou Spécialement sur votre Terrain : vous pouvez activer cet effet ; jusqu'à la fin du tour de votre adversaire, ces monstres Invoqués Normalement ou Spécialement gagnent une ATK égale à la moitié de leur DEF d'origine, et aussi, leur position de combat ne peut pas être changée. Si cette carte Invoquée par Sacrifice est envoyée au Cimetière : vous pouvez Invoquer Spécialement 2 \"Jeton Moteur\" (Machine/TERRE/Niveau 1/ATK 200/DEF 200) en Position d'Attaque. Vous ne pouvez utiliser chaque effet de \"Frénésie Automobile\" qu'une fois par tour.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/05/19",
+  "species_id": 7,
+  "starchip": "6"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 6,
+  "card_id": 8700,
+  "card_name": "Sphère de Transformation",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Une fois par tour : vous pouvez cibler 1 monstre en Position de Défense face recto contrôlé par votre adversaire ; défaussez 1 carte et équipez la cible à cette carte. (Vous ne pouvez équiper qu'1 monstre à cette carte à la fois avec cet effet.) Cette carte gagne l'ATK du monstre équipé. Si cette carte attaque, à la fin de la Battle Phase, elle est changée en Position de Défense. Durant la End Phase : le monstre équipé à cette carte par l'effet de cette carte est Invoqué Spécialement sur le Terrain de votre adversaire en Position de Défense face recto.",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/08/11",
+  "species_id": 16,
+  "starchip": "3"
+}

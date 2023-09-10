@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 3,
+  "card_id": 16273,
+  "card_name": "ペンドラザクション",
+  "card_name_label": "ペンドラザクション",
+  "card_name_search": "ぺんどらざくしょん",
+  "card_pen_effect": "",
+  "card_text": "レベル４モンスター×２$Nこのカード名の効果は１ターンに１度しか使用できない。①：このカードのX素材を１つ取り除いて発動できる。自分のEXデッキの枚数が相手より多い場合、その差の数によって以下の効果をそれぞれ適用する。$N●１枚以上：このカードの攻撃力は相手ターン終了時まで１０００アップする。$N●５枚以上：このカードは相手ターン終了時まで効果の対象にならない。$N●１０枚以上：相手フィールドのカード１枚を選んで除外する。$N●１５枚以上：相手のLPを３０００にする。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/09/25",
+  "species_id": 27,
+  "starchip": "4"
+}

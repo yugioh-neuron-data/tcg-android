@@ -1,0 +1,23 @@
+{
+  "attack_power": "4000",
+  "attribute_id": 2,
+  "card_id": 8651,
+  "card_name": "Dragon Rouge Majestueux",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"Dragon Majestueux\" + \"Dragon Rouge Archdémon\" + 1 monstre non-Syntoniseur$NNon destructible par des effets de carte. Après le calcul des dommages, si cette carte attaque : détruisez tous les monstres en Position de Défense sur le Terrain. Une fois par tour : vous pouvez cibler 1 monstre face recto contrôlé par votre adversaire ; annulez ses effets, et si vous le faites, cette carte gagne une ATK égale à l'ATK du monstre. Ces changements durent jusqu'à la fin de ce tour. Durant la End Phase : ciblez 1 \"Dragon Rouge Archdémon\" dans votre Cimetière ; renvoyez cette carte depuis le Terrain à l'Extra Deck, puis Invoquez Spécialement la cible.",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/02/11",
+  "species_id": 1,
+  "starchip": "10"
+}

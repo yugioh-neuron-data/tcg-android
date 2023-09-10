@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 3,
+  "card_id": 14485,
+  "card_name": "ライブラの魔法秤",
+  "card_name_label": "ライブラのまほうびん",
+  "card_name_search": "らいぶらのまほうびん",
+  "card_pen_effect": "このカード名のP効果は１ターンに１度しか使用できない。①：１～６までの任意のレベルを宣言し、自分フィールドの表側表示モンスター２体を対象として発動できる。ターン終了時まで、対象のモンスター１体のレベルを宣言したレベル分だけ下げ、もう１体のモンスターのレベルを宣言したレベル分だけ上げる。",
+  "card_text": "意思を持った天秤。世の中の均衡を保っているが、しばしば間違った方に錘星を乗せてしまう。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 44,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2019/04/13",
+  "species_id": 18,
+  "starchip": "4"
+}

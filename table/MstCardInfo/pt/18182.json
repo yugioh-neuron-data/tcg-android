@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 5,
+  "card_id": 18182,
+  "card_name": "Arktos XII - Vaylantz do Cronoabismo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Você pode ativar 1 desses efeitos;$N●Invoque este card por Invocação-Especial na sua Zona de Monstros Principal em sua mesma coluna.$N●Mova 1 monstro na sua Zona de Monstros Principal para uma Zona de Monstros adjacente (horizontal).$NVocê só pode usar este efeito de \"Arktos XII - Vaylantz do Cronoabismo\" uma vez por turno.",
+  "card_text": "2 monstros \"Vaylantz\" de Nível 5 ou mais$NPrimeiro deve ser Invocado por Invocação-Especial (do seu Deck Adicional com a face para baixo) ao oferecer como Tributo os cards acima. (Efeito Rápido): você pode trocar a localização de 2 monstros nas suas Zonas de Monstros Principais ou 2 monstros nas Zonas de Monstros Principais do seu oponente. Se um card na Zona de Monstros se mover para outra Zona de Monstros (exceto durante a Etapa de Dano): você pode destruir 1 card no campo. Você só pode usar cada efeito de \"Arktos XII - Vaylantz do Cronoabismo\" uma vez por turno.",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 41,
+  "pen_scale_l": "12",
+  "pen_scale_r": "12",
+  "sales_at": "2023/02/06",
+  "species_id": 17,
+  "starchip": "12"
+}

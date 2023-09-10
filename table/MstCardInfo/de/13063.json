@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 2,
+  "card_id": 13063,
+  "card_name": "Jain, Zwielichtverpflichteter General",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Einmal pro Spielzug: Du kannst 1 „Lichtverpflichtet“-Monster von deiner Hand oder deinem Friedhof verbannen und dann 1 offenes Monster auf dem Spielfeld wählen; es verliert bis zum Ende dieses Spielzugs ATK und DEF in Höhe der Stufe des verbannten Monsters x 300. Einmal pro Spielzug, falls der Effekt eines anderen deiner „Lichtverpflichtet“-Monster aktiviert wird: Lege die obersten 2 Karten deines Decks auf den Friedhof.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/08/03",
+  "species_id": 15,
+  "starchip": "4"
+}

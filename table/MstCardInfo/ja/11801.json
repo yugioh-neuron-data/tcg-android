@@ -1,0 +1,23 @@
+{
+  "attack_power": "1100",
+  "attribute_id": 5,
+  "card_id": 11801,
+  "card_name": "Emハットトリッカー",
+  "card_name_label": "エンタメイジハットトリッカー",
+  "card_name_search": "えんためいじはっととりっかー",
+  "card_pen_effect": "",
+  "card_text": "①：フィールドにモンスターが２体以上存在する場合、このカードは手札から特殊召喚できる。②：自分にダメージを与える魔法・罠・モンスターの効果が発動した時に発動できる。このカードにEmカウンターを１つ置く（最大３つまで）。その後、その効果で自分が受けるダメージを０にする。③：このカードにEmカウンターが３つ置かれた時にこのカードの攻撃力・守備力は３３００になる。",
+  "defense_power": "1100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/04/25",
+  "species_id": 18,
+  "starchip": "4"
+}

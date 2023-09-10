@@ -1,0 +1,23 @@
+{
+  "attack_power": "1550",
+  "attribute_id": 1,
+  "card_id": 15715,
+  "card_name": "Maha Vailo, Luz de los Cielos",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Esta carta gana el o los siguientes efectos, basados en el número de Cartas de Equipo equipadas a ella.$N●1+: Gana 1000 ATK por cada Carta de Equipo equipada a ella.$N●2+: Tu adversario no puede activar efectos de monstruos durante la Battle Phase.$N●3+: Cuando es activada la carta o efecto de tu adversario que seleccione esta carta (Efecto Rápido): puedes mandar al Cementerio 1 Carta de Equipo que controles; niega ese efecto.$N●4+: Tu adversario no puede activar cartas o efectos durante la Battle Phase.$N●5+: Cualquier daño de batalla que esta carta inflija a tu adversario se duplica.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/02/04",
+  "species_id": 18,
+  "starchip": "8"
+}

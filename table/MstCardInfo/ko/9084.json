@@ -1,0 +1,23 @@
+{
+  "attack_power": "2200",
+  "attribute_id": 5,
+  "card_id": 9084,
+  "card_name": "파워 자이언트",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드는 패의 레벨 4 이하의 몬스터 1장을 묘지로 보내고, 패에서 특수 소환할 수 있다. 이 방법으로 특수 소환했을 경우, 패에서 묘지로 보낸 몬스터 레벨의 수만큼 이 카드의 레벨을 내린다. 또한, 이 카드가 전투를 실행할 경우, 그 데미지 스텝 종료시까지 자신이 받는 효과 데미지를 0으로 한다.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/10/20",
+  "species_id": 6,
+  "starchip": "6"
+}

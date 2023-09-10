@@ -1,0 +1,23 @@
+{
+  "attack_power": "900",
+  "attribute_id": 2,
+  "card_id": 8789,
+  "card_name": "インフェルニティ・リローダー",
+  "card_name_label": "インフェルニティ・リローダー",
+  "card_name_search": "いんふぇるにてぃりろーだー",
+  "card_pen_effect": "",
+  "card_text": "自分の手札が０枚の場合、１ターンに１度、自分のデッキからカードを１枚ドローする事ができる。この効果でドローしたカードをお互いに確認し、モンスターカードだった場合、そのモンスターのレベル×２００ポイントダメージを相手ライフに与える。魔法・罠カードだった場合、自分は５００ポイントダメージを受ける。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/02/20",
+  "species_id": 15,
+  "starchip": "1"
+}

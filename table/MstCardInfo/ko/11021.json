@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 3,
+  "card_id": 11021,
+  "card_name": "트라이에지 리바이아",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "레벨 3 몬스터 × 3$N이 카드가 전투에 의해서 파괴한 몬스터는 묘지로는 가지 않고 게임에서 제외된다. 또한, 1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고, 필드 위에 앞면 표시로 존재하는 몬스터 1장을 선택하여 발동할 수 있다. 턴 종료시까지, 선택한 몬스터의 공격력은 800 포인트 내리고, 효과는 무효화된다. 이 효과는 상대 턴에도 발동할 수 있다.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/06/10",
+  "species_id": 5,
+  "starchip": "3"
+}

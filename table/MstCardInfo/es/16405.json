@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16405,
+  "card_name": "D- Fuerza",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando esta carta es activada: puedes añadir a tu mano 1 \"HÉROE del Destino - Plasma\" en tu Deck o Cementerio. Mientras controles \"HÉROE del Destino - Plasma\", aplica los siguientes efectos.$N●No puedes robar durante la Draw Phase.$N●Tu adversario no puede seleccionar cartas que controles con efectos de cartas.$N●Cada \"HÉROE del Destino - Plasma\" que controles gana 100 ATK por cada monstruo en los Cementerios, no puede ser destruido por efectos de cartas de tu adversario, y además puede hacer un segundo ataque durante cada Battle Phase.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/12/02",
+  "species_id": 24,
+  "starchip": "0"
+}

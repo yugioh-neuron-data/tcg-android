@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 5,
+  "card_id": 12769,
+  "card_name": "メトロンノーム",
+  "card_name_label": "メトロンノーム",
+  "card_name_search": "めとろんのーむ",
+  "card_pen_effect": "①：１ターンに１度、このカード以外の自分または相手のPゾーンのカード１枚を対象として発動できる。このカードのPスケールはターン終了時まで、そのカードのPスケールと同じになる。",
+  "card_text": "①：自分のPゾーンにカードが２枚存在し、そのPスケールが同じ場合、このカードの攻撃力・守備力はそのPスケール×１００アップし、このカードは直接攻撃できる。②：このカードが直接攻撃によって相手に戦闘ダメージを与えた場合に発動する。お互いのPゾーンのカードを全て破壊する。",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "4",
+  "pen_scale_r": "4",
+  "sales_at": "2016/10/08",
+  "species_id": 17,
+  "starchip": "4"
+}

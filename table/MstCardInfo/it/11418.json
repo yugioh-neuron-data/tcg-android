@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 11418,
+  "card_name": "Porta del Destino",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Quando un mostro dell'avversario dichiara un attacco diretto: annulla l'attacco, poi Evoca Specialmente questa carta come Mostro con Effetto (Tipo Demone/LUCE/Livello 1/ATK 0/DEF 0). (Questa carta è ancora anche una Carta Trappola.) Durante la tua Standby Phase, mentre questa carta viene considerata come un mostro: puoi bandire un qualsiasi numero di mostri \"Utopia\" con nomi diversi dal tuo Cimitero; infliggi 500 danni al tuo avversario per ognuno di quei mostri banditi e, se lo fai, questa carta guadagna ATK pari al danno che ha subito.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/04/16",
+  "species_id": 25,
+  "starchip": "0"
+}

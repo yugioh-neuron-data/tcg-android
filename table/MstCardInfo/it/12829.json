@@ -1,0 +1,23 @@
+{
+  "attack_power": "2200",
+  "attribute_id": 6,
+  "card_id": 12829,
+  "card_name": "Velociroid Passaliante",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Una volta per turno: puoi mandare 1 Tuner \"Velociroid\" dalla tua mano o scoperto dal tuo Terreno al Cimitero; aumenta o riduci (minimo di 1) il Valore Pendulum di questa carta del Livello originale del mostro mandato fino alla fine di questo turno.",
+  "card_text": "Se non c'è nessun mostro sul Terreno, puoi Evocare Specialmente questa carta (dalla tua mano). Puoi Evocare Specialmente \"Velociroid Passaliante\" una sola volta per turno in questo modo. Quando questa carta viene Evocata tramite Tributo: puoi scegliere come bersaglio 1 mostro \"Velociroid\" di Livello 4 o inferiore nel tuo Cimitero; Evocalo Specialmente. I mostri del tuo avversario non possono scegliere come bersaglio mostri \"Velociroid\" per gli attacchi, eccetto questo.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2017/08/03",
+  "species_id": 7,
+  "starchip": "5"
+}

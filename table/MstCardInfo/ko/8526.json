@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 2,
+  "card_id": 8526,
+  "card_name": "카드 가드",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드가 일반 소환/특수 소환에 성공했을 때, 이 카드에 가드 카운터를 1개 놓는다. 이 카드에 얹혀 있는 가드 카운터 1개당, 이 카드의 공격력은 300 포인트 올린다. 또한, 1턴에 1번, 이 카드에 얹혀 있는 가드 카운터를 1개 제거하고, 이 카드 이외의 자신 필드 위에 앞면 표시로 존재하는 카드 1장에 가드 카운터를 1개 놓을 수 있다. 선택한 카드가 파괴될 경우, 대신에 가드 카운터를 1개 제거한다.",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/11/18",
+  "species_id": 3,
+  "starchip": "4"
+}

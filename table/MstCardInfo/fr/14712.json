@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14712,
+  "card_name": "Pouvoir des Étoiles !",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durant le calcul des dommages, si votre Monstre Lien combat un monstre de l'adversaire : durant ce calcul des dommages uniquement, votre monstre gagne une ATK égale à la somme des Niveaux/Rangs des monstres qu'il pointe x 400. Vous ne pouvez activer qu'1 \"Pouvoir des Étoiles !\" par tour.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/07/26",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11607,
+  "card_name": "Drehscheiben-Bahnhof",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls ein oder mehr ERDE Maschine-Monster der Stufe 10 als Normal- oder Spezialbeschwörung auf deine Spielfeldseite beschworen werden (außer während des Damage Steps): Du kannst diesen Effekt aktivieren; dein Gegner erhält für den Rest dieses Spielzugs keinen Kampfschaden (selbst falls diese Karte das Spielfeld verlässt), zusätzlich beschwöre 1 ERDE Maschine-Monster der Stufe 4 mit 1800 oder mehr ATK als Spezialbeschwörung von deinem Deck und falls du dies tust, wird es Stufe 10. Du kannst 1 Karte von deiner Hand auf den Friedhof legen; füge deiner Hand 1 ERDE Maschine-Monster der Stufe 10 von deinem Deck hinzu. Du kannst nur 1 Effekt von „Drehscheiben-Bahnhof“ pro Spielzug verwenden und in dem Spielzug nur einmal.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/08/04",
+  "species_id": 24,
+  "starchip": "0"
+}

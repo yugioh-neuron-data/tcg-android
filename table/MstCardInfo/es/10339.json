@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 1,
+  "card_id": 10339,
+  "card_name": "Caballero de la Galaxia",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si controlas un monstruo \"Fotónico/a\", \"Galaxia\" o \"Galáctico/a\", puedes Invocar esta carta de Modo Normal sin Sacrificar. Si es Invocada de este modo: selecciona 1 \"Dragón Fotónico de Ojos Galácticos\" en tu Cementerio (si es posible); lo hagas o no, esta carta pierde 1000 ATK y, si lo hace, Invoca ese objetivo (si existe) de Modo Especial en Posición de Defensa. Esta disminución del ATK dura hasta el final de este turno.",
+  "defense_power": "2600",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/03/07",
+  "species_id": 15,
+  "starchip": "8"
+}

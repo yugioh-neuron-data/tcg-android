@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10476,
+  "card_name": "Pared de Conjuros",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Activa 1 de estos efectos. Este turno, tu adversario no recibe más daño.$N●Durante este turno, no se puede negar la Invocación de un monstruo de Tipo Lanzador de Conjuros, y cuando es Invocado un monstruo de Tipo Lanzador de Conjuros, tu adversario no puede activar cartas ni efectos.$N●Selecciona 1 monstruo de Tipo Lanzador de Conjuros que controles; si éste ataca este turno, tu adversario no puede activar cartas o efectos hasta el final del Damage Step.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/01/24",
+  "species_id": 24,
+  "starchip": "0"
+}

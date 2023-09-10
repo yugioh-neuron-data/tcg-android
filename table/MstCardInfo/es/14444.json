@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14444,
+  "card_name": "Laboratorio de Endimión",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "El nombre de esta carta se convierte en \"Ciudadela Mágica de Endimión\" mientras esté en la Zona de Magia y Trampas. Cada vez que es activada una Carta Mágica, pon 1 Contador Mágico en esta carta cuando se resuelva esa Mágica. Una vez por turno, después del cálculo de daño, si tu monstruo Lanzador de Conjuros es destruido en batalla: puedes retirar 6 Contadores Mágicos de tu Campo; Invoca de Modo Especial, desde tu mano o Deck, 1 monstruo Lanzador de Conjuros de Nivel 7 o mayor. Sólo puedes activar 1 \"Laboratorio de Endimión\" por turno.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/04/18",
+  "species_id": 24,
+  "starchip": "0"
+}

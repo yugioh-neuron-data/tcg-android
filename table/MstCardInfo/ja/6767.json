@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 4,
+  "card_id": 6767,
+  "card_name": "E・HERO フレア・ネオス",
+  "card_name_label": "エレメンタルヒーロー　フレア・ネオス",
+  "card_name_search": "えれめんたるひーろーふれあねおす",
+  "card_pen_effect": "",
+  "card_text": "「E・HERO ネオス」＋「N・フレア・スカラベ」$N自分フィールド上の上記のカードをデッキに戻した場合のみ、エクストラデッキから特殊召喚できる（「融合」魔法カードは必要としない）。このカードの攻撃力は、フィールド上の魔法・罠カードの数×４００ポイントアップする。また、エンドフェイズ時、このカードはエクストラデッキに戻る。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/05/18",
+  "species_id": 15,
+  "starchip": "7"
+}

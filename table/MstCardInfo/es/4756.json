@@ -1,0 +1,23 @@
+{
+  "attack_power": "2100",
+  "attribute_id": 6,
+  "card_id": 4756,
+  "card_name": "Quimera, la Bestia Voladora Mítica",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"Gazelle el Rey de las Bestias Míticas\" + \"Berfomet\"$N(Esta carta se trata siempre como una carta \"Bestia Fantasma\").$NCuando esta carta es destruida: puedes seleccionar 1 \"Berfomet\" o 1 \"Gazelle el Rey de las Bestias Míticas\" en tu Cementerio; Invoca ese objetivo de Modo Especial.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/02/11",
+  "species_id": 11,
+  "starchip": "6"
+}

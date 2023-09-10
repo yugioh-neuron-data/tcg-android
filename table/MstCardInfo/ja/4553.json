@@ -1,0 +1,23 @@
+{
+  "attack_power": "350",
+  "attribute_id": 5,
+  "card_id": 4553,
+  "card_name": "グリグル",
+  "card_name_label": "グリグル",
+  "card_name_search": "ぐりぐる",
+  "card_pen_effect": "",
+  "card_text": "フィールド上に表側表示で存在するこのカードのコントロールが相手に移った時、自分は３０００ライフポイント回復する。この効果はこのカードがフィールド上に表側表示で存在する限り１度しか使用できない。",
+  "defense_power": "300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2000/04/20",
+  "species_id": 13,
+  "starchip": "1"
+}

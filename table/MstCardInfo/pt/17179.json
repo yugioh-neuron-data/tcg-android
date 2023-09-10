@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 17179,
+  "card_name": "Cadeia Surpresa",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Ative apenas como Elo de Corrente 2 ou mais; aplique os seguintes efeitos, em sequência, dependendo do número do Elo de Corrente deste card (pule qualquer um que não se aplique). Você não pode ativar este card se múltiplos cards/efeitos com o mesmo nome estiverem nessa Corrente.$N●2+: Escave os cards do topo do seu Deck, igual ao número do Elo de Corrente deste card e, depois, coloque-os no topo do seu Deck em qualquer ordem.$N●3+: Envie o card do topo do seu Deck para o Cemitério.$N●4+: Compre 1 card.$NVocê só pode ativar 1 \"Cadeia Surpresa\" por turno.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/05/19",
+  "species_id": 24,
+  "starchip": "0"
+}

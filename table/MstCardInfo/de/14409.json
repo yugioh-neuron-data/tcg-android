@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 1,
+  "card_id": 14409,
+  "card_name": "Hexwerkerin Madam Verre",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Während der Schadensberechnung, falls dein Hexer-Monster gegen ein Monster eines Gegners kämpft (Schnelleffekt): Du kannst eine beliebige Anzahl Zauber mit unterschiedlichen Namen in deiner Hand vorzeigen und falls du dies tust, erhält dein kämpfendes Monster bis zum Ende dieses Spielzugs für jede vorgezeigte Karte 1000 ATK/DEF. (Schnelleffekt): Du kannst 1 Zauber abwerfen; annulliere bis zum Ende dieses Spielzugs die Effekte aller offenen Monster, die dein Gegner derzeit kontrolliert. Du kannst jeden Effekt von „Hexwerkerin Madam Verre“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "2800",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/03/21",
+  "species_id": 18,
+  "starchip": "8"
+}

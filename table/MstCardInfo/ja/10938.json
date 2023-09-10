@@ -1,0 +1,23 @@
+{
+  "attack_power": "2300",
+  "attribute_id": 1,
+  "card_id": 10938,
+  "card_name": "森羅の守神 アルセイ",
+  "card_name_label": "しんらのもりがみ アルセイ",
+  "card_name_search": "しんらのもりがみあるせい",
+  "card_pen_effect": "",
+  "card_text": "レベル８モンスター×２$Nこのカード名の②の効果は１ターンに１度しか使用できない。①：１ターンに１度、カード名を１つ宣言して発動できる。自分のデッキの一番上のカードをめくり、宣言したカードだった場合、そのカードを手札に加える。違った場合、めくったカードを墓地へ送る。②：自分のデッキのカードが効果で墓地へ送られた場合、このカードのX素材を１つ取り除き、フィールドのカード１枚を対象として発動できる。そのカードを持ち主のデッキの一番上または一番下に戻す。",
+  "defense_power": "3200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/11/16",
+  "species_id": 13,
+  "starchip": "8"
+}

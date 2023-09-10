@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 1,
+  "card_id": 13040,
+  "card_name": "Sorcier Cyberse",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Une fois par tour : vous pouvez cibler 1 monstre de l'adversaire en Position d'Attaque ; changez-le en Position de Défense, et si vous le faites, le reste de ce tour, vos monstres ne peuvent pas attaquer, sauf pour attaquer le monstre, et si votre monstre Cyberse attaque un monstre en Position de Défense, infligez des dommages de combat perçants à votre adversaire.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/08/03",
+  "species_id": 27,
+  "starchip": "4"
+}

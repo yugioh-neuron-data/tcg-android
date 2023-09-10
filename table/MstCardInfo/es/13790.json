@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 13790,
+  "card_name": "Renovación del Mundo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando esta carta es activada: destierra 1 Monstruo de Ritual en tu Deck. Puedes mandar esta carta al Cementerio, y después activa 1 de estos efectos;$N●Sacrifica 1 monstruo en tu mano o Campo, o baraja al Deck 1 Monstruo de Ritual en tu Cementerio, cuyo Nivel sea igual o exceda el Nivel del monstruo desterrado por el efecto de esta carta, y después Invoca ese monstruo por Ritual.$N●Añade a tu mano el monstruo desterrado por el efecto de esta carta.$NSólo puedes usar 1 efecto de \"Renovación del Mundo\" por turno, y sólo una vez ese turno.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/07/26",
+  "species_id": 25,
+  "starchip": "0"
+}

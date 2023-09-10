@@ -1,0 +1,23 @@
+{
+  "attack_power": "2900",
+  "attribute_id": 4,
+  "card_id": 5333,
+  "card_name": "タイラント・ドラゴン",
+  "card_name_label": "タイラント・ドラゴン",
+  "card_name_search": "たいらんとどらごん",
+  "card_pen_effect": "",
+  "card_text": "相手フィールド上にモンスターが存在する場合、このカードはバトルフェイズ中にもう１度だけ攻撃する事ができる。このカードがフィールド上に表側表示で存在する限り、このカードを対象にする罠カードの効果を無効にし破壊する。このカードを他のカードの効果によって墓地から特殊召喚する場合、そのプレイヤーは自分フィールド上に存在するドラゴン族モンスター１体をリリースしなければならない。",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2001/09/20",
+  "species_id": 1,
+  "starchip": "8"
+}

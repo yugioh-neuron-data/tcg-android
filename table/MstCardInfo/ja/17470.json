@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 17470,
+  "card_name": "無千ジャミング",
+  "card_name_label": "むせんジャミング",
+  "card_name_search": "むせんじゃみんぐ",
+  "card_pen_effect": "",
+  "card_text": "①：フィールドに攻撃力１０００以上のモンスターが存在する場合、モンスターが戦闘を行うダメージ計算時に発動する。フィールドの全てのモンスターは、攻撃力がその攻撃力１０００につき１０００下げた数値になり、守備力がその守備力１０００につき１０００下げた数値になる。②：このカードが破壊された場合に発動する。フィールドの全てのモンスターはターン終了時まで、攻撃力がその攻撃力１０００につき１０００下げた数値になり、守備力がその守備力１０００につき１０００下げた数値になる。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/04/23",
+  "species_id": 24,
+  "starchip": "0"
+}

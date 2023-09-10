@@ -1,0 +1,23 @@
+{
+  "attack_power": "400",
+  "attribute_id": 5,
+  "card_id": 8143,
+  "card_name": "ミンゲイドラゴン",
+  "card_name_label": "ミンゲイドラゴン",
+  "card_name_search": "みんげいどらごん",
+  "card_pen_effect": "",
+  "card_text": "ドラゴン族モンスターをアドバンス召喚する場合、このカードは２体分のリリースとする事ができる。自分のスタンバイフェイズ時にこのカードが墓地に存在し、自分フィールド上にモンスターが存在しない場合、このカードを表側攻撃表示で特殊召喚する事ができる。この効果は自分の墓地にドラゴン族以外のモンスターが存在する場合には発動できない。この効果で特殊召喚したこのカードは、フィールド上から離れた場合ゲームから除外される。",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/09/19",
+  "species_id": 1,
+  "starchip": "2"
+}

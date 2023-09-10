@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 5,
+  "card_id": 14101,
+  "card_name": "Portarruedas Psíquico",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si controlas un monstruo de Nivel 3 que no sea \"Portarruedas Psíquico\", puedes Invocar esta carta de Modo Especial (desde tu mano) en Posición de Defensa. Sólo puedes Invocar de Modo Especial \"Portarruedas Psíquico\" una vez por turno de esta forma. Si esta carta es mandada al Cementerio como Material de Sincronía: puedes seleccionar 1 monstruo en el Campo con menos ATK que el Monstruo de Sincronía que usó esta carta como material; destrúyelo. Sólo puedes usar este efecto de \"Portarruedas Psíquico\" una vez por turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/01/31",
+  "species_id": 21,
+  "starchip": "3"
+}

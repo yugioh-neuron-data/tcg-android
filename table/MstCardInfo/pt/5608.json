@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 5608,
+  "card_name": "Ante",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cada jogador escolhe 1 card da sua própria mão, em seguida, comparam o Nível dos cards escolhidos. O card com maior Nível é devolvido para a mão do jogador que o escolheu. O jogador que escolheu o card com o menor Nível recebes 1000 pontos de dano e envia o card que ele escolheu para o Cemitério. Cards escolhidos que não sejam Cards de Monstro são tratados como Nível 0. Se ambos os jogadores escolheram cards com o mesmo Nível, devolva ambos os cards para a mão dos jogadores que os escolheram.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/03/01",
+  "species_id": 24,
+  "starchip": "0"
+}

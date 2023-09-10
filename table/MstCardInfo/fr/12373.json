@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 5,
+  "card_id": 12373,
+  "card_name": "Acrobra Potartiste",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Une fois par tour, lorsqu'un monstre que vous contrôlez inflige des dommages de combat à votre adversaire : vous pouvez envoyer la carte du dessus du Deck de votre adversaire au Cimetière.",
+  "card_text": "Cette carte peut attaquer directement votre adversaire. Si cette carte attaque, elle est changée en Position de Défense à la fin de la Battle Phase.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "2",
+  "pen_scale_r": "2",
+  "sales_at": "2016/05/26",
+  "species_id": 20,
+  "starchip": "4"
+}

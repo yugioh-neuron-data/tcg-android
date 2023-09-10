@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 2,
+  "card_id": 8783,
+  "card_name": "인터셉트 데몬",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드가 자신 필드 위에 앞면 공격 표시로 존재하는 한, 상대 몬스터의 공격 선언시, 상대 라이프에 500 포인트 데미지를 준다.",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/04/19",
+  "species_id": 3,
+  "starchip": "4"
+}

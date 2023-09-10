@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11170,
+  "card_name": "神縛りの塚",
+  "card_name_label": "かみしばりのつか",
+  "card_name_search": "かみしばりのつか",
+  "card_pen_effect": "",
+  "card_text": "①：フィールドのレベル１０以上のモンスターは効果の対象にならず、効果では破壊されない。②：自分または相手のレベル１０以上のモンスターが戦闘でモンスターを破壊し墓地へ送った場合に発動する。破壊されたモンスターのコントローラーは１０００ダメージを受ける。③：フィールドのこのカードが効果で破壊され墓地へ送られた時に発動できる。デッキから神属性モンスター１体を手札に加える。",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/05/17",
+  "species_id": 24,
+  "starchip": "0"
+}

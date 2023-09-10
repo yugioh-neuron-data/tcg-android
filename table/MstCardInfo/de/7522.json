@@ -1,0 +1,23 @@
+{
+  "attack_power": "-1",
+  "attribute_id": 2,
+  "card_id": 7522,
+  "card_name": "Böser Drache Ananta",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung beschworen werden, indem du alle Reptil-Monster verbannst, die du kontrollierst und die in deinem Friedhof liegen. Die ATK/DEF dieser Karte werden gleich der Anzahl der Monster, die für ihre Spezialbeschwörung verbannt wurden, x 600. Einmal pro Spielzug, während deiner End Phase: Wähle 1 Karte auf dem Spielfeld; zerstöre das gewählte Ziel.",
+  "defense_power": "-1",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/07/31",
+  "species_id": 20,
+  "starchip": "8"
+}

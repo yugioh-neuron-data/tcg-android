@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 3,
+  "card_id": 13244,
+  "card_name": "Sirenide Abyssnereide",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "(Effetto Rapido): puoi scartare questa carta, poi scegliere come bersaglio 1 mostro ACQUA che controlli; distruggi 1 altro mostro ACQUA nella tua mano o Terreno e, se lo fai, il mostro scelto come bersaglio guadagna ATK/DEF pari agli ATK/DEF originali del mostro distrutto, fino alla fine di questo turno. Se questa carta viene mandata dal Terreno al Cimitero: puoi pescare 1 carta, poi scartare 1 carta. Puoi utilizzare ogni effetto di \"Sirenide Abyssnereide\" una sola volta per turno.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/10/19",
+  "species_id": 14,
+  "starchip": "3"
+}

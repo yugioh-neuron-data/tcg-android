@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 3,
+  "card_id": 15331,
+  "card_name": "Gardien Slime",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si vous recevez des dommages de combat ou d'effet : vous pouvez Invoquer Spécialement cette carte depuis votre main. Durant le calcul des dommages, si cette carte combat un monstre de l'adversaire (Effet Rapide) : durant ce calcul des dommages uniquement, vous pouvez faire gagner à cette carte une DEF égale à l'ATK du monstre de l'adversaire. Si cette carte est envoyée depuis la main ou Terrain au Cimetière : vous pouvez ajouter 1 Magie/Piège depuis votre Deck à votre main, qui liste spécifiquement la carte \"Le Dragon Ailé de Râ\" dans son texte. Vous ne pouvez utiliser chaque effet de \"Gardien Slime\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/09/24",
+  "species_id": 14,
+  "starchip": "10"
+}

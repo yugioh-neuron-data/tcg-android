@@ -1,0 +1,23 @@
+{
+  "attack_power": "2600",
+  "attribute_id": 2,
+  "card_id": 7371,
+  "card_name": "ダークエンド・ドラゴン",
+  "card_name_label": "ダークエンド・ドラゴン",
+  "card_name_search": "だーくえんどどらごん",
+  "card_pen_effect": "",
+  "card_text": "チューナー＋チューナー以外の闇属性モンスター１体以上$N１ターンに１度、このカードの攻撃力・守備力を５００ポイントダウンし、相手フィールド上に存在するモンスター１体を墓地へ送る事ができる。",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/08/01",
+  "species_id": 1,
+  "starchip": "8"
+}

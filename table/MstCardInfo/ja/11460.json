@@ -1,0 +1,23 @@
+{
+  "attack_power": "2600",
+  "attribute_id": 2,
+  "card_id": 11460,
+  "card_name": "DDD反骨王レオニダス",
+  "card_name_label": "ディーディーディーはんこつおうレオニダス",
+  "card_name_search": "でぃーでぃーでぃーはんこつおうれおにだす",
+  "card_pen_effect": "①：自分が効果ダメージを受けた時にこの効果を発動できる。このカードを破壊し、さらにこのターン、LPにダメージを与える効果は、LPを回復する効果になる。",
+  "card_text": "①：自分が効果ダメージを受けた時に発動できる。このカードを手札から特殊召喚し、受けたダメージの数値分だけ自分のLPを回復する。②：このカードがモンスターゾーンに存在する限り、自分が受ける効果ダメージは０になる。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2014/08/21",
+  "species_id": 3,
+  "starchip": "7"
+}

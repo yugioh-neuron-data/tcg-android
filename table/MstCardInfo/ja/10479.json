@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 1,
+  "card_id": 10479,
+  "card_name": "閃珖竜 スターダスト",
+  "card_name_label": "せんこうりゅう　スターダスト",
+  "card_name_search": "せんこうりゅうすたーだすと",
+  "card_pen_effect": "",
+  "card_text": "チューナー＋チューナー以外のモンスター１体以上$N１ターンに１度、自分フィールド上に表側表示で存在するカード１枚を選択して発動できる。選択したカードは、このターンに１度だけ戦闘及びカードの効果では破壊されない。この効果は相手ターンでも発動できる。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/01/04",
+  "species_id": 1,
+  "starchip": "8"
+}

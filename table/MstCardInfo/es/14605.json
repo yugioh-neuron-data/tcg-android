@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 14605,
+  "card_name": "Predaplanificación",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Manda al Cementerio 1 monstruo \"Predaplanta\" en tu Deck; pon 1 Contador de Predador en cada monstruo boca arriba en el Campo y, si lo haces, cualquiera de esos monstruos que sea de Nivel 2 o mayor se convierte en Nivel 1 mientras tenga un Contador de Predador. Si Invocas por Fusión un monstruo de OSCURIDAD mientras esta carta esté en tu Cementerio (excepto durante el Damage Step): puedes desterrar esta carta en tu Cementerio, y después seleccionar 1 carta en el Campo; destrúyela. Sólo puedes usar cada efecto de \"Predaplanificación\" una vez por turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/09/26",
+  "species_id": 25,
+  "starchip": "0"
+}

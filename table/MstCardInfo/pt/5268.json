@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 5268,
+  "card_name": "Destruição Cega",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Uma vez por turno, durante sua Fase de Apoio: lance um dado de 6 faces. Se o resultado for de 1 a 5, destrua todos os monstros no campo cujo Nível seja igual ao resultado. Se o resultado for 6, destrua todos os monstros no campo de Nível 6 ou mais.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/10/11",
+  "species_id": 25,
+  "starchip": "0"
+}

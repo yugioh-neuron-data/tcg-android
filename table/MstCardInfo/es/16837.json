@@ -1,0 +1,23 @@
+{
+  "attack_power": "700",
+  "attribute_id": 1,
+  "card_id": 16837,
+  "card_name": "Piecephilia Brillante",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "No puede ser destruido en batalla. Al final del Damage Step, si esta carta batalló con un monstruo del adversario: puedes poner 1 Contador Piece en esta carta (máx. 4), y después puedes aplicar el siguiente efecto, basado en el número de Contadores Piece en ella.$N●1: Pon en la parte superior de tu Deck 1 monstruo en tu Deck.$N●2: Roba 1 carta.$N●3: Añade a tu mano 1 monstruo en tu Deck.$N●4: Añade a tu mano 1 carta en tu Deck.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/02/10",
+  "species_id": 6,
+  "starchip": "4"
+}

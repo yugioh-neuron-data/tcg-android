@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 4,
+  "card_id": 15275,
+  "card_name": "Capitán Roland Infernoble Caballero",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Cantante + 1+ monstruos que no sean Cantantes$NSi esta carta es Invocada por Sincronía: puedes activar este efecto; durante la End Phase de este turno, manda al Cementerio 1 Mágica de Equipo en tu Deck, y después añade a tu mano 1 monstruo Guerrero en tu Deck. Durante la Main Phase, si esta carta está en tu Cementerio (Efecto Rápido): puedes seleccionar 1 monstruo Guerrero que controles; equipa esta carta a ese monstruo que controlas como una Mágica de Equipo que le da 500 ATK. Sólo puedes usar cada efecto de \"Capitán Roland Infernoble Caballero\" una vez por turno.",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 19,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/08/06",
+  "species_id": 15,
+  "starchip": "5"
+}

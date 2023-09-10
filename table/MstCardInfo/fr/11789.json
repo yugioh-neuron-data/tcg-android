@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 5,
+  "card_id": 11789,
+  "card_name": "Chameaunigo Potartiste",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Une fois par tour, durant votre Main Phase 1 : vous pouvez cibler 1 monstre face recto que vous contrôlez ; jusqu'à la fin de ce tour, les monstres actuellement contrôlés par votre adversaire perdent 800 DEF, et s'ils le font, si le monstre ciblé attaque un monstre en Position de Défense ce tour, infligez des dommages de combat perçants à votre adversaire. (Ces effets perdurent même si cette carte quitte le Terrain.)",
+  "card_text": "Si cette carte est détruite au combat : vous pouvez faire perdre 800 ATK au monstre qui a détruit cette carte.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "2",
+  "pen_scale_r": "2",
+  "sales_at": "2015/08/06",
+  "species_id": 11,
+  "starchip": "4"
+}

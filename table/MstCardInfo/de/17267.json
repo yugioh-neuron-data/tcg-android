@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 1,
+  "card_id": 17267,
+  "card_name": "Yakusa, Herr der acht Donner",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Du kannst diese Karte als Spezialbeschwörung (von deiner Hand) beschwören, indem du 1 Monster der Stufe / des Rangs 8 von deinem Friedhof verbannst. Du kannst 1 Ritual-, Fusions-, Synchro- oder Xyz-Monster der Stufe / des Rangs 8 in deinem Friedhof wählen; mische es ins Deck, dann führe den folgenden Effekt aus, abhängig vom Kartentyp des zurückgelegten Monsters.$N●Ritual/Fusion: Ziehe 1 Karte.$N●Synchro/Xyz: Diese Karte erhält 1000 ATK.$NDu kannst diesen Effekt von „Yakusa, Herr der acht Donner“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/05/19",
+  "species_id": 26,
+  "starchip": "8"
+}

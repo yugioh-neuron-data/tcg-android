@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 12783,
+  "card_name": "Dragon de Rage aux Yeux Impairs",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Une fois par tour, si vous n'avez aucune carte dans votre autre Zone Pendule : vous pouvez placer 1 Monstre Pendule depuis votre Deck dans votre Zone Pendule.",
+  "card_text": "2 monstres de Type Dragon de Niveau 7$NSi vous pouvez effectuer une Invocation Pendule de Niveau 7, vous pouvez Invoquer par Pendulation cette carte face recto dans votre Extra Deck. Si cette carte dans la Zone Monstre est détruite : vous pouvez la placer dans votre Zone Pendule. Si cette carte est Invoquée par Xyz en utilisant un Monstre Xyz comme Matériel, elle gagne ces effets.$N●Elle peut faire une seconde attaque durant chaque Battle Phase.$N●Une fois par tour : vous pouvez lui détacher 1 Matériel Xyz ; détruisez autant de cartes contrôlées par votre adversaire que possible, et si vous le faites, cette carte gagne 200 ATK pour chacune d'elles jusqu'à la fin de ce tour.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 34,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2017/02/09",
+  "species_id": 1,
+  "starchip": "7"
+}

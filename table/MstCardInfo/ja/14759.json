@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 3,
+  "card_id": 14759,
+  "card_name": "ドラゴンメイド・ラドリー",
+  "card_name_label": "ドラゴンメイド・ラドリー",
+  "card_name_search": "どらごんめいどらどりー",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功した場合に発動できる。自分のデッキの上からカードを３枚墓地へ送る。②：自分・相手のバトルフェイズ開始時に発動できる。このカードを持ち主の手札に戻し、自分の手札・墓地からレベル７の「ドラゴンメイド」モンスター１体を選んで特殊召喚する。",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/08/03",
+  "species_id": 1,
+  "starchip": "2"
+}

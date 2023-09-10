@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 5,
+  "card_id": 11791,
+  "card_name": "Samurai Superpesado Soplete",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando un monstruo de tu adversario declara un ataque mientras no tienes Cartas Mágicas/de Trampa en tu Cementerio: puedes mandar al Cementerio esta carta en tu mano, y después seleccionar 1 monstruo \"Samurai Superpesado\" que controles; cambia el objetivo del ataque a éste y haz el cálculo de daño. Una vez por turno, cuando un monstruo de tu adversario declara un ataque: puedes cambiar el objetivo del ataque a esta carta y hacer el cálculo de daño. No puede ser destruido en batalla.",
+  "defense_power": "300",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/08/06",
+  "species_id": 7,
+  "starchip": "1"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 1,
+  "card_id": 8606,
+  "card_name": "Collecteur Robot",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "(Effet Rapide) : vous pouvez bannir cette carte sur le Terrain et 1 Piège Normal dans votre Cimetière ; appliquez l'effet du Piège banni. (Les conditions d'activation du Piège doivent toujours être correctes, mais les coûts ne sont pas payés.)",
+  "defense_power": "2200",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/08/30",
+  "species_id": 15,
+  "starchip": "5"
+}

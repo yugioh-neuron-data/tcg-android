@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 3,
+  "card_id": 8318,
+  "card_name": "フィッシュボーグ－ガンナー",
+  "card_name_label": "フィッシュボーグ－ガンナー",
+  "card_name_search": "ふぃっしゅぼーぐがんなー",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上にレベル３以下の水属性モンスターが存在する場合、手札を１枚捨てて発動できる。このカードを墓地から特殊召喚する。このカードをシンクロ素材とする場合、他のシンクロ素材モンスターは全て水属性モンスターでなければならない。",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/04/18",
+  "species_id": 8,
+  "starchip": "1"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1900",
+  "attribute_id": 5,
+  "card_id": 6854,
+  "card_name": "사이버 오우거",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드를 패에서 묘지에 버린다. 자신 필드 위에 존재하는 \"사이버 오우거\" 1장이 실행하는 전투를 1번만 무효로 하고, 다시 다음 전투 종료시까지 공격력은 2000 포인트 올린다. 이 효과는 상대 턴에도 발동할 수 있다.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/12/21",
+  "species_id": 7,
+  "starchip": "5"
+}

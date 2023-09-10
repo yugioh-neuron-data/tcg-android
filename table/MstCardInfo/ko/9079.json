@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 1,
+  "card_id": 9079,
+  "card_name": "거울 무당벌레",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "자신 필드 위에 앞면 표시로 몬스터가 1장 이상 존재하고, 자신의 묘지에 몬스터가 존재하지 않을 경우, 이 카드는 패에서 특수 소환할 수 있다. 이 효과로 특수 소환에 성공했을 때, 이 카드의 레벨은 이 카드 이외의 자신 필드 위에 존재하는 몬스터 레벨을 합계한 레벨이 된다. 또한, 필드 위에 앞면 표시로 존재하는 이 카드의 레벨이 12를 넘었을 경우, 이 카드를 파괴한다.",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/10/20",
+  "species_id": 10,
+  "starchip": "1"
+}

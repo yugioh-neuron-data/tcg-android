@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 5766,
+  "card_name": "黒蠍－棘のミーネ",
+  "card_name_label": "くろさそり－いばらのミーネ",
+  "card_name_search": "くろさそりいばらのみーね",
+  "card_pen_effect": "",
+  "card_text": "①：このカードが相手に戦闘ダメージを与えた時、以下の効果から１つを選択して発動できる。$N●デッキから「黒蠍」カード１枚を手札に加える。$N●自分の墓地の「黒蠍」カード１枚を対象として発動できる。そのカードを手札に加える。",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2003/02/20",
+  "species_id": 15,
+  "starchip": "4"
+}

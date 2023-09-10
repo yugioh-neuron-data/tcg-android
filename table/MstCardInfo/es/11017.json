@@ -1,0 +1,23 @@
+{
+  "attack_power": "3600",
+  "attribute_id": 1,
+  "card_id": 11017,
+  "card_name": "Número C9: Esfera de Dyson del Caos",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "3 monstruos de Nivel 10$NAl comienzo del Damage Step, si esta carta batalla con un monstruo de tu adversario: puedes acoplar ese monstruo a esta carta como un Material Xyz boca arriba. Una vez por turno: puedes infligir 300 puntos de daño a tu adversario por cada Material Xyz acoplado a esta carta. Si esta carta tiene a \"Número 9: Esfera de Dyson\" como Material Xyz, gana este efecto.$N●Una vez por turno: puedes desacoplar de esta carta cualquier cantidad de Materiales Xyz; inflige 800 puntos de daño a tu adversario por cada uno.",
+  "defense_power": "3200",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/03/27",
+  "species_id": 7,
+  "starchip": "10"
+}

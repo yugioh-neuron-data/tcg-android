@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 5,
+  "card_id": 11333,
+  "card_name": "Artistamico Talpagioia",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Tutti i Mostri Pendulum che controlli guadagnano 300 ATK.",
+  "card_text": "Puoi scegliere come bersaglio 1 mostro il cui ATK attuale è diverso dal suo ATK originale; applica l'effetto appropriato. Puoi utilizzare questo effetto di \"Artistamico Talpagioia\" una sola volta per turno.$N●Se l'ATK attuale di quel mostro è superiore al suo ATK originale, esso guadagna 1000 ATK.$N●Se l'ATK attuale di quel mostro è inferiore al suo ATK originale, esso perde 1000 ATK.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2014/11/06",
+  "species_id": 11,
+  "starchip": "2"
+}

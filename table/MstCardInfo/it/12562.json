@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 12562,
+  "card_name": "Fiore Cardian Pioggia di Luce",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Tuner + 3 mostri non-Tuner$NIl tuo avversario non può scegliere come bersaglio i mostri \"Fiore Cardian\" che controlli con gli effetti delle carte, inoltre quei mostri non possono essere distrutti dagli effetti delle carte. Durante la Draw Phase del tuo avversario, se pesca uno o più carte per la sua pescata normale: infliggi 1500 danni al tuo avversario. Una volta per turno, durante la End Phase del tuo avversario: attiva 1 di questi effetti;$N●Salta la Draw Phase del tuo prossimo turno.$N●Annulla gli altri effetti di questa carta fino alla prossima Standby Phase del tuo avversario.",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/08/18",
+  "species_id": 15,
+  "starchip": "8"
+}

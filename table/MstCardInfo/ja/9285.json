@@ -1,0 +1,23 @@
+{
+  "attack_power": "400",
+  "attribute_id": 5,
+  "card_id": 9285,
+  "card_name": "カラクリ樽 真九六",
+  "card_name_label": "カラクリだる　シンクロー",
+  "card_name_search": "からくりだるしんくろー",
+  "card_pen_effect": "",
+  "card_text": "このカードは攻撃可能な場合には攻撃しなければならない。フィールド上に表側攻撃表示で存在するこのカードが攻撃対象に選択された時、このカードの表示形式を守備表示にする。このカードは１ターンに１度だけ、戦闘では破壊されない。",
+  "defense_power": "400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/09/17",
+  "species_id": 7,
+  "starchip": "2"
+}

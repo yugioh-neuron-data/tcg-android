@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14786,
+  "card_name": "베이오넷 퍼니셔",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 자신의 필드 / 묘지의 \"바렐\" 몬스터 종류에 따라, 이하의 효과를 적용한다. 자신 필드에 공격력 3000 이상의 몬스터가 존재할 경우, 이 카드의 발동에 대하여 상대는 효과를 발동할 수 없다.$N●융합: 상대 필드의 몬스터 1장을 골라 제외한다.$N●싱크로: 상대의 엑스트라 덱에서 뒷면 표시의 카드를 무작위로 3장 제외한다.$N●엑시즈: 상대 필드의 마법 / 함정 카드 1장을 골라 제외한다.$N●링크: 상대 묘지에서 카드를 3장까지 골라 제외한다.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/11/27",
+  "species_id": 24,
+  "starchip": "0"
+}

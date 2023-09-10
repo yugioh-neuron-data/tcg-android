@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 1,
+  "card_id": 6771,
+  "card_name": "Neo-Spacian Glow Moss",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "If this card attacks or is attacked: Your opponent draws 1 card and shows it, then, based on its type apply this effect.$N●Monster: End the Battle Phase of this turn.$N●Spell: If this card is attacking, you can change it to a direct attack instead.$N●Trap: Change this card to Defense Position.",
+  "defense_power": "900",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/02/28",
+  "species_id": 13,
+  "starchip": "3"
+}

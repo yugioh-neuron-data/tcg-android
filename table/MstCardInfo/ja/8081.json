@@ -1,0 +1,23 @@
+{
+  "attack_power": "-1",
+  "attribute_id": 1,
+  "card_id": 8081,
+  "card_name": "RAI－JIN",
+  "card_name_label": "ライ－ジン",
+  "card_name_search": "らいじん",
+  "card_pen_effect": "",
+  "card_text": "このカードがフィールド上に表側表示で存在する限り、自分フィールド上の光属性モンスターの攻撃力は、自分の墓地の光属性モンスターの数×１００ポイントアップする。また、自分のエンドフェイズ毎に発動する。自分フィールド上の光属性モンスター１体を選択して破壊する。「RAI－JIN」はフィールド上に１体しか表側表示で存在できない。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/09/19",
+  "species_id": 19,
+  "starchip": "4"
+}

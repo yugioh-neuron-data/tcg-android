@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 3,
+  "card_id": 7339,
+  "card_name": "Dragon des Profondeurs Brontomanta",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cette carte est traitée comme un Monstre Normal lorsqu'elle est face recto sur le Terrain ou se trouve dans le Cimetière. Lorsque cette carte est face recto sur le Terrain, vous pouvez l'Invoquer Normalement pour la transformer en Monstre à Effet avec l'effet suivant :$N ●L'ATK d'origine de cette carte devient 2300. Lorsque cette carte attaque, passez-la en Position de Défense à la fin de la Battle Phase. La position de combat de cette carte ne peut pas être changée jusqu'à la fin de votre prochain tour, excepté par l'effet d'une carte.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 9,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/08/04",
+  "species_id": 8,
+  "starchip": "4"
+}

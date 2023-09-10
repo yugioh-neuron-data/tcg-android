@@ -1,0 +1,23 @@
+{
+  "attack_power": "900",
+  "attribute_id": 2,
+  "card_id": 14450,
+  "card_name": "Transversal de Depuración",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si controlas 2 o más Monstruos de Enlace: puedes Invocar esta carta de Modo Especial desde tu mano. Durante el cálculo de daño, si tu Monstruo de Enlace batalla con un Monstruo de Enlace del adversario (Efecto Rápido): puedes desterrar esta carta en tu Cementerio, y después seleccionar 1 Monstruo de Enlace en tu Cementerio; tu monstruo batallante no puede ser destruido en esa batalla y además, hasta el final de este turno, éste gana ATK igual al ATK del objetivo. Sólo puedes usar cada efecto de \"Transversal de Depuración\" una vez por turno.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/07/26",
+  "species_id": 27,
+  "starchip": "2"
+}

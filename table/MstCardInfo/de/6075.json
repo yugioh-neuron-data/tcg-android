@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 2,
+  "card_id": 6075,
+  "card_name": "Gesicht des Todes",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls diese Karte als Normalbeschwörung beschworen wird: Mische alle verbannten Karten ins Deck. Diese Karte erhält für jede Karte, die durch diesen Effekt ins Main Deck gemischt wird, 100 ATK. Falls diese Karte verbannt wird: Jeder Spieler verbannt die obersten 5 Karten seines Decks (oder sein gesamtes Deck, falls weniger als 5).",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/11/12",
+  "species_id": 2,
+  "starchip": "4"
+}

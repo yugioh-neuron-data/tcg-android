@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 8488,
+  "card_name": "Armure de Noyau d'Énergie",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Équipable uniquement à un monstre \"Koa'ki Meiru\". Durant le calcul des dommages uniquement, les monstres qui combattent avec le monstre équipé perdent un montant d'ATK égal au Niveau du monstre équipé x 100. Si le monstre équipé doit être détruit durant la End Phase, vous pouvez envoyer cette carte au Cimetière à la place.",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/11/12",
+  "species_id": 24,
+  "starchip": "0"
+}

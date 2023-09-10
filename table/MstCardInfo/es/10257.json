@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 3,
+  "card_id": 10257,
+  "card_name": "Molinglaciar el Señor Elemental",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial (desde tu mano) teniendo exactamente 5 monstruos de AGUA en tu Cementerio. Si esta carta es Invocada de Modo Especial: descarta 2 cartas al azar de la mano de tu adversario (o toda su mano si tiene menos de 2 cartas). Sólo puedes usar este efecto de \"Molinglaciar el Señor Elemental\" una vez por turno. Si esta carta boca arriba deja el Campo, sáltate la Battle Phase de tu próximo turno.",
+  "defense_power": "2200",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/11/08",
+  "species_id": 5,
+  "starchip": "8"
+}

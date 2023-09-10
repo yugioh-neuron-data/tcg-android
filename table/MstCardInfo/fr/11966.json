@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 1,
+  "card_id": 11966,
+  "card_name": "Chevalier du Commencement",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Un monstre \"Soldat du Lustre Noir\" Invoqué Rituellement en utilisant cette carte gagne ces effets. Vous ne pouvez utiliser cet effet de \"Chevalier du Commencement\" qu'une fois par tour.$N●Une fois par tour : vous pouvez cibler 1 monstre contrôlé par votre adversaire ; bannissez-le.$N●Lorsque cette carte détruit un monstre de votre adversaire au combat et l'envoie au Cimetière : vous pouvez activer cet effet ; cette carte peut attaquer une seconde fois à la suite.$NSi cette carte est bannie depuis le Cimetière : vous pouvez ajouter 1 Carte Magie Rituelle depuis votre Deck à votre main. Vous ne pouvez utiliser cet effet de \"Chevalier du Commencement\" qu'une fois par tour.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/11/05",
+  "species_id": 15,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 13357,
+  "card_name": "竜騎士ブラック・マジシャン",
+  "card_name_label": "りゅうきしブラック・マジシャン",
+  "card_name_search": "りゅうきしぶらっくまじしゃん",
+  "card_pen_effect": "",
+  "card_text": "「ブラック・マジシャン」＋ドラゴン族モンスター$N①：このカードのカード名は、フィールド・墓地に存在する限り「ブラック・マジシャン」として扱う。②：このカードがモンスターゾーンに存在する限り、自分フィールドの魔法・罠カードは相手の効果の対象にならず、相手の効果では破壊されない。",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/02/10",
+  "species_id": 1,
+  "starchip": "8"
+}

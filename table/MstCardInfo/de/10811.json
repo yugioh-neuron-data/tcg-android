@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 10811,
+  "card_name": "GROSSER Gewinn?",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Benenne eine Stufe zwischen 1 und 12; jeder Spieler wirft eine Münze und falls beide Ergebnisse Kopf sind, werden die Stufen aller offenen Monster, die du derzeit kontrollierst, zur benannten Stufe. Falls beide Zahl sind, verlierst du Life Points in Höhe der benannten Stufe x 500.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/11/07",
+  "species_id": 25,
+  "starchip": "0"
+}

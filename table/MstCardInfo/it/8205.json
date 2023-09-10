@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 8205,
+  "card_name": "Doppio Attrezzo Taglio & Perforazione",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Equipaggia solo a \"Drago Utensile\" o ad un mostro \"Morfotronico\" di Tipo Macchina di Livello 4 o superiore che controlli. Fino a quando è equipaggiato:$N● Durante il tuo turno: Esso guadagna 1000 ATK. Se attacca, qualsiasi effetto del bersaglio dell'attacco che si attiva o si applica sul Terreno viene annullato durante quella Battle Phase.$N● Durante il turno del tuo avversario: Il tuo avversario non può scegliere un mostro diverso da quello equipaggiato come bersaglio di un attacco. Un mostro dell'avversario che combatte con il mostro equipaggiato viene distrutto alla fine del Damage Step.",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/06/04",
+  "species_id": 24,
+  "starchip": "0"
+}

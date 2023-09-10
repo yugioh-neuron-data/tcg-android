@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 2,
+  "card_id": 5777,
+  "card_name": "Archidemonio Rey del Terror",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "No puede ser Invocado de Modo Normal o por Volteo a menos que controles un monstruo \"Archidemonio\". Una vez por turno, durante tu Standby Phase, debes pagar 800 LP (esto no es opcional), o esta carta es destruida. Al resolver el efecto de una carta del adversario que seleccione esta carta, lanza un dado de seis caras y niega ese efecto si sale 2 o 5 y, si lo haces, destruye esa carta. Niega los efectos de los Monstruos de Efecto destruidos en batalla con esta carta (incluyendo en el Cementerio).",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/03/19",
+  "species_id": 3,
+  "starchip": "4"
+}

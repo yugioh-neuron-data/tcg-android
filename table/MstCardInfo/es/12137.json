@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 3,
+  "card_id": 12137,
+  "card_name": "Dinoniebla Rex",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Una vez, mientras esta carta está en tu Zona de Péndulo, puedes negar el efecto activado de una carta que seleccione a otra u otras cartas \"Dinoniebla\" que controles, y después destruye esta carta.",
+  "card_text": "Si esta carta ataca, al final del Damage Step: puedes Sacrificar otro monstruo \"Dinoniebla\", y después activar 1 de estos efectos;$N●Esta carta puede atacar a un monstruo de tu adversario una vez más, y si ataca a un monstruo en Posición de Defensa, inflige daño de batalla de penetración a tu adversario.$N●Baraja al Deck 1 carta en la mano de tu adversario (al azar) o en su lado del Campo, y después esta carta gana 100 ATK.",
+  "defense_power": "2200",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "6",
+  "pen_scale_r": "6",
+  "sales_at": "2016/01/14",
+  "species_id": 7,
+  "starchip": "5"
+}

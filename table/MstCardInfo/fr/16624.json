@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 2,
+  "card_id": 16624,
+  "card_name": "Pazuzule",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Une fois par tour : vous pouvez cibler 1 carte dans votre autre Zone Pendule ; l'Échelle Pendule de cette carte devient du Niveau de la Carte Monstre Pendule jusqu'à la fin de ce tour, et aussi, vous ne pouvez pas Invoquer Spécialement le reste de ce tour, sauf par Invocation Pendule.",
+  "card_text": "Les Invocations Pendule de vos monstres ne peuvent pas être annulées.",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2021/08/12",
+  "species_id": 3,
+  "starchip": "1"
+}

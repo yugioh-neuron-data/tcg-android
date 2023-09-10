@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 1,
+  "card_id": 11695,
+  "card_name": "Cavaleirostélite Zefrathuban",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Você não pode Invocar monstros por Invocação-Pêndulo, exceto monstros \"Cavaleirost\" e \"Zefra\". Este efeito não pode ser negado.",
+  "card_text": "Se este card for Invocado por Invocação-Normal, Virar ou Pêndulo: você pode escolher 1 outro card \"Cavaleirost\" ou \"Zefra\" nas suas Zonas de Monstro ou Zonas de Pêndulo e 1 card com a face para cima que seu oponente controla; destrua-os. Você só pode usar este efeito de \"Cavaleirostélite Zefrathuban\" uma vez por turno.",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2015/05/14",
+  "species_id": 15,
+  "starchip": "4"
+}

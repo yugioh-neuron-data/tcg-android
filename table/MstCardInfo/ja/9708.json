@@ -1,0 +1,23 @@
+{
+  "attack_power": "4000",
+  "attribute_id": 1,
+  "card_id": 9708,
+  "card_name": "究極時械神セフィロン",
+  "card_name_label": "きゅうきょくじかいしんセフィロン",
+  "card_name_search": "きゅうきょくじかいしんせふぃろん",
+  "card_pen_effect": "",
+  "card_text": "このカードは通常召喚できない。自分の墓地にモンスターが１０体以上存在する場合のみ特殊召喚する事ができる。１ターンに１度、レベル８以上の天使族モンスター１体を自分の手札・墓地から特殊召喚する事ができる。この効果で特殊召喚したモンスターの効果は無効化され、攻撃力は４０００になる。",
+  "defense_power": "4000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/03/25",
+  "species_id": 17,
+  "starchip": "10"
+}

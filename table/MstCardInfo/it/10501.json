@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 4,
+  "card_id": 10501,
+  "card_name": "Pugile Indomito Contraccolpo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante il Damage Step del turno di qualsiasi giocatore, quando un mostro \"Pugile Indomito\" che controlli sta attaccando o venendo attaccato: puoi bandire questa carta dalla tua mano o Cimitero; quel mostro guadagna 1000 ATK, fino alla fine di questo turno. Puoi utilizzare l'effetto di \"Pugile Indomito Contraccolpo\" una sola volta per turno.",
+  "defense_power": "1100",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/05/16",
+  "species_id": 15,
+  "starchip": "3"
+}

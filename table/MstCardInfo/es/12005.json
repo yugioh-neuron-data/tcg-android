@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 12005,
+  "card_name": "Recarga del Caballerígneo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Muestra cualquier número de Monstruos de Péndulo en tu mano y barájalos al Deck, y después roba una cantidad de cartas igual al número de cartas que barajaste al Deck + 1. Por el resto de este turno después de que esta carta se resuelva, no puedes robar cartas por efectos de cartas. Sólo puedes activar 1 \"Recarga del Caballerígneo\" por turno.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/11/05",
+  "species_id": 24,
+  "starchip": "0"
+}

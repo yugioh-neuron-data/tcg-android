@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 16884,
+  "card_name": "Imprudent Intrusion",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Your LP must be lower than your opponent's to activate and to resolve this effect.$NActivate 1 of these effects;$N●Destroy 1 monster your opponent controls with ATK less than or equal to the difference in LP.$N●Special Summon 1 monster from your GY with ATK less than or equal to the difference in LP.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/02/10",
+  "species_id": 25,
+  "starchip": "0"
+}

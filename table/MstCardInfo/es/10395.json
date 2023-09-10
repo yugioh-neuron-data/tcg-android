@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 2,
+  "card_id": 10395,
+  "card_name": "Parca de la Profecía",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando esta carta es Invocada de Modo Normal o Especial: puedes activar este efecto; aplica tantos efectos como sea posible, dependiendo de la cantidad de Cartas Mágicas \"Libro de Magia\" con nombres diferentes en tu Cementerio. Sólo puedes usar el efecto de \"Parca de la Profecía\" una vez por turno.$N●3 o más: Esta carta gana 600 ATK.$N●4 o más: Añade a tu mano, desde tu Deck, 1 Carta Mágica \"Libro de Magia\".$N●5 o más: Invoca de Modo Especial, desde tu Deck, 1 monstruo de OSCURIDAD de Tipo Lanzador de Conjuros de Nivel 5 o mayor.",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/01/24",
+  "species_id": 18,
+  "starchip": "6"
+}

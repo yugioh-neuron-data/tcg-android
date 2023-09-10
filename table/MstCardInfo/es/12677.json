@@ -1,0 +1,23 @@
+{
+  "attack_power": "2700",
+  "attribute_id": 5,
+  "card_id": 12677,
+  "card_name": "Hidra de Mecanismo Antiguo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Al final del Damage Step, cuando esta carta que fue Invocada por Sacrificio Sacrificando un monstruo \"Mecanismo Antiguo\" batalle con un monstruo del adversario, pero el monstruo del adversario no sea destruido en batalla: puedes desterrar ese monstruo del adversario. Si esta carta fue Invocada por Sacrificio Sacrificando un monstruo \"Artilugio\", ésta puede atacar a todos los monstruos que controle tu adversario, una vez cada uno. Si un monstruo \"Mecanismo Antiguo\" que controlas ataca, hasta el final del Damage Step tu adversario no puede activar Cartas Mágicas/de Trampa ni efectos de monstruo.",
+  "defense_power": "1700",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/04/13",
+  "species_id": 7,
+  "starchip": "7"
+}

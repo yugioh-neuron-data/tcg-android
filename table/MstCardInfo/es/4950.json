@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 4950,
+  "card_name": "Arriesgar",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Solo puedes activar esta carta cuando tu adversario tiene 6 o más cartas en su mano y tu mano contiene 2 o menos. Lanza una moneda y elige cara o cruz. Si aciertas, roba cartas hasta que tengas 5 en tu mano. Si fallas, saltate tu próximo turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/12/01",
+  "species_id": 25,
+  "starchip": "0"
+}

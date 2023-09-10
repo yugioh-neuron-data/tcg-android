@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 8851,
+  "card_name": "파워 브레이크",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "①: 자신 필드에 \"파워 툴 드래곤\"이 존재할 경우, 자신의 필드 / 묘지의 장착 카드를 3장까지 대상으로 하고 발동할 수 있다. 그 카드를 주인의 덱으로 되돌리고, 되돌린 수 × 500 데미지를 상대에게 준다.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/04/19",
+  "species_id": 25,
+  "starchip": "0"
+}

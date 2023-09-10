@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 2,
+  "card_id": 9713,
+  "card_name": "暗黒界の術師 スノウ",
+  "card_name_label": "あんこくかいのじゅつし スノウ",
+  "card_name_search": "あんこくかいのじゅつしすのう",
+  "card_pen_effect": "",
+  "card_text": "①：このカードが効果で手札から墓地へ捨てられた場合に発動する。デッキから「暗黒界」カード１枚を手札に加える。相手の効果で捨てられた場合、発動時に相手の墓地のモンスター１体を対象にできる。その場合、さらに以下の効果を適用する。$N●対象のモンスターを自分フィールドに守備表示で特殊召喚する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/06/18",
+  "species_id": 3,
+  "starchip": "4"
+}

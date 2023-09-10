@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 13175,
+  "card_name": "Amazonischer Ansturm",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Einmal pro Spielzug, während der Battle Phase: Du kannst 1 „Amazonisch“-Monster als Spezialbeschwörung von deiner Hand beschwören und falls du dies tust, erhält es bis zum Ende dieses Spielzugs 500 ATK (selbst falls diese Karte das Spielfeld verlässt). Nach der Schadensberechnung, falls dein „Amazonisch“-Monster gegen ein Monster eines Gegners gekämpft hat, solange diese Karte bereits offen in deiner Zauber- & Fallenzone liegt: Du kannst das Monster des Gegners verbannen. Falls diese Karte auf dem Spielfeld zerstört und auf den Friedhof gelegt wird: Du kannst 1 „Amazonisch“-Monster in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/09/07",
+  "species_id": 25,
+  "starchip": "0"
+}

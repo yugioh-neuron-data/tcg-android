@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 2,
+  "card_id": 18161,
+  "card_name": "Abgrundschauspieler - Freiheitsautorin",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Wenn ein Monster einen Angriff deklariert: Du kannst 1 Karte abwerfen; beschwöre diese Karte als Spezialbeschwörung auf die Spielfeldseite deines Gegners. Du kannst diesen Effekt von „Abgrundschauspieler - Freiheitsautorin“ nur einmal pro Spielzug verwenden.",
+  "card_text": "Falls diese Karte als Spezialbeschwörung von der Pendelzone beschworen wird: Der Besitzer dieser Karte zeigt 3 „Abgrundskript“-Zauber von seinem Deck vor, sein Gegner bestimmt zufällig 1, die der Besitzer dieser Karte auf seine Spielfeldseite setzt (aber der Besitzer zerstört sie während der End Phase), zusätzlich mische den Rest ins Deck. Falls diese Karte zerstört wird: Du kannst 1 „Abgrundskript“-Zauber von deinem Friedhof ins Deck mischen. Du kannst jeden Effekt von „Abgrundschauspieler - Freiheitsautorin“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "8",
+  "pen_scale_r": "8",
+  "sales_at": "2023/02/06",
+  "species_id": 3,
+  "starchip": "4"
+}

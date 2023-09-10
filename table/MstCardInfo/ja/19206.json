@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 19206,
+  "card_name": "Concours de Cuisine～菓冷なる料理対決～",
+  "card_name_label": "コンクール・ド・キュイジーヌ～かれいなるりょうりたいけつ～",
+  "card_name_search": "こんくーるどきゅいじーぬかれいなるりょうりたいけつ",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。$N①：手札・デッキ・EXデッキから「ヌーベルズ」Pモンスター１体と「聖菓使」Pモンスター１体を選び、お互いのフィールドに１体ずつ特殊召喚する。このターン、自分は「ヌーベルズ」モンスター及び「聖菓使」モンスターしか融合・S・X・L召喚の素材にできない。$N②：自分メインフェイズに墓地のこのカードを除外し、フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターの攻撃力はお互いの墓地の「レシピ」カードの数×２００アップする。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/07/22",
+  "species_id": 24,
+  "starchip": "0"
+}

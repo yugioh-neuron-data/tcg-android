@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10276,
+  "card_name": "Projection Gravitationnelle",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Équipable uniquement à un monstre de Type Machine. Une fois par tour : vous pouvez activer cet effet ; il gagne définitivement 400 ATK. (Ce gain d'ATK reste même si cette carte quitte le Terrain ou si le monstre n'est plus affecté par des effets de carte). S'il combat un monstre de votre adversaire, durant la Battle Phase uniquement, l'effet du monstre est annulé.",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/11/08",
+  "species_id": 24,
+  "starchip": "0"
+}

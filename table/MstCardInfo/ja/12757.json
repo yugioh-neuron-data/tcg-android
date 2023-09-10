@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 6,
+  "card_id": 12757,
+  "card_name": "霊魂鳥－忍鴉",
+  "card_name_label": "エスプリット・バード－しのびがらす",
+  "card_name_search": "えすぷりっとばーどしのびがらす",
+  "card_pen_effect": "",
+  "card_text": "このカードは特殊召喚できない。①：１ターンに１度、このカードが相手モンスターと戦闘を行うダメージステップ開始時からダメージ計算前までに、手札からスピリットモンスター１体を捨てて発動できる。このカードの攻撃力・守備力はバトルフェイズ終了時まで、捨てたモンスターの攻撃力・守備力のそれぞれの数値分アップする。②：このカードが召喚・リバースしたターンのエンドフェイズに発動する。このカードを持ち主の手札に戻す。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 7,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/10/08",
+  "species_id": 16,
+  "starchip": "4"
+}

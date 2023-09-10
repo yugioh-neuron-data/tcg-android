@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 4,
+  "card_id": 6476,
+  "card_name": "Infernaler Entflammer",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Diese Karte kann nur als Normalbeschwörung beschworen oder gesetzt werden, indem du alle Karten aus deiner Hand außer dieser Karte abwirfst und ein Monster mit einer ATK von 2000 Punkten oder mehr von deiner Spielfeldseite als Tribut anbietest. Erhöhe die ATK dieses Monsters um 200 Punkte für jedes Monster auf der Spielfeldseite deines Gegners. Verringere die ATK dieses Monsters um 500 Punkte für jedes Monster, außer dieser Karte, auf deiner Spielfeldseite.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/11/01",
+  "species_id": 3,
+  "starchip": "6"
+}

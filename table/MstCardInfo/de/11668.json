@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 11668,
+  "card_name": "Raketenhand",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wähle 1 Monster mit 800 oder mehr ATK in Angriffsposition, das du kontrollierst; rüste das gewählte Ziel mit dieser Karte aus. Es erhält 800 ATK. Du kannst diese ausrüstende Karte auf den Friedhof legen und dann 1 offene Karte auf dem Spielfeld wählen; zerstöre sie, dann ändere die ATK des Monsters, das diese Karte ausgerüstet hat, zu 0, zusätzlich kann seine Kampfposition nicht geändert werden. Du kannst nur 1 Effekt von „Raketenhand“ pro Spielzug verwenden und in dem Spielzug nur einmal.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/02/09",
+  "species_id": 25,
+  "starchip": "0"
+}

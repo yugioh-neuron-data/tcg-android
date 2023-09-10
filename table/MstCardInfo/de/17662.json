@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 17662,
+  "card_name": "Gravitationsgleichgewicht",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "(Diese Karte wird immer als „G-Golem“-Karte behandelt.)$NWähle 2 deiner ERDE Monster mit demselben Namen, die verbannt sind oder sich in deinem Friedhof befinden; beschwöre beide als Spezialbeschwörung in die Verteidigungsposition, aber annulliere ihre Effekte, ändere ihre ATK/DEF zu 0, zusätzlich zerstöre sie während der End Phase. Falls ein oder mehr „G-Golem“-Monster, die du kontrollierst, durch Kampf oder einen Karteneffekt eines Gegners zerstört würden, kannst du stattdessen diese Karte von deinem Friedhof verbannen. Du kannst jeden Effekt von „Gravitationsgleichgewicht“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/11/17",
+  "species_id": 24,
+  "starchip": "0"
+}

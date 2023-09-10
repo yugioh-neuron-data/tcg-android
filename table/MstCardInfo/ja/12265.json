@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 12265,
+  "card_name": "九十九スラッシュ",
+  "card_name_label": "つくもスラッシュ",
+  "card_name_search": "つくもすらっしゅ",
+  "card_pen_effect": "",
+  "card_text": "「九十九スラッシュ」は１ターンに１枚しか発動できない。①：自分のモンスターが、そのモンスターよりも攻撃力の高いモンスターに攻撃するダメージ計算時に発動できる。その戦闘を行う自分のモンスターの攻撃力は、そのダメージ計算時のみ自分と相手のLPの差の数値分アップする。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/12/19",
+  "species_id": 24,
+  "starchip": "0"
+}

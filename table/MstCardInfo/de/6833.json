@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 6833,
+  "card_name": "Cyberfinsternis Drache",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "„Cyberfinsternis Horn“ + „Cyberfinsternis Zacke“ + „Cyberfinsternis Knochen“$NMuss als Fusionsbeschwörung beschworen werden. Falls diese Karte als Spezialbeschwörung beschworen wird: Wähle 1 Drache-Monster in deinem Friedhof; rüste diese Karte mit dem gewählten Ziel aus. Diese Karte erhält ATK in Höhe der Grund-ATK des Monsters, mit dem sie durch diesen Effekt ausgerüstet ist. Erhält für jedes Monster in deinem Friedhof 100 ATK. Falls diese Karte durch Kampf zerstört würde, zerstöre stattdessen das ausrüstende Monster.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/11/15",
+  "species_id": 7,
+  "starchip": "8"
+}

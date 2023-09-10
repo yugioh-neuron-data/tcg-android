@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 1,
+  "card_id": 15026,
+  "card_name": "Augoeides, o Invokado",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"Aleister, Aquele que Invoka\" + 1 Monstro de Fusão$NSe este card for Invocado por Invocação-Especial ou se um ou mais monstros forem Invocados por Invocação-Especial no campo do seu oponente: você pode escolher 1 monstro que seu oponente controla; destrua-o. Você só pode usar este efeito de \"Augoeides, o Invokado\" uma vez por turno. Uma vez por turno: você pode banir 1 Monstro de Fusão do seu Cemitério; até o final do turno do seu oponente, este card ganha ATK igual ao ATK desse monstro banido.",
+  "defense_power": "2800",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/30",
+  "species_id": 17,
+  "starchip": "8"
+}

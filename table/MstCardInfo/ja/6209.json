@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 6209,
+  "card_name": "与奪の首飾り",
+  "card_name_label": "よだつのくびかざり",
+  "card_name_search": "よだつのくびかざり",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上の装備モンスターが戦闘によって破壊されこのカードが墓地に送られた時、次の効果から１つを選択して発動する。$N●デッキからカードを１枚ドローする。$N●相手の手札をランダムに１枚墓地に捨てる。",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/08/05",
+  "species_id": 24,
+  "starchip": "0"
+}

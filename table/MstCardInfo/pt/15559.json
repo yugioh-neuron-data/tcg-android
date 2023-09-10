@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 15559,
+  "card_name": "Um ou Oito",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se você tiver menos PV que seu oponente: revele o card do topo do seu Deck e, se for de Nível 1 ou 8, adicione-o à sua mão ou Invoque-o por Invocação-Especial. Caso contrário, seu oponente pode aplicar 1 desses efeitos.$N●Os PV do duelista que ativou este card se tornam 1000.$N●O oponente do duelista que ativou este card ganha PV até que eles se tornem 8000.$NVocê só pode ativar 1 \"Um ou Oito\" por turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/11/05",
+  "species_id": 25,
+  "starchip": "0"
+}

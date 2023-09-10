@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 4,
+  "card_id": 10501,
+  "card_name": "BK カウンターブロー",
+  "card_name_label": "バーニングナックラー　カウンターブロー",
+  "card_name_search": "ばーにんぐなっくらーかうんたーぶろー",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上の「BK」と名のついたモンスターが戦闘を行うダメージステップ時に手札または墓地のこのカードをゲームから除外して発動できる。そのモンスターの攻撃力はエンドフェイズ時まで１０００ポイントアップする。「BK カウンターブロー」の効果は１ターンに１度しか使用できない。",
+  "defense_power": "1100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/02/16",
+  "species_id": 15,
+  "starchip": "3"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 7504,
+  "card_name": "Cassimolar",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "When this card is Normal Summoned: You can target 1 face-up monster your opponent controls; it gains ATK equal to its original ATK, also during the End Phase of the next turn, destroy that face-up monster, and if you do, your opponent takes damage equal to half its original ATK. At the start of your opponent's Battle Phase: You can Tribute this Normal Summoned/Set card; your opponent's monsters cannot attack directly for the rest of this turn.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/02/06",
+  "species_id": 3,
+  "starchip": "3"
+}

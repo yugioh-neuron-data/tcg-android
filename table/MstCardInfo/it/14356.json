@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 2,
+  "card_id": 14356,
+  "card_name": "Ladro del Tempo Redoer",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 mostri di Livello 4$NUna volta per turno, durante la Standby Phase: puoi attaccare la prima carta del Deck del tuo avversario a questa carta come materiale. (Effetto Rapido): puoi staccare fino a 3 tipi diversi di materiali da questa carta, poi applicare i seguenti effetti a seconda di cosa è stato staccato.$N●Mostro: Bandisci questa carta fino alla End Phase.$N●Magia: Pesca 1 carta.$N●Trappola: Metti in cima al Deck 1 carta scoperta controllata dal tuo avversario.$NPuoi utilizzare questo effetto di \"Ladro del Tempo Redoer\" una sola volta per turno.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/01/31",
+  "species_id": 21,
+  "starchip": "4"
+}

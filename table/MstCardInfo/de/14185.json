@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 14185,
+  "card_name": "Lunalicht Schwerttänzerin",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "3 „Lunalicht“-Monster$NMuss als Fusionsbeschwörung beschworen werden. Erhält 200 ATK für jedes Ungeheuer-Krieger-Monster, das verbannt ist oder sich in den Friedhöfen befindet. Dein Gegner kann diese Karte nicht als Ziel für Karteneffekte wählen. Während deiner Main Phase, außer in dem Spielzug, in dem diese Karte auf den Friedhof gelegt wurde: Du kannst diese Karte von deinem Friedhof verbannen und dann 1 Fusionsmonster wählen, das du kontrollierst; es erhält bis zum Ende dieses Spielzugs 3000 ATK. Du kannst diesen Effekt von „Lunalicht Schwerttänzerin“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "2600",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/01/10",
+  "species_id": 12,
+  "starchip": "9"
+}

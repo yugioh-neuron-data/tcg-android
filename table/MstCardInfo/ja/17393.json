@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 17393,
+  "card_name": "補強要員",
+  "card_name_label": "ほきょうよういん",
+  "card_name_search": "ほきょうよういん",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：相手フィールドのカードの数だけ自分はデッキからドローする。その後、ドローした数だけ自分の手札を選んで好きな順番でデッキの下に戻す。②：このカードが墓地に存在し、相手フィールドのカードの数が自分フィールドのカードより多い場合、エンドフェイズに発動できる。このカードを自分フィールドにセットする。この効果でセットしたこのカードはフィールドから離れた場合に除外される。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/09/10",
+  "species_id": 25,
+  "starchip": "0"
+}

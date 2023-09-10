@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16249,
+  "card_name": "Heilige Rollen der Gizmek-Legende",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Während deiner Main Phase: Du kannst die obersten 3 Karten deines Decks ausgraben und falls du dies tust, kannst du deiner Hand 1 ausgegrabenes Maschine-Monster hinzufügen, dessen ATK seinen eigenen DEF entsprechen, zusätzlich verbanne die übrigen Karten verdeckt. Du kannst diesen Effekt von „Heilige Rollen der Gizmek-Legende“ nur einmal pro Spielzug verwenden. Jedes Mal, wenn ein oder mehr Maschine-Monster, deren ATK ihren eigenen DEF entsprechen, als Normal- oder Spezialbeschwörung beschworen werden, lege 1 Zählmarke auf diese Karte. Solange 10 oder mehr Zählmarken auf dieser Karte liegen, kann kein Spieler die Effekte von Monstern auf dem Spielfeld aktivieren, deren ATK nicht ihren eigenen DEF entsprechen.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/08/12",
+  "species_id": 24,
+  "starchip": "0"
+}

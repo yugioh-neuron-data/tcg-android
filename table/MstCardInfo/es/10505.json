@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 6,
+  "card_id": 10505,
+  "card_name": "Mecha Bestia Fantasma Rayasigilosa",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando esta carta inflige daño de batalla a tu adversario: Invoca de Modo Especial 1 \"Ficha Mecha Bestia Fantasma\" (Tipo Máquina/VIENTO/Nivel 3/ATK 0/DEF 0). El Nivel de esta carta se aumenta en la cantidad total de Niveles de todas las \"Ficha Mecha Bestia Fantasma\" que controles. Mientras controles una Ficha, esta carta no puede ser destruida en batalla o por efectos de cartas. Una vez por turno: puedes Sacrificar 1 Ficha, y después seleccionar 1 Carta Mágica/de Trampa en el Campo; destruye ese objetivo.",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/05/16",
+  "species_id": 7,
+  "starchip": "3"
+}

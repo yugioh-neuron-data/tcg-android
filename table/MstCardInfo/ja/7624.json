@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 7624,
+  "card_name": "光の結界",
+  "card_name_label": "ひかりのけっかい",
+  "card_name_search": "ひかりのけっかい",
+  "card_pen_effect": "",
+  "card_text": "①：自分スタンバイフェイズに発動する。コイントスを１回行い、裏が出た場合、このカードの②③の効果を次の自分スタンバイフェイズまで無効にする。②：自分の「アルカナフォース」モンスターの召喚・反転召喚・特殊召喚時に発動する効果は、コイントスを行わず裏表のどちらかを選んで適用する。③：自分の「アルカナフォース」モンスターが戦闘で相手モンスターを破壊した場合に発動する。その破壊されたモンスターの元々の攻撃力分だけ自分のLPを回復する。",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/02/23",
+  "species_id": 24,
+  "starchip": "0"
+}

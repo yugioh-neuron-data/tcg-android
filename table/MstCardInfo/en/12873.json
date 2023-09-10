@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 5,
+  "card_id": 12873,
+  "card_name": "Subterror Nemesis Defender",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "During either player's turn, when your opponent activates a card or effect that targets exactly 1 Set monster you control (and no other cards), or when a Set monster you control is targeted for an attack by an opponent's monster: You can send this card from your hand or face-up from your field to the Graveyard, then target another monster you control that would be an appropriate target; that card/effect/attack now targets the new target. While you control a Set monster, this card cannot be destroyed by battle or card effects.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/02/10",
+  "species_id": 12,
+  "starchip": "2"
+}

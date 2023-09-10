@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 4,
+  "card_id": 14801,
+  "card_name": "Gearfried Phénix Immortel",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Vous pouvez bannir 1 Magie d'Équipement depuis votre Terrain ou Cimetière ; Invoquez Spécialement cette carte depuis votre main. Au début de la Damage Step, si cette carte attaque : vous pouvez équiper 1 monstre face recto sur le Terrain à cette carte (max. 1) comme une Magie d'Équipement qui donne 500 ATK à cette carte. Lorsqu'un effet de monstre est activé (Effet Rapide) : vous pouvez envoyer 1 Carte d'Équipement face recto que vous contrôlez au Cimetière ; annulez l'activation, et si vous le faites, détruisez-le. Vous ne pouvez utiliser chaque effet de \"Gearfried Phénix Immortel\" qu'une fois par tour.",
+  "defense_power": "2200",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/06/18",
+  "species_id": 15,
+  "starchip": "9"
+}

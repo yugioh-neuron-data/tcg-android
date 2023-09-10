@@ -1,0 +1,947 @@
+[
+  {
+    "card_count": 1,
+    "card_id": 5083,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT026",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7240,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT092",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 13122,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT098",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 13302,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT099",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13587,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT100",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 47
+  },
+  {
+    "card_count": 1,
+    "card_id": 16188,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT093",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 16189,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT094",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16283,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT097",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17113,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT001",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17114,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT002",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17115,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT003",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17116,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT004",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17117,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT005",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17118,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT006",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 17119,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT007",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 17119,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT007",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 47
+  },
+  {
+    "card_count": 1,
+    "card_id": 17120,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT008",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 17121,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT009",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17122,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT010",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17123,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT011",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17124,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT012",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17125,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT013",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17126,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT014",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17127,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT015",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17128,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT016",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17129,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT017",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17130,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT018",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17131,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT019",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17132,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT020",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17133,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT021",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17134,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT022",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17135,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT023",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 17136,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT024",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17137,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT025",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17138,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT027",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17139,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT028",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17140,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT029",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17141,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT030",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17142,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT031",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17143,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT032",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17144,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT033",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17145,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT034",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 17146,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT035",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 17146,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT035",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 47
+  },
+  {
+    "card_count": 1,
+    "card_id": 17147,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT036",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17148,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT037",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17149,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT038",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17150,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT039",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17151,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT040",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17152,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT041",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17153,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT042",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17154,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT043",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 17155,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT044",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17156,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT045",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17157,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT046",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17157,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT046",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 47
+  },
+  {
+    "card_count": 1,
+    "card_id": 17158,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT047",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17159,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT048",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 17160,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT049",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 17161,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT050",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17162,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT051",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17163,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT052",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17164,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT053",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17165,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT054",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17166,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT055",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17167,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT056",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17168,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT057",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17169,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT058",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17170,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT059",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17171,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT060",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17172,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT061",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17173,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT062",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17174,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT063",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17175,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT064",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17176,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT065",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17177,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT066",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17178,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT067",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17179,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT068",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17180,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT069",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17181,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT070",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17182,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT071",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17183,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT072",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17184,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT073",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17185,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT074",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17186,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT075",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17187,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT076",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17188,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT077",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17189,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT078",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17190,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT079",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17191,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT080",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17267,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT095",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17345,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT096",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17389,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT081",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17390,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT082",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17391,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT083",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17391,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT083",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 47
+  },
+  {
+    "card_count": 1,
+    "card_id": 17392,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT084",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17393,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT085",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17394,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT000",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 17395,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT086",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17396,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT087",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17397,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT088",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17398,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT089",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17399,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT090",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17400,
+    "card_image_id": 1,
+    "card_number": "DIFO-IT091",
+    "language": "it",
+    "pack_id": "2000001167000",
+    "rarity_id": 3
+  }
+]

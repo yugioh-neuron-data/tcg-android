@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 1,
+  "card_id": 7142,
+  "card_name": "ボルテック・コング",
+  "card_name_label": "ボルテック・コング",
+  "card_name_search": "ぼるてっくこんぐ",
+  "card_pen_effect": "",
+  "card_text": "このカードが相手ライフに戦闘ダメージを与えた時、自分フィールド上に表側表示で存在する光属性モンスターの数だけ相手のデッキの上からカードを墓地へ送る。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/12/16",
+  "species_id": 11,
+  "starchip": "4"
+}

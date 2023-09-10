@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 10840,
+  "card_name": "Golpe da Alma",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se seus PV forem 4000 ou menos, quando um ataque for declarado envolvendo um monstro que você controla e um monstro do oponente: pague metade dos seus PV e, depois, escolha 1 monstro com a face para cima que você controla; até o final do turno do seu oponente, ele ganha ATK igual ao déficit entre seus PV atuais e 4000. Você só pode ativar 1 \"Golpe da Alma\" por turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/01/16",
+  "species_id": 25,
+  "starchip": "0"
+}

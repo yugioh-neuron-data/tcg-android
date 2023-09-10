@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 5,
+  "card_id": 10316,
+  "card_name": "リバイバルゴーレム",
+  "card_name_label": "リバイバルゴーレム",
+  "card_name_search": "りばいばるごーれむ",
+  "card_pen_effect": "",
+  "card_text": "このカード名の効果は１ターンに１度しか使用できない。①：このカードがデッキから墓地へ送られた場合、以下の効果から１つを選択して発動する。$N●このカードを特殊召喚する。$N●このカードを手札に加える。",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/05/18",
+  "species_id": 6,
+  "starchip": "4"
+}

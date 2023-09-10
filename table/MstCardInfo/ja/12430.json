@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 4,
+  "card_id": 12430,
+  "card_name": "不知火の隠者",
+  "card_name_label": "しらぬいのかげもの",
+  "card_name_search": "しらぬいのかげもの",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドのアンデット族モンスター１体をリリースして発動できる。デッキから守備力０のアンデット族チューナー１体を特殊召喚する。②：このカードが除外された場合、「不知火の隠者」以外の除外されている自分の「不知火」モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。フィールドに「不知火流 転生の陣」が存在する場合、この効果の対象を２体にできる。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/04/09",
+  "species_id": 2,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10415,
+  "card_name": "Xyz-Doppelrückkehr",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Während des Spielzugs, in dem ein offenes Xyz-Monster, das du kontrollierst, zerstört wurde, falls du keine Monster kontrollierst: Wähle 1 Xyz-Monster in deinem Friedhof, das in diesem Spielzug zerstört wurde, und 1 Monster in deinem Friedhof, dessen ATK kleiner oder gleich denen des Xyz-Monsters sind; beschwöre die gewählten Ziele als Spezialbeschwörung, aber sie werden während der End Phase zerstört.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/01/24",
+  "species_id": 24,
+  "starchip": "0"
+}

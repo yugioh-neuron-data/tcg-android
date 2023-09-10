@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 2,
+  "card_id": 12410,
+  "card_name": "D/D Sábio Nikola",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Você não pode Invocar monstros por Invocação-Pêndulo, exceto monstros \"D/D\". Este efeito não pode ser negado. Uma vez por turno: você pode descartar 1 monstro \"D/D/D\" e, depois, escolher 1 monstro \"D/D\" de Nível 6 ou menos que você controla; ele ganha 2000 de ATK e DEF até o final deste turno (mesmo que este card deixe o campo).",
+  "card_text": "Se este card na Zona de Pêndulo for destruído: você pode escolher 1 monstro \"D/D/D\" que você controla; devolva-o para a mão e, se isso acontecer, coloque até 2 Monstros Pêndulo \"D/D\" com a face para cima do seu Deck Adicional nas suas Zonas de Pêndulo, mas eles não podem ativar seus Efeitos de Pêndulo neste turno. Você só pode usar este efeito de \"D/D Sábio Nikola\" uma vez por turno.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "8",
+  "pen_scale_r": "8",
+  "sales_at": "2016/08/04",
+  "species_id": 3,
+  "starchip": "6"
+}

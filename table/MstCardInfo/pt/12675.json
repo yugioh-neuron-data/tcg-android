@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 5,
+  "card_id": 12675,
+  "card_name": "Dispositivo do Mecanismo Antigo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se este card for Invocado por Invocação-Normal ou Especial: você pode declarar 1 tipo de card (Monstro, Magia ou Armadilha); neste turno, se um monstro seu atacar, seu oponente não pode ativar Cards de Magia/Armadilha ou efeitos de monstro (o que foi declarado) até o final da Etapa de Dano. Uma vez por turno: você pode declarar 1 nome de card de monstro \"Dispositivo\"; até a Fase Final, o nome deste card se torna esse nome.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/04/13",
+  "species_id": 7,
+  "starchip": "4"
+}

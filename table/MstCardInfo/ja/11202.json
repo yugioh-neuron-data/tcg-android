@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11202,
+  "card_name": "円卓の聖騎士",
+  "card_name_label": "えんたくのせいきし",
+  "card_name_search": "えんたくのせいきし",
+  "card_pen_effect": "",
+  "card_text": "①：自分エンドフェイズに、自分のフィールド・墓地の「聖騎士」カードの種類によって以下の効果をそれぞれ１度ずつ発動できる。$N●３種類以上：デッキから「聖騎士」カード１枚を墓地へ送る。$N●６種類以上：手札から「聖騎士」モンスター１体を特殊召喚する。その後、手札から「聖剣」装備魔法カード１枚をそのモンスターに装備できる。$N●９種類以上：自分の墓地の「聖騎士」モンスター１体を対象として発動できる。そのモンスターを手札に加える。$N●１２種類：自分はデッキから１枚ドローする。",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/09/13",
+  "species_id": 24,
+  "starchip": "0"
+}

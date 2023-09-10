@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 2,
+  "card_id": 17111,
+  "card_name": "Performapal Barokuriboh",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Once per turn, at the start of the Battle Phase: You can add 1 monster with 300 ATK/200 DEF from your Deck to your hand, then destroy this card.",
+  "card_text": "When your monster is destroyed by battle: You can Special Summon this card from your hand. Your opponent's monsters cannot target monsters for attacks, except this one. If this card is attacked, change it to Attack Position at the end of the Damage Step.",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2023/06/22",
+  "species_id": 3,
+  "starchip": "8"
+}

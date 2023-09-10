@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 2,
+  "card_id": 11051,
+  "card_name": "Geistertrick-Puppe",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Kann nicht als Normalbeschwörung beschworen werden, es sei denn, du kontrollierst ein „Geistertrick“-Monster. Einmal pro Spielzug: Du kannst diese Karte in die verdeckte Verteidigungsposition ändern. Wenn diese Karte aufgedeckt wird: Während der End Phase, ändere so viele offene Monster auf dem Spielfeld wie möglich in die verdeckte Verteidigungsposition, dann kannst du 1 „Geistertrick“-Monster, dessen Stufe kleiner oder gleich der Anzahl der durch diesen Effekt verdeckten Monster ist, als Spezialbeschwörung von deinem Deck in die verdeckte Verteidigungsposition beschwören.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/05/15",
+  "species_id": 18,
+  "starchip": "2"
+}

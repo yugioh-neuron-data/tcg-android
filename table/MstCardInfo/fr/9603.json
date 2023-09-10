@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 1,
+  "card_id": 9603,
+  "card_name": "Disigma Vylon",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "3 monstres de Niveau 4$NUne fois par tour : vous pouvez détacher 1 Matériel Xyz de cette carte pour cibler 1 Monstre à Effet en Position d'Attaque face recto contrôlé par votre adversaire ; équipez la cible à cette carte. Au début de la Damage Step, si cette carte combat un monstre du même Attribut qu'une carte équipée par cet effet : détruisez le monstre.",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/07/24",
+  "species_id": 17,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 2,
+  "card_id": 5771,
+  "card_name": "地獄将軍・メフィスト",
+  "card_name_label": "ヘルジェネラル・メフィスト",
+  "card_name_search": "へるじぇねらるめふぃすと",
+  "card_pen_effect": "",
+  "card_text": "このカードが守備表示モンスターを攻撃した時、その守備力を攻撃力が越えていれば、その数値だけ相手に戦闘ダメージを与える。相手に戦闘ダメージを与えた時、相手の手札からカードを１枚ランダムに捨てる。",
+  "defense_power": "1700",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2003/02/20",
+  "species_id": 3,
+  "starchip": "5"
+}

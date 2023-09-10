@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 1,
+  "card_id": 13305,
+  "card_name": "Resistor de Interrupção",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Quando você sofrer dano de batalha: você pode Invocar este card por Invocação-Especial da sua mão e, se isso acontecer, ele ganha ATK igual ao dano que você sofreu. Uma vez por turno, durante o cálculo de dano, quando outro monstro em Posição de Defesa que você controla for atacado por um monstro do oponente (Efeito Rápido): você pode ativar este efeito; durante este cálculo de dano, a DEF do seu monstro que foi atacado se torna igual à DEF deste card e, além disso, ele não pode ser destruído nessa batalha.",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/07/26",
+  "species_id": 27,
+  "starchip": "6"
+}

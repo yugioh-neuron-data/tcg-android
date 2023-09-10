@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 2,
+  "card_id": 6116,
+  "card_name": "Soldato Elementale",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Questo mostro guadagna i seguenti effetti finché ci sono uno o più mostri coi seguenti Attributi sul Terreno.$N●ACQUA: Il controllo di questa carta non può essere cambiato.$N●TERRA: L'effetto di un Mostro con Effetto che questa carta distrugge in battaglia viene annullato.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/10/01",
+  "species_id": 3,
+  "starchip": "4"
+}

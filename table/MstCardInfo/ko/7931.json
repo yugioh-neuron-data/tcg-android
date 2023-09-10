@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 7931,
+  "card_name": "식물연쇄",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "발동 후, 이 카드는 공격력을 500 포인트 올리는 장착 카드가 되어, 자신 필드 위에 존재하는 식물족 몬스터 1장에 장착한다. 장착 카드가 된 이 카드가 다른 카드의 효과로 파괴되었을 경우, 자신의 묘지에 존재하는 식물족 몬스터 1장을 선택하고 특수 소환할 수 있다.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/03/05",
+  "species_id": 25,
+  "starchip": "0"
+}

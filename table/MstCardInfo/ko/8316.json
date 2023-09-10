@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 3,
+  "card_id": 8316,
+  "card_name": "암즈 씨 헌터",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "자신 필드 위에 이 카드 이외의 물 속성 몬스터가 존재할 경우, 이 카드와 전투를 실행한 효과 몬스터의 효과를 데미지 계산 후에 무효화한다. 또한, 필드 위에 앞면 표시로 존재하는 이 카드가 파괴될 경우, 대신에 자신 필드 위에 앞면 표시로 존재하는 레벨 3 이하의 물 속성 몬스터 1장을 파괴할 수 있다.",
+  "defense_power": "400",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/09/23",
+  "species_id": 5,
+  "starchip": "4"
+}

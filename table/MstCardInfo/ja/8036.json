@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 2,
+  "card_id": 8036,
+  "card_name": "BF－アーマード・ウィング",
+  "card_name_label": "ブラックフェザー－アーマード・ウィング",
+  "card_name_search": "ぶらっくふぇざーあーまーどうぃんぐ",
+  "card_pen_effect": "",
+  "card_text": "「BF」チューナー＋チューナー以外のモンスター１体以上$N①：このカードは戦闘では破壊されず、このカードの戦闘で発生する自分への戦闘ダメージは０になる。②：このカードがモンスターを攻撃したダメージステップ終了時に発動できる。そのモンスターに楔カウンターを１つ置く（最大１つまで）。③：相手フィールドの楔カウンターを全て取り除いて発動できる。楔カウンターが置かれていた全てのモンスターの攻撃力・守備力をターン終了時まで０にする。",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/11/15",
+  "species_id": 16,
+  "starchip": "7"
+}

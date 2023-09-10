@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 10123,
+  "card_name": "復活の聖刻印",
+  "card_name_label": "ふっかつのせいこくいん",
+  "card_name_search": "ふっかつのせいこくいん",
+  "card_pen_effect": "",
+  "card_text": "相手のターンに１度、デッキから「聖刻」と名のついたモンスター１体を墓地へ送る事ができる。また、自分のターンに１度、ゲームから除外されている自分の「聖刻」と名のついたモンスター１体を選択して墓地に戻す事ができる。フィールド上に表側表示で存在するこのカードが墓地へ送られた時、自分の墓地の「聖刻」と名のついたモンスター１体を選択して特殊召喚する。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/05/18",
+  "species_id": 25,
+  "starchip": "0"
+}

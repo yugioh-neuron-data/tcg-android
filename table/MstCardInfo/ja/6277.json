@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 6277,
+  "card_name": "罰ゲーム！",
+  "card_name_label": "ばつゲーム！",
+  "card_name_search": "ばつげーむ",
+  "card_pen_effect": "",
+  "card_text": "相手の手札が４枚の時、次の効果から１つを選択して発動する。$N●相手は次のドローフェイズにカードをドローできない。$N●このターン相手は魔法・罠カードを発動できない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/11/25",
+  "species_id": 25,
+  "starchip": "0"
+}

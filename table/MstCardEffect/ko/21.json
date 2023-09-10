@@ -1,0 +1,10 @@
+{
+  "effect_id": 21,
+  "effect_name": "카운터",
+  "icon": "effect_icon_counter.png",
+  "icon_display_flag": 1,
+  "language": "ko",
+  "magic": 0,
+  "sort": 3,
+  "trap": 1
+}

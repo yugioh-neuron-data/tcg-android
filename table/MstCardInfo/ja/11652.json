@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 3,
+  "card_id": 11652,
+  "card_name": "キャット・シャーク",
+  "card_name_label": "キャット・シャーク",
+  "card_name_search": "きゃっとしゃーく",
+  "card_pen_effect": "",
+  "card_text": "レベル２モンスター×２$N①：このカードが水属性モンスターをX素材として持っている場合、このカードは戦闘では破壊されない。②：１ターンに１度、このカードのX素材を１つ取り除き、自分フィールドのランク４以下のXモンスター１体を対象として発動できる。そのモンスターの攻撃力・守備力をターン終了時まで元々の数値の倍にする。この効果は相手ターンでも発動できる。",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/12/20",
+  "species_id": 11,
+  "starchip": "2"
+}

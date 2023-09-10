@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11453,
+  "card_name": "吸光融合",
+  "card_name_label": "アブソープ・フュージョン",
+  "card_name_search": "あぶそーぷふゅーじょん",
+  "card_pen_effect": "",
+  "card_text": "「吸光融合」は１ターンに１枚しか発動できず、このカードを発動するターン、自分は「ジェムナイト」モンスターしか特殊召喚できない。①：デッキから「ジェムナイト」カード１枚を手札に加える。その後、以下の効果を適用できる。$N●自分の手札・フィールドから、「ジェムナイト」融合モンスターカードによって決められた融合素材モンスターを除外し、その融合モンスター１体をエクストラデッキから融合召喚する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/08/09",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 1,
+  "card_id": 16527,
+  "card_name": "상검대사－적소",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "튜너 ＋ 튜너 이외의 환룡족 몬스터 1장 이상$N이 카드명의 ①②의 효과는 1턴에 1번, 어느 쪽이든 1개밖에 사용할 수 없다. ①: 이 카드가 싱크로 소환에 성공했을 경우에 발동할 수 있다. 덱에서 \"상검\" 카드 1장을 패에 넣거나 제외한다. ②: 자신의 패 / 묘지에서 \"상검\" 카드 1장 또는 환룡족 몬스터 1장을 제외하고, 이 카드 이외의 필드의 효과 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 몬스터의 효과를 턴 종료시까지 무효로 한다. 이 효과는 상대 턴에도 발동할 수 있다.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/10/26",
+  "species_id": 26,
+  "starchip": "8"
+}

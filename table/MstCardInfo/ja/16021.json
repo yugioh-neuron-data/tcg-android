@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16021,
+  "card_name": "めぐり－Ai－",
+  "card_name_label": "めぐり－アイ－",
+  "card_name_search": "めぐりあい",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：手札・EXデッキの攻撃力２３００のサイバース族モンスター１体を相手に見せ、そのモンスターと同じ属性を持つ「＠イグニスター」モンスター１体をデッキから手札に加える。発動後、このターン中に自分がこの効果で見せたモンスターまたはその同名モンスターの特殊召喚に成功しなかった場合、エンドフェイズに自分は２３００ダメージを受ける。このカードの発動後、ターン終了時まで自分はサイバース族以外のモンスターの効果を発動できない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/01/16",
+  "species_id": 24,
+  "starchip": "0"
+}

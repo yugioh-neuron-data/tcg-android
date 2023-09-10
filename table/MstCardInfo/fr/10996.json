@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 10996,
+  "card_name": "Nyarla, Entité Éloignée",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 monstres de Niveau 4$NLorsque cette carte est Invoquée par Xyz : vous pouvez défausser un nombre de votre choix de cartes ; augmentez le Rang de cette carte du nombre de cartes défaussées. Une fois par tour, tant que cette carte a du Matériel Xyz : vous pouvez cibler 1 monstre dans votre Cimetière ; détachez tous les Matériels de cette carte, et si vous le faites, attachez la cible à cette carte comme Matériel. Lorsqu'un monstre est attaché par cet effet, le Type et Attribut de cette carte deviennent les mêmes que le Type et Attribut d'origine du monstre.",
+  "defense_power": "2600",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/08/16",
+  "species_id": 3,
+  "starchip": "4"
+}

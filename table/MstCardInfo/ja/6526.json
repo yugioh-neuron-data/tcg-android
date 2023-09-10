@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 6,
+  "card_id": 6526,
+  "card_name": "ガード・マンティス",
+  "card_name_label": "ガード・マンティス",
+  "card_name_search": "がーどまんてぃす",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：１０００LPを払って発動できる。このカードを手札から守備表示で特殊召喚する。この効果で特殊召喚したこのカードがモンスターゾーンに表側表示で存在する限り、自分は昆虫族モンスターしか特殊召喚できない。②：相手ターンに、自分フィールドの昆虫族モンスター１体を対象として発動できる。そのモンスターの表示形式を変更する。",
+  "defense_power": "2400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/12/17",
+  "species_id": 10,
+  "starchip": "4"
+}

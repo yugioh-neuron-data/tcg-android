@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 3,
+  "card_id": 12274,
+  "card_name": "Artistamico Conchiglia del Cancro",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Una volta per turno, quando un mostro \"Artistamico\" che controlli viene distrutto in battaglia: puoi scegliere come bersaglio 1 carta \"Artistamico\" o \"Occhi Diversi\" nella tua Zona Pendulum; Evocala Specialmente.",
+  "card_text": "Una volta per turno: puoi scegliere come bersaglio 1 Mostro Pendulum che controlli; esso guadagna 300 ATK per ogni mostro \"Artistamico\" che controlli attualmente, fino alla fine di questo turno.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "2",
+  "pen_scale_r": "2",
+  "sales_at": "2016/05/05",
+  "species_id": 14,
+  "starchip": "5"
+}

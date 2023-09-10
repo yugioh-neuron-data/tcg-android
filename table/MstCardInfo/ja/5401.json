@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 5401,
+  "card_name": "不吉な占い",
+  "card_name_label": "ふきつなうらない",
+  "card_name_search": "ふきつなうらない",
+  "card_pen_effect": "",
+  "card_text": "①：自分スタンバイフェイズに発動する。相手の手札をランダムに１枚選び、そのカードの種類（モンスター・魔法・罠）を当てる。当たった場合、相手に７００ダメージを与える。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2001/11/29",
+  "species_id": 25,
+  "starchip": "0"
+}

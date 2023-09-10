@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 1,
+  "card_id": 7805,
+  "card_name": "ネオス・ワイズマン",
+  "card_name_label": "ネオス・ワイズマン",
+  "card_name_search": "ねおすわいずまん",
+  "card_pen_effect": "",
+  "card_text": "このカードは通常召喚できない。自分のモンスターゾーンの表側表示の、「E・HERO ネオス」と「ユベル」を１体ずつ墓地へ送った場合のみ特殊召喚できる。①：フィールドのこのカードは効果では破壊されない。②：このカードが相手モンスターと戦闘を行ったダメージステップ終了時に発動する。その相手モンスターの攻撃力分のダメージを相手に与える。その相手モンスターの守備力分だけ自分のLPを回復する。",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/03/28",
+  "species_id": 18,
+  "starchip": "10"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15577,
+  "card_name": "受け継ぎし魂",
+  "card_name_label": "うけつぎしたましい",
+  "card_name_search": "うけつぎしたましい",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できず、このカードを発動するターン、自分はモンスター１体でしか攻撃できない。①：自分フィールドの効果モンスター１体をリリースし、相手フィールドの効果モンスター１体を対象として発動できる。そのモンスターを墓地へ送る。その後、手札・デッキからレベル７以上の通常モンスター１体を自分フィールドに特殊召喚する。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/12/19",
+  "species_id": 24,
+  "starchip": "0"
+}

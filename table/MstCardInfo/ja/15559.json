@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 15559,
+  "card_name": "一か八か",
+  "card_name_label": "いちかばちか",
+  "card_name_search": "いちかばちか",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：自分のLPが相手より少ない場合に発動できる。自分のデッキの一番上のカードをお互いに確認し、レベルが１または８のモンスターだった場合、そのモンスターを手札に加えるか特殊召喚する。違った場合、相手は以下の効果から１つを選んで適用できる。$N●このカードのコントローラーのLPを１０００にする。$N●このカードのコントローラーから見て相手のLPを８０００になるまで回復する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/08/08",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 6,
+  "card_id": 12955,
+  "card_name": "Lyrikliedervogel - Unabhängige Nachtigall",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "„Lyrikliedervogel - Versammelte Nachtigall“ + 1 „Lyrikliedervogel“-Monster$NFalls diese Karte mit einem Xyz-Monster, dessen Grund-Name „Lyrikliedervogel“ enthält, auf dem Spielfeld als Fusionsmaterial als Fusionsbeschwörung beschworen wird: Du kannst die Stufe dieser Karte um die Anzahl des Xyz-Materials erhöhen, welches das oder die Monster hatten. Diese Karte erhält ATK in Höhe ihrer Stufe x 500. Bleibt von den Effekten anderer Karten unberührt. Einmal pro Spielzug: Du kannst deinem Gegner Schaden in Höhe der Stufe dieser Karte x 500 zufügen.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/05/04",
+  "species_id": 16,
+  "starchip": "1"
+}

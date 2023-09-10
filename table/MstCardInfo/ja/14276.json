@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 14276,
+  "card_name": "ハンディ・ギャロップ",
+  "card_name_label": "ハンディ・ギャロップ",
+  "card_name_search": "はんでぃぎゃろっぷ",
+  "card_pen_effect": "",
+  "card_text": "①：このカードは直接攻撃できない。②：このカードの攻撃力はお互いのLPの差の数値分アップする。③：自分のLPが相手より多い場合、このカードの攻撃で発生する相手への戦闘ダメージは代わりに自分が受ける。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/01/12",
+  "species_id": 11,
+  "starchip": "1"
+}

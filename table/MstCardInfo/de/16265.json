@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 16265,
+  "card_name": "Vergnügliche Attraktion Wikingerwirbel",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wähle 1 „Vergnügung“-Monster, das du kontrollierst, oder 1 offenes Monster, das dein Gegner kontrolliert; rüste es mit dieser Karte aus. Du kannst den folgenden Effekt aktivieren, basierend darauf, welcher Spieler das ausgerüstete Monster kontrolliert;$N●Du: Einmal pro Spielzug, wenn ein Monster eines Gegners einen Angriff deklariert: Annulliere den Angriff und falls du dies tust, ändere bis zum Ende der Battle Phase den Beherrscher des ausgerüsteten Monsters.$N●Dein Gegner: Wenn der Effekt des ausgerüsteten Monsters aktiviert wird: Gib es auf die Hand zurück.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/08/12",
+  "species_id": 25,
+  "starchip": "0"
+}

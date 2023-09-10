@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 1,
+  "card_id": 14829,
+  "card_name": "Assaut de l'Air - As - Roze",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si un ou plusieurs monstres \"Assaut de l'Air - As\" (\"Assaut de l'Air - As - Roze\" exclu) sont Invoqués Normalement ou Spécialement (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte depuis votre main. Si un monstre de l'adversaire dans la Zone Monstre Extra est détruit au combat, ou quitte le Terrain à cause de votre effet de carte, tant que cette carte est dans votre Cimetière : vous pouvez Invoquer Spécialement cette carte, puis vous pouvez annuler les effets d'1 monstre face recto contrôlé par votre adversaire, jusqu'à la fin de ce tour. Vous ne pouvez utiliser chaque effet de \"Assaut de l'Air - As - Roze\" qu'une fois par tour.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/01/30",
+  "species_id": 15,
+  "starchip": "4"
+}

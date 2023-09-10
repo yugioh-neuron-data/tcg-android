@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 1,
+  "card_id": 11799,
+  "card_name": "Jongleur de Dommages Mageartiste",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsqu'une carte ou un effet qui va vous infliger des dommages est activé (Effet Rapide) : vous pouvez défausser cette carte ; annulez l'activation, et si vous le faites, détruisez la carte. Durant la Battle Phase (Effet Rapide) : vous pouvez défausser cette carte ; réduisez à 0 les prochains dommages de combat que vous allez recevoir ce tour. Vous pouvez bannir cette carte depuis votre Cimetière ; ajoutez 1 monstre \"Mageartiste\" (\"Jongleur de Dommages Mageartiste\" exclu) depuis votre Deck à votre main. Vous ne pouvez utiliser cet effet de \"Jongleur de Dommages Mageartiste\" qu'une fois par tour.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/08/06",
+  "species_id": 18,
+  "starchip": "4"
+}

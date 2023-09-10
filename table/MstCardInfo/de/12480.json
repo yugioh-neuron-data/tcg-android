@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 2,
+  "card_id": 12480,
+  "card_name": "Buntäugiger Rollendrache",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Einmal pro Spielzug, während der End Phase, falls dein Gegner in diesem Spielzug eine Karte oder einen Effekt aktiviert hat, die oder der 1 „Buntäugig“-Pendelmonster, das du kontrollierst, (und keine anderen Karten) als Ziel gewählt hat, solange diese Karte in deiner Pendelzone lag: Beschwöre diese Karte als Spezialbeschwörung und falls du dies tust, lege 1 offenes „Buntäugig“-Pendelmonster von deinem Extra Deck in deine Pendelzone, außer „Buntäugiger Rollendrache“.",
+  "card_text": "Einmal pro Spielzug (Schnelleffekt): Du kannst 1 offenes Monster, das als Spezialbeschwörung vom Extra Deck beschworen wurde, auf dem Spielfeld wählen; seine Effekte bleiben bis zum Ende dieses Spielzugs annulliert.",
+  "defense_power": "2400",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2017/10/05",
+  "species_id": 1,
+  "starchip": "5"
+}

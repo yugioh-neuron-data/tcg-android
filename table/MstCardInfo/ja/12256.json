@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 5,
+  "card_id": 12256,
+  "card_name": "ジャンクリボー",
+  "card_name_label": "ジャンクリボー",
+  "card_name_search": "じゃんくりぼー",
+  "card_pen_effect": "",
+  "card_text": "①：自分にダメージを与える魔法・罠・モンスターの効果を相手が発動した時、自分の手札・フィールドのこのカードを墓地へ送って発動できる。その発動を無効にし破壊する。",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/12/19",
+  "species_id": 7,
+  "starchip": "1"
+}

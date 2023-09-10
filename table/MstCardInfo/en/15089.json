@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 5,
+  "card_id": 15089,
+  "card_name": "Machina Citadel",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cannot be Normal Summoned/Set. Must be Special Summoned by a card effect. (Quick Effect): You can target 1 Machine monster you control; destroy that Machine monster and all monsters your opponent controls with ATK less than or equal to it. If a face-up EARTH Machine monster(s) you control, except \"Machina Citadel\", is destroyed by battle or card effect while this card is in your GY: You can Special Summon this card. You can only use each effect of \"Machina Citadel\" once per turn.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/17",
+  "species_id": 7,
+  "starchip": "10"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2600",
+  "attribute_id": 5,
+  "card_id": 12146,
+  "card_name": "トゥーン・バスター・ブレイダー",
+  "card_name_label": "トゥーン・バスター・ブレイダー",
+  "card_name_search": "とぅーんばすたーぶれいだー",
+  "card_pen_effect": "",
+  "card_text": "①：このカードの攻撃力は、相手のフィールド・墓地のドラゴン族モンスターの数×５００アップする。②：このカードは召喚・反転召喚・特殊召喚したターンには攻撃できない。③：自分フィールドに「トゥーン・ワールド」が存在し、相手フィールドにトゥーンモンスターが存在しない場合、このカードは直接攻撃できる。",
+  "defense_power": "2300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 6,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/10/17",
+  "species_id": 15,
+  "starchip": "7"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 2,
+  "card_id": 16830,
+  "card_name": "Chaos-Nephthys",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Diese Karte muss durch ihren eigenen Effekt als Spezialbeschwörung beschworen werden. Falls eine oder mehr Karten auf dem Spielfeld durch einen Karteneffekt zerstört werden: Du kannst 1 LICHT und 1 FINSTERNIS Monster von deinem Friedhof verbannen, außer „Chaos-Nephthys“; beschwöre diese Karte als Spezialbeschwörung vom Friedhof (falls sie dort lag, als die Karte zerstört wurde) oder der Hand (selbst falls nicht). Du kannst diesen Effekt von „Chaos-Nephthys“ nur einmal pro Spielzug verwenden. Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst 1 Karte, die dein Gegner kontrolliert, und 2 Karten in seinem Friedhof wählen; verbanne sie.",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/02/10",
+  "species_id": 16,
+  "starchip": "8"
+}

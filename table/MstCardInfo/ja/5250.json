@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 5,
+  "card_id": 5250,
+  "card_name": "魂を喰らう者 バズー",
+  "card_name_label": "たましいをくらうもの　バズー",
+  "card_name_search": "たましいをくらうものばずー",
+  "card_pen_effect": "",
+  "card_text": "１ターンに１度、自分の墓地に存在するモンスターを３体までゲームから除外して発動する事ができる。このカードの攻撃力は相手のエンドフェイズ時まで、除外したモンスター１体につき３００ポイントアップする。",
+  "defense_power": "900",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2001/07/12",
+  "species_id": 11,
+  "starchip": "4"
+}

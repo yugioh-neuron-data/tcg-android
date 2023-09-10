@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 13475,
+  "card_name": "Proton Blast",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Once per turn, if an activated card effect tosses coins, immediately after it resolves, apply the following effect(s), depending on the number of heads.$N●1+: Inflict 500 damage to your opponent.$N●2+: Destroy 1 card your opponent controls.$N●3+: Look at your opponent's hand and discard 1 card from their hand.$NWhen an effect is activated that tosses a coin 2 or more times: You can banish this card from the GY; treat all results as heads.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/02/23",
+  "species_id": 25,
+  "starchip": "0"
+}

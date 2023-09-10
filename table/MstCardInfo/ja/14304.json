@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14304,
+  "card_name": "フュージョン・デステニー",
+  "card_name_label": "フュージョン・デステニー",
+  "card_name_search": "ふゅーじょんですてにー",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：自分の手札・デッキから、融合モンスターカードによって決められた融合素材モンスターを墓地へ送り、「D-HERO」モンスターを融合素材とするその融合モンスター１体をEXデッキから融合召喚する。この効果で特殊召喚したモンスターは次のターンのエンドフェイズに破壊される。このカードの発動後、ターン終了時まで自分は闇属性の「HERO」モンスターしか特殊召喚できない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/01/12",
+  "species_id": 24,
+  "starchip": "0"
+}

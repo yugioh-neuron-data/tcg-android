@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 2,
+  "card_id": 11080,
+  "card_name": "Sijoliboss Fantôruse",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 monstres de Niveau 2$NTant que vous contrôlez un autre monstre \"Fantôruse\", les monstres de votre adversaire ne peuvent pas cibler cette carte avec une attaque. Une fois par tour : vous pouvez détacher 1 Matériel de cette carte, puis ciblez 1 monstre sur le Terrain, avec une ATK inférieure ou égale à la somme des ATK de tous les monstres \"Fantôruse\" sur le Terrain ; détruisez-le, et si vous le faites, cette Zone Carte Monstre ne peut pas être utilisée tant que vous contrôlez un monstre \"Fantôruse\".",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/05/15",
+  "species_id": 18,
+  "starchip": "2"
+}

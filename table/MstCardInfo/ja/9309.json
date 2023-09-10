@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 2,
+  "card_id": 9309,
+  "card_name": "極星天ミーミル",
+  "card_name_label": "きょくせいてんミーミル",
+  "card_name_search": "きょくせいてんみーみる",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上に「極星」と名のついたモンスターが表側表示で存在する場合、自分のスタンバイフェイズ開始時に１度だけ、手札から魔法カード１枚を墓地へ送って発動する事ができる。墓地に存在するこのカードを特殊召喚する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/11/13",
+  "species_id": 17,
+  "starchip": "2"
+}

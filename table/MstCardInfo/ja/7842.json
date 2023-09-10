@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 7842,
+  "card_name": "ゴブリン陽動部隊",
+  "card_name_label": "ゴブリンようどうぶたい",
+  "card_name_search": "ごぶりんようどうぶたい",
+  "card_pen_effect": "",
+  "card_text": "このカードが相手ライフに戦闘ダメージを与えた時、自分のデッキからカードを１枚ドローする事ができる。このカードは攻撃した場合、バトルフェイズ終了時に守備表示になり、次の自分のターンのエンドフェイズ時まで表示形式を変更する事ができない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/07/19",
+  "species_id": 15,
+  "starchip": "4"
+}

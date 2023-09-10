@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 1,
+  "card_id": 13228,
+  "card_name": "オルターガイスト・マリオネッター",
+  "card_name_label": "オルターガイスト・マリオネッター",
+  "card_name_search": "おるたーがいすとまりおねったー",
+  "card_pen_effect": "",
+  "card_text": "このカード名の②の効果は１ターンに１度しか使用できない。$N①：このカードが召喚した時に発動できる。デッキから「オルターガイスト」罠カード１枚を自分フィールドにセットする。$N②：自分フィールドの「オルターガイスト」カード１枚と、自分の墓地の「オルターガイスト」モンスター１体を対象として発動できる。対象のフィールドのカードを墓地へ送り、対象の墓地のモンスターを特殊召喚する。",
+  "defense_power": "1700",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/07/08",
+  "species_id": 18,
+  "starchip": "4"
+}

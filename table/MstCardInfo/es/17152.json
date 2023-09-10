@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 2,
+  "card_id": 17152,
+  "card_name": "Dragón Inmortal",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Cantante + 1+ monstruos que no sean Cantantes$NDurante tu Main Phase: puedes mandar al Cementerio 1 monstruo Zombi en tu Deck y, si lo haces, el Nivel de esta carta se convierte en la diferencia entre los Niveles originales de ese monstruo y esta carta. Cuando tu monstruo Zombi es destruido en batalla, mientras esta carta está en tu Cementerio: puedes Invocar esta carta de Modo Especial, pero destiérrala cuando deje el Campo. Sólo puedes usar cada efecto de \"Dragón Inmortal\" una vez por turno.",
+  "defense_power": "2400",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 19,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/05/19",
+  "species_id": 2,
+  "starchip": "6"
+}

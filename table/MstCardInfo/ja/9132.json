@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 9132,
+  "card_name": "氷結界の鏡",
+  "card_name_label": "ひょうけっかいのかがみ",
+  "card_name_search": "ひょうけっかいのかがみ",
+  "card_pen_effect": "",
+  "card_text": "①：このターン相手が発動したモンスターの効果で、自分の手札・フィールド・墓地のカードが除外される度に、以下の効果を適用する。$N●手札：相手の手札をランダムに２枚まで選んで除外する。$N●フィールド：相手フィールドのカードを２枚まで選んで除外する。$N●墓地：相手の墓地のカードを２枚まで選んで除外する。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/07/17",
+  "species_id": 24,
+  "starchip": "0"
+}

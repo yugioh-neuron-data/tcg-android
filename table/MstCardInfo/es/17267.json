@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 1,
+  "card_id": 17267,
+  "card_name": "Yakusa, Señor de los Ocho Truenos",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Puedes Invocar esta carta de Modo Especial (desde tu mano) desterrando 1 monstruo de Nivel/Rango 8 en tu Cementerio. Puedes seleccionar 1 Monstruo de Ritual, Fusión, Sincronía o Xyz de Nivel/Rango 8 en tu Cementerio; barájalo al Deck, y después aplica el siguiente efecto dependiendo del tipo de carta del monstruo devuelto.$N●Ritual/Fusión: Roba 1 carta.$N●Sincronía/Xyz: Esta carta gana 1000 ATK.$NSólo puedes usar este efecto de \"Yakusa, Señor de los Ocho Truenos\" una vez por turno.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/05/19",
+  "species_id": 26,
+  "starchip": "8"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 5,
+  "card_id": 12030,
+  "card_name": "EMラ・パンダ",
+  "card_name_label": "エンタメイトラ・パンダ",
+  "card_name_search": "えんためいとらぱんだ",
+  "card_pen_effect": "①：１ターンに１度、自分メインフェイズに発動できる。このカードのPスケールを１つ上げる（最大１２まで）。",
+  "card_text": "「EMラ・パンダ」のモンスター効果は１ターンに１度しか使用できない。①：自分のPモンスターが攻撃対象に選択された時に発動できる。その攻撃を無効にする。",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2015/07/18",
+  "species_id": 11,
+  "starchip": "3"
+}

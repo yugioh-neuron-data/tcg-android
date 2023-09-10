@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 6,
+  "card_id": 8438,
+  "card_name": "Guerrier Maximum",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si cette carte attaque un monstre de l'adversaire, cette carte gagne 400 points d'ATK uniquement durant la Damage Step. Si cette carte détruit un monstre de l'adversaire au combat, cette carte devient de Niveau 2 et son ATK et sa DEF d'origine sont divisées par deux, jusqu'à votre prochaine Standby Phase.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/11/12",
+  "species_id": 15,
+  "starchip": "4"
+}

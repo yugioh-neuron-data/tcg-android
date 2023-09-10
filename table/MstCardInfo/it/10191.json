@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10191,
+  "card_name": "Castello Magidolce",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Quando questa carta viene attivata: mischia nel Deck tutti i mostri \"Magidolce\" nel tuo Cimitero. Tutti i mostri \"Magidolce\" sul Terreno guadagnano 500 ATK/DEF. Se uno o più mostri nel tuo Cimitero stanno per essere fatti ritornare nel Deck dall'effetto di un mostro \"Magidolce\", puoi invece aggiungerli alla tua mano.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "it",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/08/23",
+  "species_id": 24,
+  "starchip": "0"
+}

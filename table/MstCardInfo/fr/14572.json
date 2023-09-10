@@ -1,0 +1,23 @@
+{
+  "attack_power": "2200",
+  "attribute_id": 6,
+  "card_id": 14572,
+  "card_name": "Guêpe de Bataille - Azusa l'Arc Fantôme",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Syntoniseur + 1+ monstre non-Syntoniseur$NLorsque votre adversaire reçoit des dommages d'effet d'un autre monstre \"Guêpe de Bataille\" : vous pouvez infliger des dommages à votre adversaire égaux à l'ATK d'origine du monstre. Vous ne pouvez utiliser cet effet de \"Guêpe de Bataille - Azusa l'Arc Fantôme\" qu'une fois par tour. Lorsqu'un monstre est détruit au combat avec votre monstre \"Guêpe de Bataille\", tant que cette carte est dans votre Cimetière : vous pouvez Invoquer Spécialement cette carte en Position de Défense, mais bannissez-la lorsqu'elle quitte le Terrain.",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 19,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/07/11",
+  "species_id": 10,
+  "starchip": "5"
+}

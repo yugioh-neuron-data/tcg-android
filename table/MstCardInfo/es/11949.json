@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 5,
+  "card_id": 11949,
+  "card_name": "Samurai Superpesado Transportador",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si no tienes Cartas Mágicas/de Trampa en tu Cementerio, puedes Invocar esta carta de Modo Especial (desde tu mano). Después de que esta carta fue Invocada de Modo Especial de esta forma, por el resto de este turno no puedes Invocar monstruos de Modo Especial, excepto monstruos \"Samurai Superpesado\".$NSi no tienes Cartas Mágicas/de Trampa en tu Cementerio: puedes Sacrificar esta carta; Invoca de Modo Especial, desde tu mano, hasta 2 monstruos en el lado del Campo de tu adversario, en Posición de Defensa, y después roba tantas cartas como la cantidad de monstruos Invocados de Modo Especial por este efecto. Sólo puedes usar este efecto de \"Samurai Superpesado Transportador\" una vez por turno.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/11/05",
+  "species_id": 7,
+  "starchip": "5"
+}

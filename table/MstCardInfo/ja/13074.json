@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 13074,
+  "card_name": "影星軌道兵器ハイドランダー",
+  "card_name_label": "えいせいきどうへいきハイドランダー",
+  "card_name_search": "えいせいきどうへいきはいどらんだー",
+  "card_pen_effect": "",
+  "card_text": "このカードは通常召喚できない。自分の墓地にモンスターが５体以上存在し、それらのモンスターのカード名が全て異なる場合のみ特殊召喚できる。①：１ターンに１度、自分のデッキの上からカードを３枚墓地へ送って発動できる。自分の墓地のモンスターのカード名が全て異なる場合、フィールドのカード１枚を選んで破壊する。この効果は相手ターンでも発動できる。",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/04/15",
+  "species_id": 7,
+  "starchip": "8"
+}

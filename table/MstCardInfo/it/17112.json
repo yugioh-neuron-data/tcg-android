@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 2,
+  "card_id": 17112,
+  "card_name": "Artistamico Classikuriboh",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Quando un mostro dell'avversario dichiara un attacco diretto, questa carta viene distrutta.",
+  "card_text": "Se questa carta viene distrutta dal suo stesso Effetto Pendulum: termina la Battle Phase. Puoi utilizzare ognuno dei seguenti effetti di \"Artistamico Classikuriboh\" una sola volta per turno. Puoi scartare questa carta, poi scegliere come bersaglio 1 carta nella tua Zona Pendulum; il suo Valore Pendulum diventa 1 fino alla fine di questo turno. Quando subisci danno da combattimento mentre questa carta è nel tuo Cimitero: puoi mettere questa carta nella tua Zona Pendulum.",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "8",
+  "pen_scale_r": "8",
+  "sales_at": "2023/06/22",
+  "species_id": 3,
+  "starchip": "1"
+}

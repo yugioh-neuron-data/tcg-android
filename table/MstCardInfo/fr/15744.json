@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15744,
+  "card_name": "Dragon Armé de la Foudre",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si un ou plusieurs monstres \"Dragon Armé\" que vous contrôlez vont être détruits par un effet de carte, vous pouvez envoyer cette carte au Cimetière à la place. Vous pouvez cibler 1 monstre \"Dragon Armé\" que vous contrôlez, puis activez 1 de ces effets ;$N●Il gagne une ATK égale à son Niveau x 100 (même si cette carte quitte le Terrain).$N●Ajoutez 1 monstre \"Dragon Armé\" d'un Niveau inférieur ou égal depuis votre Cimetière à votre main.$NVous ne pouvez utiliser cet effet de \"Dragon Armé de la Foudre\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/02/04",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15955,
+  "card_name": "大融合",
+  "card_name_label": "だいゆうごう",
+  "card_name_search": "だいゆうごう",
+  "card_pen_effect": "",
+  "card_text": "①：自分の手札・フィールドから、融合モンスターカードによって決められた融合素材モンスターを墓地へ送り、その融合モンスター１体をEXデッキから融合召喚する。この効果で融合召喚する場合、融合素材モンスターは３体以上でなければならない。この効果で特殊召喚したモンスターは以下の効果を得る。$N●このカードは効果では破壊されない。$N●このカードが守備表示モンスターを攻撃した場合、その守備力を攻撃力が超えた分だけ戦闘ダメージを与える。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/09/25",
+  "species_id": 24,
+  "starchip": "0"
+}

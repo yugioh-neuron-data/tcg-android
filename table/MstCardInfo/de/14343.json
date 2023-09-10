@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 2,
+  "card_id": 14343,
+  "card_name": "Hungernder Venemy-Letaldosis-Drache",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Einmal pro Spielzug, während deiner Main Phase: Du kannst 1 Venemy-Zählmarke auf jedes offene Monster legen, das dein Gegner kontrolliert. Alle Monster auf dem Spielfeld, außer FINSTERNIS Drache-Monstern, verlieren für jede Venemy-Zählmarke auf dem Spielfeld 200 ATK.",
+  "card_text": "3 FINSTERNIS Pendelmonster$NJedes Mal, wenn eine oder mehr Karten vom Spielfeld auf den Friedhof gelegt werden, lege für jede gelegte Karte 1 Venemy-Zählmarke auf diese Karte. Alle Monster auf dem Spielfeld, außer FINSTERNIS Drache-Monstern, verlieren für jede Venemy-Zählmarke auf dem Spielfeld 200 ATK. Einmal pro Spielzug, während deiner Main Phase: Du kannst bis zum Ende dieses Spielzugs die Effekte aller offenen Monster annullieren, die dein Gegner derzeit kontrolliert. Falls diese Karte in der Monsterzone durch Kampf oder einen Karteneffekt zerstört wird: Du kannst diese Karte in deine Pendelzone legen.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 41,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2020/03/19",
+  "species_id": 1,
+  "starchip": "8"
+}

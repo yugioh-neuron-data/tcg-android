@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 2,
+  "card_id": 11213,
+  "card_name": "Drago Pendulum Occhi Diversi",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Puoi ridurre a 0 il danno da combattimento che subisci da un attacco che coinvolge un Mostro Pendulum che controlli. Durante la tua End Phase: puoi distruggere questa carta e, se lo fai, aggiungi 1 Mostro Pendulum con ATK 1500 o inferiore dal tuo Deck alla tua mano. Puoi utilizzare ogni Effetto Pendulum di \"Drago Pendulum Occhi Diversi\" una sola volta per turno.",
+  "card_text": "Se questa carta combatte con un mostro dell'avversario, qualsiasi danno da combattimento che questa carta infligge al tuo avversario viene raddoppiato.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "4",
+  "pen_scale_r": "4",
+  "sales_at": "2014/08/14",
+  "species_id": 1,
+  "starchip": "7"
+}

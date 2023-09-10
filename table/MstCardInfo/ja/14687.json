@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14687,
+  "card_name": "エレキカンシャ",
+  "card_name_label": "エレキカンシャ",
+  "card_name_search": "えれきかんしゃ",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドの雷族モンスターの種類の数まで、デッキから「エレキカンシャ」以外の「エレキ」カードを手札に加える（同名カードは１枚まで）。②：墓地のこのカードを除外して発動できる。手札から「エレキ」モンスターを可能な限り特殊召喚する（同名カードは１枚まで）。この効果はこのカードが墓地へ送られたターンには発動できない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/07/13",
+  "species_id": 24,
+  "starchip": "0"
+}

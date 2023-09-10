@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11271,
+  "card_name": "Prana du Yang Zing",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cette carte gagne ces effets, selon le nombre d'Attributs différents des monstres \"Yang Zing\" dans votre Cimetière.$N●2+ : Les monstres \"Yang Zing\" que vous contrôlez gagnent 500 ATK.$N●3+ : Si un ou plusieurs monstres \"Yang Zing\" que vous contrôlez vont être détruits au combat ou par un effet de carte, vous pouvez envoyer cette carte au Cimetière à la place.$N●4+ : Votre adversaire ne peut pas Poser de monstres. Changez tous les monstres face recto contrôlés par votre adversaire en Position d'Attaque.$N●5+ : Vous pouvez envoyer cette carte au Cimetière ; détruisez toutes les cartes sur le Terrain.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/08/14",
+  "species_id": 24,
+  "starchip": "0"
+}

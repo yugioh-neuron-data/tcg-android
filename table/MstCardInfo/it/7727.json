@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 2,
+  "card_id": 7727,
+  "card_name": "Cacciatore Oscuro",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "L'effetto di questa carta cambia a seconda del numero di mostri OSCURITÀ nel tuo Cimitero.$N●1 o meno: Questa carta perde 400 ATK.$N●da 2 a 4: Questa carta guadagna 400 ATK.$N●5 o più: Puoi mandare questa carta al Cimitero per distruggere tutti i mostri coperti controllati dal tuo avversario.",
+  "defense_power": "400",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/09/02",
+  "species_id": 3,
+  "starchip": "4"
+}

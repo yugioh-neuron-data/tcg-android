@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 12075,
+  "card_name": "PSY프레임 서킷",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "①: 자신 필드에 \"PSY(싸이)프레임\" 몬스터가 특수 소환되었을 경우에 발동할 수 있다. 자신 필드의 \"PSY(싸이)프레임\" 몬스터만을 싱크로 소재로서 싱크로 소환한다. ②: 자신의 \"PSY(싸이)프레임\" 몬스터가 상대 몬스터와 전투를 실행하는 데미지 스텝 개시시에, 패의 \"PSY(싸이)프레임\" 몬스터 1장을 버리고 발동할 수 있다. 그 전투를 실행하는 자신 몬스터의 공격력은 턴 종료시까지, 이 효과를 발동하기 위해 버린 몬스터의 공격력만큼 올린다.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/12/24",
+  "species_id": 24,
+  "starchip": "0"
+}

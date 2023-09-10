@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 9140,
+  "card_name": "D２シールド",
+  "card_name_label": "ディーツーシールド",
+  "card_name_search": "でぃーつーしーるど",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上に表側守備表示で存在するモンスター１体を選択して発動する。選択したモンスターの守備力は、元々の守備力を倍にした数値になる。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/07/17",
+  "species_id": 25,
+  "starchip": "0"
+}

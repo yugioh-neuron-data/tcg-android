@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 5617,
+  "card_name": "八式対魔法多重結界",
+  "card_name_label": "はちしきたいまほうたじゅうけっかい",
+  "card_name_search": "はちしきたいまほうたじゅうけっかい",
+  "card_pen_effect": "",
+  "card_text": "次の効果から１つを選択して発動する。$N●フィールド上のモンスター１体を対象にした魔法の発動と効果を無効にし、そのカードを破壊する。$N●手札から魔法カード１枚を墓地に送る事で魔法の発動と効果を無効にし、そのカードを破壊する。",
+  "defense_power": "0",
+  "effect_id": 1,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/07/18",
+  "species_id": 25,
+  "starchip": "0"
+}

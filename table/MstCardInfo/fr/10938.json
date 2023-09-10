@@ -1,0 +1,23 @@
+{
+  "attack_power": "2300",
+  "attribute_id": 1,
+  "card_id": 10938,
+  "card_name": "Alsei, le Grand Protecteur Sylvan",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 monstres de Niveau 8$NUne fois par tour : vous pouvez déclarer 1 nom de carte ; dévoilez la carte du dessus de votre Deck, et si c'est la carte déclarée, ajoutez-la à votre main. Sinon, envoyez-la au Cimetière. Si une ou plusieurs cartes sont envoyées depuis votre Deck au Cimetière par un effet de carte (sauf durant la Damage Step) : vous pouvez détacher 1 Matériel de cette carte, puis ciblez 1 carte sur le Terrain ; placez la cible soit au-dessus soit au-dessous du Deck. Vous ne pouvez utiliser cet effet de \"Alsei, le Grand Protecteur Sylvan\" qu'une fois par tour.",
+  "defense_power": "3200",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/01/24",
+  "species_id": 13,
+  "starchip": "8"
+}

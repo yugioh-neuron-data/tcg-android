@@ -1,0 +1,23 @@
+{
+  "attack_power": "400",
+  "attribute_id": 5,
+  "card_id": 6939,
+  "card_name": "카드 트루퍼",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "①: 1턴에 1번, 자신의 덱 위에서 카드를 3장까지 묘지로 보내고 발동할 수 있다. 이 카드의 공격력은 턴 종료시까지, 이 효과를 발동하기 위해 묘지로 보낸 카드의 수 × 500 올린다. ②: 자신 필드의 이 카드가 파괴되어 묘지로 보내졌을 경우에 발동한다. 자신은 덱에서 1장 드로우한다.",
+  "defense_power": "400",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/01/11",
+  "species_id": 7,
+  "starchip": "3"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 2,
+  "card_id": 12110,
+  "card_name": "Mago Destruidor do Tempo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "A cada turno, o(s) primeiro(s) Monstro(s) Pêndulo que você controla que seria(m) destruído(s) por um efeito de card do oponente, não é(são) destruído(s).",
+  "card_text": "Quando este card for Invocado por Invocação-Pêndulo da mão (e nenhum outro card for Invocado por Invocação-Pêndulo ao mesmo tempo): você pode fazer com que o ATK deste card se torne o dobro do seu ATK original. Uma vez por turno: você pode escolher 1 monstro no campo; até sua próxima Fase de Apoio, bana tanto ele como este card no campo.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "2",
+  "pen_scale_r": "2",
+  "sales_at": "2016/01/15",
+  "species_id": 18,
+  "starchip": "3"
+}

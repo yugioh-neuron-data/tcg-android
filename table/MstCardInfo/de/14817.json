@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 3,
+  "card_id": 14817,
+  "card_name": "Alte Krieger - Meisterlicher Sun Mou",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Solange du ein anderes „Alte Krieger“-Monster kontrollierst, können Monster deines Gegners diese Karte nicht als Angriffsziel wählen. Du kannst jeden der folgenden Effekte von „Alte Krieger - Meisterlicher Sun Mou“ nur einmal pro Spielzug verwenden.$N●Du kannst 1 Karte von deiner Hand oder Spielfeldseite auf den Friedhof legen; füge deiner Hand 1 „Alte Krieger“-Monster von deinem Deck hinzu, außer „Alte Krieger - Meisterlicher Sun Mou“.$N●Falls der Effekt deines anderen „Alte Krieger“-Monsters aktiviert wird (außer während des Damage Steps): Du kannst 1 Monster wählen, das dein Gegner kontrolliert; gib es auf die Hand zurück.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/01/30",
+  "species_id": 12,
+  "starchip": "4"
+}

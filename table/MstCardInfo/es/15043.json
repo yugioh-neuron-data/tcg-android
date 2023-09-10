@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15043,
+  "card_name": "Robo Ardiente",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "(Esta carta se trata siempre como una carta \"Salamangrande\").$NSi tu adversario controla más cartas que tú: selecciona 1 Monstruo de Enlace que controle tu adversario; roba tantas cartas como su Rating de Enlace. Sólo puedes activar 1 \"Robo Ardiente\" por turno. No puedes Invocar monstruos de Modo Normal o Especial en el turno en el que activas esta carta, excepto monstruos de FUEGO.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/30",
+  "species_id": 24,
+  "starchip": "0"
+}

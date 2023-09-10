@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 3,
+  "card_id": 7300,
+  "card_name": "Außerirdischer Hypno",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Diese Karte wird als ein Normales Monster behandelt, solange sie offen auf dem Spielfeld oder im Friedhof liegt. Solange diese Karte offen auf dem Spielfeld liegt, kannst du sie als Normalbeschwörung beschwören, damit sie als Effektmonster mit diesem Effekt behandelt wird:$N● Während deiner Main Phase kannst du 1 Monster mit einer oder mehreren A-Zählmarken wählen, das dein Gegner kontrolliert, und die Kontrolle darüber übernehmen, solange diese Karte auf dem Spielfeld liegt. Während jeder deiner End Phasen, entferne 1 A-Zählmarke von jedem kontrollierten Monster. Falls alle A-Zählmarken von einem dieser Monster entfernt sind, zerstöre es.",
+  "defense_power": "700",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 9,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/11/12",
+  "species_id": 20,
+  "starchip": "4"
+}

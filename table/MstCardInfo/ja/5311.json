@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 5311,
+  "card_name": "死の演算盤",
+  "card_name_label": "デス・カリキュレーター",
+  "card_name_search": "ですかりきゅれーたー",
+  "card_pen_effect": "",
+  "card_text": "フィールド上に存在するモンスターが墓地へ送られる度に、そのモンスターの持ち主は１枚につき５００ポイントダメージを受ける。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2001/09/20",
+  "species_id": 25,
+  "starchip": "0"
+}

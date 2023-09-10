@@ -1,0 +1,23 @@
+{
+  "attack_power": "2300",
+  "attribute_id": 6,
+  "card_id": 9640,
+  "card_name": "스페이스타임 폴리스",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드가 특수 소환에 성공했을 때, 상대 필드 위에 앞면 표시로 존재하는 카드 1장을 선택하고 게임에서 제외한다. 이 카드가 필드 위에서 벗어났을 때, 이 카드의 효과로 게임에서 제외한 카드를 상대 필드 위에 세트한다.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/09/27",
+  "species_id": 21,
+  "starchip": "5"
+}

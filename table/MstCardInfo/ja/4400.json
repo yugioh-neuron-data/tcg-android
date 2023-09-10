@@ -1,0 +1,23 @@
+{
+  "attack_power": "250",
+  "attribute_id": 5,
+  "card_id": 4400,
+  "card_name": "鉄のサソリ",
+  "card_name_label": "てつのサソリ",
+  "card_name_search": "てつのさそり",
+  "card_pen_effect": "",
+  "card_text": "機械族以外のモンスターがこのカードを攻撃した場合、そのモンスターは（相手ターンで数えて）３ターン目のエンドフェイズに破壊される。",
+  "defense_power": "300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "1999/07/22",
+  "species_id": 7,
+  "starchip": "1"
+}

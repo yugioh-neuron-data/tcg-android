@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 5,
+  "card_id": 18186,
+  "card_name": "Plunder Patrollship Jord",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "You can declare 1 Attribute; return this card to the Extra Deck, and if you do, Special Summon 1 \"Plunder Patroll Token\" (Fiend/Level 4/ATK 0/DEF 0) with that Attribute to both players' fields in Defense Position. You can only use this effect of \"Plunder Patrollship Jord\" once per turn.",
+  "card_text": "1 Tuner + 1+ non-Tuner monsters$NIf your opponent Special Summons a monster(s) (except during the Damage Step): You can add 1 \"Plunder Patroll\" card from your Deck to your hand, then if this card is equipped with a \"Plunder Patroll\" card, you can Special Summon 1 \"Plunder Patroll\" monster from your Deck. You can target 1 \"Plunder Patroll\" card in your GY; add it to your hand, and if you do, place this card in your Pendulum Zone. You can only use each effect of \"Plunder Patrollship Jord\" once per turn.",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 35,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2023/02/06",
+  "species_id": 3,
+  "starchip": "8"
+}

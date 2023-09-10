@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 12524,
+  "card_name": "Karma Cubique",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsque cette carte est activée : vous pouvez cibler 1 monstre \"Cubique\" que vous contrôlez (\"Vijam la Graine Cubique\" exclu) ; envoyez un nombre de votre choix de \"Vijam la Graine Cubique\" depuis votre main et/ou Deck au Cimetière, puis le monstre gagne 800 ATK pour chacun d'eux (même si cette carte quitte le Terrain). Durant le tour de votre adversaire, si \"Vijam la Graine Cubique\" est Invoqué Spécialement par l'effet d'un monstre \"Cubique\" : envoyez cette carte au Cimetière, et si vous le faites, divisez par deux les LP de votre adversaire. Vous pouvez bannir cette carte depuis votre Cimetière ; ajoutez 1 monstre \"Cubique\" depuis votre Deck à votre main.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/07/21",
+  "species_id": 24,
+  "starchip": "0"
+}

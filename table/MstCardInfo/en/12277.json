@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 1,
+  "card_id": 12277,
+  "card_name": "Performapal Fireflux",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Once per turn, when an opponent's monster declares an attack: You can Tribute 1 \"Performapal\" monster; negate the attack, then end the Battle Phase.",
+  "card_text": "If a \"Performapal\" or \"Odd-Eyes\" monster you control attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step.",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2016/05/06",
+  "species_id": 10,
+  "starchip": "4"
+}

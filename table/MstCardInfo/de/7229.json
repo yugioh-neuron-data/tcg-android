@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 7229,
+  "card_name": "Zerstörerisches Ziehen",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls ein Spieler am Beginn seiner Draw Phase keine Karten in seiner Hand hat, kann er zusätzlich zu seinem normalen Ziehen 1 weitere Karte ziehen. Der Beherrscher dieser Karte verliert während seiner End Phase 700 Life Points. (Falls er weniger als 700 hat, werden diese stattdessen zu 0.) Wenn diese offene Karte vom Spielfeld entfernt wird, füge dem Spieler, der sie kontrolliert hat, 3000 Schaden zu.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/08/15",
+  "species_id": 25,
+  "starchip": "0"
+}

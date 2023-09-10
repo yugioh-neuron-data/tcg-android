@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 4,
+  "card_id": 15999,
+  "card_name": "Sternrakete",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Empfänger + 1+ Nicht-Empfänger-Monster$NDu kannst nur einmal pro Spielzug eine oder mehr „Sternrakete“ als Spezialbeschwörung beschwören. Falls diese Karte, die ihrem Besitzer gehört, durch einen Angriff oder Karteneffekt eines Gegners zerstört wird: Du erhältst 2000 Schaden, dann füge deinem Gegner 2000 Schaden zu. Falls ein Monster in der benachbarten Zone dieser Karte durch einen Angriff oder Karteneffekt deines Gegners zerstört wird: Zerstöre diese Karte und falls du dies tust, erhältst du 2000 Schaden, dann füge deinem Gegner 2000 Schaden zu.",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/06/03",
+  "species_id": 4,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14549,
+  "card_name": "Maison de Pain d'Épice",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durant la Standby Phase de votre adversaire : vous pouvez faire gagner 600 ATK à autant de monstres qu'il contrôle que possible, puis détruisez autant de monstres qu'il contrôle que possible avec min. 2500 ATK, et si vous le faites, gagnez un nombre de LP égal au nombre de monstres détruits x 500. (Ce gain d'ATK reste même si cette carte quitte le Terrain.) Vous ne pouvez utiliser cet effet de \"Maison de Pain d'Épice\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/07/11",
+  "species_id": 24,
+  "starchip": "0"
+}

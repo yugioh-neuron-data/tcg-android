@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 16268,
+  "card_name": "ストールターン",
+  "card_name_label": "ストールターン",
+  "card_name_search": "すとーるたーん",
+  "card_pen_effect": "",
+  "card_text": "①：自分のデッキの上からカード３枚を裏側表示で除外して以下の効果を発動できる。$N●モンスターの召喚・反転召喚・特殊召喚を無効にする、モンスターの効果・魔法・罠カードが発動した時に発動できる。その発動を無効にし、そのカードを持ち主のデッキに戻す。$N●魔法・罠カードの発動を無効にする、モンスターの効果・魔法・罠カードが発動した時に発動できる。その発動を無効にし、そのカードを持ち主のデッキに戻す。",
+  "defense_power": "0",
+  "effect_id": 1,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/04/17",
+  "species_id": 25,
+  "starchip": "0"
+}

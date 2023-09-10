@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 17662,
+  "card_name": "Équilibre Gravité",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "(Cette carte est toujours traitée comme une carte \"G Golem\".)$NCiblez 2 de vos monstres TERRE de même nom qui sont bannis ou dans votre Cimetière ; Invoquez-les Spécialement tous les deux en Position de Défense, mais annulez leurs effets, changez leur ATK/DEF à 0, et aussi, détruisez-les durant la End Phase. Si un ou plusieurs monstres \"G Golem\" que vous contrôlez vont être détruits au combat ou par un effet de carte de l'adversaire, vous pouvez bannir cette carte depuis votre Cimetière à la place. Vous ne pouvez utiliser chaque effet de \"Équilibre Gravité\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/11/17",
+  "species_id": 24,
+  "starchip": "0"
+}

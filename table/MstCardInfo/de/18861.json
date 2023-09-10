@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 18861,
+  "card_name": "Vaylantz-Welle - Meister-Phase",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Einmal pro Spielzug, falls eine Karte in der Monsterzone in eine andere Monsterzone bewegt wird (außer während des Damage Steps): Du kannst 1 dieser Effekte aktivieren;$N●„Vaylantz“-Monster der Stufe 5 oder höher, die du derzeit kontrollierst, erhalten bis zum Ende dieses Spielzugs 1200 ATK.$N●Lege diese offene Karte von der Zauber- & Fallenzone auf den Friedhof und wähle dann 1 Effektmonster in der Main-Monsterzone deines Gegners; lege jenes Monster des Gegners als Permanenten Zauber offen in seine Zauber- & Fallenzone in seine eigene Spalte. (Falls die Zone belegt ist, zerstöre die sie belegende Karte.)",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/07/27",
+  "species_id": 25,
+  "starchip": "0"
+}

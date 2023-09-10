@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 2,
+  "card_id": 10928,
+  "card_name": "Xyz Avenger",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "This card is unaffected by the effects of Xyz Monsters. When this card is destroyed by battle with an Xyz Monster and sent to the Graveyard: Activate 1 of these effects, depending on the Rank of the Xyz Monster that destroyed this card;$N●Rank 3 or lower: Your opponent sends 1 card from their Extra Deck to the Graveyard.$N●Rank 4: Choose 1 card in your opponent's Extra Deck and send it to the Graveyard.$N●Rank 5 or higher: Your opponent sends as many cards from their Extra Deck to the Graveyard as possible, but not more than the Xyz Monster's Rank.",
+  "defense_power": "700",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/01/24",
+  "species_id": 3,
+  "starchip": "4"
+}

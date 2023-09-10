@@ -1,0 +1,23 @@
+{
+  "attack_power": "2300",
+  "attribute_id": 6,
+  "card_id": 9640,
+  "card_name": "スペースタイムポリス",
+  "card_name_label": "スペースタイムポリス",
+  "card_name_search": "すぺーすたいむぽりす",
+  "card_pen_effect": "",
+  "card_text": "このカードが特殊召喚に成功した時、相手フィールド上に表側表示で存在するカード１枚を選択してゲームから除外する。このカードがフィールド上から離れた時、このカードの効果でゲームから除外したカードを相手フィールド上にセットする。",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/04/16",
+  "species_id": 21,
+  "starchip": "5"
+}

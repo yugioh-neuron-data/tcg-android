@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10358,
+  "card_name": "Salón de las Estrellas del Libro de Magia",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cada vez que una Carta Mágica \"Libro de Magia\" es activada, pon 1 Contador Mágico en esta carta. Todos los monstruos de Tipo Lanzador de Conjuros que controles ganan 100 ATK por cada Contador Mágico en esta carta. Cuando esta carta con uno o más Contadores Mágicos es destruida y mandada al Cementerio: puedes añadir a tu mano, desde tu Deck, 1 monstruo de Tipo Lanzador de Conjuros con Nivel igual o menor que la cantidad de Contadores Mágicos que tenía esta carta.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/11/08",
+  "species_id": 24,
+  "starchip": "0"
+}

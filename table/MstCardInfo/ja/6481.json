@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 3,
+  "card_id": 6481,
+  "card_name": "ウォーター・ドラゴン",
+  "card_name_label": "ウォーター・ドラゴン",
+  "card_name_search": "うぉーたーどらごん",
+  "card_pen_effect": "",
+  "card_text": "このカードは通常召喚できない。「ボンディング－H２O」の効果でのみ特殊召喚できる。①：このカードがモンスターゾーンに存在する限り、フィールドの炎属性モンスター及び炎族モンスターの攻撃力は０になる。②：このカードが破壊され墓地へ送られた時、自分の墓地の「ハイドロゲドン」２体と「オキシゲドン」１体を対象として発動できる。そのモンスターを特殊召喚する。",
+  "defense_power": "2600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/08/11",
+  "species_id": 5,
+  "starchip": "8"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 12250,
+  "card_name": "Interruption du Sommeil de Kaiju",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Détruisez autant de monstres sur le Terrain que possible, puis Invoquez Spécialement 2 monstres \"Kaiju\" de noms différents depuis votre Deck (1 sur chaque Terrain) en Position d'Attaque, mais ils ne peuvent pas changer de position de combat, et ils doivent attaquer, si possible. Durant votre Main Phase, sauf le tour où cette carte a été envoyée au Cimetière : vous pouvez bannir cette carte depuis votre Cimetière ; ajoutez 1 monstre \"Kaiju\" depuis votre Deck à votre main. Vous ne pouvez activer qu'1 \"Interruption du Sommeil de Kaiju\" par tour.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/01/14",
+  "species_id": 24,
+  "starchip": "0"
+}

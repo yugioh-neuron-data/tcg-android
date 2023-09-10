@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 5,
+  "card_id": 5891,
+  "card_name": "棘の妖精",
+  "card_name_label": "いばらのようせい",
+  "card_name_search": "いばらのようせい",
+  "card_pen_effect": "",
+  "card_text": "相手はこのカードを破壊しない限り、昆虫族モンスターを攻撃できない。このカードと戦闘を行ったモンスターは、ダメージステップ終了時に守備表示になる。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2003/07/17",
+  "species_id": 13,
+  "starchip": "4"
+}

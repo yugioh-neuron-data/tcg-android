@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 5,
+  "card_id": 9482,
+  "card_name": "Morphtronic Staplen",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "●While in Attack Position: Your opponent cannot select another monster as an attack target. If this card is destroyed by battle, the monster that destroyed this card loses 300 ATK.$N●While in Defense Position: This card cannot be destroyed by battle. If this card is attacked, after damage calculation, select 1 face-up Attack Position monster your opponent controls. Change it to Defense Position and this card to Attack Position.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/05/10",
+  "species_id": 7,
+  "starchip": "4"
+}

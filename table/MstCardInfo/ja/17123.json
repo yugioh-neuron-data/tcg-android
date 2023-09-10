@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 17123,
+  "card_name": "スケアクロー・アクロア",
+  "card_name_label": "スケアクロー・アクロア",
+  "card_name_search": "すけあくろーあくろあ",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①の方法による特殊召喚は１ターンに１度しかできない。①：このカードは自分フィールドの「スケアクロー」モンスターの隣または同じ縦列の自分のメインモンスターゾーンに手札から特殊召喚できる。②：このカードがモンスターゾーンに存在する限り、EXモンスターゾーンの自分の「スケアクロー」モンスターの攻撃力は、自分フィールドの守備表示モンスターの数×３００アップする。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/01/15",
+  "species_id": 11,
+  "starchip": "3"
+}

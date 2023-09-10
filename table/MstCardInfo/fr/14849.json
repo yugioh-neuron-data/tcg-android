@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 5,
+  "card_id": 14849,
+  "card_name": "Aratron Mégalithe",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Vous pouvez Invoquer Rituellement cette carte avec une carte \"Mégalithe\". Durant la Main Phase (Effet Rapide) : vous pouvez défausser cette carte ; Invoquez Rituellement 1 Monstre Rituel \"Mégalithe\" depuis votre main, en Sacrifiant des monstres depuis votre main ou Terrain dont le Niveau total est supérieur ou égal à son Niveau. Lorsque votre adversaire active une carte ou un effet qui cible une carte que vous contrôlez (Effet Rapide) : vous pouvez placer 1 Monstre Rituel depuis votre Cimetière au-dessous du Deck, et si vous le faites, annulez l'activation, et si vous faites ça, détruisez-le. Vous ne pouvez utiliser chaque effet de \"Aratron Mégalithe\" qu'une fois par tour.",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 5,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/01/30",
+  "species_id": 6,
+  "starchip": "8"
+}

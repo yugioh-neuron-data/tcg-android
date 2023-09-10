@@ -1,0 +1,23 @@
+{
+  "attack_power": "2300",
+  "attribute_id": 5,
+  "card_id": 12405,
+  "card_name": "EMバブルドッグ",
+  "card_name_label": "エンタメイトバブルドッグ",
+  "card_name_search": "えんためいとばぶるどっぐ",
+  "card_pen_effect": "①：Pモンスター以外の、エクストラデッキから特殊召喚された自分フィールドの表側表示モンスターが戦闘・効果で破壊される場合、代わりにこのカードを破壊できる。",
+  "card_text": "①：このカードがエクストラデッキからの特殊召喚に成功した時に発動できる。このターン、エクストラデッキから特殊召喚された自分フィールドのPモンスターは効果では破壊されない。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2016/04/09",
+  "species_id": 11,
+  "starchip": "6"
+}

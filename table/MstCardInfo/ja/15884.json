@@ -1,0 +1,23 @@
+{
+  "attack_power": "400",
+  "attribute_id": 2,
+  "card_id": 15884,
+  "card_name": "インフェルニティ・セイジ",
+  "card_name_label": "インフェルニティ・セイジ",
+  "card_name_search": "いんふぇるにてぃせいじ",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分メインフェイズに発動できる。自分の手札を全て捨てる。②：このカードが墓地へ送られた場合に発動できる。デッキから「インフェルニティ」モンスター１体を墓地へ送る。この効果は自分の手札が０枚の場合に発動と処理ができる。",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/12/28",
+  "species_id": 3,
+  "starchip": "2"
+}

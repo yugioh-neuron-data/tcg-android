@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 6,
+  "card_id": 14265,
+  "card_name": "Filo, Mensajero Mascota a Sueldo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante tu Main Phase: puedes Invocar de Modo Especial 1 monstruo \"Mascota a Sueldo\" en tu mano, excepto \"Filo, Mensajero Mascota a Sueldo\". Si un monstruo \"Mascota a Sueldo\" es Invocado de Modo Especial a tu Campo mientras controlas este monstruo (excepto durante el Damage Step): puedes seleccionar 1 monstruo \"Mascota a Sueldo\" en tu Cementerio; Invócalo de Modo Especial en Posición de Defensa, pero ponlo en la parte inferior del Deck si deja el Campo. Sólo puedes usar cada efecto de \"Filo, Mensajero Mascota a Sueldo\" una vez por turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/05/02",
+  "species_id": 16,
+  "starchip": "1"
+}

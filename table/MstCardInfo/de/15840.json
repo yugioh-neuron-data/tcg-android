@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 15840,
+  "card_name": "Goldäugiger Abgott",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Einmal pro Spielzug (Schnelleffekt): Du kannst diesen Effekt aktivieren; sieh dir die Hand deines Gegners an, zusätzlich wird der Name dieser Karte bis zur End Phase zu „Tausendäugiger Abgott“. Falls diese Karte durch einen Karteneffekt verbannt oder auf den Friedhof gelegt wird: Du kannst 1 Effektmonster wählen, das dein Gegner kontrolliert; rüste 1 „Äugiges Opfer“- oder „Aufgegeben“-Monster, das du kontrollierst und das nicht als Normalbeschwörung beschworen werden kann, mit dem Effektmonster aus. Solange das Monster durch diesen Effekt ausgerüstet ist, erhält es ATK in Höhe der ATK des ausrüstenden Monsters. Du kannst diesen Effekt von „Goldäugiger Abgott“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/07/08",
+  "species_id": 18,
+  "starchip": "1"
+}

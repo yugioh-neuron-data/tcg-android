@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 5,
+  "card_id": 15016,
+  "card_name": "Roi des Bêtes Barbaros",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cette carte peut attaquer une fois tous les monstres contrôlés par votre adversaire. Vous ne pouvez utiliser chacun des effets suivants de \"Roi des Bêtes Barbaros\" qu'une fois par tour.$N●Vous pouvez Sacrifier des monstres dont le Niveau total est égal à min. 8 ; Invoquez Spécialement cette carte depuis votre main.$N●Vous pouvez bannir 1 monstre \"Barbaros\" depuis votre Cimetière ou Terrain face recto, puis ciblez 2 cartes contrôlées par votre adversaire ; détruisez-les.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/30",
+  "species_id": 12,
+  "starchip": "8"
+}

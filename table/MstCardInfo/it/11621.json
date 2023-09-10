@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 6,
+  "card_id": 11621,
+  "card_name": "Guerriero Scattante",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante il calcolo dei danni, se un Mostro Synchro \"Guerriero\" che controlli combatte con un mostro dell'avversario (Effetto Rapido): puoi mandare questa carta dalla tua mano al Cimitero; l'ATK del tuo mostro che sta combattendo diventa il doppio del suo ATK attuale, solamente durante quel calcolo dei danni. Puoi bandire questa carta dal tuo Cimitero, poi scegliere come bersaglio 1 mostro \"Synchron\" nel tuo Cimitero; aggiungilo alla tua mano. Puoi utilizzare ogni effetto di \"Guerriero Scattante\" una sola volta per turno.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/08/27",
+  "species_id": 15,
+  "starchip": "2"
+}

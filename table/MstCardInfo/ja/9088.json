@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 1,
+  "card_id": 9088,
+  "card_name": "エクストラ・ヴェーラー",
+  "card_name_label": "エクストラ・ヴェーラー",
+  "card_name_search": "えくすとらう゛ぇーらー",
+  "card_pen_effect": "",
+  "card_text": "相手がモンスターを特殊召喚した時、手札からこのカードを特殊召喚する事ができる。この効果で特殊召喚したターン、相手のカードの効果によって発生する自分への効果ダメージは代わりに相手が受ける。",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/07/17",
+  "species_id": 18,
+  "starchip": "2"
+}

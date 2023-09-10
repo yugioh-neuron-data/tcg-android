@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 2,
+  "card_id": 15387,
+  "card_name": "Flor Cardian de Cerezo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si controlas un monstruo \"Flor Cardian\" de Nivel 2 o menor: puedes Invocar esta carta de Modo Especial desde tu mano, y además por el resto de este turno no puedes Invocar monstruos de Modo Normal o Especial, excepto monstruos \"Flor Cardian\". Una vez por turno: puedes Sacrificar 1 monstruo \"Flor Cardian\"; roba 1 carta y, si lo haces, muéstrala y después, si es un monstruo \"Flor Cardian\", puedes tomar 1 monstruo \"Flor Cardian\" en tu Deck, excepto \"Flor Cardian de Cerezo\", y ya sea añadirlo a tu mano o Invocarlo de Modo Especial. De otra forma, manda al Cementerio la carta que robaste.",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/07/23",
+  "species_id": 15,
+  "starchip": "3"
+}

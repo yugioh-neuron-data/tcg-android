@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 16034,
+  "card_name": "Sorprendente Atracción Carrusel Majestuoso",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Selecciona 1 monstruo \"Asombro\" que controles o 1 monstruo boca arriba que controle tu adversario; equípale esta carta. Puedes aplicar el siguiente efecto, basado en qué jugador controle el monstruo equipado;$N●Tú: El monstruo equipado gana 500 ATK. Si fuera a ser destruido en batalla o por el efecto de una carta, puedes mandar esta carta al Cementerio en su lugar.$N●Tu adversario: El monstruo equipado pierde 500 ATK por cada una de tus Trampas \"Atracción\" equipadas a uno o más monstruos.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/06/03",
+  "species_id": 25,
+  "starchip": "0"
+}

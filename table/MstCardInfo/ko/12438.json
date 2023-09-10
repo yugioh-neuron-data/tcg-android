@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 4,
+  "card_id": 12438,
+  "card_name": "토템 파이브",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "①: 이 카드를 포함하는 5장의 몬스터가 동시에 특수 소환에 성공했을 경우에 발동한다. 상대 필드의 카드를 전부 파괴하고, 파괴한 수 × 500 데미지를 상대에게 준다.",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/07/21",
+  "species_id": 6,
+  "starchip": "3"
+}

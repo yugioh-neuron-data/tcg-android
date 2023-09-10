@@ -1,0 +1,23 @@
+{
+  "attack_power": "1300",
+  "attribute_id": 6,
+  "card_id": 11252,
+  "card_name": "Ipnosorella",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Questa carta guadagna effetti a seconda del numero totale di carte nelle Zone Pendulum di entrambi i giocatori.$N●1 o più: Questa carta guadagna 800 ATK e DEF.$N●2 o più: All'inizio del Damage Step, se questa carta combatte con un mostro Evocato Pendulum: distruggi quel mostro.$N●3 o più: I mostri controllati dal tuo avversario devono attaccare questa carta, se possibile.$N●4: Se questa carta distrugge un mostro in battaglia o con il suo stesso effetto: pesca 1 carta.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/08/14",
+  "species_id": 21,
+  "starchip": "4"
+}

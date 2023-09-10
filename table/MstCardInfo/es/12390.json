@@ -1,0 +1,23 @@
+{
+  "attack_power": "3300",
+  "attribute_id": 1,
+  "card_id": 12390,
+  "card_name": "Rey Trueno, el Kaiju del Golpe del Rayo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Puedes Invocar esta carta de Modo Especial (desde tu mano) al Campo de tu adversario en Posición de Ataque, Sacrificando 1 monstruo que él controle. Si tu adversario controla un monstruo \"Kaiju\", puedes Invocar esta carta de Modo Especial (desde tu mano) en Posición de Ataque. Sólo puedes controlar 1 monstruo \"Kaiju\". Una vez por turno: puedes retirar 3 Contadores Kaiju en cualquier lugar del Campo; por el resto de este turno, tu adversario no puede activar cartas o efectos, y además este turno esta carta puede hacer hasta 3 ataques a monstruos durante cada Battle Phase.",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/05/05",
+  "species_id": 19,
+  "starchip": "9"
+}

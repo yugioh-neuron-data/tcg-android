@@ -1,0 +1,23 @@
+{
+  "attack_power": "700",
+  "attribute_id": 1,
+  "card_id": 9964,
+  "card_name": "Número 7: Golpe de Suerte",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "3 monstruos de Nivel 7$N$NPuedes desacoplar de esta carta 1 Material Xyz; lanza un dado de seis caras dos veces y el ATK de esta carta se convierte en el número más alto que hayas lanzado x 700, y después, si el total de los lanzamientos sumó 7, puedes aplicar uno de estos efectos.$N●Manda al Cementerio todas las demás cartas en el Campo.$N●Invoca 1 monstruo de Modo Especial desde tu mano o cualquier Cementerio.$N●Roba 3 cartas, y después descarta 2 cartas.",
+  "defense_power": "700",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/05/10",
+  "species_id": 17,
+  "starchip": "7"
+}

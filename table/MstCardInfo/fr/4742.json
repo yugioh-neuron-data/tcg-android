@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 2,
+  "card_id": 4742,
+  "card_name": "Sphère Explosive",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si cette carte en Position de Défense face verso a été attaquée par un monstre de l'adversaire, avant le calcul des dommages : équipez cette carte au monstre attaquant. Puis, durant la prochaine Standby Phase de votre adversaire : détruisez le monstre équipé avec cette carte, et si vous le faites, infligez des dommages à votre adversaire égaux à l'ATK que le monstre détruit avait sur le Terrain.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/07/08",
+  "species_id": 7,
+  "starchip": "4"
+}

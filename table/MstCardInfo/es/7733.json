@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 4,
+  "card_id": 7733,
+  "card_name": "Guerrero Nitro",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"Sincrón Nitro\" + 1 o más monstruos que no sean Cantantes$NUna vez durante cada uno de tus turnos, si activaste una Carta Mágica, esta carta gana 1000 ATK durante el próximo ataque que este turno involucre a esta carta, sólo durante el cálculo de daño. Si esta carta atacante destruye en batalla a un monstruo de tu adversario, después del cálculo de daño: puedes seleccionar 1 monstruo en Posición de Defensa boca arriba que controle tu adversario; cambia ese objetivo a Posición de Ataque, y después esta carta puede atacar inmediatamente después, a ese monstruo.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/09/02",
+  "species_id": 15,
+  "starchip": "7"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 5859,
+  "card_name": "에너지 드레인",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "자신 필드 위에 앞면 표시로 존재하는 몬스터 1장을 선택한다. 그 몬스터의 공격력/수비력은 엔드 페이즈시까지 상대의 패의 수 × 200 포인트를 올린다.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/06/28",
+  "species_id": 25,
+  "starchip": "0"
+}

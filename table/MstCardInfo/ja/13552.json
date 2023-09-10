@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 1,
+  "card_id": 13552,
+  "card_name": "フォトン・アドバンサー",
+  "card_name_label": "フォトン・アドバンサー",
+  "card_name_search": "ふぉとんあどばんさー",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①の方法による特殊召喚は１ターンに１度しかできない。①：フィールドに「フォトン」モンスターが存在する場合、このカードは手札から特殊召喚できる。②：フィールドにこのカード以外の「フォトン」モンスターが存在する場合、このカードの攻撃力は１０００アップする。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/12/16",
+  "species_id": 15,
+  "starchip": "4"
+}

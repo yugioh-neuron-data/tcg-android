@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 7001,
+  "card_name": "カードトレーダー",
+  "card_name_label": "カードトレーダー",
+  "card_name_search": "かーどとれーだー",
+  "card_pen_effect": "",
+  "card_text": "自分のスタンバイフェイズ時に手札を１枚デッキに戻す事で、デッキからカードを１枚ドローする。この効果は１ターンに１度しか使用できない。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/11/16",
+  "species_id": 24,
+  "starchip": "0"
+}

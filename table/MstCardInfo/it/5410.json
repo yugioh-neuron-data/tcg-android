@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 2,
+  "card_id": 5410,
+  "card_name": "Signore dei Vampiri",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se questa carta infligge danno da combattimento al tuo avversario: dichiara 1 tipo di carta (Mostro, Magia o Trappola); il tuo avversario manda 1 carta di quel tipo dal suo Deck al Cimitero. Una volta per turno, durante la tua prossima Standby Phase dopo che questa carta sotto il tuo comando è stata distrutta e mandata al tuo Cimitero dall'effetto di una carta dell'avversario: Evoca Specialmente questa carta dal Cimitero.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "1000/01/01",
+  "species_id": 2,
+  "starchip": "5"
+}

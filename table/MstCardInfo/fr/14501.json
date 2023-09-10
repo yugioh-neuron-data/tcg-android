@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14501,
+  "card_name": "Ascendant Feu",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "(Cette carte est toujours traitée comme une carte \"Salamangrande\".)$NSi vous ne contrôlez aucun monstre : activez cette carte en ciblant 1 monstre FEU dans votre Cimetière ; Invoquez-le Spécialement et équipez-le avec cette carte. Le monstre équipé gagne 500 ATK. Lorsque cette carte quitte le Terrain, détruisez le monstre. Si cette carte en votre possession est détruite par un effet de carte de l'adversaire : vous pouvez bannir 1 monstre sur le Terrain. Vous ne pouvez utiliser chaque effet de \"Ascendant Feu\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/07/26",
+  "species_id": 24,
+  "starchip": "0"
+}

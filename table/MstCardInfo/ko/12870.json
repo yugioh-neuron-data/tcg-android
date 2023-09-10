@@ -1,0 +1,23 @@
+{
+  "attack_power": "2700",
+  "attribute_id": 2,
+  "card_id": 12870,
+  "card_name": "프레데터 플랜츠 드라고스타페리아",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "융합 몬스터 ＋ 어둠 속성 몬스터$N①: 1턴에 1번, 상대 필드의 앞면 표시 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터에 포식 카운터를 1개 놓는다. 포식 카운터가 놓여진 레벨 2 이상의 몬스터 레벨은 1 이 된다. 이 효과는 상대 턴에도 발동할 수 있다. ②: 이 카드가 몬스터 존에 존재하는 한, 상대가 발동한, 포식 카운터가 놓여 있는 몬스터의 효과는 무효화된다.",
+  "defense_power": "1900",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/06/08",
+  "species_id": 13,
+  "starchip": "8"
+}

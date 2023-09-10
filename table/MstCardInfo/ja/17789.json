@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 4,
+  "card_id": 17789,
+  "card_name": "魔界造車－GT１９",
+  "card_name_label": "デスチューン－ジーティイチキュー",
+  "card_name_search": "ですちゅーんじーてぃいちきゅー",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：このカードがリバースした場合、１～９までの任意のレベルを宣言して発動できる。このカードのレベルはターン終了時まで宣言したレベルになる。②：リバースしたこのカードが表側表示で存在する場合、自分・相手のメインフェイズに、このカード以外の自分・相手フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターとこのカードのみを素材としてS召喚する。",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 32,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/07/16",
+  "species_id": 7,
+  "starchip": "3"
+}

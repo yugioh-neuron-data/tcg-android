@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 5,
+  "card_id": 14182,
+  "card_name": "Ruée sur Rails du Pégase Volant",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez cibler 1 monstre TERRE Machine (\"Ruée sur Rails du Pégase Volant\" exclu) dans votre Cimetière ; Invoquez-le Spécialement en Position de Défense, mais annulez ses effets. Vous pouvez cibler 1 autre monstre face recto que vous contrôlez ; le Niveau du monstre ou de cette carte devient du Niveau de l'autre. Vous ne pouvez pas déclarer d'attaques le tour où vous activez cet effet, sauf avec des Monstres Xyz. Vous ne pouvez utiliser chaque effet de \"Ruée sur Rails du Pégase Volant\" qu'une fois par tour.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/01/10",
+  "species_id": 7,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 6,
+  "card_id": 13159,
+  "card_name": "時械神サディオン",
+  "card_name_label": "じかいしんサディオン",
+  "card_name_search": "じかいしんさでぃおん",
+  "card_pen_effect": "",
+  "card_text": "このカードはデッキから特殊召喚できない。①：自分フィールドにモンスターが存在しない場合、このカードはリリースなしで召喚できる。②：このカードは戦闘・効果では破壊されず、このカードの戦闘で発生する自分への戦闘ダメージは０になる。③：このカードが戦闘を行ったバトルフェイズ終了時、自分のLPが４０００より少ない場合に発動する。自分のLPは４０００になる。④：自分スタンバイフェイズに発動する。このカードを持ち主のデッキに戻す。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/05/13",
+  "species_id": 17,
+  "starchip": "10"
+}

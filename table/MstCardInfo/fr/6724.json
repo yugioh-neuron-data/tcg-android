@@ -1,0 +1,23 @@
+{
+  "attack_power": "2700",
+  "attribute_id": 1,
+  "card_id": 6724,
+  "card_name": "Gilti-Gearfried le Chevalier d'Acier Magique",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 monstres Guerrier d'Attributs différents$NUne fois par tour, lorsqu'une carte ou un effet qui cible cette carte est activé (Effet Rapide) : vous pouvez annuler l'effet, et si vous le faites, détruisez 1 carte sur le Terrain. Si cette carte a été Invoquée par Fusion en utilisant uniquement des monstres sur le Terrain comme Matériel, elle peut faire une seconde attaque durant chaque Battle Phase. Une fois par tour, si cette carte combat un monstre de l'adversaire, durant le calcul des dommages (Effet Rapide) : vous pouvez bannir 1 Magie depuis votre Cimetière ; jusqu'à la fin de ce tour, cette carte gagne une ATK égale à la moitié de sa DEF actuelle.",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/07/08",
+  "species_id": 15,
+  "starchip": "8"
+}

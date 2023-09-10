@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 4,
+  "card_id": 11064,
+  "card_name": "Thestalos el Mega Monarca",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Puedes Invocar esta carta por Sacrificio Sacrificando 1 monstruo Invocado por Sacrificio. Si esta carta es Invocada por Sacrificio: mira la mano de tu adversario y descarta 1 carta de su mano, y después, si era una Carta de Monstruo, inflige daño a tu adversario igual a su Nivel original x 200. Si esta carta fue Invocada por Sacrificio Sacrificando un monstruo de FUEGO, añade este efecto adicional.$N●Además, después de eso inflige 1000 puntos de daño a tu adversario.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/05/15",
+  "species_id": 4,
+  "starchip": "8"
+}

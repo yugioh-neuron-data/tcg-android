@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 2,
+  "card_id": 10748,
+  "card_name": "ゴーストリック・スペクター",
+  "card_name_label": "ゴーストリック・スペクター",
+  "card_name_search": "ごーすとりっくすぺくたー",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上に「ゴーストリック」と名のついたモンスターが存在する場合のみ、このカードは表側表示で召喚できる。このカードは１ターンに１度だけ裏側守備表示にする事ができる。また、「ゴーストリック」と名のついたモンスターが、相手のカードの効果または相手モンスターの攻撃によって破壊され自分の墓地へ送られた時に発動できる。このカードを手札から裏側守備表示で特殊召喚し、デッキからカードを１枚ドローする。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/07/20",
+  "species_id": 3,
+  "starchip": "1"
+}

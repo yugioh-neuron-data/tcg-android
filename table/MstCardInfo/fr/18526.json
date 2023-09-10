@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 18526,
+  "card_name": "Histoire de l'Origine Libromancienne",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsque cette carte est activée : vous pouvez Poser 1 Magie/Piège \"Libromancien\" (\"Histoire de l'Origine Libromancienne\" exclu) directement depuis votre Deck. Les Monstres Rituels \"Libromancien\" que vous contrôlez gagnent une ATK égale à leur propre Niveau x 100. Si un Monstre Rituel est Invoqué Rituellement sur votre Terrain (sauf durant la Damage Step) : vous pouvez cibler 1 Magie/Piège contrôlé par votre adversaire ; détruisez-le. Vous ne pouvez utiliser cet effet de \"Histoire de l'Origine Libromancienne\" qu'une fois par tour. Vous ne pouvez activer qu'1 \"Histoire de l'Origine Libromancienne\" par tour.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/05/04",
+  "species_id": 24,
+  "starchip": "0"
+}

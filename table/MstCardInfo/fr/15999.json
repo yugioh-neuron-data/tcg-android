@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 4,
+  "card_id": 15999,
+  "card_name": "Mine d'Étoiles",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Syntoniseur + 1+ monstre non-Syntoniseur$NVous ne pouvez Invoquer Spécialement un ou plusieurs \"Mine d'Étoiles\" qu'une fois par tour. Si cette carte en possession de son propriétaire est détruite par une attaque ou effet de carte de l'adversaire : recevez 2000 points de dommages, puis infligez 2000 points de dommages à votre adversaire. Si un monstre dans la zone adjacente de cette carte est détruit par une attaque ou effet de carte de votre adversaire : détruisez cette carte, et si vous le faites, recevez 2000 points de dommages, puis infligez 2000 points de dommages à votre adversaire.",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/06/03",
+  "species_id": 4,
+  "starchip": "4"
+}

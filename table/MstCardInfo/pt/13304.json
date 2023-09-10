@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 2,
+  "card_id": 13304,
+  "card_name": "D/D/D Zero Maxwell, o Rei da Supervisão",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Você pode escolher 1 monstro com a face para cima no campo; sua DEF se torna 0 até o final deste turno (mesmo que este card deixe o campo). Você só pode usar este efeito de \"D/D/D Zero Maxwell, o Rei da Supervisão\" uma vez por turno.",
+  "card_text": "Antes do cálculo de dano, se este card atacar um monstro em Posição de Defesa do oponente: você pode mudar a DEF desse monstro do oponente para 0 até o final da Etapa de Dano. Se este card atacar um monstro em Posição de Defesa, cause dano de batalha perfurante. Você não sofre dano de batalha das batalhas envolvendo este card.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "4",
+  "pen_scale_r": "4",
+  "sales_at": "2021/06/03",
+  "species_id": 3,
+  "starchip": "7"
+}

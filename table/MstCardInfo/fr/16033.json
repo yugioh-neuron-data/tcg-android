@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 16033,
+  "card_name": "Attraction-Étonnante Roue Merveilleuse",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Ciblez 1 monstre \"Incroyable\" que vous contrôlez ou 1 monstre face recto contrôlé par votre adversaire ; équipez-lui cette carte. Vous pouvez activer l'effet suivant, selon quel joueur contrôle le monstre équipé ;$N●Vous : Durant la Main Phase : placez 1 carte depuis votre main au-dessous du Deck, puis piochez 1 carte.$N●Votre adversaire : Jusqu'à la fin de ce tour, échangez l'ATK/DEF actuelles du monstre équipé.$NVous ne pouvez utiliser cet effet de \"Attraction-Étonnante Roue Merveilleuse\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/06/03",
+  "species_id": 25,
+  "starchip": "0"
+}

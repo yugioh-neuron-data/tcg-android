@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 3,
+  "card_id": 17041,
+  "card_name": "N・As・H Knight",
+  "card_name_label": "ネフィル・アサイラム・ヘット・ナイト",
+  "card_name_search": "ねふぃるあさいらむへっとないと",
+  "card_pen_effect": "",
+  "card_text": "レベル５モンスター×２$Nこのカード名の②の効果は１ターンに１度しか使用できない。①：フィールドに「No.」モンスターが存在する限り、このカードは戦闘では破壊されない。②：自分・相手のメインフェイズに、このカードのX素材を２つ取り除いて発動できる。EXデッキから「No.101」～「No.107」のいずれかの「No.」Xモンスター１体を選び、このカードの下に重ねてX素材とする。その後、このカード以外のフィールドの表側表示モンスター１体を選んでこのカードの下に重ねてX素材とする事ができる。",
+  "defense_power": "2700",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/11/20",
+  "species_id": 14,
+  "starchip": "5"
+}

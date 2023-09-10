@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 6,
+  "card_id": 8005,
+  "card_name": "Dragón de Desechos",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando esta carta es Invocada de Modo Normal: puedes seleccionar 1 monstruo con 500 ATK o menos en tu Cementerio; Invoca ese objetivo de Modo Especial en Posición de Ataque, pero niega sus efectos. No puede ser usado como Material de Sincronía, excepto para la Invocación por Sincronía de un monstruo Dragón. Los otros Materiales de Sincronía no pueden ser de Nivel 4.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/03/03",
+  "species_id": 1,
+  "starchip": "4"
+}

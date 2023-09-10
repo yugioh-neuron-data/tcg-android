@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14357,
+  "card_name": "クロノダイバー・ハック",
+  "card_name_label": "クロノダイバー・ハック",
+  "card_name_search": "くろのだいばーはっく",
+  "card_pen_effect": "",
+  "card_text": "このカード名の②の効果は１ターンに１度しか使用できない。①：このカードが魔法＆罠ゾーンに存在する限り、自分フィールドのXモンスターは特殊召喚したターンには、相手の効果の対象にならず、相手の効果では破壊されない。②：自分フィールドのXモンスター１体を対象として発動できる。そのモンスターの攻撃力はターン終了時まで、そのX素材の数×３００アップする。さらにそのモンスターが、元々の持ち主が相手となるカードをX素材としている場合、このターンそのモンスターは直接攻撃できる。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/09/14",
+  "species_id": 24,
+  "starchip": "0"
+}

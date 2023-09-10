@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16094,
+  "card_name": "Armonía Solfacorde",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Puedes activar 1 de estos efectos;$N●Añade a tu mano 1 Monstruo de Péndulo \"Solfacorde\" boca arriba en tu Deck Extra.$N●Este turno, aumenta la Escala de Péndulo de 1 carta \"Solfacorde\" en tu Zona de Péndulo tanto como su Nivel.$N●Si controlas Cartas de Monstruo de Péndulo \"Solfacorde\" con por lo menos 3 Escalas de Péndulo pares diferentes, o por lo menos 3 Escalas de Péndulo impares diferentes, destruye 1 carta que controle tu adversario.$NSólo puedes usar cada efecto de \"Armonía Solfacorde\" una vez por turno.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/05/06",
+  "species_id": 24,
+  "starchip": "0"
+}

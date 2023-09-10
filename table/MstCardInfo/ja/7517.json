@@ -1,0 +1,23 @@
+{
+  "attack_power": "1300",
+  "attribute_id": 1,
+  "card_id": 7517,
+  "card_name": "次元合成師",
+  "card_name_label": "ディメンション・ケミストリー",
+  "card_name_search": "でぃめんしょんけみすとりー",
+  "card_pen_effect": "",
+  "card_text": "①：１ターンに１度、自分メインフェイズに発動できる。自分のデッキの一番上のカードを除外し、このカードの攻撃力をターン終了時まで５００アップする。②：自分フィールドのこのカードが破壊され墓地へ送られた時、除外されている自分のモンスター１体を対象として発動できる。そのモンスターを手札に加える。",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/12/15",
+  "species_id": 17,
+  "starchip": "4"
+}

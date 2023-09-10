@@ -1,0 +1,23 @@
+{
+  "attack_power": "2300",
+  "attribute_id": 5,
+  "card_id": 8581,
+  "card_name": "ジャンク・アーチャー",
+  "card_name_label": "ジャンク・アーチャー",
+  "card_name_search": "じゃんくあーちゃー",
+  "card_pen_effect": "",
+  "card_text": "「ジャンク・シンクロン」＋チューナー以外のモンスター１体以上$N１ターンに１度、相手フィールド上に存在するモンスター１体を選択して発動する事ができる。選択したモンスターをゲームから除外する。この効果で除外したモンスターは、このターンのエンドフェイズ時に同じ表示形式で相手フィールド上に戻る。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/10/17",
+  "species_id": 15,
+  "starchip": "7"
+}

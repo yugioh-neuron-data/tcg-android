@@ -1,0 +1,23 @@
+{
+  "attack_power": "2300",
+  "attribute_id": 1,
+  "card_id": 10938,
+  "card_name": "Alsei, the Sylvan High Protector",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 Level 8 monsters$NOnce per turn: You can declare 1 card name; excavate the top card of your Deck, and if it is the declared card, add it to your hand. Otherwise, send it to the GY. If a card(s) is sent from your Deck to the GY by a card effect (except during the Damage Step): You can detach 1 material from this card, then target 1 card on the field; place that target on either the top or bottom of the Deck. You can only use this effect of \"Alsei, the Sylvan High Protector\" once per turn.",
+  "defense_power": "3200",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/01/24",
+  "species_id": 13,
+  "starchip": "8"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16022,
+  "card_name": "Vous et A.I.",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si un ou plusieurs monstres Cyberse avec 2300 ATK d'origine sont Invoqués Spécialement : vous pouvez activer 1 de ces effets, selon l'Attribut de ces monstres sur le Terrain ;$N●TERRE/EAU : Jusqu'à la fin de ce tour, divisez par deux l'ATK d'1 monstre face recto sur le Terrain.$N●VENT/LUMIÈRE : Jusqu'à la fin de ce tour, annulez les effets d'1 carte face recto sur le Terrain.$N●FEU/TÉNÈBRES : Invoquez Spécialement 1 \"Jeton @Ignister\" (Cyberse/TÉNÈBRES/Niveau 1/ATK 0/DEF 0).$NVous ne pouvez utiliser chaque effet de \"Vous et A.I.\" qu'une fois par tour pour chaque Attribut.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/06/03",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 14708,
+  "card_name": "Vai! - D/D/D Fúria, o Rei Zero Divino",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Se você sofreria dano de efeito, você não sofre dano. Se você Invocar por Invocação-Normal 1 monstro \"D/D\" de Nível 5 ou mais, você pode fazer isso sem oferecer Tributo. Você só pode usar cada Efeito de Pêndulo de \"Vai! - D/D/D Fúria, o Rei Zero Divino\" uma vez por turno.",
+  "card_text": "Quando este card declarar um ataque, se os PV do seu oponente forem 4000 ou menos: você pode fazer com que este card ganhe ATK igual aos PV do seu oponente até o final deste turno. Não pode ser destruído em batalha e, além disso, você não sofre dano de batalhas envolvendo este card.$NVocê pode oferecer 1 outro monstro como Tributo; aplique 1 desses efeitos até o final deste turno.$N●Este card pode atacar diretamente.$N●Seu oponente não pode ativar cards ou efeitos nas Zonas de Magias & Armadilhas.$N●Seu oponente não pode ativar efeitos de card na mão dele ou Cemitério.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "0",
+  "pen_scale_r": "0",
+  "sales_at": "2022/05/05",
+  "species_id": 3,
+  "starchip": "10"
+}

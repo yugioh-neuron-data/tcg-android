@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 2,
+  "card_id": 13921,
+  "card_name": "Dragon Horloge Cyberse",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"Vouivre - Horloge\" + 1+ Monstre Lien$NLorsque cette carte est Invoquée par Fusion : vous pouvez envoyer un nombre de cartes du dessus de votre Deck au Cimetière, égal à la somme des Classifications Lien des Matériels utilisés pour l'Invocation Fusion de cette carte, et si vous le faites, jusqu'à la fin du prochain tour, les autres monstres que vous contrôlez ne peuvent pas attaquer, et aussi, cette carte gagne 1000 ATK pour chaque carte envoyée au Cimetière par cet effet. Tant que vous contrôlez un ou plusieurs Monstres Lien, les monstres contrôlés par votre adversaire ne peuvent pas cibler d'autres monstres que vous contrôlez avec une attaque, et aussi, votre adversaire ne peut pas cibler d'autres monstres que vous contrôlez avec des effets de carte. Si cette carte Invoquée par Fusion que vous contrôlez est envoyée à votre Cimetière par un effet de carte de l'adversaire : vous pouvez ajouter 1 Magie depuis votre Deck à votre main.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/10/18",
+  "species_id": 27,
+  "starchip": "7"
+}

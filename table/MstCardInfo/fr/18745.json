@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 18745,
+  "card_name": "Restaurant de Nouvelles \"À Table\"",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsque cette carte est activée : vous pouvez ajouter 1 carte \"Recette\" depuis votre Deck ou Cimetière à votre main. Une fois par tour : vous pouvez placer 1 Monstre Rituel depuis votre main au-dessous du Deck ; piochez 1 carte. Une fois par tour, durant votre End Phase : vous pouvez cibler 2 cartes (une carte \"Recette\" incluse) dans votre Cimetière ; placez-les au-dessous de votre Deck dans l'ordre de votre choix, puis piochez 1 carte. Vous ne pouvez activer qu'1 \"Restaurant de Nouvelles \"À Table\"\" par tour.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/06/01",
+  "species_id": 24,
+  "starchip": "0"
+}

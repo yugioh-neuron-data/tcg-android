@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 17827,
+  "card_name": "ブラック・ノーブル",
+  "card_name_label": "ブラック・ノーブル",
+  "card_name_search": "ぶらっくのーぶる",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：魔法・罠カードが発動した時、自分フィールドの黒羽カウンターを１つ取り除いて発動できる。その発動を無効にし破壊する。②：自分フィールドに「ブラックフェザー・ドラゴン」が存在する場合に発動できる。墓地のこのカードを自分フィールドにセットする。この効果でセットしたこのカードはフィールドから離れた場合に除外される。",
+  "defense_power": "0",
+  "effect_id": 1,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/07/16",
+  "species_id": 25,
+  "starchip": "0"
+}

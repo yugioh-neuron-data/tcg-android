@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 6,
+  "card_id": 16219,
+  "card_name": "絆醒師セームベル",
+  "card_name_label": "ばんせいしセームベル",
+  "card_name_search": "ばんせいしせーむべる",
+  "card_pen_effect": "このカード名のP効果は１ターンに１度しか使用できない。①：もう片方の自分のPゾーンにこのカードと同じレベルのPモンスターカードが存在する場合に発動できる。もう片方の自分のPゾーンのカードを破壊し、このカードを特殊召喚する。",
+  "card_text": "このカード名のモンスター効果は１ターンに１度しか使用できない。①：このカードが既にモンスターゾーンに存在する状態で、自分フィールドに他のモンスターが特殊召喚された場合に発動できる。このカードと同じレベルのモンスター１体を手札から特殊召喚する。",
+  "defense_power": "1300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "7",
+  "pen_scale_r": "7",
+  "sales_at": "2021/04/17",
+  "species_id": 18,
+  "starchip": "3"
+}

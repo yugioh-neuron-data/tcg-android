@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 2,
+  "card_id": 12143,
+  "card_name": "Doriado Nero",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Tutti i mostri TERRA, ACQUA, FUOCO e VENTO che controlli guadagnano 200 ATK/DEF per ogni Attributo diverso tra i mostri che controlli.",
+  "card_text": "Se questa carta viene Evocata Normalmente o Specialmente: puoi selezionare 4 mostri dal tuo Deck (1 TERRA, 1 ACQUA, 1 FUOCO e 1 VENTO), poi mettili in cima al Deck in qualsiasi ordine.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2016/01/14",
+  "species_id": 18,
+  "starchip": "4"
+}

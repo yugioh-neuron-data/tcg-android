@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 4,
+  "card_id": 9234,
+  "card_name": "ブースト・ウォリアー",
+  "card_name_label": "ブースト・ウォリアー",
+  "card_name_search": "ぶーすとうぉりあー",
+  "card_pen_effect": "",
+  "card_text": "①：自分フィールドにチューナーが存在する場合、このカードは手札から守備表示で特殊召喚できる。$N②：このカードがモンスターゾーンに存在する限り、自分フィールドの戦士族モンスターの攻撃力は３００アップする。",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/10/16",
+  "species_id": 15,
+  "starchip": "1"
+}

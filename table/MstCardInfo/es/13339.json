@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 13339,
+  "card_name": "Lienzo Meteorológico Tormentoso",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Los Monstruos de Efecto \"Meteorológico/a\" en tus Zonas de Monstruos Principales de la columna de esta carta y sus columnas adyacentes ganan este efecto.$N●Al comienzo del Damage Step, si esta carta batalla con un monstruo del adversario: puedes desterrar esta carta; devuelve ese monstruo del adversario a la mano.$NSólo puedes controlar 1 \"Lienzo Meteorológico Tormentoso\".",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/11/16",
+  "species_id": 25,
+  "starchip": "0"
+}

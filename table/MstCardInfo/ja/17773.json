@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 6,
+  "card_id": 17773,
+  "card_name": "獣の忍者－獏",
+  "card_name_label": "けもののにんじゃ－バク",
+  "card_name_search": "けもののにんじゃばく",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードがドロー以外の方法で手札に加わった場合に発動できる。このカードを特殊召喚する。②：このカードが特殊召喚・リバースした場合、自分の墓地及び自分の魔法＆罠ゾーンの表側表示のカードの中から、「獣の忍者－獏」以外の「忍者」カードまたは「忍法」カード１枚を対象として発動できる。そのカードを持ち主の手札に戻す。",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/07/16",
+  "species_id": 11,
+  "starchip": "3"
+}

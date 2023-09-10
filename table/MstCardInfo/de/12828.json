@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 6,
+  "card_id": 12828,
+  "card_name": "Glasflügel-Schnelldrache",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Du kannst 1 offenen „Geschwindigkeitsroid“-Empfänger und 1 offenes Nicht-Empfänger-Monster, das du kontrollierst, deren gemeinsame Stufe 7 beträgt, auf den Friedhof legen; beschwöre diese Karte als Spezialbeschwörung von deiner Pendelzone. Du kannst diesen Effekt von „Glasflügel-Schnelldrache“ nur einmal pro Spielzug verwenden.",
+  "card_text": "1 Empfänger + 1+ WIND Nicht-Empfänger-Monster$N(Schnelleffekt): Du kannst 1 offenes Monster wählen, das dein Gegner kontrolliert und das als Spezialbeschwörung vom Extra Deck beschworen wurde; bis zum Ende dieses Spielzugs ändere seine ATK zu 0, zusätzlich annulliere die Effekte des offenen Monsters. Du kannst diesen Effekt von „Glasflügel-Schnelldrache“ nur einmal pro Spielzug verwenden. Falls diese Karte in der Monsterzone durch Kampf oder einen Karteneffekt zerstört wird: Du kannst diese Karte in deine Pendelzone legen.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 35,
+  "pen_scale_l": "4",
+  "pen_scale_r": "4",
+  "sales_at": "2019/10/10",
+  "species_id": 1,
+  "starchip": "7"
+}

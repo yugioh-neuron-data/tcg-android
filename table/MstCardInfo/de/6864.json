@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 6864,
+  "card_name": "Friedhof der wandelnden Seelen",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls diese Karte bereits offen auf dem Spielfeld liegt:$N●Falls ein Monster, das du kontrollierst, durch Kampf zerstört und auf den Friedhof gelegt wird: Beschwöre 1 „Feuerball-Spielmarke“ (Pyro/FEUER/Stufe 1/ATK 100/DEF 100) als Spezialbeschwörung.$N●Falls ein oder mehr Monster in deiner Hand und/oder auf deiner Spielfeldseite durch einen Karteneffekt eines Gegners auf den Friedhof gelegt werden: Beschwöre so viele „Feuerball-Spielmarken“ als Spezialbeschwörung wie möglich, bis zur Anzahl der gelegten Monster. Du kannst diesen Effekt von „Friedhof der wandelnden Seelen“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/03/19",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14147,
+  "card_name": "Surinvocation",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Chaque fois qu'un ou plusieurs monstres sont Invoqués Spécialement, placez 1 Compteur Invocation sur cette carte (max. 6). Cette carte avec 6 Compteurs Invocation ne peut pas être détruite par des effets de carte. Au début de chaque Main Phase 1, si cette carte a 6 Compteurs Invocation : le joueur du tour peut activer cet effet ; il envoie cette carte au Cimetière, et s'il le fait, il envoie tous les monstres Invoqués Spécialement contrôlés par son adversaire au Cimetière.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/01/31",
+  "species_id": 24,
+  "starchip": "0"
+}

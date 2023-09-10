@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11271,
+  "card_name": "El Praná Yang Zing",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Esta carta gana estos efectos, basados en el número de Atributos diferentes que tengan los monstruos \"Yang Zing\" en tu Cementerio.$N●2+: Los monstruos \"Yang Zing\" que controles ganan 500 ATK.$N●3+: Si uno o más monstruos \"Yang Zing\" que controles fueran a ser destruidos en batalla o por el efecto de una carta, puedes mandar al Cementerio esta carta en su lugar.$N●4+: Tu adversario no puede Colocar monstruos. Cambia a Posición de Ataque todos los monstruos boca arriba que controle tu adversario.$N●5+: Puedes mandar esta carta al Cementerio; destruye todas las cartas en el Campo.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/08/14",
+  "species_id": 24,
+  "starchip": "0"
+}

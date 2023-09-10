@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 4,
+  "card_id": 11255,
+  "card_name": "Espião-Espicante",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se este card for Invocado por Invocação-Especial: olhe 1 card aleatório do Deck Adicional do seu oponente e se ele tiver 2000 ou mais de ATK, este card ganha 1000 de ATK. Se ele tiver 2000 ou menos de ATK, você ganha PV igual ao ATK desse monstro.",
+  "defense_power": "1300",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/08/15",
+  "species_id": 15,
+  "starchip": "3"
+}

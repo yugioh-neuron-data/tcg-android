@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 13475,
+  "card_name": "Protonenstrahl",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Einmal pro Spielzug, falls ein aktivierter Karteneffekt Münzen wirft, sofort nachdem er aufgelöst wurde, wende die folgenden Effekte an, abhängig von der Anzahl von Kopf.$N●1+: Füge deinem Gegner 500 Schaden zu.$N●2+: Zerstöre 1 Karte, die dein Gegner kontrolliert.$N●3+: Sieh dir die Hand deines Gegners an und wirf 1 Karte von seiner Hand ab.$NWenn ein Effekt aktiviert wird, der 2 Mal oder öfter eine Münze wirft: Du kannst diese Karte vom Friedhof verbannen; behandle alle Ergebnisse als Kopf.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/02/22",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 1,
+  "card_id": 6484,
+  "card_name": "VWXYZ-Drachenkatapultkanone",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "„VW-Tigerkatapult“ + „XYZ-Kanonendrache“$N(Diese Karte wird nicht als „Xyz-Drache“-Karte behandelt.)$NMuss erst als Spezialbeschwörung (von deinem Extra Deck) beschworen werden, indem du die oben aufgeführten Karten verbannst, die du kontrollierst. Einmal pro Spielzug: Du kannst 1 Karte wählen, die dein Gegner kontrolliert; verbanne das gewählte Ziel. Wenn diese Karte einen Angriff auf ein Monster eines Gegners deklariert: Du kannst das Angriffsziel wählen; ändere die Kampfposition des Angriffsziels. (Flippeffekte werden dabei nicht aktiviert.)",
+  "defense_power": "2800",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/11/01",
+  "species_id": 7,
+  "starchip": "8"
+}

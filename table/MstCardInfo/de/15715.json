@@ -1,0 +1,23 @@
+{
+  "attack_power": "1550",
+  "attribute_id": 1,
+  "card_id": 15715,
+  "card_name": "Maha Vailo, Licht des Himmels",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Diese Karte erhält die folgenden Effekte, basierend auf der Anzahl der Ausrüstungskarten, mit denen sie ausgerüstet ist.$N●1+: Diese Karte erhält für jede Ausrüstungskarte, mit der sie ausgerüstet ist, 1000 ATK.$N●2+: Dein Gegner kann während der Battle Phase keine Monstereffekte aktivieren.$N●3+: Wenn eine Karte oder ein Effekt deines Gegners, die oder der diese Karte als Ziel wählt, aktiviert wird (Schnelleffekt): Du kannst 1 Ausrüstungskarte, die du kontrollierst, auf den Friedhof legen; annulliere jenen Effekt.$N●4+: Dein Gegner kann während der Battle Phase weder Karten noch Effekte aktivieren.$N●5+: Kampfschaden, den diese Karte deinem Gegner zufügt, wird verdoppelt.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/02/04",
+  "species_id": 18,
+  "starchip": "8"
+}

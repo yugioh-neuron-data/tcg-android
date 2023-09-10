@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15299,
+  "card_name": "Gotas Prohibidas",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Manda al Cementerio cualquier número de otras cartas en tu mano y/o Campo; elige ese mismo número de Monstruos de Efecto que controle tu adversario y, hasta el final de este turno, su ATK se divide a la mitad, y además sus efectos son negados. En respuesta a la activación de esta carta, tu adversario no puede activar cartas, o efectos de cartas, con el mismo tipo original (Monstruo/Mágica/Trampa) que las cartas mandadas al Cementerio para activar esta carta. Sólo puedes activar 1 \"Gotas Prohibidas\" por turno.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/08/06",
+  "species_id": 24,
+  "starchip": "0"
+}

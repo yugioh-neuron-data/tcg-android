@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 8281,
+  "card_name": "약자의 의지",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "자신의 패가 0장일 경우, 자신 필드 위에 존재하는 레벨 2 이하의 몬스터가 전투에 의해서 상대 몬스터를 파괴하고 묘지로 보냈을 때, 자신의 덱에서 카드를 2장 드로우한다.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/10/22",
+  "species_id": 24,
+  "starchip": "0"
+}

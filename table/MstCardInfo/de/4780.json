@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 1,
+  "card_id": 4780,
+  "card_name": "Satellitenkanone",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Diese Karte kann nicht durch Kampf mit einem Monster der Stufe 7 oder niedriger zerstört werden. Während jeder deiner End Phasen: Diese Karte erhält 1000 ATK. Falls diese Karte angreift, werden diese erhöhten ATK nach der Schadensberechnung auf 0 zurückgesetzt.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/11/11",
+  "species_id": 7,
+  "starchip": "5"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 5,
+  "card_id": 11559,
+  "card_name": "Observador de Primera Línea",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante la End Phase, si esta carta fue Invocada de Modo Normal este turno: puedes añadir a tu mano 1 Monstruo de Péndulo de TIERRA en tu Deck. Si esta carta fue Invocada de Modo Normal, durante la End Phase del próximo turno del jugador que la Invocó: puedes Sacrificar esta carta; añade a tu mano 1 monstruo de TIERRA en tu Deck.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/01/15",
+  "species_id": 7,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10950,
+  "card_name": "Musée Fantôruse",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Les monstres que vous contrôlez (monstres \"Fantôruse\" exclus) ne peuvent pas attaquer. Les monstres ne peuvent pas attaquer les monstres en Position de Défense face verso, mais ils peuvent attaquer directement si tous les monstres contrôlés par l'adversaire sont en Position de Défense face verso. À la fin de la Damage Step, changez les monstres qui ont infligé des dommages de combat à un joueur durant ce combat en Position de Défense face verso.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/01/24",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1380",
+  "attribute_id": 2,
+  "card_id": 4090,
+  "card_name": "Sensenmann der Karten",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "FLIPP: Wähle 1 Fallenkarte auf dem Spielfeld und zerstöre sie. Wenn die gewählte Karte verdeckt ist, decke die entsprechende Karte auf. Ist die Karte eine Fallenkarte, wird sie zerstört. Ist die Karte eine Zauberkarte, wird sie wieder verdeckt.",
+  "defense_power": "1930",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 24,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/03/08",
+  "species_id": 3,
+  "starchip": "5"
+}

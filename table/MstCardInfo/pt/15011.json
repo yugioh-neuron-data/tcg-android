@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 1,
+  "card_id": 15011,
+  "card_name": "Senhordragão do Trovão",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Não pode ser Invocado por Invocação-Normal/Baixado. Primeiro deve ser Invocado por Invocação-Especial (da sua mão) ao banir 1 monstro Trovão de Nível 8 ou menos da sua mão ou do campo com a face para cima, durante o turno em que o efeito de um monstro Trovão foi ativado na mão. Uma vez por turno do oponente (Efeito Rápido): você pode banir 2 cards do seu Cemitério, incluindo um monstro Trovão e, depois, escolha 1 monstro Trovão que você controla; seu oponente não pode escolhê-lo como alvo de efeitos de card neste turno. Uma vez por turno, durante sua Fase Final: você pode enviar 1 card \"Dragão do Trovão\" do seu Deck para o Cemitério.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/30",
+  "species_id": 19,
+  "starchip": "9"
+}

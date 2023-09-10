@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 1,
+  "card_id": 13194,
+  "card_name": "クラインアント",
+  "card_name_label": "クラインアント",
+  "card_name_search": "くらいんあんと",
+  "card_pen_effect": "",
+  "card_text": "①：通常召喚したこのカードがモンスターゾーンに存在する限り、自分フィールドのサイバース族モンスターの攻撃力・守備力は、自分ターンの間５００アップする。②：フィールドのこのカードが戦闘・効果で破壊される場合、代わりに自分の手札・フィールドのサイバース族モンスター１体を破壊できる。",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/06/17",
+  "species_id": 27,
+  "starchip": "3"
+}

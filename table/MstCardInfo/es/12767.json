@@ -1,0 +1,23 @@
+{
+  "attack_power": "-1",
+  "attribute_id": 2,
+  "card_id": 12767,
+  "card_name": "Devorador de Millones",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial (desde tu mano) desterrando boca abajo 5 o más cartas en tu mano, Campo y/o Deck Extra. Gana 100 ATK/DEF por cada carta desterrada boca abajo. No puede ser Sacrificado, ni usado como material para una Invocación por Fusión, Sincronía o Xyz. Una vez por turno, al comienzo del Damage Step, si esta carta batalla con un monstruo del adversario: puedes desterrar ese monstruo del adversario, boca abajo.",
+  "defense_power": "-1",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/02/09",
+  "species_id": 3,
+  "starchip": "1"
+}

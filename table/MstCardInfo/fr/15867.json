@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 5,
+  "card_id": 15867,
+  "card_name": "Batteuse Solairvigne",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Monstre Normal Plante$NSi un Monstre Lien \"Solairavalon\" que vous contrôlez quitte le Terrain par un effet de carte : détruisez cette carte. Si cette carte est Invoquée Spécialement : vous pouvez cibler 1 Monstre Lien \"Solairavalon\" sur le Terrain ; cette carte gagne une ATK égale à la Classification Lien du monstre x 800. Lorsque cette carte détruit un monstre de l'adversaire au combat et l'envoie au Cimetière : vous pouvez Invoquer Spécialement le monstre dans votre zone pointée par un Monstre Lien, mais annulez ses effets.",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "2",
+  "linkno": "1",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/04/16",
+  "species_id": 13,
+  "starchip": ""
+}

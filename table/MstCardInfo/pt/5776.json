@@ -1,0 +1,23 @@
+{
+  "attack_power": "900",
+  "attribute_id": 4,
+  "card_id": 5776,
+  "card_name": "Rainha Infernal Arquidemônio",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Uma vez por turno, durante sua Fase de Apoio, você deve pagar 500 PV (isso não é opcional), ou este card é destruído. Quando estiver resolvendo um efeito de card do oponente que escolha este card como alvo, lance um dado de seis faces e negue esse efeito se o resultado for um 2 ou 5 e, se isso acontecer, destrua esse card. Uma vez por turno, durante a Fase de Apoio: escolha 1 monstro \"Arquidemônio\" no campo; ele ganha 1000 de ATK até o final deste turno.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "Nome de Carta atualizado de \"Rainha Infernal Archdemônio\". (Versão impressa ainda não disponível)",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/03/01",
+  "species_id": 3,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 7753,
+  "card_name": "Tir d'Équipement",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Activable uniquement durant la Battle Phase. Sélectionnez 1 Carte d'Équipement équipée à un monstre en Position d'Attaque face recto que vous contrôlez, et sélectionnez 1 monstre en Position d'Attaque face recto contrôlé par votre adversaire. Équipez ce monstre avec la Carte d'Équipement sélectionnée. Puis, menez un combat entre votre monstre précédemment équipé et le monstre sélectionné (les autres effets ne peuvent pas être activés durant ce combat).",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/09/02",
+  "species_id": 25,
+  "starchip": "0"
+}

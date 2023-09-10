@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 13119,
+  "card_name": "変則ギア",
+  "card_name_label": "トランスミッションギア",
+  "card_name_search": "とらんすみっしょんぎあ",
+  "card_pen_effect": "",
+  "card_text": "①：自分のモンスターが相手モンスターと戦闘を行うダメージ計算時に発動できる。相手プレイヤーとジャンケンを行う。引き分けの場合はジャンケンをやり直す。負けたプレイヤーはその戦闘を行う自身のモンスターを裏側表示で除外しなければならない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/04/15",
+  "species_id": 25,
+  "starchip": "0"
+}

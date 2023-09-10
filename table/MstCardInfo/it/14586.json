@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 14586,
+  "card_name": "Malicious Bane EROE Malvagio",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 mostro \"EROE Malvagio\" + 1 mostro di Livello 5 o superiore$NDeve essere Evocato Specialmente con \"Fusione Oscura\". Non può essere distrutto in battaglia o dagli effetti delle carte. Durante la tua Main Phase: puoi distruggere tutti i mostri controllati dal tuo avversario con ATK pari o inferiore a quello di questa carta, inoltre questa carta guadagna 200 ATK per ogni mostro distrutto in questo modo, inoltre non puoi dichiarare un attacco per il resto di questo turno, eccetto con mostri \"EROE\". Puoi utilizzare questo effetto di \"Malicious Bane EROE Malvagio\" una sola volta per turno.",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/09/26",
+  "species_id": 3,
+  "starchip": "8"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13515,
+  "card_name": "剛鬼死闘",
+  "card_name_label": "ごうきデスマッチ",
+  "card_name_search": "ごうきですまっち",
+  "card_pen_effect": "",
+  "card_text": "①：このカードの発動時の効果処理として、このカードにカウンターを３つ置く。②：自分の「剛鬼」モンスターが戦闘で相手モンスターを破壊した場合に発動する。このカードのカウンターを１つ取り除く。③：このカードの効果でこのカードに置かれているカウンターが全て取り除かれたバトルフェイズ終了時に、自分はこの効果を発動できる。手札・デッキから「剛鬼」モンスターを可能な限り特殊召喚する（同名カードは１枚まで）。その後、このカードにカウンターを３つ置く。",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/12/23",
+  "species_id": 24,
+  "starchip": "0"
+}

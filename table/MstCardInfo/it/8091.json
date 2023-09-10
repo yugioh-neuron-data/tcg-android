@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 6,
+  "card_id": 8091,
+  "card_name": "Drago Polvere di Stelle/Assalto",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Non può essere Evocato Normalmente/Posizionato. Deve prima essere Evocato Specialmente con \"Attivazione Modalità Assalto\", e non può essere Evocato Specialmente in altri modi, eccetto che dal suo stesso effetto. Quando viene attivata una carta o un effetto (Effetto Rapido): puoi offrire come Tributo questa carta; annulla l'attivazione e, se lo fai, distruggila. Durante la End Phase, se questo effetto è stato attivato in questo turno (e non è stato annullato): puoi Evocare Specialmente questa carta dal tuo Cimitero. Quando questa carta sul Terreno viene distrutta: puoi scegliere come bersaglio 1 \"Drago Polvere di Stelle\" nel tuo Cimitero; Evoca Specialmente quel bersaglio.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/03/10",
+  "species_id": 1,
+  "starchip": "10"
+}

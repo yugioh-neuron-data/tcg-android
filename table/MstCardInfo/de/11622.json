@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 11622,
+  "card_name": "Synchronträger",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Während deiner Main Phase kannst du zusätzlich zu deiner Normalbeschwörung/deinem Setzen 1 „Synchron“-Monster als Normalbeschwörung beschwören. (Du kannst diesen Effekt nur einmal pro Spielzug erhalten.) Falls ein anderes „Synchron“-Monster als Material für die Synchrobeschwörung eines Krieger- oder Maschine-Synchromonsters auf deinen Friedhof gelegt wird, solange du diese Karte kontrollierst: Du kannst 1 „Synchron-Spielmarke“ (Maschine/ERDE/Stufe 2/ATK 1000/DEF 0) als Spezialbeschwörung beschwören. Du kannst diesen Effekt von „Synchronträger“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/08/27",
+  "species_id": 7,
+  "starchip": "2"
+}

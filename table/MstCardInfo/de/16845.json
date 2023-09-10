@@ -1,0 +1,23 @@
+{
+  "attack_power": "3300",
+  "attribute_id": 2,
+  "card_id": 16845,
+  "card_name": "Wächter-Schimäre",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "3 Monster mit unterschiedlichen Namen$NMuss erst als Fusionsbeschwörung beschworen werden, verwende dafür nur Fusionsmaterial von deiner Hand und Spielfeldseite, wobei du von jedem Ort mindestens 1 Monster verwendest. Falls diese Karte durch eine Zauberkarte oder einen Zaubereffekt als Fusionsbeschwörung beschworen wird: Du kannst Karten in Höhe der Anzahl der Karten, die als Material von der Hand verwendet wurden, ziehen und falls du dies tust, zerstöre Karten, die dein Gegner kontrolliert, in Höhe der Anzahl der Karten, die als Material vom Spielfeld verwendet wurden. Du kannst diesen Effekt von „Wächter-Schimäre“ nur einmal pro Spielzug verwenden. Solange „Polymerisation“ in deinem Friedhof liegt, kann dein Gegner diese Karte nicht als Ziel für Karteneffekte wählen.",
+  "defense_power": "3300",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/02/10",
+  "species_id": 11,
+  "starchip": "9"
+}

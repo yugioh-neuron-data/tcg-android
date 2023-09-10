@@ -1,0 +1,23 @@
+{
+  "attack_power": "900",
+  "attribute_id": 5,
+  "card_id": 5317,
+  "card_name": "投石部隊",
+  "card_name_label": "とうせきぶたい",
+  "card_name_search": "とうせきぶたい",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上の戦士族モンスター１体を生け贄に捧げる。このカードの攻撃力以下の守備力を持つ表側表示のモンスター１体を破壊する。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2001/09/20",
+  "species_id": 15,
+  "starchip": "4"
+}

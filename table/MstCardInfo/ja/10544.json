@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10544,
+  "card_name": "魔導書の神判",
+  "card_name_label": "まどうしょのしんぱん",
+  "card_name_search": "まどうしょのしんぱん",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：このカードを発動したターンのエンドフェイズに、このカードの発動後に自分または相手が発動した魔法カードの数まで、デッキから「魔導書の神判」以外の「魔導書」魔法カードを手札に加える。その後、この効果で手札に加えたカードの数以下のレベルを持つ魔法使い族モンスター１体をデッキから特殊召喚できる。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/02/16",
+  "species_id": 24,
+  "starchip": "0"
+}

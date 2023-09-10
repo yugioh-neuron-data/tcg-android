@@ -1,0 +1,23 @@
+{
+  "attack_power": "2700",
+  "attribute_id": 3,
+  "card_id": 18039,
+  "card_name": "Guoglim, Lance du Ghoti",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Syntoniseur Poisson + 1+ monstre non-Syntoniseur$NAu début de la Damage Step, si cette carte combat un monstre de l'adversaire : vous pouvez bannir le monstre de l'adversaire. Durant la Standby Phase de votre adversaire : vous pouvez bannir cette carte, puis, si les monstres utilisés comme Matériel pour l'Invocation Synchro de cette carte sont tous dans votre Cimetière, vous pouvez tous les Invoquer Spécialement, mais bannissez-les lorsqu'ils quittent le Terrain. Vous ne pouvez utiliser chaque effet de \"Guoglim, Lance du Ghoti\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/10/20",
+  "species_id": 8,
+  "starchip": "8"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 16516,
+  "card_name": "Seigneur de la Prison Divine",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durant votre Main Phase : vous pouvez activer cet effet ; jusqu'à la fin du tour de votre adversaire, cette carte dans votre main devient révélée. Tant que cette carte est révélée par cet effet, les cartes Posées sur le Terrain ne peuvent pas être détruites par des effets de carte. Si une Carte Magie/Piège Posée est activée (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte depuis votre main, puis, si vous avez activé cet effet tant que cette carte était révélée, vous pouvez révéler et Poser 1 Magie/Piège directement depuis votre Deck, mais bannissez-le durant la End Phase du prochain tour. Vous ne pouvez utiliser qu'1 effet de \"Seigneur de la Prison Divine\" par tour, et uniquement une fois le tour.",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/11/04",
+  "species_id": 6,
+  "starchip": "10"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 5,
+  "card_id": 5713,
+  "card_name": "Panda Gyaku-Gire",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Augmentez l'ATK de cette carte de 500 points pour chaque monstre sur le Terrain de votre adversaire. Lorsque cette carte attaque avec une ATK supérieure à la DEF du monstre en Position de Défense, infligez la différence aux Life Points de votre adversaire en tant que dommages de combat.",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/03/19",
+  "species_id": 11,
+  "starchip": "3"
+}

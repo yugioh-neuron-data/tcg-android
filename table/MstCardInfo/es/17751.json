@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 3,
+  "card_id": 17751,
+  "card_name": "Shif, Hada de los Ghoti",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Puedes desterrar esta carta en tu Cementerio, y después selecciona 1 monstruo Pez que controles; éste gana 500 ATK hasta el final de este turno. Durante la Standby Phase del próximo turno después de que esta carta fuera desterrada: puedes Invocar esta carta desterrada de Modo Especial. Durante la Main Phase de tu adversario, si esta carta fue Invocada de Modo Especial este turno, puedes (Efecto Rápido): inmediatamente después de que se resuelva este efecto, Invocar por Sincronía 1 Monstruo de Sincronía Pez usando esta carta que controlas. Sólo puedes usar cada efecto de \"Shif, Hada de los Ghoti\" una vez por turno.",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/08/04",
+  "species_id": 8,
+  "starchip": "2"
+}

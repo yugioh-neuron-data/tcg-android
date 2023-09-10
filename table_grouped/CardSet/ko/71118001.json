@@ -1,0 +1,929 @@
+[
+  {
+    "card_count": 1,
+    "card_id": 14987,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR001",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14988,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR002",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14989,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR003",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14990,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR004",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14991,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR005",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14992,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR006",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14993,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR007",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14994,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR008",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 14994,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR008",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 14995,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR009",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 14995,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR009",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 14996,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR010",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14997,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR011",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14998,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR012",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14999,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR013",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 15000,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR014",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15001,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR015",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15002,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR016",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15003,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR017",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15004,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR018",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15005,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR019",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 15006,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR020",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 15007,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR021",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15008,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR022",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15009,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR023",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 15010,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR024",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 15011,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR025",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15012,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR026",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 15012,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR026",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 15013,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR027",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 15013,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR027",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 15014,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR028",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 15015,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR029",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15016,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR030",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 15017,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR031",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 15017,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR031",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 15017,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR031",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 15018,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR032",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 15019,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR033",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15020,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR034",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15021,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR035",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15022,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR036",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 15022,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR036",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 15023,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR037",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15024,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR038",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15025,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR039",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15026,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR040",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 15027,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR041",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 15027,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR041",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 15027,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR041",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 15028,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR042",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 15028,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR042",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 15029,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR043",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15030,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR044",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 15030,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR044",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 15030,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR044",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 15031,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR045",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 15031,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR045",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 15032,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR046",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 15032,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR046",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 15032,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR046",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 15032,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR046",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 7
+  },
+  {
+    "card_count": 1,
+    "card_id": 15033,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR047",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15034,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR048",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 15035,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR049",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15036,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR050",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 15036,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR050",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 15036,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR050",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 15037,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR051",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15038,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR052",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15039,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR053",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 15040,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR054",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 15040,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR054",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 15040,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR054",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 15041,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR055",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 15041,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR055",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 15042,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR056",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15043,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR057",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15044,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR058",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15045,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR059",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15046,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR060",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15047,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR061",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 15047,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR061",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 15048,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR062",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15049,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR063",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15050,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR064",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 15051,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR065",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 15052,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR066",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15053,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR067",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15054,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR068",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15055,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR069",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15056,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR070",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15057,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR071",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 15057,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR071",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 15058,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR072",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15059,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR073",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15060,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR074",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15061,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR075",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15062,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR076",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15063,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR077",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 15064,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR078",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 15065,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR079",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 15066,
+    "card_image_id": 1,
+    "card_number": "ETCO-KR080",
+    "language": "ko",
+    "pack_id": "71118001",
+    "rarity_id": 1
+  }
+]

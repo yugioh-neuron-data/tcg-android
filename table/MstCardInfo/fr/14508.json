@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14508,
+  "card_name": "Vision Fortune",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsque cette carte est activée : vous pouvez ajouter 1 carte \"Demoiselle de Fortune\" depuis votre Deck à votre main. Une fois par tour, si une ou plusieurs cartes que vous contrôlez sont bannies par un effet de carte (sauf durant la Damage Step) : vous pouvez activer cet effet ; ce tour (même si cette carte quitte le Terrain), les monstres que vous contrôlez ne peuvent pas être détruits par des effets de carte. Une fois par tour, si une ou plusieurs cartes contrôlées par votre adversaire sont bannies par un effet de carte (sauf durant la Damage Step) : vous pouvez faire devenir 0 les prochains dommages de combat que vous recevez ce tour (même si cette carte quitte le Terrain). Vous ne pouvez activer qu'1 \"Vision Fortune\" par tour.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/07/26",
+  "species_id": 24,
+  "starchip": "0"
+}

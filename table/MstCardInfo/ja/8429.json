@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 8429,
+  "card_name": "ボーン・フロム・ドラコニス",
+  "card_name_label": "ボーン・フロム・ドラコニス",
+  "card_name_search": "ぼーんふろむどらこにす",
+  "card_pen_effect": "",
+  "card_text": "このカードを発動するターン、自分はこのカードの効果以外ではモンスターを特殊召喚できない。①：自分の墓地及び自分フィールドの表側表示モンスターの中から、機械族・光属性モンスターを全て除外して発動できる。手札からレベル６以上の機械族・光属性モンスター１体を召喚条件を無視して特殊召喚する。この効果で特殊召喚したモンスターの攻撃力・守備力はこのカードを発動するために除外したモンスターの数×５００になり、自身以外のカードの効果を受けない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/05/12",
+  "species_id": 25,
+  "starchip": "0"
+}

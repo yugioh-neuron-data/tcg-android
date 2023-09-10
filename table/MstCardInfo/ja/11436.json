@@ -1,0 +1,23 @@
+{
+  "attack_power": "2200",
+  "attribute_id": 4,
+  "card_id": 11436,
+  "card_name": "古神クトグア",
+  "card_name_label": "コシンクトグア",
+  "card_name_search": "こしんくとぐあ",
+  "card_pen_effect": "",
+  "card_text": "チューナー＋チューナー以外のモンスター１体以上$N①：このカードがS召喚に成功した場合に発動できる。フィールドのランク４のXモンスターを全て持ち主のエクストラデッキに戻す。②：このカードを素材とした融合召喚に成功した場合に発動する。自分はデッキから１枚ドローする。③：フィールドのこのカードを素材としてX召喚したモンスターは以下の効果を得る。●このX召喚に成功した場合に発動する。自分はデッキから１枚ドローする。",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/09/19",
+  "species_id": 4,
+  "starchip": "4"
+}

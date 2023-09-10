@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 5,
+  "card_id": 9083,
+  "card_name": "レスキュー・ウォリアー",
+  "card_name_label": "レスキュー・ウォリアー",
+  "card_name_search": "れすきゅーうぉりあー",
+  "card_pen_effect": "",
+  "card_text": "このカードの戦闘によって発生する自分への戦闘ダメージは０になる。このカードが戦闘によって破壊された場合、相手フィールド上に表側表示で存在する元々の持ち主が自分となるモンスター１体を選択してコントロールを得る。",
+  "defense_power": "1700",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/07/17",
+  "species_id": 15,
+  "starchip": "4"
+}

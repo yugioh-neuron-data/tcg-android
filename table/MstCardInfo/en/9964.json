@@ -1,0 +1,23 @@
+{
+  "attack_power": "700",
+  "attribute_id": 1,
+  "card_id": 9964,
+  "card_name": "Number 7: Lucky Straight",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "3 Level 7 monsters$NYou can detach 1 Xyz Material from this card; roll a six-sided die twice and this card's ATK becomes the larger number rolled x 700 until your opponent's next End Phase, then if the total roll was exactly 7, apply 1 of these effects.$N●Send all other cards on the field to the Graveyard.$N●Special Summon 1 monster from your hand or from either Graveyard.$N●Draw 3 cards, then discard 2 cards.",
+  "defense_power": "700",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/05/08",
+  "species_id": 17,
+  "starchip": "7"
+}

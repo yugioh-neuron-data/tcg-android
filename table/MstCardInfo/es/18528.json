@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 18528,
+  "card_name": "Sinfonía Solfacorde",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Aplica estos efectos, en secuencia, basados en el número de Monstruos de Péndulo \"Solfacorde\" boca arriba con nombres diferentes en tu Deck Extra.$N●3+: Los Monstruos de Péndulo \"Solfacorde\" que controlas ganan ATK igual a su propia Escala de Péndulo x 300 este turno.$N●5+: Puedes destruir 1 carta que controle tu adversario y después, si tienes una Escala de Péndulo impar en tu Zona de Péndulo, roba 1 carta.$N●7+: Puedes Invocar de Modo Especial 1 monstruo \"Gransolfacorde\" desde tu Deck Extra.$NSólo puedes activar 1 \"Sinfonía Solfacorde\" por turno.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/05/04",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 8665,
+  "card_name": "蜘蛛の領域",
+  "card_name_label": "くものりょういき",
+  "card_name_search": "くものりょういき",
+  "card_pen_effect": "",
+  "card_text": "１ターンに１度、自分フィールド上に表側表示で存在する昆虫族モンスター１体を選択して発動する。選択したモンスターと戦闘を行った相手モンスターはバトルフェイズ終了時に守備表示になり、このカードがフィールド上に存在する限り表示形式を変更する事ができない。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/11/14",
+  "species_id": 24,
+  "starchip": "0"
+}

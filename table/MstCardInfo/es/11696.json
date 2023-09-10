@@ -1,0 +1,23 @@
+{
+  "attack_power": "1900",
+  "attribute_id": 1,
+  "card_id": 11696,
+  "card_name": "Estelcaballero Zefraxciton",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "No puedes Invocar monstruos por Péndulo, excepto monstruos \"telcaballero\" y \"Zefra\". Este efecto no puede ser negado.",
+  "card_text": "Si esta carta es Invocada de Modo Normal, por Volteo o por Péndulo: puedes seleccionar otra carta \"telcaballero\" o \"Zefra\" en tu Zona de Monstruos o Zona de Péndulo, y 1 carta Colocada que controle tu adversario; destrúyelas. Sólo puedes usar este efecto de \"Estelcaballero Zefraxciton\" una vez por turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "7",
+  "pen_scale_r": "7",
+  "sales_at": "2015/05/14",
+  "species_id": 3,
+  "starchip": "4"
+}

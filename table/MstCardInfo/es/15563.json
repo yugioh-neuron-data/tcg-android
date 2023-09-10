@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 1,
+  "card_id": 15563,
+  "card_name": "Mahaama el Dragón Hada",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante el turno de tu adversario, cuando cualquier jugador recibe daño de batalla: puedes Invocar esta carta de Modo Especial desde tu mano, y después aplicar 1 de estos efectos.$N●Gana LP iguales a ese daño de batalla.$N●Inflige daño a tu adversario igual a ese daño de batalla.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/11/05",
+  "species_id": 1,
+  "starchip": "5"
+}

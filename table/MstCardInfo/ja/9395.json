@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 6,
+  "card_id": 9395,
+  "card_name": "ダイガスタ・スフィアード",
+  "card_name_label": "ダイガスタ・スフィアード",
+  "card_name_search": "だいがすたすふぃあーど",
+  "card_pen_effect": "",
+  "card_text": "チューナー＋チューナー以外の「ガスタ」モンスター１体以上$N①：このカードがS召喚に成功した時、自分の墓地の「ガスタ」カード１枚を対象として発動できる。そのカードを手札に加える。②：このカードは戦闘では破壊されない。③：このカードがモンスターゾーンに存在する限り、自分の「ガスタ」モンスターの戦闘で発生する自分への戦闘ダメージは代わりに相手が受ける。",
+  "defense_power": "1300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/12/01",
+  "species_id": 21,
+  "starchip": "6"
+}

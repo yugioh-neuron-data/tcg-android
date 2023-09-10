@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 14993,
+  "card_name": "Dragón Noctovisión",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando tu adversario activa una carta o efecto que selecciona una o más cartas boca abajo que controlas (Efecto Rápido): puedes desterrar esta carta en tu Cementerio; niega ese efecto, y además, por el resto de este turno tu adversario no puede seleccionar con efectos de cartas esa o esas cartas boca abajo. Sólo puedes usar cada uno de los siguientes efectos de \"Dragón Noctovisión\" una vez por turno.$N●Si uno o más monstruos Dragón de OSCURIDAD son Invocados de Modo Especial a tu Campo (excepto durante el Damage Step): puedes Invocar esta carta de Modo Especial desde tu mano.$N●Si esta carta es mandada al Cementerio como Material de Enlace: puedes robar 1 carta.",
+  "defense_power": "2800",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/30",
+  "species_id": 1,
+  "starchip": "7"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 8172,
+  "card_name": "地縛神 Ccapac Apu",
+  "card_name_label": "じばくしん　コカパク　アプ",
+  "card_name_search": "じばくしんこかぱくあぷ",
+  "card_pen_effect": "",
+  "card_text": "「地縛神」と名のついたモンスターはフィールド上に１体しか表側表示で存在できない。フィールド魔法カードが表側表示で存在しない場合このカードを破壊する。相手はこのカードを攻撃対象に選択できない。このカードは相手プレイヤーに直接攻撃できる。また、このカードが戦闘によって相手モンスターを破壊した場合、破壊したモンスターの元々の攻撃力分のダメージを相手ライフに与える。",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/02/14",
+  "species_id": 3,
+  "starchip": "10"
+}

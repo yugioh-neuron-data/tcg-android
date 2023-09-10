@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 1,
+  "card_id": 11053,
+  "card_name": "武神－ヒルメ",
+  "card_name_label": "ぶじん－ヒルメ",
+  "card_name_search": "ぶじんひるめ",
+  "card_pen_effect": "",
+  "card_text": "このカードは通常召喚できない。「武神－ヒルメ」以外の自分の墓地の「武神」と名のついたモンスター１体をゲームから除外した場合に特殊召喚できる。また、この方法で特殊召喚したこのカードが相手によって破壊され墓地へ送られた場合に発動できる。自分は手札を１枚捨てる。その後、相手は手札を１枚選んで捨てる。「武神－ヒルメ」は自分フィールド上に１体しか表側表示で存在できない。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/02/15",
+  "species_id": 12,
+  "starchip": "4"
+}

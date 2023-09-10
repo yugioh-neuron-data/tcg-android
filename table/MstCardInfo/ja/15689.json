@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 6,
+  "card_id": 15689,
+  "card_name": "ドラグニティ－ギザーム",
+  "card_name_label": "ドラグニティ－ギザーム",
+  "card_name_search": "どらぐにてぃぎざーむ",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚に成功した時、自分の墓地の風属性・レベル４以下の、ドラゴン族または鳥獣族のモンスター１体を対象として発動できる。そのモンスターを特殊召喚する。この効果で特殊召喚したモンスターの効果は無効化される。②：このカードが装備カード扱いとして装備されている場合に発動できる。装備されているこのカードを特殊召喚する。",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/08/21",
+  "species_id": 1,
+  "starchip": "3"
+}

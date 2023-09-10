@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 1,
+  "card_id": 10885,
+  "card_name": "ライトロード・メイデン ミネルバ",
+  "card_name_label": "ライトロード・メイデン　ミネルバ",
+  "card_name_search": "らいとろーどめいでんみねるば",
+  "card_pen_effect": "",
+  "card_text": "①：このカードが召喚に成功した時に発動できる。自分の墓地の「ライトロード」モンスターの種類の数以下のレベルを持つドラゴン族・光属性モンスター１体をデッキから手札に加える。②：このカードが手札・デッキから墓地へ送られた場合に発動する。自分のデッキの上からカードを１枚墓地へ送る。③：自分エンドフェイズに発動する。自分のデッキの上からカードを２枚墓地へ送る。",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/11/23",
+  "species_id": 18,
+  "starchip": "3"
+}

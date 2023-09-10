@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 5,
+  "card_id": 8400,
+  "card_name": "Frutosca Naturia",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Todos los monstruos que controla tu adversario pierden 300 ATK/DEF por cada monstruo \"Naturia\" que controles. Una vez por turno: puedes seleccionar 1 monstruo con 0 DEF que controle tu adversario; hasta la End Phase, toma el control de ese objetivo.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/12/02",
+  "species_id": 10,
+  "starchip": "3"
+}

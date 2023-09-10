@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 10996,
+  "card_name": "Äußeres Wesen Nyarla",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 Monster der Stufe 4$NWenn diese Karte als Xyz-Beschwörung beschworen wird: Du kannst eine beliebige Anzahl Karten abwerfen; erhöhe den Rang dieser Karte um die Anzahl der abgeworfenen Karten. Einmal pro Spielzug, solange diese Karte Xyz-Material hat: Du kannst 1 Monster in deinem Friedhof wählen; hänge alles Material von dieser Karte ab und falls du dies tust, hänge das gewählte Ziel als Material an diese Karte an. Wenn ein Monster durch diesen Effekt angehängt wird, werden Typ und Eigenschaft dieser Karte die gleichen wie Grund-Typ und -Eigenschaft des Monsters.",
+  "defense_power": "2600",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/08/16",
+  "species_id": 3,
+  "starchip": "4"
+}

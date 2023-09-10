@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11202,
+  "card_name": "Nobili Cavalieri della Tavola Rotonda",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante la tua End Phase: puoi attivare ognuno di questi effetti fino a una volta per turno, a seconda del numero totale di carte \"Nobile Cavaliere\" con nomi diversi nel tuo Cimitero e/o che controlli;$N●3+: Manda 1 carta \"Nobile Cavaliere\" dal tuo Deck al Cimitero.$N●6+: Evoca Specialmente 1 mostro \"Nobile Cavaliere\" dalla tua mano, poi puoi equipaggiare 1 Magia Equipaggiamento \"Nobili Armi\" dalla tua mano a quel mostro.$N●9+: Scegli come bersaglio 1 mostro \"Nobile Cavaliere\" nel tuo Cimitero; aggiungi quel bersaglio alla tua mano.$N●12: Pesca 1 carta.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/05/15",
+  "species_id": 24,
+  "starchip": "0"
+}

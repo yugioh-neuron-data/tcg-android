@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 16883,
+  "card_name": "トライブ・ドライブ",
+  "card_name_label": "トライブ・ドライブ",
+  "card_name_search": "とらいぶどらいぶ",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：自分フィールドのモンスターの種族が３種類以上の場合に発動できる。自分フィールドのモンスターと同じ種族のモンスターをデッキから３体選ぶ（同じ種族は１体まで）。相手はその中からランダムに１体を選び、自分はそのモンスターを手札に加えるか特殊召喚する。残りのモンスターは好きな順番でデッキの下に戻す。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/10/16",
+  "species_id": 25,
+  "starchip": "0"
+}

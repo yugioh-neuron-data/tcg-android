@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 10700,
+  "card_name": "Zombiguau",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando esta carta declara un ataque, gana 500 ATK. Si esta carta en el Campo es destruida y mandada al Cementerio: puedes Invocar de Modo Especial, desde tu Deck, 1 monstruo de Nivel 1 con 0 ATK y DEF. Sus efectos son negados, y además es destruido durante tu próxima End Phase.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/07/11",
+  "species_id": 2,
+  "starchip": "2"
+}

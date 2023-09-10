@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 4,
+  "card_id": 14111,
+  "card_name": "Salamangrande Quimera Violeta",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 monstruo \"Salamangrande\" + 1 Monstruo de Enlace$NSi esta carta es Invocada por Fusión: hasta el final de este turno, puedes hacer que esta carta gane ATK igual a la mitad de los ATK originales combinados de los materiales usados para Invocarla. Una vez por batalla, durante el cálculo de daño, si este monstruo batalla con un monstruo cuyo ATK en este momento sea diferente a su ATK original (Efecto Rápido): puedes duplicar el ATK de esta carta, sólo durante el cálculo de daño. Si esta carta que fue Invocada por Fusión usando \"Salamangrande Quimera Violeta\" como material batalla con un monstruo, el ATK de ese monstruo se convierte en 0, sólo durante el cálculo de daño.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/01/31",
+  "species_id": 27,
+  "starchip": "8"
+}

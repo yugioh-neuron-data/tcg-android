@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 11746,
+  "card_name": "Escolhido de Zefra",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Este card ganha esses efeitos dependendo do número de monstros \"Zefra\" com a face para cima com nomes diferentes no seu Deck Adicional.$N●3 ou mais: Os monstros que você controla ganham 100 de ATK para cada card com a face para cima em qualquer Deck Adicional.$N●5 ou mais: Os monstros que você controla não podem ser destruídos pelos efeitos de card do oponente.$N●8 ou mais: Os monstros que você controla não podem ser escolhidos como alvo dos efeitos de card do oponente.$N●10: Você pode enviar este card para o Cemitério; embaralhe no Deck todos os cards na mão, no campo e no Cemitério do seu oponente.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/05/14",
+  "species_id": 25,
+  "starchip": "0"
+}

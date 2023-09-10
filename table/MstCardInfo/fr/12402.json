@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 2,
+  "card_id": 12402,
+  "card_name": "Frondeur Extra Potartiste",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Durant votre Main Phase : vous pouvez infliger 300 points de dommages à votre adversaire pour chaque Monstre Pendule face recto dans votre Extra Deck. Vous ne pouvez utiliser cet effet de \"Frondeur Extra Potartiste\" qu'une fois par tour. Vous ne pouvez pas Invoquer par Pendulation le tour où vous activez cet effet.",
+  "card_text": "Une fois par tour : vous pouvez bannir 1 carte depuis votre Extra Deck, puis ciblez 1 carte dans une Zone Pendule ; détruisez-la, et si vous le faites, infligez 300 points de dommages à votre adversaire.",
+  "defense_power": "1100",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "6",
+  "pen_scale_r": "6",
+  "sales_at": "2016/08/04",
+  "species_id": 18,
+  "starchip": "3"
+}

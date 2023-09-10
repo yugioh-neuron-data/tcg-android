@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 16835,
+  "card_name": "マッド・ハッカー",
+  "card_name_label": "マッド・ハッカー",
+  "card_name_search": "まっどはっかー",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：相手フィールドにモンスターが特殊召喚された場合に発動できる。このカードを手札から特殊召喚する。②：自分・相手のエンドフェイズに、フィールドのこのカードを除外して発動できる。相手フィールドの攻撃力が一番低いモンスター１体のコントロールを得る。そのモンスターが自分フィールドに表側表示で存在する限り、そのモンスターは効果を発動できず、自分はリンクモンスターしかEXデッキから特殊召喚できない。",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/10/16",
+  "species_id": 27,
+  "starchip": "2"
+}

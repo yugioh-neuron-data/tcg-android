@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 6,
+  "card_id": 8793,
+  "card_name": "D・クリーナン",
+  "card_name_label": "ディフォーマー・クリーナン",
+  "card_name_search": "でぃふぉーまーくりーなん",
+  "card_pen_effect": "",
+  "card_text": "このカードはこのカードの表示形式によって以下の効果を得る。●攻撃表示：１ターンに１度、このカードに装備された装備カード１枚を墓地へ送る事で、相手ライフに５００ポイントダメージを与える。●守備表示：１ターンに１度、相手フィールド上に表側攻撃表示で存在するモンスター１体を選択し、装備カード扱いとしてこのカードに１体のみ装備できる。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/02/20",
+  "species_id": 7,
+  "starchip": "1"
+}

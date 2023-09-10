@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 3,
+  "card_id": 14992,
+  "card_name": "Marincipessa Basilalima",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se uno o più mostri che controlli stanno per essere distrutti dall'effetto di una carta, puoi invece bandire questa carta dal tuo Cimitero. Puoi utilizzare ognuno dei seguenti effetti di \"Marincipessa Basilalima\" una sola volta per turno.$N●Puoi bandire 1 Trappola \"Marincipessa\" dal tuo Cimitero; aggiungi 1 Trappola \"Marincipessa\" con un nome diverso dal tuo Deck alla tua mano.$N●Se questa carta viene bandita: puoi scegliere come bersaglio 1 mostro scoperto che controlli; esso guadagna 600 ATK.",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/30",
+  "species_id": 27,
+  "starchip": "4"
+}

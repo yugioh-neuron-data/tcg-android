@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 8981,
+  "card_name": "エレキュア",
+  "card_name_label": "エレキュア",
+  "card_name_search": "えれきゅあ",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上に存在する雷族モンスターが相手ライフに戦闘ダメージを与えた時、与えた戦闘ダメージの数値分だけ自分のライフポイントを回復する。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/04/17",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 3,
+  "card_id": 14485,
+  "card_name": "Magibilancia",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Puoi dichiarare un Livello tra 1 e 6, poi scegliere come bersaglio 2 mostri scoperti che controlli; fino alla fine di questo turno, riduci il Livello di 1 di quei mostri dell'ammontare dichiarato e, se lo fai, aumenta il Livello dell'altro dello stesso ammontare (anche se questa carta lascia il Terreno). Puoi utilizzare questo effetto di \"Magibilancia\" una sola volta per turno.",
+  "card_text": "Una bilancia senziente. Mantiene l'equilibrio dell'universo, ma spesso mette le stelle dalla parte sbagliata.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 44,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2019/07/26",
+  "species_id": 18,
+  "starchip": "4"
+}

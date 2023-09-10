@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 2,
+  "card_id": 18161,
+  "card_name": "Attore dell'Abisso - Drammaturga Libertà",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Quando un mostro dichiara un attacco: puoi scartare 1 carta; Evoca Specialmente questa carta sul Terreno del tuo avversario. Puoi utilizzare questo effetto di \"Attore dell'Abisso - Drammaturga Libertà\" una sola volta per turno.",
+  "card_text": "Se questa carta viene Evocata Specialmente dalla Zona Pendulum: il proprietario di questa carta rivela 3 Magie \"Sceneggiatura dell'Abisso\" dal suo Deck, il suo avversario ne prende 1 a caso da far Posizionare sul suo Terreno al proprietario di questa carta (ma il proprietario la distrugge durante la End Phase), inoltre mischia il resto nel Deck. Se questa carta viene distrutta: puoi mischiare 1 Magia \"Sceneggiatura dell'Abisso\" dal tuo Cimitero nel Deck. Puoi utilizzare ogni effetto di \"Attore dell'Abisso - Drammaturga Libertà\" una sola volta per turno.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "8",
+  "pen_scale_r": "8",
+  "sales_at": "2023/02/06",
+  "species_id": 3,
+  "starchip": "4"
+}

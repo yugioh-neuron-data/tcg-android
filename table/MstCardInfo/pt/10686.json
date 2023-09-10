@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 2,
+  "card_id": 10686,
+  "card_name": "Comandante Arquidemônio",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se você controlar um card \"Arquidemônio\", você pode Invocar este card por Invocação-Especial (da sua mão), mas ele não pode atacar neste turno. Você só pode Invocar \"Comandante Arquidemônio\" por Invocação-Especial uma vez por turno desta forma. Quando ele for Invocado por Invocação-Especial desta forma: escolha 1 card \"Arquidemônio\" que você controla; destrua o alvo. Quando este card for Invocado por Invocação-Tributo: você pode escolher 1 monstro \"Arquidemônio\" de Nível 6 no seu Cemitério; Invoque o alvo por Invocação-Especial com a face para cima em Posição de Defesa.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/08/29",
+  "species_id": 3,
+  "starchip": "6"
+}

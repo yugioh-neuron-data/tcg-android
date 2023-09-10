@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 17460,
+  "card_name": "烙印の命数",
+  "card_name_label": "らくいんのセントラル・ドラグマ",
+  "card_name_search": "らくいんのせんとらるどらぐま",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分が魔法カードの効果で儀式モンスター１体のみを特殊召喚した場合に発動できる。自分または相手のEXデッキを確認し、その内のモンスター１体を選んで墓地へ送る。②：自分が魔法カードの効果で融合モンスター１体のみを特殊召喚した場合、そのモンスター１体を対象として発動できる。そのモンスターはターン終了時まで、攻撃力が自身の元々の攻撃力分アップし、相手フィールドの攻撃表示モンスターにしか攻撃できない。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/04/23",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 10750,
+  "card_name": "ゴーストリックの雪女",
+  "card_name_label": "ゴーストリックのゆきおんな",
+  "card_name_search": "ごーすとりっくのゆきおんな",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上に「ゴーストリック」と名のついたモンスターが存在する場合のみ、このカードは表側表示で召喚できる。このカードは１ターンに１度だけ裏側守備表示にする事ができる。また、このカードが戦闘によって破壊され墓地へ送られた時に発動できる。このカードを破壊したモンスターは裏側守備表示になり、表示形式を変更できない。",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/07/20",
+  "species_id": 18,
+  "starchip": "2"
+}

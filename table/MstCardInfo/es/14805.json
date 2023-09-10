@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14805,
+  "card_name": "Espada Supermágica de Raptinus",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Al comienzo de la Battle Phase: puedes cambiar la posición de batalla del monstruo equipado y, si lo haces, Invoca 1 monstruo de Modo Normal inmediatamente después de que se resuelva este efecto. Sólo puedes usar este efecto de \"Espada Supermágica de Raptinus\" una vez por turno. Aplica este efecto dependiendo de la posición de batalla del monstruo equipado.$N●Posición de Ataque: tu adversario no puede seleccionar el monstruo equipado para efectos de cartas.$N●Posición de Defensa: el monstruo equipado no puede ser destruido en batalla.",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/06/18",
+  "species_id": 24,
+  "starchip": "0"
+}

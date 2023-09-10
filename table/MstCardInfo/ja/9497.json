@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 5,
+  "card_id": 9497,
+  "card_name": "静寂のサイコウィッチ",
+  "card_name_label": "せいじゃくのサイコウィッチ",
+  "card_name_search": "せいじゃくのさいこうぃっち",
+  "card_pen_effect": "",
+  "card_text": "フィールド上に存在するこのカードが破壊され墓地へ送られた時、自分のデッキから攻撃力２０００以下のサイキック族モンスター１体をゲームから除外する事ができる。次のスタンバイフェイズ時、この効果で除外したモンスターを特殊召喚する。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/02/11",
+  "species_id": 21,
+  "starchip": "3"
+}

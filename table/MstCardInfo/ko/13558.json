@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 1,
+  "card_id": 13558,
+  "card_name": "백업 오퍼레이터",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드명의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 자신의 링크 몬스터의 링크 앞의 앞면 표시 몬스터 1장을 대상으로 하고 발동할 수 있다. 이 카드를 패에서 특수 소환하고, 대상 몬스터를 주인의 패로 되돌린다. 이 효과로 특수 소환한 이 카드는, 필드에서 벗어났을 경우에 제외된다.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/04/10",
+  "species_id": 27,
+  "starchip": "3"
+}

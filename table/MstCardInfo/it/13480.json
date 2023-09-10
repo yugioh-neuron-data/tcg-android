@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 5,
+  "card_id": 13480,
+  "card_name": "Struttura-Ingranaggio Antico",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Puoi scartare 1 carta; aggiungi 1 \"Golem-Ingranaggio Antico\", o 1 Magia/Trappola che indica specificamente la carta \"Golem-Ingranaggio Antico\" nel suo testo, dal tuo Deck alla tua mano. Puoi utilizzare questo effetto di \"Struttura-Ingranaggio Antico\" una sola volta per turno. Se questa carta attacca, il tuo avversario non può attivare Carte Magia/Trappola fino alla fine del Damage Step. Se questa carta scoperta sotto il controllo del suo proprietario lascia il Terreno a causa dell'effetto di una carta dell'avversario: puoi Evocare Specialmente fino a 3 \"Golem-Ingranaggio Antico\" e/o \"Golem-Ingranaggio Antico - Picchiatore Finale\" dalla tua mano, ignorando le loro condizioni di Evocazione.",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/02/22",
+  "species_id": 7,
+  "starchip": "4"
+}

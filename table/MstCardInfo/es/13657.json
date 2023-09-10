@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 3,
+  "card_id": 13657,
+  "card_name": "Helmer, Timonel Mascota a Sueldo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante tu Main Phase: puedes Invocar de Modo Especial, desde tu mano, 1 monstruo \"Mascota a Sueldo\", excepto \"Helmer, Timonel Mascota a Sueldo\". Si un monstruo \"Mascota a Sueldo\" es Invocado de Modo Especial a tu Campo mientras controlas este monstruo (excepto durante el Damage Step): puedes descartar 1 carta \"Mascota a Sueldo\"; roba 1 carta. Sólo puedes usar cada efecto de \"Helmer, Timonel Mascota a Sueldo\" una vez por turno.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/05/24",
+  "species_id": 14,
+  "starchip": "3"
+}

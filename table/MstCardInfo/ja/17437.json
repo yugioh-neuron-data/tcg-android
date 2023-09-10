@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 5,
+  "card_id": 17437,
+  "card_name": "プロパ・ガンダケ",
+  "card_name_label": "プロパ・ガンダケ",
+  "card_name_search": "ぷろぱがんだけ",
+  "card_pen_effect": "",
+  "card_text": "①：１ターンに１度、自分フィールドのモンスターの元々の種族（獣族・昆虫族・植物族・岩石族）を１つ宣言して発動できる。このカードは宣言した種族になる。②：このカードの①の効果を適用したこのカードがモンスターゾーンに存在する限り、以下の効果を適用する。$N●フィールドの表側表示モンスターはこのカードと同じ種族になる。$N●このカードと同じ種族のフィールドのモンスターは同じ種族の相手フィールドのモンスターの効果の対象にならない。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/04/23",
+  "species_id": 21,
+  "starchip": "3"
+}

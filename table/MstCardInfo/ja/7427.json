@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 5,
+  "card_id": 7427,
+  "card_name": "ギガプラント",
+  "card_name_label": "ギガプラント",
+  "card_name_search": "ぎがぷらんと",
+  "card_pen_effect": "",
+  "card_text": "①：このカードはフィールド・墓地に存在する限り、通常モンスターとして扱う。②：フィールドの通常モンスター扱いのこのカードを通常召喚としてもう１度召喚できる。その場合このカードは効果モンスター扱いとなり以下の効果を得る。$N●１ターンに１度、自分メインフェイズに発動できる。自分の手札・墓地から昆虫族または植物族のモンスター１体を選んで特殊召喚する。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 9,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/11/23",
+  "species_id": 13,
+  "starchip": "6"
+}

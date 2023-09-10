@@ -1,0 +1,23 @@
+{
+  "attack_power": "4000",
+  "attribute_id": 2,
+  "card_id": 6405,
+  "card_name": "邪神ドレッド・ルート",
+  "card_name_label": "じゃしんドレッド・ルート",
+  "card_name_search": "じゃしんどれっどるーと",
+  "card_pen_effect": "",
+  "card_text": "このカードは特殊召喚できない。自分フィールドのモンスター３体をリリースした場合のみ通常召喚できる。①：このカードがモンスターゾーンに存在する限り、このカード以外のフィールドのモンスターの攻撃力・守備力は半分になる。",
+  "defense_power": "4000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/04/21",
+  "species_id": 3,
+  "starchip": "10"
+}

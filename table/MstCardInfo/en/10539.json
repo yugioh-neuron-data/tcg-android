@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10539,
+  "card_name": "Magnum Shield",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Equip only to a Warrior-Type monster. Apply this effect, depending on its battle position.$N●Attack Position: It gains ATK equal to its original DEF.$N●Defense Position: It gains DEF equal to its original ATK.",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/05/17",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 2,
+  "card_id": 13881,
+  "card_name": "トークバック・ランサー",
+  "card_name_label": "トークバック・ランサー",
+  "card_name_search": "とーくばっくらんさー",
+  "card_pen_effect": "",
+  "card_text": "レベル２以下のサイバース族モンスター１体$Nこのカード名の効果は１ターンに１度しか使用できない。①：このカード以外の自分フィールドのサイバース族モンスター１体をリリースし、そのモンスターと元々のカード名が異なる自分の墓地の「コード・トーカー」モンスター１体を対象として発動できる。そのモンスターをこのカードのリンク先となる自分フィールドに特殊召喚する。",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "2",
+  "linkno": "1",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/06/23",
+  "species_id": 27,
+  "starchip": ""
+}

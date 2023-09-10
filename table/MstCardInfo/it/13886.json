@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13886,
+  "card_name": "Festa Link",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Applica questo effetto a seconda del numero di Attributi originali diversi dei Mostri Link sul Terreno.$N●1: Tutti i Mostri Link che controlli guadagnano 500 ATK.$N●2: Tutti i Mostri Link controllati dal tuo avversario perdono 1000 ATK.$N●3: Guadagni 1500 LP.$N●4: Infliggi 2000 danni al tuo avversario.$N●5: Evoca Specialmente 1 mostro con ATK 2500 o superiore dal tuo Deck.$N●6: Distruggi tutti i mostri controllati dal tuo avversario con ATK 3000 o inferiore.$NPuoi attivare solo 1 \"Festa Link\" per turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/01/30",
+  "species_id": 24,
+  "starchip": "0"
+}

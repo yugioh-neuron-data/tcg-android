@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14693,
+  "card_name": "Mente Antigua",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Mira 1 carta al azar de la mano de tu adversario, y después aplica 1 de los siguientes efectos.$N●Descarta esa carta del adversario y 1 carta en tu mano del mismo tipo (Monstruo, Mágica o Trampa), y después añade a la mano de tu adversario esta carta en el Campo y, si lo haces, roba 1 carta.$N●Pierde 1000 LP.$NSólo puedes activar 1 \"Mente Antigua\" por turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/10/24",
+  "species_id": 24,
+  "starchip": "0"
+}

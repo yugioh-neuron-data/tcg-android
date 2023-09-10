@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 6,
+  "card_id": 7608,
+  "card_name": "ディスクライダー",
+  "card_name_label": "ディスクライダー",
+  "card_name_search": "でぃすくらいだー",
+  "card_pen_effect": "",
+  "card_text": "１ターンに１度、自分の墓地の通常罠カード１枚を選択して発動できる。選択したカードをゲームから除外し、このカードの攻撃力を相手のエンドフェイズ時まで５００ポイントアップする。",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/02/23",
+  "species_id": 3,
+  "starchip": "4"
+}

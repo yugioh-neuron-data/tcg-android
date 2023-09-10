@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 5,
+  "card_id": 6326,
+  "card_name": "그레이브 오우자",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "자신 필드 위에 뒷면 수비 표시 몬스터가 존재하는 한, 이 카드를 공격 대상으로 선택할 수 없다. 자신 필드 위의 몬스터가 반전 소환할 때마다, 상대 라이프에 300 포인트 데미지를 준다.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/08/29",
+  "species_id": 6,
+  "starchip": "4"
+}

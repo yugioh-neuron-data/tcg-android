@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 2,
+  "card_id": 13170,
+  "card_name": "Dragão Retalhador de Olhos Vermelhos",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"Dragão Negro de Olhos Vermelhos\" + 1 monstro Guerreiro$NQuando um monstro \"Olhos Vermelhos\" declarar um ataque: você pode escolher 1 monstro Guerreiro no seu Cemitério; equipe-o a este card como uma Magia de Equipamento que concede 200 de ATK a este card. Quando um card ou efeito for ativado que escolha como alvo um card que você controla (Efeito Rápido): você pode enviar 1 Card de Equipamento que você controla para o Cemitério; negue a ativação e, se isso acontecer, destrua esse card. Se este card for destruído em batalha ou por um efeito de card: você pode Invocar por Invocação-Especial tantos monstros do seu Cemitério quanto possível que estavam equipados neste card.",
+  "defense_power": "2400",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/09/07",
+  "species_id": 1,
+  "starchip": "7"
+}

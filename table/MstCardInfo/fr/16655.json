@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16655,
+  "card_name": "Perce-Ténèbres",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si vous Invoquez Normalement ou Spécialement un ou plusieurs Monstres Normaux non-Jeton (sauf durant la Damage Step) : vous pouvez piocher 1 carte. Lorsqu'une attaque est déclarée, impliquant un monstre de l'adversaire et un monstre que vous contrôlez qui est un Monstre Normal de min. Niveau 5, ou qui a été Invoqué Rituellement en utilisant un Monstre Normal, ou qui a été Invoqué par Fusion, Synchro ou Xyz en utilisant un Monstre Normal comme Matériel : jusqu'à la fin de ce tour, vous pouvez faire gagner au monstre que vous contrôlez une ATK égale à l'ATK du monstre de l'adversaire. Vous ne pouvez utiliser chaque effet de \"Perce-Ténèbres\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/09/30",
+  "species_id": 24,
+  "starchip": "0"
+}

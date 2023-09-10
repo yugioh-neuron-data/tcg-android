@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 8064,
+  "card_name": "Flèche d'Ébène",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Sélectionnez 1 monstre face recto que vous contrôlez. Jusqu'à la End Phase, il perd 500 ATK et durant un combat entre cette carte attaquant et un monstre en Position de Défense dont la DEF est inférieure à l'ATK du monstre sélectionné, infligez la différence en tant que dommages de combat à votre adversaire. Lorsque le monstre sélectionné détruit un monstre au combat et l'envoie au Cimetière ce tour, infligez des dommages à votre adversaire égaux à la DEF d'origine du monstre détruit.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/03/03",
+  "species_id": 25,
+  "starchip": "0"
+}

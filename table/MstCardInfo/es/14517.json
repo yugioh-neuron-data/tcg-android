@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 14517,
+  "card_name": "Corriente Marincesa",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando un Monstruo de Enlace \"Marincesa\" que controlas destruye un monstruo del adversario en batalla: inflige daño a tu adversario igual al Rating de Enlace de ese monstruo que controlas x 400 y después, si has destruido un Monstruo de Enlace del adversario en batalla mientras controlabas un monstruo \"Marincesa\" de Link-2 o mayor, inflige daño a tu adversario igual al Rating de Enlace de ese monstruo destruido x 500. Sólo puedes activar 1 \"Corriente Marincesa\" por turno. Si controlas un monstruo \"Marincesa\" de Link-3 o mayor, puedes activar esta carta desde tu mano.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/07/26",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11610,
+  "card_name": "Symph Amplifire",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Each time an effect of a \"Symphonic Warrior\" card is activated, place 1 Symphonic Counter on this card when that effect resolves. All \"Symphonic Warrior\" monsters on the field gain 100 ATK for each Symphonic Counter on this card. Once per turn: You can remove 5 or 7 Symphonic Counters from your field; apply this effect, depending on the number of Symphonic Counters removed.$N●5: Inflict 300 damage to your opponent for each \"Symphonic Warrior\" card on the field.$N●7: Banish cards your opponent controls and/or in their GY, up to the number of \"Symphonic Warrior\" cards on the field.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/02/10",
+  "species_id": 24,
+  "starchip": "0"
+}

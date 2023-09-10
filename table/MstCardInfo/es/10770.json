@@ -1,0 +1,23 @@
+{
+  "attack_power": "2200",
+  "attribute_id": 6,
+  "card_id": 10770,
+  "card_name": "Luchador Genomix",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Puedes Invocar esta carta de Modo Normal sin Sacrificar, pero su ATK original se divide a la mitad y su Nivel se convierte en 3. Una vez por turno: puedes declarar 1 Tipo de Monstruo; si este turno esta carta es usada como Monstruo Material de Sincronía, trata a esta carta y a los otros Monstruos Material de Sincronía como si fueran de ese Tipo de Monstruo para esa Invocación por Sincronía. Si activas este efecto, el resto de este turno no puedes Invocar monstruos de Modo Normal o Especial, excepto monstruos con el Tipo declarado.",
+  "defense_power": "1100",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/11/07",
+  "species_id": 21,
+  "starchip": "6"
+}

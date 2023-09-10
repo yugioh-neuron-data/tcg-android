@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 1,
+  "card_id": 8940,
+  "card_name": "一角獣の使い魔",
+  "card_name_label": "いっかくじゅうのつかいま",
+  "card_name_search": "いっかくじゅうのつかいま",
+  "card_pen_effect": "",
+  "card_text": "表側守備表示で存在するこのカードが攻撃対象に選択された時、このカード以外の自分フィールド上に存在するモンスター１体をゲームから除外する事で、このカードをゲームから除外する事ができる。その時の攻撃モンスターは攻撃しなければならない。この効果で除外したこのカードは、次の自分のスタンバイフェイズ時にフィールド上に戻る。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/04/17",
+  "species_id": 11,
+  "starchip": "2"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 3,
+  "card_id": 10926,
+  "card_name": "凍氷帝メビウス",
+  "card_name_label": "とうひょうていメビウス",
+  "card_name_search": "とうひょうていめびうす",
+  "card_pen_effect": "",
+  "card_text": "このカードはアドバンス召喚したモンスター１体をリリースしてアドバンス召喚できる。このカードがアドバンス召喚に成功した時、フィールド上の魔法・罠カードを３枚まで選択して破壊できる。このカードが水属性モンスターをリリースしてアドバンス召喚に成功した場合、その時の効果に以下の効果を加える。$N●この効果の発動に対して相手は選択されたカードを発動できない。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/11/16",
+  "species_id": 14,
+  "starchip": "8"
+}

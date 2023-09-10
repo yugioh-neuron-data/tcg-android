@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 1,
+  "card_id": 10307,
+  "card_name": "No.91 サンダー・スパーク・ドラゴン",
+  "card_name_label": "ナンバーズ９１ サンダー・スパーク・ドラゴン",
+  "card_name_search": "なんばーずきゅうじゅういちさんだーすぱーくどらごん",
+  "card_pen_effect": "",
+  "card_text": "レベル４モンスター×３$N①：１ターンに１度、このカードのX素材を以下の数だけ取り除き、その効果を発動できる。$N●３つ：このカード以外のフィールドの表側表示モンスターを全て破壊する。$N●５つ：相手フィールドのカードを全て破壊する。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/05/21",
+  "species_id": 1,
+  "starchip": "4"
+}

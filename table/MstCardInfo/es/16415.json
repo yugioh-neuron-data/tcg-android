@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16415,
+  "card_name": "École de Zone",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si el jugador en turno Invoca exactamente 1 monstruo: destrúyelo y, si lo haces, el controlador de ese monstruo Invoca de Modo Especial a su Campo 1 \"Ficha Máscara\" (Lanzador de Conjuros/OSCURIDAD/Nivel 1/ATK ?/DEF ?), que no puede atacar directamente, con ATK/DEF iguales a los que el monstruo destruido tenía en el Campo. Sólo puedes usar este efecto de \"École de Zone\" una vez por turno. Si esta carta boca arriba deja el Campo, destruye todas las \"Ficha Máscara\" en el Campo.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/12/02",
+  "species_id": 24,
+  "starchip": "0"
+}

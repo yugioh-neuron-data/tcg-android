@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 12344,
+  "card_name": "Lisis Amórfaga",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Todos los monstruos en el Campo, excepto los monstruos \"Amórfago/a\", pierden 100 ATK y DEF por cada carta \"Amórfago/a\" en el Campo. Si una o más cartas en tu Zona del Péndulo son destruidas (excepto durante el Damage Step): puedes poner en tu Zona del Péndulo 1 Monstruo de Péndulo \"Amórfago/a\" en tu Deck. Sólo puedes usar este efecto de \"Lisis Amórfaga\" una vez por turno.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/05/05",
+  "species_id": 25,
+  "starchip": "0"
+}

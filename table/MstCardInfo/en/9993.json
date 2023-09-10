@@ -1,0 +1,23 @@
+{
+  "attack_power": "1650",
+  "attribute_id": 2,
+  "card_id": 9993,
+  "card_name": "Evilswarm Thunderbird",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "During either player's turn, when a card or effect is activated (except during the Damage Step): You can banish this card you control. During the next Standby Phase, return this card banished by this effect to the field, and if you do, it gains 300 ATK. You can only use this effect of \"Evilswarm Thunderbird\" once per turn.",
+  "defense_power": "1050",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/02/01",
+  "species_id": 19,
+  "starchip": "4"
+}

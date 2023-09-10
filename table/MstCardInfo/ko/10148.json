@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 4,
+  "card_id": 10148,
+  "card_name": "마도전사 포르스",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1턴에 1번, 자신 묘지의 \"마도서\"라는 이름이 붙은 마법 카드 1장을 덱으로 되돌리고, 필드 위의 마법사족 몬스터 1장을 선택하고 발동할 수 있다. 선택한 몬스터의 레벨을 1개 올리고, 공격력을 500 포인트 올린다.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/07/03",
+  "species_id": 18,
+  "starchip": "4"
+}

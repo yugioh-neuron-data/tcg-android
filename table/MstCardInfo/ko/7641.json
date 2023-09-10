@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 7641,
+  "card_name": "사신의 순유",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "상대 턴의 스텐바이 페이즈시에 코인 토스를 1회 실행하고 이하의 효과를 적용한다.$N●앞 : 상대는 엔드 페이즈시까지 일반 소환/반전 소환을 할 수 없다.$N●뒤 : 자신은 다음 자신의 턴에 일반 소환/반전 소환을 할 수 없다.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/06/02",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 5,
+  "card_id": 14891,
+  "card_name": "モンスターエクスプレス",
+  "card_name_label": "モンスターエクスプレス",
+  "card_name_search": "もんすたーえくすぷれす",
+  "card_pen_effect": "",
+  "card_text": "このカード名の効果は１ターンに１度しか使用できない。①：自分フィールドの表側表示モンスター１体を対象として発動できる。元々の種族がその表側表示モンスターと同じモンスター１体をEXデッキから墓地へ送る。このターン、自分はこの効果で墓地へ送ったモンスター及びそのモンスターと元々の種族が同じモンスターしか特殊召喚できない。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/10/03",
+  "species_id": 7,
+  "starchip": "4"
+}

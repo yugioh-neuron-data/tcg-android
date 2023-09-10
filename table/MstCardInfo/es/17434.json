@@ -1,0 +1,23 @@
+{
+  "attack_power": "1850",
+  "attribute_id": 5,
+  "card_id": 17434,
+  "card_name": "Aussa la Canalizadora de la Tierra",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "(Esta carta se trata siempre como una carta \"el/la Encantador/a\").$NPuedes descartar esta carta y 1 monstruo de TIERRA; añade a tu mano 1 monstruo de TIERRA en tu Deck con 1850 ATK o menos, cuyo Tipo original sea el mismo que el de uno de los monstruos descartados, y además no puedes activar efectos de monstruos que no sean de TIERRA por el resto de este turno. Cuando tu monstruo de TIERRA es destruido en batalla: puedes Invocar esta carta de Modo Especial desde tu mano. Sólo puedes usar cada efecto de \"Aussa la Canalizadora de la Tierra\" una vez por turno.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/08/04",
+  "species_id": 18,
+  "starchip": "5"
+}

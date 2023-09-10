@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 5,
+  "card_id": 10158,
+  "card_name": "기아기아크셀",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "자신 필드 위에 \"기아기아\"라는 이름이 붙은 몬스터가 존재할 경우, 이 카드는 패에서 앞면 수비 표시로 특수 소환할 수 있다. 또한, 이 카드가 필드 위에서 묘지로 보내졌을 때, 자신의 묘지에서 \"기아기아크셀\" 이외의 \"기아기아\"라는 이름이 붙은 몬스터 1장을 선택하고 패에 넣을 수 있다.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/07/03",
+  "species_id": 7,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 7409,
+  "card_name": "Yubel",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Diese Karte kann nicht durch Kampf zerstört werden. Du erhältst keinen Kampfschaden aus Kämpfen mit dieser Karte. Vor der Schadensberechnung, wenn diese Karte in offener Angriffsposition von einem Monster deines Gegners angegriffen wird: Füge deinem Gegner Schaden in Höhe der ATK des Monsters zu. Während deiner End Phase: Biete 1 anderes Monster als Tribut an oder zerstöre diese Karte. Wenn diese Karte zerstört wird, außer durch ihren eigenen Effekt: Ihr Besitzer kann 1 „Yubel - Terrorinkarnation“ als Spezialbeschwörung von seiner Hand, seinem Deck oder seinem Friedhof beschwören.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/01/26",
+  "species_id": 3,
+  "starchip": "10"
+}

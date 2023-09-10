@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 6417,
+  "card_name": "Ciber Archidemonio",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Al principio de tu Draw Phase, si no tienes cartas en tu mano, roba 1 carta más además de la que robas normalmente. Durante tu End Phase, si tienes 1 o más cartas en tu mano, destruye esta carta.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/08/06",
+  "species_id": 3,
+  "starchip": "4"
+}

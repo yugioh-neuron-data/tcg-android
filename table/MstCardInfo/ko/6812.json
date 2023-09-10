@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 6812,
+  "card_name": "세뇌광선",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "상대 필드 위의 A 카운터가 얹힌 몬스터 1장을 선택하고 컨트롤을 얻는다. 자신의 엔드 페이즈마다, 선택한 몬스터의 A 카운터를 1개 제거한다. 그 몬스터의 A 카운터가 전부 제거되거나 그 몬스터가 파괴되었을 경우, 이 카드를 파괴한다.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/08/10",
+  "species_id": 25,
+  "starchip": "0"
+}

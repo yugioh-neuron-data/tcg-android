@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 2,
+  "card_id": 10761,
+  "card_name": "シャドウ・ヴァンパイア",
+  "card_name_label": "シャドウ・ヴァンパイア",
+  "card_name_search": "しゃどうう゛ぁんぱいあ",
+  "card_pen_effect": "",
+  "card_text": "このカードをX召喚の素材とする場合、闇属性モンスターのX召喚にしか使用できない。①：このカードが召喚に成功した時に発動できる。手札・デッキから「シャドウ・ヴァンパイア」以外の闇属性の「ヴァンパイア」モンスター１体を特殊召喚する。この効果で特殊召喚に成功したターン、そのモンスター以外の自分のモンスターは攻撃できない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/07/20",
+  "species_id": 2,
+  "starchip": "5"
+}

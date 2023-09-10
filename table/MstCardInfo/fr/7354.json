@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 7354,
+  "card_name": "Potion de Brutalité",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cette carte devient une Carte Équipement et équipe 1 monstre que vous contrôlez. Une fois par tour, lorsque vous infligez des dommages à votre adversaire par l'effet d'une carte, augmentez l'ATK du monstre équipé de 1000 points jusqu'à la End Phase.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/12/06",
+  "species_id": 25,
+  "starchip": "0"
+}

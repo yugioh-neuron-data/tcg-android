@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10476,
+  "card_name": "Zauberwand",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Aktiviere 1 dieser Effekte. Dein Gegner erhält in diesem Spielzug keinen weiteren Schaden.$N●Während dieses Spielzugs kann keine Beschwörung eines Monsters vom Typ Hexer annulliert werden und wenn ein Monster vom Typ Hexer beschworen wird, kann dein Gegner weder Karten noch Effekte aktivieren.$N●Wähle 1 Monster vom Typ Hexer, das du kontrollierst; falls es in diesem Spielzug angreift, kann dein Gegner bis zum Ende des Damage Steps weder Karten noch Effekte aktivieren.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/01/24",
+  "species_id": 24,
+  "starchip": "0"
+}

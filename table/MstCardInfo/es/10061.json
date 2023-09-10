@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 2,
+  "card_id": 10061,
+  "card_name": "Oni Pelirrojo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando esta carta es Invocada de Modo Especial desde el Cementerio por el efecto de un monstruo de Tipo Zombi: puedes seleccionar 1 monstruo de Tipo Zombi boca arriba que controles; desacopla 1 Material Xyz de un monstruo en el Campo y, si lo haces, incrementa en 1 el Nivel del monstruo seleccionado y su ATK en 300 (aún si las condiciones de selección ya no son correctas).",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/05/10",
+  "species_id": 2,
+  "starchip": "4"
+}

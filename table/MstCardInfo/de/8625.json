@@ -1,0 +1,23 @@
+{
+  "attack_power": "1900",
+  "attribute_id": 2,
+  "card_id": 8625,
+  "card_name": "Drachenkönigin des unheilvollen Endes",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Diese Karte kann nicht als Normalbeschwörung beschworen oder gesetzt werden. Diese Karte kann nur als Spezialbeschwörung beschworen werden, indem du 3 oder mehr offene permanente Zauberkarten kontrollierst. Wenn diese angreifende Karte deinem Gegner Kampfschaden zufügt, wählt dein Gegner 1 Karte von seiner Hand, legt sie auf seinen Friedhof und du ziehst 1 Karte. Während deiner Standby Phase, falls sich diese Karte in deinem Friedhof befindet und vom Spielfeld dorthin gelegt wurde, kannst du 1 offene permanente Zauberkarte, die du kontrollierst, auf den Friedhof legen, um diese Karte als Spezialbeschwörung vom Friedhof zu beschwören.",
+  "defense_power": "2600",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/02/11",
+  "species_id": 1,
+  "starchip": "6"
+}

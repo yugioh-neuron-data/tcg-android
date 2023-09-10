@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 10840,
+  "card_name": "魂の一撃",
+  "card_name_label": "たましいのいちげき",
+  "card_name_search": "たましいのいちげき",
+  "card_pen_effect": "",
+  "card_text": "自分のライフポイントが４０００以下の場合、自分フィールド上のモンスターが相手モンスターと戦闘を行う攻撃宣言時にライフポイントを半分払い、自分フィールド上のモンスター１体を選択して発動できる。選択したモンスターの攻撃力は相手のエンドフェイズ時まで、自分のライフポイントが４０００より下回っている数値分アップする。「魂の一撃」は１ターンに１枚しか発動できない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/09/21",
+  "species_id": 25,
+  "starchip": "0"
+}

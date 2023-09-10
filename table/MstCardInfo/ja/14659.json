@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 5,
+  "card_id": 14659,
+  "card_name": "独法師",
+  "card_name_label": "ひとりぼうし",
+  "card_name_search": "ひとりぼうし",
+  "card_pen_effect": "",
+  "card_text": "自分フィールドにモンスターが存在する場合、このカードは召喚・特殊召喚できない。①：このカードは手札から攻撃表示で特殊召喚できる。②：このカードが既にモンスターゾーンに存在する状態で、自分フィールドにこのカード以外のモンスターが召喚・反転召喚・特殊召喚された場合に発動する。このカードを破壊する。",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/07/13",
+  "species_id": 17,
+  "starchip": "1"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 6,
+  "card_id": 9510,
+  "card_name": "TG レシプロ・ドラゴン・フライ",
+  "card_name_label": "テックジーナス　レシプロ・ドラゴン・フライ",
+  "card_name_search": "てっくじーなすれしぷろどらごんふらい",
+  "card_pen_effect": "",
+  "card_text": "チューナー＋チューナー以外のモンスター１体$N①：１ターンに１度、このカード以外の自分フィールドの「TG」Sモンスター１体を対象として発動できる。そのモンスターを墓地へ送る。その後、墓地へ送ったそのモンスターのS召喚に使用したS素材モンスター一組が、全てSモンスターで自分の墓地に揃っていれば、その一組を自分フィールドに特殊召喚できる。",
+  "defense_power": "300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/02/11",
+  "species_id": 10,
+  "starchip": "2"
+}

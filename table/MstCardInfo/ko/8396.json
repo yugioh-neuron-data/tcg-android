@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 4,
+  "card_id": 8396,
+  "card_name": "쥬락 타이탄",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드는 특수 소환할 수 없다. 이 카드는 필드 위에 앞면 표시로 존재하는 한, 함정/효과 몬스터의 효과의 대상으로 할 수 없다. 1턴에 1번 자신의 묘지에 존재하는 공격력 1700 이하의 \"쥬락\"이라는 이름이 붙은 몬스터 1장을 게임에서 제외하는 것으로, 이 카드의 공격력은 엔드 페이즈시까지 1000 포인트 올린다.",
+  "defense_power": "2800",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/07/12",
+  "species_id": 9,
+  "starchip": "9"
+}

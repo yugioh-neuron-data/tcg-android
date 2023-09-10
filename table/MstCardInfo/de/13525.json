@@ -1,0 +1,23 @@
+{
+  "attack_power": "2600",
+  "attribute_id": 1,
+  "card_id": 13525,
+  "card_name": "Segment-Drache",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Du kannst diese Karte als Normalbeschwörung beschwören/setzen, ohne Tribut anzubieten, aber ihre Grund-ATK/-DEF werden halbiert. Einmal pro Spielzug, falls diese als Normalbeschwörung beschworene/gesetzte Karte auf dem Spielfeld liegt (Schnelleffekt): Du kannst diese offene Karte zerstören und falls du dies tust, zerstöre alle Monster in den Main-Monsterzonen, deren ATK kleiner oder gleich den ATK sind, die diese Karte auf dem Spielfeld hatte.",
+  "defense_power": "2400",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/08/09",
+  "species_id": 27,
+  "starchip": "7"
+}

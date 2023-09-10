@@ -1,0 +1,23 @@
+{
+  "attack_power": "700",
+  "attribute_id": 5,
+  "card_id": 14856,
+  "card_name": "Mouton de Croix",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 monstres de noms différents$NSi un monstre est Invoqué Spécialement dans une zone pointée par cette carte : vous pouvez appliquer les effets suivants dans l'ordre selon les types de carte des monstres pointés par cette carte.$N●Rituel : Piochez 2 cartes, puis défaussez 2 cartes.$N●Fusion : Invoquez Spécialement 1 monstre de max. Niveau 4 depuis votre Cimetière.$N●Synchro : Tous les monstres que vous contrôlez gagnent 700 ATK.$N●Xyz : Tous les monstres contrôlés par votre adversaire perdent 700 ATK.$NVous ne pouvez utiliser cet effet de \"Mouton de Croix\" qu'une fois par tour.",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "13",
+  "linkno": "2",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/01/30",
+  "species_id": 11,
+  "starchip": ""
+}

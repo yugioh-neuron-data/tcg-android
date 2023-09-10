@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 5,
+  "card_id": 10158,
+  "card_name": "ギアギアクセル",
+  "card_name_label": "ギアギアクセル",
+  "card_name_search": "ぎあぎあくせる",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上に「ギアギア」と名のついたモンスターが存在する場合、このカードは手札から表側守備表示で特殊召喚できる。また、このカードがフィールド上から墓地へ送られた時、自分の墓地から「ギアギアクセル」以外の「ギアギア」と名のついたモンスター１体を選択して手札に加える事ができる。",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/04/14",
+  "species_id": 7,
+  "starchip": "4"
+}

@@ -1,0 +1,785 @@
+[
+  {
+    "card_count": 1,
+    "card_id": 8090,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR040",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 8090,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR040",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 8090,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR040",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 7
+  },
+  {
+    "card_count": 1,
+    "card_id": 8292,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR001",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 8293,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR002",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8294,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR003",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8295,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR004",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8296,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR005",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 8296,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR005",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 8297,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR006",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8298,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR007",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8299,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR008",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8300,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR009",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 8301,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR010",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 8302,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR011",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 8303,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR012",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8304,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR013",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8305,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR014",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8306,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR015",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 8307,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR016",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 8307,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR016",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 8308,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR017",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 8308,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR017",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 8309,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR018",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8310,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR019",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 8311,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR020",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8312,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR021",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 8313,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR022",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 8314,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR023",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8315,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR024",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8316,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR025",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8317,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR026",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8318,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR027",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8319,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR028",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8320,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR029",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8321,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR030",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8322,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR031",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 8323,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR032",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 8324,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR033",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8325,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR034",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 8326,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR035",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8327,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR036",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8328,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR037",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 8329,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR038",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8330,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR039",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 8331,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR041",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 8332,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR042",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 8332,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR042",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 8333,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR043",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 8334,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR044",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 8334,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR044",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 8335,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR045",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 8336,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR046",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8337,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR047",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8338,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR048",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 8339,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR049",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8340,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR050",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8341,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR051",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 8342,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR052",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 8343,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR053",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8344,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR054",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8345,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR055",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8346,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR056",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 8347,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR057",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8348,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR058",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8349,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR059",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8350,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR060",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8351,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR061",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8352,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR062",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8353,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR063",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 8354,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR064",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 8355,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR065",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8356,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR066",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 8357,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR067",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8358,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR068",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 8359,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR069",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 8360,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR070",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8361,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR071",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8362,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR072",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8363,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR073",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8364,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR074",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 8365,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR075",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8366,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR076",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8367,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR077",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8368,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR078",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8369,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR079",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8370,
+    "card_image_id": 1,
+    "card_number": "ANPR-KR080",
+    "language": "ko",
+    "pack_id": "71107003",
+    "rarity_id": 1
+  }
+]

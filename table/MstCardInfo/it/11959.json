@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 1,
+  "card_id": 11959,
+  "card_name": "Artistamagus Direttore Specchio",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Una volta per turno: puoi scegliere come bersaglio 1 mostro scoperto Evocato Specialmente sul Terreno; i suoi ATK e DEF diventano pari al suo ATK o DEF attuale (il più basso dei due) fino alla fine di questo turno (anche se questa carta lascia il Terreno).",
+  "card_text": "Una volta per turno, durante il turno di qualsiasi giocatore: puoi scegliere come bersaglio 1 mostro scoperto sul Terreno; scambia i suoi ATK e DEF attuali, poi subisci 500 danni. Questo cambio di ATK e DEF dura fino alla fine di questo turno.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2015/11/05",
+  "species_id": 18,
+  "starchip": "4"
+}

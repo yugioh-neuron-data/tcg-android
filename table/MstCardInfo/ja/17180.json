@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 17180,
+  "card_name": "ペンデュラム・スケール",
+  "card_name_label": "ペンデュラム・スケール",
+  "card_name_search": "ぺんでゅらむすけーる",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：自分のPゾーンにカードが２枚存在する場合、そのPスケールの差の数値によって以下の効果を適用する。$N●０：フィールドの魔法・罠カード２枚を選んで破壊する。$N●１～３：デッキからレベル２～４のPモンスター１体を手札に加える。$N●４～６：デッキからレベル５～７のPモンスター１体を手札に加える。$N●７以上：自分のPゾーンのカードを２枚まで選んで持ち主の手札に戻す。その後、手札からPモンスター１体を特殊召喚できる。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/01/15",
+  "species_id": 25,
+  "starchip": "0"
+}

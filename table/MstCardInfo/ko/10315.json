@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 3,
+  "card_id": 10315,
+  "card_name": "이마이루카",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "필드 위의 이 카드가 상대에 의해서 파괴되어 묘지로 보내졌을 때, 자신 덱의 맨 위 카드를 묘지로 보낸다. 묘지로 보낸 카드가 물 속성 몬스터였을 경우, 자신의 덱에서 카드를 1장 드로우한다.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/10/01",
+  "species_id": 5,
+  "starchip": "2"
+}

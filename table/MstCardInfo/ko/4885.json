@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 4885,
+  "card_name": "유언장",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 효과는 발동 턴에 1번만 사용할 수 있다. 자신 필드 위의 몬스터가 자신의 묘지로 보내졌을 때, 덱에서 공격력 1500 포인트 이하의 몬스터 1장을 자신 필드 위에 특수 소환할 수 있다. 그 후 덱을 셔플한다.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2003/12/09",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "400",
+  "attribute_id": 3,
+  "card_id": 15000,
+  "card_name": "Sentinella del Mare Profondo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se questa carta viene mandata al Cimitero per attivare l'effetto di un mostro ACQUA: puoi far bandire al tuo avversario 1 carta dalla sua mano scoperta, fino alla End Phase. Se questa carta viene Evocata Specialmente: puoi mandare le prime 2 carte del tuo Deck al Cimitero, poi scegliere come bersaglio 1 mostro ACQUA di Livello 4 o inferiore nel tuo Cimitero, eccetto \"Sentinella del Mare Profondo\"; aggiungilo alla tua mano. Puoi utilizzare ogni effetto di \"Sentinella del Mare Profondo\" una sola volta per turno.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/30",
+  "species_id": 5,
+  "starchip": "2"
+}

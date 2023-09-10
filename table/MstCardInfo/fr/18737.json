@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 18737,
+  "card_name": "Âme du Vainqueur Coup de la Trinité",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Ciblez 1 monstre \"Âme du Vainqueur\" que vous contrôlez ; Invoquez Spécialement max. 2 monstres \"Âme du Vainqueur\" depuis votre main, de noms différents l'un de l'autre, aucun n'ayant le même Attribut d'origine que le monstre ciblé (mais annulez leurs effets et renvoyez-les à la main durant la End Phase), puis vous pouvez renvoyer à la main toutes les cartes contrôlées par votre adversaire qui sont dans les mêmes colonnes que le monstre ciblé que vous contrôlez et les monstres Invoqués Spécialement par cet effet. Vous ne pouvez activer qu'1 \"Âme du Vainqueur Coup de la Trinité\" par tour.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/06/01",
+  "species_id": 25,
+  "starchip": "0"
+}

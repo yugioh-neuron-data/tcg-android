@@ -1,0 +1,23 @@
+{
+  "attack_power": "3300",
+  "attribute_id": 3,
+  "card_id": 15851,
+  "card_name": "Nékroz d'Areadbhair",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Vous pouvez Invoquer Rituellement cette carte avec une Magie Rituelle \"Nékroz\". Uniquement Invocable Rituellement, sans utiliser des monstres de Niveau 10. Vous ne pouvez utiliser chacun de ces effets de \"Nékroz d'Areadbhair\" qu'une fois par tour.$N●Vous pouvez défausser cette carte ; Sacrifiez max. 2 monstres \"Nékroz\" depuis votre main et/ou Terrain, et si vous le faites, envoyez autant de cartes \"Nékroz\" depuis votre Deck au Cimetière.$N●Lorsqu'un effet de monstre est activé (Effet Rapide) : vous pouvez Sacrifier 1 monstre depuis votre main ou Terrain ; annulez l'activation, et si vous le faites, bannissez la carte.",
+  "defense_power": "3200",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 5,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/04/16",
+  "species_id": 15,
+  "starchip": "10"
+}

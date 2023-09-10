@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 3,
+  "card_id": 11978,
+  "card_name": "Cobra Berceau-Gris",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si cette carte dans votre Zone Monstre est détruite au combat ou par un effet de Piège, et envoyée à votre Cimetière : vous pouvez cibler 1 monstre face recto contrôlé par votre adversaire ; équipez cette carte à la cible. Tant que cette carte est équipée à un monstre par cet effet, prenez le contrôle du monstre. Lorsque cette carte quitte le Terrain, détruisez le monstre équipé.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/11/05",
+  "species_id": 14,
+  "starchip": "3"
+}

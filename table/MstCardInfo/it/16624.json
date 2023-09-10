@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 2,
+  "card_id": 16624,
+  "card_name": "Pazuzule",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Una volta per turno: puoi scegliere come bersaglio 1 carta nella tua altra Zona Pendulum; il Valore Pendulum di questa carta diventa il Livello di quella Carta Mostro Pendulum fino alla fine di questo turno, inoltre non puoi Evocare Specialmente per il resto di questo turno, eccetto tramite Evocazione Pendulum.",
+  "card_text": "Le Evocazioni Pendulum dei tuoi mostri non possono essere annullate.",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2021/08/12",
+  "species_id": 3,
+  "starchip": "1"
+}

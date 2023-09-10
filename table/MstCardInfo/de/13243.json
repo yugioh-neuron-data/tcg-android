@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 1,
+  "card_id": 13243,
+  "card_name": "Metaphysischer Vollstrecker",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 5 „Metaphys“-Karten mit unterschiedlichen Namen von deinem Friedhof und/oder offen von deiner Spielfeldseite verbannst. Kann durch Karteneffekte weder zerstört noch verbannt werden. Einmal pro Spielzug, falls dein Gegner mehr Karten kontrolliert als du: Du kannst 1 deiner verbannten „Metaphys“-Monster wählen; beschwöre es als Spezialbeschwörung, aber verbanne es während der End Phase des nächsten Spielzugs.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/10/19",
+  "species_id": 26,
+  "starchip": "10"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 2,
+  "card_id": 14050,
+  "card_name": "Sauveur Avendetterreur",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 monstres Zombie$NLe nom de cette carte devient \"Assassin Revendetterreur\" tant qu'elle est sur le Terrain. Vous ne pouvez utiliser chacun des effets suivants de \"Sauveur Avendetterreur\" qu'une fois par tour.$N●Vous pouvez cibler 1 carte \"Vendetterreur\" dans votre Cimetière ; ajoutez-la à votre main.$N●Durant le calcul des dommages, si cette carte combat un monstre de l'adversaire (Effet Rapide) : vous pouvez envoyer 1 monstre Zombie depuis votre Deck au Cimetière ; jusqu'à la fin de ce tour, le monstre de l'adversaire perd une ATK égale au Niveau du monstre envoyé au Cimetière x 200.",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "13",
+  "linkno": "2",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/07/11",
+  "species_id": 2,
+  "starchip": ""
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 1,
+  "card_id": 17384,
+  "card_name": "神碑の翼ムニン",
+  "card_name_label": "ルーンのつばさムニン",
+  "card_name_search": "るーんのつばさむにん",
+  "card_pen_effect": "",
+  "card_text": "「神碑」モンスター×２$N①：このカードがEXデッキからの特殊召喚に成功した場合、手札を１枚捨てて発動できる。デッキから「神碑」永続魔法カード１枚を手札に加える。②：自分フィールドの、「神碑」カードまたはセットされたカードを対象とする魔法・罠・モンスターの効果を相手が発動した時、フィールドのこのカードを除外して発動できる。その発動を無効にし破壊する。③：自分・相手のエンドフェイズに発動する。自分は１０００LP回復する。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/03/19",
+  "species_id": 17,
+  "starchip": "3"
+}

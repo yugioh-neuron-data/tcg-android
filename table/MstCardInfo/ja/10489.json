@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 3,
+  "card_id": 10489,
+  "card_name": "ビッグ・ホエール",
+  "card_name_label": "ビッグ・ホエール",
+  "card_name_search": "びっぐほえーる",
+  "card_pen_effect": "",
+  "card_text": "このカードがアドバンス召喚に成功した時、このカードをリリースして発動できる。デッキからレベル３の水属性モンスター３体を特殊召喚する。この効果で特殊召喚したモンスターの効果は無効化される。",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/02/16",
+  "species_id": 8,
+  "starchip": "9"
+}

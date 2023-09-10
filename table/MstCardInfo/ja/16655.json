@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16655,
+  "card_name": "切り裂かれし闇",
+  "card_name_label": "きりさかれしやみ",
+  "card_name_search": "きりさかれしやみ",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分がトークン以外の通常モンスターの召喚・特殊召喚に成功した場合に発動できる。自分はデッキから１枚ドローする。②：以下のいずれかの自分のモンスターが相手モンスターと戦闘を行う攻撃宣言時に発動できる。その自分のモンスターの攻撃力はターン終了時まで、その相手モンスターの攻撃力分アップする。$N●レベル５以上の通常モンスター$N●通常モンスターを使用して儀式召喚したモンスター$N●通常モンスターを素材として融合・S・X召喚したモンスター",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/09/25",
+  "species_id": 24,
+  "starchip": "0"
+}

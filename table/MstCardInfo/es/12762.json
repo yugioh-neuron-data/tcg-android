@@ -1,0 +1,23 @@
+{
+  "attack_power": "3400",
+  "attribute_id": 1,
+  "card_id": 12762,
+  "card_name": "Tierra, Fuente de la Destrucción",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial (desde tu mano) barajando al Deck y/o Deck Extra 10 otras cartas con nombres diferentes en tu mano y/o Campo, y no puede ser Invocado de Modo Especial de otra forma. La Invocación Especial de esta carta no puede ser negada. Si esta carta es Invocada de Modo Especial: baraja al Deck todas las cartas de ambos jugadores, excepto esta carta, que estén en la mano, Campo, Cementerio y Monstruos de Péndulo boca arriba en el Deck Extra. Ningún jugador puede activar cartas o efectos en respuesta a la activación de este efecto.",
+  "defense_power": "3600",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/02/09",
+  "species_id": 3,
+  "starchip": "11"
+}

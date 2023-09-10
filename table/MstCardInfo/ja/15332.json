@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 3,
+  "card_id": 15332,
+  "card_name": "神・スライム",
+  "card_name_label": "ゴッド・スライム",
+  "card_name_search": "ごっどすらいむ",
+  "card_pen_effect": "",
+  "card_text": "水族モンスター＋水属性・レベル１０モンスター$Nこのカードは融合召喚及び以下の方法でのみEXデッキから特殊召喚できる。●自分フィールドの攻撃力０の水族・レベル１０モンスター１体をリリースした場合にEXデッキから特殊召喚できる。①：モンスター３体のリリースを必要とするモンスターをアドバンス召喚する場合、このカードは３体分のリリースにできる。②：このカードは戦闘では破壊されず、相手は「神・スライム」以外の自分フィールドのモンスターを、攻撃対象に選択できず、効果の対象にもできない。",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/05/30",
+  "species_id": 14,
+  "starchip": "10"
+}

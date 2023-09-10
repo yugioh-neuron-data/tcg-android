@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 3,
+  "card_id": 12450,
+  "card_name": "코랄 드래곤",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "튜너 ＋ 튜너 이외의 몬스터 1장 이상$N이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 1턴에 1번, 패를 1장 버리고, 상대 필드의 카드 1장을 대상으로 하여 발동할 수 있다. 그 카드를 파괴한다. ②: 싱크로 소환한 이 카드가 묘지로 보내졌을 경우에 발동할 수 있다. 자신은 덱에서 1장 드로우한다.",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 19,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/07/21",
+  "species_id": 1,
+  "starchip": "6"
+}

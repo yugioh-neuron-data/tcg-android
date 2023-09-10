@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 7554,
+  "card_name": "機雷化",
+  "card_name_label": "きらいか",
+  "card_name_search": "きらいか",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上の「クリボー」及び「クリボートークン」を全て破壊する。その後、破壊した数と同じ数まで相手フィールド上のカードを選んで破壊する。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/03/12",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 6,
+  "card_id": 7549,
+  "card_name": "ミスト・ウォーム",
+  "card_name_label": "ミスト・ウォーム",
+  "card_name_search": "みすとうぉーむ",
+  "card_pen_effect": "",
+  "card_text": "チューナー＋チューナー以外のモンスター２体以上$N①：このカードがS召喚に成功した場合、相手フィールドのカードを３枚まで対象として発動する。その相手のカードを持ち主の手札に戻す。",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/03/12",
+  "species_id": 19,
+  "starchip": "9"
+}

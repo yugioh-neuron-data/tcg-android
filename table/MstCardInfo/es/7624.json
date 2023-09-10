@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 7624,
+  "card_name": "Barrera de Luz",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante tu Standby Phase, lanza una moneda. Si el resultado es Cruz, los siguientes efectos son negados hasta tu próxima Standby Phase:$N●Cuando Invocas un monstruo \"Fuerza Arcana\", elige qué efecto aplicarás sin lanzar la moneda. Si un monstruo \"Fuerza Arcana\" destruye a un monstruo de tu adversario en batalla, ganas Life Points iguales al ATK original del monstruo destruido.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/05/13",
+  "species_id": 24,
+  "starchip": "0"
+}

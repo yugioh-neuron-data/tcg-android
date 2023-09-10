@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 18840,
+  "card_name": "ジュラシック・パワー",
+  "card_name_label": "ジュラシック・パワー",
+  "card_name_search": "じゅらしっくぱわー",
+  "card_pen_effect": "",
+  "card_text": "このカード名の③の効果は１ターンに１度しか使用できない。$N①：自分フィールドの恐竜族モンスターの攻撃力は３００アップする。$N②：自分はレベル５以上の恐竜族モンスターを召喚する場合に必要なリリースをなくす事ができる。$N③：自分の手札・フィールド（表側表示）から恐竜族モンスター１体を墓地へ送って発動できる。デッキから守備力１２００の恐竜族モンスター１体を手札に加える。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/04/22",
+  "species_id": 24,
+  "starchip": "0"
+}

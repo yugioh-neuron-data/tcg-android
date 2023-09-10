@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 2,
+  "card_id": 8587,
+  "card_name": "マジシャンズ・エイプ",
+  "card_name_label": "マジシャンズ・エイプ",
+  "card_name_search": "まじしゃんずえいぷ",
+  "card_pen_effect": "",
+  "card_text": "このカードは特殊召喚できない。このカードがフィールド上に表側攻撃表示で存在する場合、１ターンに１度、手札のモンスター１体を墓地へ送り、相手フィールド上に表側守備表示で存在するモンスター１体を選択して発動する事ができる。このターンのエンドフェイズ時まで、選択したモンスターのコントロールを得る。この効果でコントロールを得たモンスターは、このターン表示形式を変更する事はできない。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/04/21",
+  "species_id": 11,
+  "starchip": "3"
+}

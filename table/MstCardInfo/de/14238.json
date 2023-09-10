@@ -1,0 +1,23 @@
+{
+  "attack_power": "400",
+  "attribute_id": 4,
+  "card_id": 14238,
+  "card_name": "Grosalamander Waschbär",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wenn dein „Grosalamander“-Monster von einem Monster eines Gegners als Angriffsziel gewählt wird: Du kannst diese Karte von deiner Hand auf den Friedhof legen und dann die 2 Monster wählen, die kämpfen würden; du erhältst LP in Höhe der ATK des Monsters des Gegners, zusätzlich kann dein gewähltes Monster in diesem Spielzug nicht durch Kampf zerstört werden. Wenn dein „Grosalamander“-Monster ein Monster eines Gegners durch Kampf zerstört und auf den Friedhof legt, solange sich diese Karte in deinem Friedhof befindet: Du kannst diese Karte deiner Hand hinzufügen. Du kannst diesen Effekt von „Grosalamander Waschbär“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/02/14",
+  "species_id": 27,
+  "starchip": "1"
+}

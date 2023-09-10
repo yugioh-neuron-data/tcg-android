@@ -1,0 +1,23 @@
+{
+  "attack_power": "200",
+  "attribute_id": 1,
+  "card_id": 5424,
+  "card_name": "다이스 포트",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "리버스 : 서로 주사위를 1회씩 던진다. 상대보다 작은 눈이 나온 플레이어는 상대의 나온 눈 × 500 포인트의 데미지를 받는다. 단, 6의 눈으로 진 플레이어는 6000 포인트의 데미지를 받는다. 무승부인 경우는 다시 한다.",
+  "defense_power": "300",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 24,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/12/14",
+  "species_id": 6,
+  "starchip": "3"
+}

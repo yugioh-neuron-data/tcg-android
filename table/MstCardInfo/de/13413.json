@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 1,
+  "card_id": 13413,
+  "card_name": "Wiederherstellungszauberer",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 Cyberse-Monster$N(Schnelleffekt): Du kannst 1 Cyberse-Linkmonster in deinem Friedhof wählen, das in diesem Spielzug zerstört wurde; beschwöre es als Spezialbeschwörung, aber seine Effekte bleiben annulliert, zusätzlich zerstöre es während der End Phase. Du kannst diesen Effekt von „Wiederherstellungszauberer“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "42",
+  "linkno": "2",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/02/01",
+  "species_id": 27,
+  "starchip": ""
+}

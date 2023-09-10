@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 5,
+  "card_id": 15865,
+  "card_name": "聖蔓の守護者",
+  "card_name_label": "サンヴァイン・ガードナー",
+  "card_name_search": "さんう゛ぁいんがーどなー",
+  "card_pen_effect": "",
+  "card_text": "植物族の通常モンスター１体$N①：自分フィールドの「サンアバロン」リンクモンスターが効果でフィールドから離れた場合に発動する。このカードを破壊する。②：「サンアバロン」リンクモンスターとリンク状態になっているこのカードが相手モンスターと戦闘を行う攻撃宣言時に発動できる。その戦闘で発生する自分への戦闘ダメージは半分になる。③：このカードが戦闘で破壊された時に発動できる。そのダメージステップ終了後にバトルフェイズを終了する。",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "8",
+  "linkno": "1",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/11/21",
+  "species_id": 13,
+  "starchip": ""
+}

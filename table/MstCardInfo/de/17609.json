@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 17609,
+  "card_name": "Schicksals-Explosion",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wenn ein Monster eines Gegners einen Angriff deklariert: Zerstöre das 1 Monster mit den höchsten ATK, das dein Gegner kontrolliert (bei Gleichstand bestimmst du), und falls du dies tust, füge deinem Gegner Schaden in Höhe seiner Grund-ATK zu, dann, falls sich „Austausch des Geistes“ nicht in deinem Friedhof befindet, erhältst du Schaden in Höhe des Schadens, den er erhalten hat. Falls diese Karte von der Hand oder dem Deck auf den Friedhof gelegt wird: Du kannst 1 ERDE Fee-Monster der Stufe 4 in deinem Friedhof wählen; füge es deiner Hand hinzu. Du kannst jeden Effekt von „Schicksals-Explosion“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/11/03",
+  "species_id": 25,
+  "starchip": "0"
+}

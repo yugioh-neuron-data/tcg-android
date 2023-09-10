@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 5,
+  "card_id": 9747,
+  "card_name": "나츄르 마론",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드가 일반 소환에 성공했을 때, 자신의 덱에서 \"나츄르\"라는 이름이 붙은 몬스터 1장을 묘지로 보낼 수 있다. 또한 1턴에 1번, 자신의 묘지에 존재하는 \"나츄르\"라는 이름이 붙은 몬스터 2장을 선택하여 덱으로 되돌리고, 자신의 덱에서 카드를 1장 드로우할 수 있다.",
+  "defense_power": "700",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/11/02",
+  "species_id": 13,
+  "starchip": "3"
+}

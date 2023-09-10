@@ -1,0 +1,23 @@
+{
+  "attack_power": "1300",
+  "attribute_id": 2,
+  "card_id": 11560,
+  "card_name": "Uni-Zombi",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Puedes seleccionar 1 monstruo boca arriba en el Campo; descarta 1 carta y, si lo haces, aumenta el Nivel de ese objetivo en 1. Puedes seleccionar 1 monstruo boca arriba en el Campo; por el resto de este turno, los monstruos que controles no pueden atacar, excepto los monstruos Zombi, y además manda al Cementerio 1 monstruo Zombi en tu Deck y, si lo haces, aumenta en 1 el Nivel de ese objetivo. Sólo puedes usar cada efecto de \"Uni-Zombi\" una vez por turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/01/15",
+  "species_id": 2,
+  "starchip": "3"
+}

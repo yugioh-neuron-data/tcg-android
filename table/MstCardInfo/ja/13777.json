@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13777,
+  "card_name": "星遺物の機憶",
+  "card_name_label": "せいいぶつのきおく",
+  "card_name_search": "せいいぶつのきおく",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：手札・デッキから「ジャックナイツ」モンスター１体を守備表示で特殊召喚する。この効果で特殊召喚したモンスターはエンドフェイズに持ち主の手札に戻る。このカードの発動後、ターン終了時まで自分は「ジャックナイツ」モンスターしか特殊召喚できない。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/04/14",
+  "species_id": 24,
+  "starchip": "0"
+}

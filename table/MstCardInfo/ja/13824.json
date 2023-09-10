@@ -1,0 +1,23 @@
+{
+  "attack_power": "2100",
+  "attribute_id": 1,
+  "card_id": 13824,
+  "card_name": "No.67 パラダイスマッシャー",
+  "card_name_label": "ナンバーズ６７ パラダイスマッシャー",
+  "card_name_search": "なんばーずろくじゅうななぱらだいすまっしゃー",
+  "card_pen_effect": "",
+  "card_text": "レベル５モンスター×２体以上$N①：１ターンに１度、自分メインフェイズ１にこのカードのX素材を２つ取り除いて発動できる。お互いにサイコロを２回ずつ振る。出た目の合計が大きいプレイヤーは、次のターンの終了時までモンスターの効果を発動できず、攻撃宣言できない。②：X素材を持っているこのカードがモンスターゾーンに存在し、自分または相手がサイコロを振った場合、１ターンに１度だけその内１つの目を７として適用できる。",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/05/12",
+  "species_id": 17,
+  "starchip": "5"
+}

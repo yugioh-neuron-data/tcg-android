@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 5,
+  "card_id": 4769,
+  "card_name": "寄生虫パラサイド",
+  "card_name_label": "きせいちゅうパラサイド",
+  "card_name_search": "きせいちゅうぱらさいど",
+  "card_pen_effect": "",
+  "card_text": "リバース：このカードを相手のデッキに表向きで混ぜてシャッフルする。相手がこのカードをドローした時、このカードは相手フィールド上に表側守備表示で特殊召喚され、相手ライフに１０００ポイントダメージを与える。その後、このカードがフィールド上に表側表示で存在する限り、相手フィールド上に表側表示で存在するモンスターは全て昆虫族となる。",
+  "defense_power": "300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 24,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2000/09/28",
+  "species_id": 10,
+  "starchip": "2"
+}

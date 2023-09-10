@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 1,
+  "card_id": 18822,
+  "card_name": "Sleipnir la Crin Rúnica",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 monstruos \"Rúnico/a\"$NDurante tu Main Phase o la Battle Phase de tu adversario (Efecto Rápido): puedes seleccionar 1 monstruo boca arriba que controle tu adversario; destierra ese monstruo y esta carta hasta la End Phase. Si una o más cartas son añadidas del Deck Principal a la mano de tu adversario (excepto durante el Damage Step): puedes Invocar de Modo Especial 1 \"Ficha Rúnica\" (Hada/LUZ/Nivel 4/ATK 1500/DEF 1500) en Posición de Ataque. Sólo puedes usar cada efecto de \"Sleipnir la Crin Rúnica\" una vez por turno.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/07/27",
+  "species_id": 11,
+  "starchip": "9"
+}

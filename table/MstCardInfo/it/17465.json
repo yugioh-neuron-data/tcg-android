@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 17465,
+  "card_name": "Sfida di Sguardi Melffy",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Puoi rivelare 1 mostro Bestia nella tua mano; aggiungi 1 mostro \"Melffy\" con un nome diverso dal tuo Deck o Cimitero alla tua mano e metti quel mostro rivelato in fondo al Deck. Puoi utilizzare questo effetto di \"Sfida di Sguardi Melffy\" una sola volta per turno. All'inizio della Battle Phase del tuo avversario: puoi rivelare un qualsiasi numero di mostri \"Melffy\" nella tua mano e tenerli rivelati solamente durante questa Battle Phase. I mostri controllati dal tuo avversario perdono ATK pari alla somma degli ATK e DEF dei mostri rivelati da questo effetto.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/08/04",
+  "species_id": 24,
+  "starchip": "0"
+}

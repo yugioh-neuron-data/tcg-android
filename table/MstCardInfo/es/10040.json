@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 1,
+  "card_id": 10040,
+  "card_name": "Camaracople",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si esta carta ataca a un monstruo boca arriba en el Campo, al comienzo del Damage Step: destruye ese monstruo. Su DEF debe ser mayor que el ATK de esta carta para activar y resolver este efecto.",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/05/10",
+  "species_id": 15,
+  "starchip": "4"
+}

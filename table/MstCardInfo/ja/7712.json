@@ -1,0 +1,23 @@
+{
+  "attack_power": "-1",
+  "attribute_id": 5,
+  "card_id": 7712,
+  "card_name": "モンタージュ・ドラゴン",
+  "card_name_label": "モンタージュ・ドラゴン",
+  "card_name_search": "もんたーじゅどらごん",
+  "card_pen_effect": "",
+  "card_text": "このカードは通常召喚できない。手札からモンスター３体を墓地へ送った場合のみ特殊召喚できる。このカードの攻撃力は、墓地へ送ったそのモンスターのレベルの合計×３００ポイントになる。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/04/19",
+  "species_id": 1,
+  "starchip": "8"
+}

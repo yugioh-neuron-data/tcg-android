@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 4,
+  "card_id": 11515,
+  "card_name": "Grand Chevalier de la Flamme",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cette carte est traitée comme un Monstre Normal tant qu'elle est face recto sur le Terrain ou dans le Cimetière. Tant que cette carte est un Monstre Normal sur le Terrain, vous pouvez l'Invoquer Normalement pour qu'elle devienne un Monstre à Effet avec cet effet.$N●Au début de la Damage Step, si cette carte a attaqué un monstre Invoqué Spécialement : vous pouvez bannir le monstre.",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 9,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/04/16",
+  "species_id": 2,
+  "starchip": "4"
+}

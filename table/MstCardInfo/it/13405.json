@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 1,
+  "card_id": 13405,
+  "card_name": "Ispettore Cavalcatavola",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Non può essere Evocato Normalmente o Specialmente se controlli un mostro. Nessun giocatore può attivare effetti di mostri, a meno che il numero di effetti di mostri che quel giocatore ha attivato in precedenza in quel turno non sia inferiore al numero di tipi di carta mostro attualmente sul Terreno (Rituale, Fusione, Synchro, Xyz, Pendulum e Link). (Se l'attivazione di un effetto viene annullata, conta comunque per il totale di quel turno. Contano solo gli effetti che sono stati attivati mentre questo mostro era scoperto sul Terreno.)",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/02/01",
+  "species_id": 7,
+  "starchip": "4"
+}

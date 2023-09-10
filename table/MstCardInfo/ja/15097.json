@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 5,
+  "card_id": 15097,
+  "card_name": "魔救の追求者",
+  "card_name_label": "アダマシア・シーカー",
+  "card_name_search": "あだましあしーかー",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドに「魔救の追求者」以外の「アダマシア」モンスターが存在する場合に発動できる。このカードを手札から特殊召喚する。②：自分メインフェイズに発動できる。自分のデッキの上からカードを５枚めくる。その中からチューナー以外のレベル４以下の岩石族モンスター１体を選んで特殊召喚できる。残りのカードは好きな順番でデッキの一番下に戻す。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/03/07",
+  "species_id": 6,
+  "starchip": "2"
+}

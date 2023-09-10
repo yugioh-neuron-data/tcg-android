@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 13713,
+  "card_name": "F.A.オーバー・ヒート",
+  "card_name_label": "フォーミュラアスリートオーバー・ヒート",
+  "card_name_search": "ふぉーみゅらあすりーとおーばーひーと",
+  "card_pen_effect": "",
+  "card_text": "このカード名の②の効果は１ターンに１度しか使用できない。①：相手フィールドにのみモンスターが存在する場合に発動できる。手札から「F.A.」モンスター１体を特殊召喚する。この効果で特殊召喚したモンスターのレベルはターン終了時まで３つ上がる。②：自分のフィールドゾーンにカードが存在しない場合、墓地のこのカードを除外して発動できる。自分の手札・墓地から「F.A.」フィールド魔法カード１枚を選んで発動する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/09/08",
+  "species_id": 25,
+  "starchip": "0"
+}

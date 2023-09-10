@@ -1,0 +1,23 @@
+{
+  "attack_power": "2200",
+  "attribute_id": 5,
+  "card_id": 4373,
+  "card_name": "地雷蜘蛛",
+  "card_name_label": "じらいグモ",
+  "card_name_search": "じらいぐも",
+  "card_pen_effect": "",
+  "card_text": "このカードの攻撃宣言時、コイントスで裏表を当てる。当たりの場合はそのまま攻撃する。ハズレの場合は自分のライフポイントを半分失い攻撃する。",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2000/03/01",
+  "species_id": 10,
+  "starchip": "4"
+}

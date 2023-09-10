@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 5,
+  "card_id": 10247,
+  "card_name": "Magidulce Cruffssant",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando esta carta en tu posesión es destruida por una carta de tu adversario (ya sea en batalla o por el efecto de una carta) y mandada a tu Cementerio: baraja esta carta al Deck. Una vez por turno: puedes seleccionar 1 carta \"Magidulce\" boca arriba que controles, excepto esta carta; devuélvela a la mano y, si lo haces, aumenta el Nivel de esta carta en 1 y su ATK en 300.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/11/08",
+  "species_id": 11,
+  "starchip": "3"
+}

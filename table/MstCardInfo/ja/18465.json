@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 2,
+  "card_id": 18465,
+  "card_name": "ファイアウォール・ファントム",
+  "card_name_label": "ファイアウォール・ファントム",
+  "card_name_search": "ふぁいあうぉーるふぁんとむ",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードがサイバース族リンクモンスターのリンク素材として墓地へ送られた場合に発動できる。デッキから「サイバネット」魔法・罠カード１枚を手札に加える。その後、自分の手札を１枚選んで捨てる。②：墓地のこのカードを除外して発動できる。このターンのエンドフェイズに、自分の墓地からサイバース族モンスター１体を選んでデッキに戻す。",
+  "defense_power": "1300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/01/14",
+  "species_id": 27,
+  "starchip": "5"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2200",
+  "attribute_id": 5,
+  "card_id": 4768,
+  "card_name": "インセクト女王",
+  "card_name_label": "インセクトクイーン",
+  "card_name_search": "いんせくとくいーん",
+  "card_pen_effect": "",
+  "card_text": "①：このカードの攻撃力は、フィールドの昆虫族モンスターの数×２００アップする。②：このカードの攻撃宣言の際に、自分は自分フィールドの他のモンスター１体をリリースしなければならない。③：このカードが戦闘で相手モンスターを破壊したターンのエンドフェイズに発動する。自分フィールドに「インセクトモンスタートークン」（昆虫族・地・星１・攻／守１００）１体を攻撃表示で特殊召喚する。",
+  "defense_power": "2400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2000/07/13",
+  "species_id": 10,
+  "starchip": "7"
+}

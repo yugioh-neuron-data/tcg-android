@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 12698,
+  "card_name": "EM 오드아이즈 메탈 크로우",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"오드아이즈\" 몬스터 ＋ \"EM(엔터메이트)\" 몬스터$N이 카드는 융합 소재로 할 수 없다. ①: \"융합\"의 효과로 융합 소환한 이 카드는 다른 카드의 효과를 받지 않는다. ②: 이 카드의 공격 선언시에 발동한다. 자신 필드의 모든 몬스터의 공격력은 배틀 페이즈 종료시까지 300 올린다.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/06/08",
+  "species_id": 1,
+  "starchip": "8"
+}

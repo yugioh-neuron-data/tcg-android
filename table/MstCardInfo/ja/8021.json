@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 5,
+  "card_id": 8021,
+  "card_name": "バスター・マーセナリ",
+  "card_name_label": "バスター・マーセナリ",
+  "card_name_search": "ばすたーまーせなり",
+  "card_pen_effect": "",
+  "card_text": "自分の手札または墓地に存在する「バスター・モード」１枚をデッキに戻す事で、相手フィールド上に存在する魔法・罠カード１枚を破壊する。この効果は１ターンに１度しか使用できない。",
+  "defense_power": "300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/11/15",
+  "species_id": 15,
+  "starchip": "4"
+}

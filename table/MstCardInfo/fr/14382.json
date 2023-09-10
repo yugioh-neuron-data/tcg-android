@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 14382,
+  "card_name": "Causalité Cubique",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Distribuez un nombre de Compteurs Cubique sur des monstres face recto contrôlés par votre adversaire, inférieur ou égal au nombre de monstres \"Cubique\" que vous contrôlez. (Les monstres avec un Compteur Cubique ne peuvent pas attaquer, et aussi, annulez leurs effets.) Vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 monstre \"Cubique\" que vous contrôlez ; ce tour, chaque fois qu'il détruit un monstre au combat qui a un Compteur Cubique, infligez des dommages à votre adversaire égaux à l'ATK d'origine du monstre détruit. Vous ne pouvez utiliser chaque effet de \"Causalité Cubique\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/03/19",
+  "species_id": 25,
+  "starchip": "0"
+}

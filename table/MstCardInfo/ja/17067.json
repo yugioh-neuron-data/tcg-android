@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 17067,
+  "card_name": "烙印の剣",
+  "card_name_label": "らくいんのつるぎ",
+  "card_name_search": "らくいんのつるぎ",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：自分の墓地から「烙印」魔法・罠カードを任意の数だけ除外して発動できる。除外した数だけ自分フィールドに「氷剣トークン」（ドラゴン族・闇・星８・攻２５００／守２０００）を特殊召喚する。②：墓地のこのカードを除外し、除外されている自分の、「アルバスの落胤」１体またはそのカード名が記されたモンスター１体を対象として発動できる。そのモンスターを手札に加える。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/12/04",
+  "species_id": 25,
+  "starchip": "0"
+}

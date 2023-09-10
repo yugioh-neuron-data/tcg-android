@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 3,
+  "card_id": 8758,
+  "card_name": "Dragon des Profondeurs",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Placez 1 Compteur Océan sur cette carte durant la Standby Phase de chaque joueur. Lorsque cette carte est retirée du Terrain, tous les monstres de Type Poisson et Serpent de Mer que vous contrôlez gagnent 200 points d'ATK pour chaque Compteur Océan sur cette carte, jusqu'à la End Phase.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/02/11",
+  "species_id": 5,
+  "starchip": "4"
+}

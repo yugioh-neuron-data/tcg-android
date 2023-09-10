@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 12299,
+  "card_name": "アモルファージ・キャヴム",
+  "card_name_label": "アモルファージ・キャヴム",
+  "card_name_search": "あもるふぁーじきゃう゛む",
+  "card_pen_effect": "このカードのコントローラーは、自分スタンバイフェイズ毎に自分フィールドのモンスター１体をリリースする。またはリリースせずにこのカードを破壊する。①：自分フィールドに「アモルファージ」モンスターが存在する限り、お互いに魔法・罠・モンスターの効果をチェーンして発動できない。",
+  "card_text": "①：P召喚・リバースしたこのカードがモンスターゾーンに存在する限り、お互いに「アモルファージ」モンスターしかエクストラデッキから特殊召喚できない。",
+  "defense_power": "2050",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2016/01/09",
+  "species_id": 1,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 5,
+  "card_id": 12255,
+  "card_name": "ジャンク・チェンジャー",
+  "card_name_label": "ジャンク・チェンジャー",
+  "card_name_search": "じゃんくちぇんじゃー",
+  "card_pen_effect": "",
+  "card_text": "「ジャンク・チェンジャー」の効果は１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功した場合、フィールドの「ジャンク」モンスター１体を対象として以下の効果から１つを選択して発動できる。$N●対象のモンスターのレベルを１つ上げる。$N●対象のモンスターのレベルを１つ下げる。",
+  "defense_power": "900",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/12/19",
+  "species_id": 15,
+  "starchip": "3"
+}

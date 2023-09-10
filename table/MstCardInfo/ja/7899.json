@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 5,
+  "card_id": 7899,
+  "card_name": "C・ドラゴン",
+  "card_name_label": "チェーン・ドラゴン",
+  "card_name_search": "ちぇーんどらごん",
+  "card_pen_effect": "",
+  "card_text": "チューナー＋チューナー以外のモンスター１体以上$N自分のメインフェイズ時に発動できる。自分の墓地の「C」と名のついたモンスターを全てゲームから除外する。このカードの攻撃力はエンドフェイズ時まで、この効果で除外したモンスターの数×２００ポイントアップする。また、このカードが相手ライフに戦闘ダメージを与えた時、相手のデッキの上からカードを３枚墓地へ送る。",
+  "defense_power": "1300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/07/19",
+  "species_id": 1,
+  "starchip": "6"
+}

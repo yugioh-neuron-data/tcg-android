@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10955,
+  "card_name": "実力伯仲",
+  "card_name_label": "じつりょくはくちゅう",
+  "card_name_search": "じつりょくはくちゅう",
+  "card_pen_effect": "",
+  "card_text": "自分及び相手フィールド上に表側攻撃表示で存在する効果モンスターを１体ずつ選択して発動できる。選択した２体のモンスターの効果を無効にする。その後、選択した２体のモンスターがフィールド上に表側攻撃表示で存在する限り、選択したモンスターは戦闘では破壊されず、このカード以外のカードの効果を受けず、攻撃と表示形式の変更もできない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/11/16",
+  "species_id": 24,
+  "starchip": "0"
+}

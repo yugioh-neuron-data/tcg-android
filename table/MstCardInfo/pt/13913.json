@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 2,
+  "card_id": 13913,
+  "card_name": "Mistruque Huldra",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se este card for Invocado por Invocação-Normal ou Especial: você pode descartar 1 card; aplique o seguinte efeito, dependendo do tipo de card descartado.$N●Monstro: Adicione 1 Armadilha do seu Cemitério à sua mão.$N●Magia: Adicione 1 monstro do seu Cemitério à sua mão.$N●Armadilha: Adicione 1 Magia do seu Cemitério à sua mão.$NVocê só pode usar este efeito de \"Mistruque Huldra\" uma vez por turno.",
+  "defense_power": "2400",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/10/18",
+  "species_id": 18,
+  "starchip": "5"
+}

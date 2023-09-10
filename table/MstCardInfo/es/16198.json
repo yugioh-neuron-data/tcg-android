@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 1,
+  "card_id": 16198,
+  "card_name": "La Almaespada Iris",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante la Main Phase, si un monstruo cuyos efectos están negados está en el Campo (Efecto Rápido): puedes Invocar esta carta de Modo Especial desde tu mano. Si tu adversario Invoca uno o más monstruos de Modo Especial (excepto durante el Damage Step): puedes activar 1 de estos efectos basado en de dónde fue o fueron Invocados de Modo Especial;$N●Mano: Invoca 1 monstruo de Modo Especial desde tu mano.$N●Deck: Roba 2 cartas.$N●Deck Extra: Destruye 1 de esos monstruos Invocados de Modo Especial desde el Deck Extra.$NSólo puedes usar cada efecto de \"La Almaespada Iris\" una vez por turno.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/08/12",
+  "species_id": 18,
+  "starchip": "8"
+}

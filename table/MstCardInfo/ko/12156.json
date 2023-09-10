@@ -1,0 +1,23 @@
+{
+  "attack_power": "1900",
+  "attribute_id": 5,
+  "card_id": 12156,
+  "card_name": "초중마수 큐우－B",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "튜너 ＋ 튜너 이외의 \"초중무사\" 몬스터 1장 이상$N이 카드는 룰상 \"초중무사\" 카드로도 취급한다. ①: 이 카드는 앞면 수비 표시 그대로 공격할 수 있다. 그 경우, 이 카드는 수비력을 공격력으로 취급하고, 데미지 계산을 실행한다. ②: 자신의 묘지에 마법 / 함정 카드가 존재하지 않을 경우, 이 카드의 수비력은, 상대 필드의 특수 소환된 몬스터의 수 × 900 올린다.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/02/01",
+  "species_id": 7,
+  "starchip": "9"
+}

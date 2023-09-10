@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 5268,
+  "card_name": "Distruzione Cieca",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Una volta per turno, durante la tua Standby Phase: tira un dado a sei facce. Se il risultato è 1-5, distruggi tutti i mostri sul Terreno con lo stesso Livello del numero tirato. Se è 6, distruggi tutti i mostri di Livello 6 o superiore sul Terreno.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2003/03/01",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2200",
+  "attribute_id": 2,
+  "card_id": 12386,
+  "card_name": "Kozmoll Signora Oscura",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "(Questa carta non viene considerata come una carta \"Signore Oscuro\".)$N(Effetto Rapido): puoi bandire questa carta; Evoca Specialmente 1 mostro \"Kozmo\" di Livello 6 o superiore dalla tua mano. Puoi utilizzare questo effetto di \"Kozmoll Signora Oscura\" una sola volta per turno. Una volta per turno, quando viene attivato l'effetto di un altro mostro (Effetto Rapido): puoi pagare 1000 LP; annulla l'attivazione e, se lo fai, distruggi quel mostro.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/05/05",
+  "species_id": 21,
+  "starchip": "5"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 2,
+  "card_id": 11134,
+  "card_name": "星読みの魔術師",
+  "card_name_label": "ほしよみのまじゅつし",
+  "card_name_search": "ほしよみのまじゅつし",
+  "card_pen_effect": "①：自分のPモンスターが戦闘を行う場合、相手はダメージステップ終了時まで魔法カードを発動できない。②：もう片方の自分のPゾーンに「魔術師」カードまたは「オッドアイズ」カードが存在しない場合、このカードのPスケールは４になる。",
+  "card_text": "①：１ターンに１度、自分フィールドのPモンスター１体のみが相手の効果で自分の手札に戻った時に発動できる。その同名モンスター１体を手札から特殊召喚する。",
+  "defense_power": "2400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2014/03/21",
+  "species_id": 18,
+  "starchip": "5"
+}

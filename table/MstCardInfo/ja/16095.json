@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 16095,
+  "card_name": "ドレミコード・ムジカ",
+  "card_name_label": "ドレミコード・ムジカ",
+  "card_name_search": "どれみこーどむじか",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：自分フィールドの「ドレミコード」PモンスターカードのPスケールによって以下の効果から１つを選択して発動できる。$N●奇数：自分のEXデッキからPスケールが奇数の表側表示の「ドレミコード」Pモンスター１体を特殊召喚する。$N●偶数：自分のEXデッキからPスケールが偶数の表側表示の「ドレミコード」Pモンスター１体を特殊召喚する。$N●奇数と偶数：相手フィールドのカード１枚を対象として発動できる。そのカードを破壊する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/03/06",
+  "species_id": 25,
+  "starchip": "0"
+}

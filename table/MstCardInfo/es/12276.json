@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 1,
+  "card_id": 12276,
+  "card_name": "Artistamigo Unicornio de Ojos Anómalos",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Una vez, mientras esta carta está en tu Zona de Péndulo, cuando tu monstruo \"Ojos Anómalos\" declara un ataque: puedes seleccionar otro monstruo \"Artistamigo\" que controles; hasta el final de la Battle Phase, ese monstruo atacante gana ATK igual al ATK original del monstruo seleccionado en el Campo (aún si esta carta deja el Campo).",
+  "card_text": "Cuando esta carta es Invocada de Modo Normal o Especial: puedes seleccionar 1 monstruo \"Artistamigo\" en tu Cementerio; gana LP iguales a su ATK.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "8",
+  "pen_scale_r": "8",
+  "sales_at": "2016/05/05",
+  "species_id": 11,
+  "starchip": "1"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10188,
+  "card_name": "ヒュグロの魔導書",
+  "card_name_label": "ヒュグロのまどうしょ",
+  "card_name_search": "ひゅぐろのまどうしょ",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：自分フィールドの魔法使い族モンスター１体を対象として発動できる。このターン、そのモンスターの攻撃力は１０００アップし、以下の効果を適用する。$N●そのモンスターが戦闘で相手モンスターを破壊した時に発動できる。デッキから「魔導書」魔法カード１枚を手札に加える。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/04/14",
+  "species_id": 24,
+  "starchip": "0"
+}

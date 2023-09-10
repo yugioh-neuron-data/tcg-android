@@ -1,0 +1,23 @@
+{
+  "attack_power": "1300",
+  "attribute_id": 2,
+  "card_id": 10114,
+  "card_name": "Drachcard",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wenn diese Karte als Normalbeschwörung beschworen wird: Du kannst 1 Normales Monster mit 1000 oder weniger ATK in deinem Friedhof wählen; beschwöre das gewählte Ziel als Spezialbeschwörung in die offene Verteidigungsposition. Einmal pro Spielzug: Du kannst 1 Monster vom Typ Drache als Tribut anbieten und dann 1 offenes Monster wählen, das du kontrollierst; bis zur End Phase wird seine Stufe zu 8 und falls sie dies tut, erhält es 800 ATK.",
+  "defense_power": "1900",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/11/07",
+  "species_id": 1,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 2,
+  "card_id": 12110,
+  "card_name": "Mago Spezzatempo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Ogni turno, la prima volta che uno o più Mostri Pendulum che controlli stanno per essere distrutti dall'effetto di una carta dell'avversario, non vengono distrutti.",
+  "card_text": "Quando questa carta viene Evocata Pendulum dalla mano (e nessun'altra carta viene Evocata Pendulum allo stesso tempo): puoi far diventare l'ATK di questa carta il doppio del suo ATK originale. Una volta per turno: puoi scegliere come bersaglio 1 mostro sul Terreno; bandisci sia esso che questa carta dal Terreno fino alla tua prossima Standby Phase.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "2",
+  "pen_scale_r": "2",
+  "sales_at": "2016/01/14",
+  "species_id": 18,
+  "starchip": "3"
+}

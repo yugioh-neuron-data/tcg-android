@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 16844,
+  "card_name": "Stealthbergia Dinomorphia",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 monstres \"Dinomorphia\" de noms différents$NTant que vos LP sont inférieurs ou égaux à 2000, vous ne payez pas de LP pour activer des Cartes Piège ou des effets de monstre \"Dinomorphia\". Vous ne pouvez utiliser chacun des effets suivants de \"Stealthbergia Dinomorphia\" qu'une fois par tour. Lorsque votre adversaire active un effet de monstre (Effet Rapide) : vous pouvez infliger des dommages à votre adversaire égaux à l'ATK d'origine du monstre. Si cette carte est détruite au combat ou par un effet de carte : vous pouvez Invoquer Spécialement 1 monstre \"Dinomorphia\" de max. Niveau 4 depuis votre Cimetière.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/02/10",
+  "species_id": 9,
+  "starchip": "6"
+}

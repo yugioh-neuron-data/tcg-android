@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 3,
+  "card_id": 16512,
+  "card_name": "Chierico Pinguino",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se uno o più mostri \"Pinguino\" vengono mandati dalla tua Zona Mostri al tuo Cimitero da una carta dell'avversario, anche durante il Damage Step: puoi scegliere 1 di essi come bersaglio; scarta questa carta e, se lo fai, Evoca Specialmente quel mostro coperto in Posizione di Difesa. Puoi utilizzare questo effetto di \"Chierico Pinguino\" una sola volta per turno. Una volta per turno: puoi scegliere come bersaglio 1 mostro \"Pinguino\" che controlli; esso guadagna 600 ATK fino alla fine del turno e tu guadagni 600 LP.",
+  "defense_power": "1700",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/11/04",
+  "species_id": 14,
+  "starchip": "3"
+}

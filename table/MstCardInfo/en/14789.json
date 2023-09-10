@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14789,
+  "card_name": "Gouki Finishing Move",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Target 1 \"Gouki\" Link Monster you control; it gains ATK equal to its Link Rating x 1000 until the end of this turn, also if it attacks a Defense Position monster this turn, inflict piercing battle damage to your opponent. For the rest of this turn after this card resolves, you cannot declare attacks, except with \"Gouki\" monsters. You can only activate 1 \"Gouki Finishing Move\" per turn.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/08/13",
+  "species_id": 24,
+  "starchip": "0"
+}

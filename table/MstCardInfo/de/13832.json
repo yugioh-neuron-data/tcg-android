@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 1,
+  "card_id": 13832,
+  "card_name": "Idaten der Erobererstern",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 Krieger-Monster der Stufe 5 oder höher$NFalls diese Karte als Fusionsbeschwörung beschworen wird: Du kannst deiner Hand 1 Krieger-Monster der Stufe 5 von deinem Deck hinzufügen. Du kannst diesen Effekt von „Idaten der Erobererstern“ nur einmal pro Spielzug verwenden. Einmal pro Spielzug: Du kannst eine beliebige Anzahl Karten abwerfen; diese Karte erhält für jede abgeworfene Karte 200 ATK. Einmal pro Kampf, während der Schadensberechnung, falls diese Karte gegen ein Monster eines Gegners mit gleicher oder niedrigerer Stufe kämpft (Schnelleffekt): Du kannst die ATK des Monsters eines Gegners nur während der Schadensberechnung zu 0 werden lassen.",
+  "defense_power": "2200",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/06/28",
+  "species_id": 15,
+  "starchip": "10"
+}

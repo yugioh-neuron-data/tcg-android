@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 3,
+  "card_id": 9327,
+  "card_name": "マジオシャレオン",
+  "card_name_label": "マジオシャレオン",
+  "card_name_search": "まじおしゃれおん",
+  "card_pen_effect": "",
+  "card_text": "相手フィールド上に魔法・罠カードが存在する限り、相手はこのカードを攻撃対象に選択する事はできない。また、このカードが守備表示モンスターを攻撃した時、その守備力を攻撃力が超えていれば、その数値だけ相手ライフに戦闘ダメージを与える。",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/11/13",
+  "species_id": 20,
+  "starchip": "5"
+}

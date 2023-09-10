@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 2,
+  "card_id": 17802,
+  "card_name": "Wollow, Fondateur des Dragons de Somme",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2+ monstres de Niveau 6$NLes monstres que vous contrôlez gagnent 100 ATK/DEF pour chaque carte dans le Cimetière de votre adversaire. (Effet Rapide) : vous pouvez cibler 1 carte dans le Cimetière de votre adversaire, et détachez 1 ou 2 Matériels de cette carte, puis activez l'effet approprié ;$N●1 : Renvoyez-la au Deck.$N●2 : Si la cible est un monstre, Invoquez-la Spécialement face recto ou en Position de Défense face verso sur votre Terrain. Si ce n'est pas un monstre, Posez-la sur votre Terrain.$NVous ne pouvez utiliser cet effet de \"Wollow, Fondateur des Dragons de Somme\" qu'une fois par tour.",
+  "defense_power": "1300",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/10/20",
+  "species_id": 2,
+  "starchip": "6"
+}

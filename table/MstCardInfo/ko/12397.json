@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 12397,
+  "card_name": "도깨비 제비뽑기",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "①: 자신 스탠바이 페이즈에 이 효과를 발동한다. 상대는 카드의 종류(몬스터 / 마법 / 함정)를 선언한다. 자신 덱의 맨 위의 카드를 넘겨, 넘긴 카드가 선언한 종류의 카드였을 경우, 상대는 덱에서 1장 드로우한다. 다를 경우, 상대의 패를 무작위로 1장 고르고 버린다. 넘긴 카드는 덱의 맨 아래로 되돌린다.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/10/01",
+  "species_id": 25,
+  "starchip": "0"
+}

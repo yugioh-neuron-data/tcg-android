@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 5,
+  "card_id": 12433,
+  "card_name": "ブロックドラゴン",
+  "card_name_label": "ブロックドラゴン",
+  "card_name_search": "ぶろっくどらごん",
+  "card_pen_effect": "",
+  "card_text": "このカードは通常召喚できない。自分の手札・墓地の地属性モンスター３体を除外した場合のみ手札・墓地から特殊召喚できる。このカード名の②の効果は１ターンに１度しか使用できない。①：このカードがモンスターゾーンに存在する限り、自分フィールドの岩石族モンスターは戦闘以外では破壊されない。②：このカードがフィールドから墓地へ送られた場合に発動できる。レベルの合計が８になるように、デッキから岩石族モンスターを３体まで選んで手札に加える。",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/04/09",
+  "species_id": 6,
+  "starchip": "8"
+}

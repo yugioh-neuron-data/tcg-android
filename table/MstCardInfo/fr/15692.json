@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 6,
+  "card_id": 15692,
+  "card_name": "Dragon Armé du Tonnerre LV10",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si cette carte a été Invoquée Spécialement par l'effet d'un monstre \"Dragon Armé\", elle gagne les effets suivants selon son ATK.$N●1+ : Son nom devient \"Dragon Armé LV10\".$N●10+ : Son contrôle ne peut pas être échangé.$N●100+ : Non destructible au combat.$N●1000+ : Une fois par tour de l'adversaire (Effet Rapide) : vous pouvez envoyer 1 carte depuis votre main au Cimetière, puis ciblez 1 autre carte sur le Terrain ; détruisez-la, et si vous le faites, cette carte gagne 1000 ATK.$N●10000+ : Une fois par tour : vous pouvez détruire toutes les autres cartes sur le Terrain.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/02/04",
+  "species_id": 1,
+  "starchip": "10"
+}

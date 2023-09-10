@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 5,
+  "card_id": 13204,
+  "card_name": "Hechicera Binaria",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 monstruos, excepto Fichas$NEsta carta gana estos efectos basados en el número de monstruos co-enlazados a esta carta.$N●1+: Cuando un monstruo co-enlazado a esta carta batalla con el monstruo de tu adversario y le inflige daño de batalla: puedes ganar esa cantidad de LP.$N●2: Una vez por turno (Efecto Rápido): puedes seleccionar 2 monstruos boca arriba que controles; hasta el final de este turno, divide a la mitad el ATK de 1 monstruo y, si lo haces, añade ese ATK perdido al otro monstruo.",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "46",
+  "linkno": "2",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/11/02",
+  "species_id": 27,
+  "starchip": ""
+}

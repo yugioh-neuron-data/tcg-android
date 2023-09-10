@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 2,
+  "card_id": 15991,
+  "card_name": "Relógio Arc",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Se você não controlar nenhum monstro, ou apenas Monstros Pêndulo, aplique este efeito, de acordo com a Zona de Pêndulo deste card.$N●Esquerda: Reduza sua Escala de Pêndulo em 3.$N●Direita: Aumente sua Escala de Pêndulo em 4.$NDurante a Fase de Apoio do seu oponente: você pode Invocar este card por Invocação-Especial.",
+  "card_text": "Se este card for Invocado por Invocação-Especial em uma zona que não seja a Zona de Monstros Principal central, destrua-o. Não pode ser destruído em batalha. Uma vez por turno, durante a Fase Final do seu oponente: você pode escolher 1 card na sua Zona de Pêndulo; destrua-o e, se isso acontecer, coloque este card na sua Zona de Pêndulo.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "4",
+  "pen_scale_r": "4",
+  "sales_at": "2021/06/03",
+  "species_id": 7,
+  "starchip": "4"
+}

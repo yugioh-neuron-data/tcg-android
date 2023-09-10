@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 7164,
+  "card_name": "ヴェノム・スワンプ",
+  "card_name_label": "ヴェノム・スワンプ",
+  "card_name_search": "う゛ぇのむすわんぷ",
+  "card_pen_effect": "",
+  "card_text": "お互いのターンのエンドフェイズ毎に、フィールド上に表側表示で存在する「ヴェノム」と名のついたモンスター以外の表側表示で存在する全てのモンスターにヴェノムカウンターを１つ置く。ヴェノムカウンター１つにつき、攻撃力は５００ポイントダウンする。この効果で攻撃力が０になったモンスターは破壊される。",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/05/12",
+  "species_id": 24,
+  "starchip": "0"
+}

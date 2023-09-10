@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 6,
+  "card_id": 11608,
+  "card_name": "音響戦士ギータス",
+  "card_name_label": "サウンドウォリアーギータス",
+  "card_name_search": "さうんどうぉりあーぎーたす",
+  "card_pen_effect": "このカード名のP効果は１ターンに１度しか使用できない。①：手札を１枚捨てて発動できる。デッキから「音響戦士ギータス」以外の「音響戦士」モンスター１体を特殊召喚する。",
+  "card_text": "①：このカードが召喚に成功した時、自分の墓地の「音響戦士」モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "7",
+  "pen_scale_r": "7",
+  "sales_at": "2014/11/15",
+  "species_id": 7,
+  "starchip": "3"
+}

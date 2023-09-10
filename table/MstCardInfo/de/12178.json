@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 12178,
+  "card_name": "Folgeflügel",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Aktiviere diese Karte, indem du 1 Synchromonster wählst, das du kontrollierst; es kann weder durch Kampf noch durch Karteneffekte deines Gegners zerstört werden. Am Beginn des Damage Steps, falls es gegen ein Monster deines Gegners der Stufe 5 oder höher kämpft: Du kannst das Monster deines Gegners zerstören und falls du dies tust, erhält das gewählte Synchromonster bis zum Ende dieses Spielzugs ATK in Höhe der Grund-ATK des zerstörten Monsters. Wenn das Monster das Spielfeld verlässt, zerstöre diese Karte.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/01/14",
+  "species_id": 25,
+  "starchip": "0"
+}

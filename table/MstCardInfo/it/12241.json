@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 5,
+  "card_id": 12241,
+  "card_name": "Cavalleria d'Acciaio di Dinon",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "All'inizio del Damage Step, se questa carta combatte con un Mostro Pendulum: l'ATK e il DEF di questa carta diventano la metà dei suoi ATK e DEF attuali fino alla fine del Damage Step.",
+  "defense_power": "2600",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2016/01/09",
+  "species_id": 9,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 4,
+  "card_id": 11702,
+  "card_name": "炎獣の影霊衣－セフィラエグザ",
+  "card_name_label": "えんじゅうのネクロス－セフィラエグザ",
+  "card_name_search": "えんじゅうのねくろすせふぃらえぐざ",
+  "card_pen_effect": "①：自分は「影霊衣」モンスター及び「セフィラ」モンスターしかP召喚できない。この効果は無効化されない。",
+  "card_text": "「炎獣の影霊衣－セフィラエグザ」のモンスター効果は１ターンに１度しか使用できない。①：このカードが手札・墓地に存在し、「炎獣の影霊衣－セフィラエグザ」以外の自分のモンスターゾーン・Pゾーンの、「影霊衣」カードまたは「セフィラ」カードが戦闘・効果で破壊された場合に発動できる。このカードを特殊召喚する。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "7",
+  "pen_scale_r": "7",
+  "sales_at": "2015/02/14",
+  "species_id": 1,
+  "starchip": "5"
+}

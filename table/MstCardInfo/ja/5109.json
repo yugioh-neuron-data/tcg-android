@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 5109,
+  "card_name": "死者の生還",
+  "card_name_label": "ししゃのせいかん",
+  "card_name_search": "ししゃのせいかん",
+  "card_pen_effect": "",
+  "card_text": "自分の手札からモンスターカード１枚を墓地に捨てる。このターン戦闘によって破壊され自分の墓地へ送られたモンスター１体を、ターン終了時に手札に戻す。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2001/04/19",
+  "species_id": 24,
+  "starchip": "0"
+}

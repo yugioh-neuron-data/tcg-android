@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 7503,
+  "card_name": "レベル・レジストウォール",
+  "card_name_label": "レベル・レジストウォール",
+  "card_name_search": "れべるれじすとうぉーる",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：自分フィールドのモンスターが戦闘または相手の効果で破壊された場合、そのモンスター１体を対象として発動できる。レベルの合計がそのモンスターと同じになるように、デッキからモンスターを任意の数だけ選んで守備表示で特殊召喚する。この効果で特殊召喚したモンスターの効果は無効化される。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/12/28",
+  "species_id": 25,
+  "starchip": "0"
+}

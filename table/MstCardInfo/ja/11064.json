@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 4,
+  "card_id": 11064,
+  "card_name": "爆炎帝テスタロス",
+  "card_name_label": "ばくえんていテスタロス",
+  "card_name_search": "ばくえんていてすたろす",
+  "card_pen_effect": "",
+  "card_text": "このカードはアドバンス召喚したモンスター１体をリリースしてアドバンス召喚できる。$N①：このカードがアドバンス召喚した場合に発動する。相手の手札を確認し、その内の１枚を選んで捨てる。捨てたカードがモンスターだった場合、そのモンスターのレベル×２００ダメージを相手に与える。このカードが炎属性モンスターをリリースしてアドバンス召喚した場合、その時の効果に以下の効果を加える。$N●相手に１０００ダメージを与える。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/02/15",
+  "species_id": 4,
+  "starchip": "8"
+}

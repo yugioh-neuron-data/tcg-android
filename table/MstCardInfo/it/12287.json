@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 2,
+  "card_id": 12287,
+  "card_name": "Raidraptor - Lanius del Dolore",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Non può essere utilizzato come Materiale Xyz per un'Evocazione Xyz, eccetto per l'Evocazione Xyz di un mostro di Tipo Bestia Alata. Se questa carta è nella tua mano: puoi scegliere come bersaglio 1 mostro \"Raidraptor\" che controlli che ha un Livello; subisci danni pari al suo ATK o DEF (il minore, in caso di parità, scegli tu) e, se lo fai, Evoca Specialmente questa carta e, se fai quello, il Livello di questa carta diventa il Livello attuale del mostro scelto come bersaglio. Puoi utilizzare questo effetto di \"Raidraptor - Lanius del Dolore\" una sola volta per turno.",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/05/05",
+  "species_id": 16,
+  "starchip": "1"
+}

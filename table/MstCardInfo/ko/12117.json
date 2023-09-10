@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 5,
+  "card_id": 12117,
+  "card_name": "초중무사 코코로가마－A",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "자신의 묘지에 마법 / 함정 카드가 존재할 경우, 이 카드는 일반 소환 / 반전 소환할 수 없다. ①: 자신의 묘지에 마법 / 함정 카드가 존재하지 않으며, 자신이 전투 데미지를 받았을 때에 발동할 수 있다. 이 카드를 패에서 특수 소환한다. 이 효과로 특수 소환한 이 카드는, 이 턴에, 전투 / 효과로는 파괴되지 않는다.",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/02/01",
+  "species_id": 7,
+  "starchip": "3"
+}

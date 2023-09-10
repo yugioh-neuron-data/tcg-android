@@ -1,0 +1,23 @@
+{
+  "attack_power": "2750",
+  "attribute_id": 2,
+  "card_id": 10007,
+  "card_name": "ヴェルズ・ウロボロス",
+  "card_name_label": "ヴェルズ・ウロボロス",
+  "card_name_search": "う゛ぇるずうろぼろす",
+  "card_pen_effect": "",
+  "card_text": "レベル４モンスター×３$N１ターンに１度、このカードのエクシーズ素材を１つ取り除き、以下の効果から１つを選択して発動できる。以下の効果はこのカードがフィールド上に表側表示で存在する限りそれぞれ１度しか選択できない。$N●相手フィールド上に存在するカード１枚を選択して持ち主の手札に戻す。$N●相手の手札をランダムに１枚選んで墓地へ送る。$N●相手の墓地に存在するカード１枚を選択してゲームから除外する。",
+  "defense_power": "1950",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/01/24",
+  "species_id": 1,
+  "starchip": "4"
+}

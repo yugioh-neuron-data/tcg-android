@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16867,
+  "card_name": "新世壊",
+  "card_name_label": "ニュー・クリア・ワールド",
+  "card_name_search": "にゅーくりあわーるど",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：自分フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターを破壊し、そのモンスターとは元々の種族・属性が異なり、そのモンスターの元々のレベルより低いレベルを持つモンスター１体をデッキから守備表示で特殊召喚する。この効果で特殊召喚したモンスターの効果は無効化される。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/10/16",
+  "species_id": 24,
+  "starchip": "0"
+}

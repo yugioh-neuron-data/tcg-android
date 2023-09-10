@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 4341,
+  "card_name": "闇",
+  "card_name_label": "やみ",
+  "card_name_search": "やみ",
+  "card_pen_effect": "",
+  "card_text": "フィールド上に表側表示で存在する悪魔族・魔法使い族モンスターの攻撃力・守備力は２００ポイントアップする。フィールド上に表側表示で存在する天使族モンスターの攻撃力・守備力は２００ポイントダウンする。",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "1999/03/06",
+  "species_id": 24,
+  "starchip": "0"
+}

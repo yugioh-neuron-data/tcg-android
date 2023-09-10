@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 5916,
+  "card_name": "自爆スイッチ",
+  "card_name_label": "じばくスイッチ",
+  "card_name_search": "じばくすいっち",
+  "card_pen_effect": "",
+  "card_text": "自分のライフポイントが相手より７０００以上少ない時に発動する事ができる。お互いのライフポイントは０になる。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2003/07/17",
+  "species_id": 25,
+  "starchip": "0"
+}

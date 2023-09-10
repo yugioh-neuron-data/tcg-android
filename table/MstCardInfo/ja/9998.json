@@ -1,0 +1,23 @@
+{
+  "attack_power": "2150",
+  "attribute_id": 3,
+  "card_id": 9998,
+  "card_name": "イビリチュア・プシュケローネ",
+  "card_name_label": "イビリチュア・プシュケローネ",
+  "card_name_search": "いびりちゅあぷしゅけろーね",
+  "card_pen_effect": "",
+  "card_text": "「リチュア」と名のついた儀式魔法カードにより降臨。１ターンに１度、モンスターの種族・属性を宣言して発動できる。相手の手札をランダムに１枚確認し、宣言した種族・属性のモンスターだった場合、そのカードを持ち主のデッキに戻す。違った場合は元に戻す。",
+  "defense_power": "1650",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 5,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/01/24",
+  "species_id": 3,
+  "starchip": "4"
+}

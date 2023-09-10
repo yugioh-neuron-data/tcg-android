@@ -1,0 +1,23 @@
+{
+  "attack_power": "700",
+  "attribute_id": 1,
+  "card_id": 9964,
+  "card_name": "No.7 ラッキー・ストライプ",
+  "card_name_label": "ナンバーズ７ ラッキー・ストライプ",
+  "card_name_search": "なんばーずなならっきーすとらいぷ",
+  "card_pen_effect": "",
+  "card_text": "レベル７モンスター×３$N①：このカードのX素材を１つ取り除いて発動できる。サイコロを２回振る。このカードの攻撃力は、相手ターン終了時まで、大きい方の出た目×７００になる。出た目の合計が７だった場合、さらに以下の効果から１つを選んで適用する。$N●このカード以外のフィールドのカードを全て墓地へ送る。$N●手札または自分・相手の墓地からモンスター１体を選んで自分フィールドに特殊召喚する。$N●自分はデッキから３枚ドローし、その後手札を２枚選んで捨てる。",
+  "defense_power": "700",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/10/21",
+  "species_id": 17,
+  "starchip": "7"
+}

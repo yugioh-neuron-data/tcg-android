@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 18919,
+  "card_name": "Espulsione di Fuoco",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Manda 1 mostro Pyro dal tuo Deck al Cimitero, poi, se hai mandato al Cimitero un mostro \"Vulcanico\", puoi applicare 1 di questi effetti.$N●Infliggi al tuo avversario danno pari al suo Livello x 100.$N●Evoca Specialmente 1 \"Segna-Bomba\" (Pyro/FUOCO/Livello 1/ATK 1000/DEF 1000) sul Terreno del tuo avversario. Ogni volta che 1 viene distrutto, il suo controllore subisce 500 danni.$NPuoi attivare solo 1 \"Espulsione di Fuoco\" per turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/08/10",
+  "species_id": 24,
+  "starchip": "0"
+}

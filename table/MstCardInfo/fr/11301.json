@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 2,
+  "card_id": 11301,
+  "card_name": "Griffe d'Argent Potartiste",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Tous les monstres \"Potartiste\" que vous contrôlez gagnent 300 ATK.",
+  "card_text": "Lorsque cette carte déclare une attaque : jusqu'à la fin de la Battle Phase, tous les monstres \"Potartiste\" que vous contrôlez actuellement gagnent 300 ATK.",
+  "defense_power": "700",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2015/08/06",
+  "species_id": 11,
+  "starchip": "4"
+}

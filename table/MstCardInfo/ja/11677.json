@@ -1,0 +1,23 @@
+{
+  "attack_power": "2600",
+  "attribute_id": 5,
+  "card_id": 11677,
+  "card_name": "EMハンマーマンモ",
+  "card_name_label": "エンタメイトハンマーマンモ",
+  "card_name_search": "えんためいとはんまーまんも",
+  "card_pen_effect": "",
+  "card_text": "①：自分フィールドに「EM」カードが２枚以上存在する場合、このカードはリリースなしで召喚できる。②：自分フィールドに他の「EM」カードが存在しない場合、このカードは攻撃できない。③：このカードの攻撃宣言時に発動できる。相手フィールドの魔法・罠カードを全て持ち主の手札に戻す。",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/02/14",
+  "species_id": 11,
+  "starchip": "6"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 2,
+  "card_id": 15495,
+  "card_name": "インフェルニティ・コンジュラー",
+  "card_name_label": "インフェルニティ・コンジュラー",
+  "card_name_search": "いんふぇるにてぃこんじゅらー",
+  "card_pen_effect": "",
+  "card_text": "このカード名の②の効果は１ターンに１度しか使用できない。①：自分の手札が０枚である限り、相手フィールドのモンスターの攻撃力は８００ダウンする。②：このカードが墓地に存在し、自分の手札が０枚の場合に発動できる。このカードを特殊召喚する。この効果で特殊召喚したこのカードは、フィールドから離れた場合に除外される。",
+  "defense_power": "900",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/08/08",
+  "species_id": 3,
+  "starchip": "3"
+}

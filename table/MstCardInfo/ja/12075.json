@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 12075,
+  "card_name": "PSYフレーム・サーキット",
+  "card_name_label": "サイフレーム・サーキット",
+  "card_name_search": "さいふれーむさーきっと",
+  "card_pen_effect": "",
+  "card_text": "①：自分フィールドに「PSYフレーム」モンスターが特殊召喚された場合に発動できる。自分フィールドの「PSYフレーム」モンスターのみをS素材としてS召喚する。②：自分の「PSYフレーム」モンスターが相手モンスターと戦闘を行うダメージステップ開始時に、手札の「PSYフレーム」モンスター１体を捨てて発動できる。その戦闘を行う自分のモンスターの攻撃力はターン終了時まで、この効果を発動するために捨てたモンスターの攻撃力分アップする。",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/08/22",
+  "species_id": 24,
+  "starchip": "0"
+}

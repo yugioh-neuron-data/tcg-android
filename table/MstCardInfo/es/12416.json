@@ -1,0 +1,23 @@
+{
+  "attack_power": "2100",
+  "attribute_id": 2,
+  "card_id": 12416,
+  "card_name": "Mago de la Ilusión Oscura",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "El nombre de esta carta se convierte en \"Mago Oscuro\" mientras esté en el Campo. Sólo puedes usar cada uno de estos efectos de \"Mago de la Ilusión Oscura\" una vez por turno.$N●Durante el turno de tu adversario, si activas una Carta Mágica/de Trampa o su efecto (excepto durante el Damage Step): puedes Invocar esta carta de Modo Especial desde tu mano.$N●Si activas una Carta Mágica/de Trampa o su efecto mientras esta carta esté boca arriba en tu Campo (excepto durante el Damage Step): puedes seleccionar 1 \"Mago Oscuro\" en tu Cementerio; Invócalo de Modo Especial. Este efecto sólo puede ser usado una vez mientras esta carta esté boca arriba en el Campo.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/08/04",
+  "species_id": 18,
+  "starchip": "7"
+}

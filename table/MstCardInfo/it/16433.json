@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16433,
+  "card_name": "Interferenza Cipher",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante il calcolo dei danni, se un tuo mostro \"Cipher\" combatte, mentre un altro mostro con il suo stesso nome è sul Terreno: puoi raddoppiare l'ATK del tuo mostro \"Cipher\" che sta combattendo fino alla fine della Battle Phase. Puoi utilizzare questo effetto di \"Interferenza Cipher\" una sola volta per turno.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/12/02",
+  "species_id": 24,
+  "starchip": "0"
+}

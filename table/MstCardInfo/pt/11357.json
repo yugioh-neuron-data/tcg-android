@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 5,
+  "card_id": 11357,
+  "card_name": "Cápsula Qliphort",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Você não pode Invocar monstros por Invocação-Especial, exceto monstros \"Qli\". Este efeito não pode ser negado. Todos os monstros que seu oponente controla perdem 300 de ATK.",
+  "card_text": "Você pode Invocar este card por Invocação-Normal sem oferecer Tributo. Se este card for Invocado por Invocação-Normal sem oferecer Tributo, ou se for Invocado por Invocação-Especial, o Nível dele se torna 4 e o ATK original dele se torna 1800. Se este card for Invocado por Invocação-Normal/Baixado, ele não é afetado por efeitos ativados de monstros cujo Nível/Classe original seja menor que o Nível atual deste card. Se este card for Invocado por Invocação-Normal pelo Tributo de um ou mais monstros \"Qli\", ele pode realizar um segundo ataque durante cada Fase de Batalha e se ele atacar um monstro em Posição de Defesa, cause dano de batalha perfurante ao seu oponente.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "9",
+  "pen_scale_r": "9",
+  "sales_at": "2014/11/07",
+  "species_id": 7,
+  "starchip": "8"
+}

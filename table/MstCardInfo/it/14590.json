@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14590,
+  "card_name": "Mente Malvagia",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se controlli un mostro Demone: attiva 1 di questi effetti, a seconda del numero di mostri nel Cimitero del tuo avversario;$N●1+: Pesca 1 carta.$N●4+: Aggiungi 1 mostro \"EROE\" o 1 \"Fusione Oscura\" dal tuo Deck alla tua mano.$N●10+: Aggiungi 1 Magia \"Polimerizzazione\" o 1 Magia \"Fusione\" dal tuo Deck alla tua mano.$NPuoi attivare solo 1 \"Mente Malvagia\" per turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/09/26",
+  "species_id": 24,
+  "starchip": "0"
+}

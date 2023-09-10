@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 2,
+  "card_id": 14925,
+  "card_name": "Camarartista Mago Celestial",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Quando exatamente 1 Monstro de Fusão, Sincro ou Xyz com a face para cima que você controla que foi Invocado por Invocação-Especial do Deck Adicional for destruído em batalha ou por um efeito de card do oponente: você pode Invocar por Invocação-Especial esse monstro destruído e, depois, destrua este card. Você só pode usar este efeito de \"Camarartista Mago Celestial\" uma vez por turno.",
+  "card_text": "Durante sua Fase Principal, se este card foi Invocado por Invocação-Normal ou Especial neste turno: você pode aplicar o(s) seguinte(s) efeito(s) pelo resto deste turno, de acordo com os outros monstros que você controla atualmente.$N●Fusão: Este card pode atacar diretamente.$N●Sincro: Seu oponente não pode ativar efeitos de monstro.$N●Xyz: O ATK deste card se torna o dobro do seu ATK original.$N●Pêndulo: Durante a Fase Final, adicione 1 Monstro Pêndulo do seu Deck à sua mão.$NVocê só pode usar este efeito de \"Camarartista Mago Celestial\" uma vez por turno.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "8",
+  "pen_scale_r": "8",
+  "sales_at": "2020/01/16",
+  "species_id": 18,
+  "starchip": "4"
+}

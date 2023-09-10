@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13686,
+  "card_name": "Höhle der Finsternis",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Alle offenen Monster auf dem Spielfeld werden zu FINSTERNIS. Einmal pro Spielzug, falls du ein Monster, das du kontrollierst, als Tribut anbieten würdest, um einen Karteneffekt zu aktivieren, kannst du 1 FINSTERNIS Monster, das dein Gegner kontrolliert, als Tribut anbieten, obwohl du es nicht kontrollierst. Einmal pro Spielzug, während der End Phase: Beschwöre so viele „Pein-Spielmarken“ (Unterweltler/FINSTERNIS/Stufe 3/ATK 1000/DEF 1000) wie möglich als Spezialbeschwörung auf die Spielfeldseite des Zugspielers in die Verteidigungsposition, bis zur Anzahl der Monster, die in diesem Spielzug als Tribut angeboten wurden, solange diese Karte offen lag.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/04/19",
+  "species_id": 24,
+  "starchip": "0"
+}

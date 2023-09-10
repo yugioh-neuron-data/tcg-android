@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 6,
+  "card_id": 13213,
+  "card_name": "Maître Sonique F.A.",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Gagne une ATK égale à son Niveau x 300. Non destructible au combat avec un monstre de l'adversaire dont le Niveau/Rang d'origine est inférieur au Niveau de cette carte. Chaque fois qu'une Carte Magie/Piège \"F.A.\" ou effet de Magie/Piège \"F.A.\" est activé : vous pouvez augmenter le Niveau de cette carte de 1. Si cette carte est min. Niveau 7, elle peut faire max. 2 attaques sur des monstres durant chaque Battle Phase.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/08/03",
+  "species_id": 7,
+  "starchip": "4"
+}

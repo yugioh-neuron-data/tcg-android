@@ -1,0 +1,23 @@
+{
+  "attack_power": "2100",
+  "attribute_id": 5,
+  "card_id": 18485,
+  "card_name": "Rouleau Compresseur Chenillinfini",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si un monstre TERRE Machine est Sacrifié ou banni face recto : vous pouvez Invoquer Spécialement cette carte depuis le Cimetière (si elle y était lorsque le monstre a été Sacrifié ou banni) ou la main (même si elle n'y était pas), mais bannissez-la lorsqu'elle quitte le Terrain. Vous ne pouvez utiliser cet effet de \"Rouleau Compresseur Chenillinfini\" qu'une fois par tour. Un Monstre Xyz dont le Type d'origine est Machine et qui a cette carte comme Matériel gagne cet effet.$N●Les monstres face recto contrôlés par votre adversaire sont changés en Position de Défense, et aussi, ils perdent 1000 DEF.",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/05/04",
+  "species_id": 7,
+  "starchip": "5"
+}

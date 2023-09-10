@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 3,
+  "card_id": 12219,
+  "card_name": "超量機獣グランパルス",
+  "card_name_label": "ちょうりょうきじゅうグランパルス",
+  "card_name_search": "ちょうりょうきじゅうぐらんぱるす",
+  "card_pen_effect": "",
+  "card_text": "レベル３モンスター×２$N①：X素材が無いこのカードは攻撃できない。②：１ターンに１度、このカードのX素材を１つ取り除き、フィールドの魔法・罠カード１枚を対象として発動できる。そのカードを破壊する。このカードが「超量士ブルーレイヤー」をX素材としている場合、この効果は相手ターンでも発動できる。③：１ターンに１度、自分メインフェイズに発動できる。自分の手札・フィールドの「超量士」モンスター１体を選び、このカードの下に重ねてX素材とする。",
+  "defense_power": "2800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/11/14",
+  "species_id": 7,
+  "starchip": "3"
+}

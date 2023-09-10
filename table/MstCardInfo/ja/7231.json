@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 7231,
+  "card_name": "ストライク・ショット",
+  "card_name_label": "ストライク・ショット",
+  "card_name_search": "すとらいくしょっと",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上に存在するモンスターの攻撃宣言時に発動する事ができる。そのモンスターの攻撃力はエンドフェイズ時まで７００ポイントアップする。そのモンスターが守備表示モンスターを攻撃した場合、その守備力を攻撃力が越えていれば、その数値だけ相手ライフに戦闘ダメージを与える。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/05/12",
+  "species_id": 25,
+  "starchip": "0"
+}

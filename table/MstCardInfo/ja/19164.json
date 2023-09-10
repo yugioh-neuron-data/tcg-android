@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 1,
+  "card_id": 19164,
+  "card_name": "オオヤツ・ツマムヒメ",
+  "card_name_label": "オオヤツ・ツマムヒメ",
+  "card_name_search": "おおやつつまむひめ",
+  "card_pen_effect": "",
+  "card_text": "①：１ターンに１度、フィールドのこのカードが攻撃・効果の対象になった時に発動できる。自分フィールドに「おやつトークン」（植物族・光・星１・攻／守８００）１体を特殊召喚する。$N②：１ターンに１度、相手がモンスターを特殊召喚する際に、自分フィールドの通常モンスター１体をリリースして発動できる。その特殊召喚を無効にし、そのモンスターを破壊する。",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/07/22",
+  "species_id": 13,
+  "starchip": "4"
+}

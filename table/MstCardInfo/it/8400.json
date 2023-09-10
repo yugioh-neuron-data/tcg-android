@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 5,
+  "card_id": 8400,
+  "card_name": "Naturia Fruttovolante",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Tutti i mostri controllati dal tuo avversario perdono 300 ATK/DEF per ogni mostro \"Naturia\" che controlli. Una volta per turno: puoi scegliere come bersaglio 1 mostro controllato dal tuo avversario con 0 DEF; prendi il controllo di quel bersaglio fino alla End Phase.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/12/02",
+  "species_id": 10,
+  "starchip": "3"
+}

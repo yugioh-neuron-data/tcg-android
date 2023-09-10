@@ -1,0 +1,23 @@
+{
+  "attack_power": "3500",
+  "attribute_id": 2,
+  "card_id": 12325,
+  "card_name": "Raidraptor - Falco Finale",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "3 mostri Bestia Alata di Livello 10$NImmune agli effetti delle altre carte. Puoi staccare 1 materiale da questa carta; per il resto di questo turno, tutti i mostri controllati dal tuo avversario perdono 1000 ATK, inoltre il tuo avversario non può attivare carte o effetti. Se questa carta ha un mostro \"Raidraptor\" come materiale, essa guadagna questo effetto.$N●Una volta per turno, durante la End Phase: puoi far perdere 1000 ATK a tutti i mostri controllati dal tuo avversario, inoltre, se il tuo avversario non controlla nessun mostro scoperto, infliggi 1000 danni al tuo avversario.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/05/05",
+  "species_id": 16,
+  "starchip": "10"
+}

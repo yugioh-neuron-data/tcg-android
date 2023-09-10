@@ -1,0 +1,23 @@
+{
+  "attack_power": "3500",
+  "attribute_id": 1,
+  "card_id": 6089,
+  "card_name": "Theinen la Gran Esfinge",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Esta carta no puede ser Invocada mediante una Invocación Normal o Colocada. Esta carta no puede ser Invocada mediante una Invocación Especial excepto pagando 500 Life Points cuando \"Andro Esfinge\" y \"Esfinge Teleia\" en tu Campo son destruidas a la vez; entonces puedes Invocar mediante una Invocación Especial este monstruo de tu mano o Deck. Cuando esta carta es Invocada mediante una Invocación Especial con éxito, paga 500 Life Points para aumentar el ATK de esta carta en 3000 puntos hasta el final de la End Phase.",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/08/01",
+  "species_id": 11,
+  "starchip": "10"
+}

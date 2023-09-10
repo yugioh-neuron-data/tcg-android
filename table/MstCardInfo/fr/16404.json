@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16404,
+  "card_name": "Épée du Pingouin",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Équipable uniquement à un monstre \"Pingouin\". Il gagne 800 ATK. Lorsque le monstre équipé inflige des dommages de combat à votre adversaire : vous pouvez renvoyer 1 carte contrôlée par votre adversaire à la main. Si une carte face recto contrôlée par votre adversaire quitte le Terrain par un effet de carte \"Pingouin\", et est renvoyée à la main ou est bannie : jusqu'à la fin du prochain tour, annulez les effets activés et les effets sur le Terrain de cartes de ce nom d'origine. Vous ne pouvez utiliser cet effet de \"Épée du Pingouin\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/12/02",
+  "species_id": 24,
+  "starchip": "0"
+}

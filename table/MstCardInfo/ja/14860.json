@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14860,
+  "card_name": "Ai打ち",
+  "card_name_label": "アイうち",
+  "card_name_search": "あいうち",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：自分と相手のモンスター同士が戦闘を行うダメージ計算時に発動できる。その自分のモンスターの攻撃力はそのダメージ計算時のみ、その相手モンスターの攻撃力と同じになり、そのダメージステップ終了時にその戦闘で破壊されたモンスターのコントローラーはその元々の攻撃力分のダメージを受ける。②：自分の「＠イグニスター」モンスターが戦闘で破壊される場合、代わりに墓地のこのカードを除外できる。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/10/12",
+  "species_id": 24,
+  "starchip": "0"
+}

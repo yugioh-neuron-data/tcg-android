@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 1,
+  "card_id": 14279,
+  "card_name": "Crealtar, el Diablihechizo Autor",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Puedes Invocar esta carta por Ritual con \"Diablihechizo Comienzo\". Durante la Main Phase (Efecto Rápido): puedes mostrar esta carta en tu mano; descarta 1 carta, y después Invoca de Modo Especial monstruos \"Diablihechizo\" desde tu Cementerio cuyos Niveles totales sean 10, pero barájalos al Deck durante la End Phase. Sólo puedes usar este efecto de \"Crealtar, el Diablihechizo Autor\" una vez por turno. Los monstruos \"Diablihechizo\" que no sean de Ritual que controles ganan 2000 ATK, pero sus efectos son negados.",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 5,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/05/02",
+  "species_id": 3,
+  "starchip": "10"
+}

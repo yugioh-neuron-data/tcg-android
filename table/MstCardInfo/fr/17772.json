@@ -1,0 +1,23 @@
+{
+  "attack_power": "200",
+  "attribute_id": 3,
+  "card_id": 17772,
+  "card_name": "Mitsu le Ninja des Insectes",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si vous contrôlez une carte \"Ninja\" ou un monstre en Position de Défense face verso : vous pouvez Invoquer Spécialement cette carte depuis votre main. Lorsque votre adversaire active un effet de monstre (Effet Rapide) : vous pouvez cibler 1 monstre en Position de Défense face verso que vous contrôlez ; changez-le en Position de Défense face recto, et si vous le faites, changez cette carte en Position de Défense face verso, puis, si le monstre ciblé était un monstre \"Ninja\" (\"Mitsu le Ninja des Insectes\" exclu), annulez l'effet activé de l'adversaire. Vous ne pouvez utiliser chaque effet de \"Mitsu le Ninja des Insectes\" qu'une fois par tour.",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/10/20",
+  "species_id": 10,
+  "starchip": "2"
+}

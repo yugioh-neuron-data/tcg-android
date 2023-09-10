@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 12513,
+  "card_name": "Metalhold il Blocco Semovente",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Attiva questa carta scegliendo come bersaglio un qualsiasi numero di mostri di Tipo Macchina di Livello 4 che controlli; Evoca Specialmente questa carta come Mostro con Effetto (Tipo Macchina/TERRA/Livello 4/ATK 0/DEF 0), poi equipaggia quei mostri scoperti a questa carta. (Questa carta è ancora anche una Carta Trappola.) Se viene Evocata in questo modo, questa carta guadagna ATK pari alla somma degli ATK dei mostri equipaggiati ad essa da questo effetto, i mostri controllati dal tuo avversario non possono scegliere mostri che controlli come bersaglio per gli attacchi, eccetto questo, inoltre il tuo avversario non può scegliere mostri che controlli come bersaglio con gli effetti delle carte, eccetto questo.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/07/21",
+  "species_id": 25,
+  "starchip": "0"
+}

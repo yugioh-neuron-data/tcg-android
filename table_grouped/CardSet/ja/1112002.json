@@ -1,0 +1,776 @@
+[
+  {
+    "card_count": 1,
+    "card_id": 8612,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP001",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8613,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP002",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8614,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP003",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8615,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP004",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 8616,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP005",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8617,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP006",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8618,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP007",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8619,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP008",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 8620,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP009",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 8621,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP010",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 8622,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP011",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8623,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP012",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 8624,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP013",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8625,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP014",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 8626,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP015",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8627,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP016",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8628,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP017",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8629,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP018",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 8630,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP019",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 8631,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP020",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8632,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP021",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8633,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP022",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8634,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP023",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8635,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP024",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8636,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP025",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 8637,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP026",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 8638,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP027",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 8639,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP028",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 8640,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP029",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8641,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP030",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 8642,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP031",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 8643,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP032",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 8644,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP033",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8645,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP034",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 8646,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP035",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 8647,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP036",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8648,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP037",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8649,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP038",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8650,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP039",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 8651,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP040",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 8651,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP040",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 8651,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP040",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 7
+  },
+  {
+    "card_count": 1,
+    "card_id": 8652,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP041",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 8652,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP041",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 8653,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP042",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 8653,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP042",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 8654,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP043",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 8654,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP043",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 8655,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP044",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 8655,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP044",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 8656,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP045",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 8657,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP046",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8658,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP047",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 8659,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP048",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8660,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP049",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8661,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP050",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8662,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP051",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8663,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP052",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8664,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP053",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 8665,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP054",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8666,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP055",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 8667,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP056",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8668,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP057",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8669,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP058",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8670,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP059",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8671,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP060",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8672,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP061",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8673,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP062",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 8674,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP063",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8675,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP064",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 8676,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP065",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8677,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP066",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8678,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP067",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8679,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP068",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 8680,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP069",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8681,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP070",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8682,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP071",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 8683,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP072",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8684,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP073",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8685,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP074",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8686,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP075",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8687,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP076",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 8688,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP077",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8689,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP078",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8690,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP079",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8691,
+    "card_image_id": 1,
+    "card_number": "ABPF-JP080",
+    "language": "ja",
+    "pack_id": "1112002",
+    "rarity_id": 1
+  }
+]

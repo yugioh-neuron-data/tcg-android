@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 8761,
+  "card_name": "墓守の巫女",
+  "card_name_label": "はかもりのみこ",
+  "card_name_search": "はかもりのみこ",
+  "card_pen_effect": "",
+  "card_text": "このカードがフィールド上に表側表示で存在する限り、フィールドは「王家の眠る谷－ネクロバレー」になる。フィールド魔法カードが表側表示で存在する場合、この効果は適用されない。また、このカードがフィールド上に表側表示で存在する限り、フィールド上の「墓守」と名のついたモンスターの攻撃力・守備力は２００ポイントアップする。",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/09/18",
+  "species_id": 18,
+  "starchip": "3"
+}

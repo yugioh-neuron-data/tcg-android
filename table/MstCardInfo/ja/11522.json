@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 5,
+  "card_id": 11522,
+  "card_name": "EMパートナーガ",
+  "card_name_label": "エンタメイトパートナーガ",
+  "card_name_search": "えんためいとぱーとなーが",
+  "card_pen_effect": "①：１ターンに１度、自分フィールドのモンスター１体を対象として発動できる。そのモンスターの攻撃力はターン終了時まで、自分フィールドの「EM」カードの数×３００アップする。",
+  "card_text": "①：このカードが召喚・特殊召喚に成功した場合、自分フィールドのモンスター１体を対象として発動できる。そのモンスターの攻撃力は自分フィールドの「EM」モンスターの数×３００アップする。②：このカードがモンスターゾーンに存在する限り、レベル５以下のモンスターは攻撃できない。",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2014/11/15",
+  "species_id": 20,
+  "starchip": "5"
+}

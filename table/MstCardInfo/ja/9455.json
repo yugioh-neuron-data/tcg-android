@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 5,
+  "card_id": 9455,
+  "card_name": "増殖するG",
+  "card_name_label": "ぞうしょくするジー",
+  "card_name_search": "ぞうしょくするじー",
+  "card_pen_effect": "",
+  "card_text": "このカード名の効果は１ターンに１度しか使用できず、相手ターンでも発動できる。①：このカードを手札から墓地へ送って発動できる。このターン、以下の効果を適用する。●相手がモンスターの特殊召喚に成功する度に、自分はデッキから１枚ドローする。",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/09/17",
+  "species_id": 10,
+  "starchip": "2"
+}

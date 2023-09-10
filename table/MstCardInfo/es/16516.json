@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 16516,
+  "card_name": "Señor de la Prisión Celestial",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante tu Main Phase: puedes activar este efecto; esta carta en tu mano se convierte en mostrada hasta el final del turno de tu adversario. Mientras esta carta está mostrada por este efecto, las cartas Colocadas en el Campo no pueden ser destruidas por efectos de cartas. Si es activada una Carta Mágica/de Trampa Colocada (excepto durante el Damage Step): puedes Invocar esta carta de Modo Especial desde tu mano y después, si activaste este efecto mientras esta carta estaba mostrada, puedes mostrar y Colocar 1 Mágica/Trampa directamente desde tu Deck, pero destiérrala durante la End Phase del siguiente turno. Sólo puedes usar 1 efecto de \"Señor de la Prisión Celestial\" por turno, y sólo una vez ese turno.",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/11/04",
+  "species_id": 6,
+  "starchip": "10"
+}

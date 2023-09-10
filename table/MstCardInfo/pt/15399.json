@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 3,
+  "card_id": 15399,
+  "card_name": "Utensilhor Lavandragão",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 monstro \"Utensilhor\"$NNão pode ser usado como Matéria Link no turno em que for Invocado por Invocação-Link. Nenhum duelista sofre qualquer dano de batalha dos ataques envolvendo este card. Uma vez por turno, depois do cálculo de dano, se este card co-linkado batalhar um monstro do oponente: você pode banir o monstro do oponente. Uma vez por turno, depois do cálculo de dano, se este monstro que não estiver co-linkado batalhar um monstro do oponente: você pode destruir esse monstro do oponente e, se isso acontecer, cause dano ao seu oponente igual ao ATK original dele.",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "8",
+  "linkno": "1",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/07/23",
+  "species_id": 7,
+  "starchip": ""
+}

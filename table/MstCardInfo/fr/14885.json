@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 14885,
+  "card_name": "Argument de Vente",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si votre adversaire ajoute une ou plusieurs cartes depuis le Deck à sa main, sauf en les piochant, par son effet de carte : révélez 1 carte depuis votre Deck, et ajoutez-la à votre main, mais vous ne pouvez activer ni de cartes ni d'effets de cartes de ce nom le reste de ce tour. Vous ne pouvez activer qu'1 \"Argument de Vente\" par tour.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/01/30",
+  "species_id": 25,
+  "starchip": "0"
+}

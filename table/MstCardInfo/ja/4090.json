@@ -1,0 +1,23 @@
+{
+  "attack_power": "1380",
+  "attribute_id": 2,
+  "card_id": 4090,
+  "card_name": "カードを狩る死神",
+  "card_name_label": "カードをかるしにがみ",
+  "card_name_search": "かーどをかるしにがみ",
+  "card_pen_effect": "",
+  "card_text": "リバース：フィールド上に存在する罠カード１枚を選択して破壊する。選択したカードがセットされている場合、そのカードをめくって確認し、罠カードなら破壊する。魔法カードの場合は元に戻す。",
+  "defense_power": "1930",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 24,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "1999/05/27",
+  "species_id": 3,
+  "starchip": "5"
+}

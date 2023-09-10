@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 8668,
+  "card_name": "Chaîne de Montage Robotique",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Tous les monstres Machine sur le Terrain gagnent 200 ATK. Chaque fois qu'un ou plusieurs monstres Machine face recto sur le Terrain sont détruits au combat ou par un effet de carte, placez 2 Compteurs Robot sur cette carte. Vous pouvez envoyer cette carte au Cimetière, puis ciblez 1 monstre Machine dans votre Cimetière dont le Niveau est inférieur ou égal au nombre de Compteurs Robot qui étaient sur cette carte ; Invoquez Spécialement la cible.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/02/11",
+  "species_id": 24,
+  "starchip": "0"
+}

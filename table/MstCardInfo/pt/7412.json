@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 6,
+  "card_id": 7412,
+  "card_name": "Cibern de Armadura",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Uma vez por turno, você pode: escolher 1 \"Dragão Cibernético\" que você controla ou 1 Monstro de Fusão que você controla que liste \"Dragão Cibernético\" como uma Matéria de Fusão; equipe este card no alvo, OU: desequipar este card e Invocá-lo por Invocação-Especial. Uma vez por turno, enquanto este card estiver equipado a um monstro por este efeito: você pode escolher 1 monstro com a face para cima no campo; o monstro equipado perde exatamente 1000 de ATK (mesmo que este card eixe o campo) e, se isso acontecer, destrua o alvo. Se o monstro equipado seria destruído em batalha ou por um efeito de card, em vez disso, destrua este card.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 8,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/02/07",
+  "species_id": 7,
+  "starchip": "4"
+}

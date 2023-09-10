@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16416,
+  "card_name": "Seelenbindendes Tor",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Um diese Karte zu aktivieren, darfst du keine Monster kontrollieren und eine oder mehr gesetzte Zauber/Fallen, die du kontrollierst, müssen in diesem Spielzug durch einen Karteneffekt zerstört worden sein. Während der Main Phase, falls genau 1 Monster beschworen wird, dessen ATK kleiner als deine LP sind, und du „Z-ONE“ in deinem Friedhof hast: Zerstöre das Monster und falls du dies tust, erhältst du 800 Schaden, dann füge deinem Gegner 800 Schaden zu.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/12/02",
+  "species_id": 24,
+  "starchip": "0"
+}

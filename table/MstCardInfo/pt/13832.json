@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 1,
+  "card_id": 13832,
+  "card_name": "Iadaten, a Estrela Conquistadora",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 monstros Guerreiro de Nível 5 ou mais$NSe este card for Invocado por Invocação-Fusão: você pode adicionar 1 monstro Guerreiro de Nível 5 do seu Deck à sua mão. Você só pode usar este efeito de \"Iadaten, a Estrela Conquistadora\" uma vez por turno. Uma vez por turno: você pode descartar qualquer número de cards; este card ganha 200 de ATK para cada card descartado. Uma vez por batalha, durante o cálculo de dano, se este card batalhar um monstro do oponente de um Nível igual ou menor (Efeito Rápido): você pode transformar em 0 o ATK desse monstro do oponente, apenas durante esse cálculo de dano.",
+  "defense_power": "2200",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/06/28",
+  "species_id": 15,
+  "starchip": "10"
+}

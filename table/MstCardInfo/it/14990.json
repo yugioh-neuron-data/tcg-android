@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 5,
+  "card_id": 14990,
+  "card_name": "Gouki Artiglio di Ferro",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante il Damage Step, quando un tuo mostro \"Gouki\" combatte con un mostro dell'avversario (Effetto Rapido): puoi mandare questa carta dalla tua mano al Cimitero; fino alla fine di questo turno, il tuo mostro guadagna 500 ATK e, se lo fa, è immune agli effetti delle carte del tuo avversario. Se questa carta viene mandata dal Terreno al Cimitero: puoi aggiungere 1 carta \"Gouki\" dal tuo Deck alla tua mano, eccetto \"Gouki Artiglio di Ferro\". Puoi utilizzare ogni effetto di \"Gouki Artiglio di Ferro\" una sola volta per turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/30",
+  "species_id": 15,
+  "starchip": "2"
+}

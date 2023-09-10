@@ -1,0 +1,23 @@
+{
+  "attack_power": "200",
+  "attribute_id": 1,
+  "card_id": 18157,
+  "card_name": "Syntoniseur Mental",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Vous pouvez activer 1 de ces effets ;$N●Bannissez max. 1 monstre LUMIÈRE et max. 1 monstre TÉNÈBRES depuis votre main et/ou Cimetière ; jusqu'à la fin de ce tour, augmentez ou réduisez le Niveau de cette carte du nombre exact banni.$N●Ciblez max. 2 de vos monstres bannis (1 LUMIÈRE et/ou 1 TÉNÈBRES) ; renvoyez-les au Cimetière, et si vous le faites, augmentez ou réduisez le Niveau de cette carte du nombre exact renvoyé, jusqu'à la fin de ce tour.$NVous ne pouvez utiliser cet effet de \"Syntoniseur Mental\" qu'une fois par tour.",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/02/06",
+  "species_id": 21,
+  "starchip": "3"
+}

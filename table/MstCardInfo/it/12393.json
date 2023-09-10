@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 4,
+  "card_id": 12393,
+  "card_name": "Tacchino Mite",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Una volta per turno: puoi tirare un dado a sei facce. Fino alla fine di questo turno, riduci il Valore Pendulum di questa carta di quel numero (minimo 1).",
+  "card_text": "Il sapore della vittoria ti farà cadere come un birillo.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 25,
+  "pen_scale_l": "7",
+  "pen_scale_r": "7",
+  "sales_at": "2017/05/04",
+  "species_id": 16,
+  "starchip": "4"
+}

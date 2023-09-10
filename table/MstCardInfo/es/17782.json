@@ -1,0 +1,23 @@
+{
+  "attack_power": "400",
+  "attribute_id": 5,
+  "card_id": 17782,
+  "card_name": "Vernusilf de las Semillas Rociadas",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Todos los monstruos en el Campo pierden 600 ATK, excepto los monstruos \"Vernusilf\". Puedes descartar esta carta, y 1 monstruo o 1 carta \"Vernusilf\"; no puedes activar efectos de monstruos que no sean de TIERRA por el resto de este turno, y además añade a tu mano 1 monstruo Hada de TIERRA en tu Deck, excepto \"Vernusilf de las Semillas Rociadas\", y después puedes Invocar de Modo Especial 1 monstruo de TIERRA desde tu Cementerio. Sólo puedes usar este efecto de \"Vernusilf de las Semillas Rociadas\" una vez por turno.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/10/20",
+  "species_id": 17,
+  "starchip": "3"
+}

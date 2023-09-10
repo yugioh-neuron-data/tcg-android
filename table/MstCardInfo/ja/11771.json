@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11771,
+  "card_name": "月鏡の盾",
+  "card_name_label": "つきがみのたて",
+  "card_name_search": "つきがみのたて",
+  "card_pen_effect": "",
+  "card_text": "①：このカードの装備モンスターが相手モンスターと戦闘を行うダメージ計算時に発動する。装備モンスターの攻撃力・守備力はダメージ計算時のみ、戦闘を行う相手モンスターの攻撃力と守備力の内、高い方の数値＋１００になる。②：表側表示のこのカードがフィールドから墓地へ送られた場合、５００LPを払って発動する。このカードをデッキの一番上または一番下に戻す。",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/09/19",
+  "species_id": 24,
+  "starchip": "0"
+}

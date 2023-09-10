@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 4,
+  "card_id": 17351,
+  "card_name": "Barón Buster Vaylantz",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Durante tu Main Phase: puedes Invocar esta carta de Modo Especial a tu Zona de Monstruos Principal en su misma columna, y además por el resto de este turno no puedes Invocar de Modo Especial monstruos que no sean \"Vaylantz\", excepto desde el Deck Extra. Sólo puedes usar este efecto de \"Barón Buster Vaylantz\" una vez por turno.",
+  "card_text": "Si controlas esta carta Invocada de Modo Especial: puedes seleccionar otro monstruo \"Vaylantz\" en tu Zona de Monstruos Principal; mueve ese monstruo que controlas a una Zona de Monstruos adyacente (horizontal). Si esta carta en la Zona de Monstruos se mueve a otra Zona de Monstruos: puedes seleccionar 1 carta en la Zona de Péndulo de cualquier jugador; ponla boca arriba en su Zona de Magia y Trampas adyacente como una Mágica Continua. Sólo puedes usar cada efecto de \"Barón Buster Vaylantz\" una vez por turno.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2022/08/25",
+  "species_id": 7,
+  "starchip": "2"
+}

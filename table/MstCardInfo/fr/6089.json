@@ -1,0 +1,23 @@
+{
+  "attack_power": "3500",
+  "attribute_id": 1,
+  "card_id": 6089,
+  "card_name": "Theinen le Grand Sphinx",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cette carte ne peut ni être Invoquée par Invocation Normale ni être Posée. Cette carte ne peut pas être Invoquée par Invocation Spéciale excepté en payant 500 Life Points lorsque \"Andro Sphinx\" et \"Sphinx Teleia\" sont sur votre Terrain et sont détruits au même moment. Dans ce cas vous pouvez faire l'Invocation Spéciale de ce monstre de votre main ou de votre Deck. Lorsque vous avez fait l'Invocation Spéciale de cette carte avec succès, payez 500 Life Points pour augmenter l'ATK de cette carte de 3000 points jusqu'à la fin de la End Phase.",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/08/01",
+  "species_id": 11,
+  "starchip": "10"
+}

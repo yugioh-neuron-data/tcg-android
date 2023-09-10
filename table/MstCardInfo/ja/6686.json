@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 6,
+  "card_id": 6686,
+  "card_name": "ハーピィズペット仔竜",
+  "card_name_label": "ハーピィズペットベビードラゴン",
+  "card_name_search": "はーぴぃずぺっとべびーどらごん",
+  "card_pen_effect": "",
+  "card_text": "このカードは自分フィールド上に存在する「ハーピィズペット仔竜」を除く「ハーピィ」と名のついたモンスターの数により効果を追加する。１体：このカードがフィールド上に表側表示で存在する限り、相手は自分フィールド上に存在する「ハーピィズペット仔竜」を除く「ハーピィ」と名のついたモンスターを攻撃対象に選択できない。２体：このカードの元々の攻撃力・守備力は倍になる。３体：１ターンに１度、相手フィールド上のカード１枚を破壊する事ができる。",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/02/16",
+  "species_id": 1,
+  "starchip": "4"
+}

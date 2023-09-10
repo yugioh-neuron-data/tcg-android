@@ -1,0 +1,23 @@
+{
+  "attack_power": "1300",
+  "attribute_id": 2,
+  "card_id": 13402,
+  "card_name": "Uccello Fantasma dell'Incantamento",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Questa carta guadagna un effetto a seconda di quale delle tue Zone Mostri Main occupa.$N●Più a sinistra: Guadagna 1000 ATK/DEF.$N●Più a destra: Può effettuare fino a 2 attacchi su mostri durante ogni Battle Phase.$N●Centro: Il tuo avversario non può scegliere questa carta come bersaglio con gli effetti delle carte, inoltre essa non può essere distrutta dagli effetti delle carte del tuo avversario.$N●Altre: I mostri in questa colonna non possono attivare i loro effetti.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/02/01",
+  "species_id": 16,
+  "starchip": "4"
+}

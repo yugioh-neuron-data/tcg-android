@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 2,
+  "card_id": 12409,
+  "card_name": "D/D Thomas el Sabio",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Durante tu Main Phase: puedes añadir a tu mano 1 Monstruo de Péndulo \"D/D\" boca arriba en tu Deck Extra. Sólo puedes usar este efecto de \"D/D Thomas el Sabio\" una vez por turno.",
+  "card_text": "Puedes seleccionar 1 carta \"D/D\" en tu Zona de Péndulo; destruye esa carta y, si lo haces, Invoca de Modo Especial, desde tu Deck, 1 monstruo \"D/D/D\" de Nivel 8 en Posición de Defensa, pero por el resto de este turno sus efectos (si los tiene) son negados, y además cualquier daño de batalla que reciba tu adversario se divide a la mitad. Sólo puedes usar este efecto de \"D/D Thomas el Sabio\" una vez por turno.",
+  "defense_power": "2600",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "6",
+  "pen_scale_r": "6",
+  "sales_at": "2016/08/04",
+  "species_id": 3,
+  "starchip": "8"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "700",
+  "attribute_id": 3,
+  "card_id": 9726,
+  "card_name": "Kragen-Rabca",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wenn ein Monster vom Typ Fisch, Seeschlange oder Aqua, das du kontrollierst, als Angriffsziel gewählt wird: Du kannst diese Karte von deinem Friedhof verbannen und dann das angreifende Monster wählen; annulliere den Angriff und falls du dies tust, verliert das gewählte Ziel bis zum Ende des nächsten Spielzugs 500 ATK. Du kannst diesen Effekt von „Kragen-Rabca“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/11/10",
+  "species_id": 8,
+  "starchip": "3"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 5,
+  "card_id": 8641,
+  "card_name": "シュレツダー",
+  "card_name_label": "シュレツダー",
+  "card_name_search": "しゅれつだー",
+  "card_pen_effect": "",
+  "card_text": "手札から機械族モンスター１体を墓地へ送って発動する。墓地へ送ったモンスターのレベル以下の、相手フィールド上に表側表示で存在するモンスター１体を破壊する。この効果は１ターンに１度しか使用できない。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/11/14",
+  "species_id": 7,
+  "starchip": "4"
+}

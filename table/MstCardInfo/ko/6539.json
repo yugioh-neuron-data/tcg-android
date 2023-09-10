@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 6539,
+  "card_name": "클레이 차지",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "자신 필드 위의 \"엘리멘틀 히어로 클레이맨\"이 공격 대상으로 선택되었을 때, 발동할 수 있다(선택된 카드가 세트되어 있을 경우, 그 카드를 넘겨서 확인한다). 공격 몬스터와 선택된 \"엘리멘틀 히어로 클레이맨\"을 파괴하고, 상대 라이프에 800 포인트 데미지를 준다.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/05/02",
+  "species_id": 25,
+  "starchip": "0"
+}

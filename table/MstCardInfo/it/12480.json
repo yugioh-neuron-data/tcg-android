@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 2,
+  "card_id": 12480,
+  "card_name": "Drago Persona Occhi Diversi",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Una volta per turno, durante la End Phase, se il tuo avversario in questo turno ha attivato una carta o un effetto che ha scelto come bersaglio 1 Mostro Pendulum \"Occhi Diversi\" che controllavi (e nessuna altra carta) mentre questa carta era nella tua Zona Pendulum: Evoca Specialmente questa carta e, se lo fai, metti 1 Mostro Pendulum \"Occhi Diversi\" scoperto dal tuo Extra Deck nella tua Zona Pendulum, eccetto \"Drago Persona Occhi Diversi\".",
+  "card_text": "Una volta per turno (Effetto Rapido): puoi scegliere come bersaglio 1 mostro scoperto sul Terreno che è stato Evocato Specialmente dall'Extra Deck; i suoi effetti si annullano, fino alla fine di questo turno.",
+  "defense_power": "2400",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2017/10/05",
+  "species_id": 1,
+  "starchip": "5"
+}

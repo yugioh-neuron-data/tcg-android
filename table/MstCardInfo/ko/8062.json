@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 8062,
+  "card_name": "하프 또는 스톱",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "상대 턴의 배틀 페이즈시에만 발동할 수 있다. 상대는 이하의 효과에서 1개를 선택하고 적용한다.$N●배틀 페이즈 종료시까지, 자신 필드 위에 존재하는 모든 몬스터의 공격력은 절반이 된다.$N●배틀 페이즈를 종료한다.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/05/18",
+  "species_id": 25,
+  "starchip": "0"
+}

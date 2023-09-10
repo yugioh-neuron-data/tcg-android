@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 6,
+  "card_id": 14092,
+  "card_name": "Wachdrache Andrake",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss durch einen Karteneffekt als Spezialbeschwörung beschworen werden. Falls diese Karte als Spezialbeschwörung von der Hand oder dem Deck beschworen wird: Du kannst die Grund-ATK/-DEF dieser Karte bis zum Ende des nächsten Spielzugs verdoppeln. Falls diese Karte als Spezialbeschwörung vom Friedhof beschworen wird oder falls diese verbannte Karte als Spezialbeschwörung beschworen wird: Du kannst 1 Monster wählen, das dein Gegner kontrolliert; zerstöre es. Du kannst jeden Effekt von „Wachdrache Andrake“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/01/31",
+  "species_id": 1,
+  "starchip": "4"
+}

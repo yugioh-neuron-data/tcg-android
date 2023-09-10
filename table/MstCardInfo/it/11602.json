@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 4,
+  "card_id": 11602,
+  "card_name": "Detentore dei Cristalli",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Ogni turno, la prima volta che uno o più mostri \"Cristallo Finale\" e/o una o più carte \"Bestia Cristallo\" che controlli stanno per essere distrutti dall'effetto di una carta in quel turno, non vengono distrutti.",
+  "card_text": "Se un mostro \"Bestia Cristallo\" che controlli combatte con un mostro dell'avversario, durante il calcolo dei danni (Effetto Rapido): puoi offrire come Tributo questa carta dalla tua mano o Terreno scoperto; l'ATK/DEF del tuo mostro che sta combattendo diventano il doppio dei suoi ATK/DEF originali solamente durante quel calcolo dei danni, ma esso viene distrutto alla fine di questo Damage Step.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "2",
+  "pen_scale_r": "2",
+  "sales_at": "2018/05/03",
+  "species_id": 15,
+  "starchip": "4"
+}

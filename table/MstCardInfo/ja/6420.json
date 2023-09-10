@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 2,
+  "card_id": 6420,
+  "card_name": "G・コザッキー",
+  "card_name_label": "ジャイアント・コザッキー",
+  "card_name_search": "じゃいあんとこざっきー",
+  "card_pen_effect": "",
+  "card_text": "フィールド上に「コザッキー」が表側表示で存在していない場合、このカードを破壊する。フィールド上に表側表示で存在するこのカードが破壊された場合、その時のコントローラーにこのカードの元々の攻撃力分のダメージを与える。",
+  "defense_power": "2400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/05/26",
+  "species_id": 3,
+  "starchip": "4"
+}

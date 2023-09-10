@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 5275,
+  "card_name": "おとり人形",
+  "card_name_label": "おとりにんぎょう",
+  "card_name_search": "おとりにんぎょう",
+  "card_pen_effect": "",
+  "card_text": "魔法＆罠カードゾーンにセットされたカード１枚を選択して発動する。選択したカードをめくって確認し、そのカードが罠カードだった場合、強制発動させる。発動タイミングが正しくない場合、その効果を無効にし破壊する。そのカードが罠カード以外だった場合、元に戻す。このカードは発動後、墓地へ送らずにデッキに戻す。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2001/07/12",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 12246,
+  "card_name": "Eclipsador Oscuro Kozmo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "No puede ser seleccionada por efectos de cartas de tu adversario. Durante el turno de cualquier jugador, cuando es activada una Carta de Trampa: puedes desterrar 1 monstruo \"Kozmo\" en tu Cementerio; niega la activación y, si lo haces, destruye esa carta. Si esta carta es destruida en batalla o por efecto de una carta y mandada al Cementerio: puedes desterrar esta carta en tu Cementerio; añade a tu mano 1 monstruo \"Kozmo\" de Nivel 8 o menor en tu Deck.",
+  "defense_power": "2600",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/01/14",
+  "species_id": 7,
+  "starchip": "9"
+}

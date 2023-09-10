@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 4,
+  "card_id": 17351,
+  "card_name": "Barão Destruidor Vaylantz",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Durante sua Fase Principal: você pode Invocar este card por Invocação-Especial na sua Zona de Monstros Principal em sua mesma coluna e, além disso, você não pode Invocar por Invocação-Especial monstros que não sejam \"Vaylantz\" pelo resto deste turno, exceto do Deck Adicional. Você só pode usar este efeito de \"Barão Destruidor Vaylantz\" uma vez por turno.",
+  "card_text": "Se você controlar este card Invocado por Invocação-Especial: você pode escolher 1 outro monstro \"Vaylantz\" na sua Zona de Monstros Principal; mova esse monstro que você controla para uma Zona de Monstros adjacente (horizontal). Se este card na Zona de Monstros se mover para outra Zona de Monstros: você pode escolher 1 card na Zona de Pêndulo de qualquer duelista; coloque-o com a face para cima em sua Zona de Magias & Armadilhas adjacente como uma Magia Contínua. Você só pode usar cada efeito de \"Barão Destruidor Vaylantz\" uma vez por turno.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2022/08/25",
+  "species_id": 7,
+  "starchip": "2"
+}

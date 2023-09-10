@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11735,
+  "card_name": "Oracle de Zefra",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsque cette carte est activée : ajoutez 1 monstre \"Zefra\" depuis votre Deck à votre main. Lorsque vous Invoquez Rituellement en utilisant un monstre \"Zefra\", ou Invoquez Spécialement en utilisant un monstre \"Zefra\" comme Matériel, vous pouvez activer ces effets selon le monstre Invoqué, une fois par tour par effet :$N●Rituel : Mélangez 1 monstre sur le Terrain dans le Deck.$N●Fusion : Invoquez Spécialement 1 monstre depuis votre main.$N●Synchro : Choisissez 1 monstre depuis votre Deck et placez-le au-dessus de votre Deck.$N●Xyz : Piochez 1 carte, puis défaussez 1 carte.$NVous ne pouvez activer qu'1 \"Oracle de Zefra\" par tour.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/05/14",
+  "species_id": 24,
+  "starchip": "0"
+}

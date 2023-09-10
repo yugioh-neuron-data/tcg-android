@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14712,
+  "card_name": "一曲集中",
+  "card_name_label": "いっきょくしゅうちゅう",
+  "card_name_search": "いっきょくしゅうちゅう",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：自分のリンクモンスターが相手モンスターと戦闘を行うダメージ計算時に発動できる。その自分のモンスターの攻撃力はそのダメージ計算時のみ、そのリンク先のモンスターのレベル・ランクの合計×４００アップする。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/10/03",
+  "species_id": 24,
+  "starchip": "0"
+}

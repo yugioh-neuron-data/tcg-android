@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 2,
+  "card_id": 6410,
+  "card_name": "Van'Dalgyon el Señor de los Dragones Oscuros",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si niegas la activación de una o más Cartas Mágicas/de Trampa de tu adversario o uno o más efectos de monstruos de tu adversario con una Carta de Trampa de Contraefecto (excepto durante el Damage Step): puedes Invocar esta carta de Modo Especial desde tu mano. Si es Invocado de esta forma, activa estos efectos y resuélvelos en secuencia, dependiendo del o los tipos de carta negados por esa Carta de Trampa de Contraefecto:$N●Mágica: Inflige 1500 puntos de daño a tu adversario.$N●Trampa: Selecciona 1 carta que controle tu adversario; destruye ese objetivo.$N●Monstruo: Selecciona 1 monstruo en tu Cementerio; Invócalo de Modo Especial.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/08/26",
+  "species_id": 1,
+  "starchip": "8"
+}

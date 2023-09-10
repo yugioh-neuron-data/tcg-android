@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 5,
+  "card_id": 16940,
+  "card_name": "騎甲虫アサルト・ローラー",
+  "card_name_label": "ビートルーパーアサルト・ローラー",
+  "card_name_search": "びーとるーぱーあさるとろーらー",
+  "card_pen_effect": "",
+  "card_text": "このカード名の、①の方法による特殊召喚は１ターンに１度しかできず、③の効果は１ターンに１度しか使用できない。①：このカードは自分の墓地の昆虫族モンスター１体を除外し、手札から特殊召喚できる。②：このカードの攻撃力は、自分フィールドの他の昆虫族モンスターの数×２００アップする。③：このカードが戦闘で破壊された時に発動できる。デッキから「騎甲虫アサルト・ローラー」以外の「ビートルーパー」モンスター１体を手札に加える。",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/09/10",
+  "species_id": 10,
+  "starchip": "4"
+}

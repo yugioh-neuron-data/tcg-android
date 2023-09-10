@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 2,
+  "card_id": 10910,
+  "card_name": "ゴーストリック・スケルトン",
+  "card_name_label": "ゴーストリック・スケルトン",
+  "card_name_search": "ごーすとりっくすけるとん",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上に「ゴーストリック」と名のついたモンスターが存在する場合のみ、このカードは表側表示で召喚できる。このカードは１ターンに１度だけ裏側守備表示にする事ができる。また、このカードがリバースした時、自分フィールド上の「ゴーストリック」と名のついたモンスターの数まで、相手のデッキの上からカードを裏側表示で除外する。「ゴーストリック・スケルトン」のこの効果は１ターンに１度しか使用できない。",
+  "defense_power": "1100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/11/16",
+  "species_id": 2,
+  "starchip": "3"
+}

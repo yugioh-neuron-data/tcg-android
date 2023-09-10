@@ -1,0 +1,23 @@
+{
+  "attack_power": "400",
+  "attribute_id": 2,
+  "card_id": 9844,
+  "card_name": "ペインペインター",
+  "card_name_label": "ペインペインター",
+  "card_name_search": "ぺいんぺいんたー",
+  "card_pen_effect": "",
+  "card_text": "このカードのカード名は、フィールド上に表側表示で存在する限り「ゾンビキャリア」として扱う。また、１ターンに１度、このカード以外の自分フィールド上のアンデット族モンスターを２体まで選択して発動できる。選択したモンスターのレベルはエンドフェイズ時まで２になる。この効果が適用されたモンスターをシンクロ素材とする場合、アンデット族モンスターのシンクロ召喚にしか使用できない。",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/10/13",
+  "species_id": 2,
+  "starchip": "2"
+}

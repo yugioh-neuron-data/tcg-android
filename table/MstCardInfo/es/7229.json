@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 7229,
+  "card_name": "Robo Destructor",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si algún jugador no tiene cartas en su mano al comienzo de su Draw Phase, éste puede robar 1 carta adicional además de su robo normal. El controlador de esta carta pierde 700 Life Points durante su End Phase. (Si tiene menos de 700, se convierten en 0). Cuando esta carta boca arriba es retirada del juego, inflige 3000 puntos de daño al jugador que la controlaba.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/08/15",
+  "species_id": 25,
+  "starchip": "0"
+}

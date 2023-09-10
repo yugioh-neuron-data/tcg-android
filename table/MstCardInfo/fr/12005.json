@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 12005,
+  "card_name": "Recharge Chevaliardent",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Révélez un nombre de votre choix de Monstres Pendule depuis votre main et mélangez-les dans le Deck, puis piochez un nombre de cartes égal au nombre de cartes que vous avez mélangées dans le Deck +1. Le reste de ce tour après la résolution de cette carte, vous ne pouvez pas piocher de cartes par des effets de carte. Vous ne pouvez activer qu'1 \"Recharge Chevaliardent\" par tour.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/11/05",
+  "species_id": 24,
+  "starchip": "0"
+}

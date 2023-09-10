@@ -1,0 +1,23 @@
+{
+  "attack_power": "4000",
+  "attribute_id": 1,
+  "card_id": 9553,
+  "card_name": "Astro Meklord Mekanikle",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Non può essere Evocato Normalmente/Posizionato. Deve essere Evocato Specialmente (dalla tua mano) mandando 3 mostri \"Meklord\" dalla tua mano al Cimitero. Una volta per turno: puoi scegliere come bersaglio 1 Mostro Synchro controllato dal tuo avversario; equipaggia quel bersaglio a questa carta. Questa carta guadagna ATK pari alla somma degli ATK dei mostri equipaggiati ad essa da questo effetto. Una volta per turno, durante la tua Standby Phase: puoi mandare 1 di questi mostri equipaggiati che controlli al Cimitero; infliggi al tuo avversario danno pari all'ATK originale di quel mostro. Non puoi effettuare la tua Battle Phase nel turno in cui attivi questo effetto.",
+  "defense_power": "4000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/10/23",
+  "species_id": 7,
+  "starchip": "12"
+}

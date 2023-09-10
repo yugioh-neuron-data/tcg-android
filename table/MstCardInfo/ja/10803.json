@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 10803,
+  "card_name": "陰謀の盾",
+  "card_name_label": "いんぼうのたて",
+  "card_name_search": "いんぼうのたて",
+  "card_pen_effect": "",
+  "card_text": "発動後このカードは装備カードとなり、自分フィールド上のモンスター１体に装備する。装備モンスターは表側攻撃表示で存在する限り、１ターンに１度だけ戦闘では破壊されない。また、装備モンスターの戦闘によって発生する自分への戦闘ダメージは０になる。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/07/20",
+  "species_id": 25,
+  "starchip": "0"
+}

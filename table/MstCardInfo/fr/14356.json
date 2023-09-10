@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 2,
+  "card_id": 14356,
+  "card_name": "Refaiseur des Voleurs de Temps",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 monstres de Niveau 4$NUne fois par tour, durant la Standby Phase : vous pouvez attacher la carte du dessus du Deck de votre adversaire à cette carte comme Matériel. (Effet Rapide) : vous pouvez détacher max. 3 types différents des Matériels de cette carte, puis appliquez les effets suivants selon ce qui a été détaché.$N●Monstre : Jusqu'à la End Phase, bannissez cette carte.$N●Magie : Piochez 1 carte.$N●Piège : Placez 1 carte face recto contrôlée par votre adversaire au-dessus du Deck.$NVous ne pouvez utiliser cet effet de \"Refaiseur des Voleurs de Temps\" qu'une fois par tour.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/01/31",
+  "species_id": 21,
+  "starchip": "4"
+}

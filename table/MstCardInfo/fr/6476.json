@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 4,
+  "card_id": 6476,
+  "card_name": "Incinérateur Infernal",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cette carte ne peut être Invoquée par Invocation Normale ou Posée qu'en défaussant toutes les cartes de votre main au Cimetière, exceptée cette carte, ainsi qu'en sacrifiant 1 monstre avec une ATK de 2000 ou plus de votre Terrain. Augmentez l'ATK de ce monstre de 200 points pour chaque monstre sur le Terrain de votre adversaire. Diminuez l'ATK de ce monstre de 500 points pour chaque monstre sur votre terrain, exceptée cette carte.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/11/05",
+  "species_id": 3,
+  "starchip": "6"
+}

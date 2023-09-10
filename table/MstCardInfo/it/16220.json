@@ -1,0 +1,23 @@
+{
+  "attack_power": "200",
+  "attribute_id": 6,
+  "card_id": 16220,
+  "card_name": "Aeropixtre",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Una volta per turno (Effetto Rapido): puoi scegliere come bersaglio 1 mostro scoperto controllato dal tuo avversario nella colonna di questa carta; sposta questa carta che controlli in un'altra delle tue Zone Mostri Main e, se lo fai, sposta quel mostro dell'avversario nella Zona Mostri Main nella colonna di questa carta, poi metti 1 Segnalino Consumo su di esso. (I mostri con Segnalini Consumo perdono 200 ATK/DEF per ogni Segnalino Consumo su di essi.)",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/08/12",
+  "species_id": 17,
+  "starchip": "1"
+}

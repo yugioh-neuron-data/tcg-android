@@ -1,0 +1,23 @@
+{
+  "attack_power": "1900",
+  "attribute_id": 4,
+  "card_id": 8328,
+  "card_name": "フレムベル・ヘルドッグ",
+  "card_name_label": "フレムベル・ヘルドッグ",
+  "card_name_search": "ふれむべるへるどっぐ",
+  "card_pen_effect": "",
+  "card_text": "①：このカードが戦闘で相手モンスターを破壊し墓地へ送った時に発動できる。デッキから「フレムベル・ヘルドッグ」以外の守備力２００以下の炎属性モンスター１体を特殊召喚する。",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/04/18",
+  "species_id": 11,
+  "starchip": "4"
+}

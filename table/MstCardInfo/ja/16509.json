@@ -1,0 +1,23 @@
+{
+  "attack_power": "200",
+  "attribute_id": 4,
+  "card_id": 16509,
+  "card_name": "しらうおの軍貫",
+  "card_name_label": "しらうおのぐんかん",
+  "card_name_search": "しらうおのぐんかん",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドに「しゃりの軍貫」または「しゃりの軍貫」をX素材としているXモンスターが存在する場合に発動できる。このカードを手札から特殊召喚する。②：自分メインフェイズに発動できる。手札から「しらうおの軍貫」以外の「軍貫」モンスター１体を特殊召喚する。その後、自分のデッキ・墓地から「しゃりの軍貫」を任意の数だけ選び、好きな順番でデッキの一番上に置く事ができる。",
+  "defense_power": "250",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/07/17",
+  "species_id": 14,
+  "starchip": "4"
+}

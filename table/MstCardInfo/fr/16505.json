@@ -1,0 +1,23 @@
+{
+  "attack_power": "200",
+  "attribute_id": 2,
+  "card_id": 16505,
+  "card_name": "Nyami Reptilia",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durant la Main Phase, si vous avez un monstre Reptile dans votre Cimetière (Effet Rapide) : vous pouvez envoyer cette carte depuis votre main au Cimetière, puis ciblez 1 monstre face recto contrôlé par votre adversaire ; changez son ATK à 0. Si votre adversaire contrôle un monstre avec 0 ATK : vous pouvez Invoquer Spécialement cette carte depuis votre Cimetière. Vous ne pouvez utiliser qu'1 effet de \"Nyami Reptilia\" par tour, et uniquement une fois le tour.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/11/04",
+  "species_id": 20,
+  "starchip": "2"
+}

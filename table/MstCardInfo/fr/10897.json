@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 2,
+  "card_id": 10897,
+  "card_name": "Golem Gorgonique",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si cette carte est détruite au combat et envoyée au Cimetière : l'ATK du monstre qui l'a détruite devient 0. Vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 Carte Magie/Piège Posée contrôlée par votre adversaire ; la cible ne peut pas être activée ce tour. Votre adversaire ne peut pas activer la carte ciblée en réponse à l'activation de cet effet.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/01/24",
+  "species_id": 6,
+  "starchip": "3"
+}

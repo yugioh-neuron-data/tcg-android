@@ -1,0 +1,23 @@
+{
+  "attack_power": "-1",
+  "attribute_id": 1,
+  "card_id": 9968,
+  "card_name": "Ma'at",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "No puede ser Invocado de Modo Normal/Colocado. Debe ser primero Invocado de Modo Especial (desde tu mano) mandando al Cementerio 1 monstruo de LUZ de Tipo Dragón y 1 monstruo de LUZ de Tipo Hada que controles, y no puede ser Invocado de Modo Especial de otra forma. Una vez por turno: puedes declarar 3 nombres de cartas; excava las 3 cartas de la parte superior de tu Deck, añade a tu mano las que hayas nombrado, y además manda al Cementerio las demás cartas. El ATK y la DEF de esta carta se convierte, cada uno, en el número de cartas añadidas a tu mano por este efecto x 1000.",
+  "defense_power": "-1",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/03/15",
+  "species_id": 17,
+  "starchip": "10"
+}

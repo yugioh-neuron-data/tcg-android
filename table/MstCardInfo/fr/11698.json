@@ -1,0 +1,23 @@
+{
+  "attack_power": "450",
+  "attribute_id": 2,
+  "card_id": 11698,
+  "card_name": "Zefranoyau Marionnette de l'Ombre",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Vous ne pouvez pas Invoquer par Pendulation de monstres (monstres \"Marionnette de l'Ombre\" et \"Zefra\" exclus). Cet effet ne peut pas être annulé.",
+  "card_text": "Si cette carte est Invoquée par Pendulation ou envoyée au Cimetière : vous pouvez cibler 1 carte \"Zefra\" (\"Zefranoyau Marionnette de l'Ombre\" exclu) dans votre Zone Pendule ; Invoquez-la Spécialement. Vous ne pouvez utiliser cet effet de \"Zefranoyau Marionnette de l'Ombre\" qu'une fois par tour.",
+  "defense_power": "1950",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "7",
+  "pen_scale_r": "7",
+  "sales_at": "2015/05/14",
+  "species_id": 6,
+  "starchip": "4"
+}

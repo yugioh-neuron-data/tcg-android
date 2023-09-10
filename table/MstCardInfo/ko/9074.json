@@ -1,0 +1,23 @@
+{
+  "attack_power": "2700",
+  "attribute_id": 2,
+  "card_id": 9074,
+  "card_name": "비전 히어로 위치 레이드",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드를 앞면 표시로 어드밴스 소환할 경우, 몬스터 대신에 자신 필드의 함정 카드를 릴리스할 수 있다. ①: 이 카드가 일반 소환에 성공했을 때에 발동할 수 있다. 상대 필드의 마법 / 함정 카드를 전부 파괴한다. 이 효과를 발동하는 턴에, 자신은 \"히어로\" 몬스터밖에 특수 소환할 수 없다.",
+  "defense_power": "1900",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/08/11",
+  "species_id": 15,
+  "starchip": "8"
+}

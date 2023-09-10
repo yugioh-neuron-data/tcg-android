@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 18733,
+  "card_name": "闘神の虚像",
+  "card_name_label": "ロック・オブ・ヴァンキッシャー",
+  "card_name_search": "ろっくおぶう゛ぁんきっしゃー",
+  "card_pen_effect": "",
+  "card_text": "「VS」モンスター１体$Nこのカードはリンク素材にできない。$Nこのカード名の②の効果は１ターンに１度しか使用できない。$N①：自分フィールドに「VS」モンスターが存在する限り、自分フィールドの攻撃力が一番高いモンスターしか相手は攻撃対象に選択できない。$N②：自分・相手のメインフェイズに、以下の効果から１つを選択して発動できる。$N●手札から「VS」モンスター１体を特殊召喚する。$N●自分の墓地から「VS」モンスター１体を選んで手札に加える。",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "2",
+  "linkno": "1",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/03/18",
+  "species_id": 6,
+  "starchip": ""
+}

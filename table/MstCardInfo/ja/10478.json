@@ -1,0 +1,23 @@
+{
+  "attack_power": "1900",
+  "attribute_id": 5,
+  "card_id": 10478,
+  "card_name": "ドドドバスター",
+  "card_name_label": "ドドドバスター",
+  "card_name_search": "どどどばすたー",
+  "card_pen_effect": "",
+  "card_text": "①：相手フィールドにのみモンスターが存在する場合、このカードは手札から特殊召喚できる。この方法で特殊召喚したこのカードのレベルは４になる。②：このカードがアドバンス召喚に成功した時、自分の墓地の「ドドド」モンスター１体を対象として発動できる。そのモンスターを守備表示で特殊召喚する。",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/12/22",
+  "species_id": 15,
+  "starchip": "6"
+}

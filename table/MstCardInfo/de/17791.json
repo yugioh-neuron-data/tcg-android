@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 2,
+  "card_id": 17791,
+  "card_name": "Gurkenpferd",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Diese Karte in der Monsterzone wird auf den Friedhof gelegt, außer während der Battle Phase. Am Beginn der Battle Phase, falls sich diese Karte in deinem Friedhof befindet: Du kannst 1 Pflanze-Monster von deiner Hand oder offen von deiner Spielfeldseite auf den Friedhof legen; beschwöre diese Karte als Spezialbeschwörung, dann kannst du 1 Monster als Spezialbeschwörung von einem beliebigen Friedhof auf deine Spielfeldseite beschwören, aber lege diese als Spezialbeschwörung beschworenen Monsters am Ende der Battle Phase auf den Friedhof. Du kannst diesen Effekt von „Gurkenpferd“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/10/20",
+  "species_id": 13,
+  "starchip": "8"
+}

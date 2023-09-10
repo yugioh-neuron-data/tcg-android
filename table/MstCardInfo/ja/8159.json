@@ -1,0 +1,23 @@
+{
+  "attack_power": "2200",
+  "attribute_id": 4,
+  "card_id": 8159,
+  "card_name": "フェニキシアン・クラスター・アマリリス",
+  "card_name_label": "フェニキシアン・クラスター・アマリリス",
+  "card_name_search": "ふぇにきしあんくらすたーあまりりす",
+  "card_pen_effect": "",
+  "card_text": "このカードは「フェニキシアン・シード」またはこのカードの効果でしか特殊召喚できない。このカードは攻撃した場合、そのダメージ計算後に破壊される。自分フィールド上のこのカードが破壊され墓地へ送られた時、相手ライフに８００ポイントダメージを与える。また、自分のエンドフェイズ時、このカード以外の自分の墓地の植物族モンスター１体をゲームから除外する事で、このカードを墓地から表側守備表示で特殊召喚する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/02/14",
+  "species_id": 13,
+  "starchip": "8"
+}

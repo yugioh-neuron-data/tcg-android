@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 10696,
+  "card_name": "H・C アンブッシュ・ソルジャー",
+  "card_name_label": "ヒロイック・チャレンジャー　アンブッシュ・ソルジャー",
+  "card_name_search": "ひろいっくちゃれんじゃーあんぶっしゅそるじゃー",
+  "card_pen_effect": "",
+  "card_text": "自分のスタンバイフェイズ時、フィールド上のこのカードをリリースして発動できる。自分の手札・墓地から「H・C アンブッシュ・ソルジャー」以外の「H・C」と名のついたモンスターを２体まで選んで特殊召喚できる。「H・C アンブッシュ・ソルジャー」のこの効果は１ターンに１度しか使用できない。この効果で特殊召喚に成功した時、墓地のこのカードをゲームから除外する事で、自分フィールド上の全ての「H・C」と名のついたモンスターのレベルを１にする。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/08/10",
+  "species_id": 15,
+  "starchip": "1"
+}

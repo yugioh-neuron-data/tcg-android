@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 5,
+  "card_id": 7799,
+  "card_name": "Canalisateur de Magie",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Chaque fois qu'une Carte Magie est activée, placez 2 Compteurs Magie sur cette carte lorsque la Magie est résolue. Une fois par tour : vous pouvez retirer un nombre de votre choix de Compteurs Magie de cette carte ; Invoquez Spécialement 1 monstre Magicien depuis votre main ou Cimetière dont le Niveau est égal au nombre de Compteurs Magie que vous avez retirés.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/05/13",
+  "species_id": 18,
+  "starchip": "4"
+}

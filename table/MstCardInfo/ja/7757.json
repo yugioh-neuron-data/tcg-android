@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 7757,
+  "card_name": "スターゲート",
+  "card_name_label": "スターゲート",
+  "card_name_search": "すたーげーと",
+  "card_pen_effect": "",
+  "card_text": "相手モンスターが戦闘を行った場合、そのダメージステップ終了時にこのカードにゲートカウンターを１つ置く。自分のターンのメインフェイズ時にこのカードを墓地に送る事で、このカードに乗っているゲートカウンターの数以下のレベルのモンスター１体を手札から特殊召喚する。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/04/19",
+  "species_id": 25,
+  "starchip": "0"
+}

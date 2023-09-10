@@ -1,0 +1,23 @@
+{
+  "attack_power": "1100",
+  "attribute_id": 5,
+  "card_id": 13236,
+  "card_name": "クローラー・ランヴィエ",
+  "card_name_label": "クローラー・ランヴィエ",
+  "card_name_search": "くろーらーらんう゛ぃえ",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードがリバースした場合、自分の墓地の「クローラー」モンスターを２体まで対象として発動できる。そのモンスターを手札に加える。②：表側表示のこのカードが相手の効果でフィールドから離れた場合に発動できる。「クローラー・ランヴィエ」以外の「クローラー」モンスター２体をデッキから裏側守備表示で特殊召喚する（同名カードは１枚まで）。",
+  "defense_power": "900",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 24,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/07/08",
+  "species_id": 10,
+  "starchip": "2"
+}

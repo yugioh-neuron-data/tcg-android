@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 3,
+  "card_id": 11009,
+  "card_name": "サイレント・ウォビー",
+  "card_name_label": "サイレント・ウォビー",
+  "card_name_search": "さいれんとうぉびー",
+  "card_pen_effect": "",
+  "card_text": "自分のメインフェイズ時に発動できる。このカードを手札から相手フィールド上に特殊召喚する。この効果で特殊召喚に成功した時、このカードのコントローラーはデッキからカードを１枚ドローし、このカードのコントローラーから見て相手プレイヤーは２０００ライフポイント回復する。「サイレント・ウォビー」のこの効果は１ターンに１度しか使用できない。また、このカードがフィールド上に表側表示で存在する限り、このカードのコントローラーの手札制限枚数は３枚になる。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/12/21",
+  "species_id": 8,
+  "starchip": "4"
+}

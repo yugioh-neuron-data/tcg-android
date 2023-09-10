@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 5,
+  "card_id": 12873,
+  "card_name": "Unterterror-Erzfeind Verteidiger",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Während des Spielzugs eines beliebigen Spielers, wenn dein Gegner eine Karte oder einen Effekt aktiviert, die oder der genau 1 gesetztes Monster, das du kontrollierst, (und keine anderen Karten) als Ziel wählt, oder wenn ein gesetztes Monster, das du kontrollierst, als Angriffsziel für ein gegnerisches Monster gewählt wird: Du kannst diese Karte von deiner Hand oder offen von deiner Spielfeldseite auf den Friedhof legen und dann ein anderes Monster wählen, das du kontrollierst und das ein geeignetes Ziel wäre; die Karte/der Effekt/der Angriff wählt jetzt das neue Ziel als Ziel. Solange du ein gesetztes Monster kontrollierst, kann diese Karte weder durch Kampf noch durch Karteneffekte zerstört werden.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/02/09",
+  "species_id": 12,
+  "starchip": "2"
+}

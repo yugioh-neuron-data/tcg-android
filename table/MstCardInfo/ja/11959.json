@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 1,
+  "card_id": 11959,
+  "card_name": "Emミラー・コンダクター",
+  "card_name_label": "エンタメイジミラー・コンダクター",
+  "card_name_search": "えんためいじみらーこんだくたー",
+  "card_pen_effect": "①：１ターンに１度、フィールドの特殊召喚された表側表示モンスター１体を対象として発動できる。そのモンスターの攻撃力・守備力はターン終了時まで、その攻撃力と守備力の内、低い方の数値と同じになる。",
+  "card_text": "①：１ターンに１度、フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターの攻撃力・守備力をターン終了時まで入れ替える。その後、自分は５００ダメージを受ける。この効果は相手ターンでも発動できる。",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2015/07/18",
+  "species_id": 18,
+  "starchip": "4"
+}

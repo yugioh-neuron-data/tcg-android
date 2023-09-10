@@ -1,0 +1,23 @@
+{
+  "attack_power": "2600",
+  "attribute_id": 1,
+  "card_id": 12328,
+  "card_name": "電子光虫－ライノセバス",
+  "card_name_label": "デジタル・バグ－ライノセバス",
+  "card_name_search": "でじたるばぐらいのせばす",
+  "card_pen_effect": "",
+  "card_text": "昆虫族・光属性レベル７モンスター×２体以上$Nこのカードは自分フィールドのランク５・６の昆虫族XモンスターからX素材を２つ取り除き、そのXモンスターの上に重ねてX召喚する事もできる。①：このカードが守備表示モンスターを攻撃した場合、その守備力を攻撃力が超えた分だけ戦闘ダメージを与える。②：１ターンに１度、このカードのX素材を１つ取り除いて発動できる。相手フィールドの守備力が一番高いモンスターを破壊する。この効果は相手ターンでも発動できる。",
+  "defense_power": "2200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/01/09",
+  "species_id": 10,
+  "starchip": "7"
+}

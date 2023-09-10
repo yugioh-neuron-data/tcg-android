@@ -1,0 +1,23 @@
+{
+  "attack_power": "2200",
+  "attribute_id": 1,
+  "card_id": 13044,
+  "card_name": "Conducteur Récupérateur",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si un Monstre Lien Cyberse que vous contrôlez est détruit par un effet de carte de l'adversaire tant que cette carte est dans votre main ou Cimetière (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte. Vous pouvez défausser 1 Magie, puis ciblez 1 monstre Cyberse dans votre Cimetière ; Invoquez-le Spécialement, mais il ne peut pas attaquer directement ce tour. Vous ne pouvez utiliser chaque effet de \"Conducteur Récupérateur\" qu'une fois par tour.",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/08/03",
+  "species_id": 27,
+  "starchip": "6"
+}

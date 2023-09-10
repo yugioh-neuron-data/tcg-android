@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 4,
+  "card_id": 17354,
+  "card_name": "Vaylantz-Dominatorherzog",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Falls „Vaylantz-Welt - König Wissen“ in einer Spielfeldzone liegt oder falls du ein FEUER „Vaylantz“-Monster kontrollierst: Du kannst diese Karte als Spezialbeschwörung in deine Main-Monsterzone in ihre eigene Spalte beschwören. Du kannst diesen Effekt von „Vaylantz-Dominatorherzog“ nur einmal pro Spielzug verwenden.",
+  "card_text": "Du kannst 1 gesetzte Karte in der Zauber- & Fallenzone wählen; jene gesetzte Karte kann in diesem Spielzug nicht aktiviert werden (selbst falls diese Karte das Spielfeld verlässt). Falls diese Karte in der Monsterzone in eine andere Monsterzone bewegt wird: Du kannst 1 offenes Monster in der Main-Monsterzone deines Gegners wählen; übernimm die Kontrolle über jenes offene Monster, aber es kann weder einen Angriff deklarieren noch können seine Effekte aktiviert werden, zusätzlich wird es als „Vaylantz“-Monster behandelt. Du kannst jeden Effekt von „Vaylantz-Dominatorherzog“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2022/08/25",
+  "species_id": 7,
+  "starchip": "8"
+}

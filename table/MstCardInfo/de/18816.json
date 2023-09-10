@@ -1,0 +1,23 @@
+{
+  "attack_power": "700",
+  "attribute_id": 5,
+  "card_id": 18816,
+  "card_name": "Gierdose",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "FLIPP: Führe nacheinander diese Effekte aus.$N●Grabe eine beliebige Anzahl oberste Karten deines Decks bis zur Anzahl der Karten aus, die dein Gegner kontrolliert, und falls du dies tust, füge 1 von ihnen deiner Hand hinzu, zusätzlich lege die übrigen auf den Friedhof.$N●Lege Monster bis zur Anzahl der Monster, die dein Gegner kontrolliert und die als Spezialbeschwörung vom Extra Deck beschworen wurden, von deinem Extra Deck auf den Friedhof.$NDu kannst diesen Effekt von „Gierdose“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 24,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/07/27",
+  "species_id": 6,
+  "starchip": "3"
+}

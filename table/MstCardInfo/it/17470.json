@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 17470,
+  "card_name": "Interferenza Cifra",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante il calcolo dei danni, se un mostro combatte mentre un mostro con ATK 1000 o superiore è sul Terreno: l'ATK di tutti i mostri attualmente sul Terreno diventa ridotto di 1000 per ogni 1000 ATK che hanno, inoltre il loro DEF diventa ridotto di 1000 per ogni 1000 DEF che hanno. Se questa carta viene distrutta: applica le modifiche di ATK/DEF sopra indicate a tutti i mostri attualmente sul Terreno, fino alla fine di questo turno.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/08/04",
+  "species_id": 24,
+  "starchip": "0"
+}

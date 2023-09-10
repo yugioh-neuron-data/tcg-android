@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 8619,
+  "card_name": "Golem mit magischem Loch",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Einmal pro Spielzug kannst du 1 offenes Monster wählen, das du kontrollierst. Seine ATK werden bis zur End Phase halbiert und es kann deinen Gegner in diesem Spielzug direkt angreifen. Während des Spielzugs, in dem du diesen Effekt aktivierst, kann nur das gewählte Monster angreifen.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/02/11",
+  "species_id": 6,
+  "starchip": "3"
+}

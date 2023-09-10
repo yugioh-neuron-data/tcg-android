@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 2,
+  "card_id": 15519,
+  "card_name": "Chevalier du Raid",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 monstres TÉNÈBRES de Niveau 4$N(Cette carte est toujours traitée comme une carte \"Les Chevaliers Fantômes\" et \"Raidraptor\".)$NVous pouvez détacher 1 Matériel de cette carte ; Invoquez Spécialement 1 Monstre Xyz \"Les Chevaliers Fantômes\", \"Raidraptor\" ou \"Dragon Xyz\" qui a 1 Rang supérieur ou inférieur à cette carte depuis votre Extra Deck, en utilisant cette carte face recto que vous contrôlez comme Matériel, mais détruisez-le durant la prochaine End Phase de votre adversaire. (Ceci est traité comme une Invocation Xyz. Transférez ses Matériels au monstre Invoqué.) Vous ne pouvez utiliser cet effet de \"Chevalier du Raid\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/11/05",
+  "species_id": 15,
+  "starchip": "4"
+}

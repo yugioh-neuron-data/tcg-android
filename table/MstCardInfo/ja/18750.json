@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 18750,
+  "card_name": "Recette de Spécialité～料理長自慢のレシピ～",
+  "card_name_label": "ルセット・ド・スペシャリテ～シェフじまんのレシピ～",
+  "card_name_search": "るせっとどすぺしゃりてしぇふじまんのれしぴ",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。$N①：自分フィールドに「ヌーベルズ」儀式モンスターが存在し、モンスターの効果・魔法・罠カードが発動した時に発動できる。その発動を無効にする。「ヌーベルズ」モンスターの効果で特殊召喚されたモンスターが自分フィールドに存在する場合、さらにその無効にしたカードを破壊できる。$N②：自分が「ハングリーバーガー」の特殊召喚に成功した場合、墓地のこのカードを除外して発動できる。相手フィールドのモンスターを可能な限りリリースする。",
+  "defense_power": "0",
+  "effect_id": 1,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/03/18",
+  "species_id": 25,
+  "starchip": "0"
+}

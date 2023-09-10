@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 1,
+  "card_id": 11784,
+  "card_name": "Magicien Sage-Oeil",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Si vous avez une carte \"Magicien\" ou \"Potartiste\" dans votre autre Zone Pendule : vous pouvez détruire cette carte, et si vous le faites, placez 1 Monstre Pendule \"Magicien\" (\"Magicien Sage-Oeil\" exclu) depuis votre Deck dans votre Zone Pendule.",
+  "card_text": "Vous pouvez défausser cette carte, puis ciblez 1 carte dans votre Zone Pendule, dont l'Échelle Pendule actuelle est différente de son Échelle Pendule d'origine ; jusqu'à la fin de ce tour, son Échelle Pendule devient son Échelle Pendule d'origine.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2015/12/03",
+  "species_id": 18,
+  "starchip": "4"
+}

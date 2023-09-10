@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14228,
+  "card_name": "Decode Destruction",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Target 1 \"Decode Talker\" you control; apply the following effects this turn, depending on the number of monsters it currently points to.$N●1+: That monster gains 500 ATK for each monster it currently points to.$N●2+: Monsters destroyed by battle with that monster are banished after damage calculation.$N●3: After damage calculation, if that monster destroys your opponent's monster by battle: Destroy all cards your opponent controls.$NYou can only activate 1 \"Decode Destruction\" per turn.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/04/03",
+  "species_id": 24,
+  "starchip": "0"
+}

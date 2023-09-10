@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 4,
+  "card_id": 19145,
+  "card_name": "TG ロケット・サラマンダー",
+  "card_name_label": "テックジーナス ロケット・サラマンダー",
+  "card_name_search": "てっくじーなすろけっとさらまんだー",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。$N①：自分フィールドの「TG」モンスター１体をリリースして発動できる。リリースしたモンスターとは元々のカード名が異なる「TG」モンスター１体をデッキから特殊召喚する。$N②：自分フィールドに機械族の「TG」モンスターが存在する場合、自分の墓地のレベル４以下の「TG」モンスター１体を対象として発動できる。そのモンスターを守備表示で特殊召喚する。この効果で特殊召喚したモンスターの効果は無効化される。",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/07/22",
+  "species_id": 4,
+  "starchip": "1"
+}

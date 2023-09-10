@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 5268,
+  "card_name": "無差別破壊",
+  "card_name_label": "むさべつはかい",
+  "card_name_search": "むさべつはかい",
+  "card_pen_effect": "",
+  "card_text": "自分のスタンバイフェイズ毎にサイコロを１回振る。１～５の目が出た場合、フィールド上に表側表示で存在する出た目と同じレベルのモンスターを全て破壊する。６の目が出た場合、フィールド上に表側表示で存在するレベル６以上のモンスターを全て破壊する。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2001/07/12",
+  "species_id": 25,
+  "starchip": "0"
+}

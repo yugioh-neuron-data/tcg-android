@@ -1,0 +1,23 @@
+{
+  "attack_power": "2700",
+  "attribute_id": 5,
+  "card_id": 10105,
+  "card_name": "숲의 성수 알파카리부",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드는 이 카드의 표시 형식에 따라서 이하의 효과를 얻는다.$N●공격 표시 : 자신 필드 위에 앞면 공격 표시로 존재하는 비행야수족 / 곤충족 / 식물족 몬스터는 전투로는 파괴되지 않는다.$N●수비 표시 : 자신 필드 위에 앞면 수비 표시로 존재하는 비행야수족 / 곤충족 / 식물족 몬스터는 카드 효과의 대상이 되지 않으며, 카드의 효과로는 파괴되지 않는다.",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/04/10",
+  "species_id": 11,
+  "starchip": "7"
+}

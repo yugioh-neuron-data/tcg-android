@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13423,
+  "card_name": "Prisión de Fuego",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Todos los monstruos Dragón en el Campo ganan 300 DEF. Si hay Monstruos de Enlace en el Campo, ningún jugador puede Invocar por Enlace a un Monstruo de Enlace con un Rating de Enlace menor que el Rating de Enlace más alto del Campo. Los monstruos no pueden atacar, excepto los Monstruos de Enlace. Aplica los siguientes efectos mientras 2 o más Monstruos de Enlace Ciberso estén en el Campo.$N●Niega los efectos activados de monstruos Ciberso.$N●Los monstruos Ciberso no pueden atacar, no pueden ser seleccionados para ataques, y no pueden ser seleccionados por efectos de cartas.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/02/01",
+  "species_id": 24,
+  "starchip": "0"
+}

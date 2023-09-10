@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 2,
+  "card_id": 14915,
+  "card_name": "Guerrier Satellite",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Syntoniseur + 1+ Monstre Synchro non-Syntoniseur$NSi cette carte est Invoquée par Synchronisation : vous pouvez cibler un nombre de cartes contrôlées par votre adversaire, inférieur ou égal au nombre de Monstres Synchro dans votre Cimetière ; détruisez-les, et si vous le faites, cette carte gagne 1000 ATK pour chaque carte détruite. Si cette carte Invoquée par Synchronisation est détruite : vous pouvez Invoquer Spécialement max. 3 Monstres Synchro \"Guerrier\", \"Synchronique\" et/ou \"Poussière d'Étoile\" de max. Niveau 8 de noms différents depuis votre Cimetière. Vous ne pouvez utiliser chaque effet de \"Guerrier Satellite\" qu'une fois par tour.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/01/16",
+  "species_id": 15,
+  "starchip": "10"
+}

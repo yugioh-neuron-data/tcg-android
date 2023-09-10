@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 1,
+  "card_id": 15011,
+  "card_name": "Signoredrago del Tuono",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Non può essere Evocato Normalmente/Posizionato. Deve prima essere Evocato Specialmente (dalla tua mano) bandendo 1 mostro Tuono di Livello 8 o inferiore dalla tua mano o Terreno scoperto, durante il turno in cui l'effetto di un mostro Tuono è stato attivato nella mano. Una volta per turno dell'avversario (Effetto Rapido): puoi bandire 2 carte dal tuo Cimitero, compreso un mostro Tuono, poi scegliere come bersaglio 1 mostro Tuono che controlli; il tuo avversario non può sceglierlo come bersaglio con gli effetti delle carte in questo turno. Una volta per turno, durante la tua End Phase: puoi mandare 1 carta \"Drago del Tuono\" dal tuo Deck al Cimitero.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/30",
+  "species_id": 19,
+  "starchip": "9"
+}

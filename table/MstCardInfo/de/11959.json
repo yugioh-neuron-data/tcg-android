@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 1,
+  "card_id": 11959,
+  "card_name": "Künstlerzauberer Spiegeldirigent",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Einmal pro Spielzug: Du kannst 1 offenes als Spezialbeschwörung beschworenes Monster auf dem Spielfeld wählen; seine ATK und DEF werden bis zum Ende dieses Spielzugs gleich seinen derzeitigen ATK oder DEF (was davon niedriger ist), selbst falls diese Karte das Spielfeld verlässt.",
+  "card_text": "Einmal pro Spielzug, während des Spielzugs eines beliebigen Spielers: Du kannst 1 offenes Monster auf dem Spielfeld wählen; vertausche seine derzeitigen ATK und DEF, dann erhältst du 500 Schaden. Diese ATK- und DEF-Änderung dauert bis zum Ende dieses Spielzugs an.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2015/11/05",
+  "species_id": 18,
+  "starchip": "4"
+}

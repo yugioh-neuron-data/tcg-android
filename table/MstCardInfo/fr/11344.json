@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 11344,
+  "card_name": "Armure Brisâme Samouraï Supralourd",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Vous pouvez cibler 1 monstre \"Samouraï Supralourd\" que vous contrôlez ; équipez ce monstre depuis votre main ou votre Terrain à la cible. Il perd 1000 DEF, et aussi, il ne peut pas être détruit au combat. Si cette carte est dans votre Cimetière : vous pouvez bannir tous les \"Armure Brisâme Samouraï Supralourd\" depuis votre Cimetière, puis ciblez 1 monstre \"Samouraï Supralourd\" sur le Terrain dont la DEF actuelle est inférieure à sa DEF d'origine ; infligez des dommages à votre adversaire égaux à la différence entre sa DEF actuelle et d'origine.",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/11/06",
+  "species_id": 7,
+  "starchip": "1"
+}

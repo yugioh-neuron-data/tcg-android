@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 4,
+  "card_id": 15508,
+  "card_name": "Hinezumi Hanabi",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Kann nicht als Material für eine Fusions-, Synchro-, Xyz- oder Linkbeschwörung verwendet werden. Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Lege 6 Zählmarken darauf. Einmal pro Spielzug, während deiner End Phase: Übergib die Kontrolle über diese Karte an deinen Gegner. Einmal pro Spielzug, falls sich der Beherrscher dieser offenen Karte mit einer oder mehr Zählmarken ändert: Wirf einen sechsseitigen Würfel, entferne so viele Zählmarken von dieser Karte wie möglich, bis zum Ergebnis, und falls alle Zählmarken dieser Karte durch diesen Effekt entfernt werden, zerstöre diese Karte und falls du dies tust, erhältst du 2000 Schaden.",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/11/05",
+  "species_id": 11,
+  "starchip": "4"
+}

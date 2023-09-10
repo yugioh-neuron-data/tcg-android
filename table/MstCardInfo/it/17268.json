@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 1,
+  "card_id": 17268,
+  "card_name": "Divinità Magichiave - Ashtartu",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 mostri di Livello 8$NUna volta per turno, quando un tuo Mostro Normale o mostro \"Magichiave\" distrugge un mostro dell'avversario in battaglia: puoi staccare 1 materiale da questa carta; infliggi al tuo avversario danno pari all'ATK originale del mostro distrutto. Una volta per turno, durante la Main Phase del tuo avversario (Effetto Rapido): puoi scegliere come bersaglio 1 mostro controllato dal tuo avversario con lo stesso Attributo di un Mostro Normale o mostro \"Magichiave\" che controlli o che è nel tuo Cimitero; stacca 1 materiale da questa carta e, se lo fai, bandisci quel mostro.",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/07/27",
+  "species_id": 17,
+  "starchip": "8"
+}

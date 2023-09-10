@@ -1,0 +1,23 @@
+{
+  "attack_power": "-1",
+  "attribute_id": 2,
+  "card_id": 14470,
+  "card_name": "Passé, Demoiselle de Fortune",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "L'ATK/DEF de cette carte deviennent son Niveau x 200. Une fois par tour, durant votre Standby Phase : augmentez le Niveau de cette carte de 1 (max. 12). Vous pouvez cibler 1 monstre \"Demoiselle de Fortune\" que vous contrôlez ; bannissez un nombre de votre choix d'autres monstres Magicien depuis votre main, Terrain et/ou Cimetière, et si vous le faites, jusqu'à la fin de ce tour, augmentez ou réduisez le Niveau du monstre du nombre de monstres bannis. Vous ne pouvez utiliser cet effet de \"Passé, Demoiselle de Fortune\" qu'une fois par tour.",
+  "defense_power": "-1",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/07/26",
+  "species_id": 18,
+  "starchip": "1"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 1,
+  "card_id": 6815,
+  "card_name": "トイ・マジシャン",
+  "card_name_label": "トイ・マジシャン",
+  "card_name_search": "といまじしゃん",
+  "card_pen_effect": "",
+  "card_text": "このカードは魔法カード扱いとして手札から魔法＆罠カードゾーンにセットする事ができる。自分の魔法＆罠カードゾーンにセットされたこのカードが相手のカードの効果によって破壊され墓地へ送られた場合、そのターンのエンドフェイズ時にこのカードを墓地から特殊召喚する。また、このカードが反転召喚に成功した時、フィールド上に表側表示で存在する「トイ・マジシャン」の数だけ、フィールド上に存在する魔法・罠カードを破壊する。",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/04/21",
+  "species_id": 18,
+  "starchip": "4"
+}

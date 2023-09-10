@@ -1,0 +1,23 @@
+{
+  "attack_power": "2600",
+  "attribute_id": 1,
+  "card_id": 6806,
+  "card_name": "Horror Cósmico Gangi'el",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si estás Sacrificando un monstruo en tu Campo que es propiedad de tu adversario, esta carta puede ser Invocada mediante una Invocación Normal con 1 Sacrificio. Una vez por turno puedes poner 1 Contador \"A\" en un monstruo en el Campo de tu adversario. (Si un monstruo con Contadores \"A\" batalla contra un monstruo que incluya \"Alienígena\" en su nombre, disminuye su ATK y su DEF en 300 puntos por cada Contador \"A\", sólo durante el cálculo de daño.)",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/08/16",
+  "species_id": 20,
+  "starchip": "7"
+}

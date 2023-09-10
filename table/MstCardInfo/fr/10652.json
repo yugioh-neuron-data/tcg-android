@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 3,
+  "card_id": 10652,
+  "card_name": "César Requin",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Min. 3 (max. 5) monstres de Niveau 3$NUne fois par tour : vous pouvez détacher 1 Matériel Xyz de cette carte ; placez 1 Compteur Requin sur cette carte. Si cette carte attaque ou est attaquée, durant la Damage Step uniquement, elle gagne 1000 ATK pour chaque Compteur Requin sur elle.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/08/08",
+  "species_id": 8,
+  "starchip": "3"
+}

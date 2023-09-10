@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 1,
+  "card_id": 14224,
+  "card_name": "Sorcier Souriant Potartiste",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Si un ou plusieurs monstres que vous contrôlez, dont l'ATK actuelle est supérieure à leur ATK d'origine, sont détruits au combat ou par un effet de carte : vous pouvez Invoquer Spécialement cette carte depuis votre Zone Pendule. Vous ne pouvez utiliser cet effet de \"Sorcier Souriant Potartiste\" qu'une fois par tour.",
+  "card_text": "Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez ajouter 1 Magie/Piège \"Souriant\" depuis votre Deck à votre main. Si tous les monstres que vous contrôlez sont des monstres \"Potartiste\", \"Yeux Impairs\" et/ou des Monstres Pendule \"Magicien\", et que l'ATK actuelle de cette carte est supérieure à son ATK d'origine : vous pouvez piocher un nombre de cartes égal au nombre de monstres que vous contrôlez dont l'ATK actuelle est supérieure à leur ATK d'origine, et aussi, vous ne pouvez pas Invoquer Spécialement de monstres le reste de ce tour. Vous ne pouvez utiliser chaque effet de \"Sorcier Souriant Potartiste\" qu'une fois par tour.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2019/04/04",
+  "species_id": 18,
+  "starchip": "8"
+}

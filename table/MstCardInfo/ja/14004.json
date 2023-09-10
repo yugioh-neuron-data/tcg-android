@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 6,
+  "card_id": 14004,
+  "card_name": "黄竜の忍者",
+  "card_name_label": "こうりゅうのにんじゃ",
+  "card_name_search": "こうりゅうのにんじゃ",
+  "card_pen_effect": "",
+  "card_text": "このカードは「忍者」モンスターまたは「忍法」カードの効果でしか特殊召喚できない。①：１ターンに１度、手札及び自分フィールドの表側表示のカードの中から、「忍者」モンスター１体と「忍法」カード１枚を墓地へ送り、フィールドの魔法・罠カードを２枚まで対象として発動できる。そのカードを破壊する。この効果は相手ターンでも発動できる。",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/09/14",
+  "species_id": 9,
+  "starchip": "8"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 5313,
+  "card_name": "冥界流傀儡術",
+  "card_name_label": "めいかいりゅうくぐつじゅつ",
+  "card_name_search": "めいかいりゅうくぐつじゅつ",
+  "card_pen_effect": "",
+  "card_text": "自分の墓地に存在する悪魔族モンスター１体を選択して発動する。レベルの合計が選択したモンスターのレベルと同じになるように、自分フィールド上に存在するモンスターをゲームから除外する。その後、選択したモンスターを墓地から特殊召喚する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2001/09/20",
+  "species_id": 24,
+  "starchip": "0"
+}

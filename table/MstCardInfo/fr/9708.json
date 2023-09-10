@@ -1,0 +1,23 @@
+{
+  "attack_power": "4000",
+  "attribute_id": 1,
+  "card_id": 9708,
+  "card_name": "Sephylon, le Seigneur Ultime du Temps",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "(Cette carte est toujours traitée comme une carte \"Seigneur du Temps\".)$NNi Invocable Normalement ni Posable Normalement. Uniquement Invocable Spécialement (depuis votre main) en ayant min. 10 monstres dans votre Cimetière. Une fois par tour : vous pouvez Invoquer Spécialement 1 monstre Elfe de min. Niveau 8 depuis votre main ou Cimetière, mais ses effets sont annulés, et aussi, son ATK devient 4000.",
+  "defense_power": "4000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/06/07",
+  "species_id": 17,
+  "starchip": "10"
+}

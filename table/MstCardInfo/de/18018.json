@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 18018,
+  "card_name": "Himmelstor der Mikanko",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Solange du ein Monster kontrollierst, das mit einer Ausrüstungskarte ausgerüstet ist, müssen alle Monster, die dein Gegner kontrolliert und die angreifen können, Monster angreifen, die mit Ausrüstungskarten ausgerüstet sind. Falls dein „Mikanko“-Monster kämpft, kann dein Gegner bis zum Ende des Damage Steps weder Karten noch Effekte aktivieren. Am Ende des Damage Steps, falls dein „Mikanko“-Monster angegriffen hat: Du kannst 1 Ausrüstungskarte, die du kontrollierst, auf den Friedhof legen; es kann sofort noch einmal ein Monster angreifen.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/01/19",
+  "species_id": 24,
+  "starchip": "0"
+}

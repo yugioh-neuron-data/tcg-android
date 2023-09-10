@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16279,
+  "card_name": "워크라이 디그니티",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 자신 필드에 \"워크라이\" 몬스터가 존재할 경우, 이하의 효과에서 1개를 선택하여 발동할 수 있다.$N●상대 필드의 몬스터가 효과를 발동했을 때에 발동할 수 있다. 그 효과를 무효로 한다.$N●자신 / 상대의 배틀 페이즈에, 상대가 몬스터의 효과 / 마법 / 함정 카드를 발동했을 때에 발동할 수 있다. 그 효과를 무효로 한다.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/12/21",
+  "species_id": 24,
+  "starchip": "0"
+}

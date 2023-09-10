@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 7641,
+  "card_name": "Visite de la Faucheuse",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durant la Standby Phase de votre adversaire, lancez une pièce :$N ●Face : Votre adversaire ne peut pas faire d'Invocation Normale ni d'Invocation Flip jusqu'à la End Phase.$N ●Pile : Vous ne pouvez pas faire d'Invocation Normale ni d'Invocation Flip durant votre prochain tour.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/05/13",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 5,
+  "card_id": 8974,
+  "card_name": "スクラップ・ドラゴン",
+  "card_name_label": "スクラップ・ドラゴン",
+  "card_name_search": "すくらっぷどらごん",
+  "card_pen_effect": "",
+  "card_text": "チューナー＋チューナー以外のモンスター１体以上$N①：１ターンに１度、自分及び相手フィールドのカードを１枚ずつ対象として発動できる。そのカードを破壊する。②：このカードが相手によって破壊され墓地へ送られた場合、Sモンスター以外の自分の墓地の「スクラップ」モンスター１体を対象として発動する。そのモンスターを特殊召喚する。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/04/17",
+  "species_id": 1,
+  "starchip": "8"
+}

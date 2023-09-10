@@ -1,0 +1,23 @@
+{
+  "attack_power": "-1",
+  "attribute_id": 6,
+  "card_id": 11694,
+  "card_name": "Yosenju Oyam",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsqu'un monstre de votre adversaire déclare une attaque directe : vous pouvez envoyer 1 monstre \"Yosenju\" (\"Yosenju Oyam\" exclu) depuis votre main au Cimetière ; Invoquez Spécialement cette carte depuis votre main. Vous ne pouvez utiliser cet effet de \"Yosenju Oyam\" qu'une fois par tour. Au début de la Damage Step, si cette carte combat un monstre face recto de votre adversaire : jusqu'à la fin de ce tour, vous pouvez faire devenir l'ATK/DEF de cette carte égales à l'ATK d'origine du monstre de votre adversaire qu'elle combat. Lorsque cette carte est détruite au combat et envoyée au Cimetière : vous pouvez ajouter 1 carte \"Yosenju\" depuis votre Deck à votre main.",
+  "defense_power": "-1",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/05/14",
+  "species_id": 11,
+  "starchip": "6"
+}

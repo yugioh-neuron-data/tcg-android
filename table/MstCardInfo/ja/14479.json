@@ -1,0 +1,23 @@
+{
+  "attack_power": "1100",
+  "attribute_id": 5,
+  "card_id": 14479,
+  "card_name": "リバーシブル・ビートル",
+  "card_name_label": "リバーシブル・ビートル",
+  "card_name_search": "りばーしぶるびーとる",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功した場合に発動する。このカード及びこのカードと同じ縦列のモンスターを全て裏側守備表示にする。②：このカードがリバースした場合に発動する。このカード及びこのカードと同じ縦列の表側表示モンスターを全て持ち主のデッキに戻す。",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 24,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/04/13",
+  "species_id": 10,
+  "starchip": "3"
+}

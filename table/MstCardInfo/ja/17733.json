@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 17733,
+  "card_name": "宝玉の玲瓏",
+  "card_name_label": "ほうぎょくのれいろう",
+  "card_name_search": "ほうぎょくのれいろう",
+  "card_pen_effect": "",
+  "card_text": "①：「宝玉の玲瓏」は自分フィールドに１枚しか表側表示で存在できない。②：自分フィールドの「宝玉獣」モンスターの攻撃力は、その元々の守備力分アップする。③：自分の魔法＆罠ゾーンに「宝玉獣」カードが置かれた場合、魔法＆罠ゾーンの表側表示のこのカードを墓地へ送って発動できる（ダメージステップでも発動可能）。自分の手札・墓地から「宝玉獣」モンスター１体を選んで特殊召喚する。このターン、自分が受ける全てのダメージは半分になる。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/06/25",
+  "species_id": 25,
+  "starchip": "0"
+}

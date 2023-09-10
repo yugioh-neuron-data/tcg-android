@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 1,
+  "card_id": 11320,
+  "card_name": "Dante, Viajante do Abismo Ardente",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 monstros de Nível 3$NUma vez por turno: você pode desassociar 1 matéria deste card e selecionar um número de 1 a 3 e, depois, envie esse número de cards do topo do seu Deck para o Cemitério; até o final deste turno, este card ganha 500 de ATK para cada card enviado para o Cemitério desta forma. Se este card atacar, ele é colocado em Posição de Defesa no final da Fase de Batalha. Se este card for enviado para o Cemitério: você pode escolher 1 card \"Abismo Ardente\" no seu Cemitério, exceto este card; adicione-o à sua mão.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/08/15",
+  "species_id": 15,
+  "starchip": "3"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "3300",
+  "attribute_id": 2,
+  "card_id": 8138,
+  "card_name": "Kolossaler Kämpfer/Angriffsmodus",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Diese Karte kann nicht als Normalbeschwörung beschworen oder gesetzt werden. Diese Karte kann nicht als Spezialbeschwörung beschworen werden, außer mit „Angriffsmodus aktivieren“. Wenn diese Karte als Spezialbeschwörung beschworen wird, kannst du bis zu 2 Monster vom Typ Krieger von deinem Deck auf den Friedhof legen. Alle Monster, die dein Gegner kontrolliert, verlieren 100 ATK für jedes Monster vom Typ Krieger in deinem Friedhof. Wenn diese Karte auf dem Spielfeld zerstört wird, kannst du 1 „Kolossaler Kämpfer“ als Spezialbeschwörung von deinem Friedhof beschwören.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/02/28",
+  "species_id": 15,
+  "starchip": "10"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 12510,
+  "card_name": "Metamorfortezza",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Attiva questa carta scegliendo come bersaglio 1 mostro di Livello 4 o superiore che controlli; Evoca Specialmente questa carta come Mostro con Effetto (Tipo Roccia/TERRA/Livello 4/ATK 1000/DEF 1000), poi equipaggia quel mostro scoperto a questa carta. (Questa carta è ancora anche una Carta Trappola.) Se viene Evocata in questo modo, questa carta guadagna ATK e DEF pari all'ATK del mostro equipaggiato ad essa da questo effetto, inoltre, se attacca, mettila in Posizione di Difesa alla fine del Damage Step.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/07/21",
+  "species_id": 25,
+  "starchip": "0"
+}

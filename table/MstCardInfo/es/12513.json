@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 12513,
+  "card_name": "Metalcontenedor el Bloqueo Móvil",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Activa esta carta seleccionando cualquier cantidad de monstruos de Tipo Máquina de Nivel 4 que controles; Invoca esta carta de Modo Especial como un Monstruo de Efecto (Tipo Máquina/TIERRA/Nivel 4/ATK 0/ DEF 0), y después equipa esos monstruos boca arriba a esta carta. (Esta carta todavía sigue siendo una Carta de Trampa). Si es Invocada de esta forma, esta carta gana tanto ATK como el ATK combinado de los monstruos equipados a ella por este efecto, los monstruos que controla tu adversario no pueden seleccionar monstruos que controles para ataques, excepto éste, y además, tu adversario no puede seleccionar monstruos que controles con efectos de carta, excepto éste.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/07/21",
+  "species_id": 25,
+  "starchip": "0"
+}

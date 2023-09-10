@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 2,
+  "card_id": 13916,
+  "card_name": "クマモール",
+  "card_name_label": "クマモール",
+  "card_name_search": "くまもーる",
+  "card_pen_effect": "",
+  "card_text": "①：このカードがモンスターゾーンに存在する限り、相手ターンの間、自分の魔法＆罠ゾーンにセットされたカードは効果では破壊されない。②：自分の魔法＆罠ゾーンにセットされたカードが相手の効果で破壊される度に発動する。このカードの攻撃力はターン終了時まで８００アップする。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/07/14",
+  "species_id": 3,
+  "starchip": "3"
+}

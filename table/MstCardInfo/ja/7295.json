@@ -1,0 +1,23 @@
+{
+  "attack_power": "1300",
+  "attribute_id": 2,
+  "card_id": 7295,
+  "card_name": "ゴブリン暗殺部隊",
+  "card_name_label": "ゴブリンあんさつぶたい",
+  "card_name_search": "ごぶりんあんさつぶたい",
+  "card_pen_effect": "",
+  "card_text": "このカードは相手プレイヤーを直接攻撃する事ができる。このカードは攻撃した場合、バトルフェイズ終了時に守備表示になる。次の自分のターン終了時までこのカードは表示形式を変更できない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/07/21",
+  "species_id": 12,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 1,
+  "card_id": 6771,
+  "card_name": "Limon Luminescent Néo-Spacien",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si cette carte attaque ou est attaquée : votre adversaire pioche 1 carte et la montre, puis, appliquez cet effet selon son type.$N●Monstre : Terminez la Battle Phase de ce tour.$N●Magie : Si cette carte attaque, vous pouvez changer l'attaque en attaque directe à la place.$N●Piège : Changez cette carte en Position de Défense.",
+  "defense_power": "900",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/02/24",
+  "species_id": 13,
+  "starchip": "3"
+}

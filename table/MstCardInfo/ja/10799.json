@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10799,
+  "card_name": "聖蛇の息吹",
+  "card_name_label": "せいじゃのいぶき",
+  "card_name_search": "せいじゃのいぶき",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上に儀式・融合・シンクロ・エクシーズモンスターの内２種類以上が存在する場合、そのモンスターの種類によって、以下の効果から１つ以上選んで発動できる。「聖蛇の息吹」は１ターンに１枚しか発動できない。$N●２種類以上：自分の墓地のモンスター１体またはゲームから除外されている自分のモンスター１体を選択して手札に加える。$N●３種類以上：自分の墓地の罠カード１枚を選択して手札に加える。$N●４種類：「聖蛇の息吹」以外の自分の墓地の魔法カード１枚を選択して手札に加える。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/07/20",
+  "species_id": 24,
+  "starchip": "0"
+}

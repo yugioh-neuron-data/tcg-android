@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 2,
+  "card_id": 6870,
+  "card_name": "魅惑の女王 LV３",
+  "card_name_label": "アリュール・クィーン　レベル３",
+  "card_name_search": "ありゅーるくぃーんれべるすりー",
+  "card_pen_effect": "",
+  "card_text": "１ターンに１度だけ自分のメインフェイズ時に相手フィールド上のレベル３以下のモンスター１体を選択し、装備カード扱いとしてこのカードに装備する事ができる（この効果で装備できる装備カードは１枚まで）。このカードが戦闘によって破壊される場合、代わりに装備したモンスターを破壊する。自分ターンのスタンバイフェイズ時、この効果で装備カードを装備したこのカードを墓地に送る事で、「魅惑の女王 LV５」１体を手札またはデッキから特殊召喚する。",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/08/10",
+  "species_id": 18,
+  "starchip": "3"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 6,
+  "card_id": 11547,
+  "card_name": "Yosenju Tsujik",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante la End Phase, si este turno esta carta fue Invocada de Modo Normal: devuélvela a la mano. Sólo puedes usar cada uno de estos efectos de \"Yosenju Tsujik\" una vez por turno.$N●Durante el Damage Step de cualquier jugador, cuando un monstruo \"Yosenju\" que controlas batalla con un monstruo de tu adversario: puedes descartar esta carta; hasta el final de este turno, ese monstruo que controlas gana 1000 ATK.$N●Puedes seleccionar 1 monstruo \"Yosenju\" en el Campo; hasta el final de este turno, éste gana 1000 ATK.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/01/15",
+  "species_id": 12,
+  "starchip": "4"
+}

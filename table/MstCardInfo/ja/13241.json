@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 1,
+  "card_id": 13241,
+  "card_name": "メタファイズ・ネフティス",
+  "card_name_label": "メタファイズ・ネフティス",
+  "card_name_search": "めたふぁいずねふてぃす",
+  "card_pen_effect": "",
+  "card_text": "①：このカードが「メタファイズ」モンスターの効果で特殊召喚に成功した場合に発動できる。フィールドにセットされた魔法・罠カードを全て除外する。②：このカードが除外された場合、次のターンのスタンバイフェイズに除外されているこのカードをデッキに戻して発動できる。デッキから「メタファイズ・ネフティス」以外の「メタファイズ」カード１枚を手札に加える。",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/07/08",
+  "species_id": 26,
+  "starchip": "8"
+}

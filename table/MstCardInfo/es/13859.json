@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 1,
+  "card_id": 13859,
+  "card_name": "Orbital Fotónico",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante tu Main Phase: puedes seleccionar 1 monstruo \"Fotónico/a\", \"Galaxia\" o \"Galáctico/a\" que controles; equipa este monstruo en tu mano o Campo a ese objetivo. Éste gana 500 ATK, y además no puede ser destruido en batalla. Puedes mandar esta Carta de Equipo al Cementerio; añade a tu mano 1 monstruo \"Fotónico/a\", \"Galaxia\" o \"Galáctico/a\" en tu Deck, excepto \"Orbital Fotónico\". Sólo puedes usar este efecto de \"Orbital Fotónico\" una vez por turno.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/09/27",
+  "species_id": 7,
+  "starchip": "4"
+}

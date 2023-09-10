@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 11008,
+  "card_name": "Gimmick-Marionette Schattenfühler",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Kann nicht durch Kampf zerstört werden. Wenn du Kampfschaden durch einen direkten Angriff deines Gegners erhältst, solange sich diese Karte in deinem Friedhof befindet: Du kannst diese Karte als Spezialbeschwörung von deinem Friedhof in die offene Angriffsposition beschwören und falls du dies tust, erhältst du 1000 Schaden. Du kannst diesen Effekt von „Gimmick-Marionette Schattenfühler“ nur einmal pro Spielzug verwenden. Falls diese Karte ein Xyz-Material ist und auf den Friedhof gelegt würde, verbanne sie stattdessen.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/03/28",
+  "species_id": 7,
+  "starchip": "8"
+}

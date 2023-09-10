@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 2,
+  "card_id": 11134,
+  "card_name": "Sterndeutender Magier",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Falls ein Pendelmonster kämpft, das du kontrollierst, kann dein Gegner bis zum Ende des Damage Steps keine Zauberkarten aktivieren. Der Pendelbereich dieser Karte wird zu 4, es sei denn, du hast eine „Magier“-Karte oder „Buntäugig“-Karte in deiner anderen Pendelzone.",
+  "card_text": "Einmal pro Spielzug, wenn genau 1 anderes Pendelmonster, das du kontrollierst, (und keine anderen Karten) durch einen Karteneffekt deines Gegners auf deine Hand zurückgegeben wird (außer während des Damage Steps): Du kannst 1 Monster mit demselben Namen wie das auf die Hand zurückgegebene Monster als Spezialbeschwörung von deiner Hand beschwören.",
+  "defense_power": "2400",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2014/07/10",
+  "species_id": 18,
+  "starchip": "5"
+}

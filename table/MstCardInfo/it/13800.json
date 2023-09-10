@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 5,
+  "card_id": 13800,
+  "card_name": "Orgoth l'Implacabile",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Una volta per turno, durante la tua Main Phase: puoi tirare un dado a sei facce 3 volte e questa carta guadagna ATK/DEF pari alla somma x 100 (fino alla fine del turno del tuo avversario), poi, se 2 dei risultati erano lo stesso, applica l'effetto appropriato. Se tutti e 3 erano lo stesso, applica tutti questi effetti.$N●1 o 2: Questa carta non può essere distrutta in battaglia o dagli effetti delle carte, fino alla fine del turno del tuo avversario.$N●3 o 4: Pesca 2 carte.$N●5 o 6: Questa carta può attaccare direttamente in questo turno.",
+  "defense_power": "2450",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/06/28",
+  "species_id": 15,
+  "starchip": "7"
+}

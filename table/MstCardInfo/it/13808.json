@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13808,
+  "card_name": "Castello Dorato di Stromberg",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Una volta per turno, durante la tua Standby Phase, devi bandire 10 carte dalla cima del tuo Deck coperte (questo non è opzionale), o questa carta viene distrutta. Durante la tua Main Phase: puoi Evocare Specialmente dal tuo Deck 1 mostro che indica specificamente la carta \"Castello Dorato di Stromberg\" nel suo testo. Non puoi Evocare Normalmente/Posizionare nel turno in cui attivi questo effetto (anche se questa carta lascia il Terreno). Puoi utilizzare questo effetto di \"Castello Dorato di Stromberg\" una sola volta per turno. Quando un mostro dell'avversario dichiara un attacco: distruggi il mostro attaccante e, se lo fai, infliggi al tuo avversario danno pari alla metà dell'ATK che quel mostro aveva sul Terreno.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/06/28",
+  "species_id": 24,
+  "starchip": "0"
+}

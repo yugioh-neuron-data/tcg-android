@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16258,
+  "card_name": "Transactions sur Marge",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Votre adversaire peut défausser 1 carte pour annuler cet effet, sinon chaque joueur regarde le Deck de son adversaire et choisit 1 carte, puis ajoute la carte depuis son propre Deck choisie par son adversaire à sa main. Vous ne pouvez activer qu'1 \"Transactions sur Marge\" par tour.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/08/12",
+  "species_id": 24,
+  "starchip": "0"
+}

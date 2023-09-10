@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11096,
+  "card_name": "Verbotene Schrift",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls ein Monster gegen ein Monster deines Gegners kämpft, während der Schadensberechnung: Annulliere bis zum Ende des Damage Steps alle anderen Karteneffekte auf dem Spielfeld, zusätzlich verwendet die Schadensberechnung für diesen Kampf die Grund-ATK und -DEF jedes Monsters.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/05/15",
+  "species_id": 24,
+  "starchip": "0"
+}

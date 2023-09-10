@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 2,
+  "card_id": 9437,
+  "card_name": "Aile Noire - Jin l'Ombre de Pluie",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si cette carte combat un monstre face recto dont la DEF est inférieure ou égale à l'ATK de cette carte, détruisez ce monstre au début de la Damage Step (sans calcul de dommages).",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/05/05",
+  "species_id": 16,
+  "starchip": "1"
+}

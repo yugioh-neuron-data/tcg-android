@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 14879,
+  "card_name": "Alte Krieger-Sage - Verteidigung von Changban",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls dein „Alte Krieger“-Monster kämpft, kann dein Gegner bis zum Ende des Damage Steps keine Zauber-/Fallenkarten aktivieren. Du kannst nur 1 der folgenden Effekte von „Alte Krieger-Sage - Verteidigung von Changban“ pro Spielzug verwenden und in dem Spielzug nur einmal.$N●Am Beginn der Battle Phase deines Gegners: Du kannst diese offene Karte von deiner Zauber- & Fallenzone auf den Friedhof legen; Monster, die dein Gegner kontrolliert, können in diesem Spielzug keine „Alte Krieger“-Monster als Angriffsziele wählen.$N●Wenn ein Monster eines Gegners einen Angriff deklariert: Du kannst diese Karte von deinem Friedhof verbannen; beschwöre 1 „Alte Krieger“-Monster als Spezialbeschwörung von deinem Deck.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/01/30",
+  "species_id": 25,
+  "starchip": "0"
+}

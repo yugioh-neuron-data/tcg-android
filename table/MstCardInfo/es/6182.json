@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 1,
+  "card_id": 6182,
+  "card_name": "Maga Elemental",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Este monstruo consigue los siguientes efectos mientras hay monstruos con el siguiente Atributo en el Campo.$N●AGUA: El control de esta carta no puede cambiar.$N●VIENTO: Si esta carta destruye el monstruo de tu adversario como resultado de una batalla, esta carta puede atacar una vez más inmediatamente después.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/11/01",
+  "species_id": 18,
+  "starchip": "4"
+}

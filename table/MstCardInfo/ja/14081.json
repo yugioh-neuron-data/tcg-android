@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 4,
+  "card_id": 14081,
+  "card_name": "転生炎獣パロー",
+  "card_name_label": "サラマングレイトパロー",
+  "card_name_search": "さらまんぐれいとぱろー",
+  "card_pen_effect": "",
+  "card_text": "このカード名の③の効果は１ターンに１度しか使用できない。①：相手モンスターの攻撃宣言時に発動できる。このカードを手札から攻撃表示で特殊召喚する。②：このカードが特殊召喚に成功した場合、自分の墓地の「サラマングレイト」モンスター１体を対象として発動できる。このカードの攻撃力はそのモンスターの攻撃力と同じになる。③：このカードをリリースして発動できる。自分は２０００LP回復する。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/10/13",
+  "species_id": 27,
+  "starchip": "5"
+}

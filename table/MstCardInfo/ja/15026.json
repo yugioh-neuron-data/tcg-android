@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 1,
+  "card_id": 15026,
+  "card_name": "召喚獣アウゴエイデス",
+  "card_name_label": "しょうかんじゅうアウゴエイデス",
+  "card_name_search": "しょうかんじゅうあうごえいです",
+  "card_pen_effect": "",
+  "card_text": "「召喚師アレイスター」＋融合モンスター$Nこのカード名の①の効果は１ターンに１度しか使用できない。①：このカードが特殊召喚に成功した場合、または相手フィールドにモンスターが特殊召喚された場合、相手フィールドのモンスター１体を対象として発動できる。そのモンスターを破壊する。②：１ターンに１度、自分の墓地から融合モンスター１体を除外して発動できる。このカードの攻撃力は相手ターン終了時まで、除外したモンスターの攻撃力分アップする。",
+  "defense_power": "2800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/01/11",
+  "species_id": 17,
+  "starchip": "8"
+}

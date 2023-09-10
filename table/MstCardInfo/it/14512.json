@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14512,
+  "card_name": "Fervore Psichico",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante la Battle Phase: scegli come bersaglio 1 mostro scoperto che controlli; perdi LP pari al suo ATK e, se lo fai, l'ATK di quel mostro viene raddoppiato fino alla fine di questo turno. Esso non può attaccare direttamente durante il turno in cui attivi questa carta. Puoi attivare solo 1 \"Fervore Psichico\" per turno.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/07/26",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 8503,
+  "card_name": "스파이더 에그",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "상대가 직접 공격을 선언했을 때, 자신의 묘지에 곤충족 몬스터가 3장 이상 존재할 경우에 발동할 수 있다. 그 몬스터의 공격을 무효로 하고, 자신 필드 위에 \"스파이더 토큰\"(곤충족/땅 속성/레벨 1/공격력 100/수비력 100) 3장을 공격 표시로 특수 소환한다.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/11/19",
+  "species_id": 25,
+  "starchip": "0"
+}

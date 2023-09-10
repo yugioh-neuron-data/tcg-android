@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 2,
+  "card_id": 17647,
+  "card_name": "Voyant aux Yeux Impairs Potartiste",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Vous pouvez cibler 1 carte \"Potartiste\" ou \"Yeux Impairs\" dans votre Cimetière ; ajoutez-la à votre main, puis détruisez cette carte. Vous ne pouvez utiliser cet effet de \"Voyant aux Yeux Impairs Potartiste\" qu'une fois par tour.",
+  "card_text": "Durant votre Main Phase, si vous contrôlez cette carte Invoquée par Pendulation : vous pouvez activer l'effet suivant, selon sa position de combat ;$N●Position d'Attaque : Vous pouvez bannir cette carte, puis ciblez 1 monstre \"Potartiste\" ou \"Yeux Impairs\" dans votre Cimetière ; Invoquez-le Spécialement.$N●Position de Défense : Prenez 1 Monstre Pendule \"Potartiste\" ou \"Yeux Impairs\" depuis votre Deck, et soit ajoutez-le à votre Extra Deck face recto soit envoyez-le au Cimetière.$NVous ne pouvez utiliser cet effet de \"Voyant aux Yeux Impairs Potartiste\" qu'une fois par tour.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2022/11/17",
+  "species_id": 18,
+  "starchip": "6"
+}

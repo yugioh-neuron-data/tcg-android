@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 12572,
+  "card_name": "Santuário das Trevas",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se um card \"Mensagem do Espírito\" seria colocado no seu campo com \"Tábua do Destino\", em vez disso, você pode Invocá-lo por Invocação-Especial como um Monstro Normal (Demônio/TREVAS/Nível 1/ATK 0/DEF 0) e, se isso acontecer, ele não é afetado por efeitos de card, exceto \"Tábua do Destino\", e não pode ser escolhido como alvo de ataques, mas isso não impede que seu oponente o ataque diretamente. Quando um monstro do oponente declarar um ataque: lance uma moeda e se o resultado for cara, negue o ataque e, se isso acontecer, cause dano ao seu oponente igual à metade do ATK atual desse monstro do oponente.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/09/15",
+  "species_id": 24,
+  "starchip": "0"
+}

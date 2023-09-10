@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 10091,
+  "card_name": "Commandant des Épées",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsque votre adversaire pioche pour sa pioche normale durant sa Draw Phase : il révèle les cartes qu'il pioche, puis s'il y une Carte Magie/Piège, vous appliquez 1 de ces effets.$N ●Défaussez toutes les cartes qu'il a piochées.$N ●Détruisez 1 Carte Magie/Piège qu'il contrôle.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/05/10",
+  "species_id": 25,
+  "starchip": "0"
+}

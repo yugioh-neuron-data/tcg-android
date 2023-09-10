@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 17808,
+  "card_name": "Regain du Marqué",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si un ou plusieurs monstres LUMIÈRE ou TÉNÈBRES sont bannis (sauf durant la Damage Step) : vous pouvez cibler 1 de ces monstres ; placez le monstre au-dessous du Deck, et si vous le faites, piochez 1 carte. Vous ne pouvez utiliser cet effet de \"Regain du Marqué\" qu'une fois par tour. Une fois par tour, si votre adversaire Invoque Normalement ou Spécialement un monstre (sauf durant la Damage Step) : vous pouvez cibler 1 monstre \"Bystial\" dans votre Cimetière ; Invoquez-le Spécialement. Vous ne pouvez activer cet effet de \"Regain du Marqué\" qu'une fois par Chaîne.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/10/20",
+  "species_id": 24,
+  "starchip": "0"
+}

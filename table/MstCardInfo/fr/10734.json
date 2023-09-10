@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 2,
+  "card_id": 10734,
+  "card_name": "Cuillère Malicevore",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsqu'un monstre \"Malicevore\" de nom différent est Invoqué Normalement ou Spécialement sur votre Terrain (sauf durant la Damage Step) : vous pouvez cibler 1 monstre de Type Démon de Niveau 2 dans votre Cimetière ; Invoquez Spécialement la cible. Ses effets sont annulés. Vous ne pouvez utiliser l'effet de \"Cuillère Malicevore\" qu'une fois par tour.",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/11/07",
+  "species_id": 3,
+  "starchip": "2"
+}

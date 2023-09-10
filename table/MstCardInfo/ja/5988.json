@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 5988,
+  "card_name": "裁きの光",
+  "card_name_label": "さばきのひかり",
+  "card_name_search": "さばきのひかり",
+  "card_pen_effect": "",
+  "card_text": "①：フィールドに「天空の聖域」が存在する場合に手札から光属性モンスター１体を墓地へ捨てて発動できる。以下の効果から１つを選んで適用する。$N●相手の手札を確認し、その中からカード１枚を選んで墓地へ送る。$N●相手フィールドのカード１枚を選んで墓地へ送る。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2003/11/20",
+  "species_id": 25,
+  "starchip": "0"
+}

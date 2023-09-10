@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 6,
+  "card_id": 4484,
+  "card_name": "Insectes Soldats Volants",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "À chaque fois que cette carte attaque un monstre VENT, augmentez l'ATK de cette carte de 1000 points uniquement durant la Damage Step.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/06/27",
+  "species_id": 10,
+  "starchip": "3"
+}

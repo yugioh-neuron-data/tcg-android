@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 5,
+  "card_id": 11789,
+  "card_name": "Artistamico Gobbacammello",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Una volta per turno, durante la tua Main Phase 1: puoi scegliere come bersaglio 1 mostro scoperto che controlli; i mostri attualmente controllati dal tuo avversario perdono 800 DEF fino alla fine di questo turno e, se lo fanno, se il mostro scelto come bersaglio attacca un mostro in Posizione di Difesa in questo turno, infliggi danno da combattimento perforante al tuo avversario. (Questi effetti rimangono anche se questa carta lascia il Terreno.)",
+  "card_text": "Se questa carta viene distrutta in battaglia: puoi fare perdere 800 ATK al mostro che ha distrutto questa carta.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "2",
+  "pen_scale_r": "2",
+  "sales_at": "2015/08/06",
+  "species_id": 11,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 4,
+  "card_id": 8398,
+  "card_name": "ジュラック・スタウリコ",
+  "card_name_label": "ジュラック・スタウリコ",
+  "card_name_search": "じゅらっくすたうりこ",
+  "card_pen_effect": "",
+  "card_text": "このカードが戦闘によって破壊された場合、自分フィールド上に「ジュラックトークン」（恐竜族・炎・星１・攻／守０）２体を守備表示で特殊召喚する。このトークンは「ジュラック」と名のついたモンスター以外のアドバンス召喚のためにはリリースできない。",
+  "defense_power": "400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/07/01",
+  "species_id": 9,
+  "starchip": "2"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 4,
+  "card_id": 8707,
+  "card_name": "ネオフレムベル・サーベル",
+  "card_name_label": "ネオフレムベル・サーベル",
+  "card_name_search": "ねおふれむべるさーべる",
+  "card_pen_effect": "",
+  "card_text": "相手の墓地のカードが４枚以下の場合、このカードの攻撃力は６００ポイントアップする。相手の墓地のカードが８枚以上の場合、このカードの攻撃力は３００ポイントダウンする。",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/01/21",
+  "species_id": 4,
+  "starchip": "4"
+}

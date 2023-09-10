@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 13122,
+  "card_name": "Dragão Alado de Olhos Anômalos",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Uma vez por turno, antes do cálculo de dano, se um monstro seu batalhar um monstro do oponente: até o final da Etapa de Dano, você pode fazer com que seu monstro ganhe ATK igual ao ATK do monstro do oponente.",
+  "card_text": "1 Regulador de TREVAS + 1 monstro \"Asas Transparentes\" não-Regulador$NSe este card na Zona de Monstros for destruído: você pode colocar este card na sua Zona de Pêndulo. Você só pode usar 1 dos seguintes efeitos de \"Dragão Alado de Olhos Anômalos\" por turno e apenas uma vez por turno.$N●Você pode escolher 1 Monstro de Efeito que seu oponente controla; negue seus efeitos até o final deste turno.$N●Durante a Fase de Batalha, se você controlar este card Invocado por Invocação-Sincro (Efeito Rápido): você pode destruir todos os monstros de Nível 5 ou mais que seu oponente controla.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 35,
+  "pen_scale_l": "10",
+  "pen_scale_r": "10",
+  "sales_at": "2022/05/19",
+  "species_id": 1,
+  "starchip": "8"
+}

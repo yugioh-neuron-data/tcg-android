@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 2,
+  "card_id": 8111,
+  "card_name": "A・O・J リバース・ブレイク",
+  "card_name_label": "アーリー・オブ・ジャスティス　リバース・ブレイク",
+  "card_name_search": "あーりーおぶじゃすてぃすりばーすぶれいく",
+  "card_pen_effect": "",
+  "card_text": "フィールド上に光属性モンスターが存在する場合、このカードを破壊する。このカードが裏側守備表示のモンスターを攻撃した場合、ダメージ計算を行わず裏側守備表示のままそのモンスターを破壊する。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/12/04",
+  "species_id": 7,
+  "starchip": "4"
+}

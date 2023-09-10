@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 1,
+  "card_id": 11375,
+  "card_name": "Miss Giudice",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se si attiva l'effetto di una carta dell'avversario, prima di risolvere quell'effetto, lancia una moneta due volte e, se il risultato è 2 volte Testa, annulla quell'effetto. Puoi utilizzare questo effetto di \"Miss Giudice\" una sola volta per turno.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/11/06",
+  "species_id": 3,
+  "starchip": "4"
+}

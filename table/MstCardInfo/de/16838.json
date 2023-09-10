@@ -1,0 +1,23 @@
+{
+  "attack_power": "-1",
+  "attribute_id": 2,
+  "card_id": 16838,
+  "card_name": "Mechanische Monstrosität Darton",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Einmal pro Spielzug, während deiner Main Phase: Du kannst die Differenz zwischen den derzeitigen und den Grund-ATK jedes Monsters auf dem Spielfeld überprüfen, addiere die Gesamtbeträge dieser Differenzen und lass die Grund-ATK dieses Monster bis zum Ende des nächsten Spielzugs deines Gegners gleich der Summe werden.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/02/10",
+  "species_id": 7,
+  "starchip": "1"
+}

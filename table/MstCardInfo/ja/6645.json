@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 1,
+  "card_id": 6645,
+  "card_name": "黄金のホムンクルス",
+  "card_name_label": "おうごんのホムンクルス",
+  "card_name_search": "おうごんのほむんくるす",
+  "card_pen_effect": "",
+  "card_text": "このカードの攻撃力・守備力は、ゲームから除外されている自分のカードの数×３００ポイントアップする。",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/02/23",
+  "species_id": 15,
+  "starchip": "6"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "400",
+  "attribute_id": 2,
+  "card_id": 9092,
+  "card_name": "BF－二の太刀のエテジア",
+  "card_name_label": "ブラックフェザー－にのたちのエテジア",
+  "card_name_search": "ぶらっくふぇざーにのたちのえてじあ",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上に存在する「BF」と名のついたモンスターが相手モンスターとの戦闘を行ったダメージステップ終了時にその相手モンスターがフィールド上に存在する場合、このカードを手札から墓地へ送って発動する事ができる。相手ライフに１０００ポイントダメージを与える。",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/07/17",
+  "species_id": 16,
+  "starchip": "3"
+}

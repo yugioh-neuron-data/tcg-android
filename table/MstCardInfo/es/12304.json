@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 3,
+  "card_id": 12304,
+  "card_name": "Spinos Dinoniebla",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Si otra u otras cartas \"Dinoniebla\" que controlas fueran a ser destruidas en batalla o por efecto de una carta de tu adversario, puedes destruir esta carta en su lugar.",
+  "card_text": "Puedes Sacrificar otro monstruo \"Dinoniebla\", y después activar 1 de estos efectos;$N●Este turno, esta carta puede atacar a tu adversario directamente.$N●Este turno, esta carta puede hacer un segundo ataque durante cada Battle Phase.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2016/05/05",
+  "species_id": 7,
+  "starchip": "5"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 2,
+  "card_id": 6075,
+  "card_name": "Visage Nécro",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si cette carte est Invoquée Normalement : mélangez toutes les cartes bannies dans le Deck. Cette carte gagne 100 ATK pour chaque carte mélangée dans le Main Deck par cet effet. Si cette carte est bannie : chaque joueur bannit 5 cartes du dessus de son Deck (ou tout son Deck, s'il en a moins de 5).",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/11/14",
+  "species_id": 2,
+  "starchip": "4"
+}

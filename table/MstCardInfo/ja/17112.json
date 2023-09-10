@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 2,
+  "card_id": 17112,
+  "card_name": "EMクラシックリボー",
+  "card_name_label": "エンタメイトクラシックリボー",
+  "card_name_search": "えんためいとくらしっくりぼー",
+  "card_pen_effect": "①：相手モンスターの直接攻撃宣言時にこのカードは破壊される。",
+  "card_text": "このカード名の①②のモンスター効果はそれぞれ１ターンに１度しか使用できない。①：このカードを手札から捨て、自分のPゾーンのカード１枚を対象として発動できる。そのカードのPスケールはターン終了時まで１になる。②：このカードが墓地に存在し、自分が戦闘ダメージを受けた時に発動できる。このカードを自分のPゾーンに置く。③：このカードが自身のP効果によって破壊された場合に発動する。バトルフェイズを終了する。",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "8",
+  "pen_scale_r": "8",
+  "sales_at": "2021/12/18",
+  "species_id": 3,
+  "starchip": "1"
+}

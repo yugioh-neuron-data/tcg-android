@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 1,
+  "card_id": 6800,
+  "card_name": "Alienígena Gris",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "VOLTEO: Pon 1 Contador \"A\" en 1 monstruo boca arriba en el Campo de tu adversario. (Si un monstruo con Contadores \"A\" batalla contra un monstruo que incluya \"Alienígena\" en su nombre, disminuye su ATK y su DEF en 300 puntos por cada Contador \"A\", sólo durante el cálculo de daño.) Después de que esta carta haya sido volteada boca arriba, cuando es destruida como resultado de una batalla y mandada al Cementerio, roba 1 carta de tu Deck.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 24,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/08/16",
+  "species_id": 20,
+  "starchip": "2"
+}

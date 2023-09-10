@@ -1,0 +1,23 @@
+{
+  "attack_power": "-1",
+  "attribute_id": 1,
+  "card_id": 8430,
+  "card_name": "サイバー・エルタニン",
+  "card_name_label": "サイバー・エルタニン",
+  "card_name_search": "さいばーえるたにん",
+  "card_pen_effect": "",
+  "card_text": "このカードは通常召喚できない。自分の墓地及び自分フィールドの表側表示モンスターの中から、機械族・光属性モンスターを全て除外した場合のみ特殊召喚できる。①：このカードの攻撃力・守備力は、このカードを特殊召喚するために除外したモンスターの数×５００になる。②：このカードが特殊召喚に成功した場合に発動する。このカード以外のフィールドの表側表示モンスターを全て墓地へ送る。",
+  "defense_power": "-1",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/08/21",
+  "species_id": 7,
+  "starchip": "10"
+}

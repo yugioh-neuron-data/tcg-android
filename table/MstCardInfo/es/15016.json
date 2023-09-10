@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 5,
+  "card_id": 15016,
+  "card_name": "Bestia Rey Barbaros",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Esta carta puede atacar una vez a cada uno de los monstruos que controle tu adversario. Sólo puedes usar cada uno de los siguientes efectos de \"Bestia Rey Barbaros\" una vez por turno.$N●Puedes Sacrificar monstruos cuyos Niveles totales sean 8 o más; Invoca esta carta de Modo Especial desde tu mano.$N●Puedes desterrar 1 monstruo \"Barbaros\" en tu Cementerio o Campo boca arriba, y después seleccionar 2 cartas que controle tu adversario; destrúyelas.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/30",
+  "species_id": 12,
+  "starchip": "8"
+}

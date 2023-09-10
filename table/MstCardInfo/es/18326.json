@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 1,
+  "card_id": 18326,
+  "card_name": "Guardián de la Puerta del Trueno y Viento",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"Sanga del Trueno\" + \"Kazejin\"$NDebe ser Invocado de Modo Especial (desde tu Deck Extra) desterrando las cartas mencionadas arriba que controlas. Durante tu Main Phase: puedes añadir a tu mano 1 Mágica/Trampa en tu Deck que mencione \"Sanga del Trueno\", \"Kazejin\" Y \"Suijin\". Sólo puedes usar este efecto de \"Guardián de la Puerta del Trueno y Viento\" una vez por turno. Si esta carta Invocada de Modo Especial boca arriba controlada por su dueño deja el Campo por una carta del adversario: puedes Invocar de Modo Especial 1 de tus \"Sanga del Trueno\" o \"Kazejin\" desterrados.",
+  "defense_power": "2200",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/03/09",
+  "species_id": 19,
+  "starchip": "9"
+}

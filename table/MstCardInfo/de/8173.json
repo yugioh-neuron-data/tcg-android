@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 4,
+  "card_id": 8173,
+  "card_name": "Valafar von Koa'ki Meiru",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Während jeder deiner End Phasen, zerstöre diese Karte, es sei denn, du legst 1 „Eisenkern von Koa'ki Meiru“ von deiner Hand auf den Friedhof. Du kannst dieses Monster als Tributbeschwörung beschwören, indem du 1 „Koa'ki Meiru“-Monster als Tribut anbietest. Diese Karte kann nicht durch die Effekte von Fallenkarten zerstört werden. Während eines Kampfes zwischen dieser angreifenden Karte und einem Monster in Verteidigungsposition, dessen DEF niedriger sind als die ATK dieser Karte, füge die Differenz deinem Gegner als Kampfschaden zu.",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/06/04",
+  "species_id": 3,
+  "starchip": "8"
+}

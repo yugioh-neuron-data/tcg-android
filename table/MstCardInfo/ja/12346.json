@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 12346,
+  "card_name": "光虫異変",
+  "card_name_label": "バグ・エマージェンシー",
+  "card_name_search": "ばぐえまーじぇんしー",
+  "card_pen_effect": "",
+  "card_text": "「光虫異変」は１ターンに１枚しか発動できない。①：自分の墓地の昆虫族・レベル３モンスター２体を対象として発動できる。そのモンスターを特殊召喚する。この効果で特殊召喚したモンスターの効果は無効化される。②：自分の墓地からこのカードとXモンスター１体を除外して発動できる。自分フィールドの全ての昆虫族・レベル３モンスターのレベルはターン終了時まで、除外したXモンスターのランクと同じ数値のレベルになる。この効果の発動後、ターン終了時まで自分は昆虫族モンスターしか特殊召喚できない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/01/09",
+  "species_id": 25,
+  "starchip": "0"
+}

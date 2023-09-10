@@ -1,0 +1,776 @@
+[
+  {
+    "card_count": 1,
+    "card_id": 10223,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR001",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10224,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR002",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10225,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR003",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10226,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR004",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10227,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR005",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10228,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR006",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10229,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR007",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10230,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR008",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10231,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR009",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10232,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR010",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10233,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR011",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10234,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR012",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10235,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR013",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10236,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR014",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10237,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR015",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10238,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR016",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10239,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR017",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10240,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR018",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10241,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR019",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10242,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR020",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10243,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR021",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10244,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR022",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10245,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR023",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10246,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR024",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10247,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR025",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10248,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR026",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10249,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR027",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10250,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR028",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10251,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR029",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10252,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR030",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10253,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR031",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10254,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR032",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10255,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR033",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10256,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR034",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10257,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR035",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10258,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR036",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10259,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR037",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10260,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR038",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10261,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR039",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 10261,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR039",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 10261,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR039",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 7
+  },
+  {
+    "card_count": 1,
+    "card_id": 10262,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR040",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 10262,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR040",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 10263,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR041",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10264,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR042",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10265,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR043",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10266,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR044",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 10266,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR044",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 10267,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR045",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 10267,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR045",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 10268,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR046",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 10268,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR046",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 10269,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR047",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10270,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR048",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10271,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR049",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10272,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR050",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10273,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR051",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10274,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR052",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10275,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR053",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10276,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR054",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10277,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR055",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10278,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR056",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10279,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR057",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10280,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR058",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10281,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR059",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10282,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR060",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10283,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR061",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10284,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR062",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10285,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR063",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10286,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR064",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10287,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR065",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10288,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR066",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10289,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR067",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10290,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR068",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10291,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR069",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10292,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR070",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10293,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR071",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10294,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR072",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10295,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR073",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10296,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR074",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10297,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR075",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10298,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR076",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10299,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR077",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10300,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR078",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10301,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR079",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10302,
+    "card_image_id": 1,
+    "card_number": "ABYR-KR080",
+    "language": "ko",
+    "pack_id": "71110004",
+    "rarity_id": 2
+  }
+]

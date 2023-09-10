@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 5,
+  "card_id": 8523,
+  "card_name": "コアキメイル・グールズスレイブ",
+  "card_name_label": "コアキメイル・グールズスレイブ",
+  "card_name_search": "こあきめいるぐーるずすれいぶ",
+  "card_pen_effect": "",
+  "card_text": "このカードのコントローラーは自分のエンドフェイズ毎に手札から「コアキメイルの鋼核」１枚を墓地へ送るか、手札のアンデット族モンスター１体を相手に見せる。または、どちらも行わずにこのカードを破壊する。自分フィールド上に存在する「コアキメイル」と名のついたモンスター１体が戦闘またはカードの効果によって破壊される場合、代わりに自分の墓地に存在する「コアキメイル」と名のついたモンスター１体をゲームから除外する事ができる。",
+  "defense_power": "1700",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/09/18",
+  "species_id": 2,
+  "starchip": "5"
+}

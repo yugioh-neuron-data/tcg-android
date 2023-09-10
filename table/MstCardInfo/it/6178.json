@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 6,
+  "card_id": 6178,
+  "card_name": "Insetto Finale LV3",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se questa carta è stata Evocata tramite Evocazione Speciale per effetto di \"%c6097\", fino a quando questa carta resta sul Terreno, diminuisci l'ATK di tutti i Mostri del tuo avversario di 300 punti. Durante la Standby Phase del tuo turno, manda questa carta scoperta al Cimitero per Evocare tramite Evocazione Speciale \"%c6238\" dalla tua mano o dal tuo Deck (eccetto il turno in cui questa carta viene Evocata tramite Evocazione Normale, Evocazione Speciale o scoperta).",
+  "defense_power": "900",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/12/01",
+  "species_id": 10,
+  "starchip": "3"
+}

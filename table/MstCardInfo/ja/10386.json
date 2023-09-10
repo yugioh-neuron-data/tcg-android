@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 4,
+  "card_id": 10386,
+  "card_name": "威炎星－ヒエンシャク",
+  "card_name_label": "いえんせい－ヒエンシャク",
+  "card_name_search": "いえんせいひえんしゃく",
+  "card_pen_effect": "",
+  "card_text": "このカードは自分フィールド上に表側表示で存在する「炎舞」と名のついた魔法・罠カード３枚を墓地へ送り、手札から特殊召喚できる。このカードが召喚・特殊召喚に成功した時、デッキから「炎舞」と名のついた罠カード１枚を選んで自分フィールド上にセットできる。「威炎星－ヒエンシャク」のこの効果は１ターンに１度しか使用できない。また、このカードがフィールド上に表側表示で存在する限り、自分フィールド上の獣戦士族モンスターは相手のカードの効果の対象にならない。",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/11/17",
+  "species_id": 12,
+  "starchip": "5"
+}

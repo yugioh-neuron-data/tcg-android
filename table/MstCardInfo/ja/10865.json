@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10865,
+  "card_name": "ハーピィ・レディ －鳳凰の陣－",
+  "card_name_label": "ハーピィ・レディ　－ほうおうのじん－",
+  "card_name_search": "はーぴぃれでぃほうおうのじん",
+  "card_pen_effect": "",
+  "card_text": "このカードを発動するターン、自分はデッキ・EXデッキからモンスターを特殊召喚できず、バトルフェイズを行えない。①：自分フィールドに「ハーピィ・レディ」「ハーピィ・レディ三姉妹」が合計３体以上存在する場合、その数まで可能な限り相手フィールドのモンスターを対象として発動できる。対象のモンスターを破壊し、破壊したモンスターの内、元々の攻撃力が一番高いモンスターのその数値分のダメージを相手に与える。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/09/13",
+  "species_id": 24,
+  "starchip": "0"
+}

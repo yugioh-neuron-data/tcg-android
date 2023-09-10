@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 1,
+  "card_id": 6531,
+  "card_name": "魔導獣 ケルベロス",
+  "card_name_label": "マジックビースト　ケルベロス",
+  "card_name_search": "まじっくびーすとけるべろす",
+  "card_pen_effect": "",
+  "card_text": "①：このカードがモンスターゾーンに存在する限り、自分または相手が魔法カードを発動する度に、このカードに魔力カウンターを１つ置く。②：このカードの攻撃力は、このカードの魔力カウンターの数×５００アップする。③：このカードが戦闘を行ったバトルフェイズ終了時にこのカードの魔力カウンターは全て取り除かれる。",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/09/22",
+  "species_id": 18,
+  "starchip": "4"
+}

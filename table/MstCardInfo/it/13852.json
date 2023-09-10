@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 13852,
+  "card_name": "Maestro Armatura Completa Alanera",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Tuner \"Alanera\" + 1+ mostri non-Tuner$NImmune agli effetti delle altre carte. Ogni volta che un mostro dell'avversario attiva il suo effetto, metti 1 Segnalino Cuneo su quel mostro dell'avversario (massimo 1) dopo che quell'effetto si è risolto. Una volta per turno: puoi scegliere come bersaglio 1 mostro controllato dal tuo avversario con un Segnalino Cuneo; prendine il controllo. Una volta per turno, durante la tua End Phase: puoi distruggere tutti i mostri sul Terreno che hanno un Segnalino Cuneo.",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/09/27",
+  "species_id": 16,
+  "starchip": "10"
+}

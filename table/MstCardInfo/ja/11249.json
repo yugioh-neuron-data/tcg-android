@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 2,
+  "card_id": 11249,
+  "card_name": "黒魔導戦士 ブレイカー",
+  "card_name_label": "くろまどうせんし　ブレイカー",
+  "card_name_search": "くろまどうせんしぶれいかー",
+  "card_pen_effect": "",
+  "card_text": "「黒魔導戦士 ブレイカー」の④の効果は１ターンに１度しか使用できない。①：このカードが召喚に成功した場合に発動する。このカードに魔力カウンターを２つ置く。②：このカードがP召喚に成功した場合に発動する。このカードに魔力カウンターを３つ置く。③：このカードの攻撃力は、このカードの魔力カウンターの数×４００アップする。④：このカードの魔力カウンターを１つ取り除き、フィールドの魔法・罠カード１枚を対象として発動できる。そのカードを破壊する。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/04/19",
+  "species_id": 18,
+  "starchip": "6"
+}

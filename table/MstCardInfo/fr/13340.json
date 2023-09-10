@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 13340,
+  "card_name": "Peinture Aurorale Météorologique",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Les Monstres à Effet \"Météorologique\" dans vos Zones Monstre Main de la colonne de cette carte et de ses colonnes adjacentes gagnent cet effet.$N●Lorsqu'exactement 1 carte est ajoutée à la main d'un joueur (sauf durant la Damage Step) : vous pouvez bannir cette carte ; bannissez la carte ajoutée, et si vous le faites, le joueur pioche 1 carte.$NVous ne pouvez contrôler qu'1 \"Peinture Aurorale Météorologique\".",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/11/16",
+  "species_id": 25,
+  "starchip": "0"
+}

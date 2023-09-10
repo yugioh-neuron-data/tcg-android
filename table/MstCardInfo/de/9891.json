@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 2,
+  "card_id": 9891,
+  "card_name": "Insektor Hornisse",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Einmal pro Spielzug: Du kannst diese Karte mit 1 „Insektor“-Monster von deiner Hand oder deinem Friedhof ausrüsten. Solange diese Karte ein Monster ausrüstet, ist die Stufe des Monsters um 3 erhöht, zusätzlich erhält es ATK/DEF in Höhe der ATK/DEF dieser Karte. Solange diese Karte ein Monster ausrüstet: Du kannst diese Ausrüstungskarte auf den Friedhof legen und dann 1 Karte auf dem Spielfeld wählen; zerstöre das gewählte Ziel.",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/01/19",
+  "species_id": 10,
+  "starchip": "3"
+}

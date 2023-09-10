@@ -1,0 +1,23 @@
+{
+  "attack_power": "-1",
+  "attribute_id": 2,
+  "card_id": 7522,
+  "card_name": "邪龍アナンタ",
+  "card_name_label": "じゃりゅうアナンタ",
+  "card_name_search": "じゃりゅうあなんた",
+  "card_pen_effect": "",
+  "card_text": "このカードは通常召喚できない。自分の墓地及び自分フィールドの表側表示モンスターの中から、爬虫類族モンスターを全て除外した場合のみ特殊召喚できる。①：このカードの攻撃力・守備力は、このカードを特殊召喚するために除外したモンスターの数×６００になる。②：自分エンドフェイズに、フィールドのカード１枚を対象として発動する。このカードが自分フィールドに表側表示で存在する場合、対象のカードを破壊する。",
+  "defense_power": "-1",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/12/22",
+  "species_id": 20,
+  "starchip": "8"
+}

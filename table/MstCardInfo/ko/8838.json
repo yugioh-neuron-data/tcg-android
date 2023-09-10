@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 8838,
+  "card_name": "파워 프레임",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "자신 필드 위에 앞면 표시로 존재하는 몬스터가 그 공격력보다도 높은 공격력을 가진 몬스터의 공격 대상으로 선택되었을 때, 발동할 수 있다. 그 공격을 무효로 하고, 이 카드를 공격 대상 몬스터 1장에 장착한다. 장착 몬스터의 공격력은 그때의 공격 몬스터와 공격 대상 몬스터의 공격력의 차만큼 올린다.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/04/19",
+  "species_id": 25,
+  "starchip": "0"
+}

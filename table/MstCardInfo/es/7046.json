@@ -1,0 +1,23 @@
+{
+  "attack_power": "2300",
+  "attribute_id": 1,
+  "card_id": 7046,
+  "card_name": "Neo-Parsath, el Paladín del Cielo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Puedes Invocar esta carta de Modo Especial (desde tu mano), Sacrificando 1 \"Caballero del Aire Parsath\". Si esta carta ataca un monstruo en Posición de Defensa, inflige daño de batalla de penetración. Si esta carta inflige daño de batalla a tu adversario: roba 1 carta. Mientras \"El Santuario en el Cielo\" esté en el Campo y tus LP sean mayores a los de tu adversario, esta carta gana ATK/DEF igual a la diferencia entre los LP.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/02/28",
+  "species_id": 17,
+  "starchip": "7"
+}

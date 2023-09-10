@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 13085,
+  "card_name": "Dragon Bombe Topologique",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2+ Monstres à Effet$NSi un autre monstre est Invoqué Spécialement dans une zone pointée par un Monstre Lien, tant que ce monstre est sur le Terrain : détruisez tous les monstres dans les Zones Monstre Main, et aussi, vos autres monstres ne peuvent pas attaquer le reste de ce tour. Après le calcul des dommages, si cette carte a attaqué un monstre de l'adversaire : infligez des dommages à votre adversaire égaux à l'ATK d'origine du monstre.",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "8123",
+  "linkno": "4",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/08/03",
+  "species_id": 27,
+  "starchip": ""
+}

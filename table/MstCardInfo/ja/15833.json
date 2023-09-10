@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15833,
+  "card_name": "氷結界の晶壁",
+  "card_name_label": "ひょうけっかいのしょうへき",
+  "card_name_search": "ひょうけっかいのしょうへき",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：このカードの発動時に、自分の墓地のレベル４以下の「氷結界」モンスター１体を対象にできる。その場合、そのモンスターを特殊召喚する。②：このカードが魔法＆罠ゾーンに存在し、自分フィールドに「氷結界」モンスターが３体以上存在する限り、自分フィールドの「氷結界」モンスターはEXデッキから特殊召喚された相手モンスターが発動した効果を受けない。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/11/21",
+  "species_id": 24,
+  "starchip": "0"
+}

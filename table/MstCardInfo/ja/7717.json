@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 1,
+  "card_id": 7717,
+  "card_name": "メンタルプロテクター",
+  "card_name_label": "メンタルプロテクター",
+  "card_name_search": "めんたるぷろてくたー",
+  "card_pen_effect": "",
+  "card_text": "このカードのコントローラーは自分のスタンバイフェイズ毎に５００ライフポイントを払う。この時に５００ライフポイント払えない場合はこのカードを破壊する。このカードがフィールド上に表側表示で存在する限り、サイキック族モンスター以外の攻撃力２０００以下のモンスターは攻撃宣言をする事ができない。",
+  "defense_power": "2200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/04/19",
+  "species_id": 21,
+  "starchip": "3"
+}

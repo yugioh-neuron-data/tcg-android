@@ -1,0 +1,23 @@
+{
+  "attack_power": "2100",
+  "attribute_id": 2,
+  "card_id": 14123,
+  "card_name": "デトネイト・デリーター",
+  "card_name_label": "デトネイト・デリーター",
+  "card_name_search": "でとねいとでりーたー",
+  "card_pen_effect": "",
+  "card_text": "サイバース族モンスター２体以上$N①：１ターンに１度、リンク３以上のリンクモンスターを除く、表側表示モンスターとこのカードが戦闘を行うダメージステップ開始時に発動できる。そのモンスターを破壊する。②：１ターンに１度、このカードのリンク先の自分のモンスター１体をリリースし、相手フィールドのモンスター１体を対象として発動できる。そのモンスターを破壊する。",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "461",
+  "linkno": "3",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/10/13",
+  "species_id": 27,
+  "starchip": ""
+}

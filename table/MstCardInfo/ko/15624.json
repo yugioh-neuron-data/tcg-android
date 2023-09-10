@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 1,
+  "card_id": 15624,
+  "card_name": "Live☆Twin 키스킬",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드명의 ①의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 일반 소환 / 특수 소환에 성공했을 경우, 자신 필드에 다른 몬스터가 존재하지 않으면 발동할 수 있다. 패 / 덱에서 \"리일라\" 몬스터 1장을 특수 소환한다. ②: 이 카드가 몬스터 존에 존재하는 한, 상대 몬스터가 공격 선언할 때마다, 자신은 500 LP 회복한다.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/12/11",
+  "species_id": 27,
+  "starchip": "2"
+}

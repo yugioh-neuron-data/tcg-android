@@ -1,0 +1,23 @@
+{
+  "attack_power": "1900",
+  "attribute_id": 3,
+  "card_id": 9657,
+  "card_name": "潜航母艦エアロ・シャーク",
+  "card_name_label": "せんこうぼかんエアロ・シャーク",
+  "card_name_search": "せんこうぼかんえあろしゃーく",
+  "card_pen_effect": "",
+  "card_text": "レベル３モンスター×２$N１ターンに１度、このカードのエクシーズ素材を１つ取り除いて発動できる。ゲームから除外されている自分のモンスターの数×１００ポイントダメージを相手ライフに与える。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/04/16",
+  "species_id": 8,
+  "starchip": "3"
+}

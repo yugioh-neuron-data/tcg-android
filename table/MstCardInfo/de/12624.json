@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 2,
+  "card_id": 12624,
+  "card_name": "Schmuckkästchen der Pandora",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Solange du keine Karten in deinem Extra Deck hast: Du kannst 1 Karte in der Pendelzone deines Gegners wählen; zerstöre sie und falls du dies tust, lege diese Karte in die Pendelzone deines Gegners.",
+  "card_text": "Solange du keine Karten in deinem Extra Deck hast, ziehe 2 Karten anstatt 1 für dein normales Ziehen während deiner Draw Phase.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "4",
+  "pen_scale_r": "4",
+  "sales_at": "2016/11/03",
+  "species_id": 26,
+  "starchip": "4"
+}

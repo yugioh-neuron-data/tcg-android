@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14733,
+  "card_name": "Forteresse de Feu sur Liang Peak",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "(Cette carte est toujours traitée comme une carte \"Formation Feu\".)$NChaque fois qu'un ou plusieurs monstres \"Poing de Feu\" sont Invoqués Normalement ou Spécialement, placez 1 Compteur Poing de Feu sur cette carte. Une fois par tour : vous pouvez retirer des Compteurs Poing de Feu depuis votre Terrain pour activer 1 de ces effets.$N●2 : Si votre monstre Bête-Guerrier attaque ce tour, votre adversaire ne peut activer ni de cartes ni d'effets jusqu'à la fin de la Damage Step.$N●6 : Ajoutez 1 monstre Bête-Guerrier depuis votre Deck à votre main.$N●10 : Invoquez Spécialement 1 monstre Bête-Guerrier depuis votre Deck ou Extra Deck, en ignorant ses conditions d'Invocation.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/08/22",
+  "species_id": 24,
+  "starchip": "0"
+}

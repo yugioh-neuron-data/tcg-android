@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 1,
+  "card_id": 13884,
+  "card_name": "レイン・ボーズ",
+  "card_name_label": "レイン・ボーズ",
+  "card_name_search": "れいんぼーず",
+  "card_pen_effect": "①：１ターンに１度、自分フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターの攻撃力はターン終了時まで、お互いのEXデッキの枚数の差×１００アップする。",
+  "card_text": "①：このカードは、自分ターンの間は攻撃力が、相手ターンの間は守備力が、お互いのEXデッキの枚数の差×２００アップする。②：このカードは攻撃した場合、バトルフェイズ終了時に守備表示になる。③：モンスターゾーンのこのカードが破壊された場合に発動できる。このカードを自分のPゾーンに置く。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "8",
+  "pen_scale_r": "8",
+  "sales_at": "2018/05/27",
+  "species_id": 17,
+  "starchip": "7"
+}

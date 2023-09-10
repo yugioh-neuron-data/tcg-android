@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 7922,
+  "card_name": "プライドの咆哮",
+  "card_name_label": "プライドのほうこう",
+  "card_name_search": "ぷらいどのほうこう",
+  "card_pen_effect": "",
+  "card_text": "戦闘ダメージ計算時、自分のモンスターの攻撃力が相手モンスターより低い場合、その攻撃力の差分のライフポイントを払って発動する。ダメージ計算時のみ、自分のモンスターの攻撃力は相手モンスターとの攻撃力の差の数値＋３００ポイントアップする。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/07/19",
+  "species_id": 25,
+  "starchip": "0"
+}

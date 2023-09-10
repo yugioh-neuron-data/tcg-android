@@ -1,0 +1,956 @@
+[
+  {
+    "card_count": 1,
+    "card_id": 7508,
+    "card_image_id": 1,
+    "card_number": "CROS-EN091",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10839,
+    "card_image_id": 1,
+    "card_number": "CROS-EN090",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10977,
+    "card_image_id": 1,
+    "card_number": "CROS-EN094",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10982,
+    "card_image_id": 1,
+    "card_number": "CROS-EN092",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10983,
+    "card_image_id": 1,
+    "card_number": "CROS-EN093",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 11303,
+    "card_image_id": 1,
+    "card_number": "CROS-EN097",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11304,
+    "card_image_id": 1,
+    "card_number": "CROS-EN098",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11332,
+    "card_image_id": 1,
+    "card_number": "CROS-EN096",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11461,
+    "card_image_id": 1,
+    "card_number": "CROS-EN095",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 11657,
+    "card_image_id": 1,
+    "card_number": "CROS-EN099",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 11676,
+    "card_image_id": 1,
+    "card_number": "CROS-EN001",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11677,
+    "card_image_id": 1,
+    "card_number": "CROS-EN002",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11678,
+    "card_image_id": 1,
+    "card_number": "CROS-EN003",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11679,
+    "card_image_id": 1,
+    "card_number": "CROS-EN004",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11680,
+    "card_image_id": 1,
+    "card_number": "CROS-EN005",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11681,
+    "card_image_id": 1,
+    "card_number": "CROS-EN006",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11682,
+    "card_image_id": 1,
+    "card_number": "CROS-EN007",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11683,
+    "card_image_id": 1,
+    "card_number": "CROS-EN008",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 11684,
+    "card_image_id": 1,
+    "card_number": "CROS-EN009",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11685,
+    "card_image_id": 1,
+    "card_number": "CROS-EN010",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11686,
+    "card_image_id": 1,
+    "card_number": "CROS-EN011",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11687,
+    "card_image_id": 1,
+    "card_number": "CROS-EN012",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11688,
+    "card_image_id": 1,
+    "card_number": "CROS-EN013",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11689,
+    "card_image_id": 1,
+    "card_number": "CROS-EN014",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11690,
+    "card_image_id": 1,
+    "card_number": "CROS-EN015",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11691,
+    "card_image_id": 1,
+    "card_number": "CROS-EN016",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11692,
+    "card_image_id": 1,
+    "card_number": "CROS-EN017",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11693,
+    "card_image_id": 1,
+    "card_number": "CROS-EN018",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11694,
+    "card_image_id": 1,
+    "card_number": "CROS-EN019",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11695,
+    "card_image_id": 1,
+    "card_number": "CROS-EN020",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 11696,
+    "card_image_id": 1,
+    "card_number": "CROS-EN021",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11697,
+    "card_image_id": 1,
+    "card_number": "CROS-EN022",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11698,
+    "card_image_id": 1,
+    "card_number": "CROS-EN023",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11699,
+    "card_image_id": 1,
+    "card_number": "CROS-EN024",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 11700,
+    "card_image_id": 1,
+    "card_number": "CROS-EN025",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11701,
+    "card_image_id": 1,
+    "card_number": "CROS-EN026",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11702,
+    "card_image_id": 1,
+    "card_number": "CROS-EN027",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11703,
+    "card_image_id": 1,
+    "card_number": "CROS-EN028",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11704,
+    "card_image_id": 1,
+    "card_number": "CROS-EN029",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11705,
+    "card_image_id": 1,
+    "card_number": "CROS-EN030",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 11706,
+    "card_image_id": 1,
+    "card_number": "CROS-EN031",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11707,
+    "card_image_id": 1,
+    "card_number": "CROS-EN032",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 11708,
+    "card_image_id": 1,
+    "card_number": "CROS-EN033",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 11709,
+    "card_image_id": 1,
+    "card_number": "CROS-EN034",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11710,
+    "card_image_id": 1,
+    "card_number": "CROS-EN035",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11711,
+    "card_image_id": 1,
+    "card_number": "CROS-EN036",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11712,
+    "card_image_id": 1,
+    "card_number": "CROS-EN037",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11713,
+    "card_image_id": 1,
+    "card_number": "CROS-EN038",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 11713,
+    "card_image_id": 1,
+    "card_number": "CROS-EN038",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 11714,
+    "card_image_id": 1,
+    "card_number": "CROS-EN039",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11715,
+    "card_image_id": 1,
+    "card_number": "CROS-EN040",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 11716,
+    "card_image_id": 1,
+    "card_number": "CROS-EN041",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 11717,
+    "card_image_id": 1,
+    "card_number": "CROS-EN042",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 11718,
+    "card_image_id": 1,
+    "card_number": "CROS-EN043",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11718,
+    "card_image_id": 1,
+    "card_number": "CROS-EN043",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 11719,
+    "card_image_id": 1,
+    "card_number": "CROS-EN044",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 11720,
+    "card_image_id": 1,
+    "card_number": "CROS-EN045",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 11720,
+    "card_image_id": 1,
+    "card_number": "CROS-EN045",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 11721,
+    "card_image_id": 1,
+    "card_number": "CROS-EN046",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 11721,
+    "card_image_id": 1,
+    "card_number": "CROS-EN046",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 11721,
+    "card_image_id": 1,
+    "card_number": "CROS-EN046",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 7
+  },
+  {
+    "card_count": 1,
+    "card_id": 11722,
+    "card_image_id": 1,
+    "card_number": "CROS-EN047",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 11723,
+    "card_image_id": 1,
+    "card_number": "CROS-EN048",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11724,
+    "card_image_id": 1,
+    "card_number": "CROS-EN049",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11725,
+    "card_image_id": 1,
+    "card_number": "CROS-EN050",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 11725,
+    "card_image_id": 1,
+    "card_number": "CROS-EN050",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 11726,
+    "card_image_id": 1,
+    "card_number": "CROS-EN051",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 11727,
+    "card_image_id": 1,
+    "card_number": "CROS-EN052",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11728,
+    "card_image_id": 1,
+    "card_number": "CROS-EN053",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11729,
+    "card_image_id": 1,
+    "card_number": "CROS-EN054",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11730,
+    "card_image_id": 1,
+    "card_number": "CROS-EN055",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11731,
+    "card_image_id": 1,
+    "card_number": "CROS-EN056",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11732,
+    "card_image_id": 1,
+    "card_number": "CROS-EN057",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11733,
+    "card_image_id": 1,
+    "card_number": "CROS-EN058",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11734,
+    "card_image_id": 1,
+    "card_number": "CROS-EN059",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11735,
+    "card_image_id": 1,
+    "card_number": "CROS-EN060",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 11736,
+    "card_image_id": 1,
+    "card_number": "CROS-EN061",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 11737,
+    "card_image_id": 1,
+    "card_number": "CROS-EN062",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 11738,
+    "card_image_id": 1,
+    "card_number": "CROS-EN063",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11739,
+    "card_image_id": 1,
+    "card_number": "CROS-EN064",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11740,
+    "card_image_id": 1,
+    "card_number": "CROS-EN065",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 11741,
+    "card_image_id": 1,
+    "card_number": "CROS-EN066",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11742,
+    "card_image_id": 1,
+    "card_number": "CROS-EN067",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11743,
+    "card_image_id": 1,
+    "card_number": "CROS-EN068",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11744,
+    "card_image_id": 1,
+    "card_number": "CROS-EN069",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11745,
+    "card_image_id": 1,
+    "card_number": "CROS-EN070",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11746,
+    "card_image_id": 1,
+    "card_number": "CROS-EN071",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11747,
+    "card_image_id": 1,
+    "card_number": "CROS-EN072",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 11748,
+    "card_image_id": 1,
+    "card_number": "CROS-EN073",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11749,
+    "card_image_id": 1,
+    "card_number": "CROS-EN074",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 11750,
+    "card_image_id": 1,
+    "card_number": "CROS-EN075",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 11751,
+    "card_image_id": 1,
+    "card_number": "CROS-EN076",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11752,
+    "card_image_id": 1,
+    "card_number": "CROS-EN077",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11753,
+    "card_image_id": 1,
+    "card_number": "CROS-EN078",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11754,
+    "card_image_id": 1,
+    "card_number": "CROS-EN079",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 11755,
+    "card_image_id": 1,
+    "card_number": "CROS-EN080",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11770,
+    "card_image_id": 1,
+    "card_number": "CROS-EN000",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11771,
+    "card_image_id": 1,
+    "card_number": "CROS-EN081",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11772,
+    "card_image_id": 1,
+    "card_number": "CROS-EN082",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 11773,
+    "card_image_id": 1,
+    "card_number": "CROS-EN083",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 11774,
+    "card_image_id": 1,
+    "card_number": "CROS-EN084",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 11775,
+    "card_image_id": 1,
+    "card_number": "CROS-EN085",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 11776,
+    "card_image_id": 1,
+    "card_number": "CROS-EN086",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11777,
+    "card_image_id": 1,
+    "card_number": "CROS-EN087",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11778,
+    "card_image_id": 1,
+    "card_number": "CROS-EN088",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11779,
+    "card_image_id": 1,
+    "card_number": "CROS-EN089",
+    "language": "en",
+    "pack_id": "11114003",
+    "rarity_id": 1
+  }
+]

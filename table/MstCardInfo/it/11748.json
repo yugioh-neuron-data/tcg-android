@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 11748,
+  "card_name": "Purificazione del Vuoto",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se controlli un mostro che non è un mostro \"Infernoid\", manda questa carta al Cimitero. Puoi utilizzare ognuno di questi effetti di \"Purificazione del Vuoto\" una sola volta per turno.$N●Durante ogni Standby Phase del tuo avversario: puoi scegliere come bersaglio 1 mostro \"Infernoid\" nel tuo Cimitero; aggiungilo alla tua mano.$N●Durante ogni tua Standby Phase: puoi scegliere come bersaglio 1 dei tuoi mostri \"Infernoid\" banditi; fallo ritornare nel Cimitero.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/05/14",
+  "species_id": 25,
+  "starchip": "0"
+}

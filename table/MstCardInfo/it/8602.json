@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 8602,
+  "card_name": "Portale dei Sei",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Ogni volta che uno o più mostri \"Sei Samurai\" vengono Evocati Normalmente o Specialmente, metti 2 Segnalini Bushido su questa carta. Puoi rimuovere Segnalini Bushido dal tuo Terreno per attivare questi effetti.$N●2 Segnalini: Scegli come bersaglio 1 Mostro con Effetto \"Sei Samurai\" o \"Shien\"; quel bersaglio guadagna 500 ATK fino alla fine di questo turno.$N●4 Segnalini: Aggiungi 1 mostro \"Sei Samurai\" dal tuo Deck o Cimitero alla tua mano.$N●6 Segnalini: Scegli come bersaglio 1 Mostro con Effetto \"Shien\" nel tuo Cimitero; Evoca Specialmente quel bersaglio.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/11/12",
+  "species_id": 24,
+  "starchip": "0"
+}

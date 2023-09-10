@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15375,
+  "card_name": "애프터 글로",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드명의 카드는 듀얼 중에 1장밖에 발동할 수 없다. ①: 자신의 패 / 덱 / 묘지 및 자신 필드의 앞면 표시의 카드 중에서, 이 카드를 포함하는 \"애프터 글로\"를 전부 제외한다. 그 후, 제외되어 있는 자신의 카드 중에서 \"애프터 글로\" 1장을 고르고 덱에 넣는다. 다음 자신 드로우 페이즈에, 일반 드로우를 한 카드를 서로 확인한다. 그 카드가 \"애프터 글로\"였을 경우, 상대에게 4000 데미지를 준다.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/09/09",
+  "species_id": 24,
+  "starchip": "0"
+}

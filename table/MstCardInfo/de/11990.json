@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 11990,
+  "card_name": "Narblicht-Rotdrachen-Erzunterweltler",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Empfänger + 1+ Nicht-Empfänger-Monster$NDer Name dieser Karte wird zu „Rotdrachen-Erzunterweltler“, solange sie auf dem Spielfeld oder im Friedhof liegt. Einmal pro Spielzug: Du kannst so viele als Spezialbeschwörung beschworene Effektmonster auf dem Spielfeld, deren ATK kleiner oder gleich den ATK dieser Karte sind, (außer dieser Karte) zerstören wie möglich, dann füge deinem Gegner für jedes zerstörte Monster 500 Schaden zu.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/11/05",
+  "species_id": 1,
+  "starchip": "8"
+}

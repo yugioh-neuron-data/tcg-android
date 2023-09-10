@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 3,
+  "card_id": 10218,
+  "card_name": "海皇龍 ポセイドラ",
+  "card_name_label": "かいおうりゅう　ポセイドラ",
+  "card_name_search": "かいおうりゅうぽせいどら",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上のレベル３以下の水属性モンスター３体をリリースして発動できる。このカードを手札または墓地から特殊召喚する。この効果で特殊召喚に成功した時、フィールド上の魔法・罠カードを全て持ち主の手札に戻す。この効果でカードを３枚以上手札に戻した場合、相手フィールド上の全てのモンスターの攻撃力は手札に戻したカードの数×３００ポイントダウンする。",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/06/16",
+  "species_id": 5,
+  "starchip": "7"
+}

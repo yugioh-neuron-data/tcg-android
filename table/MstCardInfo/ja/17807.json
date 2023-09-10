@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 17807,
+  "card_name": "黒羽の旋風",
+  "card_name_label": "くろはねのせんぷう",
+  "card_name_search": "くろはねのせんぷう",
+  "card_pen_effect": "",
+  "card_text": "①：１ターンに１度、自分がEXデッキから闇属性Sモンスターを特殊召喚した場合、自分の墓地のモンスター及び除外されている自分のモンスターの中から、その特殊召喚したモンスターより攻撃力が低い、「BF」モンスターまたは「ブラックフェザー・ドラゴン」１体を対象として発動できる。そのモンスターを特殊召喚する。②：１ターンに１度、自分フィールドの闇属性モンスターが戦闘・効果で破壊される場合、代わりに自分フィールドの黒羽カウンターを１つ取り除く事ができる。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/07/16",
+  "species_id": 24,
+  "starchip": "0"
+}

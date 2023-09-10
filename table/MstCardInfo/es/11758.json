@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 5,
+  "card_id": 11758,
+  "card_name": "Landrobe, el Vasallo de las Rocas",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si esta carta está en tu mano: puedes seleccionar 1 monstruo boca arriba que controle tu adversario; por el resto de este turno, no puedes Invocar monstruos de Modo Especial desde el Deck Extra, y además Invoca esta carta de Modo Especial y, si lo haces, cambia ese monstruo a Posición de Defensa boca abajo. Si esta carta es Sacrificada para una Invocación por Sacrificio: puedes seleccionar 1 monstruo con 800 ATK y 1000 DEF en tu Cementerio, excepto \"Landrobe, el Vasallo de las Rocas\"; añádelo a tu mano. Sólo puedes usar cada efecto de \"Landrobe, el Vasallo de las Rocas\" una vez por turno.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/01/28",
+  "species_id": 6,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 4,
+  "card_id": 14803,
+  "card_name": "Roland, Chevalier Noble Inferno",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "(Effet Rapide) : vous pouvez cibler 1 monstre face recto que vous contrôlez ; équipez cette carte depuis votre main à la cible comme une Magie d'Équipement qui donne 500 ATK à la carte. Durant la End Phase, si cette carte est dans le Cimetière parce qu'elle y a été envoyée ce tour : vous pouvez ajouter 1 monstre FEU Guerrier (\"Roland, Chevalier Noble Inferno\" exclu) ou 1 Magie d'Équipement depuis votre Deck à votre main. Vous ne pouvez utiliser chaque effet de \"Roland, Chevalier Noble Inferno\" qu'une fois par tour.",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/06/18",
+  "species_id": 15,
+  "starchip": "1"
+}

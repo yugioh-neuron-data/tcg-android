@@ -1,0 +1,23 @@
+{
+  "attack_power": "2100",
+  "attribute_id": 2,
+  "card_id": 7240,
+  "card_name": "Frenesia Motore",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se questa carta viene Evocata Normalmente o Specialmente, o se uno o più altri mostri Macchina vengono Evocati Normalmente o Specialmente sul tuo Terreno: puoi attivare questo effetto; fino alla fine del turno del tuo avversario, quei mostri Evocati Normalmente o Specialmente guadagnano ATK pari alla metà del suo DEF originale, inoltre la sua posizione non può essere cambiata. Se questa carta Evocata tramite Tributo viene mandata al Cimitero: puoi Evocare Specialmente 2 \"Segna-Motore\" (Macchina/TERRA/Livello 1/ATK 200/DEF 200) in Posizione di Attacco. Puoi utilizzare ogni effetto di \"Frenesia Motore\" una sola volta per turno.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/05/19",
+  "species_id": 7,
+  "starchip": "6"
+}

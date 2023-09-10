@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 6449,
+  "card_name": "Preparados para Contraatacar",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cada vez que tu adversario declara un ataque a un monstruo en Posición de Defensa boca arriba, lanza una moneda y elige cara o cruz. Si aciertas, cambia el monstruo objetivo en Posición de Defensa boca arriba a Posición de Ataque. Si fallas, el controlador de esta carta recibe daño igual a la diferencia entre el ATK del monstruo atacante y la DEF del monstruo atacado.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/08/06",
+  "species_id": 25,
+  "starchip": "0"
+}

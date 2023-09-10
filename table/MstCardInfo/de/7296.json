@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 2,
+  "card_id": 7296,
+  "card_name": "Spieler der Legende",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Einmal pro Spielzug kannst du dreimal eine Münze werfen und den entsprechenden Effekt ausführen:$N●3mal Kopf: Zerstöre alle Monster, die dein Gegner kontrolliert.$N●2mal Kopf: Wirf 1 zufällige Karte von der Hand deines Gegners ab.$N●1mal Kopf: Zerstöre 1 Karte, die du kontrollierst.$N●3mal Zahl: Wirf deine komplette Hand ab.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/11/12",
+  "species_id": 18,
+  "starchip": "4"
+}

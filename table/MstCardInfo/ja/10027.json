@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 1,
+  "card_id": 10027,
+  "card_name": "タスケナイト",
+  "card_name_label": "タスケナイト",
+  "card_name_search": "たすけないと",
+  "card_pen_effect": "",
+  "card_text": "このカードが墓地に存在し、自分の手札が０枚の場合、相手モンスターの攻撃宣言時に発動できる。このカードを墓地から特殊召喚し、バトルフェイズを終了する。「タスケナイト」の効果はデュエル中に１度しか使用できない。",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/02/18",
+  "species_id": 15,
+  "starchip": "4"
+}

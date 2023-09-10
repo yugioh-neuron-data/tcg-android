@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 5,
+  "card_id": 11542,
+  "card_name": "Invisibile Qliphort",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Non puoi Evocare Specialmente mostri, eccetto mostri \"Qli\". Questo effetto non può essere annullato. Tutti i mostri \"Qli\" che controlli guadagnano 300 ATK.",
+  "card_text": "Puoi Evocare Normalmente questa carta senza offrire Tributi. Se questa carta viene Evocata Normalmente senza offrire Tributi, o se viene Evocata Specialmente, il suo Livello diventa 4 e il suo ATK originale diventa 1800. Se questa carta viene Evocata Normalmente/Posizionata, essa è immune agli effetti attivati di qualsiasi mostro il cui Livello/Rango originale è inferiore al Livello attuale di questa carta. Quando questa carta viene Evocata tramite Tributo offrendo come Tributo uno o più mostri \"Qli\": puoi scegliere come bersaglio 1 carta sul Terreno; falla ritornare nella mano. Il tuo avversario non può attivare carte o effetti in risposta all'attivazione di questo effetto.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2015/01/15",
+  "species_id": 7,
+  "starchip": "8"
+}

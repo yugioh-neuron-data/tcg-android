@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 1,
+  "card_id": 13740,
+  "card_name": "Volée Cupide",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Vous pouvez choisir un nombre entre 1 et 3, puis envoyez autant de cartes du dessus de votre Deck au Cimetière ; jusqu'à la fin de ce tour, augmentez le Niveau de cette carte du nombre de cartes envoyées au Cimetière de cette façon. Si cette carte que vous contrôlez est détruite par une carte de l'adversaire et envoyée à votre Cimetière : vous gagnez 1500 LP. Vous ne pouvez utiliser chaque effet de \"Volée Cupide\" qu'une fois par tour.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/07/26",
+  "species_id": 17,
+  "starchip": "1"
+}

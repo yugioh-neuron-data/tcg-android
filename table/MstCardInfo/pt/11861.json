@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 11861,
+  "card_name": "Furão de Chamas",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se o ATK combinado de todos os monstros com a face para cima que seu oponente controla for maior que seus PV: faça com que seu oponente embaralhe no Deck os monstros com a face para cima que ele controla (ele seleciona), exceto monstros com 0 de ATK, de forma que o ATK combinado dos monstros restantes que ele controla se torne igual ou menor que os seus PV.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/08/06",
+  "species_id": 25,
+  "starchip": "0"
+}

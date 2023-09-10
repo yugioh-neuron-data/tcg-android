@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 8822,
+  "card_name": "ZERO－MAX",
+  "card_name_label": "ゼロ－マックス",
+  "card_name_search": "ぜろまっくす",
+  "card_pen_effect": "",
+  "card_text": "自分の手札が０枚の場合、自分の墓地に存在する「インフェルニティ」と名のついたモンスター１体を選択して発動する事ができる。選択したモンスターを特殊召喚し、特殊召喚したモンスターの攻撃力より低い攻撃力を持つ、フィールド上に表側表示で存在するモンスターを全て破壊する。このカードを発動するターン、自分はバトルフェイズを行う事ができない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/02/20",
+  "species_id": 24,
+  "starchip": "0"
+}

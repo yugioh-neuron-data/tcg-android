@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14147,
+  "card_name": "サモンオーバー",
+  "card_name_label": "サモンオーバー",
+  "card_name_search": "さもんおーばー",
+  "card_pen_effect": "",
+  "card_text": "①：モンスターが特殊召喚される度にこのカードにサモンカウンターを１つ置く（最大６つまで）。②：サモンカウンターが６つ置かれているこのカードは効果では破壊されない。③：このカードにサモンカウンターが６つ置かれている場合に、お互いのプレイヤーは、自分メインフェイズ１開始時に発動できる。このカードを墓地へ送り、相手フィールドの特殊召喚されたモンスターを全て墓地へ送る。",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/10/13",
+  "species_id": 24,
+  "starchip": "0"
+}

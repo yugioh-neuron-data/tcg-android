@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 12572,
+  "card_name": "Finstere Zuflucht",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls eine „Geisternachricht“-Karte durch „Schicksalstafel“ auf deine Spielfeldseite gelegt würde, kannst du sie stattdessen als Spezialbeschwörung als Normales Monster (Unterweltler/FINSTERNIS/Stufe 1/ATK 0/DEF 0) beschwören und falls du dies tust, bleibt sie von Karteneffekten unberührt, außer von denen von „Schicksalstafel“, und kann nicht als Angriffsziel gewählt werden, aber verhindert nicht, dass dich dein Gegner direkt angreift. Wenn ein Monster eines Gegners einen Angriff deklariert: Wirf eine Münze und falls das Ergebnis Kopf ist, annulliere den Angriff und falls du dies tust, füge deinem Gegner Schaden in Höhe der Hälfte der derzeitigen ATK jenes Monsters des Gegners zu.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/09/15",
+  "species_id": 24,
+  "starchip": "0"
+}

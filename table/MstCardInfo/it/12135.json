@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 3,
+  "card_id": 12135,
+  "card_name": "Dinofoschia Brachion",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Una volta, mentre questa carta è nella tua Zona Pendulum, puoi annullare l'effetto attivato di una carta che sceglie come bersaglio una o più altre carte \"Dinofoschia\" che controlli, poi distruggi questa carta.",
+  "card_text": "Se non controlli \"Dinofoschia Brachion\" nella tua Zona Mostri e il tuo avversario controlla un mostro che ha l'ATK più alto sul Terreno (anche a pari merito), puoi Evocare Specialmente questa carta (dalla tua mano).",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "6",
+  "pen_scale_r": "6",
+  "sales_at": "2016/01/14",
+  "species_id": 7,
+  "starchip": "5"
+}

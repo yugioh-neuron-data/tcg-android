@@ -1,0 +1,23 @@
+{
+  "attack_power": "200",
+  "attribute_id": 6,
+  "card_id": 16220,
+  "card_name": "Aeropixdrei",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Einmal pro Spielzug (Schnelleffekt): Du kannst 1 offenes Monster, das dein Gegner kontrolliert, in der Spalte dieser Karte wählen; bewege diese Karte, die du kontrollierst, in eine andere deiner Main-Monsterzonen und falls du dies tust, bewege jenes Monster des Gegners in seine Main-Monsterzone in der Spalte dieser Karte, dann lege 1 Verbrennung-Zählmarke darauf. (Monster mit Verbrennung-Zählmarken verlieren für jede Verbrennung-Zählmarke auf ihnen 200 ATK/DEF.)",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/08/12",
+  "species_id": 17,
+  "starchip": "1"
+}

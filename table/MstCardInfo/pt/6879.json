@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 2,
+  "card_id": 6879,
+  "card_name": "Caçador Escondido",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Você pode descartar 1 card e, depois, escolher 1 card no campo; lance um dado de 6 faces e destrua o alvo, a não ser que o resultado seja 1 ou 6.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/10/11",
+  "species_id": 3,
+  "starchip": "4"
+}

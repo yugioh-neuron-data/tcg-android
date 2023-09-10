@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 2,
+  "card_id": 14645,
+  "card_name": "アロマージ－マジョラム",
+  "card_name_label": "アロマージ－マジョラム",
+  "card_name_search": "あろまーじまじょらむ",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①③の効果はそれぞれ１ターンに１度しか使用できない。①：自分の植物族モンスターが戦闘で破壊された時に発動できる。このカードを手札から特殊召喚する。その後、自分は５００LP回復する。②：自分のLPが相手より多く、このカードがモンスターゾーンに存在する限り、自分の植物族モンスターの戦闘で発生する自分への戦闘ダメージは０になる。③：自分のLPが回復した場合、自分フィールドの「アロマ」モンスターの数まで相手の墓地のカードを対象として発動する。そのカードを除外する。",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/07/13",
+  "species_id": 13,
+  "starchip": "5"
+}

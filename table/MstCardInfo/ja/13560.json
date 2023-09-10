@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 4,
+  "card_id": 13560,
+  "card_name": "デグレネード・バスター",
+  "card_name_label": "デグレネード・バスター",
+  "card_name_search": "でぐれねーどばすたー",
+  "card_pen_effect": "",
+  "card_text": "このカードは通常召喚できない。自分の墓地のサイバース族モンスター２体を除外した場合に特殊召喚できる。このカード名の効果は１ターンに１度しか使用できない。①：このカードの攻撃力より高い攻撃力を持つ相手フィールドのモンスター１体を対象として発動できる。そのモンスターをエンドフェイズまで除外する。この効果は相手ターンでも発動できる。",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/01/13",
+  "species_id": 27,
+  "starchip": "7"
+}

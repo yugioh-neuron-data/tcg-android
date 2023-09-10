@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 8062,
+  "card_name": "La Moitié ou Rien",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durant la Battle Phase de votre adversaire (sauf durant la Damage Step) : votre adversaire choisit 1 de ces effets.$N ●Jusqu'à la fin de la Battle Phase, divisez par deux l'ATK de tous les monstres qu'il contrôle actuellement.$N ●Terminez la Battle Phase.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/03/03",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 4956,
+  "card_name": "停戦協定",
+  "card_name_label": "ていせんきょうてい",
+  "card_name_search": "ていせんきょうてい",
+  "card_pen_effect": "",
+  "card_text": "①：フィールドに効果モンスターまたは裏側守備表示モンスターが存在する場合に発動できる。フィールドの裏側守備表示モンスターを全て表側守備表示にする。この時、リバースモンスターの効果は発動しない。フィールドの効果モンスターの数×５００ダメージを相手に与える。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2000/09/28",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 3,
+  "card_id": 14106,
+  "card_name": "Squirt Squid",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Once per turn, when this card is targeted for an attack by an opponent's monster: You can move this card you control to another of your Main Monster Zones, then, Special Summon 1 \"Squid Ink Token\" (Aqua/WATER/Level 2/ATK ?/DEF 0). This Token's ATK becomes that opponent's monster's ATK. While this card is in your leftmost or rightmost Main Monster Zone, your opponent's monsters with ATK less than or equal to this card's DEF cannot target it for attacks.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/02/01",
+  "species_id": 14,
+  "starchip": "2"
+}

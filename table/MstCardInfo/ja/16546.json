@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16546,
+  "card_name": "レプティレス・ラミフィケーション",
+  "card_name_label": "レプティレス・ラミフィケーション",
+  "card_name_search": "れぷてぃれすらみふぃけーしょん",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：手札を１枚墓地へ送り、以下の効果から２つを選択して発動できる。$N●デッキから「レプティレス」モンスター１体を手札に加える。$N●デッキから「レプティレス・ラミフィケーション」以外の「レプティレス」魔法・罠カード１枚を手札に加える。$N●相手フィールドのモンスター１体を選び、その攻撃力を０にする。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/07/17",
+  "species_id": 24,
+  "starchip": "0"
+}

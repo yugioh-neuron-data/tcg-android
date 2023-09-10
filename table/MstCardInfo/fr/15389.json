@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 3,
+  "card_id": 15389,
+  "card_name": "Loup Blizzard, Bête Glaciale",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsqu'un monstre déclare une attaque : vous pouvez annuler l'attaque, et si vous le faites, Invoquez Spécialement 1 monstre EAU de max. Niveau 4 (\"Loup Blizzard, Bête Glaciale\" exclu) depuis votre main. Au début de la Battle Phase de votre adversaire, si cette carte est dans votre Cimetière et que vous ne contrôlez aucun monstre : vous pouvez Invoquer Spécialement cette carte en Position d'Attaque, mais bannissez-la lorsqu'elle quitte le Terrain. Vous ne pouvez utiliser chaque effet de \"Loup Blizzard, Bête Glaciale\" qu'une fois par tour.",
+  "defense_power": "700",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/07/23",
+  "species_id": 14,
+  "starchip": "4"
+}

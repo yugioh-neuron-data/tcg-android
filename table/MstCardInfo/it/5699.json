@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 1,
+  "card_id": 5699,
+  "card_name": "Cavaliere Miraggio",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Non può essere Evocato Normalmente/Posizionato. Deve essere Evocato Specialmente da \"Cavaliere Fiamma Oscura\", e non può essere Evocato Specialmente in altri modi. Solamente durante il calcolo dei danni, questa carta guadagna ATK pari all'ATK originale del mostro con cui sta combattendo. Durante la End Phase di un turno in cui questa carta ha attaccato o è stata attaccata: bandisci questa carta.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/03/19",
+  "species_id": 15,
+  "starchip": "8"
+}

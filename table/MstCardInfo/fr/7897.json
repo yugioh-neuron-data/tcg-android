@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 6,
+  "card_id": 7897,
+  "card_name": "Guerrier Turbo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"Turbo Synchronique\" + 1 monstre non-Syntoniseur ou plus$NLorsque cette carte déclare une attaque sur un Monstre Synchro de min. Niveau 6 : jusqu'à la fin de la Damage Step, divisez par deux l'ATK de la cible de l'attaque. Cette carte ne peut pas être ciblée par des effets de monstre de max. Niveau 6.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/11/18",
+  "species_id": 15,
+  "starchip": "6"
+}

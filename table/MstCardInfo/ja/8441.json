@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 8441,
+  "card_name": "ゼロ・ガードナー",
+  "card_name_label": "ゼロ・ガードナー",
+  "card_name_search": "ぜろがーどなー",
+  "card_pen_effect": "",
+  "card_text": "このカードをリリースして発動する。このターン自分のモンスターは戦闘では破壊されず、相手モンスターとの戦闘によって発生する自分への戦闘ダメージは０になる。この効果は相手ターンでも発動する事ができる。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/07/18",
+  "species_id": 15,
+  "starchip": "4"
+}

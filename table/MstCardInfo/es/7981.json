@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 5,
+  "card_id": 7981,
+  "card_name": "Gallis la Bestia Estelar",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Puedes mostrar esta carta en tu mano; manda al Cementerio la carta superior de tu Deck, y después, si esa carta era un monstruo, inflige daño a tu adversario igual a su Nivel x 200, e Invoca esta carta de Modo Especial desde tu mano, de otro modo, destruye esta carta.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/11/27",
+  "species_id": 11,
+  "starchip": "3"
+}

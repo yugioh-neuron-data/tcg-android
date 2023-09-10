@@ -1,0 +1,23 @@
+{
+  "attack_power": "2100",
+  "attribute_id": 4,
+  "card_id": 7550,
+  "card_name": "フレムベル・ウルキサス",
+  "card_name_label": "フレムベル・ウルキサス",
+  "card_name_search": "ふれむべるうるきさす",
+  "card_pen_effect": "",
+  "card_text": "チューナー＋チューナー以外のモンスター１体以上$Nこのカードが守備表示モンスターを攻撃した時、その守備力を攻撃力が超えていれば、その数値だけ相手ライフに戦闘ダメージを与える。また、このカードが相手ライフに戦闘ダメージを与えた時、このカードの攻撃力は３００ポイントアップする。",
+  "defense_power": "400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/03/12",
+  "species_id": 4,
+  "starchip": "6"
+}

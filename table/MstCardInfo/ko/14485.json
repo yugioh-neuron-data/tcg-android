@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 3,
+  "card_id": 14485,
+  "card_name": "라이브라의 마법천칭",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "이 카드명의 펜듈럼 효과는 1턴에 1번밖에 사용할 수 없다. ①: 1~6 까지의 임의의 레벨을 선언하고, 자신 필드의 앞면 표시 몬스터 2장을 대상으로 하여 발동할 수 있다. 턴 종료시까지, 대상 몬스터 1장의 레벨을 선언한 레벨만큼만 내리고, 나머지 1장의 몬스터의 레벨을 선언한 레벨만큼만 올린다.",
+  "card_text": "의사를 가진 천칭. 이 세상의 균형을 맞추고 있지만, 종종 잘못된 쪽에 추의 별을 올려 버린다.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 44,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2019/07/09",
+  "species_id": 18,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 1,
+  "card_id": 17652,
+  "card_name": "Senko, la Estrella Cielorrayo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si uno o más monstruos de TIERRA son Invocados de Modo Normal o Especial a tu Campo (excepto durante el Damage Step): puedes Invocar esta carta de Modo Especial desde tu mano. Puedes desterrar esta carta en tu Cementerio, y después seleccionar 1 monstruo Guerrero de Nivel 5 o mayor que controles y 1 monstruo en Posición de Ataque que controle tu adversario; tu monstruo pierde exactamente 1500 ATK y, si lo hace, destruye ese monstruo del adversario. Sólo puedes usar cada efecto de \"Senko, la Estrella Cielorrayo\" una vez por turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/11/17",
+  "species_id": 15,
+  "starchip": "7"
+}

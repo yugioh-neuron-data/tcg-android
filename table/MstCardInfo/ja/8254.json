@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 1,
+  "card_id": 8254,
+  "card_name": "ワーム・ソリッド",
+  "card_name_label": "ワーム・ソリッド",
+  "card_name_search": "わーむそりっど",
+  "card_pen_effect": "",
+  "card_text": "このカードの守備力は、自分の墓地の「ワーム」と名のついた爬虫類族モンスターの数×１００ポイントアップする。また、このカードが攻撃され、相手プレイヤーが戦闘ダメージを受けた場合、そのダメージステップ終了時に相手フィールド上の魔法・罠カード１枚を選択して破壊する。",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/04/14",
+  "species_id": 20,
+  "starchip": "4"
+}

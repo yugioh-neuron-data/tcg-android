@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 6607,
+  "card_name": "記憶破壊者",
+  "card_name_label": "メモリー・クラッシャー",
+  "card_name_search": "めもりーくらっしゃー",
+  "card_pen_effect": "",
+  "card_text": "このカードが相手プレイヤーへの直接攻撃に成功した場合、相手の融合デッキの枚数×１００ポイントダメージを相手ライフに与える。",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/11/17",
+  "species_id": 3,
+  "starchip": "3"
+}

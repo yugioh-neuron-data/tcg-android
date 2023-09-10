@@ -1,0 +1,23 @@
+{
+  "attack_power": "3500",
+  "attribute_id": 2,
+  "card_id": 13132,
+  "card_name": "D/D/D Super Roi du Déclin Armageddon Brillant",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Une fois par tour, lorsqu'un monstre de votre adversaire déclare une attaque : vous pouvez cibler 1 Monstre Synchro \"D/D/D\" que vous contrôlez ; détruisez autant de monstres contrôlés par votre adversaire que possible avec une DEF inférieure ou égale à l'ATK du monstre ciblé, et si vous le faites, infligez 1000 points de dommages à votre adversaire pour chaque monstre détruit.",
+  "card_text": "1 Syntoniseur \"D/D\" + 1+ monstre non-Syntoniseur \"D/D/D\"$NVotre adversaire ne peut pas cibler de monstres que vous contrôlez avec des effets de carte. Si un autre monstre est Invoqué Normalement ou Spécialement tant que ce monstre est sur le Terrain (sauf durant la Damage Step) : vous pouvez faire choisir à votre adversaire 1 Monstre Pendule qu'il contrôle, et tous les autres monstres qu'il contrôle actuellement ont leurs effets annulés. Si cette carte dans la Zone Monstre est détruite : vous pouvez placer cette carte dans votre Zone Pendule.",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 35,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2017/07/06",
+  "species_id": 3,
+  "starchip": "10"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "400",
+  "attribute_id": 2,
+  "card_id": 10909,
+  "card_name": "ゴーストリックの猫娘",
+  "card_name_label": "ゴーストリックのねこむすめ",
+  "card_name_search": "ごーすとりっくのねこむすめ",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上に「ゴーストリック」と名のついたモンスターが存在する場合のみ、このカードは表側表示で召喚できる。このカードは１ターンに１度だけ裏側守備表示にする事ができる。また、フィールド上にこのカード以外の「ゴーストリック」と名のついたモンスターが存在する限り、レベル４以上のモンスターが召喚・特殊召喚に成功した時、そのモンスターを裏側守備表示にする。",
+  "defense_power": "900",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/11/16",
+  "species_id": 18,
+  "starchip": "2"
+}

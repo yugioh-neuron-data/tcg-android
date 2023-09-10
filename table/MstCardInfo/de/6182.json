@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 1,
+  "card_id": 6182,
+  "card_name": "Elementarmagier",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Dieses Monster bekommt die folgenden Effekte, während sich Monster mit den folgenden Eigenschaften auf dem Spielfeld befinden:$N●WASSER: Die Kontrolle über diese Karte kann nicht geändert werden.$N●WIND: Wenn diese Karte ein Monster deines Gegners als Ergebnis eines Kampfes zerstört, kann es sofort noch einmal angreifen.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/12/01",
+  "species_id": 18,
+  "starchip": "4"
+}

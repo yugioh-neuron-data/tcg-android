@@ -1,0 +1,23 @@
+{
+  "attack_power": "3500",
+  "attribute_id": 1,
+  "card_id": 17766,
+  "card_name": "深淵の獣アルバ・ロス",
+  "card_name_label": "ザ・ビーステッドアルバ・ロス",
+  "card_name_search": "ざびーすてっどあるばろす",
+  "card_pen_effect": "",
+  "card_text": "このカードは通常召喚できない。自分フィールドの「ビーステッド」モンスター２体をリリースした場合のみ手札・墓地から特殊召喚できる。①：この方法で特殊召喚したこのカードがモンスターゾーンに存在する限り、フィールドの表側表示の儀式・融合・S・X・リンクモンスターの効果は無効化される。②：表側表示のこのカードが相手の効果でフィールドから離れた場合に発動できる。相手エンドフェイズまで、お互いのEXデッキの裏側表示のカードを全て表側表示で除外する。",
+  "defense_power": "3500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/07/16",
+  "species_id": 1,
+  "starchip": "12"
+}

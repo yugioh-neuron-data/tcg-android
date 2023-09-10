@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 5,
+  "card_id": 13867,
+  "card_name": "Neos Nébula, o HERÓI do Elemento",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"Neos, o HERÓI do Elemento\" + \"Grande Toupeira Neoespacial\" + \"Pantera Negra Neoespacial\"$NPrimeiro deve ser Invocado por Invocação-Especial (do seu Deck Adicional) ao embaralhar os cards acima que você controla no Deck. (Você não usa \"Polimerização\".) Se este card for Invocado por Invocação-Especial do Deck Adicional: compre cards igual ao número de cards que seu oponente controla e, depois, negue os efeitos de 1 card com a face para cima no campo até o final deste turno. Uma vez por turno, durante a Fase Final: embaralhe este card no Deck Adicional e, se isso acontecer, bana todos os cards com a face para baixo no campo.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/08/30",
+  "species_id": 15,
+  "starchip": "9"
+}

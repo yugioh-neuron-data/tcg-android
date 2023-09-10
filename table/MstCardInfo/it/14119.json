@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 5,
+  "card_id": 14119,
+  "card_name": "Hyper Sollevatore Psichico",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Tuner + 1+ mostri non-Tuner$NI mostri con ATK inferiore a questa carta non possono attaccare, inoltre nessun giocatore può attivare gli effetti dei mostri scoperti sul Terreno con ATK superiore a questa carta. Se questa carta sotto il tuo comando viene distrutta da una carta del tuo avversario e mandata al tuo Cimitero: puoi scegliere come bersaglio 1 Tuner e 1 mostro non-Tuner nel tuo Cimitero con lo stesso Tipo e Attributo l'uno dell'altro; aggiungili alla tua mano. Puoi utilizzare questo effetto di \"Hyper Sollevatore Psichico\" una sola volta per turno.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/01/31",
+  "species_id": 21,
+  "starchip": "6"
+}

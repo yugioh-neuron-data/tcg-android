@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 2,
+  "card_id": 7505,
+  "card_name": "Leraje der König der Bogenschützen",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wenn diese Karte als Normalbeschwörung beschworen wird: Du kannst diese Karte bis zum Ende dieses Spielzugs für jeden Monstertyp, der sich derzeit in deinem Friedhof befindet, 100 ATK erhalten lassen. Du kannst 1 anderes offenes Monster auf dem Spielfeld wählen; diese Karte kann für den Rest dieses Spielzugs nicht angreifen, zusätzlich verliert das Monster DEF in Höhe der ATK dieser Karte, dann, falls seine DEF durch diesen Effekt zu 0 werden, zerstöre es. Du kannst diesen Effekt von „Leraje der König der Bogenschützen“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/05/05",
+  "species_id": 3,
+  "starchip": "4"
+}

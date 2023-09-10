@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 1,
+  "card_id": 11043,
+  "card_name": "アーティファクト－アイギス",
+  "card_name_label": "アーティファクト－アイギス",
+  "card_name_search": "あーてぃふぁくとあいぎす",
+  "card_pen_effect": "",
+  "card_text": "このカードは魔法カード扱いとして手札から魔法＆罠カードゾーンにセットできる。魔法＆罠カードゾーンにセットされたこのカードが相手ターンに破壊され墓地へ送られた時、このカードを特殊召喚する。相手ターン中にこのカードが特殊召喚に成功した場合、ターン終了時まで、自分フィールド上の「アーティファクト」と名のついたモンスターは相手のカードの効果の対象にならず、相手のカードの効果では破壊されない。",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/02/15",
+  "species_id": 17,
+  "starchip": "5"
+}

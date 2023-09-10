@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 4,
+  "card_id": 6250,
+  "card_name": "Taumaturgo del Tormento",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cada vez que es activada una Carta Mágica, pon 1 Contador Mágico en esta carta cuando se resuelva esa Carta Mágica. Puedes retirar cualquier cantidad de Contadores Mágicos de esta Carta, y después seleccionar 1 monstruo boca arriba en el Campo con ATK menor o igual a la cantidad de contadores que retiraste x 700; destruye ese objetivo.",
+  "defense_power": "1700",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/03/01",
+  "species_id": 18,
+  "starchip": "4"
+}

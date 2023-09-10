@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 1,
+  "card_id": 6428,
+  "card_name": "Hombre Pila C",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si todos los \"Hombre Pila C\" en tu Campo están en Posición de Ataque, aumenta el ATK de todos los monstruos de Tipo Máquina en tu Campo en 500 puntos por cada \"Hombre Pila C\" en tu Campo. Si todos los \"Hombre Pila C\" en tu Campo están en Posición de Defensa, aumenta la DEF de todos los monstruos de Tipo Máquina en tu Campo en 500 puntos por cada \"Hombre Pila C\" en tu Campo.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/08/06",
+  "species_id": 19,
+  "starchip": "2"
+}

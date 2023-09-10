@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 5,
+  "card_id": 11825,
+  "card_name": "Abdutor Mágico",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Sempre que um Card de Magia for ativado, coloque 1 Marcador de Magia neste card quando essa Magia resolver. Uma vez por turno: você pode remover 3 Marcadores de Magia deste card; adicione 1 Monstro Pêndulo do seu Deck à sua mão.",
+  "card_text": "Sempre que um Card de Magia for ativado, coloque 1 Marcador de Magia neste card quando essa Magia resolver. Ganha 100 de ATK para cada Marcador de Magia sobre ele. Uma vez por turno: você pode remover 3 Marcadores de Magia deste card; adicione 1 monstro Mago de Nível 1 do seu Deck à sua mão.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2015/08/06",
+  "species_id": 18,
+  "starchip": "4"
+}

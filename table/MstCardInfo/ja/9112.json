@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 2,
+  "card_id": 9112,
+  "card_name": "ワイトメア",
+  "card_name_label": "ワイトメア",
+  "card_name_search": "わいとめあ",
+  "card_pen_effect": "",
+  "card_text": "このカードのカード名は、墓地に存在する限り「ワイト」として扱う。また、このカードを手札から捨てて以下の効果から１つを選択して発動する事ができる。●ゲームから除外されている自分の「ワイト」または「ワイトメア」１体を選択して自分の墓地に戻す。●ゲームから除外されている自分の「ワイト夫人」または「ワイトキング」１体を選択してフィールド上に特殊召喚する。",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/07/17",
+  "species_id": 2,
+  "starchip": "1"
+}

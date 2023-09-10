@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 1,
+  "card_id": 12901,
+  "card_name": "E・HERO オネスティ・ネオス",
+  "card_name_label": "エレメンタルヒーロー オネスティ・ネオス",
+  "card_name_search": "えれめんたるひーろーおねすてぃねおす",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できず、相手ターンでも発動できる。①：このカードを手札から捨て、フィールドの「HERO」モンスター１体を対象として発動できる。そのモンスターの攻撃力はターン終了時まで２５００アップする。②：手札から「HERO」モンスター１体を捨てて発動できる。このカードの攻撃力はターン終了時まで、捨てたモンスターの攻撃力分アップする。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/12/17",
+  "species_id": 15,
+  "starchip": "7"
+}

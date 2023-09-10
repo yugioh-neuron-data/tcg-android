@@ -1,0 +1,23 @@
+{
+  "attack_power": "2100",
+  "attribute_id": 1,
+  "card_id": 17120,
+  "card_name": "Visas Starfrost",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls sich diese Karte in deiner Hand befindet: Du kannst 1 Monster wählen, das du kontrollierst und das einen unterschiedlichen Typ und eine unterschiedliche Eigenschaft als diese Karte hat; zerstöre jenes Monster und falls du dies tust, beschwöre diese Karte als Spezialbeschwörung. Du kannst diesen Effekt von „Visas Starfrost“ nur einmal pro Spielzug verwenden. Wenn diese Karte ein Monster eines Gegners durch Kampf zerstört: Du kannst diese Karte ATK in Höhe der Hälfte der Grund-ATK oder -DEF jenes Monsters erhalten lassen (was davon höher ist, bei Gleichstand bestimmst du).",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/05/14",
+  "species_id": 15,
+  "starchip": "6"
+}

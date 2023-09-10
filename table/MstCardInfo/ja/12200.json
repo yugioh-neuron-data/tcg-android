@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 12200,
+  "card_name": "幻影騎士団ラギッドグローブ",
+  "card_name_label": "ファントム・ナイツラギッドグローブ",
+  "card_name_search": "ふぁんとむないつらぎっどぐろーぶ",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：フィールドのこのカードを素材としてX召喚した闇属性モンスターは以下の効果を得る。●このX召喚に成功した場合に発動する。このカードの攻撃力は１０００アップする。②：墓地のこのカードを除外して発動できる。デッキから「幻影騎士団」カードまたは「ファントム」魔法・罠カード１枚を墓地へ送る。",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/11/14",
+  "species_id": 15,
+  "starchip": "3"
+}

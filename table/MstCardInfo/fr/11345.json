@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 5,
+  "card_id": 11345,
+  "card_name": "Canon Détonâme Samouraï Supralourd",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Vous pouvez cibler 1 monstre \"Samouraï Supralourd\" que vous contrôlez ; équipez ce monstre depuis votre main ou votre Terrain à la cible. Il gagne 1000 DEF. Durant la Battle Phase de chaque joueur, lorsque votre adversaire active un effet de carte tant que vous contrôlez un monstre \"Samouraï Supralourd\" en Position de Défense : vous pouvez bannir cette carte depuis votre Cimetière ; annulez l'activation, et si vous le faites, détruisez-la, puis détruisez autant de monstres sur le Terrain que possible (min. 1), et si vous le faites, chaque joueur reçoit 1000 points de dommages.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/11/06",
+  "species_id": 7,
+  "starchip": "3"
+}

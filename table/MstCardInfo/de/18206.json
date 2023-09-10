@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 18206,
+  "card_name": "Tränenklagen-Perlegia",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Fusionsmonster und „Tränenklage“-Monster, die du kontrollierst, erhalten 500 ATK. Falls ein „Tränenklage“-Aqua-Monster durch einen Karteneffekt auf deinen Friedhof gelegt wird (außer während des Damage Steps): Du kannst 1 Aqua-Monster der Stufe 4 oder niedriger von deinem Deck auf den Friedhof legen, aber falls du ein Nicht-„Tränenklage“-Monster auf den Friedhof gelegt hast, kannst du für den Rest dieses Spielzugs weder Karten noch die Effekte von Karten mit demselben Namen wie jene gelegte Karte aktivieren. Du kannst diesen Effekt von „Tränenklagen-Perlegia“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/02/06",
+  "species_id": 24,
+  "starchip": "0"
+}

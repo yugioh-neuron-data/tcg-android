@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 13959,
+  "card_name": "百雷のサンダー・ドラゴン",
+  "card_name_label": "ひゃくらいのサンダー・ドラゴン",
+  "card_name_search": "ひゃくらいのさんだーどらごん",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：自分の墓地の雷族モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。その後、その同名モンスターを自分の墓地から可能な限り特殊召喚できる。この効果で特殊召喚したモンスターは、フィールドから離れた場合に除外される。この効果で特殊召喚したモンスターがモンスターゾーンに存在する限り、自分は雷族モンスターしか特殊召喚できない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/07/14",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13778,
+  "card_name": "魔導研究所",
+  "card_name_label": "マジック・ラボ",
+  "card_name_search": "まじっくらぼ",
+  "card_pen_effect": "",
+  "card_text": "①：自分フィールドの表側表示の「魔導獣」Pモンスターカードが戦闘・効果で破壊される度にこのカードに魔力カウンターを２つ置く。②：１ターンに１度、自分フィールドの魔力カウンターを任意の数だけ取り除いて発動できる。取り除いた数と同じレベルを持つ、魔力カウンターを置く事ができるモンスター１体を、デッキのモンスター及び自分のEXデッキの表側表示のPモンスターの中から選んで手札に加える。③：フィールドのこのカードが効果で破壊される場合、代わりにこのカードの魔力カウンターを１つ取り除く事ができる。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/04/14",
+  "species_id": 24,
+  "starchip": "0"
+}

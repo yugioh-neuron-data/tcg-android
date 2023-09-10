@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 10477,
+  "card_name": "Retour à l'Envoyeur",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Une fois par tour, lorsqu'un ou plusieurs monstres FEU face recto que vous contrôlez sont détruits par un effet de carte, placez 1 compteur sur cette carte pour chaque monstre FEU détruit. Durant la Standby Phase de chaque joueur : vous pouvez envoyer cette carte au Cimetière ; infligez 1000 points de dommages à votre adversaire pour chaque compteur sur cette carte.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/01/24",
+  "species_id": 25,
+  "starchip": "0"
+}

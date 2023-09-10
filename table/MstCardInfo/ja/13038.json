@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 2,
+  "card_id": 13038,
+  "card_name": "エッジインプ・コットン・イーター",
+  "card_name_label": "エッジインプ・コットン・イーター",
+  "card_name_search": "えっじいんぷこっとんいーたー",
+  "card_pen_effect": "①：自分フィールドの融合モンスターの攻撃力は３００アップする。②：１ターンに１度、自分フィールドに「デストーイ」融合モンスターが融合召喚された場合に発動できる。自分はデッキから１枚ドローする。",
+  "card_text": "「エッジインプ・コットン・イーター」のモンスター効果は１ターンに１度しか使用できない。①：このカードが特殊召喚に成功した場合に発動できる。自分の墓地の「デストーイ」モンスターの数×２００ダメージを相手に与える。",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2017/03/21",
+  "species_id": 3,
+  "starchip": "7"
+}

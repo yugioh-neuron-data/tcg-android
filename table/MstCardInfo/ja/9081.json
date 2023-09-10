@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 5,
+  "card_id": 9081,
+  "card_name": "ニードル・ガンナー",
+  "card_name_label": "ニードル・ガンナー",
+  "card_name_search": "にーどるがんなー",
+  "card_pen_effect": "",
+  "card_text": "このカードをシンクロ素材としたシンクロモンスターが守備表示モンスターを攻撃した時、その守備力を攻撃力が超えていれば、その数値だけ相手ライフに戦闘ダメージを与える。",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/07/17",
+  "species_id": 7,
+  "starchip": "1"
+}

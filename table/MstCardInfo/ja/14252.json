@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 1,
+  "card_id": 14252,
+  "card_name": "グリッド・スィーパー",
+  "card_name_label": "グリッド・スィーパー",
+  "card_name_search": "ぐりっどすぃーぱー",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：フィールド魔法カードが表側表示で存在する場合に発動できる。このカードを手札から特殊召喚する。②：墓地のこのカード及び自分フィールドのリンクモンスター１体を除外して発動できる。相手フィールドのカード１枚を選んで破壊する。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/01/12",
+  "species_id": 27,
+  "starchip": "4"
+}

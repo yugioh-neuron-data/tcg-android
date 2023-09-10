@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10357,
+  "card_name": "마도서고 솔레인",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "자신 묘지의 \"마도서\"라는 이름이 붙은 마법 카드가 5장 이상일 경우에 발동할 수 있다. 자신의 덱 위에서 카드를 2장 넘긴다. 그 중 \"마도서\"라는 이름이 붙은 마법 카드를 전부 패에 넣고, 남은 카드를 덱으로 되돌린다. \"마도서고 솔레인\"은 1턴에 1장밖에 발동할 수 없고, 이 카드를 발동하는 턴에, 자신은 \"마도서\"라는 이름이 붙은 카드 이외의 마법 카드를 발동할 수 없다.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/10/01",
+  "species_id": 24,
+  "starchip": "0"
+}

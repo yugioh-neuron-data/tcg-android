@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 1,
+  "card_id": 12638,
+  "card_name": "원룡성－보우텐코우",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "튜너 ＋ 튜너 이외의 몬스터 1장 이상$N자신은 \"원룡성－보우텐코우\"를 1턴에 1번밖에 특수 소환할 수 없다. ①: 이 카드가 특수 소환에 성공했을 경우에 발동할 수 있다. 덱에서 \"룡성\" 카드 1장을 패에 넣는다. ②: 1턴에 1번, 덱에서 환룡족 몬스터 1장을 묘지로 보내고 발동할 수 있다. 이 카드의 레벨은, 묘지로 보낸 몬스터와 같아진다. ③: 앞면 표시의 이 카드가 필드에서 벗어났을 경우에 발동할 수 있다. 덱에서 \"룡성\" 몬스터 1장을 특수 소환한다.",
+  "defense_power": "2800",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 19,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/10/20",
+  "species_id": 26,
+  "starchip": "5"
+}

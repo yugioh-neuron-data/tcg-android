@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 17607,
+  "card_name": "Piège des Protecteurs du Tombeau",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Tant que \"Permutation des Mondes\" est dans votre Cimetière, votre adversaire ne peut ni activer les effets des cartes dans le Cimetière ni Invoquer Spécialement de monstres depuis le Cimetière. Vous ne pouvez utiliser chacun des effets suivants de \"Piège des Protecteurs du Tombeau\" qu'une fois par tour. Durant la Main Phase : vous pouvez défausser 1 carte ; ajoutez 1 monstre \"Protecteurs du Tombeau\" ou TERRE Elfe depuis votre Deck à votre main. Durant la Draw Phase de votre adversaire, avant sa pioche normale, si cette carte est déjà face recto sur le Terrain : déclarez 1 nom de carte ; regardez les cartes piochées pour sa pioche normale, et si c'était la carte déclarée, envoyez-la au Cimetière.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/11/03",
+  "species_id": 25,
+  "starchip": "0"
+}

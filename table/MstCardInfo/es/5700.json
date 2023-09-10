@@ -1,0 +1,23 @@
+{
+  "attack_power": "3500",
+  "attribute_id": 2,
+  "card_id": 5700,
+  "card_name": "Dragón Berserker",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "No puede ser Invocado de Modo Normal/Colocado. Debe ser primero Invocado de Modo Especial con \"Un Trato con el Señor Oscuro\" y no puede ser Invocado de Modo Especial de otra forma. Esta carta puede atacar todos los monstruos que controle tu adversario una vez a cada uno. Durante cada una de tus End Phases, esta carta pierde 500 ATK.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/03/19",
+  "species_id": 2,
+  "starchip": "8"
+}

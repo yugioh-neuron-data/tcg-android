@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 5,
+  "card_id": 12429,
+  "card_name": "Triamidensphinx",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung durch den Effekt einer „Triamid“-Karte beschworen werden und kann nicht auf andere Art als Spezialbeschwörung beschworen werden. Falls eine oder mehr offene „Triamid“-Karten, die du kontrollierst, außer „Triamidensphinx“, durch Kampf oder einen Karteneffekt zerstört werden: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Solange du eine andere „Triamid“-Karte kontrollierst, erhält diese Karte für jede Spielfeldzauberkarte mit einem unterschiedlichen Namen in deinem Friedhof 500 ATK und DEF, zusätzlich können Monster, die dein Gegner kontrolliert, nicht angreifen, außer um „Triamidensphinx“ anzugreifen.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/08/04",
+  "species_id": 6,
+  "starchip": "10"
+}

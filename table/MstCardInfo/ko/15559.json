@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 15559,
+  "card_name": "모 아니면 도",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 자신의 LP가 상대보다 적을 경우에 발동할 수 있다. 자신의 덱 맨 위의 카드를 서로 확인하고, 레벨이 1 또는 8 인 몬스터였을 경우, 그 몬스터를 패에 넣거나 특수 소환한다. 다를 경우, 상대는 이하의 효과에서 1개를 고르고 적용할 수 있다.$N●이 카드의 컨트롤러의 LP를 1000 으로 한다.$N●이 카드의 컨트롤러의 상대의 LP를 8000 이 될 때까지 회복한다.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/11/10",
+  "species_id": 25,
+  "starchip": "0"
+}

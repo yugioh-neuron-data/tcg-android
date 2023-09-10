@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 1,
+  "card_id": 6815,
+  "card_name": "토이 매지션",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드는 마법 카드로 취급하고 패에서 마법 & 함정 카드 존에 세트할 수 있다. 마법 & 함정 카드 존에 세트된 이 카드가, 상대가 컨트롤하는 카드의 효과에 의해서 파괴되어 묘지로 보내졌을 경우, 그 턴의 엔드 페이즈시에 이 카드를 자신 필드 위에 특수 소환한다. 또한, 이 카드의 반전 소환에 성공했을 때, 필드 위에 앞면 표시로 존재하는 \"토이 매지션\"의 수만큼 필드 위의 마법/함정 카드를 파괴한다.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/11/21",
+  "species_id": 18,
+  "starchip": "4"
+}

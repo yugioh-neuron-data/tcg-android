@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 6,
+  "card_id": 10594,
+  "card_name": "환상수기 터틀레이서",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드의 레벨은 자신 필드 위의 \"환상수기 토큰\"의 레벨의 합계만큼 올린다. 자신 필드 위에 토큰이 존재하는 한, 이 카드는 전투 및 효과로는 파괴되지 않는다. 또한, 이 카드가 필드 위에 앞면 표시로 존재하는 한, 1턴에 1번, 자신 필드 위의 \"환상수기 토큰\"은 전투로는 파괴되지 않는다.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/10/01",
+  "species_id": 7,
+  "starchip": "3"
+}

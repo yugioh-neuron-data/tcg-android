@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 14403,
+  "card_name": "超信地旋回",
+  "card_name_label": "スピン・ターン",
+  "card_name_search": "すぴんたーん",
+  "card_pen_effect": "",
+  "card_text": "①：以下の効果から１つを選択して発動できる。$N●自分フィールドの攻撃表示の機械族・地属性Xモンスター１体と相手フィールドのモンスター１体を対象として発動できる。その自分のモンスターの表示形式を変更し、その相手モンスターを破壊する。$N●自分フィールドの守備表示の機械族・地属性Xモンスター１体と相手フィールドの魔法・罠カード１枚を対象として発動できる。その自分のモンスターの表示形式を変更し、その相手の魔法・罠カードを破壊する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/02/23",
+  "species_id": 25,
+  "starchip": "0"
+}

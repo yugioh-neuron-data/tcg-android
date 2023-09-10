@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 7087,
+  "card_name": "파이어 소울",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "상대는 덱에서 카드를 1장 드로우한다. 자신의 덱에서 화염족 몬스터 1장을 고르고 게임에서 제외하여, 제외한 몬스터 공격력의 절반의 데미지를 상대 라이프에 준다. 이 카드를 발동하는 턴에, 자신은 공격 선언을 할 수 없다.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/11/24",
+  "species_id": 24,
+  "starchip": "0"
+}

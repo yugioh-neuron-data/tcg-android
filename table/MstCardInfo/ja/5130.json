@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 5130,
+  "card_name": "シフトチェンジ",
+  "card_name_label": "シフトチェンジ",
+  "card_name_search": "しふとちぇんじ",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上のモンスター１体が相手の魔法・罠カードの効果の対象になった時、または相手モンスターの攻撃対象になった時に発動できる。その対象を、自分フィールド上の正しい対象となる他のモンスター１体に移し替える。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2000/12/14",
+  "species_id": 25,
+  "starchip": "0"
+}

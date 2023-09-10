@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 2,
+  "card_id": 12402,
+  "card_name": "Camarartista Lançador Adicional",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Durante sua Fase Principal: você pode causar 300 de dano ao seu oponente para cada Monstro Pêndulo com a face para cima no seu Deck Adicional. Você só pode usar este efeito de \"Camarartista Lançador Adicional\" uma vez por turno. Você não pode Invocar por Invocação-Pêndulo no turno em que ativou este efeito.",
+  "card_text": "Uma vez por turno: você pode banir 1 card do seu Deck Adicional e, depois, escolher 1 card na sua Zona de Pêndulo; destrua-o e, se isso acontecer, cause 300 de dano ao seu oponente.",
+  "defense_power": "1100",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "6",
+  "pen_scale_r": "6",
+  "sales_at": "2016/08/04",
+  "species_id": 18,
+  "starchip": "3"
+}

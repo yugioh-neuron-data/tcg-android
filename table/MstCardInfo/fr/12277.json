@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 1,
+  "card_id": 12277,
+  "card_name": "Luciolux Potartiste",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Une fois par tour, lorsqu'un monstre de votre adversaire déclare une attaque : vous pouvez Sacrifier 1 monstre \"Potartiste\" ; annulez l'attaque, puis terminez la Battle Phase.",
+  "card_text": "Si un monstre \"Potartiste\" ou \"Yeux Impairs\" que vous contrôlez attaque, votre adversaire ne peut pas activer de Cartes Magie/Piège jusqu'à la fin de la Damage Step.",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2016/05/05",
+  "species_id": 10,
+  "starchip": "4"
+}

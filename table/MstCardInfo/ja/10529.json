@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 2,
+  "card_id": 10529,
+  "card_name": "シャーク・フォートレス",
+  "card_name_label": "シャーク・フォートレス",
+  "card_name_search": "しゃーくふぉーとれす",
+  "card_pen_effect": "",
+  "card_text": "レベル５モンスター×２$N①：このカードがモンスターゾーンに存在する限り、相手は他のモンスターを攻撃対象に選択できない。②：１ターンに１度、このカードのX素材を１つ取り除き、自分フィールドの表側表示モンスター１体を対象として発動できる。このターン、そのモンスターは１度のバトルフェイズ中に２回攻撃できる。",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/02/16",
+  "species_id": 8,
+  "starchip": "5"
+}

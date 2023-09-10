@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 5,
+  "card_id": 9866,
+  "card_name": "ゼンマイラビット",
+  "card_name_label": "ゼンマイラビット",
+  "card_name_search": "ぜんまいらびっと",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上の「ゼンマイ」と名のついたモンスター１体を選択して発動できる。選択したモンスターを次の自分のスタンバイフェイズ時までゲームから除外する。この効果は相手ターンでも発動できる。また、この効果はこのカードがフィールド上に表側表示で存在する限り１度しか使用できない。",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/10/13",
+  "species_id": 12,
+  "starchip": "3"
+}

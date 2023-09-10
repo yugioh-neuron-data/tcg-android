@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 5,
+  "card_id": 15982,
+  "card_name": "スクラップ・ラプター",
+  "card_name_label": "スクラップ・ラプター",
+  "card_name_search": "すくらっぷらぷたー",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドのモンスター１体を対象として発動できる。そのモンスターを破壊する。このターン、自分は通常召喚に加えて１度だけ、自分メインフェイズに「スクラップ」モンスター１体を召喚できる。②：このカードが「スクラップ」カードの効果で破壊され墓地へ送られた場合に発動できる。デッキから「スクラップ・ファクトリー」１枚またはチューナー以外の「スクラップ」モンスター１体を手札に加える。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/01/16",
+  "species_id": 9,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 4,
+  "card_id": 11630,
+  "card_name": "Dragoni di Draconia",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Una volta per turno, se un Mostro Normale che controlli distrugge un mostro dell'avversario in battaglia, dopo il calcolo dei danni: puoi aggiungere 1 Mostro Normale di Livello 4 o superiore dal tuo Deck alla tua mano.",
+  "card_text": "Armati con moschetti e lance d'acciaio, queste truppe di cavalleria terrestre dell'Impero Draconia sono temute dal Regno Reptier e dalle altre nazioni confinanti.",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 25,
+  "pen_scale_l": "2",
+  "pen_scale_r": "2",
+  "sales_at": "2015/01/10",
+  "species_id": 12,
+  "starchip": "4"
+}

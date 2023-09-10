@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 2,
+  "card_id": 16818,
+  "card_name": "D/D Gryphon",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "You can target 1 Fiend monster you control; it gains 500 ATK (until the end of this turn) for each \"Dark Contract\" Spell/Trap with different names currently on your field or in your GY, then destroy this card. You can only use this effect of \"D/D Gryphon\" once per turn.",
+  "card_text": "If you control a \"D/D\" monster: You can Special Summon this card from your hand in Defense Position. If this card is Pendulum Summoned: You can discard 1 \"D/D\" or \"Dark Contract\" card; draw 1 card. If this card is Special Summoned from the GY: You can add 1 \"D/D\" card from your Deck to your hand, except \"D/D Gryphon\". You can only use each effect of \"D/D Gryphon\" once per turn.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2022/02/10",
+  "species_id": 3,
+  "starchip": "4"
+}

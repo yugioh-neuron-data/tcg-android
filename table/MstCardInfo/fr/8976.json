@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 8976,
+  "card_name": "Attaque en Angle Mort",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Sélectionnez 1 monstre en Position de Défense face recto contrôlé par votre adversaire et 1 monstre en Position d'Attaque face recto que vous contrôlez. Le monstre que vous contrôlez gagne un montant d'ATK égal à la DEF du monstre de l'adversaire, jusqu'à la End Phase.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/08/12",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 18433,
+  "card_name": "La Protection des Éléments",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsqu'une Carte Magie/Piège est activée : jusqu'à la End Phase, bannissez 1 monstre \"HÉROS Élémentaire\" face recto que vous contrôlez ; annulez l'activation, et si vous le faites, détruisez la carte. Si vous contrôlez \"Terre Ferme, HÉROS Élémentaire\" : vous pouvez bannir cette carte depuis votre Cimetière ; Invoquez Spécialement 1 de vos monstres \"HÉROS Élémentaire\" qui est banni, ou dans votre main ou Cimetière, en ignorant ses conditions d'Invocation. Vous ne pouvez utiliser cet effet de \"La Protection des Éléments\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 1,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/06/22",
+  "species_id": 25,
+  "starchip": "0"
+}

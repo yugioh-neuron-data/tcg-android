@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15148,
+  "card_name": "龍馬躓図",
+  "card_name_label": "りゅうめつまずきのず",
+  "card_name_search": "りゅうめつまずきのず",
+  "card_pen_effect": "",
+  "card_text": "EXデッキから特殊召喚されたモンスターがお互いのフィールドに存在する場合にこのカードを発動できる。①：このカードが魔法＆罠ゾーンに存在する限り、EXデッキから特殊召喚された表側表示モンスターの効果は無効化される。②：EXデッキから特殊召喚されたモンスター同士の戦闘でモンスターが破壊された場合に発動する。このカードは墓地へ送られ、その戦闘で破壊されたモンスターのコントローラーは１０００ダメージを受ける。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/10/03",
+  "species_id": 24,
+  "starchip": "0"
+}

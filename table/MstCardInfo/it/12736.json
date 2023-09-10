@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 2,
+  "card_id": 12736,
+  "card_name": "Mago Dragochiamante",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Una volta per turno: puoi scegliere come bersaglio 1 mostro scoperto sul Terreno; esso diventa di Tipo Drago fino alla fine del turno del tuo avversario (anche se questa carta lascia il Terreno).",
+  "card_text": "Una volta per turno: puoi far diventare questa carta di Tipo Drago fino alla fine di questo turno. Un mostro che è stato Evocato tramite Fusione, Synchro o Xyz utilizzando questa carta sul Terreno come Materiale guadagna questo effetto.$N●Se questa carta combatte con un mostro di Tipo Drago, l'ATK di questa carta diventa il doppio del suo ATK originale solamente durante il Damage Step.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "2",
+  "pen_scale_r": "2",
+  "sales_at": "2017/02/09",
+  "species_id": 18,
+  "starchip": "7"
+}

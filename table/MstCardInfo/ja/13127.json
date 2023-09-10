@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 2,
+  "card_id": 13127,
+  "card_name": "EMオッドアイズ・ミノタウロス",
+  "card_name_label": "エンタメイトオッドアイズ・ミノタウロス",
+  "card_name_search": "えんためいとおっどあいずみのたうろす",
+  "card_pen_effect": "①：自分の「EM」モンスターまたは「オッドアイズ」モンスターが守備表示モンスターを攻撃した場合、その守備力を攻撃力が超えた分だけ相手に戦闘ダメージを与える。",
+  "card_text": "①：自分のPモンスターが相手モンスターに攻撃するダメージ計算時に発動できる。その相手モンスターの攻撃力はそのダメージ計算時のみ、自分フィールドの「EM」カード及び「オッドアイズ」カードの数×１００ダウンする。",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "6",
+  "pen_scale_r": "6",
+  "sales_at": "2017/05/13",
+  "species_id": 12,
+  "starchip": "4"
+}

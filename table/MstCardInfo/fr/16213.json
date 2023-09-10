@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 1,
+  "card_id": 16213,
+  "card_name": "Intelligence Anti-Humaine ME-PSY-YA",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Les cartes envoyées au Cimetière (Cartes Monstre exclues) sont bannies à la place.",
+  "card_text": "Vous pouvez révéler cette carte dans votre main ; ajoutez face recto 1 autre Monstre Pendule depuis votre main ou 1 carte depuis votre Zone Pendule, dans l'Extra Deck de son propriétaire, et si vous le faites, Invoquez Spécialement cette carte. Vous ne pouvez utiliser cet effet de \"Intelligence Anti-Humaine ME-PSY-YA\" qu'une fois par tour. Si un ou plusieurs autres monstres sont Invoqués Normalement ou Spécialement, tant que vous contrôlez cette carte : durant la End Phase de ce tour, envoyez ces monstres au Cimetière.",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "0",
+  "pen_scale_r": "0",
+  "sales_at": "2021/08/12",
+  "species_id": 27,
+  "starchip": "8"
+}

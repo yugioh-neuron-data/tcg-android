@@ -1,0 +1,23 @@
+{
+  "attack_power": "-1",
+  "attribute_id": 2,
+  "card_id": 8535,
+  "card_name": "オレイカルコス・シュノロス",
+  "card_name_label": "オレイカルコス・シュノロス",
+  "card_name_search": "おれいかるこすしゅのろす",
+  "card_pen_effect": "",
+  "card_text": "このカードは通常召喚できない。このカードの①の効果で特殊召喚できる。①：自分の通常モンスターが戦闘で破壊された場合、ダメージステップ終了時に発動できる。このカードを手札から特殊召喚する。②：このカードの攻撃力は相手フィールドのモンスターの数×１０００アップする。③：このカードがモンスターゾーンに存在する限り、フィールドのレベル４通常モンスターは効果では破壊されない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/05/21",
+  "species_id": 7,
+  "starchip": "10"
+}

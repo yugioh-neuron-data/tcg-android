@@ -1,0 +1,23 @@
+{
+  "attack_power": "1300",
+  "attribute_id": 6,
+  "card_id": 14166,
+  "card_name": "Oráculo Arpía",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "El nombre de esta carta se convierte en \"Dama Arpía\" mientras está en el Campo o en el Cementerio. Sólo puedes usar cada uno de estos efectos de \"Oráculo Arpía\" una vez por turno.$N●Si controlas un monstruo \"Arpía\" de Nivel 5 o mayor: puedes Invocar esta carta de Modo Especial desde tu mano.$N●Si esta carta es Invocada de Modo Normal o Especial: durante la End Phase de este turno, puedes añadir a tu mano 1 Mágica/Trampa en tu Cementerio que liste específicamente la carta \"Hermanas de la Dama Arpía\" en su texto.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/01/10",
+  "species_id": 16,
+  "starchip": "4"
+}

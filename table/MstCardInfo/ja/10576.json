@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 5,
+  "card_id": 10576,
+  "card_name": "地征竜－リアクタン",
+  "card_name_label": "ちせいりゅう－リアクタン",
+  "card_name_search": "ちせいりゅうりあくたん",
+  "card_pen_effect": "",
+  "card_text": "ドラゴン族または地属性のモンスター１体とこのカードを手札から捨てて発動できる。デッキから「巌征竜－レドックス」１体を特殊召喚する。この効果で特殊召喚したモンスターはこのターン攻撃できない。「地征竜－リアクタン」の効果は１ターンに１度しか使用できない。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/02/15",
+  "species_id": 1,
+  "starchip": "4"
+}

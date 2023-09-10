@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 17470,
+  "card_name": "Ziffernstörung",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Während der Schadensberechnung, falls ein Monster kämpft, solange ein Monster mit 1000 oder mehr ATK auf dem Spielfeld liegt: Die ATK aller Monster, die sich derzeit auf dem Spielfeld befinden, werden für jede 1000 ATK, die sie haben, um 1000 reduziert, zusätzlich werden ihre DEF für jede 1000 DEF, die sie haben, um 1000 reduziert. Falls diese Karte zerstört wird: Wende die obigen ATK/DEF-Anpassungen bis zum Ende dieses Spielzugs auf alle Monster an, die sich derzeit auf dem Spielfeld befinden.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/08/04",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10949,
+  "card_name": "Mont Sylvania",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Du kannst 1 Monster vom Typ Pflanze von deiner Hand oder offen von deiner Spielfeldseite auf den Friedhof legen; bestimme 1 „Sylvan“-Karte von deinem Deck und lege sie auf das Deck. Du kannst diesen Effekt von „Mont Sylvania“ nur einmal pro Spielzug verwenden. Einmal pro Spielzug, während der End Phase deines Gegners: Du kannst die oberste Karte deines Decks ausgraben und falls es ein Monster vom Typ Pflanze ist, lege sie auf den Friedhof. Lege sie andernfalls auf oder unter dein Deck.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/01/24",
+  "species_id": 24,
+  "starchip": "0"
+}

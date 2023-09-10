@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 3,
+  "card_id": 16212,
+  "card_name": "Gletscher Aqua Madoor",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Am Beginn des Damage Steps, falls dein Normales Monster gegen ein Monster eines Gegners kämpft: Du kannst diese Karte in deiner Hand vorzeigen; wirf 1 Karte ab und falls du dies tust, kann dein Monster durch jenen Kampf nicht zerstört werden. Am Beginn des Damage Steps, falls diese Karte gegen ein Monster eines Gegners kämpft: Du kannst 1 Normales Monster in deiner Hand vorzeigen; wirf 1 Karte ab und falls du dies tust, zerstöre jenes Monster des Gegners.",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/08/12",
+  "species_id": 18,
+  "starchip": "6"
+}

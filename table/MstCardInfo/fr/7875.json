@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 5,
+  "card_id": 7875,
+  "card_name": "Magnéton Morphtronique",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "$N ●En Position d'Attaque : Si votre adversaire contrôle un monstre face recto, cette carte ne peut sélectionner que son monstre avec la plus haute ATK comme cible d'une attaque.$N ●En Position de Défense : Votre adversaire ne peut pas sélectionner un autre monstre comme cible d'une attaque.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/11/18",
+  "species_id": 19,
+  "starchip": "3"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 11862,
+  "card_name": "Balance du Jugement",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si votre adversaire contrôle plus de cartes que la somme des cartes dans votre main et que vous contrôlez : piochez un nombre de cartes égal au surplus. Vous ne pouvez activer qu'1 \"Balance du Jugement\" par tour.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/08/06",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 2,
+  "card_id": 14056,
+  "card_name": "Balardroch Rey de las Fatalidades",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante la Standby Phase, si una carta boca arriba está en una Zona del Campo y esta carta está en tu Cementerio: puedes Invocar esta carta de Modo Especial en Posición de Defensa. Sólo puedes usar este efecto de \"Balardroch Rey de las Fatalidades\" una vez por turno. Una vez por Cadena, cuando un monstruo Zombi, excepto \"Balardroch Rey de las Fatalidades\" active su efecto (excepto durante el Damage Step) (Efecto Rápido): puedes aplicar 1 de estos efectos (pero no puedes aplicar ese mismo efecto de \"Balardroch Rey de las Fatalidades\" otra vez este turno).$N●Niega ese efecto.$N●Destierra 1 monstruo en el Campo o Cementerio.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/11/01",
+  "species_id": 2,
+  "starchip": "8"
+}

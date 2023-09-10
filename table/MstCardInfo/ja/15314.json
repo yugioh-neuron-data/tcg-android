@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 15314,
+  "card_name": "ジャンクスリープ",
+  "card_name_label": "ジャンクスリープ",
+  "card_name_search": "じゃんくすりーぷ",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：相手がモンスターの召喚・特殊召喚に成功した場合に発動できる。自分フィールドの裏側守備表示モンスターを全て表側攻撃表示にする。②：自分・相手のエンドフェイズに発動できる。自分フィールドのモンスターを全て裏側守備表示にする。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/18",
+  "species_id": 25,
+  "starchip": "0"
+}

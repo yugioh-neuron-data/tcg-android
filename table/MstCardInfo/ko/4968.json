@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 4968,
+  "card_name": "금지령",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "카드명을 1개 선언하고 이 카드를 발동할 수 있다. ①: 이 카드가 마법 & 함정 존에 존재하는 한, 선언된 카드명을 원래 카드명으로 하는 서로의 카드에 이하를 적용한다(이 효과의 적용 전부터 필드에 존재하는 카드에는 적용되지 않는다).$N●필드에 낼 수 없다.$N●카드의 발동 및 효과의 발동과 적용을 할 수 없다.$N●통상 소환 / 반전 소환 / 특수 소환할 수 없다.$N●공격 및 표시 형식의 변경을 할 수 없다.$N●소재를 필요로 하는 특수 소환을 위한 소재로 할 수 없다.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/06/19",
+  "species_id": 24,
+  "starchip": "0"
+}

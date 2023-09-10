@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13618,
+  "card_name": "Concurso de Miradas",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando Invocas un monstruo de Modo Especial a la Zona de Monstruos Extra: puedes seleccionar 1 monstruo en la Zona de Monstruos Principal de tu adversario; mueve ese objetivo a una de sus zonas en la misma columna que la de ese monstruo en tu Zona de Monstruos Extra. Cuando tu adversario Invoca un monstruo de Modo Especial a la Zona de Monstruos Extra: puedes seleccionar 1 monstruo en tu Zona de Monstruos Principal; mueve ese objetivo a una de tus zonas en la misma columna que la de ese monstruo en su Zona de Monstruos Extra. Estos efectos no pueden ser activados en el Damage Step.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/05/03",
+  "species_id": 24,
+  "starchip": "0"
+}

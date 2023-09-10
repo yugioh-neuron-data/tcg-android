@@ -1,0 +1,23 @@
+{
+  "attack_power": "2600",
+  "attribute_id": 5,
+  "card_id": 8860,
+  "card_name": "Robot de la Dévastation",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"Robot Synchronique\" + 1 monstre non-Syntoniseur ou plus$NLorsque cette carte est Invoquée par Synchronisation : vous pouvez cibler un nombre de cartes sur le Terrain, inférieur ou égal au nombre de monstres non-Syntoniseur utilisés pour l'Invocation Synchro de cette carte ; détruisez les cibles.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/05/27",
+  "species_id": 15,
+  "starchip": "8"
+}

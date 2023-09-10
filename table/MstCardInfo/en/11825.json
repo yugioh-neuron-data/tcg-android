@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 5,
+  "card_id": 11825,
+  "card_name": "Magical Abductor",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. Once per turn: You can remove 3 Spell Counters from this card; add 1 Pendulum Monster from your Deck to your hand.",
+  "card_text": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. Gains 100 ATK for each Spell Counter on it. Once per turn: You can remove 3 Spell Counters from this card; add 1 Level 1 Spellcaster monster from your Deck to your hand.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2015/08/07",
+  "species_id": 18,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 7914,
+  "card_name": "L'Albero del Mondo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Ogni volta che uno o più mostri di Tipo Pianta scoperti sul Terreno vengono distrutti, metti 1 Segnalino Fiore su questa carta. Puoi rimuovere un qualsiasi numero di Segnalini Fiore da questa carta per attivare questi effetti.$N●1 Segnalino: Scegli come bersaglio 1 mostro di Tipo Pianta sul Terreno; quel bersaglio guadagna 400 ATK e DEF fino alla fine di questo turno. (Questo guadagno di ATK rimane anche se questa carta lascia il Terreno.)$N●2 Segnalini: Scegli come bersaglio 1 carta sul Terreno; distruggi quel bersaglio.$N●3 Segnalini: Scegli come bersaglio 1 mostro di Tipo Pianta nel tuo Cimitero; Evoca Specialmente quel bersaglio.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/11/18",
+  "species_id": 24,
+  "starchip": "0"
+}

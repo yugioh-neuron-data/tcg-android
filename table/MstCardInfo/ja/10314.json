@@ -1,0 +1,23 @@
+{
+  "attack_power": "2100",
+  "attribute_id": 3,
+  "card_id": 10314,
+  "card_name": "青竜の忍者",
+  "card_name_label": "せいりゅうのにんじゃ",
+  "card_name_search": "せいりゅうのにんじゃ",
+  "card_pen_effect": "",
+  "card_text": "１ターンに１度、手札から「忍者」と名のついたモンスター１体と「忍法」と名のついたカード１枚を捨て、相手フィールド上に表側表示で存在するモンスター１体を選択して発動できる。このターン、選択したモンスターは攻撃できず、効果は無効化される。この効果は相手ターンでも発動できる。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/05/18",
+  "species_id": 5,
+  "starchip": "5"
+}

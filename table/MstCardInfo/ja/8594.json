@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 6,
+  "card_id": 8594,
+  "card_name": "コアキメイル・マキシマム",
+  "card_name_label": "コアキメイル・マキシマム",
+  "card_name_search": "こあきめいるまきしまむ",
+  "card_pen_effect": "",
+  "card_text": "このカードは通常召喚できない。自分の手札から「コアキメイルの鋼核」１枚をゲームから除外した場合に特殊召喚する事ができる。このカードのコントローラーは自分のエンドフェイズ毎に手札から「コアキメイルの鋼核」１枚か「コアキメイル」と名のついたモンスター１体を墓地へ送る。または、どちらも行わずにこのカードを破壊する。１ターンに１度、自分のメインフェイズ時に相手フィールド上に存在するカード１枚を選択して破壊する事ができる。",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/09/18",
+  "species_id": 1,
+  "starchip": "8"
+}

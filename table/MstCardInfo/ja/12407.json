@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 1,
+  "card_id": 12407,
+  "card_name": "EMライフ・ソードマン",
+  "card_name_label": "エンタメイトライフ・ソードマン",
+  "card_name_search": "えんためいとらいふそーどまん",
+  "card_pen_effect": "",
+  "card_text": "①：相手のLPが回復した時に発動できる。このカードを手札から特殊召喚する。この効果で特殊召喚したこのカードの攻撃力は、この時相手が回復した数値と同じになる。②：このカードをリリースし、自分フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターの攻撃力はターン終了時まで１０００アップする。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/04/09",
+  "species_id": 15,
+  "starchip": "1"
+}

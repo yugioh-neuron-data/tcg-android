@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 3,
+  "card_id": 15117,
+  "card_name": "六花聖カンザシ",
+  "card_name_label": "りっかせいカンザシ",
+  "card_name_search": "りっかせいかんざし",
+  "card_pen_effect": "",
+  "card_text": "レベル６モンスター×２$Nこのカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：モンスターがリリースされた場合、このカードのX素材を１つ取り除き、自分または相手の墓地のモンスター１体を対象として発動できる。そのモンスターを自分フィールドに特殊召喚する。この効果で特殊召喚したモンスターは効果が無効化され、植物族になる。②：自分フィールドの植物族モンスターが効果で破壊される場合、代わりに自分の手札・フィールドの植物族モンスター１体をリリースできる。",
+  "defense_power": "2400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/03/07",
+  "species_id": 13,
+  "starchip": "6"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 6668,
+  "card_name": "幽獄の時計塔",
+  "card_name_label": "ゆうごくのとけいとう",
+  "card_name_search": "ゆうごくのとけいとう",
+  "card_pen_effect": "",
+  "card_text": "相手ターンのスタンバイフェイズ時に、このカードに時計カウンターを１個乗せる。時計カウンターの合計が４個以上になった場合、このカードのコントローラーは戦闘ダメージを受けない。時計カウンターが４個以上乗ったこのカードが破壊され墓地へ送られた時、手札またはデッキから「D-HERO ドレッドガイ」１体を特殊召喚する。",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/02/16",
+  "species_id": 24,
+  "starchip": "0"
+}

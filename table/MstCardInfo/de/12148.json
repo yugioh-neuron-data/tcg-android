@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 5,
+  "card_id": 12148,
+  "card_name": "Büroboter 008",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Du kannst keine Monster als Pendelbeschwörung beschwören, außer „Büroboter“-Monstern. Dieser Effekt kann nicht annulliert werden.",
+  "card_text": "Diese Karte erhält 500 ATK für jede „Büroboter“-Karte in deinem Friedhof. Dein Gegner kann keine offenen „Büroboter“-Karten als Ziel für Karteneffekte wählen, außer dieser. Diese Karte kann während jeder Battle Phase bis zu 2 Angriffe gegen Monster durchführen.",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2016/01/14",
+  "species_id": 7,
+  "starchip": "8"
+}

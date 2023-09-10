@@ -1,0 +1,23 @@
+{
+  "attack_power": "1900",
+  "attribute_id": 5,
+  "card_id": 6866,
+  "card_name": "E・HERO ブルーメ",
+  "card_name_label": "エレメンタルヒーロー　ブルーメ",
+  "card_name_search": "えれめんたるひーろーぶるーめ",
+  "card_pen_effect": "",
+  "card_text": "このカードは通常召喚できない。このカードは「ブルーメンブラット」の効果でのみ特殊召喚する事ができる。相手は「E・HERO ブルーメ」しか攻撃対象に選択できない。相手プレイヤーに戦闘ダメージを与える度に、このカードの攻撃力は２００ポイントアップし、守備力は２００ポイントダウンする。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/12/16",
+  "species_id": 13,
+  "starchip": "6"
+}

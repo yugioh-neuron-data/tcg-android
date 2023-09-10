@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10122,
+  "card_name": "Prova e Patimento",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Puoi attivare solo 1 \"Prova e Patimento\" per turno. Durante la End Phase del turno in cui questa carta è stata attivata, applica questo effetto, a seconda del numero di mostri che hai offerto come Tributo dal Terreno e dalla tua mano in questo turno, eccetto i Segna-Mostro.$N●1: Pesca 1 carta.$N●2: Aggiungi 2 mostri dal tuo Cimitero alla tua mano.$N●3+: Distruggi fino a 3 carte scoperte sul Terreno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/05/10",
+  "species_id": 24,
+  "starchip": "0"
+}

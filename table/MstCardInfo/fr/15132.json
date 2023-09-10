@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 15132,
+  "card_name": "El Dorado Adelantado",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si vous contrôlez un monstre \"Surnaliche\" : activez 1 de ces effets ;$N●Mélangez 3 de vos Magies/Pièges \"Surnalixir\" bannis de noms différents dans votre Deck, et si vous le faites, détruisez toutes les cartes sur le Terrain.$N●Mélangez 3 de vos Magies/Pièges \"Terre d'Or\" bannis de noms différents dans votre Deck, et si vous le faites, divisez par deux les LP de votre adversaire, puis vous gagnez des LP égaux à ses LP.$NVous ne pouvez activer qu'1 \"El Dorado Adelantado\" par tour.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/02",
+  "species_id": 25,
+  "starchip": "0"
+}

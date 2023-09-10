@@ -1,0 +1,23 @@
+{
+  "attack_power": "950",
+  "attribute_id": 1,
+  "card_id": 4435,
+  "card_name": "きまぐれの女神",
+  "card_name_label": "きまぐれのめがみ",
+  "card_name_search": "きまぐれのめがみ",
+  "card_pen_effect": "",
+  "card_text": "①：１ターンに１度、自分メインフェイズに発動できる。コイントスを１回行い、裏表を当てる。当たった場合、このカードの攻撃力はターン終了時まで倍になる。ハズレの場合、このカードの攻撃力はターン終了時まで半分になる。",
+  "defense_power": "700",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "1999/08/26",
+  "species_id": 17,
+  "starchip": "3"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11096,
+  "card_name": "금지된 성전",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "①: 서로의 몬스터가 전투를 실행하는 데미지 계산시에 발동할 수 있다. 데미지 스텝 종료시까지, 이 카드 이외의 필드의 카드 효과는 무효화되고, 그 전투의 데미지 계산은 원래의 공격력 / 수비력으로 실행한다.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/05/13",
+  "species_id": 24,
+  "starchip": "0"
+}

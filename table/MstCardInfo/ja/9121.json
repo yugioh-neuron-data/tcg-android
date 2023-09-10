@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 5,
+  "card_id": 9121,
+  "card_name": "スクラップ・ツイン・ドラゴン",
+  "card_name_label": "スクラップ・ツイン・ドラゴン",
+  "card_name_search": "すくらっぷついんどらごん",
+  "card_pen_effect": "",
+  "card_text": "「スクラップ」と名のついたチューナー＋チューナー以外のモンスター１体以上$N１ターンに１度、自分フィールド上に存在するカード１枚と、相手フィールド上に存在するカード２枚を選択して発動する事ができる。選択した自分のカードを破壊し、選択した相手のカードを手札に戻す。このカードが相手によって破壊され墓地へ送られた時、シンクロモンスター以外の自分の墓地に存在する「スクラップ」と名のついたモンスター１体を選択して特殊召喚する。",
+  "defense_power": "2200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/07/17",
+  "species_id": 1,
+  "starchip": "9"
+}

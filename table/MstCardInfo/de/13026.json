@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 5,
+  "card_id": 13026,
+  "card_name": "SPIORAL-AUSRÜSTUNG - Letztes Resort",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Du kannst 1 „SPIORAL“-Monster wählen, das du kontrollierst; rüste das gewählte Ziel mit diesem Monster von deiner Hand oder Spielfeldseite aus. Solange diese Karte durch diesen Effekt ein Monster ausrüstet, kann das ausgerüstete Monster nicht durch Kampf oder Karteneffekte zerstört werden, zusätzlich kann dein Gegner es nicht als Ziel für Karteneffekte wählen. Einmal pro Spielzug, falls diese Karte durch diesen Effekt ein Monster ausrüstet: Du kannst 1 andere Karte, die du kontrollierst, auf den Friedhof legen; das ausgerüstete Monster kann in diesem Spielzug direkt angreifen.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/05/04",
+  "species_id": 7,
+  "starchip": "4"
+}

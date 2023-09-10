@@ -1,0 +1,23 @@
+{
+  "attack_power": "400",
+  "attribute_id": 3,
+  "card_id": 7602,
+  "card_name": "뿔 개구리",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드는 상대 플레이어를 직접 공격할 수 있다. 이 카드가 직접 공격에 성공했을 때, 자신 필드 위에 \"뿔 개구리\" 이외의 \"개구리\"라는 이름이 붙은 몬스터가 존재할 경우, 상대 필드 위의 마법/함정 카드 1장을 파괴할 수 있다.",
+  "defense_power": "400",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/06/02",
+  "species_id": 14,
+  "starchip": "2"
+}

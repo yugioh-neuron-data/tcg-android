@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 5,
+  "card_id": 11945,
+  "card_name": "EM 세컨동키",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "①: 이 카드가 일반 소환 / 특수 소환에 성공했을 때에 발동할 수 있다. 덱에서 \"EM(엔터메이트) 세컨동키\" 이외의 \"EM(엔터메이트)\" 몬스터 1장을 묘지로 보낸다. 자신의 펜듈럼 존에 카드가 2장 존재할 경우, 묘지로 보내지 않으며 패에 넣을 수도 있다.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/11/06",
+  "species_id": 11,
+  "starchip": "4"
+}

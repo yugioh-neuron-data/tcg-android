@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14315,
+  "card_name": "Mordschlag",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Equipaggia solo a un mostro Evocato Normalmente/Posizionato che controlli. Esso è immune agli effetti attivati dei mostri Evocati Specialmente del tuo avversario. Durante il calcolo dei danni, se il mostro equipaggiato combatte con un mostro Evocato Specialmente dell'avversario: quel mostro dell'avversario perde ATK/DEF pari all'ATK originale del mostro equipaggiato, solamente durante quel calcolo dei danni.",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/05/02",
+  "species_id": 24,
+  "starchip": "0"
+}

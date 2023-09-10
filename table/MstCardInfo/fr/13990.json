@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 13990,
+  "card_name": "Orchidée Araignée Prédaplante",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Durant votre Main Phase, si cette carte a été activée ce tour : vous pouvez cibler 1 autre carte face recto dans la Zone Magie & Piège ; détruisez-la. Vous ne pouvez utiliser cet effet de \"Orchidée Araignée Prédaplante\" qu'une fois par tour.",
+  "card_text": "Durant la End Phase, si cette carte a été Invoquée Normalement ou Spécialement ce tour : vous pouvez défausser 1 monstre Plante ; ajoutez 1 monstre Plante de max. Niveau 4 depuis votre Deck à votre main. Vous ne pouvez utiliser cet effet de \"Orchidée Araignée Prédaplante\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "8",
+  "pen_scale_r": "8",
+  "sales_at": "2019/04/04",
+  "species_id": 13,
+  "starchip": "1"
+}

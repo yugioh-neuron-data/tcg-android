@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 6,
+  "card_id": 8464,
+  "card_name": "チューンド・マジシャン",
+  "card_name_label": "チューンド・マジシャン",
+  "card_name_search": "ちゅーんどまじしゃん",
+  "card_pen_effect": "",
+  "card_text": "このカードは墓地またはフィールド上に表側表示で存在する場合、通常モンスターとして扱う。フィールド上に表側表示で存在するこのカードを通常召喚扱いとして再度召喚する事で、このカードは効果モンスター扱いとなり以下の効果を得る。$N●このカードがフィールド上に表側表示で存在する限り、このカードをチューナーとして扱う。",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 9,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/07/18",
+  "species_id": 18,
+  "starchip": "4"
+}

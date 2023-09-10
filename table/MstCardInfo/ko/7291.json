@@ -1,0 +1,23 @@
+{
+  "attack_power": "400",
+  "attribute_id": 5,
+  "card_id": 7291,
+  "card_name": "스파르타콰의 주술사",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드가 필드 위에 앞면 표시로 존재할 경우, 몬스터가 덱에서 특수 소환될 때마다, 상대 라이프에 500 포인트 데미지를 준다.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/09/08",
+  "species_id": 18,
+  "starchip": "4"
+}

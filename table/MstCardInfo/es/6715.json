@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 6715,
+  "card_name": "Tragedia del Campo de Batalla",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante tu Main Phase 2, si ningún monstruo batalló con otro este turno: puedes descartar 1 carta; Coloca 1 \"Tragedia del Campo de Batalla\" directamente desde tu Deck a tu Zona de Magia y Trampas. Sólo puedes usar este efecto de \"Tragedia del Campo de Batalla\" una vez por turno. Una vez por turno, durante la End Phase, si algún monstruo batalló con otro este turno: el jugador en turno manda al Cementerio las 5 cartas de la parte superior de su Deck.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/06/22",
+  "species_id": 24,
+  "starchip": "0"
+}

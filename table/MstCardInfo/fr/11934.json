@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 5,
+  "card_id": 11934,
+  "card_name": "Magicien Dragonpulsant",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Une fois par tour, si vous avez une carte \"Magicien\" dans votre autre Zone Pendule : vous pouvez défausser 1 Monstre Pendule, puis ciblez 1 monstre face recto sur le Terrain ; détruisez-le.",
+  "card_text": "Ce garçon magicien a le don de voir les lignes d'énergie naturelles qui courent autour de la terre, que son peuple nomme Pulsations du Dragon. Son exubérance et son talent lui ont valu le respect de son mentor, le \"Magicien Dragonfosse\".",
+  "defense_power": "900",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 25,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2015/12/03",
+  "species_id": 18,
+  "starchip": "4"
+}

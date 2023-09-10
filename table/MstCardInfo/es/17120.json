@@ -1,0 +1,23 @@
+{
+  "attack_power": "2100",
+  "attribute_id": 1,
+  "card_id": 17120,
+  "card_name": "Visas Starfrost",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si esta carta está en tu mano: puedes seleccionar 1 monstruo que controles con un Tipo y Atributo diferentes a los de esta carta; destruye ese monstruo y, si lo haces, Invoca esta carta de Modo Especial. Sólo puedes usar este efecto de \"Visas Starfrost\" una vez por turno. Cuando esta carta destruye un monstruo del adversario en batalla: puedes hacer que esta carta gane ATK igual a la mitad del ATK o DEF originales de ese monstruo (el que sea mayor, si hay empate, eliges tú).",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/05/14",
+  "species_id": 15,
+  "starchip": "6"
+}

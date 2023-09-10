@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 17609,
+  "card_name": "Destino Esplosivo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Quando un mostro dell'avversario dichiara un attacco: distruggi 1 mostro controllato dal tuo avversario con l'ATK più alto (in caso di parità, scegli tu) e, se lo fai, infliggi al tuo avversario danno pari al suo ATK originale, poi se \"Scambio dello Spirito\" non è nel tuo Cimitero, subisci danno pari al danno che ha subito. Se questa carta viene mandata dalla mano o Deck al Cimitero: puoi scegliere come bersaglio 1 mostro TERRA Fata di Livello 4 nel tuo Cimitero; aggiungilo alla tua mano. Puoi utilizzare ogni effetto di \"Destino Esplosivo\" una sola volta per turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/11/03",
+  "species_id": 25,
+  "starchip": "0"
+}

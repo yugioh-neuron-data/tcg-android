@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 10209,
+  "card_name": "リ・バウンド",
+  "card_name_label": "リ・バウンド",
+  "card_name_search": "りばうんど",
+  "card_pen_effect": "",
+  "card_text": "フィールド上のカードを手札に戻す効果を相手が発動した時に発動できる。その効果を無効にし、相手の手札・フィールド上からカードを１枚選んで墓地へ送る。また、セットされたこのカードが相手によって破壊され墓地へ送られた時、デッキからカードを１枚ドローする。",
+  "defense_power": "0",
+  "effect_id": 1,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/04/14",
+  "species_id": 25,
+  "starchip": "0"
+}

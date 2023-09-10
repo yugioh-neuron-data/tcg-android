@@ -1,0 +1,23 @@
+{
+  "attack_power": "900",
+  "attribute_id": 2,
+  "card_id": 10763,
+  "card_name": "ゴースト姫－パンプリンセス－",
+  "card_name_label": "ゴーストひめ－パンプリンセス－",
+  "card_name_search": "ごーすとひめぱんぷりんせす",
+  "card_pen_effect": "",
+  "card_text": "このカードがモンスターカードゾーン上で破壊された場合、墓地へ送らずに永続魔法カード扱いとして自分の魔法＆罠カードゾーンに表側表示で置く事ができる。この効果で永続魔法カード扱いになっている場合、お互いのスタンバイフェイズ毎にこのカードにパンプキンカウンターを１つ置く。相手フィールド上の全てのモンスターの攻撃力・守備力は、永続魔法カード扱いのこのカードに乗っているパンプキンカウンターの数×１００ポイントダウンする。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/07/20",
+  "species_id": 2,
+  "starchip": "3"
+}

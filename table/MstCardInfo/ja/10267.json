@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 1,
+  "card_id": 10267,
+  "card_name": "No.8 紋章王ゲノム・ヘリター",
+  "card_name_label": "ナンバーズ８ もんしょうおうゲノム・ヘリター",
+  "card_name_search": "なんばーずはちもんしょうおうげのむへりたー",
+  "card_pen_effect": "",
+  "card_text": "レベル４「紋章獣」モンスター×２$N①：１ターンに１度、相手フィールドのXモンスター１体を対象として発動できる。このカードは、元々の攻撃力がそのモンスターの攻撃力と同じになり、そのモンスターの元々のカード名・効果と同じカード名・効果を得る。その後、対象のモンスターの攻撃力は０になり、効果は無効化される。この効果はエンドフェイズまで適用される。",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/07/21",
+  "species_id": 21,
+  "starchip": "4"
+}

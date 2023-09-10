@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 16030,
+  "card_name": "Giudizio del Marchiato",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Scegli come bersaglio 1 Mostro Fusione di Livello 8 o superiore che controlli; distruggi tutti i mostri controllati dal tuo avversario con ATK pari o superiore a quel mostro. Durante la End Phase, se questa carta è nel Cimitero perché è stata mandata lì per attivare l'effetto di \"Caduto di Albaz\" in questo turno: puoi Posizionare questa carta. Puoi utilizzare questo effetto di \"Giudizio del Marchiato\" una sola volta per turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/06/03",
+  "species_id": 25,
+  "starchip": "0"
+}

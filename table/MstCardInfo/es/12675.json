@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 5,
+  "card_id": 12675,
+  "card_name": "Artilugio de Mecanismo Antiguo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si esta carta es Invocada de Modo Normal o Especial: puedes declarar 1 tipo de carta (Monstruo, Mágica o Trampa); este turno, si tu monstruo ataca, hasta el final del Damage Step tu adversario no puede activar Cartas Mágicas/de Trampa o efectos de monstruo (lo que haya sido declarado). Una vez por turno: puedes declarar 1 nombre de carta de monstruo \"Artilugio\"; hasta la End Phase el nombre de esta carta se convierte en ese nombre.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/04/13",
+  "species_id": 7,
+  "starchip": "4"
+}

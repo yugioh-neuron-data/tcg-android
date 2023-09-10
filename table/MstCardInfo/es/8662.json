@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 8662,
+  "card_name": "Cohete de Comando",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Mientras el monstruo equipado esté atacando, no puede ser destruido en batalla. Al final del Damage Step, si el monstruo equipado atacó: el objetivo del ataque pierde ATK igual al ATK del monstruo equipado, hasta la End Phase.",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/02/11",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11153,
+  "card_name": "Anima Furente",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Quando un mostro che controlli infligge 1500 o meno danni al tuo avversario con un attacco diretto: scarta tutta la tua mano (minimo 1 carta); dissotterra la prima carta del tuo Deck e, se è una Carta Mostro, mandala al Cimitero e, se fai quello, infliggi 500 danni al tuo avversario, poi ripeti questo effetto fino a 7 altre volte o fino a quando dissotterri una Carta non-Mostro. Se viene dissotterrata una Carta non-Mostro, mettila in cima al tuo Deck. Puoi attivare solo 1 \"Anima Furente\" per turno.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/04/24",
+  "species_id": 24,
+  "starchip": "0"
+}

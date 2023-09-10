@@ -1,0 +1,23 @@
+{
+  "attack_power": "2200",
+  "attribute_id": 1,
+  "card_id": 15507,
+  "card_name": "Avvertimento Cupido",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se tutti i mostri che controlli sono mostri con 600 DEF (minimo 1): puoi Evocare Specialmente questa carta dalla tua mano. (Effetto Rapido): puoi scartare 1 carta, poi scegliere come bersaglio 1 mostro Fata LUCE che controlli e 1 mostro scoperto sul Terreno; il Livello del tuo mostro diventa il Livello dell'altro mostro fino alla fine di questo turno. Puoi utilizzare ogni effetto di \"Avvertimento Cupido\" una sola volta per turno.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/11/05",
+  "species_id": 17,
+  "starchip": "6"
+}

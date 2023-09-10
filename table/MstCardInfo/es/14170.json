@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 1,
+  "card_id": 14170,
+  "card_name": "Ciber Ángel Izana",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Puedes Invocar esta carta por Ritual con \"Ritual del Ángel Mecánico\". Si esta carta es Invocada por Ritual: puedes hacer que tu adversario mande al Cementerio 1 Mágica/Trampa que controle. Cuando esta carta atacante destruye un monstruo del adversario en batalla y lo manda al Cementerio: puedes activar este efecto; esta carta puede hacer un segundo ataque a un monstruo del adversario inmediatamente después. Una vez por turno, cuando tu adversario active una carta o efecto que seleccione un Monstruo de Ritual \"Ciber Ángel\" que controlas (Efecto Rápido): puedes barajar al Deck 1 Monstruo de Ritual en tu Cementerio y, si lo haces, destruye 1 carta que controle tu adversario.",
+  "defense_power": "2600",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 5,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/01/10",
+  "species_id": 17,
+  "starchip": "8"
+}

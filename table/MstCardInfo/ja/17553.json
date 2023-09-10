@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 6,
+  "card_id": 17553,
+  "card_name": "エルロン",
+  "card_name_label": "エルロン",
+  "card_name_search": "えるろん",
+  "card_pen_effect": "",
+  "card_text": "このカード名はルール上「閃刀」カードとしても扱う。このカード名の①③の効果は１ターンに１度、いずれか１つしか使用できない。①：自分・相手のメインフェイズに、自分フィールドの「閃刀姫」モンスター１体を対象として発動できる。自分の手札・フィールドからこのカードを装備カード扱いとしてそのモンスターに装備する。②：このカードを装備した「閃刀姫」モンスターの攻撃力は４００アップする。③：フィールドのこのカードが破壊された場合に発動できる。デッキから「閃刀」魔法カード１枚を墓地へ送る。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/04/21",
+  "species_id": 7,
+  "starchip": "1"
+}

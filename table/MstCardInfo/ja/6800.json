@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 1,
+  "card_id": 6800,
+  "card_name": "エーリアン・グレイ",
+  "card_name_label": "エーリアン・グレイ",
+  "card_name_search": "えーりあんぐれい",
+  "card_pen_effect": "",
+  "card_text": "リバース：相手フィールド上に表側表示で存在するモンスター１体を選択し、Aカウンターを１つ置く。また、リバースしたこのカードが戦闘によって破壊され墓地へ送られた時、デッキからカードを１枚ドローする。このカードがフィールド上に表側表示で存在する限り、Aカウンターが乗ったモンスターは、「エーリアン」と名のついたモンスターと戦闘を行う場合、ダメージ計算時のみAカウンター１つにつき攻撃力・守備力が３００ポイントダウンする。",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 24,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/05/18",
+  "species_id": 20,
+  "starchip": "2"
+}

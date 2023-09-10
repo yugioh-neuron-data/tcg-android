@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 16747,
+  "card_name": "エクソシスター・バディス",
+  "card_name_label": "エクソシスター・バディス",
+  "card_name_search": "えくそしすたーばでぃす",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：８００LPを払って発動できる。デッキから「エクソシスター」モンスター１体を選び、さらにそのモンスターにカード名が記された「エクソシスター」モンスター１体をデッキから選ぶ。そのモンスター２体を特殊召喚する。この効果で特殊召喚したモンスターはエンドフェイズに持ち主のデッキに戻る。このカードの発動後、ターン終了時まで自分は「エクソシスター」モンスターしかEXデッキから特殊召喚できない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/08/28",
+  "species_id": 25,
+  "starchip": "0"
+}

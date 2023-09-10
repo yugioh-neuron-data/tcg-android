@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 2,
+  "card_id": 12624,
+  "card_name": "Caixa de Joias de Pandora",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Enquanto você não tiver cards no seu Deck Adicional: você pode escolher 1 card na Zona de Pêndulo do seu oponente; destrua-o e, se isso acontecer, coloque este card na Zona de Pêndulo do seu oponente.",
+  "card_text": "Enquanto você não tiver cards no seu Deck Adicional, compre 2 cards em vez de 1 em sua compra normal durante sua Fase de Compra.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "4",
+  "pen_scale_r": "4",
+  "sales_at": "2016/11/03",
+  "species_id": 26,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 2,
+  "card_id": 14925,
+  "card_name": "Künstlerkumpel Himmlischer Magier",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Wenn genau 1 offenes Fusions-, Synchro- oder Xyz-Monster, das du kontrollierst und das als Spezialbeschwörung vom Extra Deck beschworen wurde, durch Kampf oder einen Karteneffekt eines Gegners zerstört wird: Du kannst jenes zerstörte Monster als Spezialbeschwörung beschwören, dann zerstöre diese Karte. Du kannst diesen Effekt von „Künstlerkumpel Himmlischer Magier“ nur einmal pro Spielzug verwenden.",
+  "card_text": "Während deiner Main Phase, falls diese Karte in diesem Spielzug als Normal- oder Spezialbeschwörung beschworen wurde: Du kannst für den Rest dieses Spielzugs die folgenden Effekte anwenden, basierend auf den anderen Monstern, die du derzeit kontrollierst.$N●Fusion: Diese Karte kann direkt angreifen.$N●Synchro: Dein Gegner kann keine Monstereffekte aktivieren.$N●Xyz: Die ATK dieser Karte werden zum Doppelten ihrer Grund-ATK.$N●Pendel: Während der End Phase, füge deiner Hand 1 Pendelmonster von deinem Deck hinzu.$NDu kannst diesen Effekt von „Künstlerkumpel Himmlischer Magier“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "8",
+  "pen_scale_r": "8",
+  "sales_at": "2020/01/16",
+  "species_id": 18,
+  "starchip": "4"
+}

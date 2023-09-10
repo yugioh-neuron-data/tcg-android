@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 2,
+  "card_id": 10017,
+  "card_name": "甲虫装機 ホッパー",
+  "card_name_label": "インゼクター　ホッパー",
+  "card_name_search": "いんぜくたーほっぱー",
+  "card_pen_effect": "",
+  "card_text": "１ターンに１度、自分の手札・墓地から「甲虫装機」と名のついたモンスター１体を装備カード扱いとしてこのカードに装備できる。このカードが装備カード扱いとして装備されている場合、装備モンスターのレベルは４つ上がる。また、装備カード扱いとして装備されているこのカードを墓地へ送る事で、このターン装備モンスターは相手プレイヤーに直接攻撃できる。この効果を発動するターン、装備モンスター以外のモンスターは攻撃できない。",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/10/13",
+  "species_id": 10,
+  "starchip": "4"
+}

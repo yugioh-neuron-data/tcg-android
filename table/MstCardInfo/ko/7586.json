@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 1,
+  "card_id": 7586,
+  "card_name": "아르카나 포스 Ⅶ－더 채리어트",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드가 일반 소환/반전 소환/특수 소환에 성공했을 때, 코인 토스를 1회 실행하고 이하의 효과를 얻는다.$N●앞 : 이 카드가 전투에 의해서 상대 몬스터를 파괴했을 경우, 그 몬스터를 자신 필드 위에 특수 소환할 수 있다.$N●뒤 : 이 카드의 컨트롤을 상대에게 이동시킨다.",
+  "defense_power": "1700",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/06/02",
+  "species_id": 17,
+  "starchip": "4"
+}

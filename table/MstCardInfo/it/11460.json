@@ -1,0 +1,23 @@
+{
+  "attack_power": "2600",
+  "attribute_id": 2,
+  "card_id": 11460,
+  "card_name": "D/D/D Re Ribelle Leonidas",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Quando subisci danno da effetto (eccetto durante il Damage Step): puoi distruggere questa carta e, se lo fai, qualsiasi effetto che sta per infliggere danno a un giocatore in questo turno aumenta invece i suoi LP dello stesso ammontare.",
+  "card_text": "Quando subisci danno da effetto (eccetto durante il Damage Step): puoi Evocare Specialmente questa carta dalla tua mano e, se lo fai, guadagni LP pari al danno che hai subito. Non subisci danno da effetto.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2015/11/05",
+  "species_id": 3,
+  "starchip": "7"
+}

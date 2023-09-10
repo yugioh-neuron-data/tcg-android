@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 1,
+  "card_id": 14447,
+  "card_name": "Membre du Tour Potartiste",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Au début de votre Battle Phase : vous pouvez placer 1 Compteur sur cette carte (max. 2). Cette carte gagne l'effet suivant, selon le nombre de Compteurs sur elle.$N●1 : Une fois par tour, lorsqu'un monstre de l'adversaire déclare une attaque : vous pouvez annuler l'attaque.$N●2 : Vous pouvez Sacrifier cette carte ; jusqu'à la 2e End Phase de votre adversaire, bannissez tous les monstres sur le Terrain.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/30",
+  "species_id": 15,
+  "starchip": "4"
+}

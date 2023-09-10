@@ -1,0 +1,23 @@
+{
+  "attack_power": "400",
+  "attribute_id": 1,
+  "card_id": 8595,
+  "card_name": "ライトロード・スピリット シャイア",
+  "card_name_label": "ライトロード・スピリット　シャイア",
+  "card_name_search": "らいとろーどすぴりっとしゃいあ",
+  "card_pen_effect": "",
+  "card_text": "このカードの攻撃力は、自分の墓地に存在する「ライトロード」と名のついたモンスターの種類×３００ポイントアップする。このカードが自分フィールド上に表側表示で存在する限り、自分のエンドフェイズ毎に、自分のデッキの上からカードを２枚墓地へ送る。",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/09/18",
+  "species_id": 17,
+  "starchip": "3"
+}

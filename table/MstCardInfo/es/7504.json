@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 7504,
+  "card_name": "Cassimolar",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando esta carta es Invocada de Modo Normal: puedes seleccionar 1 monstruo boca arriba que controle tu adversario; éste gana ATK igual a su ATK original, y además durante la End Phase del próximo turno, destruye ese monstruo boca arriba y, si lo haces, tu adversario recibe daño igual a la mitad de su ATK original. Al comienzo de la Battle Phase de tu adversario: puedes Sacrificar esta carta Invocada de Modo Normal/Colocada; los monstruos de tu adversario no pueden atacar directamente por el resto de este turno.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/02/06",
+  "species_id": 3,
+  "starchip": "3"
+}

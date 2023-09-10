@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 12902,
+  "card_name": "Fuoco in Caduta Libera",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Scegli come bersaglio 1 Mostro Fusione \"EROE Elementale\" che controlli; distruggi tanti mostri controllati dal tuo avversario quanti possibile con ATK superiore a quello di quel mostro, poi infliggi al tuo avversario danno pari all'ATK originale più alto tra quei mostri distrutti nel Cimitero (in caso di parità, scegli tu). Se nella tua Zona Terreno c'è una Carta Magia Terreno \"Grattacielo\", infliggi invece al tuo avversario danno pari alla somma degli ATK di quei mostri distrutti nel Cimitero.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/03/30",
+  "species_id": 24,
+  "starchip": "0"
+}

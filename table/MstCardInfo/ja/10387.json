@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 4,
+  "card_id": 10387,
+  "card_name": "陽炎獣 サーベラス",
+  "card_name_label": "ヘイズビースト　サーベラス",
+  "card_name_search": "へいずびーすとさーべらす",
+  "card_pen_effect": "",
+  "card_text": "このカードはリリースなしで召喚できる。この方法で召喚したこのカードの元々の攻撃力は１０００になる。このカードがフィールド上に表側表示で存在する限り、相手はこのカードをカードの効果の対象にできない。また、このカードが破壊され墓地へ送られた時、デッキから「ヘイズ」と名のついたカード１枚を手札に加える事ができる。",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/11/17",
+  "species_id": 11,
+  "starchip": "6"
+}

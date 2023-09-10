@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 5,
+  "card_id": 13204,
+  "card_name": "Stregona Binaria",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 mostri, eccetto i Segna-Mostro$NQuesta carta guadagna questi effetti, a seconda del numero di mostri co-linkati a questa carta.$N●1+: Quando un mostro co-linkato a questa carta combatte con un mostro del tuo avversario e gli infligge danno da combattimento: puoi guadagnare quell'ammontare di LP.$N●2: Una volta per turno (Effetto Rapido): puoi scegliere come bersaglio 2 mostri scoperti che controlli; fino alla fine di questo turno, dimezza l'ATK di 1 mostro e, se lo fai, aggiungi quell'ATK perso all'altro mostro.",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "46",
+  "linkno": "2",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/11/02",
+  "species_id": 27,
+  "starchip": ""
+}

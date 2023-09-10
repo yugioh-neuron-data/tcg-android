@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 7633,
+  "card_name": "Verrouillage de Deck",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Aucun joueur ne peut ajouter de cartes depuis le Deck à sa main, sauf en les piochant. Les monstres ne peuvent pas être Invoqués Spécialement depuis le Main Deck. Durant votre 2e Standby Phase après activation, détruisez cette carte.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/05/13",
+  "species_id": 24,
+  "starchip": "0"
+}

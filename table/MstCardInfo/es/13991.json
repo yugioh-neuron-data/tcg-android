@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 13991,
+  "card_name": "Maestro Atemorizante",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Puedes Sacrificar 1 monstruo \"Atemorizante\", \"Peluchanimal\" o \"Diablillo de\" de Nivel 4 o menor; Invoca de Modo Especial, desde tu Deck, 1 monstruo Demonio con el mismo Nivel, pero con nombre diferente. Sólo puedes usar este efecto de \"Maestro Atemorizante\" una vez por turno.",
+  "card_text": "Durante tu Main Phase: puedes Invocar de Modo Especial, desde tu Deck, 1 monstruo \"Atemorizante\", \"Peluchanimal\" o \"Diablillo de\" de Nivel 4 o menor y además, por el resto de este turno, no puedes Invocar monstruos de Modo Especial desde el Deck Extra, excepto Monstruos de Fusión. Puedes Sacrificar 2 o más monstruos Demonio; Invoca de Modo Especial, desde tu Deck Extra, 1 Monstruo de Fusión \"Atemorizante\", cuyo Nivel sea igual a los Niveles originales combinados de esos monstruos. (Esto se trata como una Invocación por Fusión). Sólo puedes usar cada efecto de \"Maestro Atemorizante\" una vez por turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "4",
+  "pen_scale_r": "4",
+  "sales_at": "2020/06/18",
+  "species_id": 3,
+  "starchip": "8"
+}

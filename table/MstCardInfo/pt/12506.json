@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 12506,
+  "card_name": "Esfinge Dimensional",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Ative este card ao escolher 1 monstro com a face para cima em Posição de Ataque que você controla. Uma vez por batalha, durante a Etapa de Batalha, se ele for atacado por um monstro do oponente com maior ATK: você pode causar dano ao seu oponente igual à diferença entre o ATK do monstro atacante e do monstro alvo. Se o monstro escolhido deixar o campo, destrua este card.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/07/21",
+  "species_id": 25,
+  "starchip": "0"
+}

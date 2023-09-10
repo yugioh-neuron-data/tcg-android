@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 13150,
+  "card_name": "Gladiatorungeheuer Noxious",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wenn ein Monster deines Gegners einen direkten Angriff deklariert: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören und falls du dies tust, ändere das Angriffsziel auf diese Karte und springe zur Schadensberechnung. Diese Karte kann durch den Kampf nicht zerstört werden. Falls diese Karte durch den Effekt eines „Gladiatorungeheuer“-Monsters als Spezialbeschwörung beschworen wird: Du kannst 1 „Gladiatorungeheuer“-Monster von deinem Deck auf den Friedhof legen. Am Ende der Battle Phase, falls diese Karte gekämpft hat: Du kannst sie ins Deck mischen; beschwöre 1 „Gladiatorungeheuer“-Monster als Spezialbeschwörung von deinem Deck, außer „Gladiatorungeheuer Noxious“.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/07/06",
+  "species_id": 12,
+  "starchip": "5"
+}

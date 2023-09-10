@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 1,
+  "card_id": 13992,
+  "card_name": "ワルキューレ・ドリット",
+  "card_name_label": "ワルキューレ・ドリット",
+  "card_name_search": "わるきゅーれどりっと",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①の効果は１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功した場合に発動できる。デッキから「ワルキューレ・ドリット」以外の「ワルキューレ」カード１枚を手札に加える。②：このカードの攻撃力は、除外されている相手モンスターの数×２００アップする。",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/09/14",
+  "species_id": 17,
+  "starchip": "4"
+}

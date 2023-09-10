@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13003,
+  "card_name": "Sonnenaufgangs-Hieb",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wenn der Angriff eines Monsters annulliert wird: Aktiviere 1 dieser Effekte;$N●Beginne die End Phase dieses Spielzugs.$N●Wähle 1 „Utopia“-Xyz-Monster, das du kontrollierst; seine ATK werden bis zum Ende dieses Spielzugs zum Doppelten seiner Grund-ATK.$NFalls von einem „Utopia“-Xyz-Monster, das du kontrollierst, genau 1 Xyz-Material abgehängt würde, um seinen Effekt zu aktivieren, kannst du stattdessen diese Karte von deinem Friedhof verbannen.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/03/30",
+  "species_id": 24,
+  "starchip": "0"
+}

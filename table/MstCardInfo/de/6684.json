@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 1,
+  "card_id": 6684,
+  "card_name": "Siegesviper XX03",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls diese Karte ein Monster eines Gegners durch Kampf zerstört: Aktiviere 1 dieser Effekte.$N●Diese Karte erhält 400 ATK.$N●Wähle 1 offene/n Zauber/Falle auf dem Spielfeld; zerstöre das gewählte Ziel.$N●Beschwöre 1 „Möglichkeits-Spielmarke“ als Spezialbeschwörung. Typ, Eigenschaft, Stufe und ATK/DEF der Spielmarke sind immer dieselben wie die dieser Karte, aber zerstöre sie, falls diese Karte nicht mehr offen auf dem Spielfeld liegt.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/05/13",
+  "species_id": 7,
+  "starchip": "4"
+}

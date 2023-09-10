@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 6,
+  "card_id": 14573,
+  "card_name": "Kampfwespe - Hellebarde der Sturmangriff",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Insekt-Empfänger + 1+ Nicht-Empfänger-Monster$NEinmal pro Kampf, während der Schadensberechnung, falls diese Karte ein Monster eines Gegners mit gleich viel oder höheren ATK angreift (Schnelleffekt): Du kannst die ATK des Monsters des Gegners nur während der Schadensberechnung halbieren. Wenn diese Karte deinem Gegner Kampfschaden zufügt: Du kannst deinem Gegner für jedes „Kampfwespe“-Monster, das du kontrollierst, 200 Schaden zufügen. Du kannst diesen Effekt von „Kampfwespe - Hellebarde der Sturmangriff“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/07/11",
+  "species_id": 10,
+  "starchip": "6"
+}

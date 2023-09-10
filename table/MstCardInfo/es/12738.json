@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 5,
+  "card_id": 12738,
+  "card_name": "Artistamigo Dag Hombredaga",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Durante tu Main Phase, si esta carta fue activada este turno: puedes seleccionar 1 monstruo \"Artistamigo\" en tu Cementerio; añádelo a tu mano. Sólo puedes usar este efecto de \"Artistamigo Dag Hombredaga\" una vez por turno.",
+  "card_text": "Durante tu Main Phase, si este turno esta carta fue Invocada por Péndulo: puedes mandar al Cementerio 1 monstruo \"Artistamigo\" en tu mano; roba 1 carta. Sólo puedes usar este efecto de \"Artistamigo Dag Hombredaga\" una vez por turno.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "2",
+  "pen_scale_r": "2",
+  "sales_at": "2017/02/09",
+  "species_id": 15,
+  "starchip": "5"
+}

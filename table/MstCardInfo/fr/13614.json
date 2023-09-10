@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13614,
+  "card_name": "Palais du Seigneur Élémentaire",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Tous les monstres que vous contrôlez gagnent une ATK/DEF égales au nombre d'Attributs différents dans votre Cimetière x 200. Une fois par tour : vous pouvez ajouter 1 monstre \"Élémentsabre\" depuis votre Deck à votre main, mais sautez la Battle Phase de votre prochain tour (même si cette carte quitte le Terrain). Une fois par tour, si un monstre \"Élémentsabre\" dans votre main ou sur votre Terrain va envoyer une ou plusieurs cartes depuis la main au Cimetière pour activer un effet, vous pouvez envoyer autant de monstres \"Élémentsabre\" depuis votre Deck au Cimetière à la place.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/05/03",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "5000",
+  "attribute_id": 5,
+  "card_id": 10039,
+  "card_name": "Pfeilschneller Raketenexpress",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du keine Karten kontrollierst, und kann nicht auf andere Art als Spezialbeschwörung beschworen werden. Du kannst in dem Spielzug, in dem du diese Karte als Spezialbeschwörung beschwörst, keine Battle Phase durchführen. Du kannst weder Karten oder Effekte aktivieren noch Karten setzen. Während jeder deiner Standby Phasen, zerstöre diese Karte, es sei denn, du legst deine gesamte Hand auf den Friedhof (min. 1 Karte).",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/05/10",
+  "species_id": 7,
+  "starchip": "10"
+}

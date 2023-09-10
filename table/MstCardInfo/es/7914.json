@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 7914,
+  "card_name": "El Árbol del Mundo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cada vez que uno o más monstruos de Tipo Planta boca arriba en el Campo son destruidos, pon 1 Contador Floral en esta carta. Puedes retirar cualquier cantidad de Contadores Florales para activar estos efectos.$N●1 Contador: Selecciona 1 monstruo de Tipo Planta en el Campo; hasta el final de este turno, ese objetivo gana 400 ATK y DEF. (Esta ganancia de ATK permanece aún si esta carta deja el Campo).$N●2 Contadores: Selecciona 1 carta en el Campo; destruye ese objetivo.$N●3 Contadores: Selecciona 1 monstruo de Tipo Planta en tu Cementerio; Invoca ese objetivo de Modo Especial.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/11/18",
+  "species_id": 24,
+  "starchip": "0"
+}

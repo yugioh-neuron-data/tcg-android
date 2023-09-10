@@ -1,0 +1,23 @@
+{
+  "attack_power": "700",
+  "attribute_id": 6,
+  "card_id": 9325,
+  "card_name": "音響戦士ドラムス",
+  "card_name_label": "サウンドウォリアードラムス",
+  "card_name_search": "さうんどうぉりあーどらむす",
+  "card_pen_effect": "",
+  "card_text": "属性を１つ宣言し、フィールド上に表側表示で存在する「音響戦士」と名のついたモンスター１体を選択して発動する。選択したモンスターは宣言した属性になる。この効果は１ターンに１度しか使用できない。また、属性を１つ宣言し、自分の墓地に存在するこのカードをゲームから除外する事で、自分フィールド上に表側表示で存在する「音響戦士」と名のついたモンスター１体は宣言した属性になる。",
+  "defense_power": "700",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/11/13",
+  "species_id": 7,
+  "starchip": "2"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2900",
+  "attribute_id": 4,
+  "card_id": 15712,
+  "card_name": "Metalfoes Vanisher",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "If a monster(s) you control is destroyed by card effect (except during the Damage Step): You can add 1 \"Metalfoes\" card from your GY to your hand, except \"Metalfoes Vanisher\". You can only use this effect of \"Metalfoes Vanisher\" once per turn.",
+  "card_text": "While this card is in your hand: You can target 2 face-up cards you control, including a \"Metalfoes\" card; destroy them, and if you do, Special Summon this card from your hand. If this card is Special Summoned by the effect of a \"Metalfoes\" card: You can target 1 monster your opponent controls or in their GY; banish it. You can only use each monster effect of \"Metalfoes Vanisher\" once per turn.",
+  "defense_power": "1900",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2021/02/05",
+  "species_id": 21,
+  "starchip": "9"
+}

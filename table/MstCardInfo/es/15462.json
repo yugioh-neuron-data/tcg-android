@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 1,
+  "card_id": 15462,
+  "card_name": "Mago del Tiempo del Mañana",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"Mago del Tiempo\" + 1 Monstruo de Efecto$NUna vez por turno, mientras controles esta carta Invocada por Fusión: puedes lanzar una moneda y elegir cara o cruz. Destruye tantos monstruos en el Campo como sea posible y, si lo haces, inflige daño igual a la mitad del total del ATK original de los monstruos boca arriba destruidos. Si acertaste al lanzar la moneda tu adversario recibe el daño, si no acertaste, tú recibes el daño.",
+  "defense_power": "1900",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/09/10",
+  "species_id": 18,
+  "starchip": "5"
+}

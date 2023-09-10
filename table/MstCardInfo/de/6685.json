@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 1,
+  "card_id": 6685,
+  "card_name": "Super-Elektromagnetischer Voltech-Drache",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls du diese Karte als Tributbeschwörung beschwörst, indem du 1 der folgenden Monster als Tribut angeboten hast, erhält diese Karte den entsprechenden Effekt:$N●Batteriemann D: Annulliere den Effekt von einer Zauber- oder Fallenkarte, die diese 1 Karte zum Ziel bestimmt.$N●Batteriemann C: Während eines Kampfes zwischen dieser angreifenden Karte und einem Monster in Verteidigungsposition, dessen DEF niedriger sind als die ATK dieser Karte, füge die Differenz den Life Points deines Gegners als Kampfschaden zu.$N●Batteriemann AA: Erhöhe die ATK dieser Karte um 1000 Punkte.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/05/13",
+  "species_id": 19,
+  "starchip": "5"
+}

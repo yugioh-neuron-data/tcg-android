@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 2,
+  "card_id": 15070,
+  "card_name": "ディザスター・デーモン",
+  "card_name_label": "ディザスター・デーモン",
+  "card_name_search": "でぃざすたーでーもん",
+  "card_pen_effect": "",
+  "card_text": "このカード名の効果は１ターンに１度しか使用できない。①：自分及び相手フィールドのカードを１枚ずつ対象として発動できる。そのカードを破壊する。この効果で表側表示の悪魔族モンスターを破壊した場合、このカードの攻撃力はターン終了時まで、そのモンスターの元々の攻撃力を合計した数値の半分だけアップする。",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/10/03",
+  "species_id": 3,
+  "starchip": "9"
+}

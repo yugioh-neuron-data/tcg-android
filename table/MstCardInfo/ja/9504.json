@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 3,
+  "card_id": 9504,
+  "card_name": "サシカエル",
+  "card_name_label": "サシカエル",
+  "card_name_search": "さしかえる",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上に存在する水族モンスター１体をリリースし、自分の墓地に存在する「ガエル」と名のついたモンスター１体を選択して発動する。選択したモンスターを墓地から特殊召喚する。この効果は１ターンに１度しか使用できない。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/02/11",
+  "species_id": 14,
+  "starchip": "1"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 5,
+  "card_id": 13032,
+  "card_name": "링크슬레이어",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "①: 자신 필드에 몬스터가 존재하지 않을 경우, 이 카드는 패에서 특수 소환할 수 있다. ②: 1턴에 1번, 패를 2장까지 버리고, 버린 수만큼 필드의 마법 / 함정 카드를 대상으로 하여 발동할 수 있다. 그 카드를 파괴한다.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/07/06",
+  "species_id": 27,
+  "starchip": "5"
+}

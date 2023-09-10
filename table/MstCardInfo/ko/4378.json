@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 6,
+  "card_id": 4378,
+  "card_name": "풍 마신－휴가",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "상대 턴의 전투 데미지 계산시에만 발동할 수 있다. 이 카드를 공격하는 몬스터의 공격력을 0으로 만든다. 이 효과는 이 카드가 앞면 표시로 필드 위에 존재하는 한, 1번밖에 사용할 수 없다.",
+  "defense_power": "2200",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/03/09",
+  "species_id": 18,
+  "starchip": "7"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 12902,
+  "card_name": "スカイスクレイパー・シュート",
+  "card_name_label": "スカイスクレイパー・シュート",
+  "card_name_search": "すかいすくれいぱーしゅーと",
+  "card_pen_effect": "",
+  "card_text": "①：自分フィールドの「E・HERO」融合モンスター１体を対象として発動できる。そのモンスターより攻撃力が高い相手フィールドの表側表示モンスターを全て破壊する。その後、この効果で破壊され墓地へ送られたモンスターの内、元々の攻撃力が一番高いモンスターのその数値分のダメージを相手に与える。自分のフィールドゾーンに「摩天楼」フィールド魔法カードが存在する場合、相手に与えるダメージは、この効果で破壊され墓地へ送られたモンスター全ての元々の攻撃力の合計分となる。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/12/17",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 2,
+  "card_id": 17131,
+  "card_name": "Predaplanta Triantis",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Mientras esta carta está en tu Zona de Péndulo, si Invocas por Fusión un Monstruo de Fusión de OSCURIDAD, también puedes usar cartas en tu Zona de Péndulo como monstruos en el Campo, como material para su Invocación por Fusión.",
+  "card_text": "Si esta carta es mandada al Cementerio o añadida a tu Deck Extra boca arriba porque fue usada como Material de Fusión: puedes elegir monstruos en el Campo, hasta el número de monstruos que controlas, y poner 1 Contador de Predador en cada uno y, si lo haces, cualquiera de esos monstruos que sea de Nivel 2 o mayor se convierte en Nivel 1 mientras tenga un Contador de Predador.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "8",
+  "pen_scale_r": "8",
+  "sales_at": "2022/05/19",
+  "species_id": 13,
+  "starchip": "8"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14426,
+  "card_name": "静冠の呪眼",
+  "card_name_label": "せいかんのじゅがん",
+  "card_name_search": "せいかんのじゅがん",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：このカードは自分の墓地から「呪眼」カード１枚を除外して発動する事もできる。その場合、自分はデッキから１枚ドローする。②：１ターンに１度、「セレンの呪眼」を装備した自分の「呪眼」モンスターが相手モンスターを攻撃したダメージ計算後に発動できる。その相手モンスターを除外する。③：魔法＆罠ゾーンのこのカードが効果で破壊された場合、除外されている自分の「呪眼」カードを３枚まで対象として発動できる。そのカードを墓地に戻す。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/02/23",
+  "species_id": 24,
+  "starchip": "0"
+}

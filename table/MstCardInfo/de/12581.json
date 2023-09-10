@@ -1,0 +1,23 @@
+{
+  "attack_power": "4000",
+  "attribute_id": 5,
+  "card_id": 12581,
+  "card_name": "Imperion Magnum, der superleitende Kampfroboter",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "„Valkyrion, Magnetkrieger“ + „Berserkion, Elektromagnetkrieger“$NMuss als Fusionsbeschwörung mit dem oben aufgeführten Fusionsmaterial beschworen werden und kann nicht auf andere Art als Spezialbeschwörung beschworen werden. Einmal pro Spielzug, während des Spielzugs eines beliebigen Spielers, wenn dein Gegner eine Zauber-/Fallenkarte oder einen Monstereffekt aktiviert: Du kannst die Aktivierung annullieren und falls du dies tust, zerstöre die Karte. Falls diese offene Karte, die ihr Besitzer kontrolliert, das Spielfeld durch einen Karteneffekt deines Gegners verlässt: Du kannst sowohl 1 „Valkyrion, Magnetkrieger“ als auch 1 „Berserkion, Elektromagnetkrieger“ als Spezialbeschwörung von deiner Hand und/oder deinem Deck beschwören, ungeachtet ihrer Beschwörungsbedingungen.",
+  "defense_power": "4000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/10/20",
+  "species_id": 6,
+  "starchip": "10"
+}

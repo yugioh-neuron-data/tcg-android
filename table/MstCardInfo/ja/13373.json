@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 1,
+  "card_id": 13373,
+  "card_name": "ストライピング・パートナー",
+  "card_name_label": "ストライピング・パートナー",
+  "card_name_search": "すとらいぴんぐぱーとなー",
+  "card_pen_effect": "",
+  "card_text": "このカードは通常召喚できず、このカードの①の効果でのみ特殊召喚できる。このカード名の②の効果は１ターンに１度しか使用できない。①：自分フィールドで発動したモンスターの効果の発動が無効になった場合に発動できる。このカードを手札から特殊召喚する。②：このカードが特殊召喚に成功した時、自分の墓地のレベル４以下のサイバース族モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/10/14",
+  "species_id": 27,
+  "starchip": "4"
+}

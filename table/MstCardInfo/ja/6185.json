@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 6,
+  "card_id": 6185,
+  "card_name": "一撃必殺侍",
+  "card_name_label": "いちげきひっさつざむらい",
+  "card_name_search": "いちげきひっさつざむらい",
+  "card_pen_effect": "",
+  "card_text": "①：このカードが相手モンスターと戦闘を行うダメージステップ開始時に発動する。コイントスを１回行い、裏表を当てる。当たった場合、その相手モンスターを破壊する。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/08/05",
+  "species_id": 15,
+  "starchip": "4"
+}

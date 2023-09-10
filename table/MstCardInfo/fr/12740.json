@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 6,
+  "card_id": 12740,
+  "card_name": "Prix Gomme Vitesseroid",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durant la Battle Phase, si vous recevez des dommages de combat ou d'effet : vous pouvez Invoquer Spécialement cette carte depuis votre main. Durant la Battle Phase de chaque joueur où cette carte a été Invoquée Spécialement par son effet, vous pouvez : immédiatement après la résolution de cet effet, Invoquez par Synchronisation 1 Monstre Synchro, en utilisant uniquement des monstres VENT que vous contrôlez (cette carte incluse). Si cette carte est envoyée au Cimetière comme Matériel de Synchro : vous pouvez envoyer la carte du dessus de votre Deck au Cimetière, et si la carte envoyée était un monstre \"Vitesseroid\", le Monstre Synchro qui a utilisé cette carte comme Matériel de Synchro gagne 1000 ATK.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/02/09",
+  "species_id": 7,
+  "starchip": "1"
+}

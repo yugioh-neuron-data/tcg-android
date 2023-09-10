@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 2,
+  "card_id": 12908,
+  "card_name": "Mago Doble Iris",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Una vez por turno: puedes seleccionar 1 monstruo de OSCURIDAD de Tipo Lanzador de Conjuros que controles; aplícale este efecto, y después destruye esta carta. Una vez aplicado, duplica cualquier daño de batalla que ese monstruo inflija a tu adversario este turno si batalla con un monstruo de tu adversario.",
+  "card_text": "(Esta carta se trata siempre como una carta \"Dragón de Péndulo\").$NSi esta carta es destruida en batalla o por efecto de una carta: puedes añadir a tu mano 1 carta \"Péndulografo/a\" en tu Deck.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "8",
+  "pen_scale_r": "8",
+  "sales_at": "2017/06/22",
+  "species_id": 18,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2300",
+  "attribute_id": 1,
+  "card_id": 11517,
+  "card_name": "カブキ・ドラゴン",
+  "card_name_label": "カブキ・ドラゴン",
+  "card_name_search": "かぶきどらごん",
+  "card_pen_effect": "",
+  "card_text": "①：１ターンに１度、自分のモンスターが相手のモンスターに攻撃したダメージ計算前に発動できる。その相手のモンスターの表示形式を変更する。②：１ターンに１度、相手のモンスターが自分のモンスターに攻撃したダメージ計算前に発動できる。その自分のモンスターの表示形式を変更する。",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/09/19",
+  "species_id": 1,
+  "starchip": "6"
+}

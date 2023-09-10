@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 5,
+  "card_id": 10980,
+  "card_name": "ドドドドライバー",
+  "card_name_label": "ドドドドライバー",
+  "card_name_search": "どどどどらいばー",
+  "card_pen_effect": "",
+  "card_text": "このカードが「ドドド」と名のついたモンスターの効果によって特殊召喚されたターン、自分フィールド上の「ドドド」と名のついたモンスター１体を選択し、以下の効果から１つを選択して発動できる。この効果は１ターンに２度まで使用できる。$N●選択したモンスターのレベルを１つ上げる。$N●選択したモンスターのレベルを１つ下げる。",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/10/21",
+  "species_id": 15,
+  "starchip": "4"
+}

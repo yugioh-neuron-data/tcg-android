@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 6469,
+  "card_name": "Ojamuscle",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "(Cette carte est toujours traitée comme une carte \"Ojama\".)$NSélectionnez 1 \"Ojama Roi\" face recto sur le Terrain. Détruisez chaque monstre sur le Terrain qui inclut \"Ojama\" dans son nom de carte, excepté l' \"Ojama Roi\" sélectionné. Augmentez l'ATK de l' \"Ojama Roi\" sélectionné de 1000 points pour chaque monstre détruit.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/11/05",
+  "species_id": 24,
+  "starchip": "0"
+}

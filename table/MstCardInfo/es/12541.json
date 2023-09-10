@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 12541,
+  "card_name": "Zushin el Gigante Durmiente",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial (desde tu mano) Sacrificando un monstruo que controles con 10 Contadores Zushin. Una vez por turno: puedes mostrar esta carta en tu mano, y después seleccionar 1 Monstruo Normal de Nivel 1 que controles (sigue mostrando esta carta hasta el final de este turno); pon 1 Contador Zushin en ella. No es afectada por efectos de otras cartas. Si esta carta batalla con un monstruo, durante el cálculo de daño: el ATK/DEF de esta carta se convierten en iguales al ATK en este momento del monstruo con el que está batallando +1000, sólo durante ese cálculo de daño.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/08/18",
+  "species_id": 15,
+  "starchip": "10"
+}

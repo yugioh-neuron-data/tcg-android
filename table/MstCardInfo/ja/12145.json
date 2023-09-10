@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 6,
+  "card_id": 12145,
+  "card_name": "イルミラージュ",
+  "card_name_label": "イルミラージュ",
+  "card_name_search": "いるみらーじゅ",
+  "card_pen_effect": "",
+  "card_text": "①：このカードがモンスターゾーンに存在する限り、フィールドのモンスターの攻撃力・守備力は、そのモンスターのレベルまたはランク×３００ダウンする。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/10/17",
+  "species_id": 26,
+  "starchip": "3"
+}

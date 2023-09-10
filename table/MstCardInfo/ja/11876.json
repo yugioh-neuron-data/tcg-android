@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 11876,
+  "card_name": "ダイナソーイング",
+  "card_name_label": "ダイナソーイング",
+  "card_name_search": "だいなそーいんぐ",
+  "card_pen_effect": "",
+  "card_text": "①：このカードは戦闘では破壊されない。②：このカードが攻撃対象に選択された場合に発動する。このカードの攻撃力・守備力は１０００アップする。③：このカードが攻撃したダメージ計算後に発動する。このカードの②の効果でアップした数値は０に戻る。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/09/19",
+  "species_id": 3,
+  "starchip": "4"
+}

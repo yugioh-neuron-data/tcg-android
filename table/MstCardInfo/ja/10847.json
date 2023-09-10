@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 2,
+  "card_id": 10847,
+  "card_name": "No.48 シャドー・リッチ",
+  "card_name_label": "ナンバーズ４８ シャドー・リッチ",
+  "card_name_search": "なんばーずよんじゅうはちしゃどーりっち",
+  "card_pen_effect": "",
+  "card_text": "レベル３モンスター×２$N①：相手ターンに１度、このカードのX素材を１つ取り除いて発動できる。自分フィールドに「幻影トークン」（悪魔族・闇・星１・攻／守５００）１体を特殊召喚する。②：このカードの攻撃力は、自分フィールドの「幻影トークン」の数×５００アップする。③：自分フィールドに「幻影トークン」が存在する限り、相手はこのカードを攻撃対象に選択できない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/08/21",
+  "species_id": 2,
+  "starchip": "3"
+}

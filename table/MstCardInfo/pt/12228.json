@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 2,
+  "card_id": 12228,
+  "card_name": "D/D Orthros",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Uma vez por turno: você pode escolher 1 Card de Magia/Armadilha no campo e 1 outro card \"D/D\" ou \"Pacto Obscuro\" que você controla; destrua-os.",
+  "card_text": "Quando você sofrer dano de batalha ou de efeito: você pode Invocar este card por Invocação-Especial da sua mão. Se este card for Invocado por Invocação-Especial no seu campo, você não pode Invocar monstros por Invocação-Especial pelo resto deste turno, exceto monstros do Tipo Demônio.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 33,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2017/01/19",
+  "species_id": 3,
+  "starchip": "4"
+}

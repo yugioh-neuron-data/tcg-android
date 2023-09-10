@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 1,
+  "card_id": 10119,
+  "card_name": "ライトレイ グレファー",
+  "card_name_label": "ライトレイ　グレファー",
+  "card_name_search": "らいとれいぐれふぁー",
+  "card_pen_effect": "",
+  "card_text": "このカードは手札からレベル５以上の光属性モンスター１体を捨てて、手札から特殊召喚できる。１ターンに１度、手札から光属性モンスター１体を捨てて発動できる。デッキから光属性モンスター１体を選び、ゲームから除外する。",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/05/18",
+  "species_id": 15,
+  "starchip": "4"
+}

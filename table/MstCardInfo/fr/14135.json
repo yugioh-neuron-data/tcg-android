@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14135,
+  "card_name": "Scène en Direct Farstar",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsque cette carte est activée : vous pouvez ajouter 1 monstre \"Farstar\" depuis votre Cimetière à votre main. Vous ne pouvez utiliser chacun des effets suivants de \"Scène en Direct Farstar\" qu'une fois par tour, et aussi, vous ne pouvez pas Invoquer Spécialement de monstres (monstres \"Farstar\" exclus) le tour où vous activez ces effets (même si cette carte quitte le Terrain).$N●Si vous contrôlez un Monstre Lien \"Farstar\" : vous pouvez Invoquer Spécialement 1 \"Jeton Farstar\" (Elfe/LUMIÈRE/Niveau 1/ATK 0/DEF 0).$N●Si votre adversaire contrôle une carte dans sa Zone Magie & Piège : vous pouvez Invoquer Spécialement 1 \"Jeton Farstar\".",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/01/31",
+  "species_id": 24,
+  "starchip": "0"
+}

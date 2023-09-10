@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 5753,
+  "card_name": "ファラオの審判",
+  "card_name_label": "ファラオのしんぱん",
+  "card_name_search": "ふぁらおのしんぱん",
+  "card_pen_effect": "",
+  "card_text": "ライフポイントを半分払う。以下の条件が当てはまり、適用できる効果を選択して発動する。$N●自分の墓地に「友情 YU－JYO」が存在する場合、相手プレイヤーはターン終了時までモンスターのセット・召喚・反転召喚・特殊召喚・効果モンスターの効果発動ができなくなる。$N●自分の墓地に「結束 UNITY」が存在する場合、ターン終了時まで相手フィールド上の魔法・罠の効果を無効にし、さらに相手プレイヤーは魔法・罠の発動・セットができなくなる。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/12/04",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 5402,
+  "card_name": "スピリットの誘い",
+  "card_name_label": "スピリットのいざない",
+  "card_name_search": "すぴりっとのいざない",
+  "card_pen_effect": "",
+  "card_text": "このカードのコントローラーは自分のスタンバイフェイズ毎に５００ライフポイントを払う。または、５００ライフポイント払わずにこのカードを破壊する。フィールド上に表側表示で存在するスピリットモンスターが自分の手札に戻った時、相手フィールド上に存在するモンスター１体を相手が選択して持ち主の手札に戻す。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2001/11/29",
+  "species_id": 25,
+  "starchip": "0"
+}

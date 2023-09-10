@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16540,
+  "card_name": "大霊峰相剣門",
+  "card_name_label": "だいれいほうそうけんもん",
+  "card_name_search": "だいれいほうそうけんもん",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分の墓地の「相剣」モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。自分フィールドにSモンスターが存在する場合、代わりに幻竜族モンスター１体を対象とする事もできる。②：このカードが除外された場合、自分フィールドの、「相剣」モンスターまたは幻竜族モンスター１体を対象として発動できる。そのモンスターのレベルをターン終了時まで１つ上げる、または下げる。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/07/17",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 4,
+  "card_id": 11960,
+  "card_name": "Künstlerzauberer Plüschfeuer",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Falls ein oder mehr „Künstlerzauberer“-Monster, die du kontrollierst, durch Kampf oder einen Karteneffekt zerstört werden: Du kannst diese Karte als Spezialbeschwörung von deiner Pendelzone beschwören, dann erhältst du 500 Schaden. Du kannst diesen Effekt von „Künstlerzauberer Plüschfeuer“ nur einmal pro Spielzug verwenden.",
+  "card_text": "Falls diese Karte auf dem Spielfeld durch Kampf oder einen Karteneffekt zerstört wird: Du kannst 1 „Künstlerzauberer“-Monster als Spezialbeschwörung von deiner Hand oder deinem Deck beschwören, außer „Künstlerzauberer Plüschfeuer“.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2015/11/05",
+  "species_id": 18,
+  "starchip": "4"
+}

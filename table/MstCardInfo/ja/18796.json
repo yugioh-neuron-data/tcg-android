@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 1,
+  "card_id": 18796,
+  "card_name": "オルターガイスト・マルウィスプ",
+  "card_name_label": "オルターガイスト・マルウィスプ",
+  "card_name_search": "おるたーがいすとまるうぃすぷ",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。$N①：このカードがドロー以外の方法で手札に加わった場合に発動できる。このカードを特殊召喚する。$N②：このカードが召喚・特殊召喚した場合、「オルターガイスト・マルウィスプ」以外の自分の墓地の「オルターガイスト」モンスター１体を対象として発動できる。そのモンスターを守備表示で特殊召喚する。このターン、この効果で特殊召喚したモンスターの効果は発動できない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/04/22",
+  "species_id": 18,
+  "starchip": "3"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 3,
+  "card_id": 16273,
+  "card_name": "Pendransazione",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 mostri di Livello 4$NPuoi staccare 1 materiale da questa carta; se hai più carte nel tuo Extra Deck del tuo avversario, applica questi effetti in ordine, a seconda della differenza.$N●1+: Questa carta guadagna 1000 ATK fino alla fine del turno del tuo avversario.$N●5+: Nessun giocatore può scegliere come bersaglio questa carta con gli effetti delle carte fino alla fine del turno del tuo avversario.$N●10+: Bandisci 1 carta controllata dal tuo avversario.$N●15+: Rendi i LP del tuo avversario 3000.$NPuoi utilizzare questo effetto di \"Pendransazione\" una sola volta per turno.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/06/03",
+  "species_id": 27,
+  "starchip": "4"
+}

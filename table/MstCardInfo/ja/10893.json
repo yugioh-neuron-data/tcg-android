@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 1,
+  "card_id": 10893,
+  "card_name": "フォトン・チャージマン",
+  "card_name_label": "フォトン・チャージマン",
+  "card_name_search": "ふぉとんちゃーじまん",
+  "card_pen_effect": "",
+  "card_text": "１ターンに１度、自分のメインフェイズ時に発動できる。このカードの攻撃力は、次の自分のスタンバイフェイズ時まで元々の攻撃力の倍になる。この効果を発動するターン、このカードは攻撃できない。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/11/16",
+  "species_id": 15,
+  "starchip": "4"
+}

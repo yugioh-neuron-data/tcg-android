@@ -1,0 +1,23 @@
+{
+  "attack_power": "2200",
+  "attribute_id": 1,
+  "card_id": 8971,
+  "card_name": "サンダー・ユニコーン",
+  "card_name_label": "サンダー・ユニコーン",
+  "card_name_search": "さんだーゆにこーん",
+  "card_pen_effect": "",
+  "card_text": "獣族チューナー＋チューナー以外のモンスター１体以上$N１ターンに１度、自分のメインフェイズ時に相手フィールド上に表側表示で存在するモンスター１体を選択して発動する事ができる。選択したモンスターの攻撃力はエンドフェイズ時まで、自分フィールド上に存在するモンスターの数×５００ポイントダウンする。この効果を発動するターン、このカード以外のモンスターは攻撃する事ができない。",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/04/17",
+  "species_id": 11,
+  "starchip": "5"
+}

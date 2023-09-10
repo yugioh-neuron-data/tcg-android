@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 1,
+  "card_id": 6339,
+  "card_name": "電池メン－単三型",
+  "card_name_label": "でんちメン－たんさんがた",
+  "card_name_search": "でんちめんたんさんがた",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上の「電池メン－単三型」が全て攻撃表示だった場合、「電池メン－単三型」１体につきこのカードの攻撃力は１０００ポイントアップする。自分フィールド上の「電池メン－単三型」が全て守備表示だった場合、「電池メン－単三型」１体につきこのカードの守備力は１０００ポイントアップする。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/02/24",
+  "species_id": 19,
+  "starchip": "3"
+}

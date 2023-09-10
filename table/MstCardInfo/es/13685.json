@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 2,
+  "card_id": 13685,
+  "card_name": "Duque Sombra, el Señor de las Sombras Siniestras",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Puedes Sacrificar cualquier número de monstruos de OSCURIDAD; Invoca esta carta de Modo Especial desde tu mano y, si lo haces, ésta gana 500 ATK por cada monstruo que Sacrificaste. Si esta carta es Invocada de Modo Normal o Especial: puedes seleccionar 1 monstruo de OSCURIDAD de Nivel 5 o mayor en tu Cementerio; añádelo a tu mano. Sólo puedes usar cada efecto de \"Duque Sombra, el Señor de las Sombras Siniestras\" una vez por turno. El turno en el que activas cualquiera de los efectos de esta carta no puedes Invocar monstruos de Modo Especial, excepto monstruos de OSCURIDAD.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/04/19",
+  "species_id": 3,
+  "starchip": "4"
+}

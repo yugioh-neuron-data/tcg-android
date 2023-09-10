@@ -1,0 +1,23 @@
+{
+  "attack_power": "-1",
+  "attribute_id": 4,
+  "card_id": 8302,
+  "card_name": "フォーチュンレディ・ファイリー",
+  "card_name_label": "フォーチュンレディ・ファイリー",
+  "card_name_search": "ふぉーちゅんれでぃふぁいりー",
+  "card_pen_effect": "",
+  "card_text": "このカードの攻撃力・守備力は、このカードのレベル×２００ポイントになる。また、自分のスタンバイフェイズ時、このカードのレベルを１つ上げる（最大レベル１２まで）。このカードが「フォーチュンレディ」と名のついたカードの効果によって表側攻撃表示で特殊召喚に成功した時、相手フィールド上に表側表示で存在するモンスター１体を選択して破壊し、破壊したモンスターの攻撃力分のダメージを相手ライフに与える。",
+  "defense_power": "-1",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/04/18",
+  "species_id": 18,
+  "starchip": "2"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 1,
+  "card_id": 11799,
+  "card_name": "Camaramágico Malabarista Danoso",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Quando um card ou efeito que causaria dano a você for ativado (Efeito Rápido): você pode descartar este card; negue a ativação e, se isso acontecer, destrua esse card. Durante a Fase de Batalha (Efeito Rápido): você pode descartar este card; reduza a 0 o próximo dano de batalha que você sofreria neste turno. Você pode banir este card do seu Cemitério; adicione 1 monstro \"Camaramágico\" do seu Deck à sua mão, exceto \"Camaramágico Malabarista Danoso\". Você só pode usar este efeito de \"Camaramágico Malabarista Danoso\" uma vez por turno.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/08/06",
+  "species_id": 18,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 2,
+  "card_id": 11423,
+  "card_name": "盾航戦車ステゴサイバー",
+  "card_name_label": "じゅんこうせんしゃステゴサイバー",
+  "card_name_search": "じゅんこうせんしゃすてごさいばー",
+  "card_pen_effect": "",
+  "card_text": "「盾航戦車ステゴサイバー」の効果は１ターンに１度しか使用できない。①：このカードが墓地に存在し、相手モンスターが攻撃した場合、そのダメージ計算時に１０００LPを払って発動できる。このカードを墓地から特殊召喚し、その戦闘で発生する自分への戦闘ダメージは０になる。この効果で特殊召喚したこのカードはフィールドから離れた場合に除外される。",
+  "defense_power": "2400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/09/19",
+  "species_id": 9,
+  "starchip": "6"
+}

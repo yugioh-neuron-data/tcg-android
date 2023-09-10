@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 8380,
+  "card_name": "バーサーキング",
+  "card_name_label": "バーサーキング",
+  "card_name_search": "ばーさーきんぐ",
+  "card_pen_effect": "",
+  "card_text": "１ターンに１度、フィールド上に表側表示で存在する獣族モンスター２体を選択して発動する事ができる。そのターンのエンドフェイズ時まで、選択したモンスター１体の攻撃力を半分にし、その数値分もう１体のモンスターの攻撃力をアップする。この効果は自分のメインフェイズ時及び相手のバトルフェイズ時にのみ発動する事ができる。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/09/18",
+  "species_id": 25,
+  "starchip": "0"
+}

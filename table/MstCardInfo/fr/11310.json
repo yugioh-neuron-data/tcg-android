@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 11310,
+  "card_name": "Chaos, HÉROS du Contraste",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 monstres \"HÉROS Masqué\"$N(Cette carte est toujours traitée comme une carte \"HÉROS Élémentaire\".)$NUniquement Invocable par Fusion et non Invocable Spécialement autrement. Tant que cette carte est face recto sur le Terrain, elle est aussi LUMIÈRE. Une fois par tour, durant le tour de chaque joueur : vous pouvez cibler 1 carte face recto sur le Terrain ; jusqu'à la fin de ce tour, annulez les effets de la cible.",
+  "defense_power": "2600",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/01/29",
+  "species_id": 15,
+  "starchip": "9"
+}

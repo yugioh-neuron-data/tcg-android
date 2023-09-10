@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 5,
+  "card_id": 9451,
+  "card_name": "시엔의 황무자",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드가 일반 소환에 성공했을 때, 이 카드에 무사도 카운터를 1개 놓는다(최대 1개까지). 이 카드에 무사도 카운터가 얹혀 있을 경우, 이 카드의 공격력은 300 포인트 올린다. 또한, 1턴에 1번, 이 카드에 얹혀 있는 무사도 카운터를 제거하고, 필드 위에 앞면 표시로 존재하는 무사도 카운터를 놓을 수 있는 카드 1장을 선택하고 무사도 카운터를 1개 놓을 수 있다.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/11/16",
+  "species_id": 15,
+  "starchip": "4"
+}

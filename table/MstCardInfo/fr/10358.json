@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10358,
+  "card_name": "Couloir des Étoiles du Livre de Magie",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Chaque fois qu'une Carte Magie \"Livre de Magie\" est activée, placez 1 Compteur Magie sur cette carte. Tous les monstres de Type Magicien que vous contrôlez gagnent 100 ATK pour chaque Compteur Magie sur cette carte. Lorsque cette carte avec un ou plusieurs Compteurs Magie est détruite et envoyée au Cimetière : vous pouvez ajouter 1 monstre de Type Magicien depuis votre Deck à votre main, dont le Niveau est inférieur ou égal au nombre de Compteurs Magie qui étaient sur cette carte.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/11/08",
+  "species_id": 24,
+  "starchip": "0"
+}

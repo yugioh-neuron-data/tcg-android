@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 10998,
+  "card_name": "プランクスケール",
+  "card_name_label": "プランクスケール",
+  "card_name_search": "ぷらんくすけーる",
+  "card_pen_effect": "",
+  "card_text": "①：このターン中、以下の効果を適用する。$N●お互いのフィールドの全てのランク３以下のXモンスターの攻撃力・守備力は５００アップする。$N●お互いのフィールドの全てのランク４以上のXモンスターは攻撃できない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/09/13",
+  "species_id": 25,
+  "starchip": "0"
+}

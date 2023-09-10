@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 5854,
+  "card_name": "バベル・タワー",
+  "card_name_label": "バベル・タワー",
+  "card_name_search": "ばべるたわー",
+  "card_pen_effect": "",
+  "card_text": "このカードがフィールド上に存在する限り、自分または相手が魔法カードを発動する度に、このカードに魔力カウンターを１つ置く。このカードに４つ目の魔力カウンターが乗った時にこのカードを破壊し、その時に魔法カードを発動したプレイヤーは３０００ポイントダメージを受ける。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2003/04/24",
+  "species_id": 25,
+  "starchip": "0"
+}

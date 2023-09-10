@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 5,
+  "card_id": 16518,
+  "card_name": "Señor Géminiszar Golknight",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Esta carta se trata como un Monstruo Normal mientras esté boca arriba en el Campo o en el Cementerio. Mientras esta carta sea un Monstruo Normal en el Campo, puedes Invocarla de Modo Normal para que se convierta en un Monstruo de Efecto con estos efectos.$N●Si esta carta es Invocada de Modo Normal o Especial: puedes añadir a tu mano 1 Mágica/Trampa en tu Deck que tenga \"monstruo Géminis\" o \"monstruos Géminis\" en su texto. Sólo puedes usar este efecto de \"Señor Géminiszar Golknight\" una vez por turno.$N●Esta carta se convierte en un monstruo Máquina, y además gana 500 ATK.",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 9,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/11/04",
+  "species_id": 15,
+  "starchip": "4"
+}

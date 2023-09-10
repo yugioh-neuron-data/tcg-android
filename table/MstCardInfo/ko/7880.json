@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 5,
+  "card_id": 7880,
+  "card_name": "D·클락큰",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드는 이 카드의 표시 형식에 따라 이하의 효과를 얻는다.$N●공격 표시 : 이 카드에 얹혀 있는 디포머 카운터 1개당, 이 카드의 공격력은 500 포인트 올린다.$N●수비 표시 : 1턴에 1번만, 이 카드에 디포머 카운터를 1개 놓을 수 있다. 이 카드를 릴리스하는 것으로, 이 카드에 얹혀 있는 디포머 카운터의 수 × 1000 포인트 데미지를 상대 라이프에 준다.",
+  "defense_power": "1100",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/03/05",
+  "species_id": 7,
+  "starchip": "2"
+}

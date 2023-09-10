@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 5,
+  "card_id": 11615,
+  "card_name": "Artistamico Stregone Pendulum",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Se uno o più mostri \"Artistamico\" vengono Evocati Pendulum sul tuo Terreno: tutti i mostri \"Artistamico\" che controlli attualmente guadagnano 1000 ATK fino alla fine di questo turno (anche se questa carta lascia il Terreno).",
+  "card_text": "Se questa carta viene Evocata Specialmente: puoi scegliere come bersaglio fino a 2 carte che controlli; distruggile e, se lo fai, aggiungi mostri \"Artistamico\" con nomi diversi dal tuo Deck alla tua mano, eccetto \"Artistamico Stregone Pendulum\", pari al numero di carte distrutte. Puoi utilizzare questo effetto di \"Artistamico Stregone Pendulum\" una sola volta per turno.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "2",
+  "pen_scale_r": "2",
+  "sales_at": "2016/01/14",
+  "species_id": 18,
+  "starchip": "4"
+}

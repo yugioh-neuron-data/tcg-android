@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 1,
+  "card_id": 14934,
+  "card_name": "虚光の宣告者",
+  "card_name_label": "ミラージュ・デクレアラー",
+  "card_name_search": "みらーじゅでくれあらー",
+  "card_pen_effect": "",
+  "card_text": "トークン以外の同じ種族・属性のモンスター２体$Nこのカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：魔法・罠カードの効果が発動した時、手札から天使族モンスター１体を墓地へ送って発動できる。その発動を無効にし破壊する。②：このカードが相手によって墓地へ送られた場合に発動できる。自分の墓地の儀式モンスター及び儀式魔法カードの中から、合計２枚まで選んで手札に加える（同名カードは１枚まで）。",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "13",
+  "linkno": "2",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/11/23",
+  "species_id": 17,
+  "starchip": ""
+}

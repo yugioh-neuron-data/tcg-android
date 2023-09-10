@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 12456,
+  "card_name": "Círculo Mágico Negro",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Quando este card for ativado: olhe os 3 cards do topo do seu Deck e, depois, você pode revelar 1 deles que seja \"Mago Negro\" ou uma Magia/Armadilha que mencione \"Mago Negro\" e adicioná-lo à sua mão e, além disso, coloque os cards restantes no topo do seu Deck em qualquer ordem. Se \"Mago Negro\" for Invocado por Invocação-Normal ou Especial no seu campo (exceto durante a Etapa de Dano): você pode escolher 1 card que seu oponente controla; bana-o. Você só pode usar cada efeito de \"Círculo Mágico Negro\" uma vez por turno.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/08/04",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 2,
+  "card_id": 5516,
+  "card_name": "墓守の大筒持ち",
+  "card_name_label": "はかもりのおおづつもち",
+  "card_name_search": "はかもりのおおづつもち",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上の「墓守の」という名のついたモンスターカード１体を生け贄に捧げる度に、相手に７００ポイントダメージを与える。この場合「墓守の大筒持ち」を生け贄に捧げる事はできない。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/05/16",
+  "species_id": 18,
+  "starchip": "4"
+}

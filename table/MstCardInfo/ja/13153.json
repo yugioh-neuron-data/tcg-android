@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 13153,
+  "card_name": "D-HERO ドリームガイ",
+  "card_name_label": "デステニーヒーロー　ドリームガイ",
+  "card_name_search": "ですてにーひーろーどりーむがい",
+  "card_pen_effect": "",
+  "card_text": "このカード名の効果は１ターンに１度しか使用できない。①：このカードが墓地に存在し、自分の「D-HERO」モンスターが戦闘を行うダメージ計算時に発動できる。このカードを墓地から特殊召喚し、その自分のモンスターはその戦闘では破壊されず、その戦闘で発生する自分への戦闘ダメージは０になる。この効果で特殊召喚したこのカードは、フィールドから離れた場合に除外される。",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/05/13",
+  "species_id": 15,
+  "starchip": "1"
+}

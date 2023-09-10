@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 5306,
+  "card_name": "スカル・ナイト",
+  "card_name_label": "スカル・ナイト",
+  "card_name_search": "すかるないと",
+  "card_pen_effect": "",
+  "card_text": "このカードを生け贄にして悪魔族モンスターを生け贄召喚した場合、デッキから「スカル・ナイト」１体を特殊召喚する。その後デッキをシャッフルする。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2001/09/20",
+  "species_id": 3,
+  "starchip": "3"
+}

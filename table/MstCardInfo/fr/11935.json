@@ -1,0 +1,23 @@
+{
+  "attack_power": "900",
+  "attribute_id": 3,
+  "card_id": 11935,
+  "card_name": "Magicien Dragonfosse",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Une fois par tour, si vous avez une carte \"Magicien\" dans votre autre Zone Pendule : vous pouvez défausser 1 Monstre Pendule, puis ciblez 1 Carte Magie/Piège sur le Terrain ; détruisez-la.",
+  "card_text": "Ce talentueux magicien peut éveiller l'énergie conservée dans les profondeurs de la terre, connues comme les Fosses du Dragon. Son attitude stoïque lui a valu quelques amitiés, et il se plie souvent aux désirs de son élève.",
+  "defense_power": "2700",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 25,
+  "pen_scale_l": "8",
+  "pen_scale_r": "8",
+  "sales_at": "2015/12/03",
+  "species_id": 18,
+  "starchip": "7"
+}

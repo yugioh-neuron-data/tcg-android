@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16757,
+  "card_name": "迷い花の森",
+  "card_name_label": "まよいばなのもり",
+  "card_name_search": "まよいばなのもり",
+  "card_pen_effect": "",
+  "card_text": "①：「星空蝶」を装備した自分のモンスターは相手が発動した効果を受けない。②：１ターンに１度、自分の「勇者トークン」が戦闘でモンスターを破壊した時に発動できる。自分はデッキから１枚ドローする。③：このカードの②の効果を発動したターンの自分メインフェイズに１度、発動できる。自分のデッキ・墓地から「迷い花の森」以外の「勇者トークン」のトークン名が記されたフィールド魔法カード１枚を選んで手札に加える。",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/08/28",
+  "species_id": 24,
+  "starchip": "0"
+}

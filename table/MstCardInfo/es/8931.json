@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 2,
+  "card_id": 8931,
+  "card_name": "Aligátor Oscuro",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Puedes Invocar esta carta por Sacrificio Sacrificando 1 monstruo Reptil. Cuando esta carta es Invocada por Sacrificio: puedes Invocar de Modo Especial hasta tantas \"Ficha Aligátor\" (Reptil/OSCURIDAD/Nivel 1/ATK 2000/DEF 0) como el número de monstruos Reptil Sacrificados para la Invocación por Sacrificio de esta carta. Si esta carta Invocada por Sacrificio es destruida en batalla, o es destruida por el efecto de una carta del adversario mientras esté en la Zona de Monstruos de su dueño: puedes añadir a tu mano 1 monstruo Reptil en tu Deck, excepto \"Aligátor Oscuro\".",
+  "defense_power": "2300",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/05/05",
+  "species_id": 20,
+  "starchip": "8"
+}

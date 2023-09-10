@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 12000,
+  "card_name": "Rituel du Super Soldat",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cette carte peut être utilisée pour Invoquer Rituellement un Monstre Rituel \"Soldat du Lustre Noir\". Vous devez aussi Sacrifier des monstres depuis votre main ou Terrain dont le Niveau total est exactement égal à 8. Durant votre Main Phase, sauf le tour où cette carte a été envoyée au Cimetière : vous pouvez bannir cette carte, 1 monstre LUMIÈRE et 1 monstre TÉNÈBRES depuis votre Cimetière ; Invoquez Spécialement 1 Monstre Rituel \"Soldat du Lustre Noir\" depuis votre main, en ignorant ses conditions d'Invocation. Vous ne pouvez utiliser cet effet de \"Rituel du Super Soldat\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 6,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/11/05",
+  "species_id": 24,
+  "starchip": "0"
+}

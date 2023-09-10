@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 3,
+  "card_id": 17780,
+  "card_name": "Dinomight Carga de Poder, el Dracoasesino",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Puedes seleccionar 1 carta \"Dracoasesino\" o \"Dinoniebla\" en tu otra Zona de Péndulo; Invócala de Modo Especial. Sólo puedes usar este efecto de \"Dinomight Carga de Poder, el Dracoasesino\" una vez por turno.",
+  "card_text": "(Esta carta se trata siempre como una carta \"Dinoniebla\").$NSi esta carta es Sacrificada: puedes añadir a tu mano 1 Monstruo de Péndulo \"Dracoasesino\" o \"Dinoniebla\" boca arriba en tu Deck Extra, excepto \"Dinomight Carga de Poder, el Dracoasesino\". Sólo puedes usar este efecto de \"Dinomight Carga de Poder, el Dracoasesino\" una vez por turno.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "6",
+  "pen_scale_r": "6",
+  "sales_at": "2022/10/20",
+  "species_id": 7,
+  "starchip": "4"
+}

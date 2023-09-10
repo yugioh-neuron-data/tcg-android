@@ -1,0 +1,23 @@
+{
+  "attack_power": "2900",
+  "attribute_id": 2,
+  "card_id": 12954,
+  "card_name": "EMガトリングール",
+  "card_name_label": "エンタメイトガトリングール",
+  "card_name_search": "えんためいとがとりんぐーる",
+  "card_pen_effect": "",
+  "card_text": "「EM」モンスター＋レベル５以上の闇属性モンスター$N「EMガトリングール」の効果は１ターンに１度しか使用できない。①：このカードが融合召喚に成功した場合に発動できる。フィールドのカードの数×２００ダメージを相手に与える。このカードがPモンスターを素材として融合召喚していた場合、さらに相手フィールドのモンスター１体を選んで破壊し、そのモンスターの元々の攻撃力分のダメージを相手に与える。",
+  "defense_power": "900",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/01/14",
+  "species_id": 3,
+  "starchip": "8"
+}

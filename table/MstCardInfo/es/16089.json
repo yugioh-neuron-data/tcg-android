@@ -1,0 +1,23 @@
+{
+  "attack_power": "2300",
+  "attribute_id": 4,
+  "card_id": 16089,
+  "card_name": "Angelia LaSolfacorde",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Tu adversario no puede activar una Carta Mágica/de Trampa, o efecto de monstruo, cuando uno o más de tus Monstruos de Péndulo \"Solfacorde\" son Invocados por Péndulo.",
+  "card_text": "Mientras tengas una Escala de Péndulo impar en tu Zona de Péndulo, si tu Monstruo de Péndulo \"Solfacorde\" ataca, hasta el final del Damage Step tu adversario no puede activar Cartas Mágicas/de Trampa o sus efectos. Durante tu Main Phase: puedes Sacrificar 1 Monstruo de Péndulo \"Solfacorde\" (aun si está boca abajo) y, si lo haces, Invoca de Modo Especial, desde tu Deck, 1 Monstruo de Péndulo \"Solfacorde\" cuya Escala de Péndulo sea 2 mayor o 2 menor que la de ese monstruo, excepto \"Angelia LaSolfacorde\". Sólo puedes usar este efecto de \"Angelia LaSolfacorde\" una vez por turno.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2021/05/06",
+  "species_id": 17,
+  "starchip": "6"
+}

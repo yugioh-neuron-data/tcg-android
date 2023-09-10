@@ -1,0 +1,23 @@
+{
+  "attack_power": "700",
+  "attribute_id": 5,
+  "card_id": 17156,
+  "card_name": "Champion Héroïque - Járngreipr",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 monstres Guerrier de Niveau 1$NLa première fois que chaque monstre Guerrier que vous contrôlez va être détruit au combat ou par un effet de carte chaque tour, il n'est pas détruit. Vous ne pouvez utiliser chacun des effets suivants de \"Champion Héroïque - Járngreipr\" qu'une fois par tour. Vous pouvez détacher 2 Matériels de cette carte, puis ciblez 1 monstre Guerrier de Niveau/Rang 4 dans votre Cimetière ; Invoquez-le Spécialement, et si vous le faites, cette carte gagne une ATK égale à l'ATK d'origine du monstre. Lorsqu'une attaque impliquant un monstre de votre adversaire est déclarée : vous pouvez gagner des LP égaux à la moitié de son ATK.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/05/19",
+  "species_id": 15,
+  "starchip": "1"
+}

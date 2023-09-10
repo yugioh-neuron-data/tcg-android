@@ -1,0 +1,23 @@
+{
+  "attack_power": "400",
+  "attribute_id": 2,
+  "card_id": 9844,
+  "card_name": "Anstreicher der Schmerzen",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Der Name dieser Karte wird zu „Seuchenverbreitender Zombie“, solange sie auf dem Spielfeld liegt. Einmal pro Spielzug: Du kannst bis zu 2 Zombie-Monster wählen, die du kontrollierst, außer dieser Karte; sie werden (bis zum Ende dieses Spielzugs) zu Stufe 2 und falls sie dies werden, können sie nicht als Synchromaterial verwendet werden, außer für die Synchrobeschwörung eines Zombie-Monsters.",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/08/12",
+  "species_id": 2,
+  "starchip": "2"
+}

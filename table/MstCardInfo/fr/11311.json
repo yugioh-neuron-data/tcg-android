@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 1,
+  "card_id": 11311,
+  "card_name": "Koga, HÉROS Masqué",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Uniquement Invocable Spécialement avec \"Changement de Masque\" et non Invocable Spécialement autrement. Cette carte gagne 500 ATK pour chaque monstre contrôlé par votre adversaire. Une fois par tour, durant le tour de chaque joueur : vous pouvez bannir 1 monstre \"HÉROS\" depuis votre Cimetière, puis ciblez 1 monstre face recto sur le Terrain ; jusqu'à la fin de ce tour, la cible perd une ATK égale à l'ATK du monstre banni pour activer cet effet.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/01/29",
+  "species_id": 15,
+  "starchip": "8"
+}

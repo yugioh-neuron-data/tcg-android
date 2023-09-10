@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 6864,
+  "card_name": "Cimetière des Âmes Errantes",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si cette carte est déjà face recto sur le Terrain :$N●Si un monstre que vous contrôlez est détruit au combat et envoyé au Cimetière : Invoquez Spécialement 1 \"Jeton Boule de Feu\" (Pyro/FEU/Niveau 1/ATK 100/DEF 100).$N●Si un ou plusieurs monstres dans votre main et/ou sur votre Terrain sont envoyés au Cimetière par un effet de carte de l'adversaire : Invoquez Spécialement autant de \"Jeton Boule de Feu\" que possible, inférieur ou égal au nombre de monstres envoyés. Vous ne pouvez utiliser cet effet de \"Cimetière des Âmes Errantes\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/03/19",
+  "species_id": 25,
+  "starchip": "0"
+}

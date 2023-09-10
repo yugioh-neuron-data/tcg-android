@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 3,
+  "card_id": 16273,
+  "card_name": "Pendransaction",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 Level 4 monsters$NYou can detach 1 material from this card; if you have more cards in your Extra Deck than your opponent's, apply these effects in sequence, depending on the difference.$N●1+: This card gains 1000 ATK until the end of your opponent's turn.$N●5+: Neither player can target this card with card effects until the end of your opponent's turn.$N●10+: Banish 1 card your opponent controls.$N●15+: Make your opponent's LP 3000.$NYou can only use this effect of \"Pendransaction\" once per turn.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/06/04",
+  "species_id": 27,
+  "starchip": "4"
+}

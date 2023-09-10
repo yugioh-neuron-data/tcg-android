@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 8514,
+  "card_name": "破邪の刻印",
+  "card_name_label": "はじゃのこくいん",
+  "card_name_search": "はじゃのこくいん",
+  "card_pen_effect": "",
+  "card_text": "相手のスタンバイフェイズ時に１度だけ、フィールド上に表側表示で存在するカード１枚を選択する。選択されたカードの効果はそのターン中無効になる。このカードのコントローラーは自分のスタンバイフェイズ毎に５００ライフポイントを払う。または、５００ライフポイント払わずにこのカードを破壊する。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/07/18",
+  "species_id": 25,
+  "starchip": "0"
+}

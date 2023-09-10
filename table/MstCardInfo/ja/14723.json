@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 5,
+  "card_id": 14723,
+  "card_name": "起動提督デストロイリボルバー",
+  "card_name_label": "きどうていとくデストロイリボルバー",
+  "card_name_search": "きどうていとくですとろいりぼるばー",
+  "card_pen_effect": "",
+  "card_text": "このカードは通常召喚できない。手札及び自分フィールドの表側表示のカードの中から、「ガジェット」モンスターカード２枚を墓地へ送った場合のみ特殊召喚できる。①：自分フィールドに「ガジェット」モンスターまたは装備カード扱いの「ガジェット」モンスターが存在する限り、このカードは戦闘・効果では破壊されない。②：１ターンに１度、このカード以外のフィールドのカード１枚を対象として発動できる。そのカードを破壊する。",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/10/03",
+  "species_id": 7,
+  "starchip": "8"
+}

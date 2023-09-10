@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 2,
+  "card_id": 6500,
+  "card_name": "連弾の魔術師",
+  "card_name_label": "れんだんのまじゅつし",
+  "card_name_search": "れんだんのまじゅつし",
+  "card_pen_effect": "",
+  "card_text": "このカードがフィールド上に表側表示で存在する限り、自分が通常魔法を発動する度に、相手ライフに４００ポイントダメージを与える。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/08/11",
+  "species_id": 18,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 8201,
+  "card_name": "ワンダー・クローバー",
+  "card_name_label": "ワンダー・クローバー",
+  "card_name_search": "わんだーくろーばー",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上に表側表示で存在するモンスター１体を選択し、手札からレベル４の植物族モンスター１体を墓地へ送って発動する。選択したモンスターは１度のバトルフェイズ中に２回攻撃する事ができる。このカードを発動するターン、自分フィールド上に存在する他のモンスターは攻撃宣言をする事ができない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/02/14",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "3500",
+  "attribute_id": 2,
+  "card_id": 12325,
+  "card_name": "Ataqueraptor - Falcão Definitivo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "3 monstros Besta Alada de Nível 10$NNão é afetado por outros efeitos de cards. Você pode desassociar 1 matéria deste card; pelo resto deste turno, todos os monstros que seu oponente controla perdem 1000 de ATK e, além disso, seu oponente não pode ativar cards ou efeitos. Se este card tiver um monstro \"Ataqueraptor\" como matéria, ele ganha este efeito.$N●Uma vez por turno, durante a Fase Final: você pode fazer com que todos os monstros que seu oponente controla percam 1000 de ATK e, além disso, se seu oponente não controlar monstros com a face para cima, cause 1000 de dano ao seu oponente.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/05/05",
+  "species_id": 16,
+  "starchip": "10"
+}

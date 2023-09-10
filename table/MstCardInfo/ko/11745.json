@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 11745,
+  "card_name": "요선향의 현훈풍",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "자신 필드에 레벨 6 이상의 \"요선수\" 몬스터가 존재할 경우에 이 카드를 발동할 수 있다. ①: 이 카드가 마법 & 함정 존에 존재하고, 자신 펜듈럼 존에 \"요선수\" 카드가 존재하는 한, 필드에 세트된 몬스터 및 \"요선수\" 몬스터 이외의 필드의 앞면 표시 몬스터가 효과로 패로 되돌아갈 경우, 패로 되돌아가지 않고 주인의 덱으로 되돌아간다.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/05/18",
+  "species_id": 25,
+  "starchip": "0"
+}

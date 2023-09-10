@@ -1,0 +1,23 @@
+{
+  "attack_power": "700",
+  "attribute_id": 2,
+  "card_id": 10362,
+  "card_name": "タスケルトン",
+  "card_name_label": "タスケルトン",
+  "card_name_search": "たすけるとん",
+  "card_pen_effect": "",
+  "card_text": "モンスターが戦闘を行うバトルステップ時、墓地のこのカードをゲームから除外して発動できる。そのモンスターの攻撃を無効にする。この効果は相手ターンでも発動できる。「タスケルトン」の効果はデュエル中に１度しか使用できない。",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/11/17",
+  "species_id": 2,
+  "starchip": "2"
+}

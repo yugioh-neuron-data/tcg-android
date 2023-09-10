@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 2,
+  "card_id": 10928,
+  "card_name": "Vengeur Xyz",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cette carte n'est pas affectée par les effets de Monstre Xyz. Lorsque cette carte est détruite au combat avec un Monstre Xyz et envoyée au Cimetière : activez 1 de ces effets, selon le Rang du Monstre Xyz qui a détruit cette carte ;$N●Max. Rang 3 : Votre adversaire envoie 1 carte depuis son Extra Deck au Cimetière.$N●Rang 4 : Choisissez 1 carte dans l'Extra Deck de votre adversaire et envoyez-la au Cimetière.$N●Min. Rang 5 : Votre adversaire envoie autant de cartes depuis son Extra Deck au Cimetière que possible, mais pas plus que le Rang du Monstre Xyz.",
+  "defense_power": "700",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/01/24",
+  "species_id": 3,
+  "starchip": "4"
+}

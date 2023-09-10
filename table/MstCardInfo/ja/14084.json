@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 14084,
+  "card_name": "ヴァレット・シンクロン",
+  "card_name_label": "ヴァレット・シンクロン",
+  "card_name_search": "う゛ぁれっとしんくろん",
+  "card_pen_effect": "",
+  "card_text": "①：このカードが召喚に成功した時、自分の墓地のレベル５以上のドラゴン族・闇属性モンスター１体を対象として発動できる。そのモンスターを効果を無効にして守備表示で特殊召喚する。この効果で特殊召喚したモンスターはエンドフェイズに破壊される。この効果の発動後、ターン終了時まで自分は闇属性モンスターしかEXデッキから特殊召喚できない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/10/13",
+  "species_id": 1,
+  "starchip": "1"
+}

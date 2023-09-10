@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10539,
+  "card_name": "최강의 방패",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "전사족 몬스터에만 장착 가능. ①: 장착 몬스터의 표시 형식에 따라 이하의 효과를 적용한다.$N●공격 표시: 장착 몬스터의 공격력은, 그 원래 수비력만큼 올린다.$N●수비 표시: 장착 몬스터의 수비력은, 그 원래 공격력만큼 올린다.",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/05/01",
+  "species_id": 24,
+  "starchip": "0"
+}

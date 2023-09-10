@@ -1,0 +1,23 @@
+{
+  "attack_power": "400",
+  "attribute_id": 4,
+  "card_id": 14238,
+  "card_name": "Salamagna Procione",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Quando un tuo mostro \"Salamagna\" viene scelto come bersaglio per un attacco da un mostro dell'avversario: puoi mandare questa carta dalla tua mano al Cimitero, poi scegliere come bersaglio quei 2 mostri che stanno per combattere; guadagni LP pari all'ATK di quel mostro dell'avversario, inoltre il tuo mostro scelto come bersaglio non può essere distrutto in battaglia in questo turno. Quando un tuo mostro \"Salamagna\" distrugge un mostro dell'avversario in battaglia e lo manda al Cimitero, mentre questa carta è nel tuo Cimitero: puoi aggiungere questa carta alla tua mano. Puoi utilizzare questo effetto di \"Salamagna Procione\" una sola volta per turno.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/02/14",
+  "species_id": 27,
+  "starchip": "1"
+}

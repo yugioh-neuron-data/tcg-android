@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15080,
+  "card_name": "Chantier Naval de la Patroll du Pillage",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Les monstres \"Patroll du Pillage\" que vous contrôlez gagnent 500 ATK pour chaque carte \"Patroll du Pillage\" dans votre Zone Magie & Piège. Vous ne pouvez utiliser chacun des effets suivants de \"Chantier Naval de la Patroll du Pillage\" qu'une fois par tour.$N●Vous pouvez défausser 1 carte ; ajoutez 1 carte \"Patroll du Pillage\" (\"Chantier Naval de la Patroll du Pillage\" exclu) depuis votre Deck à votre main.$N●Si cette carte est dans votre Cimetière : vous pouvez cibler 1 carte \"Patroll du Pillage\" dans votre Zone Magie & Piège ; Posez cette carte, et si vous le faites, renvoyez la cible à la main.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/01/30",
+  "species_id": 24,
+  "starchip": "0"
+}

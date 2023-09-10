@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 11861,
+  "card_name": "Flammes de Furet",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si la somme des ATK de tous les monstres face recto contrôlés par votre adversaire est supérieure à vos LP : faites mélanger votre adversaire des monstres face recto qu'il contrôle (monstres avec 0 ATK exclus) dans le Deck (son choix) de façon à ce que la somme des ATK des monstres restants qu'il contrôle devienne inférieure ou égale à vos LP.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/08/06",
+  "species_id": 25,
+  "starchip": "0"
+}

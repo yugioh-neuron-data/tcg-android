@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 5,
+  "card_id": 14743,
+  "card_name": "Binärer Schwertkämpfer",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 Normale Monster$NDiese Karte erhält diese Effekte, basierend auf der Anzahl der Monster, mit denen diese Karte kreuzgelinkt ist.$N●1+: Wenn diese Karte einen Angriff gegen ein Monster eines Gegners deklariert: Du kannst diesen Effekt aktivieren; diese Karte kann in diesem Spielzug während jeder Battle Phase einen zweiten Angriff durchführen, zusätzlich, falls diese Karte in diesem Spielzug gegen ein Monster eines Gegners kämpft, kann jenes Monster des Gegners durch jenen Kampf nicht zerstört werden.$N●2: Nach der Schadensberechnung, falls diese Karte gegen ein Monster eines Gegners gekämpft hat: Du kannst jenes Monster des Gegners verbannen.",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "46",
+  "linkno": "2",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/06/03",
+  "species_id": 27,
+  "starchip": ""
+}

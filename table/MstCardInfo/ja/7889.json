@@ -1,0 +1,23 @@
+{
+  "attack_power": "1300",
+  "attribute_id": 5,
+  "card_id": 7889,
+  "card_name": "パワー・インジェクター",
+  "card_name_label": "パワー・インジェクター",
+  "card_name_search": "ぱわーいんじぇくたー",
+  "card_pen_effect": "",
+  "card_text": "６００ライフポイントを払って発動する。そのターン中フィールド上に表側表示で存在する全てのサイキック族モンスターの攻撃力は５００ポイントアップする。この効果は１ターンに１度しか使用できない。",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/07/19",
+  "species_id": 21,
+  "starchip": "4"
+}

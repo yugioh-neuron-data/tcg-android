@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13423,
+  "card_name": "Prisão de Fogo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Todos os monstros Dragão no campo ganham 300 de DEF. Se qualquer Monstro Link estiver no campo, nenhum duelista pode Invocar por Invocação-Link um Monstro Link com um Valor Link menor que o maior Valor Link no campo. Monstros, exceto Monstros Link, não podem atacar. Aplique os seguintes efeitos enquanto 2 ou mais Monstros Link Ciberso estiverem no campo.$N●Negue os efeitos ativados de monstros Ciberso.$N●Monstros Ciberso não podem atacar, não podem ser escolhidos como alvo de ataques e não podem ser escolhidos como alvo de efeitos de card.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/02/01",
+  "species_id": 24,
+  "starchip": "0"
+}

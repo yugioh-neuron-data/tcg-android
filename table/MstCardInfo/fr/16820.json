@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 2,
+  "card_id": 16820,
+  "card_name": "Fantôme Vampire",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si cette carte est Invoquée Normalement : vous pouvez envoyer 1 autre carte \"Vampire\" depuis votre main ou Terrain face recto au Cimetière ; ajoutez 1 monstre \"Vampire\" de min. Niveau 4 depuis votre Deck à votre main, et si vous le faites, envoyez 1 monstre \"Vampire\" de max. Niveau 2 depuis votre Deck au Cimetière. Durant la Main Phase (Effet Rapide) : vous pouvez bannir cette carte depuis votre Cimetière, et payez 500 LP ; immédiatement après la résolution de cet effet, Invoquez Normalement 1 monstre \"Vampire\". Vous ne pouvez utiliser chaque effet de \"Fantôme Vampire\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/02/10",
+  "species_id": 2,
+  "starchip": "3"
+}

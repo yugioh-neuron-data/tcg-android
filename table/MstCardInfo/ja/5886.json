@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 5,
+  "card_id": 5886,
+  "card_name": "バルーン・リザード",
+  "card_name_label": "バルーン・リザード",
+  "card_name_search": "ばるーんりざーど",
+  "card_pen_effect": "",
+  "card_text": "自分のスタンバイフェイズ毎にこのカードにカウンターを１個乗せる。このカードを破壊したカードのコントローラーにカウンターの数×４００ポイントダメージを与える。",
+  "defense_power": "1900",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2003/07/17",
+  "species_id": 20,
+  "starchip": "4"
+}

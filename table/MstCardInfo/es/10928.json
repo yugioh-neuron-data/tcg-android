@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 2,
+  "card_id": 10928,
+  "card_name": "Vengador Xyz",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Esta carta no es afectada por los efectos de Monstruos Xyz. Cuando esta carta es destruida en batalla con un Monstruo Xyz y mandada al Cementerio: activa 1 de estos efectos, dependiendo del Rango del Monstruo Xyz que destruyó a esta carta;$N●Rango 3 o menor: Tu adversario manda al Cementerio 1 carta en su Deck Extra.$N●Rango 4: Elige 1 carta en el Deck Extra de tu adversario y mándala al Cementerio.$N●Rango 5 o mayor: Tu adversario manda al Cementerio tantas cartas en su Deck Extra como sea posible, pero no más que el Rango del Monstruo Xyz.",
+  "defense_power": "700",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/01/23",
+  "species_id": 3,
+  "starchip": "4"
+}

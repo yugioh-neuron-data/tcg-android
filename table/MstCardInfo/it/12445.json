@@ -1,0 +1,23 @@
+{
+  "attack_power": "3300",
+  "attribute_id": 2,
+  "card_id": 12445,
+  "card_name": "Alto Paladino Nirvana",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Se un Mostro Pendulum che controlli attacca, per quella battaglia, esso non può essere distrutto in battaglia, inoltre tu non subisci danno da combattimento. Alla fine del Damage Step, se un Mostro Pendulum che controlli ha attaccato: tutti i mostri attualmente controllati dal tuo avversario perdono ATK pari all'ATK di quel mostro attaccante, fino alla fine di questo turno.",
+  "card_text": "1 Tuner + 1+ Mostri Synchro non-Tuner$NPer la Synchro Evocazione di questa carta, puoi considerare 1 Mostro Pendulum Evocato Pendulum che controlli come un Tuner. Se questa carta viene Synchro Evocata utilizzando un Mostro Pendulum Tuner Evocato Pendulum: puoi scegliere come bersaglio 1 carta nel tuo Cimitero; aggiungila alla tua mano. Quando questa carta distrugge un mostro dell'avversario in battaglia: puoi dimezzare i LP del tuo avversario. Se questa carta nella Zona Mostri viene distrutta in battaglia o dall'effetto di una carta: puoi mettere questa carta nella tua Zona Pendulum.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 35,
+  "pen_scale_l": "8",
+  "pen_scale_r": "8",
+  "sales_at": "2016/08/04",
+  "species_id": 18,
+  "starchip": "10"
+}

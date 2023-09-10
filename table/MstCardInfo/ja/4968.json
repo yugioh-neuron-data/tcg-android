@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 4968,
+  "card_name": "禁止令",
+  "card_name_label": "きんしれい",
+  "card_name_search": "きんしれい",
+  "card_pen_effect": "",
+  "card_text": "カード名を１つ宣言してこのカードを発動できる。①：このカードが魔法＆罠ゾーンに存在する限り、宣言されたカード名を元々のカード名とするお互いのカードに以下を適用する（この効果の適用前からフィールドに存在するカードには適用されない）。$N●フィールドに出す事ができない。$N●カードの発動及び効果の発動と適用ができない。$N●通常召喚・反転召喚・特殊召喚できない。$N●攻撃及び表示形式の変更ができない。$N●素材を必要とする特殊召喚のための素材にできない。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2000/09/28",
+  "species_id": 24,
+  "starchip": "0"
+}

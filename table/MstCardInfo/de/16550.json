@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16550,
+  "card_name": "Klangsucher",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Diese Karte wird verwendet, um „Transsonischer Klangvogel“ als Ritualbeschwörung zu beschwören. Du musst zusätzlich Monster von deiner Hand oder Spielfeldseite als Tribut anbieten, deren gemeinsame Stufe 4 oder mehr entspricht. Die Stufe des durch diesen Effekt als Spezialbeschwörung beschworenen Monsters wird gleich der Summe der Stufen der Monster, die für seine Ritualbeschwörung verwendet wurden. Du kannst diese Karte von deinem Friedhof verbannen und dann 1 Ritualmonster wählen, das du kontrollierst; lege 1 Ritualmonster mit demselben Typ oder derselben Eigenschaft von deinem Deck auf den Friedhof. Du kannst diesen Effekt von „Klangsucher“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "0",
+  "effect_id": 6,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/11/04",
+  "species_id": 24,
+  "starchip": "0"
+}

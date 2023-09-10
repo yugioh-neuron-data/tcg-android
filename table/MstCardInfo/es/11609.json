@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 6,
+  "card_id": 11609,
+  "card_name": "Guerrero Sinfónico Sintetizaador",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "VOLTEO: puedes añadir a tu mano 1 monstruo \"Guerrero Sinfónico\" en tu Deck, excepto \"Guerrero Sinfónico Sintetizaador\".$NUna vez por turno: puedes seleccionar 1 monstruo que controles o en tu Cementerio cuyo nombre original incluya \"Guerrero Sinfónico\", excepto \"Guerrero Sinfónico Sintetizaador\"; hasta la End Phase,el nombre de esta carta se convierte en el nombre original de ese monstruo, y reemplaza este efecto con los efectos originales de ese monstruo. Puedes desterrar esta carta en tu Cementerio, y después seleccionar 1 de tus monstruos \"Guerrero Sinfónico\" desterrados, excepto \"Guerrero Sinfónico Sintetizaador\"; Invócalo de Modo Especial.",
+  "defense_power": "1900",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 24,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/02/09",
+  "species_id": 7,
+  "starchip": "4"
+}

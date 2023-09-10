@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 14428,
+  "card_name": "死配の呪眼",
+  "card_name_label": "しはいのじゅがん",
+  "card_name_search": "しはいのじゅがん",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：相手がモンスターを攻撃表示で特殊召喚した時、そのモンスターより高い攻撃力を持つ「呪眼」モンスターが自分フィールドに存在する場合にその相手モンスター１体を対象としてこのカードを発動できる。そのモンスターのコントロールを得る。そのモンスターは自分の魔法＆罠ゾーンに「セレンの呪眼」が存在する限り、「呪眼」モンスターとしても扱う。そのモンスターがフィールドから離れた時にこのカードは破壊される。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/02/23",
+  "species_id": 25,
+  "starchip": "0"
+}

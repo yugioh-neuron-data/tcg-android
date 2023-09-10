@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 16217,
+  "card_name": "Psicopompos Portaperdición",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si esta carta es Invocada de Modo Especial: aplica este efecto, basado en si tu adversario tiene más monstruos en su Cementerio, o más Mágicas & Trampas. (Si tiene más monstruos, destierra esta carta y, si lo haces, tu adversario destierra 1 monstruo en su Cementerio. Si tiene más Mágicas & Trampas, manda esta carta al Cementerio y, si lo haces, tu adversario manda 1 monstruo que controle al Cementerio). Durante la End Phase del próximo turno después de que esta carta fuera desterrada: puedes Invocar de Modo Especial esta carta desterrada. Sólo puedes usar cada efecto de \"Psicopompos Portaperdición\" una vez por turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/08/12",
+  "species_id": 2,
+  "starchip": "2"
+}

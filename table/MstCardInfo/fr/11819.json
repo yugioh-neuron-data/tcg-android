@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 5,
+  "card_id": 11819,
+  "card_name": "Cananga Arômage",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Tant que vos LP sont supérieurs à ceux de votre adversaire, les monstres face recto contrôlés par votre adversaire perdent 500 ATK/DEF. Une fois par tour, si vous gagnez des LP : ciblez 1 Carte Magie/Piège contrôlée par votre adversaire ; renvoyez-la à la main.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/08/06",
+  "species_id": 13,
+  "starchip": "3"
+}

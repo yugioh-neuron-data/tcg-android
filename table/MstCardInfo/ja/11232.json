@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 2,
+  "card_id": 11232,
+  "card_name": "シャドール・ファルコン",
+  "card_name_label": "シャドール・ファルコン",
+  "card_name_search": "しゃどーるふぁるこん",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：このカードがリバースした場合、「シャドール・ファルコン」以外の自分の墓地の「シャドール」モンスター１体を対象として発動できる。そのモンスターを裏側守備表示で特殊召喚する。②：このカードが効果で墓地へ送られた場合に発動できる。このカードを裏側守備表示で特殊召喚する。",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 32,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/04/19",
+  "species_id": 18,
+  "starchip": "2"
+}

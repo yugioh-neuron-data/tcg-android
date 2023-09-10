@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 17260,
+  "card_name": "Modo Battle Royal - Uniéndose",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Activa esta carta seleccionando 1 Monstruo de Efecto en el Campo. Las dos primeras veces que ese monstruo fuera a ser destruido en batalla cada turno, no es destruido. Cuando es destruido en batalla, el jugador que lo destruyó gana 2000 LP. Si el adversario del jugador en turno recibe daño de batalla o efecto: activa este efecto; ese adversario puede aplicar el siguiente efecto.$N●Invoca de Modo Especial 1 monstruo de Nivel 4 o menor desde tu mano o Deck, pero pierde 2000 LP.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/03/09",
+  "species_id": 24,
+  "starchip": "0"
+}

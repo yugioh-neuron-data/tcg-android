@@ -1,0 +1,23 @@
+{
+  "attack_power": "1300",
+  "attribute_id": 2,
+  "card_id": 13402,
+  "card_name": "Geistervogel der Betörung",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Diese Karte erhält einen Effekt, basierend auf deiner Main-Monsterzone, in der sie liegt.$N●Ganz links: Erhält 1000 ATK/DEF.$N●Ganz rechts: Kann während jeder Battle Phase bis zu 2 Angriffe gegen Monster durchführen.$N●Mitte: Dein Gegner kann diese Karte nicht als Ziel für Karteneffekte wählen, zusätzlich kann sie nicht durch Karteneffekte deines Gegners zerstört werden.$N●Andere: Die Effekte von Monstern in dieser Spalte können nicht aktiviert werden.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/02/01",
+  "species_id": 16,
+  "starchip": "4"
+}

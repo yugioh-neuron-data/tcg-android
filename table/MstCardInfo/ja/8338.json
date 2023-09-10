@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 8338,
+  "card_name": "古の森",
+  "card_name_label": "いにしえのもり",
+  "card_name_search": "いにしえのもり",
+  "card_pen_effect": "",
+  "card_text": "このカードの発動時に、フィールド上に守備表示モンスターが存在する場合、そのモンスターを全て表側攻撃表示にする。この時、リバース効果モンスターの効果は発動しない。また、このカードがフィールド上に存在する限り、攻撃を行ったモンスターをバトルフェイズ終了時に破壊する。",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/04/18",
+  "species_id": 24,
+  "starchip": "0"
+}

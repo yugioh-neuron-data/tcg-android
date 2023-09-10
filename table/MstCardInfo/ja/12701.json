@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 1,
+  "card_id": 12701,
+  "card_name": "EMゴールド・ファング",
+  "card_name_label": "エンタメイトゴールド・ファング",
+  "card_name_search": "えんためいとごーるどふぁんぐ",
+  "card_pen_effect": "①：１ターンに１度、自分の「EM」モンスターが戦闘で相手モンスターを破壊した場合に発動する。相手に１０００ダメージを与える。",
+  "card_text": "①：このカードが召喚・特殊召喚に成功した場合に発動する。自分フィールドの「EM」モンスターの攻撃力はターン終了時まで２００アップする。",
+  "defense_power": "700",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2016/08/05",
+  "species_id": 11,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1100",
+  "attribute_id": 3,
+  "card_id": 16086,
+  "card_name": "MiSolfaccordo Eliteia",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Le Evocazioni Pendulum dei tuoi Mostri Pendulum \"Solfaccordo\" non possono essere annullate.",
+  "card_text": "Mentre hai un Valore Pendulum pari nella tua Zona Pendulum, non subisci danno da battaglie che coinvolgono i tuoi Mostri Pendulum \"Solfaccordo\". Se questa carta viene Evocata Normalmente o Specialmente: puoi scegliere come bersaglio 1 Magia/Trappola controllata dal tuo avversario; falla ritornare nella mano. Puoi utilizzare questo effetto di \"MiSolfaccordo Eliteia\" una sola volta per turno.",
+  "defense_power": "400",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "6",
+  "pen_scale_r": "6",
+  "sales_at": "2021/05/06",
+  "species_id": 17,
+  "starchip": "3"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 5,
+  "card_id": 5291,
+  "card_name": "아마조네스의 사슬 전사",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "①: 이 카드가 전투로 파괴되어 묘지로 보내졌을 때, 1500 LP를 지불하고 발동할 수 있다. 상대의 패를 확인하고, 그 중에서 몬스터 1장을 골라 자신의 패에 넣는다.",
+  "defense_power": "1300",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/24",
+  "species_id": 15,
+  "starchip": "4"
+}

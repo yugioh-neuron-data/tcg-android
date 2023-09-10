@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 5973,
+  "card_name": "キングゴブリン",
+  "card_name_label": "キングゴブリン",
+  "card_name_search": "きんぐごぶりん",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上にこのカード以外の悪魔族モンスターが存在する場合、このカードを攻撃する事はできない。このカードの攻撃力・守備力は、フィールド上のこのカード以外の悪魔族モンスターの数×１０００ポイントになる。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2003/11/20",
+  "species_id": 3,
+  "starchip": "1"
+}

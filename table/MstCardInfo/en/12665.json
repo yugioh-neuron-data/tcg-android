@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 12665,
+  "card_name": "Graydle Combat",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "When a Spell/Trap Card, or monster effect, that targets exactly 1 \"Graydle\" monster you control (and no other cards) is activated: Activate 1 of these effects;$N●The activated effect becomes \"Destroy that monster\".$N●Negate the activation, and if you do, destroy that card.",
+  "defense_power": "0",
+  "effect_id": 1,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/11/04",
+  "species_id": 25,
+  "starchip": "0"
+}

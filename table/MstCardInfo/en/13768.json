@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13768,
+  "card_name": "Zero Extra Link",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Activate this card by targeting 1 Link Monster you control that is co-linked to a Link Monster in the Extra Monster Zone. The targeted monster gains 800 ATK for each Link Monster on the field. If a Link Monster is Link Summoned using the targeted monster as material: That Link Monster gains the same ATK increase that the targeted monster had, until the end of this turn (even if this card leaves the field). After damage calculation, if the targeted monster attacked: Destroy this card.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/07/27",
+  "species_id": 24,
+  "starchip": "0"
+}

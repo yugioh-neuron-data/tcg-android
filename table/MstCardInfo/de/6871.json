@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 6871,
+  "card_name": "Verlockende Königin LV5",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Einmal pro Spielzug, während deiner Main Phase, falls diese Karte durch den Effekt von „%c6870“ als Spezialbeschwörung beschworen wurde, kannst du 1 Monster der Stufe 5 oder niedriger auf der Spielfeldseite deines Gegners wählen und diese Karte damit ausrüsten. (Nur 1 Karte kann zu jeder Zeit durch diesen Effekt ausgerüstet sein.) Falls diese Karte durch Kampf zerstört werden würde, wird stattdessen das ausrüstende Monster zerstört. Während deiner Standby Phase, indem du diese Karte auf den Friedhof legst, während sie durch ihren Effekt ausgerüstet ist, beschwöre als Spezialbeschwörung 1 „%c6872“ von deiner Hand oder deinem Deck.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/11/15",
+  "species_id": 18,
+  "starchip": "5"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 11857,
+  "card_name": "イグナイト・バースト",
+  "card_name_label": "イグナイト・バースト",
+  "card_name_search": "いぐないとばーすと",
+  "card_pen_effect": "",
+  "card_text": "①：１ターンに１度、自分メインフェイズにこの効果を発動できる。このカード以外の自分フィールドの「イグナイト」カードを３枚まで選んで破壊する。その後、破壊した数だけ相手フィールドのカードを選んで持ち主の手札に戻す。②：このカードが墓地へ送られた場合に発動できる。自分のエクストラデッキの表側表示の「イグナイト」Pモンスター１体を選んで手札に加える。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/04/25",
+  "species_id": 25,
+  "starchip": "0"
+}

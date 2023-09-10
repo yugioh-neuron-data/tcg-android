@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 17144,
+  "card_name": "Sarcoughagos Devorador",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando esta carta es destruida en batalla con un monstruo del adversario: puedes tomar el control de ese monstruo del adversario y, si lo haces, éste se convierte en un monstruo Zombi, y además su ATK/DEF se convierten en 0. Cuando tu monstruo Zombi es destruido en batalla con un monstruo del adversario, mientras esta carta está en tu Cementerio: puedes desterrar esta carta; toma el control de ese monstruo del adversario y, si lo haces, éste se convierte en un monstruo Zombi, y además su ATK/DEF se convierten en 0. Sólo puedes usar este efecto de \"Sarcoughagos Devorador\" una vez por turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/05/19",
+  "species_id": 2,
+  "starchip": "4"
+}

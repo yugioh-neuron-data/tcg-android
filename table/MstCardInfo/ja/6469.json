@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 6469,
+  "card_name": "おジャマッスル",
+  "card_name_label": "おジャマッスル",
+  "card_name_search": "おじゃまっする",
+  "card_pen_effect": "",
+  "card_text": "フィールド上に表側表示で存在する「おジャマ・キング」１体を選択する。選択した「おジャマ・キング」以外の「おジャマ」と名のついたモンスターを全て破壊する。破壊したモンスター１体につき、選択した「おジャマ・キング」１体の攻撃力は１０００ポイントアップする。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/08/11",
+  "species_id": 24,
+  "starchip": "0"
+}

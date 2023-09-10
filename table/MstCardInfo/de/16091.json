@@ -1,0 +1,23 @@
+{
+  "attack_power": "2700",
+  "attribute_id": 6,
+  "card_id": 16091,
+  "card_name": "DoSolfakkord Coolia",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Dein Gegner kann weder eine Zauber-/Fallenkarte noch einen Monstereffekt aktivieren, wenn dein oder deine „Solfakkord“-Pendelmonster als Pendelbeschwörung beschworen werden.",
+  "card_text": "Du kannst diese Karte als Spezialbeschwörung (von deiner Hand) beschwören, indem du 2 Pendelmonster als Tribut anbietest. Du kannst jeden der folgenden Effekte von „DoSolfakkord Coolia“ nur einmal pro Spielzug verwenden. Du kannst 1 offene Karte wählen, die dein Gegner kontrolliert, oder bis zu 2 Karten, falls du einen ungeraden Pendelbereich in deiner Pendelzone hast; annulliere bis zum Ende des Spielzugs deines Gegners ihre Effekte. Wenn ein Effekt eines Monsters auf dem Spielfeld, dessen ATK kleiner oder gleich dem höchsten Pendelbereich in deiner Pendelzone x 300 sind, aktiviert wird: Du kannst das Monster zerstören.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2021/05/06",
+  "species_id": 17,
+  "starchip": "8"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 12526,
+  "card_name": "Renascimento Cúbico",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Quando um monstro do oponente declarar um ataque direto: escolha o monstro atacante; seu oponente Invoca por Invocação-Especial, em Posição de Ataque, tantos monstros quanto possível da mão, Deck e/ou Cemitério com o mesmo nome que esse monstro e, além disso, o ATK do monstro escolhido e desses monstros Invocados por Invocação-Especial se torna 0 e coloque 1 Marcador Cúbico em cada um deles. (Monstros com um Marcador Cúbico não podem atacar e, além disso, negue seus efeitos.) Além disso, depois, se qualquer Marcador Cúbico foi colocado por este efeito, Invoque por Invocação-Especial 1 monstro \"Cúbico(a)\" de Nível 4 ou menos da sua mão, ignorando suas condições de Invocação.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/07/21",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16280,
+  "card_name": "ウォークライ・スピリッツ",
+  "card_name_label": "ウォークライ・スピリッツ",
+  "card_name_search": "うぉーくらいすぴりっつ",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：自分・相手のバトルフェイズに自分の墓地の「ウォークライ」モンスター１体を対象とし、以下の効果から１つを選択して発動できる。●対象のモンスターを攻撃表示で特殊召喚する。この効果で特殊召喚したモンスターはこのターン、効果が無効化され、直接攻撃できない。●対象のモンスターを守備表示で特殊召喚する。このターン、自分の「ウォークライ」モンスターはそれぞれ１度だけ戦闘では破壊されない。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/09/25",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 5,
+  "card_id": 11343,
+  "card_name": "Superstarker Samurai Seelenschild-Mauer",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Du kannst 1 „Superstarker Samurai“-Monster wählen, das du kontrollierst; rüste das gewählte Ziel mit diesem Monster von deiner Hand oder deiner Spielfeldseite aus. Es erhält 1200 DEF. Wenn das durch diesen Effekt mit dieser Karte ausgerüstete Monster als Angriffsziel gewählt wird: Du kannst diese Ausrüstungskarte auf den Friedhof legen; annulliere den Angriff, aber die DEF des ausgerüsteten Monsters werden zu 0.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/11/06",
+  "species_id": 7,
+  "starchip": "3"
+}

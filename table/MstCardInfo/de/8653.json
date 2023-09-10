@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 1,
+  "card_id": 8653,
+  "card_name": "Sonnendrache Inti",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "„Feuerameise Ascator“ + 1+ Nicht-Empfänger-Monster$NFalls diese Karte durch Kampf zerstört und auf den Friedhof gelegt wird: Zerstöre das Monster, das diese Karte zerstört hat, und falls du dies tust, füge deinem Gegner Schaden in Höhe der Hälfte der ATK zu, die jenes Monster auf dem Spielfeld hatte. Einmal pro Spielzug, während der Standby Phase des nächsten Spielzugs, nachdem diese Karte auf dem Spielfeld zerstört wurde: Du kannst 1 „Monddrache Quilla“ in deinem Friedhof wählen; beschwöre jenes gewählte Ziel als Spezialbeschwörung.",
+  "defense_power": "2800",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/02/11",
+  "species_id": 1,
+  "starchip": "8"
+}

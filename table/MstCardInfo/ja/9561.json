@@ -1,0 +1,23 @@
+{
+  "attack_power": "2600",
+  "attribute_id": 2,
+  "card_id": 9561,
+  "card_name": "The suppression PLUTO",
+  "card_name_label": "ザ・サプレッション・プルート",
+  "card_name_search": "ざさぷれっしょんぷるーと",
+  "card_pen_effect": "",
+  "card_text": "①：１ターンに１度、カード名を１つ宣言して発動できる。相手の手札を全て確認し、その中に宣言したカードがあった場合、以下の効果から１つを選んで適用する。●相手フィールドのモンスター１体を選んでコントロールを得る。●相手フィールドの魔法・罠カード１枚を選んで破壊する。その後、破壊したその魔法・罠カードを自分フィールドにセットできる。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/05/14",
+  "species_id": 3,
+  "starchip": "8"
+}

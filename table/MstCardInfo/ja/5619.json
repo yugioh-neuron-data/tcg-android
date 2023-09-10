@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 5619,
+  "card_name": "パイナップル爆弾",
+  "card_name_label": "パイナップルボム",
+  "card_name_search": "ぱいなっぷるぼむ",
+  "card_pen_effect": "",
+  "card_text": "自分がモンスターの召喚に成功した時に発動する事ができる。相手フィールド上のモンスターの数が自分のコントロールするモンスターの数より多い場合、同じ数になるように相手のカードを破壊する。破壊するカードは相手が選択する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/07/18",
+  "species_id": 25,
+  "starchip": "0"
+}

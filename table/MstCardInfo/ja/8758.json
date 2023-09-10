@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 3,
+  "card_id": 8758,
+  "card_name": "海底に潜む深海竜",
+  "card_name_label": "かいていにひそむしんかいりゅう",
+  "card_name_search": "かいていにひそむしんかいりゅう",
+  "card_pen_effect": "",
+  "card_text": "お互いのスタンバイフェイズ毎にこのカードにオーシャンカウンターを１つ置く。このカードがフィールド上から離れた時、このカードに乗っているオーシャンカウンター１つにつき、自分フィールド上に存在する魚族・海竜族モンスターの攻撃力はエンドフェイズ時まで２００ポイントアップする。",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/09/18",
+  "species_id": 5,
+  "starchip": "4"
+}

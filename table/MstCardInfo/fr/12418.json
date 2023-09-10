@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 2,
+  "card_id": 12418,
+  "card_name": "Bâton du Magicien",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsque cette carte est Invoquée Normalement : vous pouvez ajouter 1 Magie/Piège depuis votre Deck à votre main, qui mentionne \"Magicien Sombre\". Durant le tour de votre adversaire, si vous activez une Carte Magie/Piège ou effet de Magie/Piège tant que cette carte est dans votre Cimetière (sauf durant la Damage Step) : vous pouvez Sacrifier 1 monstre Magicien ; ajoutez cette carte à votre main. Vous ne pouvez utiliser chaque effet de \"Bâton du Magicien\" qu'une fois par tour.",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/08/04",
+  "species_id": 18,
+  "starchip": "3"
+}

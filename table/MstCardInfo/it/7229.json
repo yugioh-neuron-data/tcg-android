@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 7229,
+  "card_name": "Pescata Distruttiva",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se un giocatore non ha carte in mano all'inizio della sua Draw Phase, può pescare 1 carta addizionale oltre alla pescata normale. Il controllore di questa carta perde 700 Life Points durante la sua End Phase (se il giocatore ha meno di 700 Life Points, va invece a 0 Life Points). Quando questa carta, scoperta, viene rimossa dal Terreno, infliggi 3000 danni al suo controllore.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/08/15",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 5,
+  "card_id": 12148,
+  "card_name": "ブンボーグ００８",
+  "card_name_label": "ブンボーグゼロゼロエイト",
+  "card_name_search": "ぶんぼーぐぜろぜろえいと",
+  "card_pen_effect": "①：自分は「ブンボーグ」モンスターしかP召喚できない。この効果は無効化されない。",
+  "card_text": "①：このカードの攻撃力は、自分の墓地の「ブンボーグ」カードの数×５００アップする。②：このカードがモンスターゾーンに存在する限り、相手は他の「ブンボーグ」カードを効果の対象にできない。③：このカードは１度のバトルフェイズ中に２回までモンスターに攻撃できる。",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2015/10/17",
+  "species_id": 7,
+  "starchip": "8"
+}

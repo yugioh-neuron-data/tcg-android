@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 12188,
+  "card_name": "Explosion de la Mauvaise Chance",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Ciblez 1 monstre face recto contrôlé par votre adversaire ; recevez des dommages égaux à la moitié de son ATK, puis infligez des dommages à votre adversaire égaux aux dommages que vous avez reçus. Si cette carte que vous contrôlez est détruite par un effet de carte de votre adversaire et envoyée à votre Cimetière : infligez 1000 points de dommage à votre adversaire. Vous ne pouvez activer qu'1 \"Explosion de la Mauvaise Chance\" par tour.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/01/14",
+  "species_id": 25,
+  "starchip": "0"
+}

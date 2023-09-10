@@ -1,0 +1,23 @@
+{
+  "attack_power": "-1",
+  "attribute_id": 6,
+  "card_id": 14496,
+  "card_name": "召命の神弓－アポロウーサ",
+  "card_name_label": "しょうめいのしんきゅう－アポロウーサ",
+  "card_name_search": "しょうめいのしんきゅうあぽろうーさ",
+  "card_pen_effect": "",
+  "card_text": "トークン以外のカード名が異なるモンスター２体以上$Nこのカードの③の効果は同一チェーン上では１度しか発動できない。①：「召命の神弓－アポロウーサ」は自分フィールドに１体しか表側表示で存在できない。②：このカードの元々の攻撃力は、このカードのリンク素材としたモンスターの数×８００になる。③：相手がモンスターの効果を発動した時に発動できる。このカードの攻撃力を８００ダウンし、その発動を無効にする。",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "8123",
+  "linkno": "4",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/04/13",
+  "species_id": 17,
+  "starchip": ""
+}

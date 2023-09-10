@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 2,
+  "card_id": 15496,
+  "card_name": "インフェルニティ・ワイルドキャット",
+  "card_name_label": "インフェルニティ・ワイルドキャット",
+  "card_name_search": "いんふぇるにてぃわいるどきゃっと",
+  "card_pen_effect": "",
+  "card_text": "このカード名の、①の方法による特殊召喚は１ターンに１度しかできず、②の効果は１ターンに１度しか使用できない。①：このカードは手札の他の「インフェルニティ」モンスター１体を墓地へ送り、手札から特殊召喚できる。②：自分の手札が０枚の場合、自分の墓地の「インフェルニティ」モンスター１体を除外して発動できる。このカードのレベルをターン終了時まで１つ上げる、または下げる。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/08/08",
+  "species_id": 3,
+  "starchip": "3"
+}

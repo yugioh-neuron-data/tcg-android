@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 5,
+  "card_id": 6743,
+  "card_name": "Truckroid",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si esta carta destruye un monstruo del adversario en batalla y lo manda al Cementerio: equipa el monstruo destruido a esta carta. Gana ATK igual al ATK combinado de los monstruos equipados a ella por este efecto.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/11/14",
+  "species_id": 7,
+  "starchip": "4"
+}

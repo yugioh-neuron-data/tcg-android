@@ -1,0 +1,23 @@
+{
+  "attack_power": "900",
+  "attribute_id": 5,
+  "card_id": 5971,
+  "card_name": "深緑の魔弓使い",
+  "card_name_label": "しんりょくのまきゅうつかい",
+  "card_name_search": "しんりょくのまきゅうつかい",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上に植物族モンスターが存在する場合、このカードを攻撃する事はできない。自分フィールド上の植物族モンスター１体を生け贄に捧げる度に、フィールド上に存在する魔法・罠カード１枚を破壊する。",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2003/11/20",
+  "species_id": 15,
+  "starchip": "3"
+}

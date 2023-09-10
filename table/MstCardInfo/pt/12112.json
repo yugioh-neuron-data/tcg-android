@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 3,
+  "card_id": 12112,
+  "card_name": "Camarartista Guitartaruga",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Se um card \"Camarartista\" for ativado na sua outra Zona de Pêndulo: você pode comprar 1 card. Você só pode usar este efeito de \"Camarartista Guitartaruga\" uma vez por turno.",
+  "card_text": "Uma vez por turno: você pode escolher 1 card na sua Zona de Pêndulo; até o final deste turno, aumente em 2 a Escala de Pêndulo dele.",
+  "defense_power": "400",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "6",
+  "pen_scale_r": "6",
+  "sales_at": "2016/01/15",
+  "species_id": 14,
+  "starchip": "1"
+}

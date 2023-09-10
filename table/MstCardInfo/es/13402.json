@@ -1,0 +1,23 @@
+{
+  "attack_power": "1300",
+  "attribute_id": 2,
+  "card_id": 13402,
+  "card_name": "Pájaro Fantasma del Embrujo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Esta carta gana un efecto basado en cuál de tus Zonas de Monstruos Principales esté.$N●Extrema Izquierda: Gana 1000 ATK/DEF.$N●Extrema Derecha: Puede hacer hasta 2 ataques a monstruos durante cada Battle Phase.$N●Centro: Tu adversario no puede seleccionar esta carta con efectos de cartas, y además tampoco puede ser destruida por los efectos de cartas de tu adversario.$N●Otras: Los monstruos en esta columna no pueden activar sus efectos.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/02/01",
+  "species_id": 16,
+  "starchip": "4"
+}

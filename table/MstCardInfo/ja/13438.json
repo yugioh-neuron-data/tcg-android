@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 13438,
+  "card_name": "サイバネット・リフレッシュ",
+  "card_name_label": "サイバネット・リフレッシュ",
+  "card_name_search": "さいばねっとりふれっしゅ",
+  "card_pen_effect": "",
+  "card_text": "①：相手のサイバース族モンスターの攻撃宣言時に発動できる。お互いのメインモンスターゾーンのモンスターを全て破壊する。このターンのエンドフェイズにこの効果で破壊したサイバース族リンクモンスターを可能な限り、墓地から持ち主のフィールドに特殊召喚する。②：相手モンスターの効果が発動した時、墓地のこのカードを除外して発動できる。自分フィールドのサイバース族リンクモンスターはターン終了時まで、自身以外のカードの効果を受けない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/10/14",
+  "species_id": 25,
+  "starchip": "0"
+}

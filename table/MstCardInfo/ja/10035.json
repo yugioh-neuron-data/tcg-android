@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 2,
+  "card_id": 10035,
+  "card_name": "幻蝶の刺客モルフォ",
+  "card_name_label": "げんちょうのしきゃくモルフォ",
+  "card_name_search": "げんちょうのしきゃくもるふぉ",
+  "card_pen_effect": "",
+  "card_text": "相手フィールド上のモンスターの表示形式が変更された時、そのモンスター１体を選択して発動できる。選択したモンスターの攻撃力・守備力を１０００ポイントダウンする。この効果は１ターンに１度しか使用できない。",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/02/18",
+  "species_id": 15,
+  "starchip": "4"
+}

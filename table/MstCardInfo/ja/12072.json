@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 1,
+  "card_id": 12072,
+  "card_name": "PSYフレームギア・ε",
+  "card_name_label": "サイフレームギア・イプシロン",
+  "card_name_search": "さいふれーむぎあいぷしろん",
+  "card_pen_effect": "",
+  "card_text": "このカードは通常召喚できず、カードの効果でのみ特殊召喚できる。①：自分フィールドにモンスターが存在せず、相手の罠カードが発動した時に発動できる。手札のこのカードと自分の手札・デッキ・墓地の「PSYフレーム・ドライバー」１体を選んで特殊召喚し、その発動を無効にし破壊する。この効果で特殊召喚したモンスターは全てエンドフェイズに除外される。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 30,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/08/22",
+  "species_id": 21,
+  "starchip": "2"
+}

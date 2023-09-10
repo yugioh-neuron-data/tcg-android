@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 5,
+  "card_id": 8298,
+  "card_name": "D·마그넨I",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드는 이 카드의 표시 형식에 따라서 이하의 효과를 얻는다.$N●공격 표시 : 자신 필드 위에 이 카드 이외의 몬스터가 앞면 공격 표시로 2장 존재할 경우, 1턴에 1번, 이 카드의 공격력은 이 턴의 엔드 페이즈시까지 그 몬스터의 공격력을 합계한 수치만큼 올릴 수 있다. 이 효과를 발동하는 턴에, 다른 몬스터는 공격할 수 없다.$N●수비 표시 : 이 카드가 필드 위에 앞면 표시로 존재하는 한, 자신 필드 위에 존재하는 몬스터는 공격할 수 없다.",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/09/23",
+  "species_id": 19,
+  "starchip": "1"
+}

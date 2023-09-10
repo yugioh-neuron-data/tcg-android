@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 1,
+  "card_id": 12434,
+  "card_name": "天照大神",
+  "card_name_label": "アマテラス",
+  "card_name_search": "あまてらす",
+  "card_pen_effect": "",
+  "card_text": "このカードは召喚・特殊召喚できない。①：裏側表示のこのモンスターを対象とする魔法・罠・モンスターの効果を相手が発動した時、このカードを表側守備表示にして発動できる。自分はデッキから１枚ドローする。②：このカードがリバースした場合に発動する。このカード以外のフィールドのカードを全て除外する。③：このカードがリバースしたターンのエンドフェイズに発動する。このカードを持ち主の手札に戻す。",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 7,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/04/09",
+  "species_id": 17,
+  "starchip": "9"
+}

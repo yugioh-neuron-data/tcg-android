@@ -1,0 +1,23 @@
+{
+  "attack_power": "2600",
+  "attribute_id": 1,
+  "card_id": 7372,
+  "card_name": "ライトエンド・ドラゴン",
+  "card_name_label": "ライトエンド・ドラゴン",
+  "card_name_search": "らいとえんどどらごん",
+  "card_pen_effect": "",
+  "card_text": "チューナー＋チューナー以外の光属性モンスター１体以上$Nこのカードが相手モンスターと戦闘を行う攻撃宣言時に発動できる。このカードの攻撃力・守備力を５００ポイントダウンし、戦闘を行う相手モンスターの攻撃力・守備力はエンドフェイズ時まで１５００ポイントダウンする。",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/08/01",
+  "species_id": 1,
+  "starchip": "8"
+}

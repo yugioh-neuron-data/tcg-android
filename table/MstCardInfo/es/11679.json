@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 5,
+  "card_id": 11679,
+  "card_name": "Artistamigo Robagarto",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Si tienes una carta \"Artistamigo\" en tu otra Zona del Péndulo, excepto \"Artistamigo Robagarto\": puedes destruir esta carta y, si lo haces, roba 1 carta. Sólo puedes usar este efecto de \"Artistamigo Robagarto\" una vez por turno.",
+  "card_text": "Si otro monstruo boca arriba que controles es destruido por un ataque o efecto de carta de tu adversario: puedes robar tantas cartas como la cantidad de monstruos \"Artistamigo\" que controles en este momento. Sólo puedes usar este efecto de \"Artistamigo Robagarto\" una vez por turno.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "6",
+  "pen_scale_r": "6",
+  "sales_at": "2015/05/14",
+  "species_id": 20,
+  "starchip": "3"
+}

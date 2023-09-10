@@ -1,0 +1,956 @@
+[
+  {
+    "card_count": 1,
+    "card_id": 4760,
+    "card_image_id": 1,
+    "card_number": "DCR-FR011",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4762,
+    "card_image_id": 1,
+    "card_number": "DCR-FR012",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 4771,
+    "card_image_id": 1,
+    "card_number": "DCR-FR013",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5232,
+    "card_image_id": 1,
+    "card_number": "DCR-FR105",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 5351,
+    "card_image_id": 1,
+    "card_number": "DCR-FR077",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5352,
+    "card_image_id": 1,
+    "card_number": "DCR-FR084",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5353,
+    "card_image_id": 1,
+    "card_number": "DCR-FR051",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 5354,
+    "card_image_id": 1,
+    "card_number": "DCR-FR083",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5356,
+    "card_image_id": 1,
+    "card_number": "DCR-FR076",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 5357,
+    "card_image_id": 1,
+    "card_number": "DCR-FR090",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5359,
+    "card_image_id": 1,
+    "card_number": "DCR-FR014",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 5361,
+    "card_image_id": 1,
+    "card_number": "DCR-FR078",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5363,
+    "card_image_id": 1,
+    "card_number": "DCR-FR079",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5365,
+    "card_image_id": 1,
+    "card_number": "DCR-FR104",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 5366,
+    "card_image_id": 1,
+    "card_number": "DCR-FR080",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5410,
+    "card_image_id": 1,
+    "card_number": "DCR-FR000",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 5560,
+    "card_image_id": 1,
+    "card_number": "DCR-FR052",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 5575,
+    "card_image_id": 1,
+    "card_number": "DCR-FR053",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 5627,
+    "card_image_id": 1,
+    "card_number": "DCR-FR045",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5696,
+    "card_image_id": 1,
+    "card_number": "DCR-FR015",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 5697,
+    "card_image_id": 1,
+    "card_number": "DCR-FR016",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 5698,
+    "card_image_id": 1,
+    "card_number": "DCR-FR017",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 5699,
+    "card_image_id": 1,
+    "card_number": "DCR-FR018",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 5700,
+    "card_image_id": 1,
+    "card_number": "DCR-FR019",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 5701,
+    "card_image_id": 1,
+    "card_number": "DCR-FR020",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 5702,
+    "card_image_id": 1,
+    "card_number": "DCR-FR001",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5703,
+    "card_image_id": 1,
+    "card_number": "DCR-FR004",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5704,
+    "card_image_id": 1,
+    "card_number": "DCR-FR002",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5705,
+    "card_image_id": 1,
+    "card_number": "DCR-FR003",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5706,
+    "card_image_id": 1,
+    "card_number": "DCR-FR005",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5707,
+    "card_image_id": 1,
+    "card_number": "DCR-FR006",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 5708,
+    "card_image_id": 1,
+    "card_number": "DCR-FR007",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 5709,
+    "card_image_id": 1,
+    "card_number": "DCR-FR008",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 5710,
+    "card_image_id": 1,
+    "card_number": "DCR-FR009",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5711,
+    "card_image_id": 1,
+    "card_number": "DCR-FR010",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 5713,
+    "card_image_id": 1,
+    "card_number": "DCR-FR021",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5714,
+    "card_image_id": 1,
+    "card_number": "DCR-FR022",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5715,
+    "card_image_id": 1,
+    "card_number": "DCR-FR023",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5716,
+    "card_image_id": 1,
+    "card_number": "DCR-FR024",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5717,
+    "card_image_id": 1,
+    "card_number": "DCR-FR025",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 5718,
+    "card_image_id": 1,
+    "card_number": "DCR-FR026",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5719,
+    "card_image_id": 1,
+    "card_number": "DCR-FR027",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 5720,
+    "card_image_id": 1,
+    "card_number": "DCR-FR028",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5721,
+    "card_image_id": 1,
+    "card_number": "DCR-FR029",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5722,
+    "card_image_id": 1,
+    "card_number": "DCR-FR030",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5723,
+    "card_image_id": 1,
+    "card_number": "DCR-FR031",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5724,
+    "card_image_id": 1,
+    "card_number": "DCR-FR032",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 5725,
+    "card_image_id": 1,
+    "card_number": "DCR-FR033",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5726,
+    "card_image_id": 1,
+    "card_number": "DCR-FR034",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5727,
+    "card_image_id": 1,
+    "card_number": "DCR-FR035",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 5728,
+    "card_image_id": 1,
+    "card_number": "DCR-FR036",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5729,
+    "card_image_id": 1,
+    "card_number": "DCR-FR037",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5730,
+    "card_image_id": 1,
+    "card_number": "DCR-FR038",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5731,
+    "card_image_id": 1,
+    "card_number": "DCR-FR039",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5732,
+    "card_image_id": 1,
+    "card_number": "DCR-FR040",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5733,
+    "card_image_id": 1,
+    "card_number": "DCR-FR041",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5734,
+    "card_image_id": 1,
+    "card_number": "DCR-FR042",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5735,
+    "card_image_id": 1,
+    "card_number": "DCR-FR043",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5736,
+    "card_image_id": 1,
+    "card_number": "DCR-FR044",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 5737,
+    "card_image_id": 1,
+    "card_number": "DCR-FR046",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5738,
+    "card_image_id": 1,
+    "card_number": "DCR-FR047",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5739,
+    "card_image_id": 1,
+    "card_number": "DCR-FR048",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5740,
+    "card_image_id": 1,
+    "card_number": "DCR-FR049",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 5741,
+    "card_image_id": 1,
+    "card_number": "DCR-FR050",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5759,
+    "card_image_id": 1,
+    "card_number": "DCR-FR054",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5760,
+    "card_image_id": 1,
+    "card_number": "DCR-FR055",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5761,
+    "card_image_id": 1,
+    "card_number": "DCR-FR056",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5762,
+    "card_image_id": 1,
+    "card_number": "DCR-FR057",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 5763,
+    "card_image_id": 1,
+    "card_number": "DCR-FR058",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5764,
+    "card_image_id": 1,
+    "card_number": "DCR-FR059",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5765,
+    "card_image_id": 1,
+    "card_number": "DCR-FR060",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5766,
+    "card_image_id": 1,
+    "card_number": "DCR-FR061",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5767,
+    "card_image_id": 1,
+    "card_number": "DCR-FR062",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5768,
+    "card_image_id": 1,
+    "card_number": "DCR-FR063",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 5769,
+    "card_image_id": 1,
+    "card_number": "DCR-FR064",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5770,
+    "card_image_id": 1,
+    "card_number": "DCR-FR065",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5771,
+    "card_image_id": 1,
+    "card_number": "DCR-FR066",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 5772,
+    "card_image_id": 1,
+    "card_number": "DCR-FR067",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5773,
+    "card_image_id": 1,
+    "card_number": "DCR-FR068",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5774,
+    "card_image_id": 1,
+    "card_number": "DCR-FR069",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 5775,
+    "card_image_id": 1,
+    "card_number": "DCR-FR070",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5776,
+    "card_image_id": 1,
+    "card_number": "DCR-FR071",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 5777,
+    "card_image_id": 1,
+    "card_number": "DCR-FR072",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 5778,
+    "card_image_id": 1,
+    "card_number": "DCR-FR073",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 5779,
+    "card_image_id": 1,
+    "card_number": "DCR-FR074",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 5780,
+    "card_image_id": 1,
+    "card_number": "DCR-FR075",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 5781,
+    "card_image_id": 1,
+    "card_number": "DCR-FR081",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 5782,
+    "card_image_id": 1,
+    "card_number": "DCR-FR082",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 5783,
+    "card_image_id": 1,
+    "card_number": "DCR-FR085",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5784,
+    "card_image_id": 1,
+    "card_number": "DCR-FR086",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 5785,
+    "card_image_id": 1,
+    "card_number": "DCR-FR087",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5786,
+    "card_image_id": 1,
+    "card_number": "DCR-FR088",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5787,
+    "card_image_id": 1,
+    "card_number": "DCR-FR089",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5788,
+    "card_image_id": 1,
+    "card_number": "DCR-FR091",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5789,
+    "card_image_id": 1,
+    "card_number": "DCR-FR092",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5790,
+    "card_image_id": 1,
+    "card_number": "DCR-FR093",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5791,
+    "card_image_id": 1,
+    "card_number": "DCR-FR094",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5792,
+    "card_image_id": 1,
+    "card_number": "DCR-FR095",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5793,
+    "card_image_id": 1,
+    "card_number": "DCR-FR096",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5794,
+    "card_image_id": 1,
+    "card_number": "DCR-FR097",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5795,
+    "card_image_id": 1,
+    "card_number": "DCR-FR098",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 5796,
+    "card_image_id": 1,
+    "card_number": "DCR-FR099",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5797,
+    "card_image_id": 1,
+    "card_number": "DCR-FR100",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5798,
+    "card_image_id": 1,
+    "card_number": "DCR-FR101",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 5799,
+    "card_image_id": 1,
+    "card_number": "DCR-FR102",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5800,
+    "card_image_id": 1,
+    "card_number": "DCR-FR103",
+    "language": "fr",
+    "pack_id": "2000001244000",
+    "rarity_id": 1
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 2,
+  "card_id": 8526,
+  "card_name": "Kartenwache",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Lege 1 Wache-Zählmarke darauf. Diese Karte erhält 300 ATK für jede Wache-Zählmarke auf ihr. Einmal pro Spielzug: Du kannst 1 andere offene Karte wählen, die du kontrollierst; entferne 1 Wache-Zählmarke von dieser Karte und falls du dies tust, lege 1 Wache-Zählmarke auf das gewählte Ziel. (Falls die Karte jemals zerstört würde, entferne stattdessen 1 Wache-Zählmarke von ihr.)",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/08/27",
+  "species_id": 3,
+  "starchip": "4"
+}

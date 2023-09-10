@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 10739,
+  "card_name": "暗躍のドルイド・ウィド",
+  "card_name_label": "あんやくのドルイド・ウィド",
+  "card_name_search": "あんやくのどるいどうぃど",
+  "card_pen_effect": "",
+  "card_text": "このカードがフィールド上から墓地へ送られた場合、自分の墓地の永続魔法カード１枚を選択して自分フィールド上にセットできる。この効果でセットしたカードはこのターン発動できない。「暗躍のドルイド・ウィド」の効果は１ターンに１度しか使用できない。",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/07/20",
+  "species_id": 18,
+  "starchip": "4"
+}

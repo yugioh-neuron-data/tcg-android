@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 2,
+  "card_id": 8935,
+  "card_name": "Schadensfresser",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Während des Spielzugs deines Gegners, wenn dein Gegner eine Karte oder einen Effekt aktiviert, die oder der Schaden zufügen würde, kannst du diese Karte in deinem Friedhof aus dem Spiel entfernen, um den Effekt zu ändern, sodass er stattdessen die Life Points um dieselbe Menge erhöht.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/08/12",
+  "species_id": 3,
+  "starchip": "2"
+}

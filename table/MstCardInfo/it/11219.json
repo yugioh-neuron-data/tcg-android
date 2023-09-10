@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 3,
+  "card_id": 11219,
+  "card_name": "Artistamico Rospo Giratore",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Una volta per turno: puoi scegliere come bersaglio 1 mostro scoperto sul Terreno; scambia i suoi ATK e DEF attuali fino alla fine di questo turno.",
+  "card_text": "Una volta per turno, durante la tua Battle Phase (eccetto durante il Damage Step): puoi scegliere come bersaglio 1 mostro che controlli; cambia la sua posizione e, se lo fai, scambia i suoi ATK e DEF attuali fino alla fine di questo turno.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2014/08/14",
+  "species_id": 14,
+  "starchip": "2"
+}

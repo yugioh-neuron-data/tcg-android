@@ -1,0 +1,23 @@
+{
+  "attack_power": "4500",
+  "attribute_id": 5,
+  "card_id": 14262,
+  "card_name": "T.G. Hellebardenkanone/Angriffsmodus",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss mit „Angriffsmodus aktivieren“ als Spezialbeschwörung beschworen werden. Du kannst jeden der folgenden Effekte von „T.G. Hellebardenkanone/Angriffsmodus“ nur einmal pro Spielzug verwenden.$N●Wenn dein Gegner ein Monster beschwören würde (Schnelleffekt): Du kannst die Beschwörung annullieren und falls du dies tust, verbanne das Monster und alle als Spezialbeschwörung beschworenen Monster, die dein Gegner kontrolliert.$N●Wenn diese Karte auf dem Spielfeld zerstört wird: Du kannst 1 „T.G. Hellebardenkanone“ in deinem Friedhof wählen; beschwöre sie als Spezialbeschwörung, ungeachtet ihrer Beschwörungsbedingungen.",
+  "defense_power": "4500",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/05/02",
+  "species_id": 7,
+  "starchip": "12"
+}

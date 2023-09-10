@@ -1,0 +1,23 @@
+{
+  "attack_power": "1100",
+  "attribute_id": 1,
+  "card_id": 9836,
+  "card_name": "巨星のミラ",
+  "card_name_label": "きょせいのミラ",
+  "card_name_search": "きょせいのみら",
+  "card_pen_effect": "",
+  "card_text": "レベル１モンスター×３$Nフィールド上に表側表示で存在するこのカードが破壊される場合、代わりにこのカードのエクシーズ素材を１つ取り除く事ができる。また、このカードがフィールド上に表側表示で存在する限り、自分フィールド上に表側表示で存在するレベル４以下のモンスターは、カードの効果では破壊されない。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/05/21",
+  "species_id": 15,
+  "starchip": "1"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 10806,
+  "card_name": "ヴァンパイア・シフト",
+  "card_name_label": "ヴァンパイア・シフト",
+  "card_name_search": "う゛ぁんぱいあしふと",
+  "card_pen_effect": "",
+  "card_text": "自分のフィールドカードゾーンにカードが存在せず、自分フィールド上に表側表示で存在するモンスターがアンデット族モンスターのみの場合に発動できる。デッキから「ヴァンパイア帝国」１枚を選んで発動する。その後、自分の墓地から「ヴァンパイア」と名のついた闇属性モンスター１体を選んで表側守備表示で特殊召喚できる。「ヴァンパイア・シフト」は１ターンに１枚しか発動できない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/07/20",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 7150,
+  "card_name": "Loup de la Peste",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Une fois par tour : jusqu'à la fin de ce tour, vous pouvez faire devenir l'ATK de cette carte le double de son ATK d'origine. Une fois par tour, durant la End Phase, si cet effet a été activé : détruisez cette carte.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/05/05",
+  "species_id": 2,
+  "starchip": "3"
+}

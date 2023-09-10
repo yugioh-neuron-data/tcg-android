@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 6,
+  "card_id": 5338,
+  "card_name": "Demônio Dragão Caveira",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"Dragão da Caverna\" + \"Demônio Menor\"$N(Este card é tratado como um card \"Arquidemônio\".)$NA Invocação-Fusão deste card só pode ser feita com os Monstros-Matéria de Fusão acima. Negue os efeitos dos Monstros de Efeito de Virar. Negue quaisquer efeitos de Armadilha que escolham este card no campo como alvo e, se isso acontecer, destrua esse Card de Armadilha.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/10/11",
+  "species_id": 1,
+  "starchip": "5"
+}

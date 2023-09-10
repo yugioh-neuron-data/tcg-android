@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 1,
+  "card_id": 10813,
+  "card_name": "聖騎士トリスタン",
+  "card_name_label": "せいきしトリスタン",
+  "card_name_search": "せいきしとりすたん",
+  "card_pen_effect": "",
+  "card_text": "「聖騎士トリスタン」の②の効果は１ターンに１度しか使用できない。①：自分フィールドにこのカード以外の「聖騎士」モンスターが存在する限り、相手はこのカード以外の自分フィールドの攻撃力１８００未満のモンスターを攻撃対象にできず、効果の対象にもできない。②：このカードが「聖剣」装備魔法カードを装備した場合、フィールドの表側表示のカード１枚を対象として発動する。その表側表示のカードを破壊する。",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/09/13",
+  "species_id": 15,
+  "starchip": "4"
+}

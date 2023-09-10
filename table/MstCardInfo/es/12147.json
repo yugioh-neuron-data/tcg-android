@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 5,
+  "card_id": 12147,
+  "card_name": "Escritoriobot 007",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "No puedes Invocar monstruos por Péndulo, excepto monstruos \"Escritoriobot\". Este efecto no puede ser negado.",
+  "card_text": "Esta carta gana 500 ATK por cada carta \"Escritoriobot\" en tu Cementerio. Los monstruos que controle tu adversario no pueden seleccionar para ataques a monstruos \"Escritoriobot\" boca arriba, excepto a éste. Si esta carta ataca a un monstruo en Posición de Defensa, inflige daño de batalla de penetración a tu adversario.",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "10",
+  "pen_scale_r": "10",
+  "sales_at": "2016/01/14",
+  "species_id": 7,
+  "starchip": "7"
+}

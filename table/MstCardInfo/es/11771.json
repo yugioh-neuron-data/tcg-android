@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11771,
+  "card_name": "Escudo del Espejo Lunar",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si el monstruo equipado batalla con el monstruo de tu adversario, durante el cálculo de daño: el ATK/DEF del monstruo equipado se convierten en iguales al ATK o la DEF (lo que sea más alto) del monstruo batallante del adversario +100, sólo durante el cálculo de daño. Si esta carta boca arriba es mandada al Cementerio desde el Campo: paga 500 LP; pon esta carta en la parte superior o inferior de tu Deck.",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/05/14",
+  "species_id": 24,
+  "starchip": "0"
+}

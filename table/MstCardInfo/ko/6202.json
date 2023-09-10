@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 4,
+  "card_id": 6202,
+  "card_name": "함정 처리반 A팀",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 효과는 상대 턴에도 사용할 수 있다. 상대가 함정 카드를 발동했을 때, 앞면 표시의 이 카드를 제물로 바치는 것으로 함정 카드의 발동을 무효로 하여, 그것을 파괴한다.",
+  "defense_power": "400",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/02/07",
+  "species_id": 7,
+  "starchip": "2"
+}

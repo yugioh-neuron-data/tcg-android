@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 1,
+  "card_id": 13919,
+  "card_name": "Two-for-One Team",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Once per turn: You can make both players show 1 card from their hands, and if both the shown cards are the same type of card, apply 1 of these effects, depending on the type.$N●Monster: Each player can Special Summon their monster.$N●Spell: Each player draws 2 cards.$N●Trap: Each player sends exactly 2 cards from their Deck to their GY.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/10/19",
+  "species_id": 15,
+  "starchip": "2"
+}

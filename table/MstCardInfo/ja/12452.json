@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 12452,
+  "card_name": "超カバーカーニバル",
+  "card_name_label": "ちょうカバーカーニバル",
+  "card_name_search": "ちょうかばーかーにばる",
+  "card_pen_effect": "",
+  "card_text": "①：自分の手札・デッキ・墓地から「EMディスカバー・ヒッポ」１体を選んで特殊召喚する。その後、自分フィールドに「カバートークン」（獣族・地・星１・攻／守０）を可能な限り特殊召喚できる。このトークンはリリースできない。「カバートークン」がモンスターゾーンに存在する限り、自分はエクストラデッキからモンスターを特殊召喚できない。この効果で「カバートークン」を特殊召喚した場合、ターン終了時まで相手は「カバートークン」以外のモンスターを攻撃対象にできない。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/04/09",
+  "species_id": 24,
+  "starchip": "0"
+}

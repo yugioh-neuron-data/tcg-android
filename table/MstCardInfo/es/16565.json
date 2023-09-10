@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 16565,
+  "card_name": "Caída Estelar Gigante",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Ningún jugador puede activar los efectos de monstruos sin un Nivel en respuesta a la activación de esta carta. Selecciona 1 monstruo boca arriba sin un Nivel en el Campo; por el resto de este turno, cualquier daño de batalla de batallas que involucren ese objetivo se divide a la mitad, no puede activar sus efectos o ser destruido en batalla, y además su ATK se convierte en 0.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/11/04",
+  "species_id": 25,
+  "starchip": "0"
+}

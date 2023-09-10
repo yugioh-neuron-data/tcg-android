@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 12150,
+  "card_name": "Zèbre Zinzin",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Une fois par tour, durant votre Main Phase, si cette carte a été activée ce tour : vous pouvez choisir 1 Zone Monstre ou Zone Magie & Piège inutilisée ; tant que cette carte est dans la Zone Pendule, la Zone choisie ne peut pas être utilisée.",
+  "card_text": "Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez choisir 1 Zone Monstre ou Zone Magie & Piège inutilisée ; tant que cette carte est face recto dans la Zone Monstre, la Zone ne peut pas être utilisée.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "7",
+  "pen_scale_r": "7",
+  "sales_at": "2016/01/14",
+  "species_id": 11,
+  "starchip": "2"
+}

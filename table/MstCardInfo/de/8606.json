@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 1,
+  "card_id": 8606,
+  "card_name": "Gerümpel-Sammler",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "(Schnelleffekt): Du kannst diese Karte auf dem Spielfeld und 1 Normale Falle in deinem Friedhof verbannen; führe den Effekt der verbannten Falle aus. (Die Aktivierungsanforderungen der Falle müssen trotzdem erfüllt sein, aber es werden keine Kosten gezahlt.)",
+  "defense_power": "2200",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/08/30",
+  "species_id": 15,
+  "starchip": "5"
+}

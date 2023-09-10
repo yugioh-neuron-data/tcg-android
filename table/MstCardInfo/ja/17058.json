@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 17058,
+  "card_name": "海晶乙女環流",
+  "card_name_label": "マリンセス・サーキュレーション",
+  "card_name_search": "まりんせすさーきゅれーしょん",
+  "card_pen_effect": "",
+  "card_text": "自分フィールドにリンク３以上の「マリンセス」モンスターが存在する場合、このカードの発動は手札からもできる。①：自分フィールドの水属性リンクモンスター１体を対象として発動できる。そのモンスターを持ち主のEXデッキに戻し、そのモンスターとはカード名が異なり、リンクマーカーの数が同じ「マリンセス」リンクモンスター１体をリンク召喚扱いとしてEXデッキから特殊召喚する。このターン、この効果で特殊召喚したモンスターは直接攻撃できず、戦闘では破壊されない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/11/20",
+  "species_id": 25,
+  "starchip": "0"
+}

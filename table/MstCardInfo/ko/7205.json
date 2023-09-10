@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 1,
+  "card_id": 7205,
+  "card_name": "플린트 록",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "필드 위에 앞면 표시의 \"플린트\"가 존재할 경우, 이 카드에 장착시킬 수 있다. 이 효과는 1턴에 1번밖에 사용할 수 없다. 또한, 이 카드가 장착하고 있는 \"플린트\" 1장을, 필드 위에 존재하는 앞면 표시 몬스터 1장에 장착시킬 수 있다. 이 카드가 장착할 수 있는 \"플린트\"는 1장까지. 이 카드가 \"플린트\"를 장착하고 있는 한, 이 카드는 \"플린트\"의 효과를 받지 않으며, 전투에 의해서는 파괴되지 않는다.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/06/08",
+  "species_id": 7,
+  "starchip": "4"
+}

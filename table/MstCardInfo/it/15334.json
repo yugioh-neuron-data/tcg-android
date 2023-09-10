@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15334,
+  "card_name": "Cannone Fiammata",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "(Questa carta viene anche sempre considerata come una carta \"Acceleratore Fiammata\".)$NUn \"Drago Alato di Ra\" che controlli guadagna i seguenti effetti fino alla fine di questo turno. L'attivazione e l'effetto di questa carta non possono essere annullati.$N●Questa carta è immune agli effetti delle carte del tuo avversario.$N●Quando viene dichiarato un attacco che coinvolge questa carta: puoi offrire come Tributo un qualsiasi numero di altri mostri che non hanno dichiarato un attacco in questo turno; questa carta guadagna ATK pari alla somma degli ATK originali dei mostri offerti come Tributo, fino alla fine di questo turno.$N●Dopo il calcolo dei danni, se questa carta ha attaccato: puoi mandare al Cimitero tutti i mostri controllati dal tuo avversario.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/09/24",
+  "species_id": 24,
+  "starchip": "0"
+}

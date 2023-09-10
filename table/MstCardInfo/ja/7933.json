@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 7933,
+  "card_name": "DNA定期健診",
+  "card_name_label": "ＤＮＡていきけんしん",
+  "card_name_search": "でぃーえぬえーていきけんしん",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上に裏側表示で存在するモンスター１体を選択して発動する。相手はモンスターの属性を２つ宣言する。選択したモンスターをめくって確認し宣言された属性だった場合、相手はデッキからカードを２枚ドローする。違った場合、自分はデッキからカードを２枚ドローする。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/07/19",
+  "species_id": 25,
+  "starchip": "0"
+}

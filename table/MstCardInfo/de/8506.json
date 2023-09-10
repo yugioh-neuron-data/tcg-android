@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 8506,
+  "card_name": "Erdgebundener Unsterblicher heult auf",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Einmal pro Spielzug, falls ein Monster eines Gegners einen Angriff deklariert: Wähle das angreifende Monster; zerstöre jenes gewählte Ziel und falls du dies tust, füge deinem Gegner Schaden in Höhe der Hälfte der ATK des zerstörten Monsters zu. Du musst ein „Erdgebundener Unsterblicher“-Monster kontrollieren, dessen ATK höher sind als die ATK des angreifenden Monsters, um diesen Effekt zu aktivieren und aufzulösen.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "Kartenname geändert von „Gebrüll des Erdgebundenen\" am 26-09-2019.",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/11/12",
+  "species_id": 25,
+  "starchip": "0"
+}

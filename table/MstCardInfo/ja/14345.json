@@ -1,0 +1,23 @@
+{
+  "attack_power": "4000",
+  "attribute_id": 2,
+  "card_id": 14345,
+  "card_name": "幻魔帝トリロジーグ",
+  "card_name_label": "げんまていトリロジーグ",
+  "card_name_search": "げんまていとりろじーぐ",
+  "card_pen_effect": "",
+  "card_text": "レベル１０モンスター×３$Nこのカード名の効果は１ターンに１度しか使用できない。①：このカードが特殊召喚に成功した場合、またはこのカードが既にモンスターゾーンに存在する状態で、このカード以外のモンスターが墓地から自分フィールドに特殊召喚された場合、相手フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターの元々の攻撃力の半分のダメージを相手に与える。",
+  "defense_power": "4000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/12/22",
+  "species_id": 3,
+  "starchip": "10"
+}

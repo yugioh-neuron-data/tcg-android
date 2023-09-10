@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 2,
+  "card_id": 16819,
+  "card_name": "Geistertrick-Sirene",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Kann nicht als Normalbeschwörung beschworen werden, es sei denn, du kontrollierst ein „Geistertrick“-Monster. Einmal pro Spielzug, während deiner Main Phase: Du kannst diese Karte in die verdeckte Verteidigungsposition ändern. Falls diese Karte als Normalbeschwörung beschworen oder aufgedeckt wird: Lege die obersten 2 Karten deines Decks auf den Friedhof, dann, falls eine der Karten eine „Geistertrick“-Karte war, kannst du 1 dieser Effekte ausführen.$N●Füge deiner Hand 1 „Geistertrick“-Zauber/Falle von deinem Deck hinzu.$N●Ändere 1 Effektmonster, das dein Gegner kontrolliert, in die verdeckte Verteidigungsposition.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/02/10",
+  "species_id": 17,
+  "starchip": "4"
+}

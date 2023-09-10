@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 5,
+  "card_id": 12026,
+  "card_name": "Traptrix Rafflesia",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 monstres de Niveau 4$NNon affectée par des effets de Piège tant qu'elle a du Matériel. Les monstres \"Traptrix\" que vous contrôlez (\"Traptrix Rafflesia\" exclu) ne peuvent être détruits ni au combat ni par des effets de carte. Votre adversaire ne peut pas cibler de monstres \"Traptrix\" que vous contrôlez (\"Traptrix Rafflesia\" exclu) avec des effets de carte. Une fois par tour (Effet Rapide) : vous pouvez détacher 1 Matériel de cette carte et envoyer 1 Piège Normal \"Trappe\" qui remplit ses conditions d'activation depuis votre Deck au Cimetière ; cet effet devient l'effet de la Carte Piège lorsque la carte est activée.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/01/14",
+  "species_id": 13,
+  "starchip": "4"
+}

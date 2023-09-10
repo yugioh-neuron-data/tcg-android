@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 9937,
+  "card_name": "Furadadão",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lance um dado de seis faces e aplique o resultado.$N●2, 3 ou 4: Destrua 1 Magia/Armadilha no campo.$N●5: Destrua 2 Magia/Armadilha no campo.$N●1 ou 6: Você sofre 1000 de dano.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/01/29",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 11098,
+  "card_name": "双龍降臨",
+  "card_name_label": "ダブル・ドラゴン・ディセント",
+  "card_name_search": "だぶるどらごんでぃせんと",
+  "card_pen_effect": "",
+  "card_text": "相手のエクシーズモンスターの直接攻撃宣言時に発動できる。エクストラデッキからドラゴン族・光属性のエクシーズモンスター１体を表側攻撃表示で特殊召喚し、攻撃対象をそのモンスターに移し替えてダメージ計算を行う。この効果で特殊召喚したモンスターの攻撃力は攻撃モンスターの攻撃力と同じ数値になり、効果は無効化される。「双龍降臨」は１ターンに１枚しか発動できない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/02/15",
+  "species_id": 25,
+  "starchip": "0"
+}

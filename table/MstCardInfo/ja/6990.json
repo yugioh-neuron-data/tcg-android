@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 5,
+  "card_id": 6990,
+  "card_name": "E・HERO グラン・ネオス",
+  "card_name_label": "エレメンタルヒーロー　グラン・ネオス",
+  "card_name_search": "えれめんたるひーろーぐらんねおす",
+  "card_pen_effect": "",
+  "card_text": "「E・HERO ネオス」＋「N・グラン・モール」$N自分フィールド上の上記のカードをデッキに戻した場合のみ、エクストラデッキから特殊召喚できる（「融合」魔法カードは必要としない）。１ターンに１度、相手フィールド上のモンスター１体を選択して持ち主の手札に戻す事ができる。また、エンドフェイズ時、このカードはエクストラデッキに戻る。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/11/16",
+  "species_id": 15,
+  "starchip": "7"
+}

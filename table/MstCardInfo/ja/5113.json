@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 5113,
+  "card_name": "モンスターBOX",
+  "card_name_label": "モンスターボックス",
+  "card_name_search": "もんすたーぼっくす",
+  "card_pen_effect": "",
+  "card_text": "このカードのコントローラーは自分スタンバイフェイズ毎に５００LPを払う。またはLPを払わずにこのカードを破壊する。①：相手モンスターの攻撃宣言時に発動する。コイントスを１回行い、裏表を当てる。当たった場合、その攻撃モンスターの攻撃力は、このカードが魔法＆罠ゾーンに存在する限り、バトルフェイズ終了時まで０になる。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2001/04/19",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 5,
+  "card_id": 6932,
+  "card_name": "Dragon Gadjiltron Rouages Ancients",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si cette carte attaque, votre adversaire ne peut pas activer de Cartes Magie/Piège jusqu'à la fin de la Damage Step. Cette carte gagne les effets appropriés si vous l'Invoquez Normalement en Sacrifiant ces monstres.$N●Gadget Vert : Si cette carte attaque un monstre en Position de Défense, infligez des dommages de combat perçants à votre adversaire.$N●Gadget Rouge : Si cette carte inflige des dommages de combat à votre adversaire : infligez 400 points de dommages à votre adversaire.$N●Gadget Jaune : Si cette carte détruit un monstre de votre adversaire au combat : infligez 600 points de dommages à votre adversaire.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/01/17",
+  "species_id": 7,
+  "starchip": "8"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16866,
+  "card_name": "X・Y・Zコンバイン",
+  "card_name_label": "エックス・ワイ・ゼットコンバイン",
+  "card_name_search": "えっくすわいぜっとこんばいん",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分の機械族・光属性のユニオンモンスターカードが除外された場合に発動できる。デッキから「X－ヘッド・キャノン」「Y－ドラゴン・ヘッド」「Z－メタル・キャタピラー」の内１体を特殊召喚する。②：自分フィールドの融合モンスター１体をEXデッキに戻して発動できる。除外されている自分のモンスターの中から、「X－ヘッド・キャノン」「Y－ドラゴン・ヘッド」「Z－メタル・キャタピラー」を２体まで選んで特殊召喚する（同名カードは１枚まで）。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/10/16",
+  "species_id": 24,
+  "starchip": "0"
+}

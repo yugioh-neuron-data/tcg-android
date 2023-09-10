@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 1,
+  "card_id": 15345,
+  "card_name": "Psíquico Reflejo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si esta carta es Invocada de Modo Normal o Especial: puedes añadir a tu mano 1 \"Jinzo\" o 1 Mágica/Trampa en tu Deck que liste específicamente esa carta en su texto. Cuando otro monstruo que controles sea atacado por un monstruo del adversario, antes del cálculo de daño: puedes destruir el monstruo atacante y esta carta. Sólo puedes usar cada efecto de \"Psíquico Reflejo\" una vez por turno.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/09/24",
+  "species_id": 7,
+  "starchip": "4"
+}

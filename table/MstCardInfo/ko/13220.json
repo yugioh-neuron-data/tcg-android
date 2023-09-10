@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 1,
+  "card_id": 13220,
+  "card_name": "트릭스터 나르키스",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드명의 ①의 효과는 1턴에 1번밖에 사용할수 없다. ①: 상대가 효과 데미지를 받았을 경우에 발동할 수 있다. 이 카드를 패에서 특수 소환한다. ②: 이 카드가 몬스터 존에 존재하는 한, 상대가 패 / 묘지의 몬스터 효과를 발동할 때마다, 상대에게 200 데미지를 준다.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/09/27",
+  "species_id": 17,
+  "starchip": "4"
+}

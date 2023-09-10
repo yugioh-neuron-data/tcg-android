@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 8668,
+  "card_name": "Linha de Montagem de Máquinas",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Todos os monstros do Tipo Máquina no campo ganham 200 de ATK. Sempre que um ou mais monstros do Tipo Máquina com a face para cima no campo forem destruídos em batalha ou por um efeito de card, coloque 2 Marcadores de Sucata neste card. Você pode enviar este card para o Cemitério e, depois, escolher 1 monstro do Tipo Máquina no seu Cemitério cujo Nível seja menor ou igual ao número de Marcadores de Sucata que estavam neste card; Invoque o alvo por Invocação-Especial.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/08/01",
+  "species_id": 24,
+  "starchip": "0"
+}

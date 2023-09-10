@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 5,
+  "card_id": 7718,
+  "card_name": "Comandante Psichico",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Quando un mostro di Tipo Psichico che controlli combatte, durante il Damage Step puoi pagare Life Points in multipli di 100 (massimo 500) per far perdere al mostro con cui sta combattendo altrettanto ATK e DEF, fino alla End Phase.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/09/02",
+  "species_id": 21,
+  "starchip": "3"
+}

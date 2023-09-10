@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 17144,
+  "card_name": "Verzehrender Sarcoughagus",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wenn diese Karte durch Kampf mit einem Monster eines Gegners zerstört wird: Du kannst die Kontrolle über jenes Monster des Gegners übernehmen und falls du dies tust, wird es zu einem Zombie-Monster, zusätzlich werden seine ATK/DEF zu 0. Wenn dein Zombie-Monster durch Kampf mit einem Monster eines Gegners zerstört wird, solange sich diese Karte in deinem Friedhof befindet: Du kannst diese Karte verbannen; übernimm die Kontrolle über jenes Monster des Gegners und falls du dies tust, wird es zu einem Zombie-Monster, zusätzlich werden seine ATK/DEF zu 0. Du kannst diesen Effekt von „Verzehrender Sarcoughagus“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/05/19",
+  "species_id": 2,
+  "starchip": "4"
+}

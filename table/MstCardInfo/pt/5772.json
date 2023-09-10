@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 5,
+  "card_id": 5772,
+  "card_name": "Peão Vil Arquidemônio",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Uma vez por turno, durante sua Fase de Apoio, você deve pagar 500 PV (isso não é opcional), ou este card é destruído. Quando estiver resolvendo um efeito de card do oponente que escolha este card como alvo, lance um dado de seis faces e negue esse efeito se o resultado for um 3 e, se isso acontecer, destrua esse card. Os monstros do seu oponente não podem atacar nenhum monstro \"Arquidemônio\" que você controla, exceto \"Peão Vil Arquidemônio\".",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "Nome de Carta atualizado de \"Peão Vil Archdemônio\". (Versão impressa ainda não disponível)",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/03/01",
+  "species_id": 3,
+  "starchip": "2"
+}

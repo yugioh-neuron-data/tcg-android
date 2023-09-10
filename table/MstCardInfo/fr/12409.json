@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 2,
+  "card_id": 12409,
+  "card_name": "D/D Savant Thomas",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Durant votre Main Phase : vous pouvez ajouter 1 Monstre Pendule \"D/D\" face recto depuis votre Extra Deck à votre main. Vous ne pouvez utiliser cet effet de \"D/D Savant Thomas\" qu'une fois par tour.",
+  "card_text": "Vous pouvez cibler 1 carte \"D/D\" dans votre Zone Pendule ; détruisez la carte, et si vous le faites, Invoquez Spécialement 1 monstre \"D/D/D\" de Niveau 8 depuis votre Deck en Position de Défense, mais le reste de ce tour, ses effets (s'il en a) sont annulés, et aussi, les dommages de combat reçus par votre adversaire seront divisés par deux. Vous ne pouvez utiliser cet effet de \"D/D Savant Thomas\" qu'une fois par tour.",
+  "defense_power": "2600",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "6",
+  "pen_scale_r": "6",
+  "sales_at": "2016/08/04",
+  "species_id": 3,
+  "starchip": "8"
+}

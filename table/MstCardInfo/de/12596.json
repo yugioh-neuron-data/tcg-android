@@ -1,0 +1,23 @@
+{
+  "attack_power": "400",
+  "attribute_id": 2,
+  "card_id": 12596,
+  "card_name": "Raubpflanze Fliegenfalle",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Einmal pro Spielzug: Du kannst 1 offenes Monster wählen, das dein Gegner kontrolliert; lege 1 Raubtier-Zählmarke darauf und falls es Stufe 2 oder höher ist, wird es zu Stufe 1, solange es eine Raubtier-Zählmarke hat. Am Beginn des Damage Steps, wenn diese Karte gegen ein Monster mit einer gleichen oder niedrigeren Stufe kämpft: Du kannst das Monster zerstören, dann erhöhe die Stufe dieser Karte um die Grund-Stufe des zerstörten Monsters.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/11/03",
+  "species_id": 13,
+  "starchip": "2"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 14114,
+  "card_name": "Dragón Salvaje Borrecarga",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Cantante + 1+ monstruos que no sean Cantantes$NSi esta carta es Invocada por Sincronía: puedes equipar a esta carta 1 Monstruo de Enlace en tu Cementerio y, si lo haces, pon Contadores Borre en esta carta iguales al Rating de Enlace de ese Monstruo de Enlace. Esta carta gana ATK igual a la mitad del ATK del monstruo equipado a ella por su efecto. Cuando tu adversario activa una carta o efecto (Efecto Rápido): puedes retirar de esta carta 1 Contador Borre; niega la activación. Sólo puedes usar este efecto de \"Dragón Salvaje Borrecarga\" una vez por turno.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/01/31",
+  "species_id": 1,
+  "starchip": "8"
+}

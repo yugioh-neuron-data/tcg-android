@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 3,
+  "card_id": 6928,
+  "card_name": "コールド・エンチャンター",
+  "card_name_label": "コールド・エンチャンター",
+  "card_name_search": "こーるどえんちゃんたー",
+  "card_pen_effect": "",
+  "card_text": "手札を１枚捨てて発動できる。フィールド上に表側表示で存在するモンスター１体を選択し、アイスカウンターを１つ置く。このカードがフィールド上に表側表示で存在する限り、このカードの攻撃力は、フィールド上のアイスカウンターの数×３００ポイントアップする。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/08/21",
+  "species_id": 14,
+  "starchip": "4"
+}

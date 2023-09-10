@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 6,
+  "card_id": 13366,
+  "card_name": "F.A. Whip Crosser",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Ganha ATK igual ao seu próprio Nível x 300. Seu oponente deve pagar 300 PV para ativar o efeito de um monstro cujo Nível/Classe original seja menor que o Nível deste card. Sempre que um Card ou efeito de Magia/Armadilha \"F.A.\" for ativado: você pode aumentar em 1 o Nível deste card. Se este card for de Nível 7 ou mais, seu oponente não pode descartar ou enviar cards da mão dele para o Cemitério para ativar efeitos de card.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/10/19",
+  "species_id": 7,
+  "starchip": "4"
+}

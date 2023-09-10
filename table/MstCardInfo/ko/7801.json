@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 4,
+  "card_id": 7801,
+  "card_name": "화염의 마정령 이그니스",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "자신 필드 위에 앞면 표시로 존재하는 화염 속성 몬스터 1장을 릴리스하고 발동한다. 자신의 묘지에 존재하는 화염 속성 몬스터의 수 × 100 포인트 데미지를 상대 라이프에 준다.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/12/02",
+  "species_id": 4,
+  "starchip": "4"
+}

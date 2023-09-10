@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 5,
+  "card_id": 16403,
+  "card_name": "ヨーウィー",
+  "card_name_label": "ヨーウィー",
+  "card_name_search": "よーうぃー",
+  "card_pen_effect": "",
+  "card_text": "このカード名の効果はデュエル中に１度しか使用できず、この効果を発動するターン、自分は１回しかモンスターを特殊召喚できない。①：このカード１体のみが召喚・反転召喚・特殊召喚に成功した場合に発動できる。次の相手ドローフェイズをスキップする。",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/06/12",
+  "species_id": 20,
+  "starchip": "3"
+}

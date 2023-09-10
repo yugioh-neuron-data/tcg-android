@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 6,
+  "card_id": 5338,
+  "card_name": "Unterweltler-Totenkopfdrache",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "„Höhlendrache“ + „Geringerer Unterweltler“$N(Diese Karte wird immer als „Erzunterweltler“-Karte behandelt.)$NEine Fusionsbeschwörung dieser Karte kann nur mit den oben aufgeführten Fusionsmaterialmonstern durchgeführt werden. Annulliere die Effekte von Flippeffektmonstern. Annulliere alle Falleneffekte, die diese Karte auf dem Spielfeld als Ziel wählen, und falls du dies tust, zerstöre die Fallenkarte.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2003/04/01",
+  "species_id": 1,
+  "starchip": "5"
+}

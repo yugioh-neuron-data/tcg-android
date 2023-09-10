@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 6,
+  "card_id": 17779,
+  "card_name": "Pegaso de la Majestuosidad, la Dracoasesino",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Si tienes una carta \"Dracoasesino\" o \"Majespectro\" en tu otra Zona de Péndulo: puedes añadir a tu mano 1 Monstruo de Péndulo \"Dracoasesino\" con un nombre original diferente al de esa carta en tu Deck, y después puedes destruir 1 carta en tu Zona de Péndulo. Sólo puedes usar este efecto de \"Pegaso de la Majestuosidad, la Dracoasesino\" una vez por turno.",
+  "card_text": "(Esta carta se trata siempre como una carta \"Majespectro\").$N(Efecto Rápido): puedes descartar esta carta; por el resto de este turno, tu adversario no puede seleccionar con efectos de cartas monstruos \"Dracoasesino\" que controles, y además no pueden ser destruidos por efectos de cartas de tu adversario. Si esta carta es Invocada de Modo Especial por efecto de una carta \"Dracoasesino\", o Invocada por Péndulo: puedes añadir a tu mano 1 Mágica de Campo en tu Deck, y después descarta 1 carta. Sólo puedes usar este efecto de \"Pegaso de la Majestuosidad, la Dracoasesino\" una vez por turno.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "2",
+  "pen_scale_r": "2",
+  "sales_at": "2022/10/20",
+  "species_id": 18,
+  "starchip": "4"
+}

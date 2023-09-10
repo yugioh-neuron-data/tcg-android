@@ -1,0 +1,23 @@
+{
+  "attack_power": "200",
+  "attribute_id": 2,
+  "card_id": 9892,
+  "card_name": "인잭터 아마이제",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1턴에 1번, 자신의 패 / 묘지에서 \"인잭터\"라는 이름이 붙은 몬스터 1장을 장착 카드로 취급하여 이 카드에 장착할 수 있다. 이 카드가 장착 카드로 취급되어 장착되어 있을 경우, 장착 몬스터의 레벨은 3개 올라가고, 공격력 / 수비력은 이 카드 각각의 수치만큼 올린다. 장착 몬스터가 파괴될 경우, 대신에 이 카드를 파괴할 수 있다.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/02/07",
+  "species_id": 10,
+  "starchip": "3"
+}

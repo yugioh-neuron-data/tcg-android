@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11478,
+  "card_name": "Terrain d'Entraînement Yosen",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Chaque fois qu'un ou plusieurs monstres \"Yosenju\" sont Invoqués Normalement ou Spécialement, placez 1 Compteur Yosen sur cette carte. Vous pouvez retirer un nombre de votre choix de Compteurs Yosen de cette carte ; appliquez cet effet, selon le nombre de Compteurs Yosen retirés. Vous ne pouvez utiliser cet effet de \"Terrain d'Entraînement Yosen\" qu'une fois par tour.$N●1 Compteur : Jusqu'à la fin de ce tour, tous les monstres \"Yosenju\" que vous contrôlez actuellement gagnent 300 ATK (même si cette carte quitte le Terrain).$N●3 Compteurs : Ajoutez 1 carte \"Yosenju\" depuis votre Deck ou Cimetière à votre main.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/02/12",
+  "species_id": 24,
+  "starchip": "0"
+}

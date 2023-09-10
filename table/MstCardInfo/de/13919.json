@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 1,
+  "card_id": 13919,
+  "card_name": "Zwei-für-eins-Team",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Einmal pro Spielzug: Du kannst beide Spieler 1 Karte von ihrer Hand zeigen lassen und falls beide gezeigte Karten denselben Kartentyp haben, führe basierend auf dem Typ 1 dieser Effekte aus.$N●Monster: Jeder Spieler kann sein Monster als Spezialbeschwörung beschwören.$N●Zauber: Jeder Spieler zieht 2 Karten.$N●Falle: Jeder Spieler legt genau 2 Karten von seinem Deck auf seinen Friedhof.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/10/18",
+  "species_id": 15,
+  "starchip": "2"
+}

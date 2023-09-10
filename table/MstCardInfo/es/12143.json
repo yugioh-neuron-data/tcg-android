@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 2,
+  "card_id": 12143,
+  "card_name": "Doriado Oscura",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Todos los monstruos de TIERRA, AGUA, FUEGO y VIENTO que controles ganan 200 ATK/DEF por cada Atributo diferente entre los monstruos que controles.",
+  "card_text": "Si esta carta es Invocada de Modo Normal o Especial: puedes elegir 4 monstruos en tu Deck (1 de TIERRA, 1 de AGUA, 1 de FUEGO y 1 de VIENTO), y después ponerlos en la parte superior del Deck en cualquier orden.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2016/01/14",
+  "species_id": 18,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 10103,
+  "card_name": "倍返し",
+  "card_name_label": "ばいがえし",
+  "card_name_search": "ばいがえし",
+  "card_pen_effect": "",
+  "card_text": "相手のカードの効果によって自分が１０００ポイント以上のダメージを受けた時に発動できる。その時に受けたダメージ１０００ポイントにつき、このカードに倍々カウンターを１つ置く。次の相手ターンのエンドフェイズ時、このカードを破壊してこのカードに乗っていた倍々カウンターの数×２０００ポイントダメージを相手ライフに与える。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/02/18",
+  "species_id": 25,
+  "starchip": "0"
+}

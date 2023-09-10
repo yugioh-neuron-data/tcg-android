@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 12990,
+  "card_name": "ダイナミスト・ハウリング",
+  "card_name_label": "ダイナミスト・ハウリング",
+  "card_name_search": "だいなみすとはうりんぐ",
+  "card_pen_effect": "",
+  "card_text": "①：このカードの発動時の効果処理として、デッキから「ダイナミスト」Pモンスターを２体まで選んで自分のPゾーンに置く事ができる。置いた場合、次のターンの終了時まで、自分は「ダイナミスト」モンスターしかP召喚できない。②：このカードが既に魔法＆罠ゾーンに表側表示で存在する場合、１ターンに１度、自分フィールドの「ダイナミスト」モンスター１体をリリースし、相手フィールドのカード１枚を対象として発動できる。そのカードを持ち主の手札に戻す。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/01/14",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 17654,
+  "card_name": "Salón Amazoness",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando esta carta es activada: puedes tomar 1 monstruo \"Amazoness\" en tu Cementerio o tu Deck Extra boca arriba, y ya sea añadirlo a tu mano o (si es un Monstruo de Péndulo) ponerlo en tu Zona de Péndulo. Si uno o más monstruos son Invocados de Modo Especial al Campo de tu adversario mientras controles una Carta de Monstruo \"Amazoness\" (excepto durante el Damage Step): puedes seleccionar 1 de esos monstruos del adversario; gana LP iguales a su ATK. Sólo puedes usar este efecto de \"Salón Amazoness\" una vez por turno.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/11/17",
+  "species_id": 25,
+  "starchip": "0"
+}

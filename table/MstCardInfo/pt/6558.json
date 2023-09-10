@@ -1,0 +1,23 @@
+{
+  "attack_power": "2700",
+  "attribute_id": 2,
+  "card_id": 6558,
+  "card_name": "Gorz, o Emissário da Escuridão",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Quando você sofrer dano de um card em posse do seu oponente: você pode Invocar este card por Invocação-Especial da sua mão. Você não pode controlar nenhum card para ativar e resolver este efeito. Quando este card for Invocado por Invocação-Especial por seu efeito: ative o efeito apropriado, de acordo com o tipo de dano.$N●Dano de batalha: Invoque por Invocação-Especial 1 \"Ficha de Emissário da Escuridão\" (Fada/LUZ/Nível 7/ATK ?/DEF ?). Seu ATK e DEF são iguais ao dano de batalha que você sofreu.$N●Dano de efeito: Cause dano ao seu oponente igual ao dano que você sofreu.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/03/20",
+  "species_id": 3,
+  "starchip": "7"
+}

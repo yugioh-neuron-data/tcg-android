@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 2,
+  "card_id": 10928,
+  "card_name": "Vingador Xyz",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Este card não é afetado pelos efeitos de Monstros Xyz. Quando este card for destruído em batalha com um Monstro Xyz e enviado para o Cemitério: ative 1 desses efeitos, dependendo da Classe do Monstro Xyz que destruiu este card;$N●Classe 3 ou menor: Seu oponente envia 1 card do Deck Adicional dele para o Cemitério.$N●Classe 4: Escolha 1 card no Deck Adicional do seu oponente e envie-o para o Cemitério.$N●Classe 5 ou mais: Seu oponente envia tantos cards do Deck Adicional dele para o Cemitério quantos forem possível, mas não mais que a Classe do Monstro Xyz.",
+  "defense_power": "700",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/01/24",
+  "species_id": 3,
+  "starchip": "4"
+}

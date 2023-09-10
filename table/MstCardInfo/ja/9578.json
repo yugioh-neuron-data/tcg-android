@@ -1,0 +1,23 @@
+{
+  "attack_power": "200",
+  "attribute_id": 1,
+  "card_id": 9578,
+  "card_name": "ブーテン",
+  "card_name_label": "ブーテン",
+  "card_name_search": "ぶーてん",
+  "card_pen_effect": "",
+  "card_text": "自分のメインフェイズ時に、墓地のこのカードをゲームから除外し、自分フィールド上のレベル４以下の天使族・光属性モンスター１体を選択して発動できる。選択したモンスターはフィールド上に表側表示で存在する限りチューナーとして扱う。",
+  "defense_power": "300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/12/18",
+  "species_id": 17,
+  "starchip": "1"
+}

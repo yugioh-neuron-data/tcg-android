@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 11861,
+  "card_name": "Fiamme del Furetto",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se la somma degli ATK di tutti i mostri scoperti controllati dal tuo avversario è superiore ai tuoi LP: fai mescolare al tuo avversario nel Deck mostri scoperti che lui controlla (a sua scelta), eccetto mostri con ATK 0, fino a quando la somma degli ATK dei mostri rimanenti che controlla diventa pari o inferiore ai tuoi LP.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/08/06",
+  "species_id": 25,
+  "starchip": "0"
+}

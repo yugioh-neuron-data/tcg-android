@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 2,
+  "card_id": 16819,
+  "card_name": "Sirène Fantôruse",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Non Invocable Normalement, sauf si vous contrôlez un monstre \"Fantôruse\". Une fois par tour, durant votre Main Phase : vous pouvez changer cette carte en Position de Défense face verso. Si cette carte est Invoquée Normalement ou retournée face recto : envoyez les 2 cartes du dessus de votre Deck au Cimetière, puis si l'une des cartes était une carte \"Fantôruse\", vous pouvez appliquer 1 de ces effets.$N●Ajoutez 1 Magie/Piège \"Fantôruse\" depuis votre Deck à votre main.$N●Changez 1 Monstre à Effet contrôlé par votre adversaire en Position de Défense face verso.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/02/10",
+  "species_id": 17,
+  "starchip": "4"
+}

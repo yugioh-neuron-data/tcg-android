@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 14530,
+  "card_name": "Gnomaterial",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si tu adversario Invoca uno o más monstruos de Modo Especial mientras tú no controlas cartas: puedes descartar esta carta, y después selecciona 1 monstruo boca arriba que controle tu adversario; este turno, ese monstruo no puede ser Sacrificado, o usado como material para una Invocación por Fusión, Sincronía, Enlace o Xyz. Sólo puedes usar este efecto de \"Gnomaterial\" una vez por turno.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/05/02",
+  "species_id": 17,
+  "starchip": "1"
+}

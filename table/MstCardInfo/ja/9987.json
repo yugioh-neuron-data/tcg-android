@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 1,
+  "card_id": 9987,
+  "card_name": "セイクリッド・カウスト",
+  "card_name_label": "セイクリッド・カウスト",
+  "card_name_search": "せいくりっどかうすと",
+  "card_pen_effect": "",
+  "card_text": "このカードはS素材にできない。①：フィールドの「セイクリッド」モンスター１体を対象として以下の効果から１つを選択して発動できる。この効果は１ターンに２度まで使用できる。$N●対象のモンスターのレベルを１つ上げる。$N●対象のモンスターのレベルを１つ下げる。",
+  "defense_power": "700",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/01/24",
+  "species_id": 12,
+  "starchip": "4"
+}

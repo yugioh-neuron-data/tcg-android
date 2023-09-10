@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 1,
+  "card_id": 16521,
+  "card_name": "迷犬メリー",
+  "card_name_label": "めいけんメリー",
+  "card_name_search": "めいけんめりー",
+  "card_pen_effect": "",
+  "card_text": "このカード名の効果は１ターンに１度しか使用できない。①：このカードが墓地へ送られた場合、以下の効果から１つを選択して発動できる。$N●このカードをデッキの一番下に戻す。$N●デッキから「迷犬マロン」１体を手札に加え、このカードをデッキの一番上に戻す。",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/07/17",
+  "species_id": 11,
+  "starchip": "1"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 2,
+  "card_id": 7296,
+  "card_name": "Giocatore d'Azzardo Leggendario",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Una volta per turno, puoi lanciare una moneta 3 volte ed applicare l'effetto relativo al risultato:$N●3 Teste: Distruggi tutti i mostri controllati dall'avversario.$N●2 Teste: Scarta una carta dalla mano del tuo avversario.$N●1 Testa: Distruggi 1 carta sotto il tuo controllo.$N●3 Croci: Scarta tutte le carte che hai in mano.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/11/03",
+  "species_id": 18,
+  "starchip": "4"
+}

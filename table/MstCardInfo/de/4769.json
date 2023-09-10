@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 5,
+  "card_id": 4769,
+  "card_name": "Parasiten-Parazid",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "FLIPP: Mische diese Karte offen ins Deck deines Gegners.$NFalls du diese Karte ziehst, nachdem sie deinem Deck durch ihren Effekt hinzugefügt wurde: Beschwöre sie als Spezialbeschwörung in die Verteidigungsposition und falls du dies tust, erhältst du 1000 Schaden. Alle Monster, die der Spieler kontrolliert, der diese Karte durch ihren Effekt beschworen hat, werden zu Insekt-Monstern.",
+  "defense_power": "300",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 24,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/10/20",
+  "species_id": 10,
+  "starchip": "2"
+}

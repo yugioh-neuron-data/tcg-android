@@ -1,0 +1,23 @@
+{
+  "attack_power": "2300",
+  "attribute_id": 1,
+  "card_id": 7614,
+  "card_name": "ファントム・ドラゴン",
+  "card_name_label": "ファントム・ドラゴン",
+  "card_name_search": "ふぁんとむどらごん",
+  "card_pen_effect": "",
+  "card_text": "相手がモンスターの特殊召喚に成功した時、手札からこのカードを特殊召喚する事ができる。このカードがフィールド上に表側表示で存在する限り、自分のモンスターカードゾーンは２ヵ所が使用不可能になる。",
+  "defense_power": "2200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/02/23",
+  "species_id": 1,
+  "starchip": "8"
+}

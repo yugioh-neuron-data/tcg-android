@@ -1,0 +1,23 @@
+{
+  "attack_power": "2700",
+  "attribute_id": 5,
+  "card_id": 6244,
+  "card_name": "百獣王 ベヒーモス",
+  "card_name_label": "アニマル・キング ベヒーモス",
+  "card_name_search": "あにまるきんぐべひーもす",
+  "card_pen_effect": "",
+  "card_text": "このカードはモンスター１体をリリースしてアドバンス召喚できる。$N①：この方法でアドバンス召喚したこのカードの元々の攻撃力は２０００になる。$N②：このカードがアドバンス召喚した時、このカードのアドバンス召喚のためにリリースしたモンスターの数だけ、自分の墓地の獣族モンスターを対象として発動できる。その獣族モンスターを手札に加える。",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/11/25",
+  "species_id": 11,
+  "starchip": "7"
+}

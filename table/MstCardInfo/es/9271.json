@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 9271,
+  "card_name": "Cambio de Máscara II",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Descarta 1 carta, y después selecciona 1 monstruo boca arriba que controles y que tenga Nivel; mándalo al Cementerio y además, después de eso, si dejó el Campo por este efecto, Invoca de Modo Especial, desde tu Deck Extra, 1 monstruo \"HÉROE Enmascarado\" con el mismo Atributo, pero con Nivel mayor que el Atributo/Nivel que tenía el monstruo cuando estaba en el Campo (si estaba boca abajo, su Atributo/Nivel original). (Esto se trata como una Invocación Especial con \"Cambio de Máscara\"). Sólo puedes activar 1 \"Cambio de Máscara II\" por turno.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/01/29",
+  "species_id": 24,
+  "starchip": "0"
+}

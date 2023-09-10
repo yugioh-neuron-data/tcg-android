@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 2,
+  "card_id": 12110,
+  "card_name": "Zeitbrechender Magier",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "In jedem Spielzug werden das oder die ersten Pendelmonster, die du kontrollierst und die durch einen Karteneffekt deines Gegners zerstört würden, nicht zerstört.",
+  "card_text": "Wenn diese Karte als Pendelbeschwörung von der Hand beschworen wird (und keine anderen Karten zur selben Zeit als Pendelbeschwörung beschworen werden): Du kannst die ATK dieser Karte zum Doppelten ihrer Grund-ATK werden lassen. Einmal pro Spielzug: Du kannst 1 Monster auf dem Spielfeld wählen; verbanne sowohl es als auch diese Karte bis zu deiner nächsten Standby Phase vom Spielfeld.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "2",
+  "pen_scale_r": "2",
+  "sales_at": "2016/01/14",
+  "species_id": 18,
+  "starchip": "3"
+}

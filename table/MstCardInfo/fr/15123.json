@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 1,
+  "card_id": 15123,
+  "card_name": "Surnaliche le Seigneur d'Or",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Vous pouvez envoyer cette carte et 1 Magie/Piège depuis votre main au Cimetière, puis ciblez 1 carte sur le Terrain ; envoyez-la au Cimetière. Si cette carte est dans votre Cimetière : vous pouvez envoyer 1 Magie/Piège que vous contrôlez au Cimetière ; ajoutez cette carte à votre main, puis vous pouvez Invoquer Spécialement 1 monstre Zombie depuis votre main, et si vous le faites, jusqu'à la fin du tour de votre adversaire, il gagne 1000 ATK/DEF et ne peut pas être détruit par des effets de carte. Vous ne pouvez utiliser chaque effet de \"Surnaliche le Seigneur d'Or\" qu'une fois par tour.",
+  "defense_power": "2800",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/02",
+  "species_id": 2,
+  "starchip": "10"
+}

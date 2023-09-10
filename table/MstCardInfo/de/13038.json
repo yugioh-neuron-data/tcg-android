@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 2,
+  "card_id": 13038,
+  "card_name": "Baumwollschlingenkobold",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Alle Fusionsmonster, die du kontrollierst, erhalten 300 ATK. Einmal pro Spielzug, falls ein oder mehr „Schreckenspelz“-Fusionsmonster als Fusionsbeschwörung auf deine Spielfeldseite beschworen werden (außer während des Damage Steps): Du kannst 1 Karte ziehen.",
+  "card_text": "Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst deinem Gegner für jedes „Schreckenspelz“-Monster in deinem Friedhof 200 Schaden zufügen. Du kannst diesen Effekt von „Baumwollschlingenkobold“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2018/10/18",
+  "species_id": 3,
+  "starchip": "7"
+}

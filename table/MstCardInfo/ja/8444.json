@@ -1,0 +1,23 @@
+{
+  "attack_power": "-1",
+  "attribute_id": 6,
+  "card_id": 8444,
+  "card_name": "フォーチュンレディ・ウインディー",
+  "card_name_label": "フォーチュンレディ・ウインディー",
+  "card_name_search": "ふぉーちゅんれでぃういんでぃー",
+  "card_pen_effect": "",
+  "card_text": "このカードの攻撃力・守備力は、このカードのレベル×３００ポイントになる。また、自分のスタンバイフェイズ時、このカードのレベルを１つ上げる（最大レベル１２まで）。このカードが召喚に成功した時、自分フィールド上の「フォーチュンレディ」と名のついたモンスターの数だけ、相手フィールド上の魔法・罠カードを選んで破壊できる。",
+  "defense_power": "-1",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/07/18",
+  "species_id": 18,
+  "starchip": "3"
+}

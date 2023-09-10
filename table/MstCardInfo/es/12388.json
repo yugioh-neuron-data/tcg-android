@@ -1,0 +1,23 @@
+{
+  "attack_power": "4000",
+  "attribute_id": 2,
+  "card_id": 12388,
+  "card_name": "Planeta Oscuro Kozmo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial (desde tu mano) desterrando monstruos \"Kozmo\" en tu mano cuyos Niveles totales sean 10 o más, y no puede ser Invocado de Modo Especial de otra forma. No puede ser seleccionado por efectos de cartas de tu adversario. Durante el turno de cualquier jugador, cuando es activada una Carta Mágica: puedes desterrar 1 monstruo \"Kozmo\" en tu Cementerio; niega la activación y, si lo haces, destruye esa carta. Si esta carta es destruida en batalla o por efecto de una carta y mandada al Cementerio: puedes desterrar esta carta en tu Cementerio; añade a tu mano 1 monstruo \"Kozmo\" de Nivel 9 o menor en tu Deck.",
+  "defense_power": "4000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/05/05",
+  "species_id": 7,
+  "starchip": "10"
+}

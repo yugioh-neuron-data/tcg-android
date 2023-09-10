@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 2,
+  "card_id": 14417,
+  "card_name": "Serziel, Wächter des Bösauges",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "(Diese Karte wird nicht als „Wächter“-Karte behandelt.)$NWenn diese Karte als Normalbeschwörung beschworen wird: Du kannst deiner Hand 1 „Bösauge“-Karte von deinem Deck hinzufügen, außer „Serziel, Wächter des Bösauges“. Falls diese Karte mit „Bösauge der Selene“ ausgerüstet ist (Schnelleffekt): Du kannst 1 als Spezialbeschwörung beschworenes Monster wählen, das dein Gegner kontrolliert; zerstöre es. Du kannst diesen Effekt von „Serziel, Wächter des Bösauges“ nur einmal pro Spielzug verwenden. Einmal pro Spielzug, während der nächsten Standby Phase, nachdem dieser Effekt aktiviert wurde: Zerstöre 1 Karte, die du kontrollierst.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/03/21",
+  "species_id": 3,
+  "starchip": "4"
+}

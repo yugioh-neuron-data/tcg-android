@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 7167,
+  "card_name": "데미지=파충류",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "파충류족 몬스터의 전투에 의해서 데미지를 받았을 때, 그 데미지 수치 이하의 공격력을 가진 파충류족 몬스터 1장을 덱에서 특수 소환할 수 있다. 이 효과는 1턴에 1번밖에 사용할 수 없다.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/06/08",
+  "species_id": 25,
+  "starchip": "0"
+}

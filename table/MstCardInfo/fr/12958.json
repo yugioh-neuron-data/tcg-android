@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 2,
+  "card_id": 12958,
+  "card_name": "Raidraptor - Faucon Étranger",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 monstres de Niveau 5$NSi cette carte a un Monstre Xyz comme Matériel Xyz, elle gagne cet effet.$N●Une fois par tour : vous pouvez détacher 1 Matériel Xyz de cette carte, puis ciblez 1 monstre contrôlé par votre adversaire ; détruisez-le, et si vous le faites, infligez des dommages à votre adversaire égaux à son ATK d'origine.$NSi cette carte en votre possession est détruite par une carte de votre adversaire (au combat ou par un effet de carte) et envoyée à votre Cimetière : vous pouvez cibler 1 Monstre Xyz \"Raidraptor\" (\"Raidraptor - Faucon Étranger\" exclu) dans votre Cimetière ; Invoquez-le Spécialement, et si vous le faites, attachez-lui cette carte comme Matériel Xyz.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/05/04",
+  "species_id": 16,
+  "starchip": "5"
+}

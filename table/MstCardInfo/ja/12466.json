@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 12466,
+  "card_name": "半魔導帯域",
+  "card_name_label": "はんまどうたいいき",
+  "card_name_search": "はんまどうたいいき",
+  "card_pen_effect": "",
+  "card_text": "自分のメインフェイズ１・メインフェイズ２の開始時にこのカードを発動できる。①：お互いのメインフェイズ１の間、フィールドのモンスターは、それぞれの相手の効果の対象にならず、それぞれの相手の効果では破壊されない。②：このカードがフィールドゾーンに存在する限り、自分はフィールド魔法カードを発動・セットできない。",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/04/09",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 15835,
+  "card_name": "Terror de Trishula",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Aplica estos efectos, en secuencia, dependiendo del número de Monstruos de Sincronía \"Barrera de Hielo\" con nombres diferentes que controles;$N●1+: Destierra 1 carta que controle tu adversario.$N●2+: Destierra 1 carta en el Cementerio de tu adversario.$N●3+: Destierra 1 carta al azar en la mano de tu adversario.$NCuando tu adversario activa una carta o efecto que selecciona uno o más Monstruos de Sincronía \"Barrera de Hielo\" que controles: puedes desterrar esta carta en tu Cementerio; niega ese efecto.$NSólo puedes usar cada efecto de \"Terror de Trishula\" una vez por turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/02/18",
+  "species_id": 25,
+  "starchip": "0"
+}

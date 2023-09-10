@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 5,
+  "card_id": 12111,
+  "card_name": "Artistamico Scimmiatastiera",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "A meno che tu abbia una carta \"Artistamico\" nella tua altra Zona Pendulum, il Valore Pendulum di questa carta diventa 4. Durante la tua Main Phase, se questa carta è stata attivata in questo turno: puoi aggiungere 1 mostro \"Artistamico\" di Livello 4 o inferiore dal tuo Deck alla tua mano. Puoi utilizzare questo effetto di \"Artistamico Scimmiatastiera\" una sola volta per turno.",
+  "card_text": "Puoi scartare questa carta; rivela 1 mostro \"Artistamico\" o \"Occhi Diversi\" nella tua mano e, se lo fai, riduci di 1 il Livello dei mostri nella tua mano con quel nome per il resto di questo turno (anche dopo che sono stati Evocati/Posizionati).",
+  "defense_power": "2400",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2016/01/14",
+  "species_id": 11,
+  "starchip": "6"
+}

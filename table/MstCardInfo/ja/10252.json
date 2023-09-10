@@ -1,0 +1,23 @@
+{
+  "attack_power": "200",
+  "attribute_id": 3,
+  "card_id": 10252,
+  "card_name": "フィッシュボーグ－プランター",
+  "card_name_label": "フィッシュボーグ－プランター",
+  "card_name_search": "ふぃっしゅぼーぐぷらんたー",
+  "card_pen_effect": "",
+  "card_text": "このカードが墓地に存在する限り１度だけ発動できる。自分のデッキの一番上のカードを墓地へ送る。墓地へ送ったカードが水属性モンスターだった場合、さらにこのカードを墓地から特殊召喚する。「フィッシュボーグ－プランター」の効果は１ターンに１度しか使用できない。",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/07/21",
+  "species_id": 8,
+  "starchip": "2"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 1,
+  "card_id": 15696,
+  "card_name": "Bewaffneter Drache LV10 Weiß",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Diese Karte muss durch ihren eigenen Effekt als Spezialbeschwörung beschworen werden. Du kannst „Bewaffnete/r Drache“-Monster von deiner Spielfeldseite und/oder deinem Friedhof verbannen, deren gemeinsame Stufe 10 entspricht; beschwöre diese Karte als Spezialbeschwörung von deiner Hand, dann kannst du deiner Hand 1 „Weißer Schleier“ von deinem Deck hinzufügen. Du kannst diesen Effekt von „Bewaffneter Drache LV10 Weiß“ nur einmal pro Spielzug verwenden. Du erhältst keinen Effektschaden. Am Beginn des Damage Steps, falls diese Karte angreift: Du kannst 1 Karte auf dem Spielfeld zerstören.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/02/04",
+  "species_id": 1,
+  "starchip": "10"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 2,
+  "card_id": 11807,
+  "card_name": "真紅眼の凶雷皇－エビル・デーモン",
+  "card_name_label": "レッドアイズ・ライトニング・ロード－エビル・デーモン",
+  "card_name_search": "れっどあいずらいとにんぐろーどえびるでーもん",
+  "card_pen_effect": "",
+  "card_text": "①：このカードはフィールド・墓地に存在する限り、通常モンスターとして扱う。②：フィールドの通常モンスター扱いのこのカードを通常召喚としてもう１度召喚できる。その場合このカードは効果モンスター扱いとなり以下の効果を得る。$N●１ターンに１度、自分メインフェイズに発動できる。このカードの攻撃力より低い守備力を持つ、相手フィールドの表側表示モンスターを全て破壊する。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 9,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/04/25",
+  "species_id": 3,
+  "starchip": "6"
+}

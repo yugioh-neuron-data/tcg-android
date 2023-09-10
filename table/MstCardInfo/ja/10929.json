@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 5,
+  "card_id": 10929,
+  "card_name": "タックルセイダー",
+  "card_name_label": "タックルセイダー",
+  "card_name_search": "たっくるせいだー",
+  "card_pen_effect": "",
+  "card_text": "このカードが墓地へ送られた場合、以下の効果から１つを選択して発動できる。$N●相手フィールド上に表側表示で存在するモンスター１体を選択して裏側守備表示にする。$N●相手フィールド上に表側表示で存在する魔法・罠カード１枚を選択して持ち主の手札に戻す。このターン、相手はこの効果で手札に戻したカード及びその同名カードを発動できない。",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/11/16",
+  "species_id": 6,
+  "starchip": "4"
+}

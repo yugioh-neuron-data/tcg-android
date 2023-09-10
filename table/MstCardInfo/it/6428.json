@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 1,
+  "card_id": 6428,
+  "card_name": "Uomo Batteria C",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se tutti gli \"Uomo Batteria C\" sul tuo Terreno sono in Posizione d'Attacco, aumenta l'ATK di tutti i mostri di Tipo Macchina sul tuo Terreno di 500 punti per ogni \"Uomo Batteria C\" sul tuo Terreno. Se tutti gli \"Uomo Batteria C\" sul tuo Terreno sono in Posizione di Difesa, aumenta il DEF di tutti i mostri di Tipo Macchina sul tuo Terreno di 500 punti per ogni \"Uomo Batteria C\" sul tuo Terreno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/08/06",
+  "species_id": 19,
+  "starchip": "2"
+}

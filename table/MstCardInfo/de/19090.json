@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 19090,
+  "card_name": "Zeichen der Tistina",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Aktiviere diese Karte, indem du 1 offenes Monster auf dem Spielfeld wählst; beschwöre diese Karte als Spezialbeschwörung als Effektmonster (Aqua/LICHT/Stufe 10/ATK 0/DEF 0) mit dem folgenden Effekt (diese Karte ist zusätzlich weiterhin eine Falle).$N●Während des Spielzugs deines Gegners, wenn jenes gewählte Ziel das Spielfeld verlässt, zerstöre diese Karte. Während des Spielzugs deines Gegners, wenn diese Karte das Spielfeld verlässt, zerstöre jenes gewählte Ziel.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/07/27",
+  "species_id": 25,
+  "starchip": "0"
+}

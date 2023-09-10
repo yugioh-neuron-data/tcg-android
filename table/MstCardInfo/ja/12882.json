@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 5,
+  "card_id": 12882,
+  "card_name": "EMバラクーダ",
+  "card_name_label": "エンタメイトバラクーダ",
+  "card_name_search": "えんためいとばらくーだ",
+  "card_pen_effect": "①：１ターンに１度、自分の「EM」モンスターが相手モンスターと戦闘を行うダメージ計算前に発動できる。その相手モンスターの攻撃力は、その元々の攻撃力との差分だけダウンする。",
+  "card_text": "「EMバラクーダ」のモンスター効果は１ターンに１度しか使用できない。①：元々の攻撃力と異なる攻撃力を持つ「EM」モンスター１体を対象として発動できる。そのモンスターの攻撃力はターン終了時まで、その元々の攻撃力との差分だけアップする。この効果は相手ターンでも発動できる。",
+  "defense_power": "1100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2016/12/17",
+  "species_id": 13,
+  "starchip": "3"
+}

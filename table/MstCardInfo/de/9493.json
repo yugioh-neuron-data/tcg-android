@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 9493,
+  "card_name": "Knacksprenger",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Einmal pro Spielzug, während deiner Main Phase, kannst du ein Monster, das du kontrollierst, mit dieser Karte als Ausrüstungskarte ausrüsten ODER diese Karte ausklinken, um sie als Spezialbeschwörung in die offene Angriffsposition zu beschwören. Solange diese Karte durch diesen Effekt ein Monster ausrüstet, verliert das Monster 500 ATK und DEF. Falls das ausgerüstete Monster ein Monster deines Gegners durch Kampf zerstört, zerstöre alle offenen Monster auf dem Spielfeld, die denselben Monstertyp haben wie das zerstörte Monster. (Ein Monster kann zu jeder Zeit nur mit 1 Union-Monster ausgerüstet sein. Falls das ausgerüstete Monster zerstört werden würde, zerstöre stattdessen diese Karte.)",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 8,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/05/05",
+  "species_id": 7,
+  "starchip": "1"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 13918,
+  "card_name": "Colecionador de Fichas",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se uma Ficha for Invocada por Invocação-Especial (exceto durante a Etapa de Dano): você pode Invocar este card por Invocação-Especial do Cemitério (se ele estava lá quando a Ficha foi Invocada por Invocação-Especial) ou da mão (mesmo se ele não estava). Você só pode usar este efeito de \"Colecionador de Fichas\" uma vez por turno. Se este card for Invocado por Invocação-Especial: destrua tantas Fichas no campo quanto possível e, se isso acontecer, este card ganha 400 de ATK para cada Ficha destruída. Nenhum duelista pode Invocar Fichas por Invocação-Especial.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/10/18",
+  "species_id": 3,
+  "starchip": "4"
+}

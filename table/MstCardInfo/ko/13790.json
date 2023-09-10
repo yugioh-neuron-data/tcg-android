@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 13790,
+  "card_name": "리턴 오브 더 월드",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드명의 ①②의 효과는 1턴에 1번, 어느 쪽이든 1개밖에 사용할 수 없다. ①: 이 카드의 발동시의 효과 처리로서, 덱에서 의식 몬스터 1장을 제외한다. ②: 이 카드를 묘지로 보내고, 이하의 효과에서 1개를 선택하여 발동할 수 있다.$N●의식 소환할 몬스터의 레벨 이상이 되도록, 자신의 패 / 필드의 몬스터 1장을 릴리스, 또는 릴리스 대신에 자신 묘지의 의식 몬스터 1장을 덱으로 되돌리고, 이 카드의 ①의 효과로 제외한 몬스터를 의식 소환한다.$N●이 카드의 효과로 제외한 몬스터를 패에 넣는다.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/07/24",
+  "species_id": 25,
+  "starchip": "0"
+}

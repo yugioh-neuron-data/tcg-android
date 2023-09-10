@@ -1,0 +1,2549 @@
+[
+  {
+    "card_count": 1,
+    "card_id": 5051,
+    "card_image_id": 1,
+    "card_number": "MP23-DE176",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 5083,
+    "card_image_id": 1,
+    "card_number": "MP23-DE073",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10261,
+    "card_image_id": 1,
+    "card_number": "MP23-DE279",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 11460,
+    "card_image_id": 1,
+    "card_number": "MP23-DE277",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12316,
+    "card_image_id": 1,
+    "card_number": "MP23-DE278",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13235,
+    "card_image_id": 1,
+    "card_number": "MP23-DE280",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13453,
+    "card_image_id": 1,
+    "card_number": "MP23-DE050",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 13724,
+    "card_image_id": 1,
+    "card_number": "MP23-DE274",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13984,
+    "card_image_id": 1,
+    "card_number": "MP23-DE275",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14364,
+    "card_image_id": 1,
+    "card_number": "MP23-DE057",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 14738,
+    "card_image_id": 1,
+    "card_number": "MP23-DE053",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 15537,
+    "card_image_id": 1,
+    "card_number": "MP23-DE276",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15827,
+    "card_image_id": 1,
+    "card_number": "MP23-DE055",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 15888,
+    "card_image_id": 1,
+    "card_number": "MP23-DE051",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 15889,
+    "card_image_id": 1,
+    "card_number": "MP23-DE052",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 15891,
+    "card_image_id": 1,
+    "card_number": "MP23-DE056",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 16306,
+    "card_image_id": 1,
+    "card_number": "MP23-DE054",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 16736,
+    "card_image_id": 1,
+    "card_number": "MP23-DE252",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 16737,
+    "card_image_id": 1,
+    "card_number": "MP23-DE253",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 16738,
+    "card_image_id": 1,
+    "card_number": "MP23-DE254",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 16739,
+    "card_image_id": 1,
+    "card_number": "MP23-DE255",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 16740,
+    "card_image_id": 1,
+    "card_number": "MP23-DE256",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 16741,
+    "card_image_id": 1,
+    "card_number": "MP23-DE257",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 16742,
+    "card_image_id": 1,
+    "card_number": "MP23-DE258",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 16743,
+    "card_image_id": 1,
+    "card_number": "MP23-DE259",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 16744,
+    "card_image_id": 1,
+    "card_number": "MP23-DE260",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 16745,
+    "card_image_id": 1,
+    "card_number": "MP23-DE261",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 16746,
+    "card_image_id": 1,
+    "card_number": "MP23-DE262",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 16747,
+    "card_image_id": 1,
+    "card_number": "MP23-DE263",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16748,
+    "card_image_id": 1,
+    "card_number": "MP23-DE264",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 16749,
+    "card_image_id": 1,
+    "card_number": "MP23-DE265",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 16750,
+    "card_image_id": 1,
+    "card_number": "MP23-DE266",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 16751,
+    "card_image_id": 1,
+    "card_number": "MP23-DE267",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 16752,
+    "card_image_id": 1,
+    "card_number": "MP23-DE268",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 16753,
+    "card_image_id": 1,
+    "card_number": "MP23-DE269",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16754,
+    "card_image_id": 1,
+    "card_number": "MP23-DE270",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16755,
+    "card_image_id": 1,
+    "card_number": "MP23-DE271",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16758,
+    "card_image_id": 1,
+    "card_number": "MP23-DE272",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16759,
+    "card_image_id": 1,
+    "card_number": "MP23-DE273",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16806,
+    "card_image_id": 1,
+    "card_number": "MP23-DE002",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 16808,
+    "card_image_id": 1,
+    "card_number": "MP23-DE003",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 16809,
+    "card_image_id": 1,
+    "card_number": "MP23-DE004",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 16810,
+    "card_image_id": 1,
+    "card_number": "MP23-DE005",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 16811,
+    "card_image_id": 1,
+    "card_number": "MP23-DE006",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 16812,
+    "card_image_id": 1,
+    "card_number": "MP23-DE007",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 16813,
+    "card_image_id": 1,
+    "card_number": "MP23-DE008",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16814,
+    "card_image_id": 1,
+    "card_number": "MP23-DE009",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 16815,
+    "card_image_id": 1,
+    "card_number": "MP23-DE010",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 16818,
+    "card_image_id": 1,
+    "card_number": "MP23-DE011",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16821,
+    "card_image_id": 1,
+    "card_number": "MP23-DE012",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 16822,
+    "card_image_id": 1,
+    "card_number": "MP23-DE013",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 16825,
+    "card_image_id": 1,
+    "card_number": "MP23-DE014",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 16826,
+    "card_image_id": 1,
+    "card_number": "MP23-DE015",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 16828,
+    "card_image_id": 1,
+    "card_number": "MP23-DE016",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 16839,
+    "card_image_id": 1,
+    "card_number": "MP23-DE017",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 16841,
+    "card_image_id": 1,
+    "card_number": "MP23-DE018",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 16842,
+    "card_image_id": 1,
+    "card_number": "MP23-DE019",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 16843,
+    "card_image_id": 1,
+    "card_number": "MP23-DE020",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 16844,
+    "card_image_id": 1,
+    "card_number": "MP23-DE021",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 16847,
+    "card_image_id": 1,
+    "card_number": "MP23-DE022",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 16849,
+    "card_image_id": 1,
+    "card_number": "MP23-DE023",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 16850,
+    "card_image_id": 1,
+    "card_number": "MP23-DE024",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 16854,
+    "card_image_id": 1,
+    "card_number": "MP23-DE025",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 16855,
+    "card_image_id": 1,
+    "card_number": "MP23-DE026",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 16856,
+    "card_image_id": 1,
+    "card_number": "MP23-DE027",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 16857,
+    "card_image_id": 1,
+    "card_number": "MP23-DE028",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16859,
+    "card_image_id": 1,
+    "card_number": "MP23-DE029",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 16861,
+    "card_image_id": 1,
+    "card_number": "MP23-DE030",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16864,
+    "card_image_id": 1,
+    "card_number": "MP23-DE031",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16865,
+    "card_image_id": 1,
+    "card_number": "MP23-DE032",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 16866,
+    "card_image_id": 1,
+    "card_number": "MP23-DE033",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16867,
+    "card_image_id": 1,
+    "card_number": "MP23-DE034",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 16868,
+    "card_image_id": 1,
+    "card_number": "MP23-DE035",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 16871,
+    "card_image_id": 1,
+    "card_number": "MP23-DE036",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16873,
+    "card_image_id": 1,
+    "card_number": "MP23-DE037",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 16874,
+    "card_image_id": 1,
+    "card_number": "MP23-DE038",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16875,
+    "card_image_id": 1,
+    "card_number": "MP23-DE039",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16876,
+    "card_image_id": 1,
+    "card_number": "MP23-DE040",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16877,
+    "card_image_id": 1,
+    "card_number": "MP23-DE041",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16878,
+    "card_image_id": 1,
+    "card_number": "MP23-DE042",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 16880,
+    "card_image_id": 1,
+    "card_number": "MP23-DE043",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 17103,
+    "card_image_id": 1,
+    "card_number": "MP23-DE218",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17115,
+    "card_image_id": 1,
+    "card_number": "MP23-DE059",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17116,
+    "card_image_id": 1,
+    "card_number": "MP23-DE060",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17117,
+    "card_image_id": 1,
+    "card_number": "MP23-DE061",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17118,
+    "card_image_id": 1,
+    "card_number": "MP23-DE062",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 17119,
+    "card_image_id": 1,
+    "card_number": "MP23-DE063",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 17120,
+    "card_image_id": 1,
+    "card_number": "MP23-DE064",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 17121,
+    "card_image_id": 1,
+    "card_number": "MP23-DE065",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17122,
+    "card_image_id": 1,
+    "card_number": "MP23-DE066",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17123,
+    "card_image_id": 1,
+    "card_number": "MP23-DE067",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17124,
+    "card_image_id": 1,
+    "card_number": "MP23-DE068",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 17129,
+    "card_image_id": 1,
+    "card_number": "MP23-DE069",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17130,
+    "card_image_id": 1,
+    "card_number": "MP23-DE070",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17131,
+    "card_image_id": 1,
+    "card_number": "MP23-DE071",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17135,
+    "card_image_id": 1,
+    "card_number": "MP23-DE072",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17139,
+    "card_image_id": 1,
+    "card_number": "MP23-DE074",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 17140,
+    "card_image_id": 1,
+    "card_number": "MP23-DE075",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17141,
+    "card_image_id": 1,
+    "card_number": "MP23-DE076",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17142,
+    "card_image_id": 1,
+    "card_number": "MP23-DE077",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 17143,
+    "card_image_id": 1,
+    "card_number": "MP23-DE078",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17145,
+    "card_image_id": 1,
+    "card_number": "MP23-DE079",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17146,
+    "card_image_id": 1,
+    "card_number": "MP23-DE080",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17147,
+    "card_image_id": 1,
+    "card_number": "MP23-DE081",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 17149,
+    "card_image_id": 1,
+    "card_number": "MP23-DE082",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 17150,
+    "card_image_id": 1,
+    "card_number": "MP23-DE083",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 17151,
+    "card_image_id": 1,
+    "card_number": "MP23-DE084",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 17152,
+    "card_image_id": 1,
+    "card_number": "MP23-DE085",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17154,
+    "card_image_id": 1,
+    "card_number": "MP23-DE086",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 17159,
+    "card_image_id": 1,
+    "card_number": "MP23-DE087",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 17160,
+    "card_image_id": 1,
+    "card_number": "MP23-DE088",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 17161,
+    "card_image_id": 1,
+    "card_number": "MP23-DE089",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17163,
+    "card_image_id": 1,
+    "card_number": "MP23-DE090",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 17164,
+    "card_image_id": 1,
+    "card_number": "MP23-DE091",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 17165,
+    "card_image_id": 1,
+    "card_number": "MP23-DE092",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 17166,
+    "card_image_id": 1,
+    "card_number": "MP23-DE093",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17167,
+    "card_image_id": 1,
+    "card_number": "MP23-DE094",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17168,
+    "card_image_id": 1,
+    "card_number": "MP23-DE095",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 17169,
+    "card_image_id": 1,
+    "card_number": "MP23-DE096",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 17170,
+    "card_image_id": 1,
+    "card_number": "MP23-DE097",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17171,
+    "card_image_id": 1,
+    "card_number": "MP23-DE098",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17174,
+    "card_image_id": 1,
+    "card_number": "MP23-DE099",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17181,
+    "card_image_id": 1,
+    "card_number": "MP23-DE100",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17182,
+    "card_image_id": 1,
+    "card_number": "MP23-DE101",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17183,
+    "card_image_id": 1,
+    "card_number": "MP23-DE102",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 17184,
+    "card_image_id": 1,
+    "card_number": "MP23-DE103",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 17185,
+    "card_image_id": 1,
+    "card_number": "MP23-DE104",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17186,
+    "card_image_id": 1,
+    "card_number": "MP23-DE105",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17187,
+    "card_image_id": 1,
+    "card_number": "MP23-DE106",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17188,
+    "card_image_id": 1,
+    "card_number": "MP23-DE107",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17189,
+    "card_image_id": 1,
+    "card_number": "MP23-DE108",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17190,
+    "card_image_id": 1,
+    "card_number": "MP23-DE109",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17232,
+    "card_image_id": 1,
+    "card_number": "MP23-DE001",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17233,
+    "card_image_id": 1,
+    "card_number": "MP23-DE044",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17234,
+    "card_image_id": 1,
+    "card_number": "MP23-DE045",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17235,
+    "card_image_id": 1,
+    "card_number": "MP23-DE046",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17236,
+    "card_image_id": 1,
+    "card_number": "MP23-DE047",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17237,
+    "card_image_id": 1,
+    "card_number": "MP23-DE048",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17238,
+    "card_image_id": 1,
+    "card_number": "MP23-DE049",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17360,
+    "card_image_id": 1,
+    "card_number": "MP23-DE226",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 17361,
+    "card_image_id": 1,
+    "card_number": "MP23-DE227",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17362,
+    "card_image_id": 1,
+    "card_number": "MP23-DE228",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 17363,
+    "card_image_id": 1,
+    "card_number": "MP23-DE229",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 17364,
+    "card_image_id": 1,
+    "card_number": "MP23-DE230",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17365,
+    "card_image_id": 1,
+    "card_number": "MP23-DE231",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17366,
+    "card_image_id": 1,
+    "card_number": "MP23-DE232",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17367,
+    "card_image_id": 1,
+    "card_number": "MP23-DE233",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 17368,
+    "card_image_id": 1,
+    "card_number": "MP23-DE234",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17369,
+    "card_image_id": 1,
+    "card_number": "MP23-DE235",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 17370,
+    "card_image_id": 1,
+    "card_number": "MP23-DE236",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17371,
+    "card_image_id": 1,
+    "card_number": "MP23-DE237",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17372,
+    "card_image_id": 1,
+    "card_number": "MP23-DE238",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17373,
+    "card_image_id": 1,
+    "card_number": "MP23-DE241",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 17374,
+    "card_image_id": 1,
+    "card_number": "MP23-DE242",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17375,
+    "card_image_id": 1,
+    "card_number": "MP23-DE243",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17376,
+    "card_image_id": 1,
+    "card_number": "MP23-DE245",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17377,
+    "card_image_id": 1,
+    "card_number": "MP23-DE246",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17378,
+    "card_image_id": 1,
+    "card_number": "MP23-DE248",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17379,
+    "card_image_id": 1,
+    "card_number": "MP23-DE247",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17380,
+    "card_image_id": 1,
+    "card_number": "MP23-DE244",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17381,
+    "card_image_id": 1,
+    "card_number": "MP23-DE239",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 17382,
+    "card_image_id": 1,
+    "card_number": "MP23-DE240",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17383,
+    "card_image_id": 1,
+    "card_number": "MP23-DE249",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 17384,
+    "card_image_id": 1,
+    "card_number": "MP23-DE250",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 17385,
+    "card_image_id": 1,
+    "card_number": "MP23-DE251",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 17391,
+    "card_image_id": 1,
+    "card_number": "MP23-DE110",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17394,
+    "card_image_id": 1,
+    "card_number": "MP23-DE058",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17395,
+    "card_image_id": 1,
+    "card_number": "MP23-DE111",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17396,
+    "card_image_id": 1,
+    "card_number": "MP23-DE112",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17397,
+    "card_image_id": 1,
+    "card_number": "MP23-DE113",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17398,
+    "card_image_id": 1,
+    "card_number": "MP23-DE114",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17399,
+    "card_image_id": 1,
+    "card_number": "MP23-DE115",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17400,
+    "card_image_id": 1,
+    "card_number": "MP23-DE116",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17403,
+    "card_image_id": 1,
+    "card_number": "MP23-DE117",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 17404,
+    "card_image_id": 1,
+    "card_number": "MP23-DE118",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17410,
+    "card_image_id": 1,
+    "card_number": "MP23-DE119",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17411,
+    "card_image_id": 1,
+    "card_number": "MP23-DE120",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17412,
+    "card_image_id": 1,
+    "card_number": "MP23-DE121",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17413,
+    "card_image_id": 1,
+    "card_number": "MP23-DE122",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 17422,
+    "card_image_id": 1,
+    "card_number": "MP23-DE123",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17423,
+    "card_image_id": 1,
+    "card_number": "MP23-DE124",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17424,
+    "card_image_id": 1,
+    "card_number": "MP23-DE125",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17425,
+    "card_image_id": 1,
+    "card_number": "MP23-DE126",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17427,
+    "card_image_id": 1,
+    "card_number": "MP23-DE127",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 17429,
+    "card_image_id": 1,
+    "card_number": "MP23-DE128",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17435,
+    "card_image_id": 1,
+    "card_number": "MP23-DE129",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17436,
+    "card_image_id": 1,
+    "card_number": "MP23-DE130",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17437,
+    "card_image_id": 1,
+    "card_number": "MP23-DE131",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17438,
+    "card_image_id": 1,
+    "card_number": "MP23-DE132",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 17440,
+    "card_image_id": 1,
+    "card_number": "MP23-DE133",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 17446,
+    "card_image_id": 1,
+    "card_number": "MP23-DE134",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17447,
+    "card_image_id": 1,
+    "card_number": "MP23-DE135",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17452,
+    "card_image_id": 1,
+    "card_number": "MP23-DE136",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 17455,
+    "card_image_id": 1,
+    "card_number": "MP23-DE137",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17460,
+    "card_image_id": 1,
+    "card_number": "MP23-DE138",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 17461,
+    "card_image_id": 1,
+    "card_number": "MP23-DE139",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17464,
+    "card_image_id": 1,
+    "card_number": "MP23-DE140",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17465,
+    "card_image_id": 1,
+    "card_number": "MP23-DE141",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17468,
+    "card_image_id": 1,
+    "card_number": "MP23-DE142",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17470,
+    "card_image_id": 1,
+    "card_number": "MP23-DE143",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17472,
+    "card_image_id": 1,
+    "card_number": "MP23-DE144",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17478,
+    "card_image_id": 1,
+    "card_number": "MP23-DE145",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17480,
+    "card_image_id": 1,
+    "card_number": "MP23-DE146",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17482,
+    "card_image_id": 1,
+    "card_number": "MP23-DE147",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17601,
+    "card_image_id": 1,
+    "card_number": "MP23-DE150",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17610,
+    "card_image_id": 1,
+    "card_number": "MP23-DE219",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17611,
+    "card_image_id": 1,
+    "card_number": "MP23-DE220",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17612,
+    "card_image_id": 1,
+    "card_number": "MP23-DE221",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17613,
+    "card_image_id": 1,
+    "card_number": "MP23-DE222",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17614,
+    "card_image_id": 1,
+    "card_number": "MP23-DE223",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17615,
+    "card_image_id": 1,
+    "card_number": "MP23-DE224",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 17616,
+    "card_image_id": 1,
+    "card_number": "MP23-DE225",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17746,
+    "card_image_id": 1,
+    "card_number": "MP23-DE148",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 17747,
+    "card_image_id": 1,
+    "card_number": "MP23-DE149",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17757,
+    "card_image_id": 1,
+    "card_number": "MP23-DE152",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 17758,
+    "card_image_id": 1,
+    "card_number": "MP23-DE153",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 17759,
+    "card_image_id": 1,
+    "card_number": "MP23-DE154",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17760,
+    "card_image_id": 1,
+    "card_number": "MP23-DE155",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 17761,
+    "card_image_id": 1,
+    "card_number": "MP23-DE156",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17762,
+    "card_image_id": 1,
+    "card_number": "MP23-DE157",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 17763,
+    "card_image_id": 1,
+    "card_number": "MP23-DE158",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 17764,
+    "card_image_id": 1,
+    "card_number": "MP23-DE159",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 17765,
+    "card_image_id": 1,
+    "card_number": "MP23-DE160",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 17766,
+    "card_image_id": 1,
+    "card_number": "MP23-DE161",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 17767,
+    "card_image_id": 1,
+    "card_number": "MP23-DE162",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 17768,
+    "card_image_id": 1,
+    "card_number": "MP23-DE163",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 17769,
+    "card_image_id": 1,
+    "card_number": "MP23-DE164",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 17770,
+    "card_image_id": 1,
+    "card_number": "MP23-DE165",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 17771,
+    "card_image_id": 1,
+    "card_number": "MP23-DE166",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17772,
+    "card_image_id": 1,
+    "card_number": "MP23-DE167",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 17773,
+    "card_image_id": 1,
+    "card_number": "MP23-DE168",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17774,
+    "card_image_id": 1,
+    "card_number": "MP23-DE169",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17776,
+    "card_image_id": 1,
+    "card_number": "MP23-DE170",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17777,
+    "card_image_id": 1,
+    "card_number": "MP23-DE171",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17778,
+    "card_image_id": 1,
+    "card_number": "MP23-DE172",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 17779,
+    "card_image_id": 1,
+    "card_number": "MP23-DE173",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 17780,
+    "card_image_id": 1,
+    "card_number": "MP23-DE174",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 17783,
+    "card_image_id": 1,
+    "card_number": "MP23-DE175",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17785,
+    "card_image_id": 1,
+    "card_number": "MP23-DE177",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 17786,
+    "card_image_id": 1,
+    "card_number": "MP23-DE178",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17787,
+    "card_image_id": 1,
+    "card_number": "MP23-DE179",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 17788,
+    "card_image_id": 1,
+    "card_number": "MP23-DE180",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17789,
+    "card_image_id": 1,
+    "card_number": "MP23-DE181",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17790,
+    "card_image_id": 1,
+    "card_number": "MP23-DE182",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17791,
+    "card_image_id": 1,
+    "card_number": "MP23-DE183",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17792,
+    "card_image_id": 1,
+    "card_number": "MP23-DE184",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17795,
+    "card_image_id": 1,
+    "card_number": "MP23-DE185",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 17796,
+    "card_image_id": 1,
+    "card_number": "MP23-DE186",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17797,
+    "card_image_id": 1,
+    "card_number": "MP23-DE187",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 17798,
+    "card_image_id": 1,
+    "card_number": "MP23-DE188",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17799,
+    "card_image_id": 1,
+    "card_number": "MP23-DE189",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17800,
+    "card_image_id": 1,
+    "card_number": "MP23-DE190",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 17802,
+    "card_image_id": 1,
+    "card_number": "MP23-DE191",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17804,
+    "card_image_id": 1,
+    "card_number": "MP23-DE192",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 17805,
+    "card_image_id": 1,
+    "card_number": "MP23-DE193",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 17806,
+    "card_image_id": 1,
+    "card_number": "MP23-DE194",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 17807,
+    "card_image_id": 1,
+    "card_number": "MP23-DE195",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17808,
+    "card_image_id": 1,
+    "card_number": "MP23-DE196",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 17809,
+    "card_image_id": 1,
+    "card_number": "MP23-DE197",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17810,
+    "card_image_id": 1,
+    "card_number": "MP23-DE198",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 17814,
+    "card_image_id": 1,
+    "card_number": "MP23-DE199",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17815,
+    "card_image_id": 1,
+    "card_number": "MP23-DE200",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 17816,
+    "card_image_id": 1,
+    "card_number": "MP23-DE201",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17817,
+    "card_image_id": 1,
+    "card_number": "MP23-DE202",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17818,
+    "card_image_id": 1,
+    "card_number": "MP23-DE203",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17819,
+    "card_image_id": 1,
+    "card_number": "MP23-DE204",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17820,
+    "card_image_id": 1,
+    "card_number": "MP23-DE205",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17824,
+    "card_image_id": 1,
+    "card_number": "MP23-DE206",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17826,
+    "card_image_id": 1,
+    "card_number": "MP23-DE207",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17827,
+    "card_image_id": 1,
+    "card_number": "MP23-DE208",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17828,
+    "card_image_id": 1,
+    "card_number": "MP23-DE209",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 17830,
+    "card_image_id": 1,
+    "card_number": "MP23-DE210",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17831,
+    "card_image_id": 1,
+    "card_number": "MP23-DE211",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17832,
+    "card_image_id": 1,
+    "card_number": "MP23-DE212",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17833,
+    "card_image_id": 1,
+    "card_number": "MP23-DE213",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17834,
+    "card_image_id": 1,
+    "card_number": "MP23-DE214",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17835,
+    "card_image_id": 1,
+    "card_number": "MP23-DE215",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18031,
+    "card_image_id": 1,
+    "card_number": "MP23-DE216",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 18033,
+    "card_image_id": 1,
+    "card_number": "MP23-DE151",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 18034,
+    "card_image_id": 1,
+    "card_number": "MP23-DE217",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 36
+  },
+  {
+    "card_count": 1,
+    "card_id": 19140,
+    "card_image_id": 1,
+    "card_number": "MP23-DE281",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 19141,
+    "card_image_id": 1,
+    "card_number": "MP23-DE282",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 19142,
+    "card_image_id": 1,
+    "card_number": "MP23-DE283",
+    "language": "de",
+    "pack_id": "2000001269000",
+    "rarity_id": 4
+  }
+]

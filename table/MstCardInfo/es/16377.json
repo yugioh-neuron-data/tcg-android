@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 6,
+  "card_id": 16377,
+  "card_name": "Velociroid Ultra Sabueso",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando esta carta es Invocada de Modo Normal: puedes mandar al Cementerio 1 carta \"Velociroid\" en tu Deck. Durante tu Main Phase, excepto en el turno en el que esta carta fue mandada al Cementerio: puedes desterrar esta carta en tu Cementerio, y después seleccionar 1 monstruo \"Velociroid\" en tu Cementerio; barájalo al Deck y, si lo haces, Invoca de Modo Especial, desde tu Deck Extra, 1 Monstruo de Sincronía \"Velociroid\" con el mismo Nivel pero un nombre diferente, pero niega sus efectos. Sólo puedes usar este efecto de \"Velociroid Ultra Sabueso\" una vez por turno.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/10/28",
+  "species_id": 7,
+  "starchip": "3"
+}

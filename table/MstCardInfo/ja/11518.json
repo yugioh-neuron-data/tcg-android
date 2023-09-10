@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 2,
+  "card_id": 11518,
+  "card_name": "外神アザトート",
+  "card_name_label": "ガイシンアザトート",
+  "card_name_search": "がいしんあざとーと",
+  "card_pen_effect": "",
+  "card_text": "レベル５モンスター×３$Nこのカードは自分フィールドの「外神」Xモンスターの上にこのカードを重ねてX召喚する事もできる。このカードはX召喚の素材にできない。①：このカードがX召喚に成功したターン、相手はモンスターの効果を発動できない。②：このカードが融合・S・Xモンスターを全てX素材としている場合、このカードのX素材を１つ取り除いて発動できる。相手フィールドのカードを全て破壊する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/09/19",
+  "species_id": 3,
+  "starchip": "5"
+}

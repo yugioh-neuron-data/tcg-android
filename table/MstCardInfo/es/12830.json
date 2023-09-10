@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 2,
+  "card_id": 12830,
+  "card_name": "Predaplanta Sarracemiga",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando un monstruo de tu adversario declara un ataque directo: puedes Invocar esta carta de Modo Especial desde tu mano. Después del cálculo de daño, si esta carta batalló con un monstruo de tu adversario: puedes destruir ese monstruo de tu adversario. Si esta carta es destruida en batalla, o si esta carta en el Campo es mandada al Cementerio por el efecto de una carta: puedes añadir a tu mano 1 carta \"Predap\" en tu Deck, excepto \"Predaplanta Sarracemiga\". Sólo puedes usar este efecto de \"Predaplanta Sarracemiga\" una vez por turno.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/02/23",
+  "species_id": 13,
+  "starchip": "1"
+}

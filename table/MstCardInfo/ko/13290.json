@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 13290,
+  "card_name": "성유물에 몸부림치는 함정",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 자신의 패 / 묘지의 카드, 자신 필드의 앞면 표시의 카드, 제외되어 있는 자신의 카드 중에서, \"성유물에 몸부림치는 함정\" 이외의 \"성유물\" 카드 5종류를 1장씩 고르고, 주인의 덱에 넣어 셔플한다. 그 후, 자신은 덱에서 2장 드로우한다.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/09/27",
+  "species_id": 25,
+  "starchip": "0"
+}

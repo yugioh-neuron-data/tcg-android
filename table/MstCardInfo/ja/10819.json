@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 1,
+  "card_id": 10819,
+  "card_name": "ゼラの天使",
+  "card_name_label": "ゼラのてんし",
+  "card_name_search": "ぜらのてんし",
+  "card_pen_effect": "",
+  "card_text": "チューナー＋チューナー以外のモンスター１体以上$N「ゼラの天使」の②の効果は１ターンに１度しか使用できない。①：このカードの攻撃力は除外されている相手のカードの数×１００アップする。②：このカードが除外された場合、次のターンのスタンバイフェイズに発動する。除外されているこのカードを特殊召喚する。",
+  "defense_power": "2300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/09/13",
+  "species_id": 17,
+  "starchip": "8"
+}

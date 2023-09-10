@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 6,
+  "card_id": 14987,
+  "card_name": "Paralelo eXcede",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se este card for Invocado por Invocação-Especial pelo efeito de \"Paralelo eXcede\", seu Nível se torna 4 e seu ATK/DEF originais são diminuídos pela metade. Você só pode usar cada um dos seguintes efeitos de \"Paralelo eXcede\" uma vez por turno.$N●Se você Invocar por Invocação-Link: você pode Invocar este card por Invocação-Especial da sua mão em uma zona sua para a qual esse Monstro Link apontar.$N●Se este card for Invocado por Invocação-Normal ou Especial: você pode Invocar por Invocação-Especial 1 \"Paralelo eXcede\" do seu Deck.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/30",
+  "species_id": 27,
+  "starchip": "8"
+}

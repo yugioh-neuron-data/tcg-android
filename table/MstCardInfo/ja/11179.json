@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 5,
+  "card_id": 11179,
+  "card_name": "ゲート・ブロッカー",
+  "card_name_label": "ゲート・ブロッカー",
+  "card_name_search": "げーとぶろっかー",
+  "card_pen_effect": "",
+  "card_text": "①：このカードがモンスターゾーンに存在する限り、相手は他の自分フィールドのモンスターを効果の対象にできず、フィールドのカードにカウンターを置く事はできない。また、相手のフィールド魔法カードの効果は無効になる。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/05/17",
+  "species_id": 6,
+  "starchip": "4"
+}

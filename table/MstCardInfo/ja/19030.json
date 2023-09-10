@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 19030,
+  "card_name": "カブレラストーン",
+  "card_name_label": "カブレラストーン",
+  "card_name_search": "かぶれらすとーん",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①の効果は１ターンに１度しか使用できない。$N①：このカードが召喚・反転召喚・特殊召喚した場合に発動できる。デッキから「トライアングル－O」１枚を手札に加える。このカードが攻撃表示の場合、さらにこのカードは守備表示になる。$N②：このカードが戦闘・効果で破壊された場合に発動する。自分は１０００ダメージを受ける。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/06/10",
+  "species_id": 6,
+  "starchip": "1"
+}

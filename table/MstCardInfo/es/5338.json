@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 6,
+  "card_id": 5338,
+  "card_name": "Dragón Cráneo Demonio",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"Dragón de la Cueva\" + \"Demonio Menor\"$N(Esta carta se trata siempre como una carta \"Archidemonio\").$NUna Invocación por Fusión de esta carta sólo se puede realizar con los Monstruos Material de Fusión nombrados arriba. Niega los efectos de los Monstruos de Efecto de Volteo. Niega los efectos de cualquier Carta de Trampa que seleccione esta carta en el Campo y, si lo haces, destruye esa Carta de Trampa.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/06/01",
+  "species_id": 1,
+  "starchip": "5"
+}

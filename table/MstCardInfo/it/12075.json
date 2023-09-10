@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 12075,
+  "card_name": "PSI-Struttura Circuito",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se uno o più mostri \"PSI-Struttura\" vengono Evocati Specialmente sul tuo Terreno (eccetto durante il Damage Step), puoi: immediatamente dopo che questo effetto si è risolto, Synchro Evoca 1 Mostro Synchro, utilizzando solo mostri \"PSI-Struttura\" che controlli. All'inizio del Damage Step, se un mostro \"PSI-Struttura\" che controlli combatte con un mostro dell'avversario: puoi scartare 1 mostro \"PSI-Struttura\"; il tuo mostro che sta combattendo guadagna ATK pari all'ATK del mostro scartato fino alla fine di questo turno.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/10/01",
+  "species_id": 24,
+  "starchip": "0"
+}

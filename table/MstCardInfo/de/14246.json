@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 14246,
+  "card_name": "Grosalamander-Zorn",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Aktiviere 1 dieser Effekte;$N●Lege 1 „Grosalamander“-Monster von deiner Hand oder offen von deiner Spielfeldseite auf den Friedhof und wähle dann 1 Karte auf dem Spielfeld; zerstöre sie.$N●Wähle 1 „Grosalamander“-Linkmonster, das du kontrollierst und das mit einem Monster mit demselben Namen als Material als Linkbeschwörung beschworen wurde; zerstöre Karten, die dein Gegner kontrolliert, bis zur Linkzahl jenes Monsters.$NDu kannst nur 1 „Grosalamander-Zorn“ pro Spielzug aktivieren.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/02/14",
+  "species_id": 25,
+  "starchip": "0"
+}

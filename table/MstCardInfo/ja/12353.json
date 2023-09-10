@@ -1,0 +1,23 @@
+{
+  "attack_power": "2100",
+  "attribute_id": 5,
+  "card_id": 12353,
+  "card_name": "エルフの聖剣士",
+  "card_name_label": "エルフのせいけんし",
+  "card_name_search": "えるふのせいけんし",
+  "card_pen_effect": "",
+  "card_text": "このカードはルール上「エルフの剣士」カードとしても扱う。①：自分の手札がある場合、このカードは攻撃できない。②：１ターンに１度、自分メインフェイズに発動できる。手札から「エルフの剣士」モンスター１体を特殊召喚する。③：このカードの攻撃で相手に戦闘ダメージを与えた時に発動できる。自分フィールドの「エルフの剣士」モンスターの数だけ、自分はデッキからドローする。",
+  "defense_power": "700",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/04/21",
+  "species_id": 15,
+  "starchip": "4"
+}

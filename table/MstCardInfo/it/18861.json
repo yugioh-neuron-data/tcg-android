@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 18861,
+  "card_name": "Onda Vaylantz - Fase Maestra",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Una volta per turno, se una carta nella Zona Mostri si sposta in un'altra Zona Mostri (eccetto durante il Damage Step): puoi attivare 1 di questi effetti;$N●I mostri \"Vaylantz\" di Livello 5 o superiore che controlli attualmente guadagnano 1200 ATK fino alla fine di questo turno.$N●Manda questa carta scoperta dalla Zona Magie & Trappole al Cimitero, poi scegli come bersaglio 1 Mostro con Effetto nella Zona Mostri Main del tuo avversario; metti quel mostro dell'avversario scoperto come una Magia Continua nella sua Zona Magie & Trappole nella sua stessa colonna. (Se la zona è occupata, distruggi la carta che la occupa.)",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/07/27",
+  "species_id": 25,
+  "starchip": "0"
+}

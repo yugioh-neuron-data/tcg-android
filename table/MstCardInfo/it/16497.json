@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 2,
+  "card_id": 16497,
+  "card_name": "Ad Libitum di Dispia",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante la tua Main Phase: puoi far guadagnare a tutti i mostri attualmente sul Terreno ATK pari al loro stesso Livello x 100, fino alla fine del turno dell'avversario. Se questa carta nella tua mano o Terreno viene utilizzata come Materiale da Fusione, e mandata al Cimitero o bandita: puoi scegliere come bersaglio 1 dei tuoi mostri \"Dispia\" o Mostri Fusione di Livello 8 o superiore, che è bandito o nel tuo Cimitero, eccetto \"Ad Libitum di Dispia\"; Evocalo Specialmente. Puoi utilizzare ogni effetto di \"Ad Libitum di Dispia\" una sola volta per turno.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/11/04",
+  "species_id": 17,
+  "starchip": "8"
+}

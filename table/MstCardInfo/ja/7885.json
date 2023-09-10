@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 5,
+  "card_id": 7885,
+  "card_name": "C・リペアラー",
+  "card_name_label": "チェーン・リペアラー",
+  "card_name_search": "ちぇーんりぺあらー",
+  "card_pen_effect": "",
+  "card_text": "このカードが戦闘によってモンスターを破壊し墓地へ送った時、相手ライフに３００ポイントダメージを与える。１ターンに１度、自分の墓地に存在する「C・リペアラー」以外の「C」と名のついたレベル４以下のモンスター１体を特殊召喚する事ができる。この効果を発動するターンこのカードは攻撃する事ができない。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/07/19",
+  "species_id": 15,
+  "starchip": "4"
+}

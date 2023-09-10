@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10190,
+  "card_name": "トーラの魔導書",
+  "card_name_label": "トーラのまどうしょ",
+  "card_name_search": "とーらのまどうしょ",
+  "card_pen_effect": "",
+  "card_text": "①：フィールドの魔法使い族モンスター１体を対象として、以下の効果から１つを選択して発動できる。$N●このターン、その表側表示モンスターはこのカード以外の魔法カードの効果を受けない。$N●このターン、その表側表示モンスターは罠カードの効果を受けない。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/04/14",
+  "species_id": 24,
+  "starchip": "0"
+}

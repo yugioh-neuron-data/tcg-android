@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 1,
+  "card_id": 8235,
+  "card_name": "魔轟神トピー",
+  "card_name_label": "まごうしんトピー",
+  "card_name_search": "まごうしんとぴー",
+  "card_pen_effect": "",
+  "card_text": "自分の手札が相手の手札より２枚以上少ない場合、手札の「魔轟神」と名のついたモンスター１体を相手に見せ、フィールド上のこのカードをリリースして発動できる。相手フィールド上の魔法・罠カード２枚を選択して破壊する。",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/04/14",
+  "species_id": 3,
+  "starchip": "1"
+}

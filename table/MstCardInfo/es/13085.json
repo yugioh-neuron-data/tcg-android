@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 13085,
+  "card_name": "Dragón Bomba Topológico",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2+ Monstruos de Efecto$NSi otro monstruo es Invocado de Modo Especial a una zona a la que apunte un Monstruo de Enlace, mientras este monstruo está en el Campo: destruye todos los monstruos en las Zonas de Monstruos Principales, y además por el resto de este turno tus demás monstruos no pueden atacar. Después del cálculo de daño, si esta carta atacó a un monstruo del adversario: inflige daño a tu adversario igual al ATK original de ese monstruo.",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "8123",
+  "linkno": "4",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/08/03",
+  "species_id": 27,
+  "starchip": ""
+}

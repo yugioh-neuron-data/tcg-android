@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 6,
+  "card_id": 14206,
+  "card_name": "HSR－GOMガン",
+  "card_name_label": "ハイスピードロイド－ジーオーエムガン",
+  "card_name_search": "はいすぴーどろいどじーおーえむがん",
+  "card_pen_effect": "",
+  "card_text": "風属性モンスター２体$Nこのカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分メインフェイズに発動できる。風属性モンスター１体を召喚する。この効果を発動したターン、自分はSモンスターしかEXデッキから特殊召喚できない。②：EXデッキから風属性Sモンスター１体を除外して発動できる。レベルの合計が除外したモンスターと同じになるように、デッキからカード名が異なる「スピードロイド」モンスター２体を相手に見せ、相手はその中からランダムに１枚選ぶ。その１枚を自分の手札に加え、残りを墓地へ送る。",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "13",
+  "linkno": "2",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/11/23",
+  "species_id": 7,
+  "starchip": ""
+}

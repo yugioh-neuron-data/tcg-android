@@ -1,0 +1,23 @@
+{
+  "attack_power": "900",
+  "attribute_id": 3,
+  "card_id": 5260,
+  "card_name": "魔力吸収球体",
+  "card_name_label": "まりょくきゅうしゅうきゅうたい",
+  "card_name_search": "まりょくきゅうしゅうきゅうたい",
+  "card_pen_effect": "",
+  "card_text": "相手が魔法カードを発動した時、自分フィールド上に表側表示で存在するこのカードをリリースする事で、その発動を無効にし破壊する。この効果は相手ターンにのみ発動する事ができる。",
+  "defense_power": "900",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2001/07/12",
+  "species_id": 14,
+  "starchip": "3"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 4820,
+  "card_name": "Ruleta de Araña",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando un monstruo del adversario declara un ataque: lanza un dado de seis caras y aplica el resultado.$N1: Divide tus LP a la mitad.$N2: Haz que ese ataque sea un ataque directo.$N3: Elige 1 monstruo que controles, cambia el objetivo del ataque a ése, y haz el cálculo de daño.$N4: Elige otro monstruo que controle tu adversario, cambia el objetivo del ataque a ése, y haz el cálculo de daño.$N5: Niega el ataque y, si lo haces, inflige daño a tu adversario igual al ATK de ese monstruo.$N6: Destruye ese monstruo del adversario.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/07/16",
+  "species_id": 24,
+  "starchip": "0"
+}

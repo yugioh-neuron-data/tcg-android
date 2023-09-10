@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 2,
+  "card_id": 18489,
+  "card_name": "死天使ハーヴェスト",
+  "card_name_label": "してんしハーヴェスト",
+  "card_name_search": "してんしはーう゛ぇすと",
+  "card_pen_effect": "このカード名のP効果は１ターンに１度しか使用できない。①：自分メインフェイズに発動できる。このカードを破壊し、デッキから「昇天の黒角笛」１枚を手札に加える。",
+  "card_text": "このカード名の①②のモンスター効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚・P召喚に成功した場合に発動できる。デッキから「昇天の角笛」１枚を手札に加える。②：このカードがリリースされた場合に発動できる。このカードを自分のPゾーンに置く。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "8",
+  "pen_scale_r": "8",
+  "sales_at": "2023/01/14",
+  "species_id": 17,
+  "starchip": "4"
+}

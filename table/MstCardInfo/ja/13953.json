@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13953,
+  "card_name": "パラレル・パンツァー",
+  "card_name_label": "パラレル・パンツァー",
+  "card_name_search": "ぱられるぱんつぁー",
+  "card_pen_effect": "",
+  "card_text": "リンクモンスターにのみ装備可能。このカード名の②の効果は１ターンに１度しか使用できない。①：１ターンに１度、自分メインフェイズに発動できる。装備モンスターの位置を、そのモンスターのリンク先のメインモンスターゾーンに移動する（そのモンスターから見て相手のフィールドには移動できない）。②：装備されているこのカードを墓地へ送って発動できる。このカードを装備していたフィールドのモンスターと同じ縦列のカード１枚を選んで破壊する。",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/07/14",
+  "species_id": 24,
+  "starchip": "0"
+}

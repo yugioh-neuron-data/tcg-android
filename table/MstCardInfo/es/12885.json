@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 12885,
+  "card_name": "Temerario Atemorizante",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 monstruo \"Diablillo de\" + 1 monstruo \"Peluchanimal\"$NCuando esta carta destruye a un monstruo de tu adversario en batalla: puedes infligir 1000 puntos de daño a tu adversario. Si esta carta boca arriba es destruida en batalla, o deja el Campo por el efecto de una carta de tu adversario mientras su dueño la controla: puedes infligir 500 puntos de daño a tu adversario por cada monstruo \"Atemorizante\" en tu Cementerio. Sólo puedes usar este efecto de \"Temerario Atemorizante\" una vez por turno.",
+  "defense_power": "2200",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/05/25",
+  "species_id": 3,
+  "starchip": "8"
+}

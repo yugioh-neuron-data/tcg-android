@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 1,
+  "card_id": 15724,
+  "card_name": "天孔邪鬼",
+  "card_name_label": "アマノクジャキ",
+  "card_name_search": "あまのくじゃき",
+  "card_pen_effect": "",
+  "card_text": "①：このカードがモンスターゾーンに存在する限り、自分はこのカード以外の、このカードと同じ属性の特殊召喚されたモンスターの効果を発動できない。②：１ターンに１度、自分・相手のメインフェイズに発動できる。このカードのコントロールを相手に移す。その後、このカードの属性を次のターンの終了時まで任意の属性に変更できる。この効果はこのカードの元々の持ち主のターンにしか発動できない。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/10/31",
+  "species_id": 3,
+  "starchip": "3"
+}

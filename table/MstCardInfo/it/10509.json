@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 4,
+  "card_id": 10509,
+  "card_name": "Fratellanza del Pugno di Fuoco - Rinoceronte",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se un mostro \"Pugno di Fuoco\" che controlli attacca o viene attaccato, durante il calcolo dei danni (nel turno di qualsiasi giocatore): puoi mandare 1 Carta Magia/Trappola \"Formazione di Fuoco\" scoperta che controlli e 1 mostro \"Pugno di Fuoco\" dalla tua mano al Cimitero una volta per battaglia; il tuo mostro attaccante/attaccato guadagna ATK pari all'ATK originale del mostro mandato al Cimitero, solamente durante il calcolo dei danni.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/05/16",
+  "species_id": 12,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 5,
+  "card_id": 16222,
+  "card_name": "Magichiave Mechmortaio - Garespaccatore",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Puoi Evocare tramite Rituale questa carta con \"Maftea Magichiave\". Guadagna 300 ATK per ogni Attributo diverso nel tuo Cimitero. Puoi utilizzare ognuno dei seguenti effetti di \"Magichiave Mechmortaio - Garespaccatore\" una sola volta per turno. Quando il tuo avversario attiva un effetto di un mostro con lo stesso Attributo di un mostro nel tuo Cimitero, se almeno 2 Attributi di mostri sono stati utilizzati per l'Evocazione Rituale di questa carta (Effetto Rapido): puoi annullare l'attivazione e, se lo fai, distruggi quella carta. Se questa carta Evocata tramite Rituale viene mandata al Cimitero: puoi aggiungere 1 mostro \"Magichiave\" dal tuo Deck alla tua mano.",
+  "defense_power": "2800",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 5,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/08/12",
+  "species_id": 7,
+  "starchip": "8"
+}

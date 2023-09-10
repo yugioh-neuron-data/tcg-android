@@ -1,0 +1,23 @@
+{
+  "attack_power": "1100",
+  "attribute_id": 2,
+  "card_id": 10579,
+  "card_name": "異界の棘紫獣",
+  "card_name_label": "いかいのきょくしじゅう",
+  "card_name_search": "いかいのきょくしじゅう",
+  "card_pen_effect": "",
+  "card_text": "このカードが墓地に存在し、自分フィールド上のモンスターが戦闘によって破壊され墓地へ送られた時、このカードを墓地から特殊召喚できる。この効果で特殊召喚したこのカードは、フィールド上から離れた場合ゲームから除外される。「異界の棘紫獣」の効果は１ターンに１度しか発動できない。",
+  "defense_power": "2200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/02/15",
+  "species_id": 11,
+  "starchip": "5"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "400",
+  "attribute_id": 5,
+  "card_id": 7345,
+  "card_name": "カードブロッカー",
+  "card_name_label": "カードブロッカー",
+  "card_name_search": "かーどぶろっかー",
+  "card_pen_effect": "",
+  "card_text": "このカードは召喚・反転召喚・特殊召喚に成功した時、守備表示になる。自分フィールド上に表側表示で存在するモンスターが攻撃対象に選択された時、このカードに攻撃対象を変更する事ができる。このカードが攻撃対象になった時、自分のデッキのカードを上から３枚まで墓地へ送る事ができる。墓地へ送ったカード１枚につき、このカードの守備力はエンドフェイズ時まで５００ポイントアップする。",
+  "defense_power": "400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/08/21",
+  "species_id": 15,
+  "starchip": "3"
+}

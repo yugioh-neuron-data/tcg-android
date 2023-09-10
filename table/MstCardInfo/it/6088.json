@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 1,
+  "card_id": 6088,
+  "card_name": "Sfinge Teleia",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Quando \"Piramide di Luce\" è scoperta sul Terreno, puoi pagare 500 Life Points per Evocare tramite Evocazione Speciale questa carta. Questa carta non può attaccare durante il turno in cui viene Evocata tramite Evocazione Normale o Evocazione Speciale. Questa carta non può essere Evocata tramite Evocazione Speciale dal Cimitero. Se questa carta distrugge un mostro in Posizione di Difesa in seguito ad una battaglia, infliggi al tuo avversario un ammontare di danni pari a metà del DEF del mostro distrutto.",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/08/01",
+  "species_id": 11,
+  "starchip": "10"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "200",
+  "attribute_id": 1,
+  "card_id": 18157,
+  "card_name": "Mentaler Empfänger",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Du kannst 1 dieser Effekte aktivieren;$N●Verbanne bis zu 1 LICHT und bis zu 1 FINSTERNIS Monster von deiner Hand und/oder deinem Friedhof; erhöhe oder verringere die Stufe dieser Karte bis zum Ende dieses Spielzugs um die genaue verbannte Anzahl.$N●Wähle bis zu 2 deiner verbannten Monster (1 LICHT und/oder 1 FINSTERNIS); lege sie auf den Friedhof zurück und falls du dies tust, erhöhe oder verringere die Stufe dieser Karte bis zum Ende dieses Spielzugs um die genaue zurückgelegte Anzahl.$NDu kannst diesen Effekt von „Mentaler Empfänger“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/02/06",
+  "species_id": 21,
+  "starchip": "3"
+}

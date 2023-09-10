@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 3,
+  "card_id": 4734,
+  "card_name": "Sirena Toon",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "No puede ser Invocado de Modo Normal/Colocado. Debe ser primero Invocado de Modo Especial (desde tu mano), mientras controles \"Mundo Toon\". No puede atacar en el turno en el que es Invocado de Modo Especial. Debes pagar 500 LP para declarar un ataque con este monstruo. Si \"Mundo Toon\" en el Campo es destruido, destruye esta carta. Puede atacar a tu adversario directamente, a menos que éste controle un monstruo Toon, en cuyo caso esta carta debe seleccionar un monstruo Toon para sus ataques.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 28,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/09/16",
+  "species_id": 14,
+  "starchip": "4"
+}

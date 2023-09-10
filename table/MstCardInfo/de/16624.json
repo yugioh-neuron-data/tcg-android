@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 2,
+  "card_id": 16624,
+  "card_name": "Pazuzule",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Einmal pro Spielzug: Du kannst 1 Karte in deiner anderen Pendelzone wählen; der Pendelbereich dieser Karte wird bis zum Ende dieses Spielzugs gleich der Stufe jener Pendelmonsterkarte, zusätzlich kannst du für den Rest dieses Spielzugs keine Spezialbeschwörungen durchführen, außer als Pendelbeschwörung.",
+  "card_text": "Pendelbeschwörungen deiner Monster können nicht annulliert werden.",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2021/08/12",
+  "species_id": 3,
+  "starchip": "1"
+}

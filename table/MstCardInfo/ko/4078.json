@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 4078,
+  "card_name": "진화의 고치",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "패에서 장착 카드로서 필드 위에 앞면 표시로 존재하는 \"꼬마 모스\"에 장착할 수 있다. 장착한 경우, \"꼬마 모스\"의 공격력과 수비력은 \"진화의 고치\"의 수치를 적용한다.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/03/09",
+  "species_id": 10,
+  "starchip": "3"
+}

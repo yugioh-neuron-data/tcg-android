@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 2,
+  "card_id": 7565,
+  "card_name": "메타보 서커",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드를 릴리스하고 어둠 속성 몬스터의 어드밴스 소환에 성공했을 때, 자신 필드 위에 \"메타보 토큰\"(악마족/어둠 속성/레벨 1/ 공격력 0/수비력 0) 3장을 수비 표시로 특수 소환한다. 이 토큰은 어드밴스 소환을 위해서는 릴리스할 수 없다.",
+  "defense_power": "300",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/09/11",
+  "species_id": 3,
+  "starchip": "3"
+}

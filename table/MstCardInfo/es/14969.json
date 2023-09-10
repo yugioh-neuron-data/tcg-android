@@ -1,0 +1,23 @@
+{
+  "attack_power": "1850",
+  "attribute_id": 6,
+  "card_id": 14969,
+  "card_name": "Wynn la Canalizadora del Viento",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "(Esta carta se trata siempre como una carta \"el/la Encantador/a\").$NPuedes descartar esta carta y otro monstruo de VIENTO; añade a tu mano 1 monstruo de VIENTO con 1500 DEF o menos en tu Deck, excepto \"Wynn la Canalizadora del Viento\", y además por el resto de este turno no puedes activar efectos de monstruos, excepto de monstruos de VIENTO. Cuando un monstruo de VIENTO que controlas es destruido en batalla mientras esta carta está en tu mano: puedes Invocar esta carta de Modo Especial. Sólo puedes usar cada efecto de \"Wynn la Canalizadora del Viento\" una vez por turno.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/08/06",
+  "species_id": 18,
+  "starchip": "5"
+}

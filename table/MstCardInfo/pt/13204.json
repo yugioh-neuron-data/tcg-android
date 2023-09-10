@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 5,
+  "card_id": 13204,
+  "card_name": "Feiticeira Binária",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 monstros, exceto Fichas$NEste card ganha esses efeitos de acordo com o número de monstros co-linkados a este card.$N●1+: Quando um monstro co-linkado a este card batalhar um monstro do seu oponente e causar dano de batalha a ele: você pode ganhar esse tanto de PV.$N●2: Uma vez por turno (Efeito Rápido): você pode escolher 2 monstros com a face para cima que você controla; até o final deste turno, diminua pela metade o ATK de 1 monstro e, se isso acontecer, adicione esse ATK perdido ao outro monstro.",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "46",
+  "linkno": "2",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/11/02",
+  "species_id": 27,
+  "starchip": ""
+}

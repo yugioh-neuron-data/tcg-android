@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 5,
+  "card_id": 15721,
+  "card_name": "妖精弓士イングナル",
+  "card_name_label": "ようせいきゅうしイングナル",
+  "card_name_search": "ようせいきゅうしいんぐなる",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①の効果は１ターンに１度しか使用できない。①：このカードが植物族モンスターの効果で特殊召喚に成功した場合、自分の墓地のレベル６以上の植物族モンスター１体を対象として発動できる。そのモンスターを守備表示で特殊召喚する。この効果の発動後、ターン終了時まで自分は植物族モンスターしか特殊召喚できない。②：このカードは特殊召喚したターンには攻撃できない。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/10/31",
+  "species_id": 13,
+  "starchip": "6"
+}

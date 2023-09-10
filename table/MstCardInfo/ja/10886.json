@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 1,
+  "card_id": 10886,
+  "card_name": "ライトロード・アサシン ライデン",
+  "card_name_label": "ライトロード・アサシン　ライデン",
+  "card_name_search": "らいとろーどあさしんらいでん",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①の効果は１ターンに１度しか使用できない。①：自分メインフェイズに発動できる。自分のデッキの上からカードを２枚墓地へ送る。この効果で墓地へ送ったカードの中に「ライトロード」モンスターがあった場合、さらにこのカードの攻撃力は相手ターン終了時まで２００アップする。②：自分エンドフェイズに発動する。自分のデッキの上からカードを２枚墓地へ送る。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/11/23",
+  "species_id": 15,
+  "starchip": "4"
+}

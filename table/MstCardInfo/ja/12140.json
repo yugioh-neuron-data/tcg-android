@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 4,
+  "card_id": 12140,
+  "card_name": "不知火の鍛師",
+  "card_name_label": "しらぬいのかなち",
+  "card_name_search": "しらぬいのかなち",
+  "card_pen_effect": "",
+  "card_text": "「不知火の鍛師」の①の効果は１ターンに１度しか使用できない。①：フィールドのこのカードがS素材として墓地へ送られた場合に発動できる。デッキから「不知火の鍛師」以外の「不知火」カード１枚を手札に加える。②：このカードが除外された場合に発動できる。このターン、自分のアンデット族モンスターは戦闘では破壊されない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/10/17",
+  "species_id": 2,
+  "starchip": "4"
+}

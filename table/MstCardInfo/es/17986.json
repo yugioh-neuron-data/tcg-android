@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 17986,
+  "card_name": "Archivos del Mundo Oscuro",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante tu Main Phase: puedes descartar 1 monstruo \"Mundo Oscuro\" y, si lo haces, hasta el final de este turno los monstruos \"Mundo Oscuro\" que controles en este momento ganan ATK igual al Nivel que el monstruo descartado tenía en la mano x 100. Si un monstruo cuyo Tipo original era Demonio es descartado de tu mano por efecto de una carta \"Mundo Oscuro\" o por efecto de una carta del adversario, incluso durante el Damage Step: puedes descartar 1 carta, y después roba 2 cartas. Sólo puedes usar cada efecto de \"Archivos del Mundo Oscuro\" una vez por turno.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/12/01",
+  "species_id": 24,
+  "starchip": "0"
+}

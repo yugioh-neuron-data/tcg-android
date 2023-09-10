@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 2,
+  "card_id": 15482,
+  "card_name": "Die Phantomritter der Zerrissenen Platten",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Du kannst 1 Karte abwerfen; lege 1 „Phantomritter“-Karte von deinem Deck auf den Friedhof, außer „Die Phantomritter der Zerrissenen Platten“. Falls eine andere „Phantomritter“-Karte in deinem Friedhof verbannt wird, solange sich diese Karte in deinem Friedhof befindet: Du kannst diese Karte als Spezialbeschwörung beschwören, aber verbanne sie, wenn sie das Spielfeld verlässt. Du kannst jeden Effekt von „Die Phantomritter der Zerrissenen Platten“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/11/05",
+  "species_id": 15,
+  "starchip": "3"
+}

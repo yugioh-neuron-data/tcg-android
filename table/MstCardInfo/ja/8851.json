@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 8851,
+  "card_name": "パワー・ブレイク",
+  "card_name_label": "パワー・ブレイク",
+  "card_name_search": "ぱわーぶれいく",
+  "card_pen_effect": "",
+  "card_text": "①：自分フィールドに「パワー・ツール・ドラゴン」が存在する場合、自分のフィールド・墓地の装備カードを３枚まで対象として発動できる。そのカードを持ち主のデッキに戻し、戻した数×５００ダメージを相手に与える。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/02/20",
+  "species_id": 25,
+  "starchip": "0"
+}

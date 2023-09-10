@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11851,
+  "card_name": "Hemmung!",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Der Spieler mit den niedrigsten LP erhält keinen Schaden. Einmal pro Spielzug, während der Main Phase: Der Zugspieler kann 1000 LP zahlen und dann 1 dieser Effekte aktivieren;$N●Ziehe 1 Karte.$N●Zerstöre diese Karte.$N●Dein Gegner erhält 1000 LP.$NKein Spieler kann Karten oder Effekte als Reaktion auf die Aktivierung dieses Effekts aktivieren.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/08/06",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 14699,
+  "card_name": "Gladiador Naumachia",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Mientras controlas un monstruo \"Bestia Gladiador\", todos los monstruos que controle tu adversario deben atacar si pueden. Una vez por turno: puedes barajar al Deck Principal 1 monstruo \"Bestia Gladiador\" en tu mano o Cementerio, y después selecciona 1 monstruo \"Bestia Gladiador\" que controles; hasta el final de este turno, el monstruo gana ATK igual a su DEF original (aun si esta carta deja el Campo). Si esta carta en la Zona de Magia y Trampas es destruida por el efecto de una carta: puedes activar este efecto; este turno, los monstruos \"Bestia Gladiador\" que controles no pueden ser destruidos en batalla.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/10/24",
+  "species_id": 25,
+  "starchip": "0"
+}

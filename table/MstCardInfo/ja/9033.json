@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 5,
+  "card_id": 9033,
+  "card_name": "コアキメイル・テストベッド",
+  "card_name_label": "コアキメイル・テストベッド",
+  "card_name_search": "こあきめいるてすとべっど",
+  "card_pen_effect": "",
+  "card_text": "フィールド上に表側表示で存在する「コアキメイル」と名のついたモンスターがエンドフェイズ時に破壊される場合、代わりにこのカードを破壊する事ができる。また、フィールド上に表側表示で存在する「コアキメイル」と名のついたモンスターがエンドフェイズ時に破壊された時、自分フィールド上に「コアキメイルトークン」（岩石族・地・星４・攻／守１８００）１体を特殊召喚する事ができる。",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/09/17",
+  "species_id": 6,
+  "starchip": "4"
+}

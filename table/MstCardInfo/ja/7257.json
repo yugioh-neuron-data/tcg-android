@@ -1,0 +1,23 @@
+{
+  "attack_power": "2100",
+  "attribute_id": 4,
+  "card_id": 7257,
+  "card_name": "E-HERO インフェルノ・ウィング",
+  "card_name_label": "イービルヒーロー　インフェルノ・ウィング",
+  "card_name_search": "いーびるひーろーいんふぇるのうぃんぐ",
+  "card_pen_effect": "",
+  "card_text": "「E・HERO フェザーマン」＋「E・HERO バーストレディ」$Nこのカードは「ダーク・フュージョン」の効果でのみ特殊召喚できる。①：このカードが守備表示モンスターを攻撃した場合、その守備力を攻撃力が超えた分だけ戦闘ダメージを与える。②：このカードが戦闘でモンスターを破壊し墓地へ送った場合に発動する。そのモンスターの元々の攻撃力と元々の守備力の内、高い方の数値分のダメージを相手に与える。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/07/21",
+  "species_id": 3,
+  "starchip": "6"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2300",
+  "attribute_id": 2,
+  "card_id": 10451,
+  "card_name": "機械竜 パワー・ツール",
+  "card_name_label": "きかいりゅう パワー・ツール",
+  "card_name_search": "きかいりゅうぱわーつーる",
+  "card_pen_effect": "",
+  "card_text": "チューナー＋チューナー以外のモンスター１体以上$Nこのカード名の①の効果は１ターンに１度しか使用できない。①：自分ターンに、このカードに装備魔法カードが装備された時に発動できる。自分はデッキから１枚ドローする。②：１ターンに１度、他のモンスターに装備されている表側表示の装備カード１枚を対象として発動できる。そのカードをこのカードに装備する。この効果は相手ターンでも発動できる。",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/12/22",
+  "species_id": 7,
+  "starchip": "7"
+}

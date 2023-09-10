@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 7615,
+  "card_name": "Soldat Dragon de l'Ultime Destinée",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"Plasma - HÉROS de la Destinée\" + \"Dogma - HÉROS de la Destinée\"$NL'Invocation Fusion de cette carte ne peut être faite qu'avec les Matériels Fusion ci-dessus. Une fois par tour : vous pouvez cibler 1 monstre contrôlé par votre adversaire ; détruisez la cible, et si elle était face recto, infligez des dommages à votre adversaire égaux à l'ATK qu'elle avait sur le Terrain. Vous ne pouvez pas mener votre Battle Phase le tour où vous activez cet effet. Une fois par tour, durant votre Standby Phase, si cette carte est dans votre Cimetière : vous pouvez bannir 1 carte \"HÉROS de la Destinée\" depuis votre Cimetière ; Invoquez Spécialement cette carte.",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/05/13",
+  "species_id": 15,
+  "starchip": "10"
+}

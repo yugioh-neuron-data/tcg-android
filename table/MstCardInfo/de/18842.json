@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 18842,
+  "card_name": "Neue Welt - Amritara",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Aktiviere diese Karte nur, solange „Visas Starfrost“ auf dem Spielfeld liegt. Einmal pro Spielzug, falls ein oder mehr Monster, die du kontrollierst, durch Kampf oder einen Karteneffekt zerstört und auf den Friedhof gelegt oder verbannt werden: Du kannst 1 dieser Effekte aktivieren;$N●Beschwöre 1 jener Monster als Spezialbeschwörung in die Verteidigungsposition.$N●1 Empfänger auf dem Spielfeld erhält ATK in Höhe der Hälfte der Grund-ATK von 1 jener Monster.$N●Mische 1 jener Monster ins Deck und falls du dies tust, ziehe 1 Karte.$N●Mische diese Karte ins Deck und falls du dies tust, füge deiner Hand 1 Spielfeldzauber von deinem Friedhof hinzu.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/07/27",
+  "species_id": 24,
+  "starchip": "0"
+}

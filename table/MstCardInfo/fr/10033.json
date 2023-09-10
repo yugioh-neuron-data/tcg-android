@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 5,
+  "card_id": 10033,
+  "card_name": "Lame Bounzer",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Une fois par tour, si cette carte attaque et qu'à la fin de la Damage Step votre adversaire contrôle un monstre : vous pouvez défausser 1 carte ; durant cette Battle Phase, cette carte peut réattaquer un monstre de votre adversaire.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/05/10",
+  "species_id": 15,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 1,
+  "card_id": 14447,
+  "card_name": "Artistamico Truppa di Turno",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "All'inizio della tua Battle Phase: puoi mettere 1 Segnalino su questa carta (massimo 2). Questa carta guadagna i seguenti effetti, a seconda del numero di Segnalini su di essa.$N●1: Una volta per turno, quando un mostro dell'avversario dichiara un attacco: puoi annullare quell'attacco.$N●2: Puoi offrire come Tributo questa carta; bandisci tutti i mostri sul Terreno, fino alla 2ª End Phase del tuo avversario.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/30",
+  "species_id": 15,
+  "starchip": "4"
+}

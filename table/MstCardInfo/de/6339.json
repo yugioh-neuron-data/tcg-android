@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 1,
+  "card_id": 6339,
+  "card_name": "Batteriemann AA",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls alle „Batteriemann AA“ auf deiner Spielfeldseite in Angriffsposition sind, erhöhe die ATK dieser Karte um 1000 Punkte für jeden „Batteriemann AA“ auf deiner Spielfeldseite. Falls alle „Batteriemann AA“ auf deiner Spielfeldseite in Verteidigungsposition sind, erhöhe die DEF dieser Karte um 1000 Punkte für jeden „Batteriemann AA“ auf deiner Spielfeldseite.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/06/01",
+  "species_id": 19,
+  "starchip": "3"
+}

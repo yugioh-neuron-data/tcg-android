@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 1,
+  "card_id": 13217,
+  "card_name": "Defekter Compiler",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Einmal pro Spielzug, falls du Schaden von einem Karteneffekt eines Gegners erhalten würdest, lege stattdessen 1 Defekt-Zählmarke auf diese Karte (max. 1). Einmal pro Spielzug (Schnelleffekt): Du kannst 1 Defekt-Zählmarke von dieser Karte entfernen und dann 1 Cyberse-Monster wählen, das du kontrollierst; es erhält bis zum Ende dieses Spielzugs 800 ATK.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/10/19",
+  "species_id": 27,
+  "starchip": "3"
+}

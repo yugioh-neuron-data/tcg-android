@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11271,
+  "card_name": "Atem des Yang Zing",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Diese Karte erhält diese Effekte, basierend auf der Anzahl der unterschiedlichen Eigenschaften der „Yang Zing“-Monster in deinem Friedhof.$N●2+: „Yang Zing“-Monster, die du kontrollierst, erhalten 500 ATK.$N●3+: Falls ein oder mehr „Yang Zing“-Monster, die du kontrollierst, durch Kampf oder einen Karteneffekt zerstört würden, kannst du stattdessen diese Karte auf den Friedhof legen.$N●4+: Dein Gegner kann keine Monster setzen. Ändere alle offenen Monster, die dein Gegner kontrolliert, in die Angriffsposition.$N●5+: Du kannst diese Karte auf den Friedhof legen; zerstöre alle Karten auf dem Spielfeld.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/08/14",
+  "species_id": 24,
+  "starchip": "0"
+}

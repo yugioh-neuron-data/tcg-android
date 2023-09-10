@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 2,
+  "card_id": 12830,
+  "card_name": "Predapianta Sarraceniaformica",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Quando un mostro dell'avversario dichiara un attacco diretto: puoi Evocare Specialmente questa carta dalla tua mano. Dopo il calcolo dei danni, se questa carta ha combattuto con un mostro dell'avversario: puoi distruggere quel mostro dell'avversario. Se questa carta viene distrutta in battaglia, o se questa carta sul Terreno viene mandata al Cimitero dall'effetto di una carta: puoi aggiungere 1 carta \"Predap\" dal tuo Deck alla tua mano, eccetto \"Predapianta Sarraceniaformica\". Puoi utilizzare questo effetto di \"Predapianta Sarraceniaformica\" una sola volta per turno.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/02/23",
+  "species_id": 13,
+  "starchip": "1"
+}

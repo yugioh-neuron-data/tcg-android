@@ -1,0 +1,23 @@
+{
+  "attack_power": "2700",
+  "attribute_id": 3,
+  "card_id": 11485,
+  "card_name": "Necroz de Trishula",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Puedes Invocar esta carta por Ritual con cualquier Mágica de Ritual \"Necroz\". Debe ser Invocada por Ritual sin usar monstruos de Nivel 9. Sólo puedes usar cada uno de estos efectos de \"Necroz de Trishula\" una vez por turno.$N●Cuando es activada una carta o efecto que selecciona a uno o más monstruos \"Necroz\" que controles (Efecto Rápido): puedes descartar esta carta; niega la activación.$N●Cuando esta carta es Invocada por Ritual, puedes: desterrar exactamente 3 cartas de tu adversario, 1 de su mano, 1 de su Campo y 1 de su Cementerio. (La carta en la mano se elige al azar).",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 5,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/02/12",
+  "species_id": 15,
+  "starchip": "9"
+}

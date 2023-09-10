@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 3,
+  "card_id": 14818,
+  "card_name": "戦華の美－周公",
+  "card_name_label": "せんかのび－しゅうこう",
+  "card_name_search": "せんかのびしゅうこう",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドの永続魔法・永続罠カード１枚を対象として発動できる。そのカードを墓地へ送り、デッキから「戦華」魔法・罠カード１枚を手札に加える。②：このカード以外の自分の「戦華」モンスターの効果が発動した場合、相手フィールドの効果モンスター１体を対象として発動できる。そのモンスターの効果をターン終了時まで無効にする。",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/10/12",
+  "species_id": 12,
+  "starchip": "4"
+}

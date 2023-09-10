@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 5,
+  "card_id": 6932,
+  "card_name": "Dragón Aparatrón de Mecanismo Antiguo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si esta carta ataca, hasta el final del Damage Step tu adversario no puede activar Cartas Mágicas/de Trampa. Esta carta gana los efectos apropiados si la Invocas de Modo Normal Sacrificando estos monstruos.$N●Artilugio Verde: Si esta carta ataca a un monstruo en Posición de Defensa, inflige daño de batalla de penetración a tu adversario.$N●Artilugio Rojo: Si esta carta inflige daño de batalla a tu adversario: inflige 400 puntos de daño a tu adversario.$N●Artilugio Amarillo: Si esta carta destruye un monstruo de tu adversario en batalla: inflige 600 puntos de daño a tu adversario.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/01/17",
+  "species_id": 7,
+  "starchip": "8"
+}

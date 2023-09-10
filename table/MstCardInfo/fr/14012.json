@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 6,
+  "card_id": 14012,
+  "card_name": "Défenseuse de Nephtys",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durant votre Main Phase : vous pouvez détruire 1 carte dans votre main, et si vous le faites, Invoquez Spécialement 1 monstre \"Nephtys\" de max. Niveau 4 (\"Défenseuse de Nephtys\" exclu) depuis votre main. Durant votre prochaine Standby Phase après que cette carte a été détruite par un effet de carte et envoyée au Cimetière : vous pouvez détruire 1 monstre \"Nephtys\" (\"Défenseuse de Nephtys\" exclu) dans votre Deck. Vous ne pouvez utiliser chaque effet de \"Défenseuse de Nephtys\" qu'une fois par tour.",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/11/15",
+  "species_id": 18,
+  "starchip": "2"
+}

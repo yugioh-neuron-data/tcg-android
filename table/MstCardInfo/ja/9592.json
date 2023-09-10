@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 3,
+  "card_id": 9592,
+  "card_name": "リチュア・エミリア",
+  "card_name_label": "リチュア・エミリア",
+  "card_name_search": "りちゅあえみりあ",
+  "card_pen_effect": "",
+  "card_text": "このカードは特殊召喚できない。召喚・リバースしたターンのエンドフェイズ時に持ち主の手札に戻る。このカードが召喚・リバースした時、自分フィールド上にこのカード以外の「リチュア」と名のついたモンスターが存在する場合、エンドフェイズ時までフィールド上の罠カードの効果を無効にする。",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 7,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/04/26",
+  "species_id": 18,
+  "starchip": "4"
+}

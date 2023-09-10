@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 5,
+  "card_id": 15945,
+  "card_name": "Roccia di Guerra Fortia",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se un tuo mostro TERRA Guerriero combatte, dopo il calcolo dei danni: puoi aggiungere 1 carta \"Roccia di Guerra\" dal tuo Deck alla tua mano, eccetto \"Roccia di Guerra Fortia\", poi tutti i mostri \"Roccia di Guerra\" che controlli attualmente guadagnano 200 ATK fino alla fine del turno del tuo avversario. Se questa carta viene mandata dalla tua Zona Mostri al tuo Cimitero dall'effetto di una carta dell'avversario: puoi Evocare Specialmente 1 mostro \"Roccia di Guerra\" di Livello 5 o superiore dalla tua mano o Deck. Puoi utilizzare ogni effetto di \"Roccia di Guerra Fortia\" una sola volta per turno.",
+  "defense_power": "1700",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/02/04",
+  "species_id": 15,
+  "starchip": "4"
+}

@@ -1,0 +1,902 @@
+[
+  {
+    "card_count": 1,
+    "card_id": 7674,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR039",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 7807,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR090",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7808,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR091",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7810,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR092",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 7823,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR093",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7824,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR094",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7834,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR095",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 7836,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR096",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 7839,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR097",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 8275,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR098",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 8516,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR099",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 8777,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR001",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8778,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR002",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 8779,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR003",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 8780,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR004",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8781,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR005",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8782,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR006",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8783,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR007",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8784,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR008",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 8785,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR009",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 8786,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR010",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8787,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR011",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8788,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR012",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 8789,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR013",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8790,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR014",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 8791,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR015",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 8792,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR016",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 8793,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR017",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8794,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR018",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 8795,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR019",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8796,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR020",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8797,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR021",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8798,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR022",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 8799,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR023",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 8800,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR024",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8801,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR025",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 8802,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR026",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8803,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR027",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8804,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR028",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8805,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR029",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8806,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR030",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 8807,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR031",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8808,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR032",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8809,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR033",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8810,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR034",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8811,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR035",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 8812,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR036",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8813,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR037",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 8814,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR038",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8815,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR040",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 8816,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR041",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 8817,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR042",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 8818,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR043",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 8819,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR044",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 8820,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR045",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8821,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR046",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 8822,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR047",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 8823,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR048",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 8824,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR049",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 8825,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR050",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 8826,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR051",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 8827,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR052",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 8828,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR053",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8829,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR054",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8830,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR055",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 8831,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR056",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8832,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR057",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8833,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR058",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8834,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR059",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8835,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR060",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8836,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR061",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8837,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR062",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8838,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR063",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 8839,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR064",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 8840,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR065",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8841,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR066",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8842,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR067",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 8843,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR068",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8844,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR069",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8845,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR070",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 8846,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR071",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 8847,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR072",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8848,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR073",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8849,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR074",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8850,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR075",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8851,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR076",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8852,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR077",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 8853,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR078",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8854,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR079",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 8855,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR080",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 9030,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR000",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 9031,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR081",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 9032,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR086",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 9033,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR082",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 9034,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR087",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 9035,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR088",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 9036,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR089",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 9037,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR083",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 9038,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR084",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 9039,
+    "card_image_id": 1,
+    "card_number": "TSHD-FR085",
+    "language": "fr",
+    "pack_id": "31109001",
+    "rarity_id": 2
+  }
+]

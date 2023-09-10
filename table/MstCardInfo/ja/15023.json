@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 1,
+  "card_id": 15023,
+  "card_name": "珠玉獣－アルゴザウルス",
+  "card_name_label": "しゅぎょくじゅう－アルゴザウルス",
+  "card_name_search": "しゅぎょくじゅうあるござうるす",
+  "card_pen_effect": "",
+  "card_text": "このカード名の効果は１ターンに１度しか使用できない。$N①：このカードが召喚・特殊召喚した場合に発動できる。「珠玉獣－アルゴザウルス」以外の自分の手札・フィールド（表側表示）の恐竜族モンスター１体を破壊する。その後、元々のレベルがその破壊されたモンスターと同じとなる爬虫類族・海竜族・鳥獣族モンスター１体または「進化薬」魔法カード１枚をデッキから手札に加える。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/01/11",
+  "species_id": 9,
+  "starchip": "1"
+}

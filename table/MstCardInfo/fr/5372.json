@@ -1,0 +1,23 @@
+{
+  "attack_power": "-1",
+  "attribute_id": 1,
+  "card_id": 5372,
+  "card_name": "Option de Gradius",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cette carte ne peut ni être Invoquée par Invocation Normale ni être Posée. Cette carte ne peut être Invoquée par Invocation Spéciale qu'en sélectionnant 1 \"Gradius\" face recto sur votre Terrain. L'ATK et la DEF de ce monstre sont toujours égales à l'ATK et la DEF du \"Gradius\" sélectionné. Si le \"Gradius\" sélectionné est détruit ou retiré du Terrain, cette carte est également détruite.",
+  "defense_power": "-1",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/07/22",
+  "species_id": 7,
+  "starchip": "1"
+}

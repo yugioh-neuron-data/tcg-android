@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 2,
+  "card_id": 14083,
+  "card_name": "スピードローダー・ドラゴン",
+  "card_name_label": "スピードローダー・ドラゴン",
+  "card_name_search": "すぴーどろーだーどらごん",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分が効果ダメージを受けた時に発動できる。このカードを手札から特殊召喚する。その後、自分が受けたダメージと同じ数値分のダメージを相手に与え、与えたダメージの半分だけ自分のLPを回復する。②：このカードがアドバンス召喚に成功した時に発動できる。デッキから「ヴァレット」モンスター２体を手札に加える（同名カードは１枚まで）。",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/10/13",
+  "species_id": 1,
+  "starchip": "6"
+}

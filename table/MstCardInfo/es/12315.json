@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 4,
+  "card_id": 12315,
+  "card_name": "Dádople",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Una vez por turno: puedes lanzar un dado de seis caras, y después aplicar el resultado.$N●1: Mira la mano de tu adversario, y además descarta 1 carta de su mano.$N●2, 3, 4, 5: Descarta 1 carta.$N●6: Descarta toda tu mano.",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/05/05",
+  "species_id": 7,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2900",
+  "attribute_id": 4,
+  "card_id": 15850,
+  "card_name": "Vaciado Helsombrañeca",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "VOLTEO: Puedes seleccionar 1 monstruo boca arriba que controle tu adversario; manda al Cementerio 1 monstruo \"Sombrañeca\" con su mismo Atributo en tu Deck Extra y, si lo haces, destierra ese monstruo. Si esta carta es mandada al Cementerio por efecto de una carta: puedes mandar al Cementerio cartas de la parte superior de tu Deck, igual al número de Atributos originales diferentes entre los monstruos en el Campo. Sólo puedes usar 1 efecto de \"Vaciado Helsombrañeca\" por turno, y sólo una vez ese turno.",
+  "defense_power": "2900",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 24,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/04/16",
+  "species_id": 3,
+  "starchip": "9"
+}

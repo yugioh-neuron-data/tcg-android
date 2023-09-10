@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 6,
+  "card_id": 11477,
+  "card_name": "Yosenju Shinchu R",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Einmal pro Spielzug, falls du eine „Yosenju“-Karte in deiner anderen Pendelzone hast: Du kannst den Pendelbereich dieser Karte bis zum Ende dieses Spielzugs zu 11 werden lassen, zusätzlich kannst du für den Rest dieses Spielzugs keine Monster als Spezialbeschwörung beschwören, außer „Yosenju“-Monstern (selbst falls diese Karte das Spielfeld verlässt).",
+  "card_text": "Falls diese Karte als Normalbeschwörung beschworen wird: Ändere sie in die Verteidigungsposition. Monster, die dein Gegner kontrolliert, können keine offenen „Yosenju“-Monster als Angriffsziel wählen, außer diesem.",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2015/02/12",
+  "species_id": 6,
+  "starchip": "4"
+}

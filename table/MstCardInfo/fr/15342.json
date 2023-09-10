@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15342,
+  "card_name": "Déviation Meklord",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Ciblez 1 monstre \"Meklord\" que vous contrôlez ; votre adversaire ne reçoit aucun dommage de combat des attaques impliquant le monstre face recto jusqu'à la fin de ce tour, et aussi, son ATK devient (définitivement) la somme des ATK d'origine de tous les monstres \"Meklord\" que vous contrôlez actuellement. Si un ou plusieurs monstres \"Meklord\" que vous contrôlez vont être détruits au combat ou par un effet de carte, vous pouvez bannir cette carte depuis votre Cimetière à la place. Vous ne pouvez activer qu'1 \"Déviation Meklord\" par tour.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/09/24",
+  "species_id": 24,
+  "starchip": "0"
+}

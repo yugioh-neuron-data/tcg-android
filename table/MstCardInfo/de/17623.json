@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 17623,
+  "card_name": "Dice Dungeon",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wenn diese Karte aktiviert wird: Du kannst deiner Hand 1 „Dimensionierungswürfel“ von deinem Deck hinzufügen. Am Beginn der Battle Phase: Du kannst diesen Effekt aktivieren; jeder Spieler wirft einen sechsseitigen Würfel und wendet das Ergebnis bis zum Ende dieses Spielzugs auf alle Monster an, die er kontrolliert.$N●1: Sie verlieren 1000 ATK.$N●2: Sie erhalten 1000 ATK.$N●3: Sie verlieren 500 ATK.$N●4: Sie erhalten 500 ATK.$N●5: Halbiere ihre ATK.$N●6: Verdopple ihre ATK.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/11/17",
+  "species_id": 24,
+  "starchip": "0"
+}

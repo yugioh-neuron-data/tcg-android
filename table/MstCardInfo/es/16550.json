@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16550,
+  "card_name": "Rastreador Sónico",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Esta carta se usa para Invocar por Ritual \"Transpájaro Sónico\". También debes Sacrificar monstruos en tu mano o Campo cuyos Niveles totales sean iguales a 4 o más. El Nivel del monstruo Invocado de Modo Especial por este efecto se convierte en los Niveles totales de los monstruos usados para su Invocación por Ritual. Puedes desterrar esta carta en tu Cementerio, y después seleccionar 1 Monstruo de Ritual que controles; manda al Cementerio 1 Monstruo de Ritual con el mismo Tipo o Atributo en tu Deck. Sólo puedes usar este efecto de \"Rastreador Sónico\" una vez por turno.",
+  "defense_power": "0",
+  "effect_id": 6,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/11/04",
+  "species_id": 24,
+  "starchip": "0"
+}

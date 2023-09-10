@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 14708,
+  "card_name": "¡Vamos! - D/D/D Furia, Rey Cero Divino",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Si fueras a recibir daño de efecto, no recibes daño. Si Invocas de Modo Normal 1 monstruo \"D/D\" de Nivel 5 o mayor, puedes hacerlo sin Sacrificar. Sólo puedes usar cada Efecto de Péndulo de \"¡Vamos! - D/D/D Furia, Rey Cero Divino\" una vez por turno.",
+  "card_text": "Cuando esta carta declara un ataque, si los LP de tu adversario son 4000 o menos: puedes hacer que esta carta gane ATK igual a los LP de tu adversario, hasta el final de este turno. No puede ser destruida en batalla, y además no recibes daño de batallas que involucren esta carta.$NPuedes Sacrificar otro monstruo; aplica 1 de estos efectos hasta el final de este turno.$N●Esta carta puede atacar directamente.$N●Tu adversario no puede activar cartas o efectos en las Zonas de Magia y Trampas.$N●Tu adversario no puede activar efectos de cartas en su mano o Cementerio.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "0",
+  "pen_scale_r": "0",
+  "sales_at": "2022/05/05",
+  "species_id": 3,
+  "starchip": "10"
+}

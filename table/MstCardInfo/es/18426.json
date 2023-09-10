@@ -1,0 +1,23 @@
+{
+  "attack_power": "3500",
+  "attribute_id": 6,
+  "card_id": 18426,
+  "card_name": "Neos Armado",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"HÉROE Elemental Neos\" + 1 monstruo \"Dragón Armado\"$NDebe ser Invocado por Fusión. Si esta carta es Invocada de Modo Especial: puedes elegir 1 monstruo Dragón en tu Cementerio y destruir todos los monstruos que controle tu adversario con Nivel igual o menor que este. Cuando esta carta destruye un monstruo en batalla: puedes hacer que esta carta gane el siguiente efecto.$N●Durante la Main Phase (Efecto Rápido): puedes Sacrificar esta carta; Invoca de Modo Especial 1 Monstruo de Fusión \"HÉROE Elemental\" desde tu Deck Extra, ignorando sus condiciones de Invocación.",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/06/22",
+  "species_id": 15,
+  "starchip": "10"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 1,
+  "card_id": 13404,
+  "card_name": "電送擬人エレキネシス",
+  "card_name_label": "でんそうぎじんエレキネシス",
+  "card_name_search": "でんそうぎじんえれきねしす",
+  "card_pen_effect": "",
+  "card_text": "①：手札・フィールドのこのカードを墓地へ送り、相手フィールドのモンスター１体を対象として発動できる。その相手モンスターの位置を、他の相手のメインモンスターゾーンに移動する。この効果は相手ターンでも発動できる。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/10/14",
+  "species_id": 21,
+  "starchip": "4"
+}

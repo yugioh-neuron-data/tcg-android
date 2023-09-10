@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 5,
+  "card_id": 17598,
+  "card_name": "D·스캐넌",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드는 통상 소환할 수 없다. 패에서 \"D(디포머)\" 몬스터 1장을 제외했을 경우에 특수 소환할 수 있다. ①: 이 카드는 표시 형식에 따라 이하의 효과를 얻는다.$N●공격 표시: 1턴에 1번, 자신 메인 페이즈에 발동할 수 있다. 덱에서 \"D(디포머)\" 마법 / 함정 카드 1장을 패에 넣는다. 그 후, 패를 1장 고르고 덱 맨 위로 되돌린다.$N●수비 표시: 1턴에 1번, 자신 메인 페이즈에 발동할 수 있다. 자신 묘지에서 레벨 4 이하의 \"D(디포머)\" 몬스터 1장을 고르고 패에 넣는다. 그 후, 패를 1장 고르고 덱 맨 위로 되돌린다.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 30,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/08/09",
+  "species_id": 7,
+  "starchip": "6"
+}

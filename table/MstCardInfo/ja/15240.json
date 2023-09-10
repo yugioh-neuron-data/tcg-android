@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 1,
+  "card_id": 15240,
+  "card_name": "教導の鉄槌テオ",
+  "card_name_label": "ドラグマのてっついテオ",
+  "card_name_search": "どらぐまのてっついてお",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①③の効果はそれぞれ１ターンに１度しか使用できない。①：EXデッキから特殊召喚されたモンスターがフィールドに存在する場合に発動できる。このカードを手札から特殊召喚する。②：このカードはEXデッキから特殊召喚されたモンスターとの戦闘では破壊されない。③：EXデッキから特殊召喚されたフィールドの表側表示モンスター１体を対象として発動できる。ターン終了時まで、このカードの攻撃力は６００アップし、対象のモンスターの攻撃力は６００ダウンする。",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/18",
+  "species_id": 18,
+  "starchip": "4"
+}

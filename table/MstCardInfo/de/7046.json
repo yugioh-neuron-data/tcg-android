@@ -1,0 +1,23 @@
+{
+  "attack_power": "2300",
+  "attribute_id": 1,
+  "card_id": 7046,
+  "card_name": "Neo-Parshath, der Himmelspaladin",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Du kannst diese Karte als Spezialbeschwörung (von deiner Hand) beschwören, indem du 1 „Parshath, der Luftritter“ als Tribut anbietest. Falls diese Karte ein Monster in Verteidigungsposition angreift, füge durchschlagenden Kampfschaden zu. Falls diese Karte deinem Gegner Kampfschaden zufügt: Ziehe 1 Karte. Solange „Die Zuflucht im Himmel“ auf dem Spielfeld liegt und du mehr LP hast als dein Gegner, erhält diese Karte ATK/DEF in Höhe der Differenz der LP.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/02/28",
+  "species_id": 17,
+  "starchip": "7"
+}

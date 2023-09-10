@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 1,
+  "card_id": 15462,
+  "card_name": "Mago do Tempo do Amanhã",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"Mago do Tempo\" + 1 Monstro de Efeito$NUma vez por turno, enquanto você controlar este card Invocado por Invocação-Fusão: você pode lançar uma moeda e escolher cara ou coroa. Destrua tantos monstros no campo quanto possível e, se isso acontecer, cause dano igual à metade da soma do ATK original desses monstros com a face para cima destruídos. Se você ganhou o lance de moeda, seu oponente sofre o dano, se você perdeu, você sofre o dano.",
+  "defense_power": "1900",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/09/10",
+  "species_id": 18,
+  "starchip": "5"
+}

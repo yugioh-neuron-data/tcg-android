@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 6,
+  "card_id": 13702,
+  "card_name": "Kai-Den Kendo Spirit",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "If a monster(s) is Pendulum Summoned: Return this card from the Pendulum Zone to the hand.",
+  "card_text": "When this card is Normal Summoned: You can choose 1 card in your Pendulum Zone, and send to the GY all cards your opponent controls in the same column as that card. Once per turn, during the End Phase, if this card was Normal Summoned or flipped face-up this turn: Return this card to the hand.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 45,
+  "pen_scale_l": "9",
+  "pen_scale_r": "9",
+  "sales_at": "2018/05/04",
+  "species_id": 15,
+  "starchip": "5"
+}

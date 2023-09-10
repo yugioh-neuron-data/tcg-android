@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 3,
+  "card_id": 16512,
+  "card_name": "Clerc Pingouin",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si un ou plusieurs monstres \"Pingouin\" sont envoyés depuis votre Zone Monstre à votre Cimetière par une carte de l'adversaire, même durant la Damage Step : vous pouvez en cibler 1 ; défaussez cette carte, et si vous le faites, Invoquez Spécialement le monstre en Position de Défense face verso. Vous ne pouvez utiliser cet effet de \"Clerc Pingouin\" qu'une fois par tour. Une fois par tour : vous pouvez cibler 1 monstre \"Pingouin\" que vous contrôlez ; il gagne 600 ATK jusqu'à la fin du tour, et vous gagnez 600 LP.",
+  "defense_power": "1700",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/11/04",
+  "species_id": 14,
+  "starchip": "3"
+}

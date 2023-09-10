@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 11465,
+  "card_name": "極星邪龍ヨルムンガンド",
+  "card_name_label": "きょくせいじゃりゅうヨルムンガンド",
+  "card_name_search": "きょくせいじゃりゅうよるむんがんど",
+  "card_pen_effect": "",
+  "card_text": "このカードは通常召喚できない。フィールドに「極神」モンスターが存在する場合に手札から相手フィールドに守備表示で特殊召喚できる。①：フィールドに「極神」モンスターが存在しない場合にこのカードは破壊される。②：このカードがフィールドに表側表示で存在する限り１度だけ、表側守備表示のこのカードが表側攻撃表示になった場合に発動する。自分は３０００ダメージを受ける。",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/09/19",
+  "species_id": 1,
+  "starchip": "8"
+}

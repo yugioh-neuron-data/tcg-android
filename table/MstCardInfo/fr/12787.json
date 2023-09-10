@@ -1,0 +1,23 @@
+{
+  "attack_power": "-1",
+  "attribute_id": 5,
+  "card_id": 12787,
+  "card_name": "Mortiertigre du Zoodiaque",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "3 monstres de Niveau 4$NUne fois par tour, vous pouvez aussi Invoquer par Xyz \"Mortiertigre du Zoodiaque\" en utilisant 1 monstre \"Zoodiaque\" que vous contrôlez de nom différent comme Matériel Xyz. (Si vous avez utilisé un Monstre Xyz, les Matériels Xyz qui lui sont attachés deviennent aussi des Matériels Xyz de cette carte.) Cette carte gagne une ATK/DEF égales à l'ATK/DEF de tous les monstres \"Zoodiaque\" qui lui sont attachés comme Matériels. Une fois par tour : vous pouvez détacher 1 Matériel Xyz de cette carte, puis ciblez 1 Monstre Xyz que vous contrôlez et 1 monstre \"Zoodiaque\" dans votre Cimetière ; attachez le monstre \"Zoodiaque\" au Monstre Xyz comme Matériel Xyz.",
+  "defense_power": "-1",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/02/09",
+  "species_id": 12,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 2,
+  "card_id": 7296,
+  "card_name": "Jugador de Leyenda",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Una vez por turno puedes lanzar una moneda 3 veces y aplicar el efecto apropiado:$N●3 Caras: Destruye todos los monstruos que controle tu adversario.$N●2 Caras: Descarta 1 carta al azar de la mano de tu adversario.$N●1 Cara: Destruye 1 carta que tú controles.$N●0 Caras: Descarta toda tu mano.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/11/14",
+  "species_id": 18,
+  "starchip": "4"
+}

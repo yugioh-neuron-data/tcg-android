@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 5,
+  "card_id": 12738,
+  "card_name": "Artistamico Pug Pugnaliere",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Durante la tua Main Phase, se questa carta è stata attivata in questo turno: puoi scegliere come bersaglio 1 mostro \"Artistamico\" nel tuo Cimitero; aggiungilo alla tua mano. Puoi utilizzare questo effetto di \"Artistamico Pug Pugnaliere\" una sola volta per turno.",
+  "card_text": "Durante la tua Main Phase, se questa carta è stata Evocata Pendulum in questo turno: puoi mandare 1 mostro \"Artistamico\" dalla tua mano al Cimitero; pesca 1 carta. Puoi utilizzare questo effetto di \"Artistamico Pug Pugnaliere\" una sola volta per turno.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "2",
+  "pen_scale_r": "2",
+  "sales_at": "2017/02/09",
+  "species_id": 15,
+  "starchip": "5"
+}

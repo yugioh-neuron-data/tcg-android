@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 6,
+  "card_id": 17645,
+  "card_name": "Numéro 2 : Moustique Ninja Sombre",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2+ monstres de Niveau 2$NNon destructible au combat, et aussi, vous ne recevez aucun dommage de combats impliquant cette carte. Tous les monstres contrôlés par votre adversaire doivent attaquer, si possible. Lorsqu'une attaque est déclarée : vous pouvez activer 1 de ces effets ;$N●Détachez 1 Matériel de cette carte, et si vous le faites, placez 1 Compteur Hallucination sur 1 monstre face recto contrôlé par votre adversaire. (Les effets des monstres avec des Compteurs Hallucination, s'ils en ont, sont annulés.)$N●Infligez des dommages à votre adversaire égaux à l'ATK d'1 monstre avec un Compteur Hallucination.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/11/17",
+  "species_id": 10,
+  "starchip": "2"
+}

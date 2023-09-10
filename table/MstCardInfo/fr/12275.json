@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 1,
+  "card_id": 12275,
+  "card_name": "Phénix Lumière aux Yeux Impairs Potartiste",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Lorsqu'un monstre de votre adversaire déclare une attaque directe tant que vous avez une carte dans votre autre Zone Pendule : vous pouvez détruire la carte dans votre autre Zone Pendule, et si vous le faites, Invoquez Spécialement cette carte.",
+  "card_text": "(Effet Rapide) : vous pouvez Sacrifier cette carte, puis ciblez 1 monstre \"Potartiste\" que vous contrôlez ; jusqu'à la fin de ce tour, il gagne 1000 ATK.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2016/05/05",
+  "species_id": 16,
+  "starchip": "5"
+}

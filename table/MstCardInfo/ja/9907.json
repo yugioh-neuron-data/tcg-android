@@ -1,0 +1,23 @@
+{
+  "attack_power": "1850",
+  "attribute_id": 2,
+  "card_id": 9907,
+  "card_name": "憑依装着－ダルク",
+  "card_name_label": "ひょういそうちゃく－ダルク",
+  "card_name_search": "ひょういそうちゃくだるく",
+  "card_pen_effect": "",
+  "card_text": "このカードは自分フィールド上の「闇霊使いダルク」１体と闇属性モンスター１体を墓地へ送り、手札またはデッキから特殊召喚できる。この方法で特殊召喚に成功した時、デッキからレベル３またはレベル４の魔法使い族・光属性モンスター１体を手札に加える事ができる。また、この方法で特殊召喚したこのカードが守備表示モンスターを攻撃した時、その守備力を攻撃力が超えていれば、その数値だけ相手ライフに戦闘ダメージを与える。",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/11/19",
+  "species_id": 18,
+  "starchip": "4"
+}

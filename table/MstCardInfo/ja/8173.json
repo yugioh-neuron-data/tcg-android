@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 4,
+  "card_id": 8173,
+  "card_name": "コアキメイル・ヴァラファール",
+  "card_name_label": "コアキメイル・ヴァラファール",
+  "card_name_search": "こあきめいるう゛ぁらふぁーる",
+  "card_pen_effect": "",
+  "card_text": "このカードのコントローラーは自分のエンドフェイズ毎に手札から「コアキメイルの鋼核」１枚を墓地へ送る。または、墓地へ送らずにこのカードを破壊する。このカードは「コアキメイル」と名のついたモンスター１体をリリースしてアドバンス召喚する事ができる。このカードが守備表示モンスターを攻撃した時、その守備力を攻撃力が超えていれば、その数値だけ相手ライフに戦闘ダメージを与える。このカードは罠カードの効果では破壊されない。",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/02/14",
+  "species_id": 3,
+  "starchip": "8"
+}

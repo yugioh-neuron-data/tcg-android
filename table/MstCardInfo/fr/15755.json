@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15755,
+  "card_name": "Rituel du Dragon Armure",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cette carte est utilisée pour Invoquer Rituellement \"Chevalier du Dragon Armure\". Vous devez aussi Sacrifier des monstres depuis votre main ou Terrain dont le Niveau total est égal à min. 4. Durant votre Main Phase, sauf le tour où cette carte a été envoyée au Cimetière : vous pouvez bannir des monstres depuis votre main ou Terrain face recto dont le Niveau total est égal à min. 4 ; bannissez cette carte depuis votre Cimetière, et si vous le faites, Invoquez Spécialement 1 \"Chevalier du Dragon Armure\" depuis votre Cimetière. Vous ne pouvez utiliser cet effet de \"Rituel du Dragon Armure\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 6,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/02/04",
+  "species_id": 24,
+  "starchip": "0"
+}

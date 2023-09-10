@@ -1,0 +1,23 @@
+{
+  "attack_power": "2700",
+  "attribute_id": 1,
+  "card_id": 6724,
+  "card_name": "Gilti-Gearfried il Cavaliere d'Acciaio Magico",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 mostri Guerriero con Attributi diversi$NUna volta per turno, quando viene attivata una carta o un effetto che sceglie come bersaglio questa carta (Effetto Rapido): puoi annullare quell'effetto e, se lo fai, distruggi 1 carta sul Terreno. Se questa carta è stata Evocata tramite Fusione utilizzando solo mostri sul Terreno come materiale, essa può effettuare un secondo attacco durante ogni Battle Phase. Una volta per turno, se questa carta combatte con un mostro dell'avversario, durante il calcolo dei danni (Effetto Rapido): puoi bandire 1 Magia dal tuo Cimitero; questa carta guadagna ATK pari alla metà del suo DEF attuale, fino alla fine di questo turno.",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/07/08",
+  "species_id": 15,
+  "starchip": "8"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 4931,
+  "card_name": "Kotodama",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si hay monstruos con el mismo nombre boca arriba en el Campo, destruye esos monstruos. (Si es Invocado o Volteado boca arriba un monstruo con el mismo nombre que otro monstruo que ya esté boca arriba en el Campo, el nuevo monstruo boca arriba es destruido. Si los monstruos son Invocados o Volteados boca arriba al mismo tiempo, son destruidos todos).",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/09/16",
+  "species_id": 17,
+  "starchip": "3"
+}

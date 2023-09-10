@@ -1,0 +1,23 @@
+{
+  "attack_power": "2700",
+  "attribute_id": 2,
+  "card_id": 15259,
+  "card_name": "Ange Déchu Nergal",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si votre monstre Elfe attaque un monstre en Position de Défense, infligez des dommages de combat perçants à votre adversaire. (Effet Rapide) : vous pouvez payer 1000 LP, puis ciblez 1 Magie/Piège \"Ange Déchu\" dans votre Cimetière ; appliquez l'effet de la cible, puis mélangez la cible dans le Deck. Vous ne pouvez utiliser cet effet de \"Ange Déchu Nergal\" qu'une fois par tour. Vous ne pouvez Invoquer Spécialement \"Ange Déchu Nergal\" qu'une fois par tour.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/08/06",
+  "species_id": 17,
+  "starchip": "8"
+}

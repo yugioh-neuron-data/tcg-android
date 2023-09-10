@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 5,
+  "card_id": 10247,
+  "card_name": "マドルチェ・クロワンサン",
+  "card_name_label": "マドルチェ・クロワンサン",
+  "card_name_search": "まどるちぇくろわんさん",
+  "card_pen_effect": "",
+  "card_text": "このカードが相手によって破壊され墓地へ送られた時、このカードをデッキに戻す。また、１ターンに１度、このカード以外の自分フィールド上の「マドルチェ」と名のついたカード１枚を選択して発動できる。選択したカードを手札に戻し、このカードのレベルを１つ上げ、攻撃力を３００ポイントアップする。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/07/21",
+  "species_id": 11,
+  "starchip": "3"
+}

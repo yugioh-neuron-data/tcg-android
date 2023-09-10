@@ -1,0 +1,23 @@
+{
+  "attack_power": "2300",
+  "attribute_id": 1,
+  "card_id": 13198,
+  "card_name": "ブート・スタッガード",
+  "card_name_label": "ブート・スタッガード",
+  "card_name_search": "ぶーとすたっがーど",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①の効果は１ターンに１度しか使用できない。①：自分フィールドにサイバース族モンスターが召喚された時に発動できる。このカードを手札から特殊召喚する。②：このカードが相手に戦闘ダメージを与えた時に発動できる。自分フィールドに「スタッグトークン」（サイバース族・地・星１・攻／守０）１体を特殊召喚する。",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/06/17",
+  "species_id": 27,
+  "starchip": "5"
+}

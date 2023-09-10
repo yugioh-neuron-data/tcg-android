@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 3,
+  "card_id": 14021,
+  "card_name": "プランキッズ・ドロップ",
+  "card_name_label": "プランキッズ・ドロップ",
+  "card_name_search": "ぷらんきっずどろっぷ",
+  "card_pen_effect": "",
+  "card_text": "このカード名の効果は１ターンに１度しか使用できない。①：このカードが「プランキッズ」モンスターの、融合素材またはリンク素材として墓地へ送られた場合に発動できる。自分は１０００LP回復する。その後、手札・デッキから「プランキッズ・ドロップ」以外の「プランキッズ」モンスター１体を守備表示で特殊召喚できる。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/08/04",
+  "species_id": 14,
+  "starchip": "2"
+}

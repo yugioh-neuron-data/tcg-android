@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 12458,
+  "card_name": "Magie Étendue des Ténèbres",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Appliquez ces effets dans l'ordre, selon le nombre de \"Magicien Sombre\" et/ou \"Magicienne des Ténèbres\" sur le Terrain et dans les Cimetières.$N●1+ : Jusqu'à la fin de ce tour, 1 monstre TÉNÈBRES Magicien sur le Terrain gagne 1000 ATK.$N●2+ : Ce tour, votre adversaire ne peut ni activer de cartes ni d'effets en réponse à l'activation de votre Carte Magie/Piège ou effet de Magie/Piège, et aussi, les Magies/Pièges que vous contrôlez ne peuvent pas être détruits par des effets de carte de votre adversaire.$N●3+ : Jusqu'à la fin de ce tour, les monstres TÉNÈBRES Magicien que vous contrôlez actuellement ne sont pas affectés par des effets de carte de votre adversaire.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/08/04",
+  "species_id": 24,
+  "starchip": "0"
+}

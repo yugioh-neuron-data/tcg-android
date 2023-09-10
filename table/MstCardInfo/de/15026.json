@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 1,
+  "card_id": 15026,
+  "card_name": "Beschworener Augoeides",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "„Aleister der Beschwörer“ + 1 Fusionsmonster$NFalls diese Karte als Spezialbeschwörung beschworen wird oder ein oder mehr Monster als Spezialbeschwörung auf die Spielfeldseite deines Gegners beschworen werden: Du kannst 1 Monster wählen, das dein Gegner kontrolliert; zerstöre es. Du kannst diesen Effekt von „Beschworener Augoeides“ nur einmal pro Spielzug verwenden. Einmal pro Spielzug: Du kannst 1 Fusionsmonster von deinem Friedhof verbannen; diese Karte erhält bis zum Ende des Spielzugs deines Gegners ATK in Höhe der ATK des verbannten Monsters.",
+  "defense_power": "2800",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/30",
+  "species_id": 17,
+  "starchip": "8"
+}

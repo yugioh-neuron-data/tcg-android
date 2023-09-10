@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 5,
+  "card_id": 11710,
+  "card_name": "Deskbot 004",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se questa carta combatte con un mostro dell'avversario, durante il calcolo dei danni (nel turno di qualsiasi giocatore): puoi attivare questo effetto una volta per battaglia; il tuo avversario non subisce danni da combattimento per il resto di questo turno, inoltre manda 1 mostro \"Deskbot\" dal tuo Deck al Cimitero, eccetto \"Deskbot 004\", e, se lo fai, questa carta guadagna ATK e DEF pari al Livello del mostro mandato al Cimitero x 500, solamente durante il calcolo dei danni. Se questa carta distrugge un mostro dell'avversario in battaglia: puoi Evocare Specialmente 2 mostri \"Deskbot\" con Livelli diversi dalla tua mano e/o Cimitero in Posizione di Difesa.",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/05/14",
+  "species_id": 7,
+  "starchip": "4"
+}

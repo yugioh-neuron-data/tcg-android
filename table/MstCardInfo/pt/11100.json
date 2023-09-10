@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 11100,
+  "card_name": "Último Contragolpe",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Quando um ataque for declarado envolvendo um monstro \"Boxeador Obstinado\" que você controla e um monstro do oponente: negue o ataque e, se isso acontecer, envie esse monstro que você controla para o Cemitério e, depois, 1 monstro \"Boxeador Obstinado\" que você controla (em Posição de Ataque, se você declarou o ataque) ganha ATK igual ao ATK original desse monstro do oponente e, além disso, prossiga para o cálculo de dano usando esses monstros. Depois, você sofre dano igual ao valor de ATK ganho por este efeito.",
+  "defense_power": "0",
+  "effect_id": 1,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/05/16",
+  "species_id": 25,
+  "starchip": "0"
+}

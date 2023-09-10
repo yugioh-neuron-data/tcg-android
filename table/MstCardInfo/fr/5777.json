@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 2,
+  "card_id": 5777,
+  "card_name": "Roi de la Terreur - Archdémon",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Non Invocable Normalement ou par Flip, sauf si vous contrôlez un monstre \"Archdémon\". Une fois par tour, durant votre Standby Phase, vous devez payer 800 LP (ceci est obligatoire), ou cette carte est détruite. Lors de la résolution d'un effet de carte de l'adversaire qui cible cette carte, lancez un dé à six faces et annulez l'effet si le résultat est 2 ou 5, et si vous le faites, détruisez la carte. Annulez les effets des Monstres à Effet détruits au combat avec cette carte (y compris dans le Cimetière).",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/03/19",
+  "species_id": 3,
+  "starchip": "4"
+}

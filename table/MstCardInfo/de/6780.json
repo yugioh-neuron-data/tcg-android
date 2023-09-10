@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 6780,
+  "card_name": "Gemeinsame Seele",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wähle 1 offenes Monster auf dem Spielfeld, um diese Karte zu aktivieren. Beschwöre als Spezialbeschwörung von deiner Hand 1 Monster, dessen Kartenname „Neo-Weltraum“ enthält, auf dieselbe Spielfeldseite wie das gewählte Monster. Erhöhe die ATK des gewählten Monsters um die ATK des Monsters, das durch diesen Effekt als Spezialbeschwörung beschworen wurde. Wenn diese Karte vom Spielfeld entfernt wird, gib das Monster, das durch den Effekt dieser Karte als Spezialbeschwörung beschworen wurde, auf die Hand zurück.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/08/16",
+  "species_id": 24,
+  "starchip": "0"
+}

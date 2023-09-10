@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 6871,
+  "card_name": "Reina del Encanto LV5",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Una vez por turno, durante tu Main Phase y si esta carta fue Invocada mediante una Invocación Especial por el efecto de \"%c6870\", puedes seleccionar 1 monstruo de Nivel 5 o menor en el Campo de tu adversario y equiparlo a esta carta (sólo 1 carta a la vez puede estar equipada por este efecto). Si esta carta fuera a ser destruida en batalla, el monstruo equipado se destruye en su lugar. Durante tu Standby Phase, manda esta carta al Cementerio mientras esté equipada por su efecto para Invocar mediante una Invocación Especial 1 \"%c6872\" de tu mano o Deck.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/11/04",
+  "species_id": 18,
+  "starchip": "5"
+}

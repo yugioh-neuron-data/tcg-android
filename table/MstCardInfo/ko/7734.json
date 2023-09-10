@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 6,
+  "card_id": 7734,
+  "card_name": "스타더스트 드래곤",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "튜너 ＋ 튜너 이외의 몬스터 1장 이상$N①: 필드의 카드를 파괴하는 마법 / 함정 / 몬스터의 효과가 발동했을 때, 이 카드를 릴리스하고 발동할 수 있다. 그 발동을 무효로 하고 파괴한다. ②: 이 카드의 ①의 효과를 적용한 턴의 엔드 페이즈에 발동할 수 있다. 그 효과를 발동하기 위해 릴리스한 이 카드를 묘지에서 특수 소환한다.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/10/07",
+  "species_id": 1,
+  "starchip": "8"
+}

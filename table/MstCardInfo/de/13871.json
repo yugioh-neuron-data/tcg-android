@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 6,
+  "card_id": 13871,
+  "card_name": "Defcon-Vogel",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Du kannst 1 anderes Cyberse-Monster abwerfen; beschwöre diese Karte als Spezialbeschwörung von deiner Hand. Du kannst diesen Effekt von „Defcon-Vogel“ nur einmal pro Spielzug verwenden. Einmal pro Spielzug, wenn dein Cyberse-Monster als Ziel für einen Angriff gewählt wird: Du kannst seine ATK/DEF zum Doppelten seiner Grund-ATK werden lassen, dann kannst du es in die Verteidigungsposition ändern. Diese ATK-/DEF-Änderung dauert bis zum Ende des Damage Steps an.",
+  "defense_power": "1700",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/08/22",
+  "species_id": 27,
+  "starchip": "3"
+}

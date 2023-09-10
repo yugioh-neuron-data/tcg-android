@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 1,
+  "card_id": 16192,
+  "card_name": "Éclat Poussière d'Étoile",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si un monstre que vous contrôlez est Sacrifié (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte depuis votre main ou Cimetière, mais bannissez-la lorsqu'elle quitte le Terrain. Si un Monstre Synchro \"Guerrier\", \"Synchronique\" ou \"Poussière d'Étoile\" est Invoqué par Synchronisation en utilisant cette carte comme Matériel : vous pouvez Invoquer Spécialement 1 \"Jeton Poussière d'Étoile\" (Dragon/LUMIÈRE/Niveau 1/ATK 0/DEF 0). Vous ne pouvez utiliser chaque effet de \"Éclat Poussière d'Étoile\" qu'une fois par tour.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/08/12",
+  "species_id": 1,
+  "starchip": "4"
+}

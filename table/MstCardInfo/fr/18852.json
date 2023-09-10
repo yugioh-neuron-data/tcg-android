@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 18852,
+  "card_name": "Surexagération",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Au début de la Damage Step, si 2 monstres combattent : activez 1 de ces effets ;$N●Changez le monstre attaquant en Position de Défense.$N●Renvoyez le monstre cible de l'attaque à la main.$N●Détruisez les deux monstres combattants.$NVous ne pouvez activer qu'1 \"Surexagération\" par tour.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/07/27",
+  "species_id": 24,
+  "starchip": "0"
+}

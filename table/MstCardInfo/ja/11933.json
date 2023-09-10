@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 1,
+  "card_id": 11933,
+  "card_name": "法眼の魔術師",
+  "card_name_label": "ほうがんのまじゅつし",
+  "card_name_search": "ほうがんのまじゅつし",
+  "card_pen_effect": "①：１ターンに１度、手札のPモンスター１体を相手に見せ、自分のPゾーンの「魔術師」カード１枚を対象として発動できる。その「魔術師」カードのPスケールはターン終了時まで、見せたPモンスターのPスケールと同じになる。",
+  "card_text": "①：このターンにP召喚したこのカードがモンスターゾーンに存在する限り、自分フィールドの「魔術師」Pモンスターは相手の効果では破壊されない。",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "2",
+  "pen_scale_r": "2",
+  "sales_at": "2015/05/21",
+  "species_id": 18,
+  "starchip": "7"
+}

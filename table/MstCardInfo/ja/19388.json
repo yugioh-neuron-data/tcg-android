@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 19388,
+  "card_name": "ヴァルモニカ・イントナーレ",
+  "card_name_label": "ヴァルモニカ・イントナーレ",
+  "card_name_search": "う゛ぁるもにかいんとなーれ",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。$N①：以下の効果から１つを選んで適用する。自分のPゾーンに「ヴァルモニカ」カードが存在しない場合、適用する効果は相手が選ぶ。$N●自分は５００LP回復する。特殊召喚可能なモンスターが自分の墓地に存在する場合、さらにその内の１体を相手が選び、そのモンスターを自分フィールドに特殊召喚する。$N●自分は５００ダメージを受ける。その後、自分の墓地からレベル４モンスター１体を手札に加える事ができる。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/08/26",
+  "species_id": 24,
+  "starchip": "0"
+}

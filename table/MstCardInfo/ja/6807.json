@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 1,
+  "card_id": 6807,
+  "card_name": "円盤ムスキー",
+  "card_name_label": "えんばんムスキー",
+  "card_name_search": "えんばんむすきー",
+  "card_pen_effect": "",
+  "card_text": "このカードがフィールド上に表側表示で存在する限り、自分のドローフェイズに通常のドローを行う代わりに、デッキから「エーリアン」と名のついたカード１枚を選択して手札に加える事ができる。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/05/18",
+  "species_id": 7,
+  "starchip": "5"
+}

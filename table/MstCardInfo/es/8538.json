@@ -1,0 +1,23 @@
+{
+  "attack_power": "-1",
+  "attribute_id": 2,
+  "card_id": 8538,
+  "card_name": "Dragón Tenaza Transparente",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "No te afectan los efectos de \"Mundo Transparente\". Si esta carta ataca un monstruo de tu adversario, su ATK se convierte en el doble del ATK del objetivo del ataque, sólo durante el cálculo de daño. Si esta carta fuera a ser destruida por el efecto de una carta de tu adversario, puedes en su lugar descartar 1 carta.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/11/12",
+  "species_id": 1,
+  "starchip": "8"
+}

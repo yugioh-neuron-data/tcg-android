@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 2,
+  "card_id": 12283,
+  "card_name": "문라이트 블랙 시프",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "①: 이 카드를 패에서 버리고, 이하의 효과에서 1개를 선택하여 발동할 수 있다.$N●\"문라이트 블랙 시프\" 이외의 자신 묘지의 \"문라이트\" 몬스터 1장을 고르고 패에 넣는다.$N●덱에서 \"융합\" 1장을 패에 넣는다. ②: 이 카드가 융합 소환의 소재가 되어 묘지로 보내졌을 경우에 발동할 수 있다. \"문라이트 블랙 시프\" 이외의, 자신의 엑스트라 덱 앞면 표시의 \"문라이트\" 펜듈럼 몬스터 또는 자신 묘지의 \"문라이트\" 몬스터 1장을 고르고 패에 넣는다.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/05/17",
+  "species_id": 12,
+  "starchip": "2"
+}

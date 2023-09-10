@@ -1,0 +1,23 @@
+{
+  "attack_power": "2600",
+  "attribute_id": 4,
+  "card_id": 18829,
+  "card_name": "烈日の騎士ガイアブレイズ",
+  "card_name_label": "れつじつのきしガイアブレイズ",
+  "card_name_search": "れつじつのきしがいあぶれいず",
+  "card_pen_effect": "",
+  "card_text": "チューナー＋チューナー以外のモンスター１体以上$N①：このカードの攻撃で相手モンスターを破壊した時に発動できる。このカードはもう１度だけ続けて攻撃できる。$N②：自分・相手のバトルフェイズ終了時に、このターンにこのカードが戦闘で破壊したモンスターの数まで、自分の墓地の炎属性モンスターを対象として発動できる。そのモンスターを手札に加える。",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/04/22",
+  "species_id": 4,
+  "starchip": "7"
+}

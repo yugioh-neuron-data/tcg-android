@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 2,
+  "card_id": 16420,
+  "card_name": "ZS - Sage Ouroboros",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsque cette carte est Invoquée Normalement : vous pouvez Invoquer Spécialement 1 monstre non-LUMIÈRE \"Numéro\" depuis votre Cimetière mais annulez ses effets, et si vous le faites, équipez-lui cette carte ainsi qu'1 monstre \"Utopie\" que vous contrôlez, chacun comme une Magie d'Équipement qui lui donne 1700 ATK, et aussi, vous ne pouvez déclarer qu'une attaque le reste de ce tour. Lorsque le monstre équipé avec cette carte par l'effet de cette carte déclare une attaque sur un monstre de votre adversaire : vous pouvez doubler l'ATK du monstre attaquant, mais détruisez-le durant la End Phase.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/12/02",
+  "species_id": 15,
+  "starchip": "3"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 12246,
+  "card_name": "Éclipseur des Ténèbres Kozmo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Non ciblable par des effets de carte de votre adversaire. Durant le tour de chaque joueur, lorsqu'une Carte Piège est activée : vous pouvez bannir 1 monstre \"Kozmo\" depuis votre Cimetière ; annulez l'activation, et si vous le faites, détruisez la carte. Si cette carte est détruite au combat ou par un effet de carte, et envoyée au Cimetière : vous pouvez bannir cette carte depuis votre Cimetière ; ajoutez 1 monstre \"Kozmo\" de max. Niveau 8 depuis votre Deck à votre main.",
+  "defense_power": "2600",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/01/14",
+  "species_id": 7,
+  "starchip": "9"
+}

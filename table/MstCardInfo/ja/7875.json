@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 5,
+  "card_id": 7875,
+  "card_name": "D・マグネンU",
+  "card_name_label": "ディフォーマー・マグネンユー",
+  "card_name_search": "でぃふぉーまーまぐねんゆー",
+  "card_pen_effect": "",
+  "card_text": "このカードはこのカードの表示形式によって以下の効果を得る。●攻撃表示：相手フィールド上に表側表示のモンスターが存在する場合、このカードは攻撃力が一番高いモンスターしか攻撃対象に選択できない。●守備表示：このカードがフィールド上に表側表示で存在する限り、相手は他のモンスターを攻撃対象に選択できない。",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/07/19",
+  "species_id": 19,
+  "starchip": "3"
+}

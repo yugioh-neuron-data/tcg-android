@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 18517,
+  "card_name": "開かれし大地",
+  "card_name_label": "ひらかれしだいち",
+  "card_name_search": "ひらかれしだいち",
+  "card_pen_effect": "",
+  "card_text": "①：相手が儀式・融合・S・X・リンクモンスターの特殊召喚に成功した場合、以下の効果から１つを選択して発動できる。「開かれし大地」の以下の効果はそれぞれ１ターンに１度しか選択できない。$N●デッキから「アルバスの落胤」１体またはそのカード名が記されたモンスター１体を手札に加える。$N●手札から「アルバスの落胤」１体またはそのカード名が記されたモンスター１体を特殊召喚する。",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/01/14",
+  "species_id": 24,
+  "starchip": "0"
+}

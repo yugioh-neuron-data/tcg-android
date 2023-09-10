@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14594,
+  "card_name": "地縛地上絵",
+  "card_name_label": "じばくちじょうえ",
+  "card_name_search": "じばくちじょうえ",
+  "card_pen_effect": "",
+  "card_text": "このカード名の③の効果は１ターンに１度しか使用できない。$N①：フィールドにレベル１０モンスターが存在する限り、このカードは効果では破壊されず、お互いはこのカードを効果の対象にできない。$N②：このカードがフィールドゾーンに存在する限り、自分が「地縛神」モンスターをアドバンス召喚する場合、Sモンスターは２体分のリリースにできる。$N③：Sモンスターが特殊召喚された場合に発動できる。デッキから「地縛神」魔法・罠カード１枚を手札に加える。",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/06/08",
+  "species_id": 24,
+  "starchip": "0"
+}

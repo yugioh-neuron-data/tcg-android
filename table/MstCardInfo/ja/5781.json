@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 4,
+  "card_id": 5781,
+  "card_name": "伝説の爆炎使い",
+  "card_name_label": "でんせつのフレイム・ロード",
+  "card_name_search": "でんせつのふれいむろーど",
+  "card_pen_effect": "",
+  "card_text": "「灼熱の試練」により降臨。フィールドか手札から、レベルが７以上になるようカードを生け贄に捧げなければならない。自分または相手が魔法を発動する度に、このカードに魔力カウンターを１個乗せる。このカードの魔力カウンターを３個取り除く事で、このカードを除くフィールド上のモンスターを全て破壊する。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 5,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2003/02/20",
+  "species_id": 18,
+  "starchip": "7"
+}

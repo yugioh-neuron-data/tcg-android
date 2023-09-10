@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 14708,
+  "card_name": "Vai! - D/D/D Rabbia Re dello Zero Divino",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Se stai per subire danno da effetto, non subisci danno. Se Evochi Normalmente 1 mostro \"D/D\" di Livello 5 o superiore, puoi farlo senza offrire Tributi. Puoi utilizzare ogni Effetto Pendulum di \"Vai! - D/D/D Rabbia Re dello Zero Divino\" una sola volta per turno.",
+  "card_text": "Quando questa carta dichiara un attacco, se i LP del tuo avversario sono 4000 o inferiori: puoi far guadagnare a questa carta ATK pari ai LP del tuo avversario, fino alla fine di questo turno. Non può essere distrutto in battaglia, inoltre non subisci danno da battaglie che coinvolgono questa carta.$NPuoi offrire come Tributo 1 altro mostro; applica 1 di questi effetti fino alla fine di questo turno.$N●Questa carta può attaccare direttamente.$N●Il tuo avversario non può attivare carte o effetti nelle Zone Magie & Trappole.$N●Il tuo avversario non può attivare effetti di carte nella sua mano o Cimitero.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "0",
+  "pen_scale_r": "0",
+  "sales_at": "2022/05/05",
+  "species_id": 3,
+  "starchip": "10"
+}

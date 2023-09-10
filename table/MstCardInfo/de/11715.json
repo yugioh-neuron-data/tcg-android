@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 1,
+  "card_id": 11715,
+  "card_name": "Blütendiva der musikalische Chor",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 „Musikalische Maestra“-Monster + 1 „Musikalisch“-Monster$NKann weder durch Kampf noch durch Karteneffekte zerstört werden, zusätzlich erhältst du keinen Kampfschaden aus Angriffen, an denen diese Karte beteiligt ist. Falls diese Karte gegen ein als Spezialbeschwörung beschworenes Monster kämpft, nach der Schadensberechnung: Du kannst deinem Gegner Schaden in Höhe der Differenz zwischen den Grund-ATK des Monsters deines Gegners und dieser Karte zufügen und falls du dies tust, zerstöre das Monster deines Gegners.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/05/14",
+  "species_id": 17,
+  "starchip": "6"
+}

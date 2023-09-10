@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 1,
+  "card_id": 12100,
+  "card_name": "Kozmo Fantoccio",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante il turno di qualsiasi giocatore: puoi bandire questa carta; Evoca Specialmente 1 mostro \"Kozmo\" di Livello 3 o superiore dalla tua mano. Puoi utilizzare questo effetto di \"Kozmo Fantoccio\" una sola volta per turno. Una volta per turno: puoi pagare 500 LP, poi scegliere come bersaglio 1 dei tuoi mostri \"Kozmo\" banditi; Evocalo Specialmente, ma i suoi effetti sono annullati, inoltre distruggilo durante la End Phase.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/11/05",
+  "species_id": 21,
+  "starchip": "2"
+}

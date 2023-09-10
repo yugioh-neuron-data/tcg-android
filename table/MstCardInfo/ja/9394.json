@@ -1,0 +1,23 @@
+{
+  "attack_power": "3200",
+  "attribute_id": 1,
+  "card_id": 9394,
+  "card_name": "ヴァイロン・オメガ",
+  "card_name_label": "ヴァイロン・オメガ",
+  "card_name_search": "う゛ぁいろんおめが",
+  "card_pen_effect": "",
+  "card_text": "チューナー２体＋チューナー以外の「ヴァイロン」と名のついたモンスター１体$Nこのカードがシンクロ召喚に成功した時、フィールド上に表側表示で存在する通常召喚されたモンスターを全て破壊する。１ターンに１度、自分の墓地の「ヴァイロン」と名のついたモンスター１体を選択し、装備カード扱いとしてこのカードに装備できる。効果モンスターの効果が発動した時、このカードに装備された装備カード１枚を墓地へ送る事で、その発動を無効にし破壊する。",
+  "defense_power": "1900",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/12/01",
+  "species_id": 17,
+  "starchip": "10"
+}

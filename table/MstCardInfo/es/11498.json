@@ -1,0 +1,23 @@
+{
+  "attack_power": "2600",
+  "attribute_id": 6,
+  "card_id": 11498,
+  "card_name": "Espíritu Bestia Ulti-Apelio",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 monstruo \"Domador del Espíritu Bestia\" + 1 monstruo \"Avatar del Espíritu Bestia\"$NDebe ser Invocado de Modo Especial (desde tu Deck Extra) desterrando las cartas mencionadas arriba que tú controles, y no puede ser Invocado de Modo Especial de otra forma. (No usas \"Polimerización\"). Si esta carta ataca, no es afectada por efectos de otras cartas hasta el final del Damage Step. Durante el turno de cualquier jugador: puedes devolver al Deck Extra esta carta que controlas, y después seleccionar 2 de tus monstruos desterrados (1 monstruo \"Domador del Espíritu Bestia\" y 1 monstruo \"Avatar del Espíritu Bestia\"); Invócalos de Modo Especial en Posición de Defensa.",
+  "defense_power": "400",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/02/12",
+  "species_id": 4,
+  "starchip": "6"
+}

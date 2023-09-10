@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 3,
+  "card_id": 12112,
+  "card_name": "Artistamico Chitartaruga",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Se nella tua altra Zona Pendulum viene attivata una carta \"Artistamico\": puoi pescare 1 carta. Puoi utilizzare questo effetto di \"Artistamico Chitartaruga\" una sola volta per turno.",
+  "card_text": "Una volta per turno: puoi scegliere come bersaglio 1 carta nella tua Zona Pendulum; aumenta il suo Valore Pendulum di 2 fino alla fine di questo turno.",
+  "defense_power": "400",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "6",
+  "pen_scale_r": "6",
+  "sales_at": "2016/01/14",
+  "species_id": 14,
+  "starchip": "1"
+}

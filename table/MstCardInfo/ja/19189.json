@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 19189,
+  "card_name": "ペンデュラム・エボリューション",
+  "card_name_label": "ペンデュラム・エボリューション",
+  "card_name_search": "ぺんでゅらむえぼりゅーしょん",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②③の効果はそれぞれ１ターンに１度しか使用できない。$N①：手札からPモンスター１体をデッキに戻して発動できる。戻したモンスターとはカード名が異なる攻撃力２５００のPモンスター１体をデッキから手札に加える。$N②：自分がEXデッキの裏側のPモンスターを特殊召喚したターンの自分メインフェイズに発動できる。モンスターのP召喚を行う。$N③：自分フィールドの「覇王龍ズァーク」１体を対象として発動できる。このターン、そのモンスターは相手モンスター全てに１回ずつ攻撃できる。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/07/22",
+  "species_id": 24,
+  "starchip": "0"
+}

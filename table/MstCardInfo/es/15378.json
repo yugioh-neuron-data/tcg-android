@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 15378,
+  "card_name": "Pared Númeron",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "(Esta carta no se trata como una carta \"Número\").$NSi no controlas cartas, excepto \"Pared Númeron\" (Efecto Rápido): puedes mandar al Cementerio esta carta en tu mano o Campo; activa 1 \"Red Númeron\" directamente desde tu mano o Deck. Sólo puedes usar este efecto de \"Pared Númeron\" una vez por turno. Cuando recibes daño de batalla: puedes Invocar esta carta de Modo Especial desde tu mano y, si lo haces, termina la Battle Phase después del Damage Step.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/07/23",
+  "species_id": 3,
+  "starchip": "1"
+}

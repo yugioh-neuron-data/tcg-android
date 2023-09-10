@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 5534,
+  "card_name": "Rancher Destructeur",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Seul un monstre avec une ATK de 1000 points ou moins peut être équipé avec cette carte. Durant le calcul des dommages, augmentez l'ATK du monstre équipé de cette carte de 2500 points si le monstre de votre adversaire qu'il combat est en Position d'Attaque et que son ATK est de 2500 points ou plus, OU si le monstre de votre adversaire qu'il combat est en Position de Défense et que sa DEF est de 2500 points ou plus.",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/03/19",
+  "species_id": 24,
+  "starchip": "0"
+}

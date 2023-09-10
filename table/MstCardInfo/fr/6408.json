@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 6408,
+  "card_name": "Réorganisation des Bulles",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Vous ne pouvez activer cette carte que lorsqu'il y a un \"Bubbleman, HÉROS Élémentaire\" face recto sur le Terrain. Changez 1 \"Bubbleman, HÉROS Élémentaire\" sur votre Terrain en Position d'Attaque face recto et un 1 monstre sur le Terrain de votre adversaire en Position d'Attaque face recto, en Position de Défense. Sacrifiez le \"Bubbleman, HÉROS Élémentaire\" qui a été changé en Position de Défense et faites l'Invocation Spéciale d'1 monstre depuis votre main qui inclut \"HÉROS Élémentaire\" dans son nom de carte.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/08/06",
+  "species_id": 24,
+  "starchip": "0"
+}

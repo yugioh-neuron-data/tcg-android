@@ -1,0 +1,23 @@
+{
+  "attack_power": "2700",
+  "attribute_id": 6,
+  "card_id": 6720,
+  "card_name": "신조 시무르그",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드는 특수 소환할 수 없다. 이 카드를 제물 소환할 경우의 제물은 바람 속성 몬스터이어야 한다. 이 카드가 필드 위에 앞면 표시로 존재하는 한, 양쪽 플레이어는 엔드 페이즈마다 1000 포인트 데미지를 받는다. 이때, 각각의 플레이어가 받는 데미지는 마법/함정 카드를 컨트롤하고 있는 수 × 500 포인트 줄어든다.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/10/18",
+  "species_id": 16,
+  "starchip": "7"
+}

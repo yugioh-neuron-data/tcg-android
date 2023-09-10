@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 1,
+  "card_id": 18823,
+  "card_name": "マグナム・ザ・リリーバー",
+  "card_name_label": "マグナム・ザ・リリーバー",
+  "card_name_search": "まぐなむざりりーばー",
+  "card_pen_effect": "",
+  "card_text": "EXデッキから特殊召喚されたモンスター＋手札のモンスター$Nこのカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。$N①：自分の墓地の、「融合」魔法カードか「フュージョン」魔法カード１枚を対象として発動できる。そのカードをデッキの一番下に戻す。その後、自分は１枚ドローする。$N②：他のカードの効果が発動した時、自分の墓地から「融合」魔法カードか「フュージョン」魔法カード１枚を除外し、フィールドのカード１枚を対象として発動できる。そのカードを破壊する。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/04/22",
+  "species_id": 3,
+  "starchip": "8"
+}

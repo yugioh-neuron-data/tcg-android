@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 5798,
+  "card_name": "Dissipation de Magie",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Défaussez 2 cartes de votre main. Annulez l'activation d'une Carte Magie et détruisez-la. De plus, regardez dans la main et le Deck de votre adversaire et si vous trouvez des Cartes Magie du même nom que la Carte Magie détruite envoyez-les toutes au Cimetière.",
+  "defense_power": "0",
+  "effect_id": 1,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/03/19",
+  "species_id": 25,
+  "starchip": "0"
+}

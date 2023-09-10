@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 8586,
+  "card_name": "吠え猛る大地",
+  "card_name_label": "ほえたけるだいち",
+  "card_name_search": "ほえたけるだいち",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上に存在する獣族モンスターが守備表示モンスターを攻撃した時、その守備力を攻撃力が超えていれば、その数値だけ相手ライフに戦闘ダメージを与える。この効果が適用された事によって相手ライフに戦闘ダメージを与えた時、相手フィールド上に表側表示で存在するモンスター１体の攻撃力・守備力は５００ポイントダウンする。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/04/21",
+  "species_id": 25,
+  "starchip": "0"
+}

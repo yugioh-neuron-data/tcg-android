@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 6076,
+  "card_name": "破壊竜ガンドラ",
+  "card_name_label": "はかいりゅうガンドラ",
+  "card_name_search": "はかいりゅうがんどら",
+  "card_pen_effect": "",
+  "card_text": "このカードは特殊召喚できない。①：LPを半分払って発動できる。このカード以外のフィールドのカードを全て破壊し除外する。このカードの攻撃力は、この効果で破壊したカードの数×３００アップする。②：このカードを召喚・反転召喚したターンのエンドフェイズに発動する。このカードを墓地へ送る。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/08/25",
+  "species_id": 1,
+  "starchip": "8"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "3500",
+  "attribute_id": 2,
+  "card_id": 8007,
+  "card_name": "レッド・デーモンズ・ドラゴン／バスター",
+  "card_name_label": "レッド・デーモンズ・ドラゴンスラッシュバスター",
+  "card_name_search": "れっどでーもんずどらごんすらっしゅばすたー",
+  "card_pen_effect": "",
+  "card_text": "このカードは通常召喚できず、「バスター・モード」の効果でのみ特殊召喚できる。$N①：このカードが攻撃したダメージ計算後に発動する。フィールドの他のモンスターを全て破壊する。$N②：フィールドのこのカードが破壊された時、自分の墓地の「レッド・デーモンズ・ドラゴン」１体を対象として発動できる。そのモンスターを特殊召喚する。",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/11/15",
+  "species_id": 1,
+  "starchip": "10"
+}

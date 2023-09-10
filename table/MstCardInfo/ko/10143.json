@@ -1,0 +1,23 @@
+{
+  "attack_power": "900",
+  "attribute_id": 1,
+  "card_id": 10143,
+  "card_name": "오파츠 크리스탈 스컬",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "자신 필드 위에 \"오파츠\"라는 이름이 붙은 몬스터가 존재할 경우, 자신의 메인 페이즈시에 이 카드를 패에서 묘지에 버리고 발동할 수 있다. 자신의 덱 / 묘지에서 \"오파츠 크리스탈 스컬\" 이외의 \"오파츠\"라는 이름이 붙은 몬스터 1장을 고르고 패에 넣는다. \"오파츠 크리스탈 스컬\"의 효과는 1턴에 1번밖에 사용할 수 없다.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/07/03",
+  "species_id": 6,
+  "starchip": "3"
+}

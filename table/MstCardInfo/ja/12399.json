@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 1,
+  "card_id": 12399,
+  "card_name": "クリアクリボー",
+  "card_name_label": "クリアクリボー",
+  "card_name_search": "くりあくりぼー",
+  "card_pen_effect": "",
+  "card_text": "このカード名の②の効果は１ターンに１度しか使用できない。①：ダメージを与えるモンスターの効果を相手が発動した時、このカードを手札から捨てて発動できる。その発動を無効にする。②：相手モンスターの直接攻撃宣言時、墓地のこのカードを除外して発動できる。自分はデッキから１枚ドローする。そのドローしたカードがモンスターだった場合、さらにそのモンスターを特殊召喚できる。その後、攻撃対象をそのモンスターに移し替える。",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/04/01",
+  "species_id": 17,
+  "starchip": "1"
+}

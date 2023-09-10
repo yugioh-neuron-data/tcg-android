@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 3,
+  "card_id": 16273,
+  "card_name": "Pendrasação",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 monstros de Nível 4$NVocê pode desassociar 1 matéria deste card; se você tiver mais cards no seu Deck Adicional que o seu oponente, aplique esses efeitos em sequência, dependendo da diferença.$N●1+: Este card ganha 1000 de ATK até o final do turno do seu oponente.$N●5+: Nenhum duelista pode escolher este card como alvo de efeitos de card até o final do turno do seu oponente.$N●10+: Bana 1 card que seu oponente controla.$N●15+: Transforme os PV do seu oponente em 3000.$NVocê só pode usar este efeito de \"Pendrasação\" uma vez por turno.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/06/03",
+  "species_id": 27,
+  "starchip": "4"
+}

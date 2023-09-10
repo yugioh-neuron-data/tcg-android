@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13335,
+  "card_name": "雪の天気模様",
+  "card_name_label": "ゆきのてんきもよう",
+  "card_name_search": "ゆきのてんきもよう",
+  "card_pen_effect": "",
+  "card_text": "①：「雪の天気模様」は自分フィールドに１枚しか表側表示で存在できない。②：このカードと同じ縦列の自分のメインモンスターゾーン及びその両隣の自分のメインモンスターゾーンに存在する「天気」効果モンスターは以下の効果を得る。●このカードを除外して発動できる。デッキから「天気」カード１枚を手札に加える。この効果の発動後、ターン終了時まで自分はドロー以外の方法でデッキからカードを手札に加える事はできない。この効果は相手ターンでも発動できる。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/08/11",
+  "species_id": 24,
+  "starchip": "0"
+}

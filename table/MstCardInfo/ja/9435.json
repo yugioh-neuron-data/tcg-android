@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 5,
+  "card_id": 9435,
+  "card_name": "スナップドラゴン",
+  "card_name_label": "スナップドラゴン",
+  "card_name_search": "すなっぷどらごん",
+  "card_pen_effect": "",
+  "card_text": "このカードが墓地へ送られた時、相手の手札をランダムに１枚選択し、エンドフェイズ時まで表側表示でゲームから除外する。「スナップドラゴン」の効果は１ターンに１度しか使用できない。",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/10/21",
+  "species_id": 13,
+  "starchip": "2"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13423,
+  "card_name": "Prison de Feu",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Tous les monstres Dragon sur le Terrain gagnent 300 DEF. S'il y a des Monstres Lien sur le Terrain, aucun joueur ne peut Invoquer par Lien de Monstres Lien avec une Classification Lien inférieure à la plus haute Classification Lien sur le Terrain. Les monstres (Monstres Lien exclus) ne peuvent pas attaquer. Appliquez les effets suivants tant que min. 2 Monstres Lien Cyberse sont sur le Terrain.$N●Annulez les effets activés de monstres Cyberse.$N●Les monstres Cyberse ne peuvent ni attaquer, ni être ciblés avec une attaque, ni être ciblés par des effets de carte.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/02/01",
+  "species_id": 24,
+  "starchip": "0"
+}

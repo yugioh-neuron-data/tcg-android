@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 7626,
+  "card_name": "ジャスティス・ワールド",
+  "card_name_label": "ジャスティス・ワールド",
+  "card_name_search": "じゃすてぃすわーるど",
+  "card_pen_effect": "",
+  "card_text": "自分のデッキからカードが墓地へ送られる度に、このカードにシャインカウンターを１つ置く。フィールド上の「ライトロード」と名のついたモンスターの攻撃力は、このカードに乗っているシャインカウンターの数×１００ポイントアップする。また、このカードがカードの効果によって破壊される場合、代わりにこのカードに乗っているシャインカウンターを２つ取り除く。",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/02/23",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1100",
+  "attribute_id": 5,
+  "card_id": 11801,
+  "card_name": "Tour de Chapeau Mageartiste",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si min. 2 monstres sont sur le Terrain, vous pouvez Invoquer Spécialement cette carte (depuis votre main). Lorsqu'une carte ou un effet qui va vous infliger des dommages est activé (Effet Rapide) : vous pouvez placer 1 Compteur Mageartiste sur cette carte (max. 3), puis faites devenir ces dommages d'effet sur vous 0. Lorsque le 3e Compteur Mageartiste est placé sur cette carte, son ATK/DEF deviennent 3300.",
+  "defense_power": "1100",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/08/06",
+  "species_id": 18,
+  "starchip": "4"
+}

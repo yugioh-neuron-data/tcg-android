@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 8363,
+  "card_name": "コアの再練成",
+  "card_name_label": "コアのさいれんせい",
+  "card_name_search": "こあのさいれんせい",
+  "card_pen_effect": "",
+  "card_text": "自分の墓地に存在する「コアキメイル」と名のついたモンスター１体を選択し、攻撃表示で特殊召喚する。自分のエンドフェイズ時にそのモンスターが破壊された時、このカードのコントローラーはそのモンスターの攻撃力分のダメージを受ける。このカードがフィールド上に存在しなくなった時、そのモンスターを破壊する。そのモンスターが破壊された時このカードを破壊する。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/04/18",
+  "species_id": 25,
+  "starchip": "0"
+}

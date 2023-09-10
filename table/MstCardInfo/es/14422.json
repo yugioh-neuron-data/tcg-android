@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14422,
+  "card_name": "Ojo Maligno de Selene",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Sólo puedes equipar esta carta a un monstruo \"Ojo Maligno\". Éste no puede ser destruido en batalla o por efectos de cartas de tu adversario, y además tu adversario no puede seleccionarlo con efectos de cartas. Cada vez que actives el efecto del monstruo equipado, o actives otra Carta Mágica/de Trampa \"Ojo Maligno\": el monstruo equipado gana 500 ATK y, si lo hace, tú pierdes 500 LP. (Esta ganancia de ATK permanece aún si esta carta deja el Campo). Si esta carta está en tu Cementerio: puedes pagar 1000 LP, y después desterrar 1 Mágica/Trampa \"Ojo Maligno\" en tu Cementerio, excepto \"Ojo Maligno de Selene\"; Coloca esta carta. Sólo puedes usar este efecto de \"Ojo Maligno de Selene\" una vez por turno.",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/03/21",
+  "species_id": 24,
+  "starchip": "0"
+}

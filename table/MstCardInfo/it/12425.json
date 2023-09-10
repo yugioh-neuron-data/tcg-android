@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 3,
+  "card_id": 12425,
+  "card_name": "Dinofoschia Ankylos",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Una volta, mentre questa carta è nella tua Zona Pendulum, puoi annullare l'effetto attivato di una carta che sceglie come bersaglio una o più altre carte \"Dinofoschia\" che controlli, poi distruggi questa carta.",
+  "card_text": "Bandisci qualsiasi mostro distrutto in battaglia con un mostro \"Dinofoschia\" che controlli.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "6",
+  "pen_scale_r": "6",
+  "sales_at": "2016/08/04",
+  "species_id": 7,
+  "starchip": "4"
+}

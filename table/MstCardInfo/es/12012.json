@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 12012,
+  "card_name": "D/D/D Cambio de Contrato",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando un monstruo de tu adversario declara un ataque: activa 1 de estos efectos;$N●Destierra 1 monstruo \"D/D/D\" en tu Cementerio y, si lo haces, el monstruo atacante pierde ATK igual al ATK del monstruo desterrado.$N●Añade a tu mano 1 Monstruo de Péndulo \"D/D\" de Nivel 4 o menor en tu Deck.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/11/05",
+  "species_id": 25,
+  "starchip": "0"
+}

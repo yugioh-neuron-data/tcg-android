@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 5481,
+  "card_name": "死なばもろとも",
+  "card_name_label": "しなばもろとも",
+  "card_name_search": "しなばもろとも",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：お互いの手札がそれぞれ３枚以上の場合に発動できる。お互いのプレイヤーは、それぞれ手札を全て好きな順番でデッキの下に戻し、自分はこの効果でお互いがデッキに戻したカードの数×３００LPを失う。その後、お互いのプレイヤーは、それぞれデッキから５枚ドローする。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/06/06",
+  "species_id": 25,
+  "starchip": "0"
+}

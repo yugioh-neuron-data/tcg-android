@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 12852,
+  "card_name": "召喚魔術",
+  "card_name_label": "しょうかんまじゅつ",
+  "card_name_search": "しょうかんまじゅつ",
+  "card_pen_effect": "",
+  "card_text": "このカード名の②の効果は１ターンに１度しか使用できない。①：融合モンスターカードによって決められた融合素材モンスターを手札から墓地へ送り、その融合モンスター１体をEXデッキから融合召喚する。「召喚獣」融合モンスターを融合召喚する場合、自分フィールド及び自分・相手の墓地のモンスターを除外して融合素材とする事もできる。②：このカードが墓地に存在する場合、除外されている自分の「召喚師アレイスター」１体を対象として発動できる。このカードをデッキに戻し、対象のモンスターを手札に加える。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/11/12",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 2,
+  "card_id": 4105,
+  "card_name": "ゴースト王－パンプキング－",
+  "card_name_label": "ゴーストおう－パンプキング－",
+  "card_name_search": "ごーすとおうぱんぷきんぐ",
+  "card_pen_effect": "",
+  "card_text": "「闇晦ましの城」がフィールド上に表側表示で存在する限り、このカードの攻撃力と守備力は１００ポイントアップする。また、自分のスタンバイフェイズ毎にさらに１００ポイントずつアップする。この効果は自分の４回目のスタンバイフェイズまで続く。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2000/03/01",
+  "species_id": 2,
+  "starchip": "6"
+}

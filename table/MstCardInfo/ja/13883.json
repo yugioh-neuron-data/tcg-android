@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 13883,
+  "card_name": "アストラグールズ",
+  "card_name_label": "アストラグールズ",
+  "card_name_search": "あすとらぐーるず",
+  "card_pen_effect": "",
+  "card_text": "①：このカードが召喚に成功した時、自分の墓地のレベル４以下のモンスター１体を対象として発動できる。そのモンスターを守備表示で特殊召喚する。この効果で特殊召喚したモンスターの効果は無効化され、エンドフェイズに除外される。②：１ターンに１度、自分メインフェイズに発動できる。サイコロを１回振る。自分フィールドの全ての表側表示モンスターのレベルはターン終了時まで出た目の数と同じになる。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/05/27",
+  "species_id": 2,
+  "starchip": "5"
+}

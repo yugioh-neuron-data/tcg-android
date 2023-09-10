@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 1,
+  "card_id": 11247,
+  "card_name": "Hombre Pila 9 Voltios",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando esta carta es Invocada: puedes añadir a tu mano 1 monstruo \"Hombre Pila\" en tu Deck y, si lo haces, el ATK y la DEF de esta carta se convierten en el doble de su ATK y DEF originales. Sólo puedes usar este efecto de \"Hombre Pila 9 Voltios\" una vez por turno. Durante tu End Phase: destruye esta carta.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/08/14",
+  "species_id": 19,
+  "starchip": "4"
+}

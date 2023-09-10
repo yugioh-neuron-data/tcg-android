@@ -1,0 +1,23 @@
+{
+  "attack_power": "2200",
+  "attribute_id": 2,
+  "card_id": 15516,
+  "card_name": "インフェルニティ・ヘル・デーモン",
+  "card_name_label": "インフェルニティ・ヘル・デーモン",
+  "card_name_search": "いんふぇるにてぃへるでーもん",
+  "card_pen_effect": "",
+  "card_text": "チューナー＋チューナー以外のモンスター１体以上$N①：１ターンに１度、フィールドの表側表示のカード１枚を対象として発動できる。そのカードの効果をターン終了時まで無効にする。自分の手札が０枚の場合、さらにそのカードを破壊できる。②：自分の手札が０枚である限り、このカードが相手モンスターとの戦闘で相手に与える戦闘ダメージは倍になる。③：このカードをS素材とした闇属性Sモンスターは１度のバトルフェイズ中に２回までモンスターに攻撃できる。",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/08/08",
+  "species_id": 3,
+  "starchip": "6"
+}

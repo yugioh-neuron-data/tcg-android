@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 13527,
+  "card_name": "パケットリンク",
+  "card_name_label": "パケットリンク",
+  "card_name_search": "ぱけっとりんく",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：自分・相手のメインフェイズ２に発動できる。自分の手札・デッキ・墓地のレベル２以下のモンスターを任意の数だけ選び、フィールドのリンクモンスターのリンク先となる自分フィールドに特殊召喚する（同名カードは１枚まで）。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/12/09",
+  "species_id": 25,
+  "starchip": "0"
+}

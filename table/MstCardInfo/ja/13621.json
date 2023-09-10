@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 13621,
+  "card_name": "リミット・コード",
+  "card_name_label": "リミット・コード",
+  "card_name_search": "りみっとこーど",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードはデュエル中に１枚しか発動できない。①：自分の墓地にサイバース族リンクモンスターが存在する場合にこのカードを発動できる。そのモンスターの数だけこのカードにカウンターを置き、EXデッキから「コード・トーカー」モンスター１体を特殊召喚し、このカードを装備カード扱いとしてそのモンスターに装備する。このカードがフィールドから離れた時にそのモンスターは破壊される。②：自分エンドフェイズに発動する。このカードのカウンターを１つ取り除く。取り除けない場合このカードを破壊する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/01/13",
+  "species_id": 25,
+  "starchip": "0"
+}

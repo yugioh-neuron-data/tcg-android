@@ -1,0 +1,23 @@
+{
+  "attack_power": "2100",
+  "attribute_id": 1,
+  "card_id": 8333,
+  "card_name": "エンシェント・ホーリー・ワイバーン",
+  "card_name_label": "エンシェント・ホーリー・ワイバーン",
+  "card_name_search": "えんしぇんとほーりーわいばーん",
+  "card_pen_effect": "",
+  "card_text": "光属性チューナー＋チューナー以外のモンスター１体以上$N自分のライフポイントが相手より多い場合、このカードの攻撃力はその差の数値分アップする。自分のライフポイントが相手より少ない場合、このカードの攻撃力はその差の数値分ダウンする。また、このカードが戦闘によって破壊され墓地へ送られた時、１０００ライフポイントを払う事でこのカードを墓地から特殊召喚する。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/04/18",
+  "species_id": 17,
+  "starchip": "7"
+}

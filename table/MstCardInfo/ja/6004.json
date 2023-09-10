@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 6004,
+  "card_name": "ヂェミナイ・デビル",
+  "card_name_label": "ヂェミナイ・デビル",
+  "card_name_search": "ぢぇみないでびる",
+  "card_pen_effect": "",
+  "card_text": "自分の手札を捨てる効果を含むカードを相手が発動した時、このカードを手札から墓地に送る事でその発動と効果を無効にし、そのカードを破壊した後自分のデッキからカードを１枚ドローする。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/03/11",
+  "species_id": 3,
+  "starchip": "4"
+}

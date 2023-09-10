@@ -1,0 +1,23 @@
+{
+  "attack_power": "2200",
+  "attribute_id": 5,
+  "card_id": 8122,
+  "card_name": "E・HERO ガイア",
+  "card_name_label": "エレメンタルヒーロー　ガイア",
+  "card_name_search": "えれめんたるひーろーがいあ",
+  "card_pen_effect": "",
+  "card_text": "「E・HERO」モンスター＋地属性モンスター$Nこのカードは融合召喚でしか特殊召喚できない。①：このカードが融合召喚に成功した場合、相手フィールドの表側表示モンスター１体を対象として発動する。ターン終了時まで、そのモンスターの攻撃力を半分にし、このカードの攻撃力はその数値分アップする。",
+  "defense_power": "2600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/09/21",
+  "species_id": 15,
+  "starchip": "6"
+}

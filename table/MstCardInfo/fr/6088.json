@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 1,
+  "card_id": 6088,
+  "card_name": "Sphinx Teleia",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsque \"Pyramide de Lumière\" est face recto sur le Terrain, vous pouvez payer 500 Life Points pour faire L'Invocation Spéciale de cette carte. Cette carte ne peut être attaquée durant le tour où elle a été Invoquée par Invocation Normale ou Spéciale. Cette carte ne peut pas être Invoquée par Invocation Spéciale de votre Cimetière. Si cette carte détruit un monstre en Position de Défense à l'issue d'un combat, infligez des dommages à votre adversaire égaux à la moitié de la DEF du monstre détruit.",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/08/01",
+  "species_id": 11,
+  "starchip": "10"
+}

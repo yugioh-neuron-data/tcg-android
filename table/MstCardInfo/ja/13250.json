@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 2,
+  "card_id": 13250,
+  "card_name": "比翼レンリン",
+  "card_name_label": "ひよくレンリン",
+  "card_name_search": "ひよくれんりん",
+  "card_pen_effect": "",
+  "card_text": "①：１ターンに１度、以下の効果から１つを選択して発動できる。●自分フィールドの表側表示モンスター１体を対象とし、このカードを装備カード扱いとしてそのモンスターに装備する。装備モンスターが戦闘・効果で破壊される場合、代わりにこのカードを破壊する。●装備されているこのカードを特殊召喚する。②：装備モンスターの元々の攻撃力は１０００になり、１度のバトルフェイズ中に２回攻撃できる。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 8,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/07/08",
+  "species_id": 1,
+  "starchip": "3"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "3500",
+  "attribute_id": 2,
+  "card_id": 13123,
+  "card_name": "D/D/D-Super-Untergangskönig Lila Armageddon",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Einmal pro Spielzug, vor der Schadensberechnung, falls dein „D/D/D“-Fusionsmonster gegen ein Monster eines Gegners kämpft: Du kannst das Monster des Gegners bis zum Ende dieses Spielzugs 1000 ATK verlieren lassen (selbst falls diese Karte das Spielfeld verlässt).",
+  "card_text": "2 „D/D/D“-Monster$NDu kannst 1 Monster in Angriffsposition wählen, das dein Gegner kontrolliert; zerstöre es und falls du dies tust, füge deinem Gegner Schaden in Höhe der Hälfte seiner Grund-ATK zu. Du kannst diesen Effekt von „D/D/D-Super-Untergangskönig Lila Armageddon“ nur einmal pro Spielzug verwenden. Vor der Schadensberechnung, falls ein Monster eines Gegners kämpft: Du kannst seine ATK bis zum Ende des Damage Steps gleich seinen Grund-ATK werden lassen. Falls diese Karte in der Monsterzone zerstört wird: Du kannst diese Karte in deine Pendelzone legen.",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 41,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2018/10/18",
+  "species_id": 3,
+  "starchip": "10"
+}

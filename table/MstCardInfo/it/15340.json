@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 1,
+  "card_id": 15340,
+  "card_name": "Esercito Meklord Schieramento Obbligato",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante la tua Main Phase: puoi attivare questo effetto; distruggi questa carta e, se lo fai, Evoca Specialmente 2 mostri \"Esercito Meklord\" dal tuo Deck in Posizione di Difesa, eccetto \"Esercito Meklord Schieramento Obbligato\", inoltre non puoi Evocare Specialmente mostri per il resto di questo turno, eccetto mostri Macchina. Se questa carta viene mandata al Cimitero: puoi attivare questo effetto; durante la End Phase di questo turno, puoi infliggere 100 danni al tuo avversario per ogni mostro \"Meklord\" che controlli. Puoi utilizzare ogni effetto di \"Esercito Meklord Schieramento Obbligato\" una sola volta per turno.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/09/24",
+  "species_id": 7,
+  "starchip": "4"
+}

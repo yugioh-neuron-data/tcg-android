@@ -1,0 +1,23 @@
+{
+  "attack_power": "2600",
+  "attribute_id": 1,
+  "card_id": 13525,
+  "card_name": "Dragón Segmentado",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Puedes Invocar esta carta de Modo Normal/Colocar sin Sacrificar, pero su ATK/DEF originales se convierten en la mitad. Una vez por turno, si esta carta Invocada de Modo Normal/Colocada está en el Campo (Efecto Rápido): puedes destruir esta carta boca arriba y, si lo haces, destruye todos los monstruos en las Zonas de Monstruos Principales que tengan ATK menor o igual al ATK que esta carta tenía en el Campo.",
+  "defense_power": "2400",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/08/09",
+  "species_id": 27,
+  "starchip": "7"
+}

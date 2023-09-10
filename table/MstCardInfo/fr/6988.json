@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 1,
+  "card_id": 6988,
+  "card_name": "Néos Luminescent, HÉROS Élémentaire",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"Néos, HÉROS Élémentaire\" + \"Limon Luminescent Néo-Spacien\"$NCette carte peut uniquement être Invoquée par Invocation Spéciale depuis votre Extra Deck en retournant dans le Deck les cartes ci-dessus que vous contrôlez. (N'utilisez pas \"Polymérisation\".) Cette carte retourne dans le Extra Deck durant la End Phase. Une fois par tour, durant votre Main Phase 1, vous pouvez détruire 1 carte face recto contrôlée par votre adversaire. En fonction du type de cette carte, appliquez l'effet approprié :$N ● Monstre : Cette carte ne peut pas combattre ce tour.$N ● Magie : Cette carte peut attaquer directement votre adversaire ce tour.$N ● Piège : Cette carte est changée en Position de Défense.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/02/24",
+  "species_id": 15,
+  "starchip": "7"
+}

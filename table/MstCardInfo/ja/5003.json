@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 6,
+  "card_id": 5003,
+  "card_name": "ドラゴンに乗るワイバーン",
+  "card_name_label": "ドラゴンにのるワイバーン",
+  "card_name_search": "どらごんにのるわいばーん",
+  "card_pen_effect": "",
+  "card_text": "「ベビードラゴン」＋「ワイバーンの戦士」$N①：相手フィールドの表側表示モンスターが地・水・炎属性モンスターのみの場合、このカードは直接攻撃できる。",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2000/12/07",
+  "species_id": 1,
+  "starchip": "5"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 3,
+  "card_id": 15829,
+  "card_name": "Révélatrice de la Barrière de Glace",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Tant que vous contrôlez un autre monstre \"Barrière de Glace\", votre adversaire ne peut pas Invoquer par Sacrifice. Vous ne pouvez utiliser chacun des effets suivants de \"Révélatrice de la Barrière de Glace\" qu'une fois par tour. Vous pouvez défausser 1 carte ; Invoquez Spécialement 1 Syntoniseur \"Barrière de Glace\" depuis votre Deck, et aussi, vous ne pouvez pas Invoquer Spécialement de monstres (monstres EAU exclus) le reste de ce tour. Si vous allez défausser ou envoyer une ou plusieurs cartes depuis votre main au Cimetière pour activer un effet de monstre \"Barrière de Glace\", vous pouvez bannir cette carte depuis votre Cimetière au lieu d'1 de ces cartes.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/02/18",
+  "species_id": 18,
+  "starchip": "4"
+}

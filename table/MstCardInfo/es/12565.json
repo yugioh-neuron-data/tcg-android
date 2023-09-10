@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 1,
+  "card_id": 12565,
+  "card_name": "Mago Silencioso",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial (desde tu mano) Sacrificando 1 monstruo de Tipo Lanzador de Conjuros, y no puede ser Invocado de Modo Especial de otra forma. Esta carta gana 500 ATK por cada carta en tu mano. Una vez por turno, durante el turno de cualquier jugador, cuando una Carta Mágica es activada: puedes negar la activación. Si esta carta es destruida en batalla, o si esta carta controlada por su dueño es destruida por el efecto de una carta de tu adversario: puedes Invocar de Modo Especial, desde tu mano o Deck, 1 monstruo \"Mago Silencioso\", excepto \"Mago Silencioso\", ignorando sus condiciones de Invocación.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/09/15",
+  "species_id": 18,
+  "starchip": "4"
+}

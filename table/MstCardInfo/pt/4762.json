@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 1,
+  "card_id": 4762,
+  "card_name": "Fronteira de Reflexão",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Antes do cálculo de dano, se este card estiver sendo atacado por um monstro do oponente e estava em Posição de Ataque no começo da Etapa de Dano: cause dano ao seu oponente igual ao ATK do monstro atacante. Se isso acontecer, depois do cálculo de dano: destrua este card.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/03/01",
+  "species_id": 7,
+  "starchip": "4"
+}

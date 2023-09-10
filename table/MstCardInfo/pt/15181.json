@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 2,
+  "card_id": 15181,
+  "card_name": "D/D Cachorro",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Você pode escolher 1 Monstro de Fusão, Sincro ou Xyz que seu oponente controla; negue os efeitos dele até o final deste turno e, depois, destrua este card. Você só pode usar este efeito de \"D/D Cachorro\" uma vez por turno.",
+  "card_text": "Uma vez por turno, se seu oponente Invocar um ou mais Monstros de Fusão, Sincro ou Xyz por Invocação-Especial (exceto durante a Etapa de Dano): você pode escolher 1 desses monstros; neste turno, esse monstro com a face para cima não pode atacar e, além disso, seus efeitos são negados.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2020/08/06",
+  "species_id": 3,
+  "starchip": "6"
+}

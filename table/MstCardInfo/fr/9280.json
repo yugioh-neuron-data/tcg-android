@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 1,
+  "card_id": 9280,
+  "card_name": "Karood le Sorcier de la Pierre Magique",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Une fois par tour, lorsqu'un autre effet de Carte Monstre est activé tant qu'il n'y a pas de Compteur Pierre Magique sur cette carte, placez 1 Compteur Pierre Magique sur cette carte (max. 1). Cette carte gagne 300 points de DEF pour chaque Compteur Pierre Magique sur elle. Une fois pour tour, vous pouvez retirer 1 Compteur Pierre Magique depuis votre Terrain pour sélectionner 1 carte dans le Cimetière de votre adversaire, et la retirer du jeu.",
+  "defense_power": "1900",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/11/11",
+  "species_id": 18,
+  "starchip": "3"
+}

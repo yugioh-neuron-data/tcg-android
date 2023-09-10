@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 12230,
+  "card_name": "闇魔界の契約書",
+  "card_name_label": "やみまかいのけいやくしょ",
+  "card_name_search": "やみまかいのけいやくしょ",
+  "card_pen_effect": "",
+  "card_text": "「闇魔界の契約書」の①の効果は１ターンに１度しか使用できない。①：以下の効果から１つを選択してこの効果を発動できる。$N●自分の墓地の「DD」Pモンスター１体を対象として発動できる。そのモンスターを自分のPゾーンに置く。$N●自分のエクストラデッキから、表側表示の「DD」Pモンスター１体を自分のPゾーンに置く。$N②：自分スタンバイフェイズに発動する。自分は１０００ダメージを受ける。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/12/12",
+  "species_id": 24,
+  "starchip": "0"
+}

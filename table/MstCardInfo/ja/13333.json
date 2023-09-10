@@ -1,0 +1,23 @@
+{
+  "attack_power": "2200",
+  "attribute_id": 2,
+  "card_id": 13333,
+  "card_name": "極天気ランブラ",
+  "card_name_label": "きょくてんきランブラ",
+  "card_name_search": "きょくてんきらんぶら",
+  "card_pen_effect": "",
+  "card_text": "①：このカードが召喚に成功した時に発動できる。自分の手札・デッキ・墓地から「天気」魔法・罠カード１枚を選んで自分の魔法＆罠ゾーンに表側表示で置く。②：このカードがモンスターゾーンに存在する限り、自分フィールドの「天気」魔法・罠カードは相手の効果の対象にならず、相手の効果では破壊されない。③：フィールドのこのカードが「天気」カードの効果を発動するために除外された場合、次のターンのスタンバイフェイズに発動できる。除外されているこのカードを特殊召喚する。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/08/11",
+  "species_id": 17,
+  "starchip": "6"
+}

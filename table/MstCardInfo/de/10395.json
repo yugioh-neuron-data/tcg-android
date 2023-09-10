@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 2,
+  "card_id": 10395,
+  "card_name": "Der Sensenmann der Prophezeiung",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wenn diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst diesen Effekt aktivieren; führe möglichst viele Effekte aus, basierend auf der Anzahl der „Magiebuch“-Zauberkarten mit unterschiedlichen Namen in deinem Friedhof. Du kannst den Effekt von „Der Sensenmann der Prophezeiung“ nur einmal pro Spielzug verwenden.$N●3 oder mehr: Diese Karte erhält 600 ATK.$N●4 oder mehr: Füge deiner Hand 1 „Magiebuch“-Zauberkarte von deinem Deck hinzu.$N●5 oder mehr: Beschwöre 1 FINSTERNIS Monster vom Typ Hexer der Stufe 5 oder höher als Spezialbeschwörung von deinem Deck.",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/01/24",
+  "species_id": 18,
+  "starchip": "6"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10456,
+  "card_name": "Spacca Utopia",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se controlli un mostro \"Utopia\": distruggi 1 mostro scoperto controllato dal tuo avversario con l'ATK minore (in caso di parità, scegli tu) e, se lo fai, infliggi al tuo avversario danno pari all'ATK sul Terreno del mostro distrutto.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/03/27",
+  "species_id": 24,
+  "starchip": "0"
+}

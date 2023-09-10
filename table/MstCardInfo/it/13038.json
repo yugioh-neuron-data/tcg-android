@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 2,
+  "card_id": 13038,
+  "card_name": "Imp Filo Mangiatore di Cotone",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Tutti i Mostri Fusione che controlli guadagnano 300 ATK. Una volta per turno, se uno o più Mostri Fusione \"Pellicciaspavento\" vengono Evocati tramite Fusione sul tuo Terreno (eccetto durante il Damage Step): puoi pescare 1 carta.",
+  "card_text": "Se questa carta viene Evocata Specialmente: puoi infliggere 200 danni al tuo avversario per ogni mostro \"Pellicciaspavento\" nel tuo Cimitero. Puoi utilizzare questo effetto di \"Imp Filo Mangiatore di Cotone\" una sola volta per turno.",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2018/10/18",
+  "species_id": 3,
+  "starchip": "7"
+}

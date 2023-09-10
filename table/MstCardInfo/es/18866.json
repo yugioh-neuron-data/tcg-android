@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 18866,
+  "card_name": "Espejo Dividido del Inframundo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando recibes daño por efecto de una carta de tu adversario o el ataque de su monstruo: aplica el efecto apropiado basándote en el tipo de daño.$N●Batalla: Invoca 1 monstruo de Modo Especial desde tu Cementerio, con ATK igual o menor al daño y, si lo haces, termina la Battle Phase después del Damage Step.$N●Efecto: Inflige a tu adversario el doble de daño del que recibiste.$NSólo puedes activar 1 \"Espejo Dividido del Inframundo\" por turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/07/27",
+  "species_id": 25,
+  "starchip": "0"
+}

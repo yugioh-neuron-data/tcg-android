@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13814,
+  "card_name": "Sacar da Espada",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Descarte 1 card; envie cards do topo do seu Deck para o Cemitério, igual ao número de cards que seu oponente controla e, depois, compre 1 card e mostre-o. Depois, se era \"Sacar da Espada\", envie-o para o Cemitério e, se isso acontecer, destrua tantos cards no campo quanto possível e, depois, cause 2000 de dano ao seu oponente para cada card destruído e enviado para o Cemitério por este efeito. Se o card que você comprou não era \"Sacar da Espada\", embaralhe cards do seu Cemitério no seu Deck, igual ao número de cards enviados do seu Deck para o Cemitério por este efeito. Você só pode ativar 1 \"Sacar da Espada\" por turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/06/28",
+  "species_id": 24,
+  "starchip": "0"
+}

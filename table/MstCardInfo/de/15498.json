@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 5,
+  "card_id": 15498,
+  "card_name": "U.A. Spielermanager",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls du ein oder mehr „U.A.“-Monster als Normal- oder Spezialbeschwörung beschwörst (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst 1 dieser Effekte aktivieren.$N●Wähle 1 Karte auf dem Spielfeld; zerstöre sie.$N●Annulliere bis zum Ende dieses Spielzugs die Effekte aller offenen Monster auf dem Spielfeld, außer denen von „U.A.“-Monstern.$NDu kannst jeden Effekt von „U.A. Spielermanager“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "2600",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/11/05",
+  "species_id": 15,
+  "starchip": "8"
+}

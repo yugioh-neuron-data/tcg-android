@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14512,
+  "card_name": "Psi-Glut",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Während der Battle Phase: Wähle 1 offenes Monster, das du kontrollierst; du verlierst LP in Höhe seiner ATK und falls du dies tust, werden die ATK des Monsters bis zum Ende dieses Spielzugs verdoppelt. Es kann während des Spielzugs, in dem du diese Karte aktivierst, nicht direkt angreifen. Du kannst nur 1 „Psi-Glut“ pro Spielzug aktivieren.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/07/26",
+  "species_id": 24,
+  "starchip": "0"
+}

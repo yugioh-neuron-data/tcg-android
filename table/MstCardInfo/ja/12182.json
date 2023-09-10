@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 12182,
+  "card_name": "マジェスペクター・スーパーセル",
+  "card_name_label": "マジェスペクター・スーパーセル",
+  "card_name_search": "まじぇすぺくたーすーぱーせる",
+  "card_pen_effect": "",
+  "card_text": "①：自分のPゾーンに「マジェスペクター」カードが存在する場合、このカード以外の「マジェスペクター」カードの自分フィールドで発動する効果の発動と効果は無効化されない。②：１ターンに１度、自分の墓地の「マジェスペクター」カード５枚を対象として発動できる。そのカード５枚をデッキに加えてシャッフルする。その後、自分はデッキから１枚ドローする。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/10/17",
+  "species_id": 25,
+  "starchip": "0"
+}

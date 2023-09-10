@@ -1,0 +1,23 @@
+{
+  "attack_power": "2100",
+  "attribute_id": 3,
+  "card_id": 12136,
+  "card_name": "다이너미스트 케라톱스",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "①: 이 카드 이외의 자신 필드의 \"다이너미스트\" 카드가 전투 또는 상대의 효과로 파괴될 경우, 대신에 이 카드를 파괴할 수 있다.",
+  "card_text": "①: 자신 필드의 몬스터가 \"다이너미스트 케라톱스\" 이외의 \"다이너미스트\" 몬스터뿐일 경우, 이 카드는 패에서 특수 소환할 수 있다.",
+  "defense_power": "400",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2016/02/01",
+  "species_id": 7,
+  "starchip": "5"
+}

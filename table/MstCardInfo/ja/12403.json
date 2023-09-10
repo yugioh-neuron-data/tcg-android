@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 6,
+  "card_id": 12403,
+  "card_name": "EMバリアバルーンバク",
+  "card_name_label": "エンタメイトバリアバルーンバク",
+  "card_name_search": "えんためいとばりあばるーんばく",
+  "card_pen_effect": "",
+  "card_text": "「EMバリアバルーンバク」の②の効果は１ターンに１度しか使用できない。①：自分のモンスターが相手モンスターと戦闘を行うダメージ計算時、このカードを手札から捨てて発動できる。その戦闘で発生するお互いの戦闘ダメージは０になる。②：このカードが墓地に存在する場合、相手モンスターの直接攻撃宣言時に手札から「EM」モンスター１体を捨てて発動できる。このカードを墓地から守備表示で特殊召喚する。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/04/09",
+  "species_id": 11,
+  "starchip": "6"
+}

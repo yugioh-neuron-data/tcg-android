@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 6,
+  "card_id": 15692,
+  "card_name": "암드 드래곤 썬더 LV10",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "①: \"암드 드래곤\" 몬스터의 효과로 특수 소환한 이 카드는 자신의 공격력에 따라 이하의 효과를 얻는다.$N●1 이상: 카드명을 \"암드 드래곤 LV10\"으로 취급한다.$N●10 이상: 이 컨트롤은 변경할 수 없다.$N●100 이상: 전투로는 파괴되지 않는다.$N●1000 이상: 상대 턴에 1번, 패를 1장 묘지로 보내고, 필드의 다른 카드 1장을 대상으로 하여 발동할 수 있다. 그 카드를 파괴하고, 자신의 공격력을 1000 올린다.$N●10000 이상: 1턴에 1번, 발동할 수 있다. 필드의 다른 카드를 전부 파괴한다.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/02/04",
+  "species_id": 1,
+  "starchip": "10"
+}

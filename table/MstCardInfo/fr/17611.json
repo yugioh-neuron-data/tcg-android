@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 5,
+  "card_id": 17611,
+  "card_name": "Maîtresse Amazonesse à l'Épée d'Argent",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Les monstres \"Amazonesse\" que vous contrôlez gagnent une ATK égale à leur propre Niveau x 100. Lorsqu'une attaque impliquant votre monstre \"Amazonesse\" est déclarée : vous pouvez cibler 1 Magie/Piège \"Amazonesse\" dans votre Cimetière ; ajoutez-le à votre main. Vous ne pouvez utiliser cet effet de \"Maîtresse Amazonesse à l'Épée d'Argent\" qu'une fois par tour.",
+  "card_text": "Si cette carte dans la Zone Monstre est détruite au combat ou par un effet de carte : vous pouvez placer cette carte dans votre Zone Pendule. Si un ou plusieurs monstres \"Amazonesse\" sont Invoqués Spécialement sur votre Terrain, tant que cette carte est dans votre Cimetière (sauf durant la Damage Step) : vous pouvez placer cette carte dans votre Zone Pendule. Vous ne pouvez utiliser chaque effet de \"Maîtresse Amazonesse à l'Épée d'Argent\" qu'une fois par tour.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "7",
+  "pen_scale_r": "7",
+  "sales_at": "2022/10/20",
+  "species_id": 15,
+  "starchip": "3"
+}

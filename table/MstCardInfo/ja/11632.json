@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 11632,
+  "card_name": "彼岸の悪鬼 ファーファレル",
+  "card_name_label": "ひがんのあっき　ファーファレル",
+  "card_name_search": "ひがんのあっきふぁーふぁれる",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①③の効果は１ターンに１度、いずれか１つしか使用できない。①：自分フィールドに魔法・罠カードが存在しない場合に発動できる。このカードを手札から特殊召喚する。②：自分フィールドに「彼岸」モンスター以外のモンスターが存在する場合にこのカードは破壊される。③：このカードが墓地へ送られた場合、フィールドのモンスター１体を対象として発動できる。そのモンスターをエンドフェイズまで除外する。",
+  "defense_power": "1900",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/09/19",
+  "species_id": 3,
+  "starchip": "3"
+}

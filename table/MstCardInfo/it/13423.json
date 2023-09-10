@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13423,
+  "card_name": "Prigione di Fuoco",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Tutti i mostri Drago sul Terreno guadagnano 300 DEF. Se sul Terreno c'è un qualsiasi Mostro Link, nessun giocatore può Evocare Link un Mostro Link con una Classificazione Link inferiore alla Classificazione Link più alta sul Terreno. I mostri non possono attaccare, eccetto i Mostri Link. Applica i seguenti effetti mentre sul Terreno ci sono 2 o più Mostri Link Cyberso.$N●Annulla gli effetti attivati dei mostri Cyberso.$N●I mostri Cyberso non possono attaccare, non possono essere scelti come bersaglio per gli attacchi e non possono essere scelti come bersaglio con gli effetti delle carte.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/02/01",
+  "species_id": 24,
+  "starchip": "0"
+}

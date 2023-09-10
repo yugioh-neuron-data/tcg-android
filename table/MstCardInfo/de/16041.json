@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 16041,
+  "card_name": "Fukubiki",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Jeder Spieler mischt sein Deck und gräbt die oberste Karte seines Decks aus. Füge die ausgegrabene Karte mit den höheren ATK der Hand des Spielers hinzu, zusätzlich lege die Karte mit den niedrigeren ATK auf den Friedhof des Spielers. (Zauber/Fallen und Monster mit ? ATK werden als 0 behandelt.) Bei Gleichstand lege die Karten unter die Decks.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/06/03",
+  "species_id": 25,
+  "starchip": "0"
+}

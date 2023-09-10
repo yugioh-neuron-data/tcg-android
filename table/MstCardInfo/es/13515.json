@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13515,
+  "card_name": "Combate en Jaula Gouki",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando esta carta es activada: pon 3 Contadores en esta carta. Si tu monstruo \"Gouki\" destruye un monstruo del adversario en batalla: retira 1 Contador de esta carta. Una vez por turno, al final de la Battle Phase, si el último de estos Contadores ha sido retirado de este modo: puedes Invocar de Modo Especial tantos monstruos \"Gouki\" con nombres diferentes como sea posible, desde tu mano y/o Deck, y después pon 3 Contadores en esta carta.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/04/04",
+  "species_id": 24,
+  "starchip": "0"
+}

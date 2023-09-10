@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 5,
+  "card_id": 9451,
+  "card_name": "El Temerario de Shien",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando esta carta es Invocada de Modo Normal: pon 1 Contador de Bushido en ella (max. 1). Esta carta gana 300 ATK mientras tenga un Contador de Bushido en ella. Una vez por turno: puedes seleccionar 1 carta boca arriba en el Campo a la que le puedas poner un Contador de Bushido; retira 1 Contador de Bushido en esta carta, y después ponlo en ese objetivo.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/02/10",
+  "species_id": 15,
+  "starchip": "4"
+}

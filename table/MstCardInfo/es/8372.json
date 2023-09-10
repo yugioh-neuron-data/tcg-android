@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 5,
+  "card_id": 8372,
+  "card_name": "Brazo Armado Koa'ki Meiru",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante cada una de tus End Phases, destruye esta carta a menos que mandes 1 \"Núcleo de Hierro de Koa'ki Meiru\" desde tu mano al Cementerio o muestres 1 monstruo de Tipo Guerrero en tu mano. Una vez por turno: puedes seleccionar 1 monstruo de Tipo Guerrero de Nivel 3 o menor en tu Cementerio; equipa ese objetivo a esta carta. Esta carta gana ATK igual a la mitad del ATK combinado de los monstruos equipados a ella por este efecto. Si esta carta fuera a ser destruida en batalla, destruye todos los monstruos equipados a ella por este efecto en su lugar.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/06/04",
+  "species_id": 15,
+  "starchip": "4"
+}

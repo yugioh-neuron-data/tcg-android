@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 2,
+  "card_id": 13915,
+  "card_name": "失楽の魔女",
+  "card_name_label": "しつらくのまじょ",
+  "card_name_search": "しつらくのまじょ",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚に成功した時に発動できる。デッキから「禁じられた」速攻魔法カード１枚を手札に加える。②：相手メインフェイズに、このカードをリリースして発動できる。デッキから「失楽の魔女」以外の天使族・レベル４モンスター１体を特殊召喚する。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/07/14",
+  "species_id": 17,
+  "starchip": "4"
+}

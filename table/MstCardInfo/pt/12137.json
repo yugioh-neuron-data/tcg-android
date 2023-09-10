@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 3,
+  "card_id": 12137,
+  "card_name": "Dinonévoa Rex",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Uma vez, enquanto este card estiver na sua Zona de Pêndulo, você pode negar um efeito de card ativado que escolhe como alvo outro(s) card(s) \"Dinonévoa\" que você controla e, depois, destrua este card.",
+  "card_text": "Se este card atacar, no final da Etapa de Dano: você pode oferecer como Tributo 1 outro monstro \"Dinonévoa\" e, depois, ativar 1 desses efeitos;$N●Este card pode atacar um monstro do oponente novamente em seguida e, se ele atacar um monstro em Posição de Defesa, cause dano de batalha perfurante ao seu oponente.$N●Embaralhe no Deck 1 card da mão do seu oponente (aleatório) ou do lado do campo dele e, depois, este card ganha 100 de ATK.",
+  "defense_power": "2200",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "6",
+  "pen_scale_r": "6",
+  "sales_at": "2016/01/15",
+  "species_id": 7,
+  "starchip": "5"
+}

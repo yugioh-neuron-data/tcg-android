@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 1,
+  "card_id": 5067,
+  "card_name": "Guerreiro Foguete",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante sua Fase de Batalha, este card não pode ser destruído em batalha e, além disso, você não sofre dano das batalhas envolvendo este card. Se este card atacar um monstro, depois do cálculo de dano: o alvo desse ataque perde 500 de ATK até o final deste turno.",
+  "defense_power": "1300",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/10/11",
+  "species_id": 15,
+  "starchip": "4"
+}

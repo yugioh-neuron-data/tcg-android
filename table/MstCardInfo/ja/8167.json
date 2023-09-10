@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 1,
+  "card_id": 8167,
+  "card_name": "D・ビデオン",
+  "card_name_label": "ディフォーマー・ビデオン",
+  "card_name_search": "でぃふぉーまーびでおん",
+  "card_pen_effect": "",
+  "card_text": "このカードはこのカードの表示形式によって以下の効果を得る。●攻撃表示：このカードの攻撃力はこのカードに装備された装備カードの数×８００ポイントアップする。●守備表示：このカードの守備力はこのカードに装備された装備カードの数×８００ポイントアップする。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/02/14",
+  "species_id": 7,
+  "starchip": "4"
+}

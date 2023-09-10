@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 2,
+  "card_id": 14784,
+  "card_name": "브루트엔포서",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "효과 몬스터 2장$N이 카드명의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 패를 1장 버리고, 상대 필드의 앞면 표시의 카드 1장을 대상으로 하여 발동할 수 있다. 상대는 그 앞면 표시의 카드와 원래의 종류(몬스터 / 마법 / 함정)가 같은 카드 1장을 패에서 버리고 이 효과를 무효로 할 수 있다. 버리지 않았을 경우, 대상의 앞면 표시의 카드를 파괴한다.",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "13",
+  "linkno": "2",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/11/27",
+  "species_id": 27,
+  "starchip": ""
+}

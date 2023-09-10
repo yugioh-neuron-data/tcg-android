@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 16835,
+  "card_name": "Hacker Maluco",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se um ou mais monstros forem Invocados por Invocação-Especial no campo do seu oponente (exceto durante a Etapa de Dano): você pode Invocar este card por Invocação-Especial da sua mão. Durante a Fase Final: você pode banir este card que você controla; tome o controle de 1 monstro que seu oponente controla com o menor ATK (em caso de empate, você seleciona), mas enquanto ele estiver com a face para cima no seu campo, ele não pode ativar seus efeitos e, além disso, você não pode Invocar monstros por Invocação-Especial do Deck Adicional, exceto Monstros Link. Você só pode usar cada efeito de \"Hacker Maluco\" uma vez por turno.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/02/10",
+  "species_id": 27,
+  "starchip": "2"
+}

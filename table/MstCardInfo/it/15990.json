@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 3,
+  "card_id": 15990,
+  "card_name": "Yamorimori",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Puoi bandire questa carta dal tuo Cimitero, poi scegliere come bersaglio 1 mostro Rettile che controlli e 1 mostro scoperto controllato dal tuo avversario, per attivare 1 di questi effetti;$N●Metti quei mostri coperti in Posizione di Difesa.$N●Distruggi quel mostro che controlli e, se lo fai, cambia l'ATK dell'altro mostro a 0 fino alla fine di questo turno.$NPuoi utilizzare questo effetto di \"Yamorimori\" una sola volta per turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/06/03",
+  "species_id": 20,
+  "starchip": "2"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2100",
+  "attribute_id": 4,
+  "card_id": 11628,
+  "card_name": "Guerrier à Réaction",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"Avion à Réaction Synchronique\" + 1 monstre non-Syntoniseur ou plus$NSi cette carte est Invoquée par Synchronisation : vous pouvez cibler 1 carte contrôlée par votre adversaire ; renvoyez-la à la main. Si cette carte est dans votre Cimetière : vous pouvez Sacrifier 1 monstre de max. Niveau 2 ; Invoquez Spécialement cette carte en Position de Défense, mais bannissez-la lorsqu'elle quitte le Terrain. Vous ne pouvez utiliser chaque effet de \"Guerrier à Réaction\" qu'une fois par tour.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/08/27",
+  "species_id": 15,
+  "starchip": "5"
+}

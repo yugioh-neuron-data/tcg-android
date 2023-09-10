@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 1,
+  "card_id": 16198,
+  "card_name": "Âmépée - L'Iris",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durant la Main Phase, si un monstre, dont les effets sont annulés, est sur le Terrain (Effet Rapide) : vous pouvez Invoquer Spécialement cette carte depuis votre main. Si votre adversaire Invoque Spécialement un ou plusieurs monstres (sauf durant la Damage Step) : vous pouvez activer 1 de ces effets selon d'où ils ont été Invoqués Spécialement ;$N●Main : Invoquez Spécialement 1 monstre depuis votre main.$N●Deck : Piochez 2 cartes.$N●Extra Deck : Détruisez 1 de ces monstres Invoqués Spécialement depuis l'Extra Deck.$NVous ne pouvez utiliser chaque effet de \"Âmépée - L'Iris\" qu'une fois par tour.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/08/12",
+  "species_id": 18,
+  "starchip": "8"
+}

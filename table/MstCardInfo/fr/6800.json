@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 1,
+  "card_id": 6800,
+  "card_name": "Alien Gris",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "FLIP : Placez 1 Compteur-A sur 1 monstre face recto sur le Terrain de votre adversaire. (Si un monstre avec un Compteur-A combat un monstre qui inclut \"Alien\" dans son nom de carte, diminuez son ATK et sa DEF de 300 points pour chaque Compteur-A, durant le calcul des dommages uniquement.) Après l'Invocation Flip de cette carte, lorsqu'elle est détruite à l'issue d'un combat et envoyée au Cimetière, piochez 1 carte de votre Deck.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 24,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/08/05",
+  "species_id": 20,
+  "starchip": "2"
+}

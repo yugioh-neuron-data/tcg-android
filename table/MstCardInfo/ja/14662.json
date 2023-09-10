@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 14662,
+  "card_name": "天威の龍鬼神",
+  "card_name_label": "てんいのりゅうきしん",
+  "card_name_search": "てんいのりゅうきしん",
+  "card_pen_effect": "",
+  "card_text": "チューナー＋チューナー以外のモンスター１体以上$Nこのカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。$N①：相手がモンスターの効果を発動した時に発動できる。そのモンスターを除外する。$N②：このカードの攻撃で効果モンスターを破壊し墓地へ送った場合に発動する。このカードの攻撃力は破壊したモンスターの元々の攻撃力分アップする。このバトルフェイズ中、このカードはもう１度だけモンスターに攻撃できる。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/07/13",
+  "species_id": 26,
+  "starchip": "8"
+}

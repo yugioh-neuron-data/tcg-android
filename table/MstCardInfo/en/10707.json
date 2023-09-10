@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 10707,
+  "card_name": "Number 85: Crazy Box",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 Level 4 monsters$NThis card cannot attack. Once per turn: You can detach 1 Xyz Material from this card; roll a six-sided die and apply the result.$N1: Halve your Life Points.$N2: Draw 1 card.$N3: Your opponent discards 1 card.$N4: Negate the effects of 1 face-up card on the field until the end of this turn.$N5: Destroy 1 card on the field.$N6: Destroy this card.",
+  "defense_power": "300",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/07/12",
+  "species_id": 3,
+  "starchip": "4"
+}

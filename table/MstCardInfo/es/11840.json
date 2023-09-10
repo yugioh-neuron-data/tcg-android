@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11840,
+  "card_name": "Fusión Brillante",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando esta carta es activada: Invoca por Fusión, desde tu Deck Extra, 1 Monstruo de Fusión \"Caballero-Gema\", usando monstruos en tu Deck como Material de Fusión, pero cambia su ATK/DEF a 0. Si esta carta deja el Campo, destruye ese monstruo. Una vez por turno: puedes descartar 1 Mágica; hasta el final del turno de tu adversario, el monstruo Invocado de Modo Especial por el efecto de esta carta gana ATK/DEF iguales a su ATK/DEF originales. Sólo puedes activar 1 \"Fusión Brillante\" por turno.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/08/06",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 4,
+  "card_id": 7085,
+  "card_name": "Feu Grégois Volcanique",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Ni Invocable Normalement ni Posable Normalement. Doit d'abord être Invoquée Spécialement (depuis votre main) en envoyant 1 \"Accélérateur Tri-Flammes\" que vous contrôlez au Cimetière. Durant la Battle Phase de votre adversaire, tous les monstres en Position d'Attaque contrôlés par votre adversaire qui peuvent attaquer doivent attaquer cette carte. Si cette carte détruit un monstre au combat et l'envoie au Cimetière : détruisez autant de monstres contrôlés par votre adversaire que possible, et si vous le faites, infligez 500 points de dommages à votre adversaire pour chaque monstre détruit par cet effet.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/05/05",
+  "species_id": 4,
+  "starchip": "8"
+}

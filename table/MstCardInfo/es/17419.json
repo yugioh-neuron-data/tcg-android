@@ -1,0 +1,23 @@
+{
+  "attack_power": "900",
+  "attribute_id": 5,
+  "card_id": 17419,
+  "card_name": "Vernusilf de los Bosques Despertando",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Puedes descartar esta carta, y 1 monstruo o carta \"Vernusilf\"; manda al Cementerio 1 monstruo de TIERRA en tu Deck, que pueda ser Invocado de Modo Normal/Colocado, y después puedes Invocar de Modo Especial 1 monstruo de TIERRA desde tu Cementerio, con un nombre diferente al de ese monstruo, y además no puedes activar efectos de monstruos que no sean de TIERRA por el resto de este turno. Puedes seleccionar 1 monstruo \"Vernusilf\" que controles; su ATK se duplica hasta el final de este turno. Sólo puedes usar cada efecto de \"Vernusilf de los Bosques Despertando\" una vez por turno.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/08/04",
+  "species_id": 17,
+  "starchip": "4"
+}

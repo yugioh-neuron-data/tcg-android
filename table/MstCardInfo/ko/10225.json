@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 4,
+  "card_id": 10225,
+  "card_name": "아차차 찬바라",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "라이프 포인트에 데미지를 주는 마법 / 함정 / 효과 몬스터의 효과가 발동했을 때에 발동할 수 있다. 이 카드를 패에서 특수 소환하고, 상대 라이프에 400 포인트 데미지를 준다.",
+  "defense_power": "400",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/10/09",
+  "species_id": 15,
+  "starchip": "3"
+}

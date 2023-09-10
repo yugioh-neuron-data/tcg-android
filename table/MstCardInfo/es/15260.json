@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 2,
+  "card_id": 15260,
+  "card_name": "Maquinaria Resavengadora",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "(Efecto Rápido): puedes mandar al Cementerio esta carta en tu mano o Campo, y después seleccionar 1 monstruo \"Maquinaria\" que controles; hasta el final de este turno, éste gana 1200 ATK. Cuando tu monstruo \"Maquinaria\" destruye un monstruo del adversario en batalla, mientras esta carta está en tu Cementerio: puedes añadir a tu mano esta carta. Sólo puedes usar cada efecto de \"Maquinaria Resavengadora\" una vez por turno.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/07/02",
+  "species_id": 7,
+  "starchip": "4"
+}

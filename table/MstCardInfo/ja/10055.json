@@ -1,0 +1,23 @@
+{
+  "attack_power": "2300",
+  "attribute_id": 1,
+  "card_id": 10055,
+  "card_name": "ライトレイ ソーサラー",
+  "card_name_label": "ライトレイ　ソーサラー",
+  "card_name_search": "らいとれいそーさらー",
+  "card_pen_effect": "",
+  "card_text": "このカードは通常召喚できない。ゲームから除外されている自分の光属性モンスターが３体以上の場合のみ特殊召喚できる。１ターンに１度、ゲームから除外されている自分の光属性モンスター１体を選択してデッキに戻し、フィールド上に表側表示で存在するモンスター１体を選択してゲームから除外できる。この効果を発動するターン、このカードは攻撃できない。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/02/18",
+  "species_id": 18,
+  "starchip": "6"
+}

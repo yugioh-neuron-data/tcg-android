@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 1,
+  "card_id": 17258,
+  "card_name": "Künstlerkumpel Überragender Duellant",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Einmal pro Spielzug, am Beginn des Damage Steps, falls ein Monster gegen ein Monster kämpft: Du kannst diese Karte auf die Hand zurückgeben und falls du dies tust, verbanne 1 Zauber von deinem Deck. Für jenen Kampf kann dein Monster nicht zerstört werden, zusätzlich wird der Kampfschaden halbiert, den du erhältst.",
+  "card_text": "Wenn diese Karte deinem Gegner Kampfschaden zufügt: Du kannst deiner Hand 1 „Oberster König Drache“-Monster, „Oberster König Tor“-Monster oder „Seele des Obersten Königs“ von deinem Deck hinzufügen. Einmal pro Spielzug, während der Standby Phase: Aktiviere diesen Effekt; jeder Spieler kann 1 Zauber von seinem Deck verbannen. Einmal pro Spielzug, wenn ein Monster einen Angriff deklariert: Aktiviere diesen Effekt; der angegriffene Spieler kann den folgenden Effekt ausführen.$N●Füge deiner Hand 1 deiner verbannten Zauber hinzu, dann wirf ihn ab und falls du dies tust, annulliere jenen Angriff.",
+  "defense_power": "400",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "8",
+  "pen_scale_r": "8",
+  "sales_at": "2023/03/09",
+  "species_id": 18,
+  "starchip": "4"
+}

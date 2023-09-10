@@ -1,0 +1,776 @@
+[
+  {
+    "card_count": 1,
+    "card_id": 7365,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR001",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7366,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR002",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7367,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR040",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7368,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR041",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7369,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR025",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7370,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR032",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7406,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR003",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 7406,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR003",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 7407,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR004",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7408,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR005",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7409,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR006",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7410,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR007",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 7411,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR008",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 7411,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR008",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 7412,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR009",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7413,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR010",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 7414,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR011",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7415,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR012",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 7416,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR014",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7417,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR015",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7418,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR016",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 7418,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR016",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 7419,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR017",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 7420,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR018",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 7421,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR019",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 7422,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR020",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7423,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR021",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 7424,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR022",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7425,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR023",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7426,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR024",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7427,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR026",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7428,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR027",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 7429,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR028",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7430,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR029",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 7431,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR030",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 7432,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR031",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7433,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR033",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7434,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR034",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7435,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR035",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7436,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR036",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 7437,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR037",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7438,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR038",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 7439,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR039",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7441,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR042",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7442,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR043",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 7442,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR043",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 7443,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR044",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 7443,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR044",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 7443,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR044",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 7
+  },
+  {
+    "card_count": 1,
+    "card_id": 7444,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR045",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 7445,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR046",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 7446,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR047",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 7447,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR048",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7448,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR049",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 7449,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR050",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7450,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR051",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7451,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR052",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7452,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR053",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 7453,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR054",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 7454,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR055",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7455,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR056",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7456,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR057",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7457,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR058",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7458,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR059",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7459,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR060",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7460,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR061",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7461,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR062",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7462,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR063",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7463,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR064",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 7464,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR065",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7465,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR066",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 7466,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR067",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7467,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR068",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7468,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR069",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 7469,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR070",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 7470,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR071",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7471,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR072",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7472,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR073",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7473,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR074",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 7474,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR075",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7475,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR076",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7476,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR077",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7477,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR078",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 7478,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR079",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7479,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR080",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7490,
+    "card_image_id": 1,
+    "card_number": "PTDN-KR013",
+    "language": "ko",
+    "pack_id": "71106001",
+    "rarity_id": 2
+  }
+]

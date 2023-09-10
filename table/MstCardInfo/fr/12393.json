@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 4,
+  "card_id": 12393,
+  "card_name": "Dinde Douce",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Une fois par tour : vous pouvez lancer un dé à six faces. Jusqu'à la fin de ce tour, réduisez l'Échelle Pendule de cette carte de ce numéro (min. 1).",
+  "card_text": "Le goût de la victoire vous fera tomber par terre.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 25,
+  "pen_scale_l": "7",
+  "pen_scale_r": "7",
+  "sales_at": "2017/05/04",
+  "species_id": 16,
+  "starchip": "4"
+}

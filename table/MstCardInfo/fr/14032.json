@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 14032,
+  "card_name": "Plan Farce-Gamins",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durant la Main Phase : vous pouvez activer cet effet ; immédiatement après la résolution de cet effet, Invoquez par Lien 1 Monstre Lien \"Farce-Gamins\" en utilisant des monstres \"Farce-Gamins\" que vous contrôlez comme Matériel. Lorsqu'un monstre de l'adversaire déclare une attaque : vous pouvez bannir cette carte depuis votre Cimetière ; mélangez un nombre de votre choix de cartes \"Farce-Gamins\" depuis votre Cimetière dans le Deck, et si vous le faites, le monstre attaquant perd 100 ATK pour chaque carte mélangée, jusqu'à la fin de ce tour. Vous ne pouvez utiliser chaque effet de \"Plan Farce-Gamins\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/11/15",
+  "species_id": 25,
+  "starchip": "0"
+}

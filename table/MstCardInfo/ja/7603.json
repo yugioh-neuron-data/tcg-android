@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 1,
+  "card_id": 7603,
+  "card_name": "充電池メン",
+  "card_name_label": "じゅうでんちメン",
+  "card_name_search": "じゅうでんちめん",
+  "card_pen_effect": "",
+  "card_text": "このカードが召喚に成功した時、手札・デッキから「充電池メン」以外の「電池メン」と名のついたモンスター１体を特殊召喚できる。このカードの攻撃力・守備力は、自分フィールド上の雷族モンスターの数×３００ポイントアップする。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/02/23",
+  "species_id": 19,
+  "starchip": "5"
+}

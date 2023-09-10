@@ -1,0 +1,23 @@
+{
+  "attack_power": "2600",
+  "attribute_id": 1,
+  "card_id": 11081,
+  "card_name": "武神姫－アマテラス",
+  "card_name_label": "ぶじんき－アマテラス",
+  "card_name_search": "ぶじんきあまてらす",
+  "card_pen_effect": "",
+  "card_text": "レベル４モンスター×３$N①：「武神姫－アマテラス」は自分フィールドに１体しか表側表示で存在できない。②：自分・相手ターンに１度、このカードのX素材を１つ取り除き、除外されている自分のレベル４以下のモンスター１体を対象として発動できる。発動ターンによって以下の効果を適用する。$N●自分ターン：対象のモンスターを特殊召喚する。$N●相手ターン：対象のモンスターを手札に加える。",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/02/15",
+  "species_id": 12,
+  "starchip": "4"
+}

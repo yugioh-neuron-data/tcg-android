@@ -1,0 +1,23 @@
+{
+  "attack_power": "5000",
+  "attribute_id": 2,
+  "card_id": 9042,
+  "card_name": "Dragão da Verdade Perniciosa",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Não pode ser Invocado por Invocação-Normal/Baixado. Deve ser Invocado por Invocação-Especial por seu próprio efeito e não pode ser Invocado por Invocação-Especial de nenhuma outra forma. Se um monstro \"Pernicioso(a)\" que você controla, exceto \"Dragão da Verdade Perniciosa\", for destruído em batalha ou por um efeito de card: você pode pagar metade dos seus Pontos de Vida; Invoque este card por Invocação-Especial da sua mão ou Cemitério. Só pode haver 1 monstro \"Pernicioso(a)\" no campo. Se não houver nenhum Card de Magia de Campo com a face para cima no campo, destrua este card. Se este card destruir um monstro do oponente em batalha: destrua todos os monstros com a face para cima que seu oponente controla.",
+  "defense_power": "5000",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/02/21",
+  "species_id": 1,
+  "starchip": "12"
+}

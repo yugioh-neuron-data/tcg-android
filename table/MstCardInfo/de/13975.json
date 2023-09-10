@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 13975,
+  "card_name": "Chaos-Imperator, der Drache des Armageddon",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Du kannst 1000 LP zahlen und dann 1 deiner verbannten Drache-Monster wählen; zerstöre diese Karte und falls du dies tust, füge das Monster deiner Hand hinzu. Du kannst diesen Effekt von „Chaos-Imperator, der Drache des Armageddon“ nur einmal pro Spielzug verwenden.",
+  "card_text": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand oder deinem Extra Deck) beschworen werden, indem du 1 LICHT und 1 FINSTERNIS Monster von deinem Friedhof verbannst. Du kannst „Chaos-Imperator, der Drache des Armageddon“ nur einmal pro Spielzug auf diese Art als Spezialbeschwörung beschwören. Einmal pro Spielzug: Du kannst die Hälfte deiner LP zahlen; lege so viele Karten, die du kontrollierst, wie möglich auf den Friedhof, außer von der Extra-Monsterzone, und falls du dies tust, lege Karten, die dein Gegner kontrolliert, bis zur Anzahl deiner auf den Friedhof gelegten Karten auf den Friedhof, dann füge deinem Gegner für jede Karte, die durch den Effekt dieser Karte auf seinen Friedhof gelegt wurde, 300 Schaden zu. Falls diese offene als Spezialbeschwörung beschworene Karte das Spielfeld verlässt, lege sie unters Deck zurück.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 40,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2020/07/23",
+  "species_id": 1,
+  "starchip": "8"
+}

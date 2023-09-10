@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 1,
+  "card_id": 13315,
+  "card_name": "Magico Moschettiere Caspar",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante il turno di qualsiasi giocatore, puoi attivare le Carte Magia/Trappola \"Magico Moschet\" dalla tua mano. Se viene attivata una Carta Magia/Trappola nella colonna di questa carta (eccetto durante il Damage Step): puoi aggiungere 1 carta \"Magico Moschet\" dal tuo Deck alla tua mano, ma non una carta con lo stesso nome di quella carta attivata. Puoi utilizzare questo effetto di \"Magico Moschettiere Caspar\" una sola volta per turno.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/11/16",
+  "species_id": 3,
+  "starchip": "3"
+}

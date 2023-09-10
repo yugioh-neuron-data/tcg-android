@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14865,
+  "card_name": "Saga des Guerriers Anciens - L'Alliance de Sun-Liu",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si vous contrôlez des monstres \"Guerriers Anciens\" avec min. 2 Attributs différents : vous pouvez déclarer 1 Attribut ; jusqu'à la fin de ce tour (même si cette carte quitte le Terrain), votre adversaire ne peut pas activer les effets de monstres de cet Attribut qu'il contrôle actuellement. Si votre adversaire Invoque Spécialement un ou plusieurs monstres, ou vous activez un effet de monstre \"Guerriers Anciens\" (sauf durant la Damage Step) : jusqu'à la fin de ce tour (même si cette carte quitte le Terrain), vous pouvez faire gagner 300 ATK à tous les monstres \"Guerriers Anciens\" que vous contrôlez pour chaque monstre \"Guerriers Anciens\" que vous contrôlez. Vous ne pouvez utiliser chaque effet de \"Saga des Guerriers Anciens - L'Alliance de Sun-Liu\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/01/30",
+  "species_id": 24,
+  "starchip": "0"
+}

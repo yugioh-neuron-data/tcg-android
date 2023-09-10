@@ -1,0 +1,23 @@
+{
+  "attack_power": "-1",
+  "attribute_id": 2,
+  "card_id": 12671,
+  "card_name": "Geh le Serpent Divin",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Ni Invocable Normalement ni Posable Normalement. Uniquement Invocable Spécialement par son propre effet. Si un ou plusieurs monstres que vous contrôlez sont détruits par une attaque ou effet de carte de l'adversaire : vous pouvez payer la moitié de vos LP ; Invoquez Spécialement cette carte depuis votre main. Non ciblable par des effets de carte. Si cette carte attaque un monstre de l'adversaire, durant la Damage Step uniquement, annulez les effets du monstre tant qu'il est face recto sur le Terrain (mais ses effets peuvent toujours être activés), et aussi, son ATK devient la moitié de son ATK d'origine. Une fois par combat, si cette carte combat, durant le calcul des dommages (Effet Rapide) : vous pouvez faire devenir l'ATK de cette carte égale à la plus haute ATK d'origine sur le Terrain (en cas d'égalité, vous choisissez).",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/07/26",
+  "species_id": 20,
+  "starchip": "12"
+}

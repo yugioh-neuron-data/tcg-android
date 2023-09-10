@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 1,
+  "card_id": 11262,
+  "card_name": "星輝士 デルタテロス",
+  "card_name_label": "ステラナイト　デルタテロス",
+  "card_name_search": "すてらないとでるたてろす",
+  "card_pen_effect": "",
+  "card_text": "レベル４モンスター×３$N①：X素材を持ったこのカードがモンスターゾーンに存在する限り、自分がモンスターの召喚・特殊召喚に成功した時には、相手は魔法・罠・モンスターの効果を発動できない。②：１ターンに１度、このカードのX素材を１つ取り除き、フィールドのカード１枚を対象として発動できる。そのカードを破壊する。③：このカードがフィールドから墓地へ送られた場合に発動できる。手札・デッキから「テラナイト」モンスター１体を特殊召喚する。",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/04/19",
+  "species_id": 15,
+  "starchip": "4"
+}

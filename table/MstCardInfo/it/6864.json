@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 6864,
+  "card_name": "Cimitero delle Anime Erranti",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se questa carta è già scoperta sul Terreno:$N●Se un mostro che controlli viene distrutto in battaglia e mandato al Cimitero: Evoca Specialmente 1 \"Segna-Palla di Fuoco\" (Pyro/FUOCO/Livello 1/ATK 100/DEF 100).$N●Se uno o più mostri nella tua mano e/o Terreno vengono mandati al Cimitero dall'effetto di una carta dell'avversario: Evoca Specialmente tanti \"Segna-Palla di Fuoco\" quanti possibile, fino al numero di mostri mandati. Puoi utilizzare questo effetto di \"Cimitero delle Anime Erranti\" una sola volta per turno.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/03/19",
+  "species_id": 25,
+  "starchip": "0"
+}

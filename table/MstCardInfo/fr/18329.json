@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 18329,
+  "card_name": "Ombre du Mur du Labyrinthe",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Les monstres (monstres dont le Niveau d'origine est min. 5 exclus) ne peuvent pas attaquer le tour où ils sont Invoqués. Une fois par tour, durant votre Main Phase : vous pouvez placer 1 de vos \"Sanga du Tonnerre\", \"Kazejin\" ou \"Suijin\" qui est banni, ou dans votre main ou Deck, face recto dans votre Zone Magie & Piège comme Magie Continue. Au début de la Battle Phase de votre adversaire : vous pouvez cibler 1 monstre contrôlé par votre adversaire avec moins de 1600 ATK ; détruisez-le.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/03/09",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 2,
+  "card_id": 12155,
+  "card_name": "覚醒の魔導剣士",
+  "card_name_label": "エンライトメント・パラディン",
+  "card_name_search": "えんらいとめんとぱらでぃん",
+  "card_pen_effect": "",
+  "card_text": "チューナー＋チューナー以外のモンスター１体以上$N「覚醒の魔導剣士」の①の効果は１ターンに１度しか使用できない。①：「魔術師」Pモンスターを素材としてこのカードがS召喚に成功した場合、自分の墓地の魔法カード１枚を対象として発動できる。そのカードを手札に加える。②：このカードが戦闘で相手モンスターを破壊した時に発動できる。そのモンスターの元々の攻撃力分のダメージを相手に与える。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/10/17",
+  "species_id": 18,
+  "starchip": "8"
+}

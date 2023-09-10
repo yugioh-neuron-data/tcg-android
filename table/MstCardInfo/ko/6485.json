@@ -1,0 +1,23 @@
+{
+  "attack_power": "2100",
+  "attribute_id": 5,
+  "card_id": 6485,
+  "card_name": "사이버 블레이더",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"에뜨와르 사이버\" ＋ \"블레이드 스케이터\"$N이 카드의 융합 소환은 상기의 카드로밖에 실행할 수 없다. ①: 상대 필드의 몬스터 수에 따라서, 이 카드는 이하의 효과를 얻는다.$N●1장: 이 카드는 전투로는 파괴되지 않는다.$N●2장: 이 카드의 공격력은 배가 된다.$N●3장: 상대가 발동한 카드의 효과는 무효화된다.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/05/17",
+  "species_id": 15,
+  "starchip": "7"
+}

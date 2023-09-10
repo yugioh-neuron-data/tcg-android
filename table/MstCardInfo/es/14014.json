@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 4,
+  "card_id": 14014,
+  "card_name": "Fénix Sagrado Cerúleo de Nephtys",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Puedes Invocar esta carta por Ritual con \"Renacer de Nephtys\". Sólo puedes usar cada uno de los siguientes efectos de \"Fénix Sagrado Cerúleo de Nephtys\" una vez por turno.$N●Durante tu Main Phase: puedes destruir cartas \"Nephtys\" en tu mano y/o Campo boca arriba, y después destruye el mismo número de monstruos que controle tu adversario.$N●Durante tu próxima Standby Phase después de que esta carta fue destruida en batalla o por efecto de una carta y mandada al Cementerio: puedes Invocar esta carta de Modo Especial desde el Cementerio.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 5,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/11/15",
+  "species_id": 16,
+  "starchip": "8"
+}

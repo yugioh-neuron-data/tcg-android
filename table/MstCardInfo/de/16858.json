@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16858,
+  "card_name": "Markierter Jünger",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wenn ein Monstereffekt aufgelöst wird, den dein Gegner aktiviert hat, solange du ein Unterweltler-Fusionsmonster der Stufe 8 oder höher mit 0 ATK oder DEF kontrollierst, kannst du den aktivierten Effekt annullieren. Am Ende des Damage Steps, falls Monster mit 0 ATK gegeneinander gekämpft haben: Du kannst das kämpfende Monster deines Gegners zerstören. Du kannst jeden Effekt von „Markierter Jünger“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/02/10",
+  "species_id": 24,
+  "starchip": "0"
+}

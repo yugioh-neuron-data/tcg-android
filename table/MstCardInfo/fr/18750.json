@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 18750,
+  "card_name": "Recette Spéciale du Chef",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsqu'une Carte Magie/Piège ou un effet de monstre est activé tant que vous contrôlez un Monstre Rituel \"Nouvelles\" : annulez l'activation, puis vous pouvez détruire la carte si vous contrôlez un monstre qui a été Invoqué Spécialement par l'effet d'un monstre \"Nouvelles\". Si vous Invoquez Spécialement \"Burger Affamé\" : vous pouvez bannir cette carte depuis votre Cimetière ; Sacrifiez autant de monstres contrôlés par votre adversaire que possible. Vous ne pouvez utiliser chaque effet de \"Recette Spéciale du Chef\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 1,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/06/01",
+  "species_id": 25,
+  "starchip": "0"
+}

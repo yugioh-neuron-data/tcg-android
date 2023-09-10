@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 2,
+  "card_id": 12899,
+  "card_name": "Noyau Diabound",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsque cette carte déclare une attaque : elle gagne 600 ATK. (Effet Rapide) : vous pouvez cibler 1 monstre face recto contrôlé par votre adversaire ; il perd une ATK égale à l'ATK actuelle de cette carte jusqu'à la fin de ce tour, puis bannissez cette carte jusqu'à la Standby Phase du prochain tour. Vous ne pouvez utiliser cet effet de \"Noyau Diabound\" qu'une fois par tour.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/03/30",
+  "species_id": 3,
+  "starchip": "5"
+}

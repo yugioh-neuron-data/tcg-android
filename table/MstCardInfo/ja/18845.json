@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 18845,
+  "card_name": "EMERGENCY！",
+  "card_name_label": "エマージェンシー！",
+  "card_name_search": "えまーじぇんしー",
+  "card_pen_effect": "",
+  "card_text": "このカード名はルール上「R－ACE」カードとしても扱う。$Nこのカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。$N①：デッキから「R－ACE」モンスター１体を守備表示で特殊召喚する。その後、自分の手札・フィールドから「R－ACE」モンスター１体をリリースする。$N②：自分メインフェイズに墓地のこのカードを除外し、自分の墓地の「R－ACE」罠カード１枚を対象として発動できる。そのカードを自分フィールドにセットする。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/04/22",
+  "species_id": 24,
+  "starchip": "0"
+}

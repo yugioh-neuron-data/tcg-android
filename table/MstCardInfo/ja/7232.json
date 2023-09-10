@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 7232,
+  "card_name": "マジック・キャプチャー",
+  "card_name_label": "マジック・キャプチャー",
+  "card_name_search": "まじっくきゃぷちゃー",
+  "card_pen_effect": "",
+  "card_text": "自分が魔法カードを発動した時、手札を１枚捨ててチェーン発動する。チェーン発動した魔法カードが墓地へ送られた時、そのカードを手札に戻す。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/05/12",
+  "species_id": 25,
+  "starchip": "0"
+}

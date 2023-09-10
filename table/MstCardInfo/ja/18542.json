@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 18542,
+  "card_name": "ダブル・フッキング",
+  "card_name_label": "ダブル・フッキング",
+  "card_name_search": "だぶるふっきんぐ",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：手札を１枚捨て、自分の墓地のモンスターを２体まで対象としてこのカードを発動できる。そのモンスターを特殊召喚する。対象のモンスターがフィールドから離れた時にこのカードは破壊される。このカードがフィールドから離れた時に対象のモンスターは破壊される。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/01/14",
+  "species_id": 25,
+  "starchip": "0"
+}

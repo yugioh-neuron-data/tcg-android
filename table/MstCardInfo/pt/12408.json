@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 2,
+  "card_id": 12408,
+  "card_name": "Mago Acrobata",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Quando um ou mais monstros que você controla forem destruídos por um efeito de card (exceto durante a Etapa de Dano): você pode Invocar este card por Invocação-Especial da sua Zona de Pêndulo. Você só pode usar este efeito de \"Mago Acrobata\" uma vez por turno.",
+  "card_text": "Se a ativação de um Card de Magia/Armadilha for negada (exceto durante a Etapa de Dano): você pode Invocar este card por Invocação-Especial da sua mão. Quando este card for destruído em batalha: você pode colocar este card na sua Zona de Pêndulo.",
+  "defense_power": "2300",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "2",
+  "pen_scale_r": "2",
+  "sales_at": "2016/08/04",
+  "species_id": 18,
+  "starchip": "5"
+}

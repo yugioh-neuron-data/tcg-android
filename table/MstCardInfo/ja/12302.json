@@ -1,0 +1,23 @@
+{
+  "attack_power": "2250",
+  "attribute_id": 5,
+  "card_id": 12302,
+  "card_name": "アモルファージ・ノーテス",
+  "card_name_label": "アモルファージ・ノーテス",
+  "card_name_search": "あもるふぁーじのーてす",
+  "card_pen_effect": "このカードのコントローラーは、自分スタンバイフェイズ毎に自分フィールドのモンスター１体をリリースする。またはリリースせずにこのカードを破壊する。①：自分フィールドに「アモルファージ」モンスターが存在する限り、お互いにドロー以外の方法でデッキからカードを手札に加える事はできない。",
+  "card_text": "①：このカードがモンスターゾーンに存在する限り、お互いに「アモルファージ」モンスターしかエクストラデッキから特殊召喚できない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2016/01/09",
+  "species_id": 1,
+  "starchip": "6"
+}

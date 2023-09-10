@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 13983,
+  "card_name": "미계역의 위험지대",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 자신은 덱에서 3장 드로우한다. 그 후, 패에서 \"미계역\" 카드 1장 이상을 포함하는 카드 2장을 버린다. 패에 \"미계역\" 카드가 없을 경우, 패를 전부 공개하고, 덱으로 되돌린다.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/12/17",
+  "species_id": 25,
+  "starchip": "0"
+}

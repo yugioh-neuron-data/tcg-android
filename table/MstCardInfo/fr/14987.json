@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 6,
+  "card_id": 14987,
+  "card_name": "eXceed Parallèle",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si cette carte est Invoquée Spécialement par l'effet de \"eXceed Parallèle\", son Niveau devient 4 et son ATK/DEF d'origine seront divisées par deux. Vous ne pouvez utiliser chacun des effets suivants de \"eXceed Parallèle\" qu'une fois par tour.$N●Si vous Invoquez par Lien : vous pouvez Invoquer Spécialement cette carte depuis votre main dans votre zone pointée par le Monstre Lien.$N●Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez Invoquer Spécialement 1 \"eXceed Parallèle\" depuis votre Deck.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/30",
+  "species_id": 27,
+  "starchip": "8"
+}

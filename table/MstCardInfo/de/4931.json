@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 4931,
+  "card_name": "Kotodama",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls sich offene Monster mit demselben Namen auf dem Spielfeld befinden, zerstöre die Monster. (Falls ein Monster beschworen oder aufgedeckt wird, das denselben Namen hat wie ein Monster, das bereits offen auf dem Spielfeld liegt, wird das neue offene Monster zerstört. Falls sie gleichzeitig beschworen oder aufgedeckt werden, werden sie alle zerstört.)",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/09/16",
+  "species_id": 17,
+  "starchip": "3"
+}

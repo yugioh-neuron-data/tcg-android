@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 6,
+  "card_id": 8434,
+  "card_name": "Soldado Géminis",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Esta carta se trata como un Monstruo Normal mientras esté boca arriba en el Campo o en el Cementerio. Mientras esta carta esté boca arriba en el Campo, puedes Invocarla de Modo Normal para que se la trate como un Monstruo de Efecto con el siguiente efecto:$N● Una vez por turno, si esta carta fuera a ser destruida en batalla, no es destruida. Si esta carta batalla, después del cálculo de daño puedes Invocar de Modo Especial, desde tu Deck, 1 monstruo Géminis de Nivel 4 o menor, excepto \"Soldado Géminis\".",
+  "defense_power": "300",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 9,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/10/22",
+  "species_id": 15,
+  "starchip": "2"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 6,
+  "card_id": 11621,
+  "card_name": "Guerreiro Apressado",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante o cálculo de dano, se um Monstro Sincro \"Guerreiro(a)\" que você controla batalhar um monstro do oponente (Efeito Rápido): você pode enviar este card da sua mão para o Cemitério; o ATK do seu monstro que está batalhando se torna o dobro do seu ATK atual apenas durante esse cálculo de dano. Você pode banir este card do seu Cemitério e, depois, escolha 1 monstro \"Sincron\" no seu Cemitério; adicione-o à sua mão. Você só pode usar cada efeito de \"Guerreiro Apressado\" uma vez por turno.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/08/27",
+  "species_id": 15,
+  "starchip": "2"
+}

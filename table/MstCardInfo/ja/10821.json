@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 10821,
+  "card_name": "ムーンダンスの儀式",
+  "card_name_label": "ムーンダンスのぎしき",
+  "card_name_search": "むーんだんすのぎしき",
+  "card_pen_effect": "",
+  "card_text": "①：自分フィールドのX素材の無い風属性Xモンスター１体を対象としてこのカードを発動できる。そのモンスターがフィールドに存在する限り、フィールドの表側表示モンスターの効果は無効化される。対象のモンスターがフィールドから離れた時にこのカードは破壊される。②：このカードを発動したターンのエンドフェイズに発動する。フィールドのこのカードを、このカードの発動時に対象としたモンスターの下に重ねてX素材とする。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/09/13",
+  "species_id": 25,
+  "starchip": "0"
+}

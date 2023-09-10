@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 6,
+  "card_id": 12883,
+  "card_name": "Papillodomino Vitesseroid",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Vous ne pouvez pas Invoquer par Pendulation de monstres (monstres VENT exclus). Cet effet ne peut pas être annulé. Vous pouvez défausser 1 monstre VENT, puis ciblez 1 de vos monstres VENT bannis ; ajoutez-le à votre main. Vous ne pouvez utiliser cet effet de \"Papillodomino Vitesseroid\" qu'une fois par tour.",
+  "card_text": "Non utilisable comme Matériel de Synchro, sauf pour l'Invocation Synchro d'un Monstre Synchro VENT de Type Dragon ou Machine. Si cette carte, Invoquée Spécialement depuis l'Extra Deck, est utilisée comme un Matériel pour une Invocation Synchro, bannissez-la.",
+  "defense_power": "300",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 33,
+  "pen_scale_l": "8",
+  "pen_scale_r": "8",
+  "sales_at": "2017/05/25",
+  "species_id": 7,
+  "starchip": "2"
+}

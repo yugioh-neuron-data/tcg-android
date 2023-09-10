@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 7735,
+  "card_name": "レッド・デーモンズ・ドラゴン",
+  "card_name_label": "レッド・デーモンズ・ドラゴン",
+  "card_name_search": "れっどでーもんずどらごん",
+  "card_pen_effect": "",
+  "card_text": "チューナー＋チューナー以外のモンスター１体以上$N①：このカードが相手の守備表示モンスターに攻撃を行ったダメージ計算後に発動する。相手フィールドの守備表示モンスターを全て破壊する。$N②：自分エンドフェイズに発動する。このカードがフィールドに表側表示で存在する場合、このターン攻撃宣言をしていない自分フィールドの他のモンスターを全て破壊する。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/03/31",
+  "species_id": 1,
+  "starchip": "8"
+}

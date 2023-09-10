@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 8674,
+  "card_name": "Portes du Destin",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsqu'un monstre de votre adversaire déclare une attaque : ciblez le monstre attaquant ; annulez l'attaque, et si vous le faites, changez-le en Position de Défense et il ne peut pas changer sa position de combat tant qu'il est face recto sur le Terrain. Puis, votre adversaire choisit 1 de ces effets.$N●Vous (l'adversaire de l'activateur de cette carte) gagnez des LP égaux à la moitié de l'ATK de la cible.$N●Votre adversaire (l'activateur de cette carte) reçoit des dommages égaux à la moitié de l'ATK de la cible.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/02/11",
+  "species_id": 25,
+  "starchip": "0"
+}

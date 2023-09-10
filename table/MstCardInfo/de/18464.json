@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 2,
+  "card_id": 18464,
+  "card_name": "Firewall-Verteidiger",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls diese Karte als Material für die Linkbeschwörung eines Cyberse-Monsters auf den Friedhof gelegt wird: Du kannst 1 „Firewall“-Monster als Spezialbeschwörung von deinem Deck beschwören, außer „Firewall-Verteidiger“. Du kannst in dem Spielzug, in dem du diesen Effekt aktivierst, keine Monster als Spezialbeschwörung beschwören, außer Cyberse-Monstern. Falls ein oder mehr „Firewall“-Monster, die du kontrollierst, durch einen Karteneffekt zerstört würden, kannst du stattdessen diese Karte von deinem Friedhof verbannen. Du kannst jeden Effekt von „Firewall-Verteidiger“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/05/04",
+  "species_id": 27,
+  "starchip": "4"
+}

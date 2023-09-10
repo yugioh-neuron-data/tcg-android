@@ -1,0 +1,23 @@
+{
+  "attack_power": "2300",
+  "attribute_id": 6,
+  "card_id": 6238,
+  "card_name": "Insecte Ultime LV5",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si cette carte a été Invoquée par Invocation Spéciale par l'effet d'un \"%c6178\", tant que cette carte reste sur le Terrain, diminuez l'ATK de tous les monstres de votre adversaire de 500 points. Durant la Standby Phase de votre tour, envoyez cette carte face recto au Cimetière pour faire l'Invocation Spéciale d'un \"%c6319\" depuis votre main ou votre Deck (excepté le tour où cette carte est Invoquée par Invocation Normale, par Invocation Spéciale ou est retournée face recto).",
+  "defense_power": "900",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/03/01",
+  "species_id": 10,
+  "starchip": "5"
+}

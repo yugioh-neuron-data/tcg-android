@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 18920,
+  "card_name": "Emissione Vulcanica",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Attiva 1 di questi effetti (ma puoi utilizzare ogni effetto di \"Emissione Vulcanica\" una sola volta per turno);$N●Prendi 1 mostro \"Vulcanico\" dal tuo Deck e aggiungilo alla tua mano oppure Evocalo Specialmente, ignorando le sue condizioni di Evocazione, ma fallo ritornare nella mano durante la End Phase.$N●Scegli come bersaglio 1 mostro Pyro sul Terreno; infliggi al tuo avversario danno pari all'ATK originale di quel mostro o, se hai scelto come bersaglio un mostro che controlli, il danno viene dimezzato.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/08/10",
+  "species_id": 25,
+  "starchip": "0"
+}

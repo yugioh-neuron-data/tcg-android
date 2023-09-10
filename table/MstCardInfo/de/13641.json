@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 4,
+  "card_id": 13641,
+  "card_name": "Zerstörungsdrache",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Muss mit „Kralle des Critias“ als Spezialbeschwörung beschworen werden, verwende dabei „Ring der Zerstörung“. Einmal pro Spielzug: Du kannst 1 Karte wählen, die dein Gegner kontrolliert; zerstöre sie. Dann, falls es eine Monsterkarte war, füge deinem Gegner Schaden in Höhe ihrer Grund-ATK zu.",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/03/08",
+  "species_id": 1,
+  "starchip": "8"
+}

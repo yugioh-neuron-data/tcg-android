@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 15860,
+  "card_name": "聖種の天双芽",
+  "card_name_label": "サンシード・ツイン",
+  "card_name_search": "さんしーどついん",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドに「サンアバロン」リンクモンスターが存在し、このカードが召喚・特殊召喚に成功した場合、自分の墓地のレベル４以下の植物族の通常モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。②：墓地のこのカードと自分フィールドのリンクモンスター１体を除外して発動できる。自分の墓地に同名の植物族リンクモンスターが２体以上存在する場合、その内の１体を選んで特殊召喚する。",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/11/21",
+  "species_id": 13,
+  "starchip": "2"
+}

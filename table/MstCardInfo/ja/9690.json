@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 9690,
+  "card_name": "同姓同名同盟条約",
+  "card_name_label": "どうせいどうめいどうめいじょうやく",
+  "card_name_search": "どうせいどうめいどうめいじょうやく",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上にトークン以外の同名モンスターが表側表示で２体以上存在する場合に発動する事ができる。その同名モンスターの数によって以下の効果を適用する。$N●２体：相手フィールド上に存在する魔法・罠カード１枚を破壊する。$N●３体：相手フィールド上に存在する魔法・罠カードを全て破壊する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/04/16",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 1,
+  "card_id": 9294,
+  "card_name": "Sternenstaubphantom",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wenn diese Karte, die du kontrollierst, durch eine Karte deines Gegners zerstört (entweder durch Kampf oder durch einen Karteneffekt) und auf deinen Friedhof gelegt wird, kannst du 1 „Sternenstaubdrache“ in deinem Friedhof wählen und als Spezialbeschwörung in die offene Verteidigungsposition beschwören. Du kannst diese Karte im Friedhof aus dem Spiel entfernen, um 1 offenes Synchromonster vom Typ Drache zu wählen, das du kontrollierst. Einmal pro Spielzug kann das Synchromonster nicht durch Kampf zerstört werden, aber jedes Mal, wenn dieser Effekt angewendet wird, verliert es am Ende des Damage Steps 800 ATK und DEF.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/02/10",
+  "species_id": 18,
+  "starchip": "1"
+}

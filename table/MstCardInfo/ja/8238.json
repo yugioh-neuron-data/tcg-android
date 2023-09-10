@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 4,
+  "card_id": 8238,
+  "card_name": "ジュラック・プティラ",
+  "card_name_label": "ジュラック・プティラ",
+  "card_name_search": "じゅらっくぷてぃら",
+  "card_pen_effect": "",
+  "card_text": "このカードが攻撃されたダメージ計算後、攻撃モンスターを持ち主の手札に戻す。このカードの守備力は、この効果で手札に戻したモンスターのレベル×１００ポイントアップする。",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/04/14",
+  "species_id": 9,
+  "starchip": "3"
+}

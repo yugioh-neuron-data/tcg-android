@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 2,
+  "card_id": 13363,
+  "card_name": "Estirge Vengamiedo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si esta carta es mandada al Cementerio: puedes mostrar 1 carta \"Vengamiedo\" en tu mano; Invoca esta carta de Modo Especial, pero destiérrala cuando deje el Campo. Un monstruo \"Vengamiedo\" Invocado por Ritual usando esta carta en el Campo gana el siguiente efecto. Sólo puedes usar cada uno de los efectos precedentes de \"Estirge Vengamiedo\" una vez por turno.$N●Después del cálculo de daño, si esta carta batalló con un monstruo de un adversario: puedes robar 1 carta, y después descartar 1 carta.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/10/19",
+  "species_id": 2,
+  "starchip": "2"
+}

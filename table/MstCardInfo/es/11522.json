@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 5,
+  "card_id": 11522,
+  "card_name": "Artistamigo Compañaga",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Una vez por turno: puedes seleccionar 1 monstruo boca arriba que controles; hasta el final de este turno, éste gana 300 ATK por cada carta \"Artistamigo\" que controles en este momento.",
+  "card_text": "Si esta carta es Invocada de Modo Normal o Especial: puedes seleccionar 1 monstruo que controles; éste gana 300 ATK por cada monstruo \"Artistamigo\" que controles en este momento. Los monstruos de Nivel 5 o menor no pueden atacar.",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2015/01/15",
+  "species_id": 20,
+  "starchip": "5"
+}

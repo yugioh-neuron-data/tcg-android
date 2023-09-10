@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 15771,
+  "card_name": "Lineare-Gleichungs-Kanone",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Während der Battle Phase: Deklariere eine ganze Zahl von 1 bis 6; bestimme 1 Effektmonster, das dein Gegner kontrolliert. Multipliziere die Stufe des Effektmonsters mit der deklarierten Zahl, dann addiere die Anzahl der Karten, die dein Gegner kontrolliert, und überprüfe, ob das Ergebnis der Anzahl der Karten in deinem Friedhof entspricht.$N●Falls ja: Lege die obersten Karten deines Decks bis zur deklarierten Zahl auf den Friedhof und falls du dies tust, mische Karten, die dein Gegner kontrolliert, bis zur Anzahl der auf den Friedhof gelegten Karten ins Deck.$N●Falls nein: Du verlierst LP in Höhe der deklarierten Zahl x 500.$NDu kannst nur 1 „Lineare-Gleichungs-Kanone“ pro Spielzug aktivieren.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/02/04",
+  "species_id": 25,
+  "starchip": "0"
+}

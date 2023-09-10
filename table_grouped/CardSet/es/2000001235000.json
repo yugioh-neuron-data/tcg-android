@@ -1,0 +1,740 @@
+[
+  {
+    "card_count": 1,
+    "card_id": 4372,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP031",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 4377,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP032",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 4378,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP033",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 4379,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP034",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 4380,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP035",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 4380,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP035",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 16
+  },
+  {
+    "card_count": 1,
+    "card_id": 4861,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP063",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 4861,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP063",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 16
+  },
+  {
+    "card_count": 1,
+    "card_id": 4866,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP064",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 5575,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP055",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 6783,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP056",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 6941,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP057",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 7434,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP036",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 7858,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP065",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 8086,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP066",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 8090,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP050",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 8164,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP037",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 8165,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP038",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 8276,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP058",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 9244,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP039",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 9703,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP040",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 9744,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP041",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 9796,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP067",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10253,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP042",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10281,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP059",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10281,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP059",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 16
+  },
+  {
+    "card_count": 1,
+    "card_id": 10938,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP052",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 12000,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP060",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 12491,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP061",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 13384,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP043",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 13387,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP044",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 13388,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP045",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 13859,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP046",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 13859,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP046",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 16
+  },
+  {
+    "card_count": 1,
+    "card_id": 14297,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP054",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 14297,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP054",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 16
+  },
+  {
+    "card_count": 1,
+    "card_id": 15110,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP047",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 15113,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP048",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 15118,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP053",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 15118,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP053",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 16
+  },
+  {
+    "card_count": 1,
+    "card_id": 15119,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP062",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 16386,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP051",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 16386,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP051",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 16
+  },
+  {
+    "card_count": 1,
+    "card_id": 16845,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP049",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 16845,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP049",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 16
+  },
+  {
+    "card_count": 1,
+    "card_id": 17242,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP011",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17242,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP011",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 16
+  },
+  {
+    "card_count": 1,
+    "card_id": 17243,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP012",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 17246,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP013",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17246,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP013",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 16
+  },
+  {
+    "card_count": 1,
+    "card_id": 17247,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP014",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17247,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP014",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 16
+  },
+  {
+    "card_count": 1,
+    "card_id": 17248,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP015",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17250,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP016",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17250,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP016",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 16
+  },
+  {
+    "card_count": 1,
+    "card_id": 17251,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP017",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 17252,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP018",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 17253,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP019",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17253,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP019",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 16
+  },
+  {
+    "card_count": 1,
+    "card_id": 17254,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP020",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17255,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP021",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17255,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP021",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 16
+  },
+  {
+    "card_count": 1,
+    "card_id": 17256,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP022",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 17257,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP023",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 17258,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP024",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 17259,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP025",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 17260,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP026",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 17261,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP027",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 17263,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP028",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17263,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP028",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 16
+  },
+  {
+    "card_count": 1,
+    "card_id": 17264,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP029",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 17265,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP030",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 18323,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP001",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 18324,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP002",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 18325,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP003",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 18326,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP004",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 18327,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP005",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 18328,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP006",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 18329,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP007",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 18330,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP008",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 18331,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP009",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 18332,
+    "card_image_id": 1,
+    "card_number": "MAZE-SP010",
+    "language": "es",
+    "pack_id": "2000001235000",
+    "rarity_id": 2
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13987,
+  "card_name": "聖剣クラレント",
+  "card_name_label": "せいけんクラレント",
+  "card_name_search": "せいけんくられんと",
+  "card_pen_effect": "",
+  "card_text": "戦士族モンスターにのみ装備可能。このカード名の③の効果は１ターンに１度しか使用できない。①：「聖剣クラレント」は自分フィールドに１枚しか表側表示で存在できない。②：１ターンに１度、５００LPを払って発動できる。このターン、装備モンスターは直接攻撃できる。③：フィールドの表側表示のこのカードが破壊され墓地へ送られた場合、自分フィールドの戦士族の「聖騎士」モンスター１体を対象として発動できる。その自分の戦士族の「聖騎士」モンスターにこのカードを装備する。",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/09/14",
+  "species_id": 24,
+  "starchip": "0"
+}

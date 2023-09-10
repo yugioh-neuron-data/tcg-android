@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 1,
+  "card_id": 12849,
+  "card_name": "소환수 메르카바",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"소환사 알레이스터\" ＋ 빛 속성 몬스터$N①: 1턴에 1번, 몬스터의 효과 / 마법 / 함정 카드가 발동했을 때, 그 카드와 같은 종류(몬스터 / 마법 / 함정)의 패를 1장 묘지로 보내고 발동할 수 있다. 그 발동을 무효로 하고 제외한다.",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/03/21",
+  "species_id": 7,
+  "starchip": "9"
+}

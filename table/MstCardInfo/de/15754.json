@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15754,
+  "card_name": "Erzunterweltler-Stab der Verzweiflung",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Rüste nur ein Monster, das du kontrollierst, mit dieser Karte aus. Während deiner Main Phase: Du kannst alle Monster, die dein Gegner derzeit kontrolliert, bis zum Ende dieses Spielzugs ATK in Höhe der Hälfte der ATK des ausgerüsteten Monsters verlieren lassen (selbst falls diese Karte das Spielfeld verlässt). Falls diese Karte auf den Friedhof gelegt wird, solange sie ein Monster ausrüstet: Du kannst 1000 LP zahlen; gib diese Karte auf deine Hand zurück. Du kannst jeden Effekt von „Erzunterweltler-Stab der Verzweiflung“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/02/04",
+  "species_id": 24,
+  "starchip": "0"
+}

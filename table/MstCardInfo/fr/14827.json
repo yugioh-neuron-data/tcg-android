@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 14827,
+  "card_name": "Chronogistreur des Voleurs de Temps",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durant la Battle Phase de votre adversaire (Effet Rapide) : vous pouvez Sacrifier cette carte ; les prochains dommages de combat que vous recevez d'une attaque de monstre de l'adversaire ce tour sont infligés à votre adversaire à la place. Si un Monstre Xyz face recto que vous contrôlez quitte le Terrain par un effet de carte, tant que cette carte est dans votre Cimetière (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte, mais bannissez-la lorsqu'elle quitte le Terrain. Vous ne pouvez utiliser chaque effet de \"Chronogistreur des Voleurs de Temps\" qu'une fois par tour.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/01/30",
+  "species_id": 7,
+  "starchip": "4"
+}

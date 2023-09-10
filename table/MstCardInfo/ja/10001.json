@@ -1,0 +1,23 @@
+{
+  "attack_power": "2900",
+  "attribute_id": 5,
+  "card_id": 10001,
+  "card_name": "ジェムナイトマスター・ダイヤ",
+  "card_name_label": "ジェムナイトマスター・ダイヤ",
+  "card_name_search": "じぇむないとますたーだいや",
+  "card_pen_effect": "",
+  "card_text": "「ジェムナイト」モンスター×３$Nこのカードは融合召喚でのみEXデッキから特殊召喚できる。①：このカードの攻撃力は、自分の墓地の「ジェム」モンスターの数×１００アップする。②：１ターンに１度、自分の墓地のレベル７以下の「ジェムナイト」融合モンスター１体を除外して発動できる。エンドフェイズまで、このカードは除外したモンスターと同名カードとして扱い、同じ効果を得る。",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/01/24",
+  "species_id": 6,
+  "starchip": "9"
+}

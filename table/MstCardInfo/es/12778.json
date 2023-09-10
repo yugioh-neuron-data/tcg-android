@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 6,
+  "card_id": 12778,
+  "card_name": "Vientobruja - Campana del Invierno",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Cantante + 1+ monstruos de VIENTO que no sean Cantantes$NPuedes seleccionar 1 monstruo \"Vientobruja\" en tu Cementerio; inflige daño a tu adversario igual al Nivel de ese objetivo x 200. Durante la Battle Phase (Efecto Rápido): puedes seleccionar 1 monstruo \"Vientobruja\" que controles; Invoca 1 monstruo de Modo Especial, desde tu mano, con un Nivel igual o menor al de ese monstruo, pero este turno, éste no puede atacar. Sólo puedes usar cada efecto de \"Vientobruja - Campana del Invierno\" una vez por turno.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/02/09",
+  "species_id": 18,
+  "starchip": "7"
+}

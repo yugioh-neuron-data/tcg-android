@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 14623,
+  "card_name": "Ejecutar Protocolos",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante cada Battle Phase: puedes desterrar 1 Monstruo de Enlace de OSCURIDAD en tu Cementerio, y después selecciona 1 monstruo \"Borre\" que controles; hasta el final de este turno, éste gana ATK igual al ATK del monstruo desterrado para activar este efecto. Sólo puedes usar este efecto de \"Ejecutar Protocolos\" una vez por turno.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/08/16",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11092,
+  "card_name": "ゴーストリック・パレード",
+  "card_name_label": "ゴーストリック・パレード",
+  "card_name_search": "ごーすとりっくぱれーど",
+  "card_pen_effect": "",
+  "card_text": "このカードがフィールド上に存在する限り、お互いのフィールド上のモンスターは、裏側守備表示のモンスターに攻撃できず、相手フィールド上のモンスターが裏側守備表示のモンスターのみの場合、相手プレイヤーに直接攻撃できる。また、相手モンスターの直接攻撃宣言時、自分のデッキから「ゴーストリック」と名のついたカード１枚を手札に加える事ができる。このカードがフィールド上に存在する限り、相手プレイヤーが受ける全てのダメージは０になる。",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/02/15",
+  "species_id": 24,
+  "starchip": "0"
+}

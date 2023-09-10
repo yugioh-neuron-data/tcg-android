@@ -1,0 +1,23 @@
+{
+  "attack_power": "700",
+  "attribute_id": 5,
+  "card_id": 7287,
+  "card_name": "Hoplomaque, Bête Gladiateur",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si cette carte est Invoquée Spécialement par l'effet d'un monstre \"Bête Gladiateur\", sa DEF d'origine devient 2400. À la fin de la Battle Phase, si cette carte a attaqué ou a été attaquée, vous pouvez la renvoyer dans le Deck pour Invoquer Spécialement 1 monstre \"Bête Gladiateur\" depuis votre Deck, sauf \"Hoplomaque, Bête Gladiateur\".",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/11/14",
+  "species_id": 6,
+  "starchip": "4"
+}

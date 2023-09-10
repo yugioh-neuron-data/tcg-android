@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 2,
+  "card_id": 11189,
+  "card_name": "매직 핸드",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "①: 이 카드가 필드에 앞면 표시로 존재하는 한, 1번만 상대가 드로우 이외의 방법으로 덱에서 카드를 패에 넣었을 때에 발동할 수 있다. 그 카드를 묘지로 보내고, 상대에게 800 데미지를 준다.",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/08/20",
+  "species_id": 18,
+  "starchip": "4"
+}

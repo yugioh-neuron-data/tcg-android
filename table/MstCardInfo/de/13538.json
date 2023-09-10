@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 6,
+  "card_id": 13538,
+  "card_name": "F.A. Navigationssystem",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls sich diese Karte in deiner Hand oder deinem Friedhof befindet: Du kannst 1 „F.A.“-Monster wählen, das du kontrollierst und dessen derzeitige Stufe höher als seine Grund-Stufe ist; beschwöre diese Karte als Spezialbeschwörung und falls du dies tust, reduziere die Stufe des gewählten Ziels um die Differenz zwischen seiner derzeitigen und seiner Grund-Stufe und falls du dies tust, wird die Stufe dieser Karte gleich der Differenz. Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst deiner Hand 1 „F.A.“-Spielfeldzauber von deinem Deck hinzufügen. Du kannst jeden Effekt von „F.A. Navigationssystem“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/02/01",
+  "species_id": 7,
+  "starchip": "1"
+}

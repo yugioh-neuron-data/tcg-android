@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 6,
+  "card_id": 15707,
+  "card_name": "WW－ブリザード・ベル",
+  "card_name_label": "ウィンド・ウィッチ－ブリザード・ベル",
+  "card_name_search": "うぃんどうぃっちぶりざーどべる",
+  "card_pen_effect": "",
+  "card_text": "このカード名の②の効果は１ターンに１度しか使用できない。①：自分フィールドのモンスターが、存在しない場合または「WW」モンスターのみの場合、このカードはリリースなしで召喚できる。②：自分フィールドに「WW－ブリザード・ベル」以外の「WW」モンスターが存在する場合、相手メインフェイズに、手札・フィールドのこのカードを墓地へ送って発動できる。相手に５００ダメージを与える。",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/10/31",
+  "species_id": 18,
+  "starchip": "5"
+}

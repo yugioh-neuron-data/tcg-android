@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13782,
+  "card_name": "クロス・ブリード",
+  "card_name_label": "クロス・ブリード",
+  "card_name_search": "くろすぶりーど",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：手札及び自分フィールドの表側表示モンスターの中から、元々の種族・属性が同じで、カード名が異なるモンスター２体を除外して発動できる。それらのモンスターと元々の種族・属性が同じで、カード名が異なるモンスター１体をデッキから手札に加える。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/04/14",
+  "species_id": 24,
+  "starchip": "0"
+}

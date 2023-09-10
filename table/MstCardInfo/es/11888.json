@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 1,
+  "card_id": 11888,
+  "card_name": "Martillo Mago del Tiempo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Debe ser Invocado de Modo Especial con \"La Garra de Hermos\", usando un monstruo Lanzador de Conjuros. Si esta carta es Invocada de Modo Especial: selecciona otro monstruo boca arriba en el Campo; equípale esta carta. Al comienzo del Damage Step, si éste batalla con un monstruo del adversario: puedes lanzar un dado de seis caras, y desterrar el monstruo del adversario hasta la Standby Phase del turno N después de la activación de este efecto (N = el resultado).",
+  "defense_power": "400",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/07/16",
+  "species_id": 18,
+  "starchip": "2"
+}

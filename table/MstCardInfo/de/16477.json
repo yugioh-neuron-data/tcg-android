@@ -1,0 +1,23 @@
+{
+  "attack_power": "-1",
+  "attribute_id": 1,
+  "card_id": 16477,
+  "card_name": "Geheimnisvoller Triumphjoker",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls sich diese Karte in deiner Hand oder deinem Friedhof befindet: Du kannst 1 „Ritterin der Königin“, „Ritter des Königs“ und „Ritter des Buben“ von deiner Hand und/oder offen von deiner Monsterzone auf den Friedhof legen; beschwöre diese Karte als Spezialbeschwörung. Diese Karte erhält 500 ATK x die kombinierte Anzahl der Karten in den Händen beider Spieler. Du kannst 1 Karte abwerfen; zerstöre alle offenen Karten, die dein Gegner kontrolliert und die denselben Typ (Monster, Zauber oder Falle) wie die abgeworfene Karte haben.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/07/08",
+  "species_id": 15,
+  "starchip": "10"
+}

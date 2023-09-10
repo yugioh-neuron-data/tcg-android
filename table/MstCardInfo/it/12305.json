@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 1,
+  "card_id": 12305,
+  "card_name": "Bug Digitale Bozzolcondensatore",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Non può essere utilizzato come Materiale Xyz per un'Evocazione Xyz, eccetto per l'Evocazione Xyz di un mostro di Tipo Insetto. Una volta per turno, se questa carta è in Posizione di Attacco: puoi scegliere come bersaglio 1 mostro di Tipo Insetto di Livello 3 nel tuo Cimitero; metti questa carta in Posizione di Difesa e, se lo fai, Evoca Specialmente quel mostro in Posizione di Difesa. Un Mostro Xyz che è stato Evocato utilizzando questa carta sul Terreno come Materiale Xyz guadagna questo effetto.$N●Se questa carta attacca un mostro in Posizione di Difesa, le carte e gli effetti del tuo avversario non possono essere attivati fino alla fine del Damage Step.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/05/05",
+  "species_id": 10,
+  "starchip": "3"
+}

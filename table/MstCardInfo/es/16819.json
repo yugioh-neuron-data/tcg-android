@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 2,
+  "card_id": 16819,
+  "card_name": "Sirena Fantastruco",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "No puede ser Invocado de Modo Normal, a menos que controles un monstruo \"Fantastruco\". Una vez por turno, durante tu Main Phase: puedes cambiar esta carta a Posición de Defensa boca abajo. Si esta carta es Invocada de Modo Normal o volteada boca arriba: manda al Cementerio las 2 cartas de la parte superior de tu Deck y después, si alguna carta era una carta \"Fantastruco\", puedes aplicar 1 de estos efectos.$N●Añade a tu mano 1 Mágica/Trampa \"Fantastruco\" en tu Deck.$N●Cambia a Posición de Defensa boca abajo 1 Monstruo de Efecto que controle tu adversario.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/02/10",
+  "species_id": 17,
+  "starchip": "4"
+}

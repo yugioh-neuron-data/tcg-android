@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 2,
+  "card_id": 8461,
+  "card_name": "Inmortal Terrestre Wiraqocha Rasca",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Sólo puede haber 1 monstruo \"Inmortal Terrestre\" en el Campo. Si no hay una Mágica de Campo boca arriba en el Campo, destruye esta carta. Los monstruos de tu adversario no pueden seleccionar esta carta para ataques. Esta carta puede atacar directamente. Si esta carta es Invocada de Modo Normal: selecciona de 1 a 3 cartas que controles, pero no más que las que tenga tu adversario en su mano; barájalas al Deck, y después descarta el mismo número de cartas al azar de la mano de tu adversario (o tantas como sea posible) y, si lo haces, esta carta gana 1000 ATK por cada carta descartada por este efecto.",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/11/05",
+  "species_id": 16,
+  "starchip": "10"
+}

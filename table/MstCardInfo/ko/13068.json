@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 5,
+  "card_id": 13068,
+  "card_name": "레스큐 페럿",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드명의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 필드의 이 카드를 주인의 덱으로 되돌리고 발동할 수 있다. 레벨의 합계가 6 이 되도록 덱에서 \"레스큐 페럿\" 이외의 몬스터를 임의의 수만큼 고르고, 링크 몬스터의 링크 앞이 되는 자신 필드에 특수 소환한다. 이 효과로 특수 소환한 몬스터의 효과는 무효화되고, 엔드 페이즈에 파괴된다.",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/07/13",
+  "species_id": 11,
+  "starchip": "4"
+}

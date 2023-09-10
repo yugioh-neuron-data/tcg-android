@@ -1,0 +1,23 @@
+{
+  "attack_power": "2600",
+  "attribute_id": 5,
+  "card_id": 11381,
+  "card_name": "エルシャドール・シェキナーガ",
+  "card_name_label": "エルシャドール・シェキナーガ",
+  "card_name_search": "えるしゃどーるしぇきなーが",
+  "card_pen_effect": "",
+  "card_text": "「シャドール」モンスター＋地属性モンスター$Nこのカードは融合召喚でのみEXデッキから特殊召喚できる。このカード名の①の効果は１ターンに１度しか使用できない。①：特殊召喚されたモンスターの効果が発動した時に発動できる。その発動を無効にし破壊する。その後、手札から「シャドール」カード１枚を墓地へ送る。②：このカードが墓地へ送られた場合、自分の墓地の「シャドール」魔法・罠カード１枚を対象として発動できる。そのカードを手札に加える。",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/07/19",
+  "species_id": 7,
+  "starchip": "10"
+}

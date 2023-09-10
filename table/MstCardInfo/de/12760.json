@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 2,
+  "card_id": 12760,
+  "card_name": "Gesandter des Chaos",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Während der Battle Phase (Schnelleffekt): Du kannst diese Karte abwerfen und dann 1 „Schwarz Glänzender Soldat“-Monster oder „Gaia, zorniger Ritter“-Monster wählen, das du kontrollierst; es erhält bis zum Ende dieses Spielzugs 1500 ATK und falls es dies tut, werden die ATK jedes Monsters des Gegners, gegen das es in diesem Spielzug kämpft, nur während der Schadensberechnung gleich den Grund-ATK des Monsters. Einmal pro Spielzug, während der End Phase, falls sich diese Karte in deinem Friedhof befindet: Du kannst 1 LICHT und 1 FINSTERNIS Monster von deinem Friedhof verbannen, außer dieser Karte; füge diese Karte deiner Hand hinzu.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/02/09",
+  "species_id": 15,
+  "starchip": "4"
+}

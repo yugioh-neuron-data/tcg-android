@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 2,
+  "card_id": 11787,
+  "card_name": "相克の魔術師",
+  "card_name_label": "そうこくのまじゅつし",
+  "card_name_search": "そうこくのまじゅつし",
+  "card_pen_effect": "①：１ターンに１度、自分フィールドのXモンスター１体を対象として発動できる。このターンそのXモンスターは、そのランクと同じ数値のレベルのモンスターとしてX召喚の素材にできる。",
+  "card_text": "①：１ターンに１度、フィールドの光属性モンスター１体を対象として発動できる。そのモンスターの効果をターン終了時まで無効にする。この効果は相手ターンでも発動できる。",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2015/04/25",
+  "species_id": 18,
+  "starchip": "7"
+}

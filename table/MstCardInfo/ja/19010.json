@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 5,
+  "card_id": 19010,
+  "card_name": "ダンディ・ホワイトライオン",
+  "card_name_label": "ダンディ・ホワイトライオン",
+  "card_name_search": "だんでぃほわいとらいおん",
+  "card_pen_effect": "",
+  "card_text": "このカード名の効果は１ターンに１度しか使用できず、この効果を発動するターン、自分はEXデッキからモンスターを特殊召喚できない。$N①：このカードが手札・フィールドから墓地へ送られた場合に発動できる。自分フィールドに「白綿毛トークン」（植物族・風・星１・攻／守０）３体を守備表示で特殊召喚する。",
+  "defense_power": "300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/05/19",
+  "species_id": 13,
+  "starchip": "3"
+}

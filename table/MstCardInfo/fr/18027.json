@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 6,
+  "card_id": 18027,
+  "card_name": "Ninja Vert",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si un ou plusieurs monstres sont Invoqués Spécialement face recto sur votre Terrain (sauf durant la Damage Step) : vous pouvez en cibler 1 ; Invoquez Spécialement cette carte depuis votre main, et si vous le faites, changez le monstre en Position de Défense face verso. Si cette carte est envoyée depuis la main ou Terrain au Cimetière : vous pouvez cibler 1 monstre sur le Terrain ; changez-le en Position d'Attaque face recto ou Position de Défense face verso. Vous ne pouvez utiliser chaque effet de \"Ninja Vert\" qu'une fois par tour.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/02/06",
+  "species_id": 15,
+  "starchip": "2"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 7636,
+  "card_name": "リミット・リバース",
+  "card_name_label": "リミット・リバース",
+  "card_name_search": "りみっとりばーす",
+  "card_pen_effect": "",
+  "card_text": "自分の墓地の攻撃力１０００以下のモンスター１体を選択し、表側攻撃表示で特殊召喚する。そのモンスターが守備表示になった時、そのモンスターとこのカードを破壊する。このカードがフィールド上から離れた時、そのモンスターを破壊する。そのモンスターが破壊された時、このカードを破壊する。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/02/23",
+  "species_id": 25,
+  "starchip": "0"
+}

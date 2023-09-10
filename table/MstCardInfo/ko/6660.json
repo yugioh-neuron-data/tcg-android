@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 2,
+  "card_id": 6660,
+  "card_name": "데스티니 히어로 다이아몬드 가이",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "①: 1턴에 1번, 자신 메인 페이즈에 발동할 수 있다. 자신의 덱 맨 위의 카드를 넘기고, 그것이 일반 마법 카드였을 경우, 그 카드를 묘지로 보낸다. 다를 경우, 그 카드를 덱의 맨 아래로 되돌린다. 이 효과로 일반 마법 카드를 묘지로 보냈을 경우, 다음 자신 턴의 메인 페이즈에 묘지의 그 일반 마법 카드 발동시의 효과를 발동할 수 있다.",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/11/07",
+  "species_id": 15,
+  "starchip": "4"
+}

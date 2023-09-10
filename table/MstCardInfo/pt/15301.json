@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15301,
+  "card_name": "Dados Jogados",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lance um dado de seis faces e, se você obteve um resultado de 1 ou 6, adicione 1 card do seu Deck à sua mão que requer um lance de dados. Se você lançou um número que não seja 1 ou 6, lance novamente e aplique o efeito apropriado.$N●1 ou 6: Devolva este card para a mão.$N●2, 3, 4 ou 5: Coloque este card no topo do Deck.$NVocê só pode ativar 1 \"Dados Jogados\" por turno.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "pt",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/08/06",
+  "species_id": 24,
+  "starchip": "0"
+}

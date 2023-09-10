@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 9132,
+  "card_name": "Specchio della Barriera di Ghiaccio",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante questo turno, ogni volta che una o più carte vengono bandite dalla tua mano, Terreno e/o Cimitero dall'effetto attivato di un mostro del tuo avversario, applica i seguenti effetti, a seconda di dove le carte sono state bandite.$N●Mano: Bandisci fino a 2 carte a caso dalla mano del tuo avversario.$N●Terreno: Bandisci fino a 2 carte controllate dal tuo avversario.$N●Cimitero: Bandisci fino a 2 carte dal Cimitero del tuo avversario.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "it",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/11/11",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 4,
+  "card_id": 17158,
+  "card_name": "Jogos de Dados Sumô Musical",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 monstros de Nível 6$NNo começo da Fase de Batalha do seu oponente: se este card estiver na Zona de Monstros Principal, lance um dado de seis faces e mova este card diretamente esse número (1 a 6) de Zonas de Monstros Principais no sentido horário e, se já houver um monstro nessa zona para a qual ele se moveu, associe esse monstro a este card como matéria. (Transfira as matérias dele para este card.) Se este efeito fizer com que o número de matérias deste monstro exceda 6, você vence o Duelo. Se este card não puder ser movido, ou o monstro na zona para a qual ele se moveu não puder ser associado, envie este card para o Cemitério.",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/05/19",
+  "species_id": 7,
+  "starchip": "6"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 1,
+  "card_id": 10379,
+  "card_name": "Orbitale 7",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Quando questa carta viene scoperta: metti 1 Segnalino Agli Ordini Capo! su di essa. Puoi rimuovere tutti i Segnalini Agli Ordini Capo! da questa carta; il suo ATK diventa 2000. Dopo avere cambiato l'ATK di questa carta con questo effetto, essa non può attaccare il tuo avversario direttamente per il resto di questo turno e viene mandata al Cimitero durante la End Phase. Puoi offrire come Tributo questa carta per scegliere come bersaglio 1 mostro \"Fotonico\" o \"Galattico\" nel tuo Cimitero; aggiungi quel bersaglio alla tua mano.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/01/24",
+  "species_id": 7,
+  "starchip": "4"
+}

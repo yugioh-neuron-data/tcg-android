@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 8616,
+  "card_name": "Ogro de la Tristeza Escarlata",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante el turno de tu adversario, cuando éste declare un segundo ataque directo durante la misma Battle Phase, puedes Invocar esta carta de Modo Especial desde tu mano. Cuando lo haces, el ATK y la DEF de esta carta se convierten en el ATK y la DEF del primer monstruo que atacó directamente este turno, si ese todavía está boca arriba en el Campo. En el turno en el que Invocas esta carta de Modo Especial con este efecto, tu adversario no puede seleccionar como objetivo de un ataque a otros monstruos aparte de esta carta mientras ésta esté boca arriba en el Campo.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/02/11",
+  "species_id": 3,
+  "starchip": "4"
+}

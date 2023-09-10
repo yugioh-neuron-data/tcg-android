@@ -1,0 +1,23 @@
+{
+  "attack_power": "-1",
+  "attribute_id": 1,
+  "card_id": 6647,
+  "card_name": "ヘリオス・デュオ・メギストス",
+  "card_name_label": "ヘリオス・デュオ・メギストス",
+  "card_name_search": "へりおすでゅおめぎすとす",
+  "card_pen_effect": "",
+  "card_text": "このカードは自分フィールド上の「原始太陽ヘリオス」１体を生け贄に捧げる事で特殊召喚する事ができる。このカードの攻撃力と守備力は、ゲームから除外されているモンスターカードの数×２００ポイントになる。このカードが戦闘によって破壊され墓地へ送られた場合、エンドフェイズ時に攻撃力・守備力を３００ポイントアップさせて特殊召喚される。",
+  "defense_power": "-1",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/02/23",
+  "species_id": 4,
+  "starchip": "6"
+}

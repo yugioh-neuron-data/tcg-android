@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 5,
+  "card_id": 6262,
+  "card_name": "레스큐 캣",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드명의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 필드의 이 카드를 묘지로 보내고 발동할 수 있다. 덱에서 레벨 3 이하의 야수족 몬스터 2장을 특수 소환한다. 이 효과로 특수 소환한 몬스터의 효과는 무효화되고, 엔드 페이즈에 파괴된다.",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/05/19",
+  "species_id": 11,
+  "starchip": "4"
+}

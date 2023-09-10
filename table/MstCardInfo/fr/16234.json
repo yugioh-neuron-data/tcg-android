@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 2,
+  "card_id": 16234,
+  "card_name": "Voloferniges, le Cavalier-Dragon du Fléau",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 monstres de Niveau 7$NUne fois par tour : vous pouvez détacher 2 Matériels de cette carte, puis ciblez 1 carte face recto sur le Terrain ; détruisez-la, et si vous avez détruit un monstre, vous pouvez faire gagner à 1 monstre face recto que vous contrôlez une ATK égale au Niveau/Rang d'origine du monstre détruit x 300 jusqu'à la fin du prochain tour. Cette carte ne peut pas attaquer le tour où vous activez cet effet. Ceci est un Effet Rapide si cette carte a un monstre Dragon comme Matériel, mais il ne peut pas être activé dans la Damage Step.",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/08/12",
+  "species_id": 1,
+  "starchip": "7"
+}

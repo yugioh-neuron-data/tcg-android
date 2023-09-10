@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 12340,
+  "card_name": "ブンボーグ・ベース",
+  "card_name_label": "ブンボーグ・ベース",
+  "card_name_search": "ぶんぼーぐべーす",
+  "card_pen_effect": "",
+  "card_text": "①：フィールドの「ブンボーグ」モンスターの攻撃力・守備力は５００アップする。②：１ターンに１度、自分メインフェイズに発動できる。手札の「ブンボーグ」カードを任意の数だけ相手に見せ、デッキに戻してシャッフルする。その後、自分はデッキに戻した数だけデッキからドローする。③：「ブンボーグ・ベース」以外の自分のフィールド・墓地の「ブンボーグ」カード９種類を１枚ずつ除外して発動できる。相手の手札・フィールド・墓地のカードを全て持ち主のデッキに戻す。",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/01/09",
+  "species_id": 24,
+  "starchip": "0"
+}

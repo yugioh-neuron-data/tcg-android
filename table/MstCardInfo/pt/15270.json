@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 5,
+  "card_id": 15270,
+  "card_name": "Megálito Phul",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Você pode Invocar este card por Invocação-Ritual com um card \"Megálito\". Se este card for Invocado por Invocação-Ritual: você pode escolher 1 Monstro de Ritual no seu Cemitério; o Nível deste card se torna o Nível desse alvo e, depois, adicione o alvo à sua mão. Durante a Fase Principal (Efeito Rápido): você pode ativar este efeito; Invoque por Invocação-Ritual 1 Monstro de Ritual \"Megálito\" da sua mão ou do Deck ao oferecer monstros como Tributo da sua mão ou do campo cuja soma dos Níveis seja igual ou exceda o Nível do Monstro de Ritual. Você só pode usar cada efeito de \"Megálito Phul\" uma vez por turno.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 5,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/08/06",
+  "species_id": 6,
+  "starchip": "2"
+}

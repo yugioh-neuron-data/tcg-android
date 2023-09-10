@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 6147,
+  "card_name": "マインドクラッシュ",
+  "card_name_label": "マインドクラッシュ",
+  "card_name_search": "まいんどくらっしゅ",
+  "card_pen_effect": "",
+  "card_text": "①：カード名を１つ宣言して発動できる。宣言したカードが相手の手札にある場合、相手は手札のそのカードを全て捨てる。宣言したカードが相手の手札に無い場合、自分の手札をランダムに１枚選んで捨てる。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/05/27",
+  "species_id": 25,
+  "starchip": "0"
+}

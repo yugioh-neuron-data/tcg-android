@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 5,
+  "card_id": 15498,
+  "card_name": "U.A.プレイングマネージャー",
+  "card_name_label": "ウルトラアスリートプレイングマネージャー",
+  "card_name_search": "うるとらあすりーとぷれいんぐまねーじゃー",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分が「U.A.」モンスターの召喚・特殊召喚に成功した場合に発動できる。このカードを手札から特殊召喚する。②：このカードが特殊召喚に成功した場合、以下の効果から１つを選択して発動できる。$N●フィールドのカード１枚を対象として発動できる。そのカードを破壊する。$N●「U.A.」モンスター以外のフィールドの全ての表側表示モンスターの効果をターン終了時まで無効にする。",
+  "defense_power": "2600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/08/08",
+  "species_id": 15,
+  "starchip": "8"
+}

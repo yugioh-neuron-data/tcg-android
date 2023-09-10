@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 4,
+  "card_id": 10645,
+  "card_name": "罡炎星－リシュンキ",
+  "card_name_label": "こうえんせい－リシュンキ",
+  "card_name_search": "こうえんせいりしゅんき",
+  "card_pen_effect": "",
+  "card_text": "炎属性チューナー＋チューナー以外の「炎星」と名のついたモンスター１体以上$Nこのカードがシンクロ召喚に成功した時、デッキから「炎舞」と名のついた魔法・罠カード１枚を選んで自分フィールド上にセットできる。このカードがフィールド上に表側表示で存在する限り、相手フィールド上のモンスターの攻撃力は、自分フィールド上に表側表示で存在する魔法・罠カードの数×１００ポイントダウンする。",
+  "defense_power": "2800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/04/20",
+  "species_id": 12,
+  "starchip": "8"
+}

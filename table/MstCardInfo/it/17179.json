@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 17179,
+  "card_name": "Catena di Sorprese",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Attiva solo come Anello della Catena 2 o superiore; applica i seguenti effetti, a seconda del numero dell'Anello della Catena di questa carta, in ordine (salta quelli che non si applicano). Non puoi attivare questa carta se più carte/effetti con lo stesso nome sono in quella Catena.$N●2+: Dissotterra carte dalla cima del tuo Deck, pari al numero dell'Anello della Catena di questa carta, poi mettile in cima al tuo Deck in qualsiasi ordine.$N●3+: Manda la prima carta del tuo Deck al Cimitero.$N●4+: Pesca 1 carta.$NPuoi attivare solo 1 \"Catena di Sorprese\" per turno.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/05/19",
+  "species_id": 24,
+  "starchip": "0"
+}

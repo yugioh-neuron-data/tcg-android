@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 1,
+  "card_id": 15563,
+  "card_name": "요룡 마하마",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "①: 상대 턴에, 자신 또는 상대가 전투 데미지를 받았을 때에 발동할 수 있다. 이 카드를 패에서 특수 소환한다. 그 후, 이하의 효과에서 1개를 고르고 적용한다.$N●그 전투 데미지의 수치만큼만 자신의 LP를 회복한다.$N●그 전투 데미지의 수치만큼만 상대에게 데미지를 준다.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/12/21",
+  "species_id": 1,
+  "starchip": "5"
+}

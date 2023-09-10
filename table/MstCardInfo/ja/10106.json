@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 5,
+  "card_id": 10106,
+  "card_name": "森の聖霊 エーコ",
+  "card_name_label": "もりのせいれい　エーコ",
+  "card_name_search": "もりのせいれいえーこ",
+  "card_pen_effect": "",
+  "card_text": "相手のカードの効果によって自分がダメージを受けた時に発動できる。このカードを手札から特殊召喚し、受けたダメージと同じダメージを相手ライフに与える。さらに、このターンお互いが受ける効果ダメージは０になる。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/12/17",
+  "species_id": 13,
+  "starchip": "4"
+}

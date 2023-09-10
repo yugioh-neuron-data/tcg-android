@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 5,
+  "card_id": 15992,
+  "card_name": "Otoshidamashi",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Enquanto você controlar um monstro que não seja um Regulador, os monstros do seu oponente não podem escolher este card como alvo de ataques. Se um ou mais monstros forem enviados do campo para o Cemitério do seu oponente: coloque 1 Marcador de Otoshidamashi neste card e, depois, Invoque por Invocação-Especial \"Ficha de Otoshidamashi\" (Besta/TERRA/Nível 1/ATK ?/DEF ?) até o número de Marcadores de Otoshidamashi neste card. Quando Invocadas, o Nível de cada Ficha aumenta pelo número de Marcadores de Otoshidamashi neste card e, além disso, o ATK/DEF de cada Ficha são iguais ao seu Nível quando Invocada x 500. Você só pode usar este efeito de \"Otoshidamashi\" uma vez por turno.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/06/03",
+  "species_id": 11,
+  "starchip": "1"
+}

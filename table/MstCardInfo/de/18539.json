@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 18539,
+  "card_name": "Dinomorphia-Intakt",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wenn ein Monstereffekt aktiviert wird, solange du eine „Dinomorphia“-Karte kontrollierst: Zahle die Hälfte deiner LP; annulliere die Aktivierung und falls du dies tust, zerstöre jenes Monster, zusätzlich, immer wenn du in diesem Spielzug Kampfschaden erhältst, wird der erhaltene Kampfschaden gleich der Hälfte deiner LP zu jenem Zeitpunkt. Während der Schadensberechnung, solange du 2000 oder weniger LP hast, falls du Kampfschaden erhalten würdest: Du kannst diese Karte von deinem Friedhof verbannen; du erhältst aus jenem Kampf keinen Kampfschaden. Du kannst nur 1 „Dinomorphia-Intakt“ pro Spielzug aktivieren.",
+  "defense_power": "0",
+  "effect_id": 1,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/05/04",
+  "species_id": 25,
+  "starchip": "0"
+}

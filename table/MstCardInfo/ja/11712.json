@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 3,
+  "card_id": 11712,
+  "card_name": "プリン隊",
+  "card_name_label": "プリンたい",
+  "card_name_search": "ぷりんたい",
+  "card_pen_effect": "",
+  "card_text": "このカードは融合・S・X召喚の素材にできない。①：このカードがモンスターゾーンに存在する限り、このカードはリリースできない。②：自分エンドフェイズに自分のPゾーンのカード１枚を対象として発動できる。そのカードを破壊し、このカードのコントロールを相手に移す。③：自分スタンバイフェイズに発動する。自分は３００ダメージを受ける。",
+  "defense_power": "300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/02/14",
+  "species_id": 3,
+  "starchip": "1"
+}

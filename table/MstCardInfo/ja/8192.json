@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 2,
+  "card_id": 8192,
+  "card_name": "エクスプロード・ウィング・ドラゴン",
+  "card_name_label": "エクスプロード・ウィング・ドラゴン",
+  "card_name_search": "えくすぷろーどうぃんぐどらごん",
+  "card_pen_effect": "",
+  "card_text": "チューナー＋チューナー以外のドラゴン族モンスター１体以上$Nこのカードの攻撃力以下の攻撃力を持つ、フィールド上に表側表示で存在するモンスターとこのカードが戦闘を行う場合、ダメージ計算を行わずそのモンスターを破壊し、その攻撃力分のダメージを相手ライフに与える事ができる。",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/02/14",
+  "species_id": 1,
+  "starchip": "7"
+}

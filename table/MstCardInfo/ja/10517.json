@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 6,
+  "card_id": 10517,
+  "card_name": "虚空の騎士",
+  "card_name_label": "こくうのきし",
+  "card_name_search": "こくうのきし",
+  "card_pen_effect": "",
+  "card_text": "このカードがフィールド上に表側表示で存在する場合にフィールド上のモンスターが手札・デッキに戻った時、自分のデッキから風属性モンスター１体を墓地へ送る。この効果は１ターンに１度しか使用できない。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/02/16",
+  "species_id": 15,
+  "starchip": "4"
+}

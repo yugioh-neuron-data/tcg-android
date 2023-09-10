@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 6,
+  "card_id": 14538,
+  "card_name": "Streitwagen der Walküren",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Einmal pro Spielzug kannst du entweder: 1 Fee-Monster wählen, das du kontrollierst; rüste das gewählte Ziel mit dieser Karte aus, ODER: Diese Karte ausklinken und als Spezialbeschwörung beschwören. Falls das ausgerüstete Monster durch Kampf oder einen Karteneffekt zerstört würde, zerstöre stattdessen diese Karte. Wenn das ausgerüstete Monster einen Angriff deklariert: Du kannst es 500 ATK erhalten lassen. (Dieser ATK-Zugewinn hält sogar an, falls diese Karte das Spielfeld verlässt.)",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 8,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/05/02",
+  "species_id": 17,
+  "starchip": "3"
+}

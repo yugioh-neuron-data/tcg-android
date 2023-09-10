@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 8056,
+  "card_name": "마법족의 결계",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "①: 필드의 앞면 표시의 마법사족 몬스터가 파괴될 때마다 이 카드에 마력 카운터를 1개 놓는다(최대 4개까지). ②: 마력 카운터가 놓여 있는 이 카드와 자신 필드의 앞면 표시 마법사족 몬스터 1장을 묘지로 보내고 발동할 수 있다. 이 카드에 놓여 있던 마력 카운터의 수만큼, 자신은 덱에서 드로우한다.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/05/18",
+  "species_id": 24,
+  "starchip": "0"
+}

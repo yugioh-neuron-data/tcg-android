@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 2,
+  "card_id": 15991,
+  "card_name": "Arc Montre",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Si vous ne contrôlez aucun monstre, ou contrôlez uniquement des Monstres Pendule, appliquez cet effet, selon la Zone Pendule de cette carte.$N●Gauche : Réduisez son Échelle Pendule de 3.$N●Droite : Augmentez son Échelle Pendule de 4.$NDurant la Standby Phase de votre adversaire : vous pouvez Invoquer Spécialement cette carte.",
+  "card_text": "Si cette carte est Invoquée Spécialement dans une zone qui n'est pas la Zone Monstre Main centrale, détruisez-la. Non destructible au combat. Une fois par tour, durant la End Phase de votre adversaire : vous pouvez cibler 1 carte dans votre Zone Pendule ; détruisez-la, et si vous le faites, placez cette carte dans votre Zone Pendule.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "4",
+  "pen_scale_r": "4",
+  "sales_at": "2021/06/03",
+  "species_id": 7,
+  "starchip": "4"
+}

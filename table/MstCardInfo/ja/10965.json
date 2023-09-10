@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 10965,
+  "card_name": "戦友の誓い",
+  "card_name_label": "とものちかい",
+  "card_name_search": "とものちかい",
+  "card_pen_effect": "",
+  "card_text": "エクストラデッキから特殊召喚されたモンスターが自分フィールド上に存在しない場合、相手フィールド上に表側表示で存在する、エクストラデッキから特殊召喚されたモンスター１体を選択して発動できる。選択したモンスターのコントロールをエンドフェイズ時まで得る。このカードを発動するターン、自分はモンスターを特殊召喚できない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/11/16",
+  "species_id": 25,
+  "starchip": "0"
+}

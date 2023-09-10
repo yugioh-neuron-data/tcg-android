@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 1,
+  "card_id": 7567,
+  "card_name": "Dragon Materia",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Les effets qui vont infliger des dommages à un joueur augmentent ses Life Points de ce montant à la place. Durant le tour de chaque joueur, lorsqu'une carte ou un effet qui va détruire un ou plusieurs monstres sur le Terrain est activé : vous pouvez envoyer 1 carte depuis votre main au Cimetière ; annulez l'activation, et si vous le faites, détruisez-la.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/01/26",
+  "species_id": 1,
+  "starchip": "6"
+}

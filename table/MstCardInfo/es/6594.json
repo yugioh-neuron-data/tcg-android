@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 1,
+  "card_id": 6594,
+  "card_name": "Discípulo del Conjuro Prohibido",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando esta carta es Invocada mediante una Invocación Normal, de Volteo o Especial, declara un número de Atributos de Cartas de Monstruo diferentes igual al número de cartas de \"Discípulo del Conjuro Prohibido\" en tu Cementerio. Si esta carta ataca un monstruo que tiene el Atributo declarado, destruye el monstruo sin aplicar cálculo de daño.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/02/18",
+  "species_id": 15,
+  "starchip": "4"
+}

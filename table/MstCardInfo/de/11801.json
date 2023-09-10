@@ -1,0 +1,23 @@
+{
+  "attack_power": "1100",
+  "attribute_id": 5,
+  "card_id": 11801,
+  "card_name": "Künstlerzauberer Hütchenspieler",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls 2 oder mehr Monster auf dem Spielfeld liegen, kannst du diese Karte als Spezialbeschwörung (von deiner Hand) beschwören. Wenn eine Karte oder ein Effekt aktiviert wird, die oder der dir Schaden zufügen würde (Schnelleffekt): Du kannst 1 Künstlerzauberer-Zählmarke auf diese Karte legen (max. 3), dann mache den Effektschaden auf dich zu 0. Wenn die 3. Künstlerzauberer-Zählmarke auf diese Karte gelegt wird, werden ihre ATK/DEF zu 3300.",
+  "defense_power": "1100",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/08/06",
+  "species_id": 18,
+  "starchip": "4"
+}

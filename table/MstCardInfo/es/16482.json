@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16482,
+  "card_name": "Invocación a Velocidad de Trueno",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante la Main o Battle Phase: inmediatamente después de que se resuelva este efecto, Invoca de Modo Normal 1 monstruo de Nivel 10 o, si controlas un \"Escolta de la Reina\", \"Escolta del Rey\" y \"Escolta de la Sota\", puedes aplicar este efecto en su lugar.$N●Añade a tu mano 1 monstruo de Nivel 10 con ? ATK que no sea de OSCURIDAD en tu Deck y después, inmediatamente después de que se resuelva este efecto, puedes Invocar de Modo Normal 1 monstruo de Nivel 10.$NSólo puedes activar 1 \"Invocación a Velocidad de Trueno\" por turno.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/07/08",
+  "species_id": 24,
+  "starchip": "0"
+}

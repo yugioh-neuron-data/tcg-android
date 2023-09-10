@@ -1,0 +1,23 @@
+{
+  "attack_power": "2300",
+  "attribute_id": 2,
+  "card_id": 14437,
+  "card_name": "デコード・トーカー・エクステンド",
+  "card_name_label": "デコード・トーカー・エクステンド",
+  "card_name_search": "でこーどとーかーえくすてんど",
+  "card_pen_effect": "",
+  "card_text": "効果モンスター２体以上$N①：このカードはモンスターゾーンに存在する限り、カード名を「デコード・トーカー」として扱う。②：このカードの攻撃力は、このカードのリンク先のモンスターの数×５００アップする。③：自分バトルフェイズに、このカードのリンク先のモンスターが、戦闘で破壊された場合、または墓地へ送られた場合に発動できる。このターン、このカードは１度のバトルフェイズ中に２回攻撃できる。",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "813",
+  "linkno": "3",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/03/23",
+  "species_id": 27,
+  "starchip": ""
+}

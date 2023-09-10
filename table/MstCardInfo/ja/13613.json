@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13613,
+  "card_name": "星遺物へ誘う悪夢",
+  "card_name_label": "せいいぶつへいざなうあくむ",
+  "card_name_search": "せいいぶつへいざなうあくむ",
+  "card_pen_effect": "",
+  "card_text": "①：このカードがフィールドゾーンに存在する限り、自分の相互リンク状態のモンスターの戦闘で発生する自分への戦闘ダメージは０になる。②：１ターンに１度、自分メインフェイズに以下の効果から１つを選択して発動できる。$N●自分フィールドの「トロイメア」モンスター１体を選び、その位置を他の自分のメインモンスターゾーンに移動する。$N●自分のメインモンスターゾーンの「トロイメア」モンスター２体を選び、その位置を入れ替える。",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/01/13",
+  "species_id": 24,
+  "starchip": "0"
+}

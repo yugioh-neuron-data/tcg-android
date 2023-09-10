@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 1,
+  "card_id": 18451,
+  "card_name": "Orphestier der harmonische Stierkämpfer-Barde",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 2 LICHT und 2 FINSTERNIS Monster von deiner Hand und/oder deinem Friedhof verbannst, außer dieser Karte. Falls diese Karte auf diese Art beschworen wird, erhält sie für jedes Monster, das für ihre Beschwörung von deiner Hand verbannt wurde, 1000 ATK, zusätzlich kann diese Karte in jeder Battle Phase bis zu so viele Male Monster angreifen wie die Anzahl der Monster, die für ihre Beschwörung vom Friedhof verbannt wurden. Falls diese Karte ein Monster eines Gegners durch Kampf zerstört, nach der Schadensberechnung: Du kannst jenes Monster des Gegners verbannen.",
+  "defense_power": "2400",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/02/06",
+  "species_id": 12,
+  "starchip": "8"
+}

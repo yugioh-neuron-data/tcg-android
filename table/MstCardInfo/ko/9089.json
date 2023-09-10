@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 9089,
+  "card_name": "싱크로 거너",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1턴에 1번, 자신의 메인 페이즈 1에만 발동할 수 있다. 자신 필드 위에 앞면 표시로 존재하는 싱크로 몬스터 1장을 게임에서 제외하고 상대 라이프에 600 포인트 데미지를 준다. 이 효과로 제외한 몬스터는, 다음 자신의 스텐바이 페이즈시에 필드 위로 되돌아간다.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/10/20",
+  "species_id": 7,
+  "starchip": "1"
+}

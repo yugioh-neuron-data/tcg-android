@@ -1,0 +1,23 @@
+{
+  "attack_power": "2700",
+  "attribute_id": 1,
+  "card_id": 10066,
+  "card_name": "フォトン・ストリーク・バウンサー",
+  "card_name_label": "フォトン・ストリーク・バウンサー",
+  "card_name_search": "ふぉとんすとりーくばうんさー",
+  "card_pen_effect": "",
+  "card_text": "レベル６モンスター×２$N相手フィールド上で効果モンスターの効果が発動した時、このカードのエクシーズ素材を１つ取り除いて発動できる。その効果を無効にし、相手ライフに１０００ポイントダメージを与える。この効果は１ターンに１度しか使用できない。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/02/18",
+  "species_id": 15,
+  "starchip": "6"
+}

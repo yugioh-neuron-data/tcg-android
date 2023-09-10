@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 4,
+  "card_id": 18805,
+  "card_name": "エヴォルダー・リオス",
+  "card_name_label": "エヴォルダー・リオス",
+  "card_name_search": "えう゛ぉるだーりおす",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。$N①：このカードが召喚・特殊召喚した場合に発動できる。デッキから「進化への懸け橋」か「進化の特異点」１枚を自分フィールドにセットする。$N②：このカードが召喚または炎属性モンスターの効果で特殊召喚されている場合、自分メインフェイズに発動できる。デッキから爬虫類族・恐竜族の炎属性モンスター１体を墓地へ送る。その後、フィールドのモンスター２体の種族とレベルを墓地へ送ったモンスターと同じにできる。",
+  "defense_power": "400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/04/22",
+  "species_id": 9,
+  "starchip": "4"
+}

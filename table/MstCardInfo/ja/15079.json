@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 3,
+  "card_id": 15079,
+  "card_name": "海造賊－キャプテン黒髭",
+  "card_name_label": "プランドロール－キャプテンくろひげ",
+  "card_name_search": "ぷらんどろーるきゃぷてんくろひげ",
+  "card_pen_effect": "",
+  "card_text": "「海造賊」モンスターを含むモンスター２体$Nこのカード名の効果は１ターンに１度しか使用できない。①：自分フィールドの効果モンスター１体を対象として発動できる。相手のフィールド・墓地のモンスターのいずれかと同じ属性を持つ「海造賊」モンスター１体をEXデッキから特殊召喚し、対象の自分の効果モンスターを装備カード扱いとしてその特殊召喚したモンスターに装備する。その後、自分はデッキから１枚ドローする。この効果は相手ターンでも発動できる。",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "13",
+  "linkno": "2",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/10/03",
+  "species_id": 3,
+  "starchip": ""
+}

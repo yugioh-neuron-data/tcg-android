@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 2,
+  "card_id": 10920,
+  "card_name": "Oráculo Cuidador de Tumbas",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Puedes Sacrificar 3 monstruos o 1 monstruo \"Cuidador de Tumbas\" para Invocar por Sacrificio esta carta (pero no para Colocarla). Cuando esta carta es Invocada por Sacrificio: puedes activar cualquiera de estos efectos, hasta la cantidad de monstruos \"Cuidador de Tumbas\" Sacrificados en su Invocación, y resolverlos en secuencia;$N●Esta carta gana ATK igual a los Niveles combinados que todos los monstruos Sacrificados en su Invocación por Sacrificio tenían en el Campo x 100.$N●Destruye todos los monstruos Colocados que controle tu adversario.$N●Todos los monstruos que tu adversario controle en este momento pierden 2000 ATK/DEF.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/01/23",
+  "species_id": 18,
+  "starchip": "10"
+}

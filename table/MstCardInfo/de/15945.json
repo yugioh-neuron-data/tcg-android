@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 5,
+  "card_id": 15945,
+  "card_name": "Kriegsfels-Fortia",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls dein ERDE Krieger-Monster kämpft, nach der Schadensberechnung: Du kannst deiner Hand 1 „Kriegsfels“-Karte von deinem Deck hinzufügen, außer „Kriegsfels-Fortia“, dann erhalten alle „Kriegsfels“-Monster, die du derzeit kontrollierst, bis zum Ende des Spielzugs deines Gegners 200 ATK. Falls diese Karte durch einen Karteneffekt eines Gegners von deiner Monsterzone auf deinen Friedhof gelegt wird: Du kannst 1 „Kriegsfels“-Monster der Stufe 5 oder höher als Spezialbeschwörung von deiner Hand oder deinem Deck beschwören. Du kannst jeden Effekt von „Kriegsfels-Fortia“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "1700",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/02/04",
+  "species_id": 15,
+  "starchip": "4"
+}

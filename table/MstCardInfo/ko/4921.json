@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 4921,
+  "card_name": "자이언트 바이러스",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드가 전투에 의해서 파괴되어 묘지로 보내졌을 때, 상대 라이프에 500 포인트의 데미지를 준다. 또한 자신의 덱에서 \"자이언트 바이러스\"를 임의의 수만큼 앞면 공격 표시로 특수 소환할 수 있다.",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/05/07",
+  "species_id": 3,
+  "starchip": "2"
+}

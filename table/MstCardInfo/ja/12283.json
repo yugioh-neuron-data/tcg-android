@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 2,
+  "card_id": 12283,
+  "card_name": "月光黒羊",
+  "card_name_label": "ムーンライト・ブラック・シープ",
+  "card_name_search": "むーんらいとぶらっくしーぷ",
+  "card_pen_effect": "",
+  "card_text": "①：このカードを手札から捨て、以下の効果から１つを選択して発動できる。$N●「月光黒羊」以外の自分の墓地の「ムーンライト」モンスター１体を選んで手札に加える。$N●デッキから「融合」１枚を手札に加える。$N②：このカードが融合召喚の素材となって墓地へ送られた場合に発動できる。「月光黒羊」以外の、自分のエクストラデッキの表側表示の「ムーンライト」Pモンスターまたは自分の墓地の「ムーンライト」モンスター１体を選んで手札に加える。",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/01/09",
+  "species_id": 12,
+  "starchip": "2"
+}

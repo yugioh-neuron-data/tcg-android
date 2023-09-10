@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 2,
+  "card_id": 18812,
+  "card_name": "Mago de Pesadilla",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si esta carta batalla con un monstruo, ninguno puede ser destruido en esa batalla. Al final del Damage Step, si esta carta batalló con un monstruo del adversario: puedes tomar el control de ese monstruo del adversario. Una vez por turno, al comienzo del Damage Step, si otro monstruo ataca: puedes destruir 1 carta en el Campo.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/07/27",
+  "species_id": 34,
+  "starchip": "7"
+}

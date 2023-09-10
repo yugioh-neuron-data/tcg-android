@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 5,
+  "card_id": 14651,
+  "card_name": "礫岩の霊長－コングレード",
+  "card_name_label": "れきがんのれいちょう－コングレード",
+  "card_name_search": "れきがんのれいちょうこんぐれーど",
+  "card_pen_effect": "",
+  "card_text": "このカードは通常召喚できず、カードの効果でのみ特殊召喚できる。①：相手の手札・デッキからモンスターが墓地へ送られた場合に発動できる。このカードを手札から裏側守備表示で特殊召喚する。②：このカードがリバースした場合、フィールドのカードを２枚まで対象として発動できる。そのカードを破壊する。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/07/13",
+  "species_id": 6,
+  "starchip": "8"
+}

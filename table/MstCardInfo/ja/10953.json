@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10953,
+  "card_name": "オノマト連携",
+  "card_name_label": "オノマトペア",
+  "card_name_search": "おのまとぺあ",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：手札を１枚墓地へ送って発動できる。デッキから以下のモンスターの内１体ずつ、合計２体までを手札に加える。$N●「ズババ」モンスター$N●「ガガガ」モンスター$N●「ゴゴゴ」モンスター$N●「ドドド」モンスター",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/11/16",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "3300",
+  "attribute_id": 1,
+  "card_id": 12249,
+  "card_name": "Jizukiru, der sternenzerstörende Kaiju",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Du kannst diese Karte als Spezialbeschwörung (von deiner Hand) auf die Spielfeldseite deines Gegners in die Angriffsposition beschwören, indem du 1 Monster als Tribut anbietest, das er kontrolliert. Falls dein Gegner ein „Kaiju“-Monster kontrolliert, kannst du diese Karte als Spezialbeschwörung (von deiner Hand) in die Angriffsposition beschwören. Du kannst nur 1 „Kaiju“-Monster kontrollieren. Wenn eine Karte oder ein Effekt aktiviert wird, die oder der 1 Karte (und keine anderen Karten) als Ziel wählt (Schnelleffekt): Du kannst 3 Kaiju-Zählmarken von irgendwo auf dem Spielfeld entfernen; annulliere den Effekt und falls du dies tust, kannst du 1 Karte auf dem Spielfeld zerstören.",
+  "defense_power": "2600",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/01/14",
+  "species_id": 7,
+  "starchip": "10"
+}

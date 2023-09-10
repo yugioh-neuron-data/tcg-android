@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 6,
+  "card_id": 14830,
+  "card_name": "ウィッチクラフト・ジェニー",
+  "card_name_label": "ウィッチクラフト・ジェニー",
+  "card_name_search": "うぃっちくらふとじぇにー",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分・相手のメインフェイズに、このカードをリリースし、手札から魔法カード１枚を捨てて発動できる。デッキから「ウィッチクラフト・ジェニー」以外の「ウィッチクラフト」モンスター１体を特殊召喚する。②：自分の墓地からこのカードと「ウィッチクラフト」魔法カード１枚を除外して発動できる。この効果は、その魔法カード発動時の効果と同じになる。",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/10/12",
+  "species_id": 18,
+  "starchip": "1"
+}

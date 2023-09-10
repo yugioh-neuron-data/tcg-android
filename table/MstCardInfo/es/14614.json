@@ -1,0 +1,23 @@
+{
+  "attack_power": "1900",
+  "attribute_id": 2,
+  "card_id": 14614,
+  "card_name": "Dragón Platacohette",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando es activado el efecto de un Monstruo de Enlace que selecciona esta carta boca arriba en el Campo (Efecto Rápido): puedes destruir esta carta, y después mirar el Deck Extra de tu adversario y desterrar 1 carta de él. Durante la End Phase, si esta carta está en el Cementerio porque fue destruida en el Campo en batalla o por efecto de una carta y mandada allí este turno: puedes Invocar de Modo Especial, desde tu Deck, 1 monstruo \"Cohette\", excepto \"Dragón Platacohette\". Sólo puedes usar cada efecto de \"Dragón Platacohette\" una vez por turno.",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/08/16",
+  "species_id": 1,
+  "starchip": "4"
+}

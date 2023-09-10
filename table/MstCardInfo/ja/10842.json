@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 10842,
+  "card_name": "琰魔竜 レッド・デーモン",
+  "card_name_label": "えんまりゅう　レッド・デーモン",
+  "card_name_search": "えんまりゅうれっどでーもん",
+  "card_pen_effect": "",
+  "card_text": "チューナー＋チューナー以外のモンスター１体以上$N１ターンに１度、自分のメインフェイズ１でのみ発動できる。このカード以外のフィールド上に表側攻撃表示で存在するモンスターを全て破壊する。この効果を発動するターン、このカード以外のモンスターは攻撃できない。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/08/02",
+  "species_id": 1,
+  "starchip": "8"
+}

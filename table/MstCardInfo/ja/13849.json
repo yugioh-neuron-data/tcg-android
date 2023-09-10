@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13849,
+  "card_name": "サイバーロード・フュージョン",
+  "card_name_label": "サイバーロード・フュージョン",
+  "card_name_search": "さいばーろーどふゅーじょん",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：自分フィールド及び除外されている自分のモンスターの中から、融合モンスターカードによって決められた融合素材モンスターを持ち主のデッキに戻し、「サイバー・ドラゴン」モンスターを融合素材とするその融合モンスター１体をEXデッキから融合召喚する。このターン、この効果で特殊召喚したモンスター以外の自分のモンスターは攻撃できない。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/06/09",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 17246,
+  "card_name": "Academia de Duelos",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Este card ganha esses efeitos de acordo com os Tipos de Monstros no campo.$N●Guerreiro, Besta ou Piro: Uma vez por turno, se você ativar um Card de Armadilha (exceto durante a Etapa de Dano): você pode escolher 1 card que seu oponente controla; destrua-o.$N●Dinossauro, Serpente Marinha ou Trovão: Uma vez por turno, se você ativar um Card de Magia (exceto durante a Etapa de Dano): você pode causar 1000 de dano ao seu oponente.$N●Máquina, Fada ou Demônio: Uma vez por turno, se você ativar um efeito de monstro (exceto durante a Etapa de Dano): você pode escolher 1 monstro com a face para cima que você controla; ele ganha 1000 de ATK (mesmo que este card deixe o campo).",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/03/09",
+  "species_id": 24,
+  "starchip": "0"
+}

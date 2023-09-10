@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 1,
+  "card_id": 9297,
+  "card_name": "バリア・リゾネーター",
+  "card_name_label": "バリア・リゾネーター",
+  "card_name_search": "ばりありぞねーたー",
+  "card_pen_effect": "",
+  "card_text": "このカードを手札から墓地へ送り、自分フィールド上に表側表示で存在するチューナー１体を選択して発動する。選択したモンスターはこのターン戦闘では破壊されず、選択したモンスターの戦闘によって発生する自分への戦闘ダメージは０になる。この効果は相手ターンでも発動する事ができる。",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/11/13",
+  "species_id": 3,
+  "starchip": "1"
+}

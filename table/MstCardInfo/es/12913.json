@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 12913,
+  "card_name": "Péndulografo del Tiempo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Tu adversario no puede seleccionar como objetivos de Cartas o efectos de Trampas a monstruos de Tipo Lanzador de Conjuros que controles. Sólo puedes usar el siguiente efecto de \"Péndulografo del Tiempo\" una vez por turno. Puedes seleccionar 1 Carta de Monstruo de Péndulo \"Mago/a\" en tu Zona de Monstruos o Zona de Péndulo, y 1 carta que controle tu adversario; destrúyelas, y después, si este efecto no destruyó 2 cartas, puedes mandar al Cementerio 1 carta en el Campo.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/06/22",
+  "species_id": 25,
+  "starchip": "0"
+}

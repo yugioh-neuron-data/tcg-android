@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 1,
+  "card_id": 10876,
+  "card_name": "Noble Caballero Borz",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Esta carta se trata como un Monstruo Normal mientras esté boca arriba en el Campo. Mientras está equipada con una Mágica de Equipo \"Armas Nobles\", esta carta se convierte en un Monstruo de Efecto con estos efectos.$N●Esta carta se convierte en una de OSCURIDAD y su Nivel se aumenta en 1.$N●Durante tu Main Phase: puedes mostrar 3 cartas \"Armas Nobles\" en tu Deck, hacer que tu adversario añada a tu mano 1 de ellas al azar, y manda el resto al Cementerio. Sólo puedes usar este efecto de \"Noble Caballero Borz\" una vez por turno.",
+  "defense_power": "900",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/11/07",
+  "species_id": 15,
+  "starchip": "4"
+}

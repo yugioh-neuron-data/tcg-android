@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 13296,
+  "card_name": "おジャマデュオ",
+  "card_name_label": "おジャマデュオ",
+  "card_name_search": "おじゃまでゅお",
+  "card_pen_effect": "",
+  "card_text": "①：相手フィールドに「おジャマトークン」（獣族・光・星２・攻０／守１０００）２体を守備表示で特殊召喚する。このトークンはアドバンス召喚のためにはリリースできない。「おジャマトークン」が破壊された時にそのコントローラーは１体につき３００ダメージを受ける。②：墓地のこのカードを除外して発動できる。デッキからカード名が異なる「おジャマ」モンスター２体を特殊召喚する。この効果はこのカードが墓地へ送られたターンには発動できない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/07/08",
+  "species_id": 25,
+  "starchip": "0"
+}

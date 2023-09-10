@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 12980,
+  "card_name": "Los Caballeros Fantasma del Avanbrazo Perdido",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Selecciona 1 monstruo boca arriba en el Campo; si ese objetivo todavía está boca arriba en el Campo, los monstruos \"Los Caballeros Fantasma\" que controles no pueden ser destruidos en batalla, y además ese objetivo pierde 600 ATK, y además su Nivel se convierte en 2. Estos efectos duran hasta el final de este turno. Después, Invoca esta carta de Modo Especial en Posición de Defensa como un Monstruo Normal (Guerrero/OSCURIDAD/Nivel 2/ATK 600/DEF 0). (Esta carta NO se trata como una Trampa).",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/05/04",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 18198,
+  "card_name": "Manifestation Jadeglace",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si vous contrôlez un monstre EAU et que votre adversaire a un monstre sur son Terrain ou Cimetière : prenez 1 monstre \"Jadeglace\" depuis votre Deck, et soit envoyez-le au Cimetière soit Invoquez-le Spécialement. Si un monstre \"Jadeglace\" face recto que vous contrôlez quitte le Terrain par une carte de l'adversaire, sauf en étant détruit (et sauf durant la Damage Step) : vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 carte contrôlée par votre adversaire ; bannissez-la. Vous ne pouvez utiliser chaque effet de \"Manifestation Jadeglace\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/02/06",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 17244,
+  "card_name": "Torre dei Duelli",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "All'inizio di ogni Battle Phase: ogni giocatore può rivelare dal suo Deck 1 mostro che non ha ATK ?, tu li bandisci coperti, poi il giocatore che ha rivelato il mostro con l'ATK più alto (in caso di parità, ogni giocatore) può Evocare Specialmente 1 mostro dalla sua mano, ed esso può attaccare direttamente mentre è sul Terreno. Una volta per turno, durante la End Phase: puoi attivare questo effetto; se controlli questa carta durante la End Phase del tuo prossimo turno, distruggi tutte le carte sul Terreno.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/09/15",
+  "species_id": 24,
+  "starchip": "0"
+}

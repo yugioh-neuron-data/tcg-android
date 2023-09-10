@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 6,
+  "card_id": 6178,
+  "card_name": "Insecto Definitivo LV3",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si esta carta fue Invocada mediante una Invocación Especial por el efecto de \"%c6097\", mientras esta carta permanezca en el Campo, disminuye el ATK de todos los monstruos de tu adversario en 300 puntos. Durante la Standby Phase de tu turno, manda esta carta boca arriba al Cementerio para Invocar mediante una Invocación Especial \"%c6238\" de tu mano o Deck (excepto en el turno en el que esta carta es Invocada mediante una Invocación Normal, Invocación Especial o volteada boca arriba).",
+  "defense_power": "900",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/11/01",
+  "species_id": 10,
+  "starchip": "3"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 1,
+  "card_id": 8653,
+  "card_name": "Inti le Dragon du Soleil",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"Fourmi de Feu Ascator\" + 1+ monstre non-Syntoniseur$NSi cette carte est détruite au combat et envoyée au Cimetière : détruisez le monstre qui a détruit cette carte, et si vous le faites, infligez des dommages à votre adversaire égaux à la moitié de l'ATK que le monstre avait sur le Terrain. Une fois par tour, durant la Standby Phase du prochain tour après que cette carte sur le Terrain a été détruite : vous pouvez cibler 1 \"Quilla le Dragon de la Lune\" dans votre Cimetière ; Invoquez Spécialement la cible.",
+  "defense_power": "2800",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/02/11",
+  "species_id": 1,
+  "starchip": "8"
+}

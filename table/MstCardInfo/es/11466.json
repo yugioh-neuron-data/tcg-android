@@ -1,0 +1,23 @@
+{
+  "attack_power": "4000",
+  "attribute_id": 2,
+  "card_id": 11466,
+  "card_name": "Fenrir el Lobo Nórdico",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "No puede ser Invocado de Modo Normal/Colocado. Durante tu Main Phase 2, si hay un monstruo \"Aesir\" en el Campo, puedes Invocar esta carta de Modo Especial (desde tu mano) al lado del Campo de tu adversario, en Posición de Defensa. Si no hay un monstruo \"Aesir\" en el Campo, destruye esta carta. Al comienzo de tu Battle Phase: cambia todos los monstruos en Posición de Defensa que controles a Posición de Ataque boca arriba. Ambos jugadores reciben cualquier daño de batalla de ataques que involucren a esta carta.",
+  "defense_power": "4000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/10/23",
+  "species_id": 11,
+  "starchip": "10"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 5,
+  "card_id": 6255,
+  "card_name": "난폭한 도깨비소",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "코인 토스로 앞뒷면을 맞춘다. 맞은 경우, 상대 라이프에 1000 포인트 데미지를 준다. 못 맞춘 경우, 자신은 1000 포인트 데미지를 받는다. 이 효과는 1턴에 1번만 자신의 메인 페이즈에 사용할 수 있다.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/05/19",
+  "species_id": 12,
+  "starchip": "4"
+}

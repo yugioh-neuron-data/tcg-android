@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 5,
+  "card_id": 9641,
+  "card_name": "タイム・エスケーパー",
+  "card_name_label": "タイム・エスケーパー",
+  "card_name_search": "たいむえすけーぱー",
+  "card_pen_effect": "",
+  "card_text": "このカードを手札から捨て、自分フィールド上に表側表示で存在するサイキック族モンスター１体を選択して発動する。選択したモンスターを次の自分のスタンバイフェイズ時までゲームから除外する。この効果は相手ターンでも発動する事ができる。",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/04/16",
+  "species_id": 21,
+  "starchip": "2"
+}

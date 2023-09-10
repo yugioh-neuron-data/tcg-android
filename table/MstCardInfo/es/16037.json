@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 16037,
+  "card_name": "Te Reto A.I.",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Los monstruos que controle tu adversario pierden 100 ATK por cada carta que controles. Si tu monstruo \"@Ignister\" batalla, tu adversario no puede activar cartas o efectos hasta el final del Damage Step. Cuando tu monstruo \"@Ignister\" es destruido en batalla: puedes seleccionar otro monstruo Ciberso con 2300 ATK en tu Cementerio; Invócalo de Modo Especial. Sólo puedes usar este efecto de \"Te Reto A.I.\" una vez por turno.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/06/03",
+  "species_id": 25,
+  "starchip": "0"
+}

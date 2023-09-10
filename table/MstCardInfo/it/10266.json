@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 1,
+  "card_id": 10266,
+  "card_name": "Numero 9: Sfera Dyson",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 mostri di Livello 9$NDurante la tua Main Phase 1, se il tuo avversario controlla un mostro con ATK superiore a questa carta: puoi staccare 1 materiale da questa carta; questa carta può attaccare direttamente in questo turno. Una volta per Battle Step, se questa carta con materiale viene attaccata (Effetto Rapido): puoi annullare quell'attacco. Quando questa carta viene scelta come bersaglio per un attacco mentre non ha nessun materiale: puoi scegliere come bersaglio 2 mostri nel tuo Cimitero; attacca quei mostri a questa carta come materiale.",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/11/08",
+  "species_id": 7,
+  "starchip": "9"
+}

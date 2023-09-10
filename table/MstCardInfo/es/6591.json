@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 5,
+  "card_id": 6591,
+  "card_name": "B.E.S. Núcleo Cubierto",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando Invocas mediante una Invocación Normal esta carta, ponle 2 contadores. Esta carta no es destruida como resultado de una batalla. Si esta carta lucha con un monstruo, lanza una moneda y elige cara o cruz al final del Damage Step. Si fallas, retira 1 contador. Si esta carta lucha sin contadores, destruye esta carta al final del Damage Step.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/02/18",
+  "species_id": 7,
+  "starchip": "7"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 1,
+  "card_id": 12382,
+  "card_name": "創世の竜騎士",
+  "card_name_label": "そうせいのりゅうきし",
+  "card_name_search": "そうせいのりゅうきし",
+  "card_pen_effect": "",
+  "card_text": "このカード名の③の効果は１ターンに１度しか使用できない。①：このカードがモンスターゾーンに存在する限り、このカードのレベルは相手ターンの間４つ上がる。②：このカードが戦闘で相手モンスターを破壊し墓地へ送った時に発動できる。デッキからレベル７・８のドラゴン族モンスター１体を墓地へ送る。③：手札を１枚墓地へ送り、自分の墓地のレベル７・８のドラゴン族モンスター１体を対象として発動できる。このカードを墓地へ送り、対象のモンスターを特殊召喚する。",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/02/20",
+  "species_id": 1,
+  "starchip": "4"
+}

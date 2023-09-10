@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 1,
+  "card_id": 13305,
+  "card_name": "Resistencia Interrumpida",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando recibes daño de batalla: puedes Invocar esta carta de Modo Especial desde tu mano y, si lo haces, gana ATK igual al daño que recibiste. Una vez por turno, durante el cálculo de daño, cuando otro monstruo en Posición de Defensa que controles es atacado por un monstruo del adversario (Efecto Rápido): puedes activar este efecto; durante este cálculo de daño, la DEF de tu monstruo atacado se convierte igual a la DEF de esta carta, y además no puede ser destruido en esa batalla.",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/07/26",
+  "species_id": 27,
+  "starchip": "6"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2200",
+  "attribute_id": 2,
+  "card_id": 15346,
+  "card_name": "サイコ・ギガサイバー",
+  "card_name_label": "サイコ・ギガサイバー",
+  "card_name_search": "さいこぎがさいばー",
+  "card_pen_effect": "",
+  "card_text": "このカード名の、①の方法による特殊召喚は１ターンに１度しかできず、②の効果は１ターンに１度しか使用できない。①：相手フィールドの魔法・罠カードの数が自分フィールドの魔法・罠カードより多い場合、このカードは手札から特殊召喚できる。②：自分フィールドに「人造人間－サイコ・ショッカー」が存在し、このカードが相手の効果モンスターに攻撃宣言した時、このカードをリリースして発動できる。その相手モンスターを永続罠カード扱いで相手の魔法＆罠ゾーンに表側表示で置く。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/05/30",
+  "species_id": 7,
+  "starchip": "6"
+}

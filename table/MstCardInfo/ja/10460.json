@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 3,
+  "card_id": 10460,
+  "card_name": "フィッシュボーグ－アーチャー",
+  "card_name_label": "フィッシュボーグ－アーチャー",
+  "card_name_search": "ふぃっしゅぼーぐあーちゃー",
+  "card_pen_effect": "",
+  "card_text": "このカード名の効果は１ターンに１度しか使用できない。①：このカードが墓地に存在し、自分フィールドにモンスターが存在しない場合、手札から水属性モンスター１体を捨てて発動できる。このカードを特殊召喚する。この効果で特殊召喚したターンのバトルフェイズ開始時に、水属性モンスター以外の自分フィールドのモンスターを全て破壊する。",
+  "defense_power": "300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/12/22",
+  "species_id": 8,
+  "starchip": "3"
+}

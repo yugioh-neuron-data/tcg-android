@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 1,
+  "card_id": 13217,
+  "card_name": "ディフェクト・コンパイラー",
+  "card_name_label": "ディフェクト・コンパイラー",
+  "card_name_search": "でぃふぇくとこんぱいらー",
+  "card_pen_effect": "",
+  "card_text": "①：１ターンに１度、相手の効果で自分がダメージを受ける場合、代わりにこのカードにディフェクトカウンターを１つ置く（最大１つまで）。②：１ターンに１度、このカードのディフェクトカウンターを１つ取り除き、自分フィールドのサイバース族モンスター１体を対象として発動できる。そのモンスターの攻撃力はターン終了時まで８００アップする。この効果は相手ターンでも発動できる。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/07/08",
+  "species_id": 27,
+  "starchip": "3"
+}

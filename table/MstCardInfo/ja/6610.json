@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 5,
+  "card_id": 6610,
+  "card_name": "サンドモス",
+  "card_name_label": "サンドモス",
+  "card_name_search": "さんどもす",
+  "card_pen_effect": "",
+  "card_text": "裏側守備表示のこのカードが戦闘以外によって破壊され墓地へ送られた時、元々の攻撃力と守備力を入れ替えて自分フィールド上に特殊召喚する。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/11/17",
+  "species_id": 6,
+  "starchip": "4"
+}

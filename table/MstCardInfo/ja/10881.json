@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 5,
+  "card_id": 10881,
+  "card_name": "ギアギアギア XG",
+  "card_name_label": "ギアギアギア　クロスギガント",
+  "card_name_search": "ぎあぎあぎあくろすぎがんと",
+  "card_pen_effect": "",
+  "card_text": "レベル３モンスター×３$N自分フィールド上の機械族モンスターが戦闘を行うバトルステップ時、このカードのエクシーズ素材を１つ取り除いて発動できる。相手フィールド上に表側表示で存在するカードの効果はそのダメージステップ終了時まで無効になり、そのダメージステップ終了時まで相手は魔法・罠・効果モンスターの効果を発動できない。また、このカードがフィールド上から離れた時、自分の墓地からこのカード以外の「ギアギア」と名のついたカード１枚を選択して手札に加える事ができる。",
+  "defense_power": "1300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/11/23",
+  "species_id": 7,
+  "starchip": "3"
+}

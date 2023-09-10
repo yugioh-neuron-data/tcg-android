@@ -1,0 +1,23 @@
+{
+  "attack_power": "1300",
+  "attribute_id": 2,
+  "card_id": 11601,
+  "card_name": "Maître du Cristal",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Votre adversaire ne peut cibler ni les monstres \"Cristal Ultime\" ni les cartes \"Bête Cristalline\" que vous contrôlez avec des effets de carte.",
+  "card_text": "Vous pouvez Sacrifier cette carte ; ajoutez 1 monstre \"Cristal Ultime\", monstre \"Bête Cristalline\" ou Magie/Piège \"Cristal\" depuis votre Deck à votre main.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2018/05/03",
+  "species_id": 18,
+  "starchip": "3"
+}

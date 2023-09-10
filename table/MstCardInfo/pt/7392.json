@@ -1,0 +1,23 @@
+{
+  "attack_power": "-1",
+  "attribute_id": 2,
+  "card_id": 7392,
+  "card_name": "Exodius, o Último Senhor Proibido",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Não pode ser Invocado por Invocação-Normal/Baixado. Você deve Invocá-lo por Invocação-Especial (da sua mão) ao embaralhar todos os monstros do seu Cemitério no Deck e não pode Invocá-lo por Invocação-Especial de nenhuma outra forma. Quando este card declarar um ataque: envie 1 monstro da sua mão ou do Deck para o Cemitério. Este card ganha 1000 de ATK para cada Monstro Normal no seu Cemitério. Se este card com a face para cima deixaria o campo, em vez disso, bana-o. Se houver 5 cards \"O Proibido\" diferentes no seu Cemitério que foram enviados para lá pelo efeito deste card, você vence o Duelo.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/06/28",
+  "species_id": 18,
+  "starchip": "10"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14590,
+  "card_name": "Böse Seele",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls du ein Unterweltler-Monster kontrollierst: Aktiviere 1 dieser Effekte, basierend auf der Anzahl der Monster im Friedhof deines Gegners;$N●1+: Ziehe 1 Karte.$N●4+: Füge deiner Hand 1 „HELD“-Monster oder 1 „Finstere Fusion“ von deinem Deck hinzu.$N●10+: Füge deiner Hand 1 „Polymerisation“-Zauber oder 1 „Fusion“-Zauber von deinem Deck hinzu.$NDu kannst nur 1 „Böse Seele“ pro Spielzug aktivieren.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/09/26",
+  "species_id": 24,
+  "starchip": "0"
+}

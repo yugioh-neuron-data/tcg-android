@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13779,
+  "card_name": "비스트 매직",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 자신 필드의 마력 카운터를 이하의 수만큼 제거하고, 그 효과를 발동할 수 있다.$N●2개: 자신 필드의 \"매직비스트\" 펜듈럼 몬스터 1장을 고르고 주인의 패로 되돌린다.$N●4개: 자신의 엑스트라 덱에서 앞면 표시의 \"매직비스트\" 펜듈럼 몬스터 1장을 특수 소환한다. 그 후, 그 몬스터에 마력 카운터를 2개 놓을 수 있다.$N●6개: 자신의 엑스트라 덱에서 앞면 표시의 펜듈럼 몬스터 1장을 특수 소환한다.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/07/24",
+  "species_id": 24,
+  "starchip": "0"
+}

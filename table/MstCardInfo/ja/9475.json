@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 9475,
+  "card_name": "ネクロ・ディフェンダー",
+  "card_name_label": "ネクロ・ディフェンダー",
+  "card_name_search": "ねくろでぃふぇんだー",
+  "card_pen_effect": "",
+  "card_text": "自分のメインフェイズ時に、墓地に存在するこのカードをゲームから除外し、自分フィールド上に存在するモンスター１体を選択して発動する事ができる。次の相手のエンドフェイズ時まで、選択したモンスターは戦闘では破壊されず、選択したモンスターの戦闘によって発生する自分への戦闘ダメージは０になる。",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/02/11",
+  "species_id": 3,
+  "starchip": "2"
+}

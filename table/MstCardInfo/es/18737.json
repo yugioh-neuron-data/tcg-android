@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 18737,
+  "card_name": "Derrota Almas Estallido de Tríada",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Selecciona 1 monstruo \"Derrota Almas\" que tú controles; Invoca de Modo Especial, desde tu mano, hasta 2 monstruos \"Derrota Almas\" con nombres diferentes entre sí, y ninguno con el mismo Atributo original que el monstruo seleccionado (pero niega sus efectos y devuélvelos a la mano durante la End Phase), y después puedes devolver a la mano todas las cartas que controle tu adversario que estén en las mismas columnas que el monstruo seleccionado que tú controlas y el o los monstruos Invocados de Modo Especial por este efecto. Sólo puedes activar 1 \"Derrota Almas Estallido de Tríada\" por turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/06/01",
+  "species_id": 25,
+  "starchip": "0"
+}

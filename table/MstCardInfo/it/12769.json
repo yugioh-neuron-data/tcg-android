@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 5,
+  "card_id": 12769,
+  "card_name": "Metrognomo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Una volta per turno: puoi scegliere come bersaglio 1 altra carta in una Zona Pendulum; il Valore Pendulum di questa carta diventa pari a quello di quella carta, fino alla fine di questo turno.",
+  "card_text": "Mentre hai 2 carte nelle tue Zone Pendulum con lo stesso Valore Pendulum, questa carta guadagna ATK e DEF pari al Valore Pendulum x 100, e può attaccare il tuo avversario direttamente. Se questa carta infligge danno da combattimento al tuo avversario con un attacco diretto: distruggi tutte le carte nelle Zone Pendulum.",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "4",
+  "pen_scale_r": "4",
+  "sales_at": "2017/02/09",
+  "species_id": 17,
+  "starchip": "4"
+}

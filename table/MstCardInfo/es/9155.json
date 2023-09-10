@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 9155,
+  "card_name": "Piedra del Drenaje de Poder",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cada vez que se activa el efecto de un monstruo, pon 1 Contador de Piedra Mágica en esta carta (máx. 2). Mientras esta carta tenga 2 Contadores de Piedra Mágica, los monstruos boca arriba en el Campo no pueden activar sus efectos, y sus efectos son negados. Durante cada End Phase, retira todos los Contadores de Piedra Mágica en esta carta.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/11/11",
+  "species_id": 25,
+  "starchip": "0"
+}

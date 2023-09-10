@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 7088,
+  "card_name": "Acceleratore Tri-Fiammata",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "(Questa carta viene sempre considerata come una carta \"Acceleratore Fiammata\".)$NAttiva questa carta mandando 1 \"Acceleratore Fiammata\" scoperto che controlli al Cimitero. Durante la tua Main Phase: puoi scegliere come bersaglio 1 mostro controllato dal tuo avversario; manda 1 mostro Pyro dalla tua mano al Cimitero e, se lo fai, distruggi quel bersaglio e, se fai quello, infliggi 500 danni al tuo avversario. I tuoi mostri non possono attaccare nel turno in cui attivi questo effetto.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/05/16",
+  "species_id": 24,
+  "starchip": "0"
+}

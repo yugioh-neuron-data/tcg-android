@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 6,
+  "card_id": 13588,
+  "card_name": "Cavalo Apressado Lebre Vermelha",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se houver uma coluna sem cards, você pode Invocar este card por Invocação-Especial (da sua mão) em Posição de Ataque em uma zona sua nessa coluna. Você só pode Invocar \"Cavalo Apressado Lebre Vermelha\" por Invocação-Especial uma vez por turno desta forma. Se outro card for colocado na coluna deste card: destrua este card. Uma vez por turno: você pode diminuir o ATK original deste card pela metade pelo resto deste turno e, se isso acontecer, ele pode atacar diretamente neste turno.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/05/03",
+  "species_id": 11,
+  "starchip": "5"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2850",
+  "attribute_id": 2,
+  "card_id": 19361,
+  "card_name": "メメント・ホーン・ドラゴン",
+  "card_name_label": "メメント・ホーン・ドラゴン",
+  "card_name_search": "めめんとほーんどらごん",
+  "card_pen_effect": "",
+  "card_text": "このカード名の、①の方法による特殊召喚は１ターンに１度しかできず、②の効果は１ターンに１度しか使用できない。$N①：自分の墓地に「メメント」モンスターが３種類以上存在する場合、このカードは手札から特殊召喚できる。$N②：フィールドのこのカードが効果で破壊された場合、自分フィールドの「メメント」カードを含むフィールドの表側表示カード３枚を対象として発動できる。そのカードを破壊する。",
+  "defense_power": "2350",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/08/26",
+  "species_id": 1,
+  "starchip": "8"
+}

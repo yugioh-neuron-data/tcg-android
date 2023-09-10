@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13774,
+  "card_name": "Zerbrechen der Welt",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Einmal pro Spielzug: Du kannst 1 Ritualmonster wählen, das du kontrollierst; zeige 1 Ritualmonster in deiner Hand bis zum Ende dieses Spielzugs. Die Stufe des gezeigten Ritualmonsters wird bis zum Ende dieses Spielzugs gleich der Stufe des als Ziel gewählten Monsters (selbst falls diese Karte das Spielfeld verlässt). Einmal pro Spielzug, falls „Ruin, Königin des Vergessens“ oder „Demise, König des Jüngsten Tages“ als Ritualbeschwörung auf deine Spielfeldseite beschworen wird (außer während des Damage Steps): Du kannst 1 dieser Effekte aktivieren;$N●Ziehe 1 Karte.$N●Zerstöre 1 Karte auf dem Spielfeld.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/07/26",
+  "species_id": 24,
+  "starchip": "0"
+}

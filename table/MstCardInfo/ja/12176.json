@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 12176,
+  "card_name": "濡れ衣",
+  "card_name_label": "ぬれぎぬ",
+  "card_name_search": "ぬれぎぬ",
+  "card_pen_effect": "",
+  "card_text": "「濡れ衣」は１ターンに１枚しか発動できない。①：相手の手札・フィールドのカードを合計した数が自分の手札・フィールドのカードを合計した数より多い場合、フィールドの表側表示のカード１枚を対象として発動できる。お互いのプレイヤーはこのデュエル中、その表側表示のカード以外の、対象のカードと同名カードの効果を発動できない。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/10/17",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 5,
+  "card_id": 9960,
+  "card_name": "Destructeur Zubaba",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si cette carte inflige des dommages de combat à votre adversaire, à la fin de la Damage Step : détruisez le monstre face recto sur le Terrain avec la plus faible ATK (en cas d'égalité, vous choisissez), et si vous le faites, cette carte perd 800 ATK.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/03/07",
+  "species_id": 15,
+  "starchip": "3"
+}

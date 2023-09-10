@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 9929,
+  "card_name": "揺れる発条秤",
+  "card_name_label": "ゆれるぜんまいばかり",
+  "card_name_search": "ゆれるぜんまいばかり",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上に表側表示で存在する、レベルが異なる「ゼンマイ」と名のついたモンスター２体を選択して発動する。その内１体を相手が選び、もう１体のモンスターのレベルはエンドフェイズ時まで、相手が選んだモンスターと同じになる。相手がレベルの低いモンスターを選んだ場合、その後自分はデッキからカードを１枚ドローできる。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/11/19",
+  "species_id": 24,
+  "starchip": "0"
+}

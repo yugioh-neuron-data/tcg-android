@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11846,
+  "card_name": "Giardino di Aromi",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Una volta per turno, se controlli un mostro \"Aroma\": puoi guadagnare 500 LP, inoltre tutti i mostri che controlli guadagnano 500 ATK e DEF fino alla fine del prossimo turno del tuo avversario (anche se questa carta lascia il Terreno). Se un mostro \"Aroma\" scoperto che controlli viene distrutto in battaglia o dall'effetto di una carta e mandato al Cimitero: guadagni 1000 LP.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/08/06",
+  "species_id": 24,
+  "starchip": "0"
+}

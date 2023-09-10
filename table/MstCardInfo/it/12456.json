@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 12456,
+  "card_name": "Circolo Magico Nero",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Quando questa carta viene attivata: guarda le prime 3 carte del tuo Deck, poi puoi rivelare 1 di esse che è \"Mago Nero\" o una Magia/Trappola che menziona \"Mago Nero\", e aggiungila alla tua mano, inoltre metti le carte rimanenti in cima al tuo Deck in qualsiasi ordine. Se \"Mago Nero\" viene Evocato Normalmente o Specialmente sul tuo Terreno (eccetto durante il Damage Step): puoi scegliere come bersaglio 1 carta controllata dal tuo avversario; bandiscila. Puoi utilizzare ogni effetto di \"Circolo Magico Nero\" una sola volta per turno.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/08/04",
+  "species_id": 24,
+  "starchip": "0"
+}

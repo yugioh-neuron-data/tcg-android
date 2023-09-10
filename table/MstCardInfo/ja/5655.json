@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 2,
+  "card_id": 5655,
+  "card_name": "魔導戦士 ブレイカー",
+  "card_name_label": "まどうせんし ブレイカー",
+  "card_name_search": "まどうせんしぶれいかー",
+  "card_pen_effect": "",
+  "card_text": "①：このカードが召喚に成功した場合に発動する。このカードに魔力カウンターを１つ置く（最大１つまで）。②：このカードの攻撃力は、このカードの魔力カウンターの数×３００アップする。③：このカードの魔力カウンターを１つ取り除き、フィールドの魔法・罠カード１枚を対象として発動できる。そのカードを破壊する。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/09/19",
+  "species_id": 18,
+  "starchip": "4"
+}

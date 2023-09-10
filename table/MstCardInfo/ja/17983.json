@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 17983,
+  "card_name": "暗黒界の門番 ゼンタ",
+  "card_name_label": "あんこくかいのもんばん ゼンタ",
+  "card_name_search": "あんこくかいのもんばんぜんた",
+  "card_pen_effect": "",
+  "card_text": "自分は「暗黒界の門番 ゼンタ」を１ターンに１度しか特殊召喚できない。①：このカードを手札から墓地へ捨てて発動できる。デッキから「暗黒界の門」１枚を手札に加える。②：このカードが除外された場合、自分フィールドに「暗黒界」カードが存在していれば発動できる。このカードを特殊召喚する。",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/08/06",
+  "species_id": 3,
+  "starchip": "4"
+}

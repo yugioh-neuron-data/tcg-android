@@ -1,0 +1,23 @@
+{
+  "attack_power": "-1",
+  "attribute_id": 1,
+  "card_id": 12391,
+  "card_name": "Súper Máquina de Guerra Anti-Kaiju Mecha-Dorogan",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "No puede ser Invocada de Modo Normal/Colocada. Debe ser primero Invocada de Modo Especial (desde tu mano) mientras tu adversario controle un monstruo \"Kaiju\". Sólo puedes controlar 1 monstruo \"Kaiju\". Una vez por turno: puedes retirar 2 Contadores Kaiju en cualquier lugar del Campo; equipa a esta carta 1 monstruo \"Kaiju\" en tu mano o Cementerio. Esta carta gana ATK igual al ATK original combinado de los monstruos \"Kaiju\" equipados a ella por este efecto.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/05/05",
+  "species_id": 7,
+  "starchip": "8"
+}

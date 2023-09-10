@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 6,
+  "card_id": 16219,
+  "card_name": "Saambell la Lega Stelle",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Se hai una Carta Mostro Pendulum con lo stesso Livello di questa carta nella tua altra Zona Pendulum: puoi distruggere la carta nella tua altra Zona Pendulum e, se lo fai, Evoca Specialmente questa carta. Puoi utilizzare questo effetto di \"Saambell la Lega Stelle\" una sola volta per turno.",
+  "card_text": "Se un mostro viene Evocato Specialmente sul tuo Terreno mentre controlli questo mostro (eccetto durante il Damage Step): puoi Evocare Specialmente 1 mostro dalla tua mano con lo stesso Livello di questa carta. Puoi utilizzare questo effetto di \"Saambell la Lega Stelle\" una sola volta per turno.",
+  "defense_power": "1300",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "7",
+  "pen_scale_r": "7",
+  "sales_at": "2021/08/12",
+  "species_id": 18,
+  "starchip": "3"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14143,
+  "card_name": "ユニゾン・チューン",
+  "card_name_label": "ユニゾン・チューン",
+  "card_name_search": "ゆにぞんちゅーん",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：自分または相手の墓地のチューナー１体と、フィールドの表側表示モンスター１体を対象として発動できる。対象の墓地のモンスターを除外する。その後、対象のフィールドのモンスターはターン終了時まで、除外したモンスターと同じレベルになり、チューナーとして扱う。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/10/13",
+  "species_id": 24,
+  "starchip": "0"
+}

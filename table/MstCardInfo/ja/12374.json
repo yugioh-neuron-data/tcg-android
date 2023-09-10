@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 5,
+  "card_id": 12374,
+  "card_name": "EMモモンカーペット",
+  "card_name_label": "エンタメイトモモンカーペット",
+  "card_name_search": "えんためいとももんかーぺっと",
+  "card_pen_effect": "①：もう片方の自分のPゾーンにカードが存在しない場合にこのカードは破壊される。②：このカードがPゾーンに存在する限り、自分が受ける戦闘ダメージは半分になる。",
+  "card_text": "①：このカードがリバースした場合、フィールドにセットされたカード１枚を対象として発動できる。そのカードを破壊する。②：このカードが特殊召喚に成功した場合に発動できる。このカードを裏側守備表示にする。",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 36,
+  "pen_scale_l": "7",
+  "pen_scale_r": "7",
+  "sales_at": "2016/03/19",
+  "species_id": 11,
+  "starchip": "3"
+}

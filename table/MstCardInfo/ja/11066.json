@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 3,
+  "card_id": 11066,
+  "card_name": "否定ペンギン",
+  "card_name_label": "ひていペンギン",
+  "card_name_search": "ひていぺんぎん",
+  "card_pen_effect": "",
+  "card_text": "このカード名の②の効果は１ターンに１度しか使用できない。①：このカードがモンスターゾーンに存在する限り、「ペンギン」カードの効果でフィールドから手札に戻るカードは手札に戻らず除外される。②：このカードが墓地に存在し、「ペンギン」モンスターの効果が発動した時に発動する。このカードを特殊召喚する。",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/02/15",
+  "species_id": 14,
+  "starchip": "3"
+}

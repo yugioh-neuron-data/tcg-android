@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 2,
+  "card_id": 11433,
+  "card_name": "P・M・キャプチャー",
+  "card_name_label": "ピー・エム・キャプチャー",
+  "card_name_search": "ぴーえむきゃぷちゃー",
+  "card_pen_effect": "①：自分がアンデット族モンスターのP召喚に成功した時に発動できる。そのモンスターはこのターン戦闘・効果では破壊されない。",
+  "card_text": "①：このカードが戦闘でモンスターを破壊した場合、自分の墓地のPモンスター１体を対象として発動できる。そのモンスターを手札に加える。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2015/09/19",
+  "species_id": 2,
+  "starchip": "4"
+}

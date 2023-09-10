@@ -1,0 +1,23 @@
+{
+  "attack_power": "1850",
+  "attribute_id": 6,
+  "card_id": 11996,
+  "card_name": "昇竜剣士マジェスターP",
+  "card_name_label": "しょうりゅうけんしマジェスターパラディン",
+  "card_name_search": "しょうりゅうけんしまじぇすたーぱらでぃん",
+  "card_pen_effect": "",
+  "card_text": "レベル４のPモンスター×２$N①：このカードがX召喚に成功した時に発動できる。このターンのエンドフェイズに、デッキからPモンスター１体を手札に加える。②：１ターンに１度、このカードのX素材を１つ取り除いて発動できる。自分のエクストラデッキから表側表示の「竜剣士」Pモンスター１体を特殊召喚する。この効果で特殊召喚したモンスターはX召喚の素材にできない。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/07/18",
+  "species_id": 1,
+  "starchip": "4"
+}

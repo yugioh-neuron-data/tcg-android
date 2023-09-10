@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 12880,
+  "card_name": "SPIORAL-MISSION - Wiederergreifung",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Zerstöre diese Karte während deiner 3. End Phase nach ihrer Aktivierung. Einmal pro Spielzug, falls ein „SPIORAL“-Monster als Spezialbeschwörung auf deine Spielfeldseite beschworen wird (außer während des Damage Steps): Du kannst 1 Monster wählen, das dein Gegner kontrolliert; übernimm bis zur End Phase die Kontrolle darüber, aber es kann in diesem Spielzug nicht direkt angreifen. Falls ein oder mehr „SPIORAL“-Monster, die du kontrollierst, durch Kampf oder einen Karteneffekt zerstört würden, kannst du diese Karte von deinem Friedhof verbannen, statt 1 der „SPIORAL“-Monster zu zerstören.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/02/09",
+  "species_id": 25,
+  "starchip": "0"
+}

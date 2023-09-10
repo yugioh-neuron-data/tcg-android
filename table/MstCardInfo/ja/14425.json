@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14425,
+  "card_name": "惨禍の呪眼",
+  "card_name_label": "さんかのじゅがん",
+  "card_name_search": "さんかのじゅがん",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：自分フィールドに「呪眼」モンスターが存在する場合、相手フィールドの魔法・罠カード１枚を対象として発動できる。そのカードを破壊する。自分の魔法＆罠ゾーンに「セレンの呪眼」が存在する場合、この効果で破壊したカードは墓地へは行かず除外される。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/02/23",
+  "species_id": 24,
+  "starchip": "0"
+}

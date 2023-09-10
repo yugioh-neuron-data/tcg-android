@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 13965,
+  "card_name": "トラップトリック",
+  "card_name_label": "トラップトリック",
+  "card_name_search": "とらっぷとりっく",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：デッキから「トラップトリック」以外の通常罠カード１枚を除外し、その同名カード１枚をデッキから選んで自分フィールドにセットする。この効果でセットしたカードはセットしたターンでも発動できる。このカードの発動後、ターン終了時まで自分は罠カードを１枚しか発動できない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/07/14",
+  "species_id": 25,
+  "starchip": "0"
+}

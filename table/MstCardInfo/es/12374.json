@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 5,
+  "card_id": 12374,
+  "card_name": "Artistamigo Momonfombra",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "A menos de que tengas una carta en tu otra Zona de Péndulo, destruye esta carta. Mientras esta carta esté en la Zona de Péndulo, cualquier daño de batalla que recibas se reduce a la mitad.",
+  "card_text": "VOLTEO: Puedes seleccionar 1 carta Colocada en el Campo; destrúyela. Si esta carta es Invocada de Modo Especial: puedes cambiarla a Posición de Defensa boca abajo.",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 36,
+  "pen_scale_l": "7",
+  "pen_scale_r": "7",
+  "sales_at": "2016/05/26",
+  "species_id": 11,
+  "starchip": "3"
+}

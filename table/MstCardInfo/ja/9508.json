@@ -1,0 +1,23 @@
+{
+  "attack_power": "2700",
+  "attribute_id": 6,
+  "card_id": 9508,
+  "card_name": "ジャンク・バーサーカー",
+  "card_name_label": "ジャンク・バーサーカー",
+  "card_name_search": "じゃんくばーさーかー",
+  "card_pen_effect": "",
+  "card_text": "「ジャンク・シンクロン」＋チューナー以外のモンスター１体以上$N自分の墓地に存在する「ジャンク」と名のついたモンスター１体をゲームから除外し、相手フィールド上に表側表示で存在するモンスター１体を選択して発動する。選択した相手モンスターの攻撃力は、除外したモンスターの攻撃力分ダウンする。また、このカードが守備表示のモンスターを攻撃した場合、ダメージ計算を行わずそのモンスターを破壊する。",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/02/11",
+  "species_id": 15,
+  "starchip": "7"
+}

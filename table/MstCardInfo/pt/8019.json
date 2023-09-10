@@ -1,0 +1,23 @@
+{
+  "attack_power": "900",
+  "attribute_id": 1,
+  "card_id": 8019,
+  "card_name": "Mago Arcanita/Modo de Ataque",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Não pode ser Invocado por Invocação-Normal/Baixado. Deve ser Invocado por Invocação-Especial com \"Ativar Modo de Ataque\". Se este card for Invocado por Invocação-Especial: coloque 2 Marcadores de Magia sobre ele. Ganha 1000 de ATK para cada Marcador de Magia sobre ele. Você pode remover 2 Marcadores de Magia deste card; destrua todos os cards que seu oponente controla. Quando este card no campo for destruído: você pode escolher 1 \"Mago Arcanita\" no seu Cemitério; Invoque o alvo por Invocação-Especial.",
+  "defense_power": "2300",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/04/18",
+  "species_id": 18,
+  "starchip": "9"
+}

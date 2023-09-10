@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 2,
+  "card_id": 13127,
+  "card_name": "Minitauro Camarartista de Olhos Anômalos",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Se um monstro \"Camarartista\" ou \"Olhos Anômalos\" seu atacar um monstro em Posição de Defesa, cause dano de batalha perfurante ao seu oponente.",
+  "card_text": "Durante o cálculo de dano, se um Monstro Pêndulo seu atacar um monstro do oponente: você pode fazer com que esse monstro do oponente perca 100 de ATK para cada card \"Camarartista\" e \"Olhos Anômalos\" que você controla, apenas durante o cálculo de dano.",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "6",
+  "pen_scale_r": "6",
+  "sales_at": "2017/07/06",
+  "species_id": 12,
+  "starchip": "4"
+}

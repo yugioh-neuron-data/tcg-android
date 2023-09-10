@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 5,
+  "card_id": 9960,
+  "card_name": "ズバババスター",
+  "card_name_label": "ズバババスター",
+  "card_name_search": "ずばばばすたー",
+  "card_pen_effect": "",
+  "card_text": "このカードが相手ライフに戦闘ダメージを与えたダメージステップ終了時、フィールド上に表側表示で存在する攻撃力が一番低いモンスター１体を破壊し、このカードの攻撃力は８００ポイントダウンする。",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/10/21",
+  "species_id": 15,
+  "starchip": "3"
+}

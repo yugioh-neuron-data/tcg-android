@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 2,
+  "card_id": 16524,
+  "card_name": "D-HERO デストロイフェニックスガイ",
+  "card_name_label": "デステニーヒーロー　デストロイフェニックスガイ",
+  "card_name_search": "ですてにーひーろーですとろいふぇにっくすがい",
+  "card_pen_effect": "",
+  "card_text": "レベル６以上の「HERO」モンスター＋「D-HERO」モンスター$Nこのカード名の②③の効果はそれぞれ１ターンに１度しか使用できない。①：相手フィールドのモンスターの攻撃力は、自分の墓地の「HERO」カードの数×２００ダウンする。②：自分・相手ターンに発動できる。自分フィールドのカード１枚とフィールドのカード１枚を選んで破壊する。③：このカードが戦闘・効果で破壊された場合に発動できる。次のターンのスタンバイフェイズに、自分の墓地から「D-HERO」モンスター１体を選んで特殊召喚する。",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/07/17",
+  "species_id": 15,
+  "starchip": "8"
+}

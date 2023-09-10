@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 1,
+  "card_id": 12701,
+  "card_name": "Artistamigo Colmillo de Oro",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Una vez por turno, si tu monstruo \"Artistamigo\" destruye un monstruo del adversario en batalla: inflige 1000 puntos de daño a tu adversario.",
+  "card_text": "Si esta carta es Invocada de Modo Normal o Especial: hasta el final de este turno todos los monstruos \"Artistamigo\" que controles en este momento ganan 200 ATK.",
+  "defense_power": "700",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2018/07/26",
+  "species_id": 11,
+  "starchip": "4"
+}

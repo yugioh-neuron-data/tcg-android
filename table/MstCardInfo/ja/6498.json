@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 6,
+  "card_id": 6498,
+  "card_name": "巨大戦艦 テトラン",
+  "card_name_label": "きょだいせんかん　テトラン",
+  "card_name_search": "きょだいせんかんてとらん",
+  "card_pen_effect": "",
+  "card_text": "このカードの召喚時にカウンターを３つ置く。このカードは戦闘によっては破壊されない。戦闘を行った場合、ダメージステップ終了時にこのカードのカウンターを１つ取り除く。カウンターのない状態で戦闘を行った場合、ダメージステップ終了時にこのカードを破壊する。また、このカードのカウンターを１つ取り除く事で、フィールド上の魔法・罠カード１枚を破壊する。この効果は１ターンに１度しか使用できない。",
+  "defense_power": "2300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/08/11",
+  "species_id": 7,
+  "starchip": "6"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 1,
+  "card_id": 13341,
+  "card_name": "サイバース・アクセラレーター",
+  "card_name_label": "サイバース・アクセラレーター",
+  "card_name_search": "さいばーすあくせられーたー",
+  "card_pen_effect": "",
+  "card_text": "トークン以外のモンスター２体以上$Nこのカード名の効果は１ターンに１度しか使用できない。①：自分・相手のバトルフェイズにこのカードのリンク先のサイバース族モンスター１体を対象として以下の効果から１つを選択して発動できる。この効果を発動するターン、このカードは攻撃できない。●そのモンスターの攻撃力はターン終了時まで２０００アップする。●このターン、そのモンスターは１度のバトルフェイズ中に２回までモンスターに攻撃できる。",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "462",
+  "linkno": "3",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/07/21",
+  "species_id": 27,
+  "starchip": ""
+}

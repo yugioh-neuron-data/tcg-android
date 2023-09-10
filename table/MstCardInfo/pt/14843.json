@@ -1,0 +1,23 @@
+{
+  "attack_power": "2300",
+  "attribute_id": 3,
+  "card_id": 14843,
+  "card_name": "Leviatã Aquático @Ignister",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Você pode Invocar este card por Invocação-Ritual com \"Ritual da I.A.\". Se este card for Invocado por Invocação-Ritual: você pode devolver para a mão todos os monstros que seu oponente controla com 2300 ou menos de ATK. Você pode escolher 1 monstro com a face para cima que seu oponente controla; devolva todos os Monstros Link do seu Cemitério para o Deck Adicional e, se isso acontecer, mude o ATK do monstro alvo para 0. Você só pode usar este efeito de \"Leviatã Aquático @Ignister\" uma vez por turno. Uma vez por batalha, durante o cálculo de dano, se este card batalhar um monstro do oponente (Efeito Rápido): você pode diminuir pela metade o ATK desse monstro do oponente, apenas durante o cálculo de dano.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 5,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/01/30",
+  "species_id": 27,
+  "starchip": "7"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 2,
+  "card_id": 12394,
+  "card_name": "Geisterfleisch",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Einmal pro Spielzug: Du kannst einen sechsseitigen Würfel werfen. Erhöhe den Pendelbereich dieser Karte bis zum Ende dieses Spielzugs um die gewürfelte Zahl (max. 10).",
+  "card_text": "Der Geist des Weihnachtsessens.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 25,
+  "pen_scale_l": "4",
+  "pen_scale_r": "4",
+  "sales_at": "2017/05/04",
+  "species_id": 11,
+  "starchip": "7"
+}

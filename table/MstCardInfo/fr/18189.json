@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 1,
+  "card_id": 18189,
+  "card_name": "Dragon Photon Galactique",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 monstres de Niveau 4$NLes autres monstres LUMIÈRE que vous contrôlez gagnent 500 ATK. Vous ne pouvez utiliser chacun des effets suivants de \"Dragon Photon Galactique\" qu'une fois par tour. Vous pouvez détacher 1 Matériel de cette carte ; soit ajoutez 1 carte \"Photon\" ou \"Galactique\" depuis votre Deck à votre main, soit envoyez-la au Cimetière. Si un ou plusieurs monstres LUMIÈRE sont Invoqués Spécialement sur votre Terrain (sauf durant la Damage Step) : vous pouvez cibler 1 de ces monstres ; jusqu'à la fin de ce tour, son Niveau devient 4 ou 8.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/02/06",
+  "species_id": 1,
+  "starchip": "4"
+}

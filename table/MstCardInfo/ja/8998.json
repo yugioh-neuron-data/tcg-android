@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 8998,
+  "card_name": "波動再生",
+  "card_name_label": "はどうさいせい",
+  "card_name_search": "はどうさいせい",
+  "card_pen_effect": "",
+  "card_text": "相手モンスターの直接攻撃宣言時、その攻撃モンスターのレベル以下のレベルを持つシンクロモンスター１体を自分の墓地から選択して発動する。その時の攻撃によって発生する自分への戦闘ダメージは半分になる。そのダメージステップ終了時、選択したシンクロモンスターを自分の墓地から特殊召喚する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/04/17",
+  "species_id": 25,
+  "starchip": "0"
+}

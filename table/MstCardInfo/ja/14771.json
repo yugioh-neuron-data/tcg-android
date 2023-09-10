@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 6,
+  "card_id": 14771,
+  "card_name": "剣の王 フローディ",
+  "card_name_label": "つるぎのジェネレイド　フローディ",
+  "card_name_search": "つるぎのじぇねれいどふろーでぃ",
+  "card_pen_effect": "",
+  "card_text": "このカード名の②の効果は１ターンに１度しか使用できない。①：「剣の王 フローディ」は自分フィールドに１体しか表側表示で存在できない。②：自分フィールドの、「ジェネレイド」モンスターまたは戦士族モンスターを任意の数だけリリースし、その数だけフィールドのモンスターを対象として発動できる。そのモンスターを破壊する。その後、破壊された相手フィールドのモンスターの数だけ相手はデッキからドローできる。この効果は相手ターンでも発動できる。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/08/03",
+  "species_id": 15,
+  "starchip": "9"
+}

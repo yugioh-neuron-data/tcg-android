@@ -1,0 +1,23 @@
+{
+  "attack_power": "1300",
+  "attribute_id": 5,
+  "card_id": 18175,
+  "card_name": "潜伏するG",
+  "card_name_label": "せんぷくするジー",
+  "card_name_search": "せんぷくするじー",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①の効果は１ターンに１度しか使用できない。①：相手がモンスターの特殊召喚に成功した時に発動できる。このカードを手札から裏側守備表示で特殊召喚する。この効果で特殊召喚したこのカードは、このターンのエンドフェイズに表側守備表示になる。②：このカードがエンドフェイズにリバースした場合に発動する。フィールドの特殊召喚されたモンスターを全て破壊する。",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/10/15",
+  "species_id": 10,
+  "starchip": "7"
+}

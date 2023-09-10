@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15293,
+  "card_name": "Magellanica, la Cité des Profondeurs",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "(Le nom de cette carte est toujours traité comme \"Umi\".)$NLorsque cette carte est activée : vous pouvez placer 1 monstre EAU depuis votre Deck au-dessus de votre Deck. Une fois par tour : vous pouvez cibler 1 monstre EAU que vous contrôlez ; jusqu'à la fin de ce tour (même si cette carte quitte le Terrain), augmentez son Niveau de 1 ou 2. Une fois par tour, durant votre Main Phase, si vous Invoquez Spécialement un Monstre Synchro EAU : vous pouvez regarder la main de votre adversaire, et si vous le faites, bannissez-en 1 carte face recto jusqu'à la End Phase.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/08/06",
+  "species_id": 24,
+  "starchip": "0"
+}

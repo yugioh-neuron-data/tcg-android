@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 1,
+  "card_id": 6531,
+  "card_name": "Besta Mítica Cérbero",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Sempre que um Card de Magia for ativado, coloque 1 Marcador de Magia neste card quando essa Magia resolver. Ganha 500 de ATK para cada Marcador de Magia sobre ele. No final da Fase de Batalha, se este card batalhou, remova todos os Marcadores de Magia sobre ele.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/06/28",
+  "species_id": 18,
+  "starchip": "4"
+}

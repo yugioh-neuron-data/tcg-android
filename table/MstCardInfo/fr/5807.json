@@ -1,0 +1,23 @@
+{
+  "attack_power": "550",
+  "attribute_id": 3,
+  "card_id": 5807,
+  "card_name": "Torpille Pingouin",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cette carte peut attaquer directement. Lorsque cette carte inflige des dommages de combat à votre adversaire : vous pouvez cibler 1 monstre de max. Niveau 6 contrôlé par votre adversaire ; prenez son contrôle jusqu'à la End Phase, mais ses effets sont annulés, et aussi, il ne peut pas déclarer d'attaque, tant que vous le contrôlez. Vous ne pouvez utiliser cet effet de \"Torpille Pingouin\" qu'une fois par tour. À la fin de la Damage Step, si cette carte a attaqué : détruisez cette carte.",
+  "defense_power": "300",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/07/23",
+  "species_id": 14,
+  "starchip": "3"
+}

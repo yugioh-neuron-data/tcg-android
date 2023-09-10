@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 12970,
+  "card_name": "Pacifis, la Città Fantasmatica",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "(Il nome di questa carta viene sempre considerato come \"Umi\".)$NNon puoi Evocare Normalmente o Specialmente Mostri con Effetto nel turno in cui attivi uno dei due effetti di questa carta (anche se questa carta lascia il Terreno). Una volta per turno, se Evochi Normalmente o Specialmente esattamente 1 Mostro Normale (e nessuna altra carta): aggiungi 1 carta \"Spirale Fantasmatica\" dal tuo Deck alla tua mano. Se il tuo avversario attiva una carta o un effetto (eccetto durante il Damage Step) e tu non controlli nessun Segna-Mostro: puoi Evocare Specialmente 1 \"Segna-Spirale Fantasmatica\" (Tipo Wyrm/ACQUA/Livello 8/ATK 2000/DEF 2000).",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/05/04",
+  "species_id": 24,
+  "starchip": "0"
+}

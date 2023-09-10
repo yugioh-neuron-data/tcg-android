@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 5,
+  "card_id": 10165,
+  "card_name": "ブロック・ゴーレム",
+  "card_name_label": "ブロック・ゴーレム",
+  "card_name_search": "ぶろっくごーれむ",
+  "card_pen_effect": "",
+  "card_text": "①：自分の墓地のモンスターが地属性のみの場合、このカードをリリースし、「ブロック・ゴーレム」以外の自分の墓地のレベル４以下の岩石族モンスター２体を対象として発動できる。その岩石族モンスターを特殊召喚する。この効果で特殊召喚したモンスターはこのターン、フィールドで発動する効果を発動できない。",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/04/14",
+  "species_id": 6,
+  "starchip": "3"
+}

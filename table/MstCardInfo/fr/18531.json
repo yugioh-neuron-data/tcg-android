@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 18531,
+  "card_name": "Cochon d'Acier VS Piquet d'Enclos",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Ciblez 1 monstre face recto sur le Terrain ; si l'ATK, DEF ou Niveau du monstre est supérieur à sa valeur d'origine, il devient sa valeur d'origine, puis payez des LP en multiples de 100 (min. 100, max. 1000). Durant votre Main Phase, si chaque joueur a les mêmes LP et que cette carte est dans votre Cimetière : vous pouvez Poser cette carte. Vous ne pouvez utiliser cet effet de \"Cochon d'Acier VS Piquet d'Enclos\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/05/04",
+  "species_id": 24,
+  "starchip": "0"
+}

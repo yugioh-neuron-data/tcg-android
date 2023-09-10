@@ -1,0 +1,23 @@
+{
+  "attack_power": "400",
+  "attribute_id": 2,
+  "card_id": 12596,
+  "card_name": "Attrape-Mouche Prédaplante",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Une fois par tour : vous pouvez cibler 1 monstre face recto contrôlé par votre adversaire ; placez 1 Compteur Prédateur sur celui-ci, et s'il est de min. Niveau 2, il devient Niveau 1 tant qu'il a un Compteur Prédateur. Au début de la Damage Step, lorsque cette carte combat un monstre de Niveau inférieur ou égal : vous pouvez détruire le monstre, puis augmentez le Niveau de cette carte du Niveau d'origine du monstre détruit.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/11/03",
+  "species_id": 13,
+  "starchip": "2"
+}

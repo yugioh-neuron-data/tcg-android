@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 5,
+  "card_id": 10060,
+  "card_name": "Absorptionskrug",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "FLIPP: Zerstöre alle gesetzten Zauber/Fallen auf dem Spielfeld, dann zieht jeder Spieler für jede Karte, die er kontrolliert hat und die durch diesen Effekt zerstört wurde, 1 Karte. Du kannst in diesem Spielzug keine Karten setzen.",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 24,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/05/10",
+  "species_id": 6,
+  "starchip": "3"
+}

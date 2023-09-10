@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 12492,
+  "card_name": "融爆",
+  "card_name_label": "ゆうばく",
+  "card_name_search": "ゆうばく",
+  "card_pen_effect": "",
+  "card_text": "①：自分フィールドのカードが魔法カードの効果で破壊された時、相手フィールドのカード１枚を対象として発動できる。そのカードを破壊する。②：自分フィールドのカードが魔法カードの効果で破壊された時、墓地のこのカードを除外し、相手フィールドのカード１枚を対象として発動できる。そのカードを破壊する。この効果はこのカードが墓地へ送られたターンには発動できない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/04/23",
+  "species_id": 25,
+  "starchip": "0"
+}

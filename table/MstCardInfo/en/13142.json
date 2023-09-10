@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 13142,
+  "card_name": "Twilight Ninja Kagen",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "You cannot Pendulum Summon monsters, except \"Ninja\" monsters. This effect cannot be negated. Once per turn, when your \"Ninja\" monster declares an attack: You can make that monster gain 1000 ATK until the end of the Damage Step (even if this card leaves the field).",
+  "card_text": "You can Tribute this card, then target 1 \"Ninja\" monster you control; it gains 800 ATK until the end of this turn.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "10",
+  "pen_scale_r": "10",
+  "sales_at": "2017/07/07",
+  "species_id": 15,
+  "starchip": "1"
+}

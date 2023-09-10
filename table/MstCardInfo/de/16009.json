@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 1,
+  "card_id": 16009,
+  "card_name": "Benghalanzenträger der Auferstandene",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2+ Pflanze-Monster$NWährend der Main Phase (Schnelleffekt): Du kannst 1 Effektmonster wählen, das dein Gegner kontrolliert; du erhältst Schaden in Höhe seiner ATK und falls du Schaden erhalten hast, gib es auf die Hand zurück. Falls sich diese Karte in deinem Friedhof befindet: Du kannst 2 oder mehr Linkmonster, deren kombinierte Linkzahl genau 4 entspricht, von deinem Friedhof verbannen; beschwöre diese Karte als Spezialbeschwörung, aber verbanne sie, wenn sie das Spielfeld verlässt. Du kannst nur 1 Effekt von „Benghalanzenträger der Auferstandene“ pro Spielzug verwenden und in dem Spielzug nur einmal.",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "8462",
+  "linkno": "4",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/06/03",
+  "species_id": 13,
+  "starchip": ""
+}

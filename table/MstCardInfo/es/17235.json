@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 4,
+  "card_id": 17235,
+  "card_name": "Firestarter de Libromancia",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Puedes Invocar esta carta por Ritual con una carta \"Libromancia\". Si esta carta es Invocada por Ritual usando uno o más monstruos en el Campo, no puede ser destruida, o desterrada, por efectos de cartas. Gana 200 ATK/DEF cada vez que tu adversario activa una carta o efecto, mientras tú controlas esta carta con ATK menor que 3000 en la Zona de Monstruos.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 5,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/02/10",
+  "species_id": 27,
+  "starchip": "3"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 5,
+  "card_id": 6029,
+  "card_name": "Chasseur d'Héritage",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsque cette carte attaque un monstre en Position de Défense face verso, le détruit à l'issue du combat et l'envoie au Cimetière, votre adversaire renvoie 1 carte au hasard de sa main dans le Deck. Mélangez ensuite le Deck.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/06/01",
+  "species_id": 15,
+  "starchip": "4"
+}

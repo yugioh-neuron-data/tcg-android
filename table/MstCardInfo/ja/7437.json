@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 5,
+  "card_id": 7437,
+  "card_name": "コアラッコ",
+  "card_name_label": "コアラッコ",
+  "card_name_search": "こあらっこ",
+  "card_pen_effect": "",
+  "card_text": "このカード以外の獣族モンスターが自分フィールド上に存在する場合、相手フィールド上のモンスター１体を選択し、エンドフェイズ時まで攻撃力を０にできる。この効果は１ターンに１度しか使用できない。",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/11/23",
+  "species_id": 11,
+  "starchip": "2"
+}

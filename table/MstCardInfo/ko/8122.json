@@ -1,0 +1,23 @@
+{
+  "attack_power": "2200",
+  "attribute_id": 5,
+  "card_id": 8122,
+  "card_name": "엘리멘틀 히어로 가이아",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"엘리멘틀 히어로\" 몬스터 ＋ 땅 속성 몬스터$N이 카드는 융합 소환으로밖에 특수 소환할 수 없다. ①: 이 카드가 융합 소환에 성공했을 경우, 상대 필드의 앞면 표시 몬스터 1장을 대상으로 하고 발동한다. 턴 종료시까지, 그 몬스터의 공격력을 절반으로 하고, 이 카드의 공격력은 그 수치만큼 올린다.",
+  "defense_power": "2600",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/07/02",
+  "species_id": 15,
+  "starchip": "6"
+}

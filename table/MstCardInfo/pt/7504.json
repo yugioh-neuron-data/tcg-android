@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 7504,
+  "card_name": "Cassimolar",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Quando este card for Invocado por Invocação-Normal: você pode escolher 1 monstro com a face para cima que seu oponente controla; ele ganha ATK igual ao seu ATK original e, além disso, durante a Fase Final do próximo turno, destrua esse monstro com a face para cima e, se isso acontecer, seu oponente sofre dano igual à metade do seu ATK original. No começo da Fase de Batalha do seu oponente: você pode oferecer como Tributo este card Invocado por Invocação-Normal/Baixado; os monstros do seu oponente não podem atacar diretamente pelo resto deste turno.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/02/06",
+  "species_id": 3,
+  "starchip": "3"
+}

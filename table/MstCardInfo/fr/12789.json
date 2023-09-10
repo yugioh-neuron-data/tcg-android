@@ -1,0 +1,23 @@
+{
+  "attack_power": "-1",
+  "attribute_id": 5,
+  "card_id": 12789,
+  "card_name": "Sangliarc du Zoodiaque",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "5 monstres de Niveau 4$NUne fois par tour, vous pouvez aussi Invoquer par Xyz \"Sangliarc du Zoodiaque\" en utilisant 1 monstre \"Zoodiaque\" que vous contrôlez de nom différent comme Matériel. (Transférez ses Matériels à cette carte.) Gagne une ATK/DEF égales à l'ATK/DEF de tous les monstres \"Zoodiaque\" qui lui sont attachés comme Matériel. Cette carte peut attaquer directement. Lorsque cette carte inflige des dommages de combat à votre adversaire tant qu'elle a min. 12 Matériels : vous pouvez envoyer autant de cartes que possible depuis la main et Terrain de votre adversaire au Cimetière, puis changez cette carte en Position de Défense.",
+  "defense_power": "-1",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/02/09",
+  "species_id": 12,
+  "starchip": "4"
+}

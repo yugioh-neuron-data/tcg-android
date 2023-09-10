@@ -1,0 +1,947 @@
+[
+  {
+    "card_count": 1,
+    "card_id": 7364,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN093",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 7506,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN094",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 15469,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN085",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 17105,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN000",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17106,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN098",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17107,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN099",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17120,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN100",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 47
+  },
+  {
+    "card_count": 1,
+    "card_id": 17915,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN095",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 18227,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN096",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 18447,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN097",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 18464,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN001",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 18465,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN002",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18466,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN003",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18467,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN004",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18468,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN005",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18469,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN006",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 18470,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN007",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18471,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN008",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 18472,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN009",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18473,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN010",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 18474,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN011",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 18474,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN011",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 47
+  },
+  {
+    "card_count": 1,
+    "card_id": 18475,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN012",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 18476,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN013",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 18477,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN014",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 18478,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN015",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 18479,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN016",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18480,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN017",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18481,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN018",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18482,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN019",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18483,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN020",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 18484,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN021",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 18485,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN022",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 18486,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN023",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18487,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN024",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 18488,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN025",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18489,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN026",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 18490,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN027",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18491,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN028",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18492,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN029",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 18493,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN030",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18494,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN031",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 18495,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN032",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18496,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN033",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18497,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN034",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18498,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN035",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 18499,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN036",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 18500,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN037",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 18501,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN038",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18502,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN039",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 18503,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN040",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 18504,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN041",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 18505,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN042",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 18505,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN042",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 47
+  },
+  {
+    "card_count": 1,
+    "card_id": 18506,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN043",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 18507,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN044",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 18508,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN045",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 18509,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN046",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18510,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN047",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 18510,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN047",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 47
+  },
+  {
+    "card_count": 1,
+    "card_id": 18511,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN048",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 18512,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN049",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 18513,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN050",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 18514,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN051",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 18515,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN052",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18516,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN053",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 18517,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN054",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18518,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN055",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18519,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN056",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18520,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN057",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 18521,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN058",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 18522,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN059",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18523,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN060",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18524,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN061",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18525,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN062",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18526,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN063",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 18527,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN064",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 18528,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN065",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18529,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN066",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18530,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN067",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 18531,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN068",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18532,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN069",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18533,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN070",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18534,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN071",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18535,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN072",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18536,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN073",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18537,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN074",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18538,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN075",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18539,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN076",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18540,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN077",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18541,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN078",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18542,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN079",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18543,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN080",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18665,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN081",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18666,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN082",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18667,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN083",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18668,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN084",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18669,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN086",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 18670,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN087",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 18671,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN088",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 18671,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN088",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 47
+  },
+  {
+    "card_count": 1,
+    "card_id": 18672,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN089",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 18673,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN090",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18674,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN091",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 18675,
+    "card_image_id": 1,
+    "card_number": "CYAC-EN092",
+    "language": "en",
+    "pack_id": "2000001252000",
+    "rarity_id": 1
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 1,
+  "card_id": 6800,
+  "card_name": "Außerirdischer Grau",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "FLIPP: Lege 1 A-Zählmarke auf 1 offenes Monster auf der Spielfeldseite deines Gegners. (Falls ein Monster mit einer A-Zählmarke gegen ein Monster kämpft, dessen Kartenname „Außerirdische“ enthält, verringere nur während der Schadensberechnung seine ATK und DEF um 300 Punkte für jede A-Zählmarke.) Nachdem diese Karte aufgedeckt wurde und wenn sie als Ergebnis eines Kampfes zerstört und auf den Friedhof gelegt wird, ziehe 1 Karte von deinem Deck.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 24,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/08/16",
+  "species_id": 20,
+  "starchip": "2"
+}

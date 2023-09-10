@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 10091,
+  "card_name": "剣の采配",
+  "card_name_label": "つるぎのさいはい",
+  "card_name_search": "つるぎのさいはい",
+  "card_pen_effect": "",
+  "card_text": "相手のドローフェイズ時に、相手が通常のドローをした時に発動できる。ドローしたカードをお互いに確認し、確認したカードが魔法・罠カードだった場合、以下の効果から１つを選択して適用する。$N●ドローしたカードを捨てる。$N●相手フィールド上の魔法・罠カード１枚を選んで破壊する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/02/18",
+  "species_id": 25,
+  "starchip": "0"
+}

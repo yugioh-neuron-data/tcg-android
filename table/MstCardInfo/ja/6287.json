@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 2,
+  "card_id": 6287,
+  "card_name": "カース・オブ・ヴァンパイア",
+  "card_name_label": "カース・オブ・ヴァンパイア",
+  "card_name_search": "かーすおぶう゛ぁんぱいあ",
+  "card_pen_effect": "",
+  "card_text": "このカードが戦闘によって破壊され墓地へ送られた時、５００ライフポイントを払って発動できる。次のターンのスタンバイフェイズ時に、このカードを墓地から特殊召喚する。また、この効果によって特殊召喚に成功した時に発動する。このカードの攻撃力は５００ポイントアップする。",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/10/21",
+  "species_id": 2,
+  "starchip": "6"
+}

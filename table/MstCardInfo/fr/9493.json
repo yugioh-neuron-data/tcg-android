@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 9493,
+  "card_name": "Buster Blaster",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Une fois par tour, durant votre Main Phase, vous pouvez équiper cette carte à un monstre que vous contrôlez en tant que Carte d'Équipement, OU la déséquiper pour Invoquer Spécialement cette carte en Position d'Attaque face recto. Lorsque cette carte est équipée à un monstre par cet effet, le monstre équipé perd 500 d'ATK et de DEF. Si le monstre équipé détruit un monstre de votre adversaire au combat, détruisez tous les monstres face recto sur le Terrain du même Type de Monstre que le monstre détruit. (Un monstre ne peut être équipé qu'avec 1 Monstre Union à la fois. Si le monstre équipé doit être détruit, détruisez cette carte à la place.)",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 8,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/05/05",
+  "species_id": 7,
+  "starchip": "1"
+}

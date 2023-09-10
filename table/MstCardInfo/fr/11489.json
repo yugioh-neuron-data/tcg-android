@@ -1,0 +1,23 @@
+{
+  "attack_power": "3300",
+  "attribute_id": 3,
+  "card_id": 11489,
+  "card_name": "Nékroz d'Armure Invincible",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Vous pouvez Invoquer Rituellement cette carte avec une Carte Magie Rituelle \"Nékroz\". Uniquement Invocable Rituellement sans utiliser de monstres de Niveau 10, et non Invocable Spécialement autrement. Vous ne pouvez utiliser chacun de ces effets de \"Nékroz d'Armure Invincible\" qu'une fois par tour.$N●Durant le tour de chaque joueur : vous pouvez défausser cette carte, puis ciblez 1 monstre \"Nékroz\" que vous contrôlez ; jusqu'à la fin de ce tour, il gagne 1000 ATK/DEF.$N●Vous pouvez cibler 1 carte Posée contrôlée par votre adversaire ; détruisez-la, et si vous le faites, bannissez-la.",
+  "defense_power": "2300",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 5,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/02/12",
+  "species_id": 1,
+  "starchip": "10"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 1,
+  "card_id": 7841,
+  "card_name": "Sincronizador del Camino",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando esta carta es usada como Material de Sincronía para la Invocación por Sincronía de un monstruo que no sea \"Guerrero del Camino\", reduce su Nivel en 2. Si esta carta ataca, al final del Damage Step: hasta el final de este turno, aumenta su Nivel en 1.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/06/10",
+  "species_id": 7,
+  "starchip": "4"
+}

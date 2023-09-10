@@ -1,0 +1,23 @@
+{
+  "attack_power": "-1",
+  "attribute_id": 2,
+  "card_id": 12671,
+  "card_name": "Geh Serpente Divino",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Non può essere Evocato Normalmente/Posizionato. Deve essere Evocato Specialmente dal suo stesso effetto. Se uno o più mostri che controlli vengono distrutti da un attacco o dall'effetto di una carta dell'avversario: puoi pagare la metà dei tuoi LP; Evoca Specialmente questa carta dalla tua mano. Non può essere scelto come bersaglio dagli effetti delle carte. Se questa carta attacca un mostro dell'avversario, solamente durante il Damage Step, annulla gli effetti di quel mostro mentre è scoperto sul Terreno (ma i suoi effetti possono ancora essere attivati), inoltre il suo ATK diventa la metà del suo ATK originale. Una volta per battaglia, se questa carta combatte, durante il calcolo dei danni (Effetto Rapido): puoi fare diventare l'ATK di questa carta pari all'ATK originale più alto sul Terreno (in caso di parità, scegli tu).",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/07/26",
+  "species_id": 20,
+  "starchip": "12"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10544,
+  "card_name": "Magiebuch des Urteils",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Während der End Phase des Spielzugs, in dem diese Karte aktiviert wurde, füge deiner Hand „Magiebuch“-Zauberkarten von deinem Deck hinzu, außer „Magiebuch des Urteils“, bis zur Anzahl der Zauberkarten, die nach der Auflösung dieser Karte aktiviert wurden, dann kannst du 1 Monster vom Typ Hexer, dessen Stufe kleiner oder gleich der Anzahl der durch diesen Effekt deiner Hand hinzugefügten Karten ist, als Spezialbeschwörung von deinem Deck beschwören. Du kannst nur 1 „Magiebuch des Urteils“ pro Spielzug aktivieren.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/05/16",
+  "species_id": 24,
+  "starchip": "0"
+}

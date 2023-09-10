@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 5,
+  "card_id": 18313,
+  "card_name": "Traptrix Pinguicula",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 monstres de Niveau 4$NTant que cette carte a du Matériel, elle n'est affectée ni par des effets de Piège ni par les effets activés d'autres monstres du même Type que le Matériel de cette carte. Vous ne pouvez utiliser chacun des effets suivants de \"Traptrix Pinguicula\" qu'une fois par tour. Vous pouvez détacher 1 Matériel de cette carte ; ajoutez 1 monstre \"Traptrix\" depuis votre Deck à votre main. Si un ou plusieurs monstres dont le propriétaire est votre adversaire sont envoyés au Cimetière ou bannis par un effet de carte (sauf durant la Damage Step) : vous pouvez attacher 1 de ces monstres à cette carte comme Matériel.",
+  "defense_power": "300",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/02/23",
+  "species_id": 13,
+  "starchip": "4"
+}

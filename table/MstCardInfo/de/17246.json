@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 17246,
+  "card_name": "Duellakademie",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Diese Karte erhält diese Effekte, basierend auf den Monstertypen auf dem Spielfeld.$N●Krieger, Ungeheuer oder Pyro: Einmal pro Spielzug, falls du eine Fallenkarte aktivierst (außer während des Damage Steps): Du kannst 1 Karte wählen, die dein Gegner kontrolliert; zerstöre sie.$N●Dinosaurier, Seeschlange oder Donner: Einmal pro Spielzug, falls du eine Zauberkarte aktivierst (außer während des Damage Steps): Du kannst deinem Gegner 1000 Schaden zufügen.$N●Maschine, Fee oder Unterweltler: Einmal pro Spielzug, falls du einen Monstereffekt aktivierst (außer während des Damage Steps): Du kannst 1 offenes Monster wählen, das du kontrollierst; es erhält 1000 ATK (selbst falls diese Karte das Spielfeld verlässt).",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/03/09",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 6,
+  "card_id": 6686,
+  "card_name": "Babyspieldrache der Harpyien",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Erhält Effekte basierend auf der Anzahl der „Harpyie“-Monster, die du kontrollierst, außer „Babyspieldrache der Harpyien“.$N●1+: Dein Gegner kann „Harpyie“-Monster, die du kontrollierst, nicht als Ziel für Angriffe wählen, außer „Babyspieldrache der Harpyien“.$N●2+: Verdopple die Grund-ATK/DEF dieser Karte.$N●3+: Einmal pro Spielzug: Du kannst 1 Karte wählen, die dein Gegner kontrolliert; zerstöre das gewählte Ziel.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/05/13",
+  "species_id": 1,
+  "starchip": "4"
+}

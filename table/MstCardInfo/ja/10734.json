@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 2,
+  "card_id": 10734,
+  "card_name": "マリスボラス・スプーン",
+  "card_name_label": "マリスボラス・スプーン",
+  "card_name_search": "まりすぼらすすぷーん",
+  "card_pen_effect": "",
+  "card_text": "このカードがフィールド上に表側表示で存在する場合に「マリスボラス・スプーン」以外の「マリスボラス」と名のついたモンスターが自分フィールド上に召喚・特殊召喚された時、自分の墓地から悪魔族・レベル２モンスター１体を選択して特殊召喚できる。この効果で特殊召喚したモンスターの効果は無効化される。「マリスボラス・スプーン」の効果は１ターンに１度しか使用できない。",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/07/20",
+  "species_id": 3,
+  "starchip": "2"
+}

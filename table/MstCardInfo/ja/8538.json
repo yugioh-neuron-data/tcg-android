@@ -1,0 +1,23 @@
+{
+  "attack_power": "-1",
+  "attribute_id": 2,
+  "card_id": 8538,
+  "card_name": "クリアー・バイス・ドラゴン",
+  "card_name_label": "クリアー・バイス・ドラゴン",
+  "card_name_search": "くりあーばいすどらごん",
+  "card_pen_effect": "",
+  "card_text": "このカードがフィールド上に表側表示で存在する限り、このカードのコントローラーに「クリアー・ワールド」の効果は適用されない。このカードが相手モンスターに攻撃する場合、ダメージ計算時のみこのカードの攻撃力は攻撃対象モンスターの攻撃力の倍になる。このカードが相手のカードの効果によって破壊される場合、代わりに自分の手札を１枚捨てる事ができる。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/05/21",
+  "species_id": 1,
+  "starchip": "8"
+}

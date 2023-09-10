@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 2,
+  "card_id": 14739,
+  "card_name": "Diablo D/D",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Una vez, mientras esta carta está en tu Zona de Péndulo, cuando tu adversario Invoque por Péndulo uno o más monstruos (excepto durante el Damage Step): puedes activar este efecto; este turno, ese monstruo Invocado por Péndulo no puede atacar, y además sus efectos son negados.",
+  "card_text": "No puede atacar a menos que controles otro monstruo \"D/D\". Durante la Main Phase de tu adversario (Efecto Rápido): puedes seleccionar 1 monstruo Invocado por Péndulo boca arriba que controle tu adversario; hasta el final de este turno, niega los efectos de ese monstruo boca arriba. Sólo puedes usar este efecto de \"Diablo D/D\" una vez por turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "8",
+  "pen_scale_r": "8",
+  "sales_at": "2020/08/06",
+  "species_id": 3,
+  "starchip": "4"
+}

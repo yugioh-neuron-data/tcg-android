@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 1,
+  "card_id": 11042,
+  "card_name": "アーティファクト－フェイルノート",
+  "card_name_label": "アーティファクト－フェイルノート",
+  "card_name_search": "あーてぃふぁくとふぇいるのーと",
+  "card_pen_effect": "",
+  "card_text": "このカードは魔法カード扱いとして手札から魔法＆罠カードゾーンにセットできる。魔法＆罠カードゾーンにセットされたこのカードが相手ターンに破壊され墓地へ送られた時、このカードを特殊召喚する。相手ターン中にこのカードが特殊召喚に成功した場合、自分の墓地から「アーティファクト」と名のついたモンスター１体を選択して自分の魔法＆罠カードゾーンにセットできる。",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/02/15",
+  "species_id": 17,
+  "starchip": "5"
+}

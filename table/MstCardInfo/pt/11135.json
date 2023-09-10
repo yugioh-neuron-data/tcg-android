@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 2,
+  "card_id": 11135,
+  "card_name": "Mago Observador do Tempo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Você não pode controlar nenhum monstro para ativar este card. Se um Monstro Pêndulo que você controla batalhar, seu oponente não pode ativar Cards de Armadilha até o final da Etapa de Dano. A não ser que você tenha um card \"Mago\" ou um card \"Olhos Anômalos\" na sua outra Zona de Pêndulo, a Escala de Pêndulo deste card se torna 4.",
+  "card_text": "A cada turno, o(s) primeiro(s) card(s) nas suas Zonas de Pêndulo que seria(m) destruído(s) por um efeito de card do oponente, não é(são) destruído(s).",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "8",
+  "pen_scale_r": "8",
+  "sales_at": "2014/07/11",
+  "species_id": 18,
+  "starchip": "3"
+}

@@ -1,0 +1,542 @@
+[
+  {
+    "card_count": 1,
+    "card_id": 4007,
+    "card_image_id": 3,
+    "card_number": "SS02-FRA01",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4010,
+    "card_image_id": 1,
+    "card_number": "SS02-FRB06",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4021,
+    "card_image_id": 1,
+    "card_number": "SS02-FRB20",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4022,
+    "card_image_id": 1,
+    "card_number": "SS02-FRB07",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4032,
+    "card_image_id": 1,
+    "card_number": "SS02-FRA02",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4069,
+    "card_image_id": 1,
+    "card_number": "SS02-FRC04",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4075,
+    "card_image_id": 1,
+    "card_number": "SS02-FRB21",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4088,
+    "card_image_id": 4,
+    "card_number": "SS02-FRB01",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4148,
+    "card_image_id": 1,
+    "card_number": "SS02-FRB03",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4299,
+    "card_image_id": 1,
+    "card_number": "SS02-FRB04",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4307,
+    "card_image_id": 1,
+    "card_number": "SS02-FRB13",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4323,
+    "card_image_id": 1,
+    "card_number": "SS02-FRC12",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4324,
+    "card_image_id": 1,
+    "card_number": "SS02-FRC10",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4338,
+    "card_image_id": 1,
+    "card_number": "SS02-FRA14",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4339,
+    "card_image_id": 1,
+    "card_number": "SS02-FRB14",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4383,
+    "card_image_id": 1,
+    "card_number": "SS02-FRA03",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4657,
+    "card_image_id": 1,
+    "card_number": "SS02-FRB18",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4718,
+    "card_image_id": 1,
+    "card_number": "SS02-FRB02",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4747,
+    "card_image_id": 1,
+    "card_number": "SS02-FRA05",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4767,
+    "card_image_id": 1,
+    "card_number": "SS02-FRB05",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4771,
+    "card_image_id": 1,
+    "card_number": "SS02-FRB08",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4795,
+    "card_image_id": 1,
+    "card_number": "SS02-FRB09",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4810,
+    "card_image_id": 1,
+    "card_number": "SS02-FRA10",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4815,
+    "card_image_id": 1,
+    "card_number": "SS02-FRB16",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4816,
+    "card_image_id": 1,
+    "card_number": "SS02-FRB17",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4837,
+    "card_image_id": 1,
+    "card_number": "SS02-FRB11",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5001,
+    "card_image_id": 1,
+    "card_number": "SS02-FRC16",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5003,
+    "card_image_id": 1,
+    "card_number": "SS02-FRB22",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5021,
+    "card_image_id": 1,
+    "card_number": "SS02-FRC08",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5030,
+    "card_image_id": 1,
+    "card_number": "SS02-FRA06",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5059,
+    "card_image_id": 1,
+    "card_number": "SS02-FRB10",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5135,
+    "card_image_id": 1,
+    "card_number": "SS02-FRC17",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5276,
+    "card_image_id": 1,
+    "card_number": "SS02-FRV02",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 5284,
+    "card_image_id": 1,
+    "card_number": "SS02-FRC06",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5286,
+    "card_image_id": 1,
+    "card_number": "SS02-FRC15",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5291,
+    "card_image_id": 1,
+    "card_number": "SS02-FRC05",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5333,
+    "card_image_id": 1,
+    "card_number": "SS02-FRA07",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5335,
+    "card_image_id": 1,
+    "card_number": "SS02-FRA08",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5345,
+    "card_image_id": 1,
+    "card_number": "SS02-FRA11",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5349,
+    "card_image_id": 1,
+    "card_number": "SS02-FRA04",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5560,
+    "card_image_id": 1,
+    "card_number": "SS02-FRA15",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5575,
+    "card_image_id": 1,
+    "card_number": "SS02-FRA12",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5904,
+    "card_image_id": 1,
+    "card_number": "SS02-FRB12",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5921,
+    "card_image_id": 1,
+    "card_number": "SS02-FRA17",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5979,
+    "card_image_id": 1,
+    "card_number": "SS02-FRA13",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 6186,
+    "card_image_id": 1,
+    "card_number": "SS02-FRC01",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 6187,
+    "card_image_id": 1,
+    "card_number": "SS02-FRC02",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 6188,
+    "card_image_id": 1,
+    "card_number": "SS02-FRC03",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 6207,
+    "card_image_id": 1,
+    "card_number": "SS02-FRC13",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 6208,
+    "card_image_id": 1,
+    "card_number": "SS02-FRC11",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 6298,
+    "card_image_id": 1,
+    "card_number": "SS02-FRA09",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 6721,
+    "card_image_id": 1,
+    "card_number": "SS02-FRC09",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8859,
+    "card_image_id": 1,
+    "card_number": "SS02-FRC18",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8961,
+    "card_image_id": 1,
+    "card_number": "SS02-FRC07",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8984,
+    "card_image_id": 1,
+    "card_number": "SS02-FRV03",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 9209,
+    "card_image_id": 1,
+    "card_number": "SS02-FRC14",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 9792,
+    "card_image_id": 1,
+    "card_number": "SS02-FRV01",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 9937,
+    "card_image_id": 1,
+    "card_number": "SS02-FRB15",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 9959,
+    "card_image_id": 1,
+    "card_number": "SS02-FRA16",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11898,
+    "card_image_id": 1,
+    "card_number": "SS02-FRB19",
+    "language": "fr",
+    "pack_id": "13317001",
+    "rarity_id": 1
+  }
+]

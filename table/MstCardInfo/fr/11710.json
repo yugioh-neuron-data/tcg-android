@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 5,
+  "card_id": 11710,
+  "card_name": "Robobureau 004",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si cette carte combat un monstre de votre adversaire, durant le calcul des dommages (du tour de chaque joueur) : une fois par combat, vous pouvez activer cet effet ; votre adversaire ne reçoit aucun dommage de combat le reste de ce tour, et aussi, envoyez 1 monstre \"Robobureau\" (\"Robobureau 004\" exclu) depuis votre Deck au Cimetière, et si vous le faites, durant le calcul des dommages uniquement, cette carte gagne une ATK/DEF égales au Niveau du monstre envoyé x 500. Si cette carte détruit un monstre de votre adversaire au combat : vous pouvez Invoquer Spécialement 2 monstres \"Robobureau\" de Niveaux différents depuis votre main et/ou Cimetière en Position de Défense.",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/05/14",
+  "species_id": 7,
+  "starchip": "4"
+}

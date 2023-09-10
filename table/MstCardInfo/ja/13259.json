@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 5,
+  "card_id": 13259,
+  "card_name": "リンク・バンパー",
+  "card_name_label": "リンク・バンパー",
+  "card_name_search": "りんくばんぱー",
+  "card_pen_effect": "",
+  "card_text": "サイバース族モンスター２体$N①：１ターンに１度、このカードのリンク先の自分のモンスターが相手のリンクモンスターに攻撃したダメージステップ終了時に発動できる。このバトルフェイズ中、そのモンスターは通常の攻撃に加えて、このカード以外の自分フィールドのリンクモンスターの数まで、相手のリンクモンスターに攻撃できる。この効果を発動するターン、そのモンスター以外の自分のモンスターは攻撃できない。",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "84",
+  "linkno": "2",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/07/08",
+  "species_id": 27,
+  "starchip": ""
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 3,
+  "card_id": 14275,
+  "card_name": "Geisterschwester und gruseliger Hartriegel",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Während eines beliebigen Spielzugs, außer während der End Phase (Schnelleffekt): Du kannst diese Karte abwerfen; wende in diesem Spielzug diesen Effekt an. Du kannst diesen Effekt von „Geisterschwester und gruseliger Hartriegel“ nur einmal pro Spielzug verwenden.$N●Jedes Mal, wenn dein Gegner während der Main Phase oder der Battle Phase ein oder mehr Effektmonster als Spezialbeschwörung beschwört, erhältst du LP in Höhe der ATK jenes Monsters. Falls du durch diesen Effekt keine LP erhalten hast, werden deine LP während der End Phase halbiert.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/05/02",
+  "species_id": 2,
+  "starchip": "3"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 5,
+  "card_id": 17142,
+  "card_name": "リバースポッド",
+  "card_name_label": "リバースポッド",
+  "card_name_search": "りばーすぽっど",
+  "card_pen_effect": "",
+  "card_text": "このカード名の効果は１ターンに１度しか使用できない。①：このカードがリバースした場合に発動する。このカード以外のフィールドのモンスターを全て裏側守備表示にする。その後、フィールドの表側表示の魔法・罠カードを全て持ち主の手札に戻す。さらに、お互いはそれぞれこの効果で自身の手札に戻ったカードの数まで手札から魔法・罠カードをセットできる。",
+  "defense_power": "900",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 24,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/01/15",
+  "species_id": 6,
+  "starchip": "3"
+}

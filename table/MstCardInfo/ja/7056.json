@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 3,
+  "card_id": 7056,
+  "card_name": "ネイビィロイド",
+  "card_name_label": "ネイビィロイド",
+  "card_name_search": "ねいびぃろいど",
+  "card_pen_effect": "",
+  "card_text": "相手が自分フィールド上の魔法・罠カードを対象に「フィールド上の魔法・罠カードを破壊する」効果を持つカードを発動した時、手札を１枚捨てる事でそのカードの発動と効果を無効にし破壊する。",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/12/22",
+  "species_id": 7,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 13475,
+  "card_name": "Rafale de Protons",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Une fois par tour, si un effet de carte activé lance des pièces, immédiatement après sa résolution, appliquez les effets suivants, selon le nombre de faces.$N●1+ : Infligez 500 points de dommages à votre adversaire.$N●2+ : Détruisez 1 carte contrôlée par votre adversaire.$N●3+ : Regardez la main de votre adversaire et défaussez-lui 1 carte.$NLorsqu'un effet qui lance une pièce min. 2 fois est activé : vous pouvez bannir cette carte depuis le Cimetière ; traitez tous les résultats comme face.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/02/22",
+  "species_id": 25,
+  "starchip": "0"
+}

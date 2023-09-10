@@ -1,0 +1,23 @@
+{
+  "attack_power": "2200",
+  "attribute_id": 2,
+  "card_id": 8085,
+  "card_name": "매직 템피스터",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "튜너 ＋ 튜너 이외의 마법사족 몬스터 1장 이상$N이 카드가 싱크로 소환에 성공했을 때, 이 카드에 마력 카운터를 1개 놓는다. 1턴에 1번, 자신의 패를 임의의 매수만큼 묘지로 보내는 것으로, 그 매수만큼만 마력 카운터를 자신 필드 위에 앞면 표시로 존재하는 몬스터에 놓는다. 또한, 필드 위에 존재하는 마력 카운터를 전부 제거하는 것으로, 그 개수 × 500 포인트 데미지를 상대 라이프에 준다.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/12/02",
+  "species_id": 18,
+  "starchip": "6"
+}

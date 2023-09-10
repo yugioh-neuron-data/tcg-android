@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 5,
+  "card_id": 13480,
+  "card_name": "Antikes Antriebsgerüst",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Du kannst 1 Karte abwerfen; füge deiner Hand 1 „Antiker Antriebsgolem“ oder 1 Zauber/Falle, der oder die ausdrücklich die Karte „Antiker Antriebsgolem“ in seinem oder ihrem Text aufführt, von deinem Deck hinzu. Du kannst diesen Effekt von „Antikes Antriebsgerüst“ nur einmal pro Spielzug verwenden. Falls diese Karte angreift, kann dein Gegner bis zum Ende des Damage Steps keine Zauber-/Fallenkarten aktivieren. Falls diese offene Karte, die ihr Besitzer kontrolliert, das Spielfeld durch einen Karteneffekt eines Gegners verlässt: Du kannst bis zu 3 „Antiker Antriebsgolem“ und/oder „Antiker Antriebsgolem - Ultimatives Pfund“ als Spezialbeschwörung von deiner Hand beschwören, ungeachtet ihrer Beschwörungsbedingungen.",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/02/22",
+  "species_id": 7,
+  "starchip": "4"
+}

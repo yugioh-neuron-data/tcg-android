@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 10294,
+  "card_name": "アビスフィアー",
+  "card_name_label": "アビスフィアー",
+  "card_name_search": "あびすふぃあー",
+  "card_pen_effect": "",
+  "card_text": "デッキから「水精鱗」と名のついたモンスター１体を特殊召喚する。この効果で特殊召喚したモンスターの効果は無効化される。また、このカードがフィールド上に存在する限り、自分は魔法カードを発動できない。このカードがフィールド上から離れた時、そのモンスターを破壊する。このカードは発動後、次の相手のエンドフェイズ時に破壊される。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/07/21",
+  "species_id": 25,
+  "starchip": "0"
+}

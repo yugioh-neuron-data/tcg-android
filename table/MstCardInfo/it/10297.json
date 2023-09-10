@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 10297,
+  "card_name": "Ricordo di un Nemico",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Quando un mostro dell'avversario dichiara un attacco: subisci danno pari all'ATK del mostro attaccante e, se lo fai, bandisci quel mostro. Durante la End Phase del prossimo turno del tuo avversario, Evoca Specialmente quel mostro sul tuo Terreno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/11/08",
+  "species_id": 25,
+  "starchip": "0"
+}

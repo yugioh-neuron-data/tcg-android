@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 5,
+  "card_id": 11789,
+  "card_name": "Performapal Camelump",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Once per turn, during your Main Phase 1: You can target 1 face-up monster you control; the monsters your opponent currently controls lose 800 DEF until the end of this turn, and if they do, if the targeted monster attacks a Defense Position monster this turn, inflict piercing battle damage to your opponent. (These effects remain even if this card leaves the field.)",
+  "card_text": "If this card is destroyed by battle: You can make the monster that destroyed this card lose 800 ATK.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "2",
+  "pen_scale_r": "2",
+  "sales_at": "2015/08/07",
+  "species_id": 11,
+  "starchip": "4"
+}

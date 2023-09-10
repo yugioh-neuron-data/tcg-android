@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 11700,
+  "card_name": "Zefraniu, Secret du Yang Zing",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Vous ne pouvez pas Invoquer par Pendulation de monstres (monstres \"Yang Zing\" et \"Zefra\" exclus). Cet effet ne peut pas être annulé.",
+  "card_text": "Lorsque cette carte est Invoquée par Pendulation, ou lorsque cette carte est détruite au combat ou par un effet de carte tant qu'elle est dans votre Zone Monstre : vous pouvez ajouter 1 Magie/Piège \"Yang Zing\" ou \"Zefra\" depuis votre Deck à votre main. Vous ne pouvez utiliser cet effet de \"Zefraniu, Secret du Yang Zing\" qu'une fois par tour.",
+  "defense_power": "2600",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "7",
+  "pen_scale_r": "7",
+  "sales_at": "2015/05/14",
+  "species_id": 26,
+  "starchip": "6"
+}

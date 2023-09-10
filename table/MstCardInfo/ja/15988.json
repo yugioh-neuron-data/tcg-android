@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 2,
+  "card_id": 15988,
+  "card_name": "ダークアイ・ナイトメア",
+  "card_name_label": "ダークアイ・ナイトメア",
+  "card_name_search": "だーくあいないとめあ",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①の効果は１ターンに１度しか使用できない。①：自分の墓地の罠カードを３枚まで除外して発動できる。除外した数によって以下の効果を適用する。$N●１枚：自分はデッキから１枚ドローし、その後手札を１枚選んでデッキの一番上に戻す。$N●２枚：自分はデッキから１枚ドローする。$N●３枚：自分はデッキから２枚ドローし、その後手札を１枚選んで捨てる。$N②：１ターンに１度、このカードが戦闘で破壊される場合、代わりに自分の墓地の罠カード１枚を除外できる。",
+  "defense_power": "1700",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/01/16",
+  "species_id": 3,
+  "starchip": "4"
+}

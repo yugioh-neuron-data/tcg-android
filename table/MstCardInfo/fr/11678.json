@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 5,
+  "card_id": 11678,
+  "card_name": "Sauterellarc Potartiste",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Vous pouvez Sacrifiez 1 monstre \"Potartiste\" ; infligez des dommages à votre adversaire égaux au Niveau qu'il avait sur le Terrain x 100 (Niveau d'origine, si face verso). Vous pouvez Sacrifiez 1 monstre \"Potartiste\", puis ciblez 1 monstre \"Potartiste\" (le monstre Sacrifié exclu) dans votre Cimetière ; ajoutez-le à votre main. Vous ne pouvez utiliser chaque effet de \"Sauterellarc Potartiste\" qu'une fois par tour.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/05/14",
+  "species_id": 10,
+  "starchip": "4"
+}

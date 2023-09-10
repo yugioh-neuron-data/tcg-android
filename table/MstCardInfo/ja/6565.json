@@ -1,0 +1,23 @@
+{
+  "attack_power": "4000",
+  "attribute_id": 2,
+  "card_id": 6565,
+  "card_name": "幻魔皇ラビエル",
+  "card_name_label": "げんまおうラビエル",
+  "card_name_search": "げんまおうらびえる",
+  "card_pen_effect": "",
+  "card_text": "このカードは通常召喚できない。自分フィールドの悪魔族モンスター３体をリリースした場合のみ特殊召喚できる。①：１ターンに１度、このカード以外の自分フィールドのモンスター１体をリリースして発動できる。このカードの攻撃力はターン終了時まで、リリースしたモンスターの元々の攻撃力分アップする。②：相手がモンスターの召喚に成功した場合に発動する。自分フィールドに「幻魔トークン」（悪魔族・闇・星１・攻／守１０００）１体を特殊召喚する。このトークンは攻撃宣言できない。",
+  "defense_power": "4000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/11/17",
+  "species_id": 3,
+  "starchip": "10"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 2,
+  "card_id": 11415,
+  "card_name": "ガガガマンサー",
+  "card_name_label": "ガガガマンサー",
+  "card_name_search": "がががまんさー",
+  "card_pen_effect": "",
+  "card_text": "①：１ターンに１度、「ガガガマンサー」以外の自分の墓地の「ガガガ」モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。この効果の発動後、ターン終了時まで自分は「ガガガ」モンスターしか特殊召喚できない。②：X素材のこのカードがXモンスターの効果を発動するために取り除かれ墓地へ送られた場合、自分フィールドのXモンスター１体を対象として発動できる。そのモンスターの攻撃力はターン終了時まで５００アップする。",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/07/19",
+  "species_id": 18,
+  "starchip": "4"
+}

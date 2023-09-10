@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 1,
+  "card_id": 14950,
+  "card_name": "Dragon Primitif, le Primordial",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Votre adversaire ne reçoit aucun dommage de combat des attaques impliquant cette carte. Vous ne pouvez utiliser chacun des effets suivants de \"Dragon Primitif, le Primordial\" qu'une fois par tour. Vous pouvez bannir 1 monstre Dragon depuis votre Cimetière ; jusqu'à la fin du prochain tour, cette carte gagne une ATK/DEF égales à l'ATK du monstre banni. Si cette carte est Sacrifiée : vous pouvez cibler 1 monstre que vous contrôlez ; durant chaque Battle Phase ce tour, il peut faire une seconde attaque.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/05/05",
+  "species_id": 1,
+  "starchip": "4"
+}

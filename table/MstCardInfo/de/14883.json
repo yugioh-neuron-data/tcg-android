@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 14883,
+  "card_name": "Xyz-Wiederaufstieg",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Alle Xyz-Monster, die du kontrollierst, erhalten 800 ATK. Einmal pro Spielzug: Du kannst 1 Zauber abwerfen und dann 1 Xyz-Monster wählen, das du kontrollierst; beschwöre 1 „Nummer C“-Monster oder 1 „CXyz“-Monster mit demselben Typ wie das Monster, das du kontrollierst, aber einem um 1 höheren Rang, als Spezialbeschwörung von deinem Extra Deck, indem du es als das Material verwendest. (Dies wird als Xyz-Beschwörung behandelt. Transferiere sein Material an das beschworene Monster.) Falls du eine andere Karte als einen „Rangsteigerungszauber“-Zauber abgeworfen hast, um diesen Effekt zu aktivieren, lege das als Spezialbeschwörung beschworene Monster während der End Phase ins Extra Deck zurück (selbst falls diese Karte das Spielfeld verlässt).",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/01/30",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 2,
+  "card_id": 11688,
+  "card_name": "エッジインプ・チェーン",
+  "card_name_label": "エッジインプ・チェーン",
+  "card_name_search": "えっじいんぷちぇーん",
+  "card_pen_effect": "",
+  "card_text": "「エッジインプ・チェーン」の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：このカードの攻撃宣言時に発動できる。デッキから「エッジインプ・チェーン」１体を手札に加える。②：このカードが手札・フィールドから墓地へ送られた場合に発動できる。デッキから「デストーイ」カード１枚を手札に加える。",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/02/14",
+  "species_id": 3,
+  "starchip": "4"
+}

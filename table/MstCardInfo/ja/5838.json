@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 5838,
+  "card_name": "野性解放",
+  "card_name_label": "やせいかいほう",
+  "card_name_search": "やせいかいほう",
+  "card_pen_effect": "",
+  "card_text": "フィールド上の獣族・獣戦士族モンスター１体を選択して発動できる。選択した獣族・獣戦士族モンスターの攻撃力は、そのモンスターの守備力分アップする。この効果を受けたモンスターはエンドフェイズ時に破壊される。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2003/04/24",
+  "species_id": 24,
+  "starchip": "0"
+}

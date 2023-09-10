@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 6,
+  "card_id": 7038,
+  "card_name": "ハンター・アウル",
+  "card_name_label": "ハンター・アウル",
+  "card_name_search": "はんたーあうる",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上に表側表示で存在する風属性モンスター１体につき、このカードの攻撃力は５００ポイントアップする。また、自分フィールド上に他の風属性モンスターが表側表示で存在する限り、相手はこのカードを攻撃対象に選択する事はできない。",
+  "defense_power": "900",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/11/30",
+  "species_id": 16,
+  "starchip": "4"
+}

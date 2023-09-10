@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 6,
+  "card_id": 6778,
+  "card_name": "星見鳥ラリス",
+  "card_name_label": "ほしみどりラリス",
+  "card_name_search": "ほしみどりらりす",
+  "card_pen_effect": "",
+  "card_text": "このカードが戦闘を行う場合、ダメージステップの間このカードの攻撃力は戦闘を行う相手モンスターのレベル×２００ポイントアップする。また、このカードが攻撃したダメージステップ終了時、このカードをゲームから除外し、次の自分のターンのバトルフェイズ開始時に表側攻撃表示で自分フィールド上に戻す。",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/05/18",
+  "species_id": 16,
+  "starchip": "3"
+}

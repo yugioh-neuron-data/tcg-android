@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 4967,
+  "card_name": "検閲",
+  "card_name_label": "けんえつ",
+  "card_name_search": "けんえつ",
+  "card_pen_effect": "",
+  "card_text": "相手のスタンバイフェイズ毎に５００ライフポイントを払う事で、ランダムに１枚相手の手札を見る事ができる。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2000/09/28",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 2,
+  "card_id": 17033,
+  "card_name": "閃術兵器－H.A.M.P.",
+  "card_name_label": "せんじゅつへいき－ハンプ",
+  "card_name_search": "せんじゅつへいきはんぷ",
+  "card_pen_effect": "",
+  "card_text": "このカード名はルール上「閃刀」カードとしても扱う。このカード名の①の方法による特殊召喚は１ターンに１度しかできない。①：自分フィールドに「閃刀姫」モンスターが存在する場合、このカードは自分または相手フィールドのモンスター１体をリリースし、そのコントローラーのフィールドに手札から特殊召喚できる。②：このカードが戦闘で破壊された時、相手フィールドのカード１枚を対象として発動できる。そのカードを破壊する。",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/12/25",
+  "species_id": 7,
+  "starchip": "8"
+}

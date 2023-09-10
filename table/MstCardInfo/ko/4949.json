@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 4949,
+  "card_name": "고블린의 관리인",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "상대 라이프가 3000 포인트 이하일 경우에 발동 가능. 상대의 스텐바이 페이즈마다 상대 라이프에 500 포인트 데미지를 준다.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/06/19",
+  "species_id": 25,
+  "starchip": "0"
+}

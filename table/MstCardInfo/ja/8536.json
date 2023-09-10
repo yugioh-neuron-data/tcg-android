@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 6,
+  "card_id": 8536,
+  "card_name": "ガーディアン・エアトス",
+  "card_name_label": "ガーディアン・エアトス",
+  "card_name_search": "がーでぃあんえあとす",
+  "card_pen_effect": "",
+  "card_text": "①：自分の墓地にモンスターが存在しない場合、このカードは手札から特殊召喚できる。②：このカードに装備された自分フィールドの装備魔法カード１枚を墓地へ送り、相手の墓地のモンスターを３体まで対象として発動できる。そのモンスターを除外する。このカードの攻撃力はターン終了時まで、この効果で除外したモンスターの数×５００アップする。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/05/21",
+  "species_id": 17,
+  "starchip": "8"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 14276,
+  "card_name": "Galope Desventajado",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "No puede atacar directamente. Gana ATK igual a la diferencia entre tus LP y los de tu adversario. Si tus LP son mayores que los de tu adversario, recibes cualquier daño de batalla que tu adversario fuera a recibir de batallas que involucren a esta carta, en su lugar.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/05/02",
+  "species_id": 11,
+  "starchip": "1"
+}

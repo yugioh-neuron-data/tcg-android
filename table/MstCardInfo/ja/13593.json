@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 1,
+  "card_id": 13593,
+  "card_name": "トリックスター・ブルム",
+  "card_name_label": "トリックスター・ブルム",
+  "card_name_search": "とりっくすたーぶるむ",
+  "card_pen_effect": "",
+  "card_text": "レベル２以下の「トリックスター」モンスター１体$Nこのカード名の②の効果は１ターンに１度しか使用できない。①：このカードがリンク召喚に成功した場合に発動できる。相手はデッキから１枚ドローする。②：このカードのリンク先の「トリックスター」モンスターが戦闘・効果で破壊された場合に発動できる。相手の手札の数×２００ダメージを相手に与える。",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "2",
+  "linkno": "1",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/01/13",
+  "species_id": 17,
+  "starchip": ""
+}

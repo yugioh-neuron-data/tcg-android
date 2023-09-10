@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 18174,
+  "card_name": "流星連打－シロクロイド",
+  "card_name_label": "メテオラッシュ－シロクロイド",
+  "card_name_search": "めておらっしゅしろくろいど",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①の効果は１ターンに１度しか使用できない。①：５回以上攻撃宣言されたターンのバトルフェイズに発動できる。このカードを手札から特殊召喚する。この効果は相手ターンでも発動できる。②：このカードが戦闘を行うダメージステップの間、このカードの攻撃力は、このターンにターンプレイヤーが攻撃宣言した回数×１０００アップする。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/10/15",
+  "species_id": 7,
+  "starchip": "10"
+}

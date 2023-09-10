@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 2,
+  "card_id": 14582,
+  "card_name": "Esprit Noir du Bannissement",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si un monstre de votre adversaire attaque, au début de la Damage Step : vous pouvez envoyer cette carte depuis votre main ou Terrain au Cimetière, puis ciblez 1 monstre Démon de Niveau 8 dans votre Cimetière ; Invoquez-le Spécialement, mais ses effets sont annulés, et si vous le faites, transférez-lui la cible de l'attaque et faites le calcul des dommages. Si un ou plusieurs monstres Démon de Niveau 8 sont envoyés à votre Cimetière tant que cette carte est dans votre Cimetière (sauf durant la Damage Step) : vous pouvez ajouter cette carte à votre main. Vous ne pouvez utiliser chaque effet de \"Esprit Noir du Bannissement\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/09/26",
+  "species_id": 3,
+  "starchip": "3"
+}

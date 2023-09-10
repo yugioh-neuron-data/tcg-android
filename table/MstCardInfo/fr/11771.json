@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11771,
+  "card_name": "Bouclier Miroir de la Lune",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si le monstre équipé combat un monstre de votre adversaire, durant le calcul des dommages : durant le calcul des dommages uniquement, l'ATK/DEF du monstre équipé deviennent égales à l'ATK ou la DEF (la plus haute valeur) du monstre combattant de l'adversaire +100. Si cette carte face recto est envoyée depuis le Terrain au Cimetière : payez 500 LP ; placez cette carte soit au-dessus soit au-dessous de votre Deck.",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/05/14",
+  "species_id": 24,
+  "starchip": "0"
+}

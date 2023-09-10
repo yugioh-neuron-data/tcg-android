@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16022,
+  "card_name": "Du und A.I.",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls ein oder mehr Cyberse-Monster mit 2300 Grund-ATK als Spezialbeschwörung beschworen werden: Du kannst 1 dieser Effekte aktivieren, basierend auf den Eigenschaften jener Monster auf dem Spielfeld;$N●ERDE/WASSER: Halbiere bis zum Ende dieses Spielzugs die ATK von 1 offenen Monster auf dem Spielfeld.$N●WIND/LICHT: Annulliere bis zum Ende dieses Spielzugs die Effekte von 1 offenen Karte auf dem Spielfeld.$N●FEUER/FINSTERNIS: Beschwöre 1 „@Ignister-Spielmarke“ (Cyberse/FINSTERNIS/Stufe 1/ATK 0/DEF 0) als Spezialbeschwörung.$NDu kannst jeden Effekt von „Du und A.I.“ für jede Eigenschaft pro Spielzug nur einmal verwenden.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/06/03",
+  "species_id": 24,
+  "starchip": "0"
+}

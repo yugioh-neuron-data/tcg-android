@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15536,
+  "card_name": "双天招来",
+  "card_name_label": "そうてんしょうらい",
+  "card_name_search": "そうてんしょうらい",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：手札を１枚捨て、自分フィールドに「双天魂トークン」（戦士族・光・星２・攻／守０）を可能な限り特殊召喚する。このターン、自分は融合モンスターしかEXデッキから特殊召喚できず、自分フィールドのトークンはリリースできずエンドフェイズに破壊される。その後、以下の効果を２回まで適用できる。●自分の手札・フィールドから、「双天」融合モンスターカードによって決められた融合素材モンスターを墓地へ送り、その融合モンスター１体をEXデッキから融合召喚する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/08/08",
+  "species_id": 24,
+  "starchip": "0"
+}

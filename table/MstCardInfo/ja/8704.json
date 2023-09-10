@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 4,
+  "card_id": 8704,
+  "card_name": "ネオフレムベル・ヘッジホッグ",
+  "card_name_label": "ネオフレムベル・ヘッジホッグ",
+  "card_name_search": "ねおふれむべるへっじほっぐ",
+  "card_pen_effect": "",
+  "card_text": "このカードが戦闘によって破壊された場合、相手の墓地のカード１枚を選択してゲームから除外する。フィールド上のこのカードがカードの効果によって破壊された場合、自分の墓地から「ネオフレムベル・ヘッジホッグ」以外の守備力２００以下の炎属性モンスター１体を選択して手札に加える。",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/01/21",
+  "species_id": 4,
+  "starchip": "3"
+}

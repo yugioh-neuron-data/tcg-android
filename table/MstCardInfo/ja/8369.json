@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 8369,
+  "card_name": "身剣一体",
+  "card_name_label": "しんけんいったい",
+  "card_name_search": "しんけんいったい",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上のモンスターが、「X－セイバー」と名のついたモンスター１体のみの場合に発動できる。発動後このカードは攻撃力８００ポイントアップの装備カードとなり、そのモンスター１体に装備する。装備モンスターが戦闘によって相手モンスターを破壊した場合、デッキからカードを１枚ドローする。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/04/18",
+  "species_id": 25,
+  "starchip": "0"
+}

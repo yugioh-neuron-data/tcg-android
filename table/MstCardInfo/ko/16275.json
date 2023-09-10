@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 16275,
+  "card_name": "저세상 너머",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 상대 묘지의 카드를 5장까지 대상으로 하고, 그 수만큼, 제외되어 있는 상대의 카드를 대상으로 하여 발동할 수 있다. 대상 묘지의 카드를 제외하고, 대상의 제외되어 있는 카드를 묘지로 되돌린다.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/12/21",
+  "species_id": 25,
+  "starchip": "0"
+}

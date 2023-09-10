@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 1,
+  "card_id": 7047,
+  "card_name": "天空聖者メルティウス",
+  "card_name_label": "エンジェルセイントメルティウス",
+  "card_name_search": "えんじぇるせいんとめるてぃうす",
+  "card_pen_effect": "",
+  "card_text": "①：このカードがモンスターゾーンに存在する限り、自分または相手がカウンター罠カードを発動する度に、自分は１０００LP回復し、フィールドに「天空の聖域」が存在する場合、さらに相手フィールドのカード１枚を選んで破壊する。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/12/14",
+  "species_id": 17,
+  "starchip": "4"
+}

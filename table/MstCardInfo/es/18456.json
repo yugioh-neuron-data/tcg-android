@@ -1,0 +1,23 @@
+{
+  "attack_power": "2300",
+  "attribute_id": 4,
+  "card_id": 18456,
+  "card_name": "Orgullo Dorado - Cabeza Nytro",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si tus LP son menores que los de tu adversario: puedes Invocar esta carta de Modo Especial desde tu mano. Durante la Standby Phase de tu adversario: puedes Invocar de Modo Especial 1 \"Ficha Nytro\" (Piro/FUEGO/Nivel 8/ATK 0/DEF 0) al Campo de tu adversario, pero no puede ser usada como Material de Enlace. Durante la Main Phase de tu adversario (Efecto Rápido): puedes seleccionar 1 \"Ficha Nytro\" en el Campo; destruye esa Ficha, y destruye todas las cartas en sus Zonas de Monstruos y Zonas de Magia y Trampas adyacentes. Sólo puedes usar cada efecto de \"Orgullo Dorado - Cabeza Nytro\" una vez por turno.",
+  "defense_power": "2600",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/02/06",
+  "species_id": 4,
+  "starchip": "8"
+}

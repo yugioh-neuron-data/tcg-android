@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 4962,
+  "card_name": "Sombreros Mágicos",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante la Battle Phase de tu adversario: elige 2 Mágicas/Trampas en tu Deck y 1 monstruo en tu Zona de Monstruos Principal. Invócalos de Modo Especial como Monstruos Normales (ATK 0/DEF 0) en Posición de Defensa boca abajo, Coloca el monstruo elegido si está boca arriba, y mézclalos en el Campo. Las 2 cartas elegidas en tu Deck son destruidas al final de la Battle Phase, y no pueden permanecer en el Campo excepto durante esta Battle Phase.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/12/01",
+  "species_id": 25,
+  "starchip": "0"
+}

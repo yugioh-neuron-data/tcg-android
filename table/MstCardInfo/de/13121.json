@@ -1,0 +1,23 @@
+{
+  "attack_power": "-1",
+  "attribute_id": 2,
+  "card_id": 13121,
+  "card_name": "D/D/D-Schicksalskönig Zero Laplace",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Während deiner Main Phase: Du kannst deiner Hand 1 offenes „D/D/D“-Pendelmonster von deinem Extra Deck hinzufügen, außer „D/D/D-Schicksalskönig Zero Laplace“. Du kannst diesen Effekt von „D/D/D-Schicksalskönig Zero Laplace“ nur einmal pro Spielzug verwenden.",
+  "card_text": "Du kannst diese Karte als Spezialbeschwörung (von deiner Hand) beschwören, indem du 1 „D/D/D“-Monster als Tribut anbietest. Vor der Schadensberechnung, falls diese Karte gegen ein Monster eines Gegners kämpft: Du kannst diesen Effekt aktivieren; die ATK dieser Karte werden bis zum Ende des Damage Steps zum Doppelten der Grund-ATK des Monsters des Gegners. Falls diese Karte ein Monster in Verteidigungsposition angreift, füge durchschlagenden Kampfschaden zu. Das erste Mal in jedem Spielzug, dass diese Karte durch Kampf zerstört würde, wird sie nicht zerstört und du erhältst keinen Kampfschaden aus dem Kampf.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2022/05/05",
+  "species_id": 3,
+  "starchip": "10"
+}

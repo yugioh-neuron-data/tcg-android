@@ -1,0 +1,23 @@
+{
+  "attack_power": "1900",
+  "attribute_id": 1,
+  "card_id": 10043,
+  "card_name": "Dragon Hiératique d'Eset",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Vous pouvez Invoquer Normalement cette carte sans Sacrifice, mais son ATK d'origine devient 1000. Une fois par tour : vous pouvez cibler 1 Monstre Normal Dragon face recto sur le Terrain ; jusqu'à la End Phase, le Niveau de tous les monstres \"Hiératique\" face recto actuellement sur le Terrain devient le Niveau du monstre. Lorsque cette carte est Sacrifiée : Invoquez Spécialement 1 Monstre Normal Dragon depuis votre main, Deck ou Cimetière, et faites devenir 0 son ATK/DEF.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/05/10",
+  "species_id": 1,
+  "starchip": "5"
+}

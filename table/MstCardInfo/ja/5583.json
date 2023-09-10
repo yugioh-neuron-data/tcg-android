@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 2,
+  "card_id": 5583,
+  "card_name": "騎竜",
+  "card_name_label": "きりゅう",
+  "card_name_search": "きりゅう",
+  "card_pen_effect": "",
+  "card_text": "１ターンに１度だけ自分のメインフェイズに装備カード扱いとして自分の「闇魔界の戦士 ダークソード」に装備、または装備を解除して表側攻撃表示で特殊召喚する事ができる。この効果で装備カード扱いになっている時のみ、装備モンスターの攻撃力・守備力は９００ポイントアップする。装備状態のこのカードを生け贄に捧げる事で、装備モンスターはこのターン相手プレイヤーに直接攻撃ができる。（１体のモンスターが装備できるユニオンは１枚まで。装備モンスターが戦闘によって破壊される場合は、代わりにこのカードを破壊する。）",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 8,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/07/18",
+  "species_id": 1,
+  "starchip": "5"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 2,
+  "card_id": 9868,
+  "card_name": "暗黒界の闘神 ラチナ",
+  "card_name_label": "あんこくかいのとうしん ラチナ",
+  "card_name_search": "あんこくかいのとうしんらちな",
+  "card_pen_effect": "",
+  "card_text": "①：このカードが効果で手札から墓地へ捨てられた場合に発動する。このカードを特殊召喚する。相手の効果で捨てられた場合、発動時にフィールドの悪魔族モンスター１体を対象にする。その場合、さらに以下の効果を適用する。$N●対象の悪魔族モンスターの攻撃力は５００アップする。",
+  "defense_power": "2400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/10/13",
+  "species_id": 3,
+  "starchip": "6"
+}

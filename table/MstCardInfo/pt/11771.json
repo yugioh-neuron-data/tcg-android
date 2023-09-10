@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11771,
+  "card_name": "Escudo da Lua Espelhada",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se o monstro equipado batalhar um monstro do seu oponente, durante o cálculo de dano: o ATK/DEF do monstro equipado se tornam iguais ao ATK ou DEF (o que for maior) do monstro do oponente na batalha +100, apenas durante o cálculo de dano. Se este card com a face para cima for enviado do campo para o Cemitério: pague 500 PV; coloque este card no topo ou no fundo do seu Deck.",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/05/14",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "200",
+  "attribute_id": 2,
+  "card_id": 9892,
+  "card_name": "甲虫装機 アーマイゼ",
+  "card_name_label": "インゼクター　アーマイゼ",
+  "card_name_search": "いんぜくたーあーまいぜ",
+  "card_pen_effect": "",
+  "card_text": "１ターンに１度、自分の手札・墓地から「甲虫装機」と名のついたモンスター１体を装備カード扱いとしてこのカードに装備できる。このカードが装備カード扱いとして装備されている場合、装備モンスターのレベルは３つ上がり、攻撃力・守備力はこのカードのそれぞれの数値分アップする。装備モンスターが破壊される場合、代わりにこのカードを破壊できる。",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/11/19",
+  "species_id": 10,
+  "starchip": "3"
+}

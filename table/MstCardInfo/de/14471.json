@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 5,
+  "card_id": 14471,
+  "card_name": "B.E.S. Sprengerkanonen-Kern",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls dein Gegner mehr Monster kontrolliert als du, kannst du diese Karte als Spezialbeschwörung (von deiner Hand) beschwören. Du kannst „B.E.S. Sprengerkanonen-Kern“ nur einmal pro Spielzug auf diese Art als Spezialbeschwörung beschwören. Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Lege 3 Zählmarken auf diese Karte. Kann nicht durch Kampf zerstört werden. Am Ende des Damage Steps, falls diese Karte gekämpft hat: Entferne 1 Zählmarke von dieser Karte. Falls du das nicht kannst, zerstöre sie.",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/07/26",
+  "species_id": 7,
+  "starchip": "9"
+}

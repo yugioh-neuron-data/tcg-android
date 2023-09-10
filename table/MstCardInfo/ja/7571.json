@@ -1,0 +1,23 @@
+{
+  "attack_power": "2600",
+  "attribute_id": 1,
+  "card_id": 7571,
+  "card_name": "アテナ",
+  "card_name_label": "アテナ",
+  "card_name_search": "あてな",
+  "card_pen_effect": "",
+  "card_text": "①：１ターンに１度、「アテナ」以外の自分フィールドの表側表示の天使族モンスター１体を墓地へ送り、「アテナ」以外の自分の墓地の天使族モンスター１体を対象として発動できる。その天使族モンスターを特殊召喚する。②：このカードが既にモンスターゾーンに存在する状態で、このカード以外の天使族モンスターが召喚・反転召喚・特殊召喚された場合に発動する。相手に６００ダメージを与える。",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/12/22",
+  "species_id": 17,
+  "starchip": "7"
+}

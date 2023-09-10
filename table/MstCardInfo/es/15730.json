@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 4,
+  "card_id": 15730,
+  "card_name": "Parametalmórfico Azortless",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Si una o más cartas \"Metalmórfico/a\" boca arriba que controlas son destruidas por el efecto de una carta (excepto durante el Damage Step): puedes seleccionar 1 carta boca arriba en el Campo; destrúyela. Sólo puedes usar este efecto de \"Parametalmórfico Azortless\" una vez por turno.",
+  "card_text": "1 monstruo \"Metalmórfico/a\" + 1 Monstruo de Fusión$NSi esta carta es Invocada de Modo Especial desde el Deck Extra: puedes seleccionar 1 carta que controle tu adversario; baraja al Deck 2 Monstruos de Péndulo boca arriba en tu Deck Extra y, si lo haces, destruye esa carta. Sólo puedes usar este efecto de \"Parametalmórfico Azortless\" una vez por turno. Si esta carta en la Zona de Monstruos es destruida: puedes poner esta carta en tu Zona de Péndulo.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 41,
+  "pen_scale_l": "8",
+  "pen_scale_r": "8",
+  "sales_at": "2021/02/04",
+  "species_id": 21,
+  "starchip": "7"
+}

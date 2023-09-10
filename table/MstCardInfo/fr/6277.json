@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 6277,
+  "card_name": "Pénalité !",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsque votre adversaire a 4 cartes dans sa main : activez 1 de ces effets.$N ●Votre adversaire ne peut pas piocher durant sa prochaine Draw Phase.$N ●Votre adversaire ne peut activer aucune Carte Magie/Piège ce tour.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/03/01",
+  "species_id": 25,
+  "starchip": "0"
+}

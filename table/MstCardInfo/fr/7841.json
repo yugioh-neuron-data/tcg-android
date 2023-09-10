@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 1,
+  "card_id": 7841,
+  "card_name": "Route Synchronique",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsque cette carte est utilisée comme Matériel de Synchro pour l'Invocation Synchro d'un monstre (\"Guerrier de la Route\" exclu), réduisez le Niveau de cette carte de 2. Si cette carte attaque, à la fin de la Damage Step : jusqu'à la fin de ce tour, augmentez son Niveau de 1.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/06/10",
+  "species_id": 7,
+  "starchip": "4"
+}

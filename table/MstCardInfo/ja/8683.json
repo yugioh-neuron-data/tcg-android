@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 8683,
+  "card_name": "コア・ブラスト",
+  "card_name_label": "コア・ブラスト",
+  "card_name_search": "こあぶらすと",
+  "card_pen_effect": "",
+  "card_text": "自分のスタンバイフェイズ時に１度だけ、相手フィールド上に存在するモンスターの数が自分より多い場合、自分フィールド上に存在するモンスターの数と同じ数になるように相手フィールド上に存在するカードを破壊する事ができる。この効果は自分フィールド上に「コアキメイル」と名のついたモンスターが表側表示で存在する場合のみ発動する事ができる。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/11/14",
+  "species_id": 25,
+  "starchip": "0"
+}

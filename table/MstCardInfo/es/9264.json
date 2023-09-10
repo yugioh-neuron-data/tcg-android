@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 2,
+  "card_id": 9264,
+  "card_name": "Emperador Meklord Wisel",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial por su propio efecto. Cuando un monstruo boca arriba que controlas es destruido por efecto de una carta y mandado al Cementerio (excepto durante el Damage Step): puedes Invocar esta carta de Modo Especial desde tu mano. Otros monstruos que controles no pueden declarar ataques. Una vez por turno: puedes seleccionar 1 Monstruo de Sincronía que controle tu adversario; equipa ese objetivo a esta carta. Esta carta gana ATK igual al ATK combinado de los monstruos equipados a ella por este efecto. Una vez por turno, cuando tu adversario activa una Carta Mágica (Efecto Rápido): puedes negar la activación y, si lo haces, destruye la carta.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/02/28",
+  "species_id": 7,
+  "starchip": "1"
+}

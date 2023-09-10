@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 5298,
+  "card_name": "拷問車輪",
+  "card_name_label": "ごうもんしゃりん",
+  "card_name_search": "ごうもんしゃりん",
+  "card_pen_effect": "",
+  "card_text": "相手フィールドのモンスター１体を対象としてこのカードを発動できる。①：このカードが魔法＆罠ゾーンに存在する限り、対象のモンスターは攻撃できず、表示形式の変更もできない。そのモンスターがフィールドから離れた時にこのカードは破壊される。②：自分スタンバイフェイズに発動する。相手に５００ダメージを与える。この効果は対象のモンスターがモンスターゾーンに存在する場合に発動と処理を行う。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/05/16",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "700",
+  "attribute_id": 5,
+  "card_id": 18816,
+  "card_name": "強欲なポッド",
+  "card_name_label": "ごうよくなポッド",
+  "card_name_search": "ごうよくなぽっど",
+  "card_pen_effect": "",
+  "card_text": "このカード名の効果は１ターンに１度しか使用できない。$N①：このカードがリバースした場合に発動する。以下の効果をそれぞれ適用する。$N●相手フィールドのカードの数まで自分のデッキの上からカードをめくり、その中から１枚を選んで手札に加え、残りを墓地へ送る。$N●EXデッキから特殊召喚された相手フィールドのモンスターの数まで、自分のEXデッキからモンスターを墓地へ送る。",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 24,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/04/22",
+  "species_id": 6,
+  "starchip": "3"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 5,
+  "card_id": 11615,
+  "card_name": "Camarartista Feiticeiro Pêndulo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Se um ou mais monstros \"Camarartista\" forem Invocados por Invocação-Pêndulo no seu campo: até o final deste turno, todos os monstros \"Camarartista\" que você controla atualmente ganham 1000 de ATK (mesmo que este card deixe o campo).",
+  "card_text": "Se este card for Invocado por Invocação-Especial: você pode escolher até 2 cards que você controla; destrua-os e, se isso acontecer, adicione monstros \"Camarartista\" com nomes diferentes do seu Deck à sua mão, exceto \"Camarartista Feiticeiro Pêndulo\", igual ao número de cards destruídos. Você só pode usar este efeito de \"Camarartista Feiticeiro Pêndulo\" uma vez por turno.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "2",
+  "pen_scale_r": "2",
+  "sales_at": "2016/01/15",
+  "species_id": 18,
+  "starchip": "4"
+}

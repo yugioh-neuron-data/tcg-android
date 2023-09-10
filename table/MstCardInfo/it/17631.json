@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 5,
+  "card_id": 17631,
+  "card_name": "Bestia Cristallo Avanzata Tigre Topazio",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se \"Oscurità Avanzata\" non è in una Zona Terreno, manda questo mostro al Cimitero. Tutti i mostri \"Bestia Cristallo Avanzata\" che controlli guadagnano 400 ATK/DEF, inoltre i mostri controllati dal tuo avversario perdono 400 ATK/DEF. Se questa carta scoperta viene distrutta in una Zona Mostri, puoi metterla scoperta nella tua Zona Magie & Trappole come una Magia Continua, invece di mandarla al Cimitero.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/11/17",
+  "species_id": 11,
+  "starchip": "4"
+}

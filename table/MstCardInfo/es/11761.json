@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11761,
+  "card_name": "El Dominio de los Verdaderos Monarcas",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Mientras no tengas cartas en tu Deck Extra y seas el único jugador que controle un monstruo Invocado por Sacrificio, tu adversario no puede Invocar monstruos de Modo Especial desde el Deck Extra. Si un monstruo Invocado por Sacrificio que controlas ataca a un monstruo del adversario, éste gana 800 ATK sólo durante el cálculo de daño. Una vez por turno: hasta el final de este turno, puedes reducir en 2 el Nivel de 1 monstruo en tu mano con 2800 ATK/1000 DEF (aun después de que es Invocado/Colocado, y aun si esta carta deja el Campo).",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/01/28",
+  "species_id": 24,
+  "starchip": "0"
+}

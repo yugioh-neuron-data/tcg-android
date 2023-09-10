@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 1,
+  "card_id": 14995,
+  "card_name": "Oberster Todfeind Eschatos",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss erst als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 3 Monster mit unterschiedlichen Typen von deinem Friedhof und/oder offen von deiner Spielfeldseite verbannst. Kann nicht durch Karteneffekte zerstört werden. Du kannst 1 Monstertyp auf dem Spielfeld deklarieren; zerstöre alle Monster mit dem Typ auf dem Spielfeld, zusätzlich kann bis zum Ende des nächsten Spielzugs kein Spieler Monster mit dem Typ als Spezialbeschwörung beschwören. Du kannst diesen Effekt von „Oberster Todfeind Eschatos“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/30",
+  "species_id": 1,
+  "starchip": "11"
+}

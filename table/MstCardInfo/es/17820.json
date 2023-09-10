@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 17820,
+  "card_name": "Péndulo Dracónico",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Todos los monstruos \"Dracoasesino\" en el Campo ganan 300 ATK/DEF. Sólo puedes usar cada uno de los siguientes efectos de \"Péndulo Dracónico\" una vez por turno. Si un monstruo Dragón \"Dracoasesino\" que controlas activa su efecto (excepto durante el Damage Step): puedes seleccionar 1 carta en el Campo; destrúyela. Si esta carta en el Campo es destruida: puedes añadir a tu mano o Invocar de Modo Especial 1 monstruo \"Dracoasesino\" o \"Dracoseñor\" desde tu Deck.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/10/20",
+  "species_id": 24,
+  "starchip": "0"
+}

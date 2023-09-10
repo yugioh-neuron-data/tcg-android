@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 5,
+  "card_id": 8141,
+  "card_name": "ボーンクラッシャー",
+  "card_name_label": "ボーンクラッシャー",
+  "card_name_search": "ぼーんくらっしゃー",
+  "card_pen_effect": "",
+  "card_text": "このカードがアンデット族モンスターの効果によって自分の墓地から特殊召喚された時、相手フィールド上に存在する魔法・罠カード１枚を破壊する事ができる。このカードは特殊召喚されたターンのエンドフェイズ時に破壊される。",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/09/19",
+  "species_id": 2,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 3,
+  "card_id": 7017,
+  "card_name": "블리자드 드래곤",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "상대 필드 위에 존재하는 몬스터 1장을 선택한다. 선택한 몬스터는 다음 상대 턴의 엔드 페이즈시까지, 표시 형식의 변경과 공격 선언을 할 수 없게 된다. 이 효과는 1턴에 1번밖에 사용할 수 없다.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/02/01",
+  "species_id": 1,
+  "starchip": "4"
+}

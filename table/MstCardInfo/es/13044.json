@@ -1,0 +1,23 @@
+{
+  "attack_power": "2200",
+  "attribute_id": 1,
+  "card_id": 13044,
+  "card_name": "Chófer Salvagente",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si un Monstruo de Enlace Ciberso que tú controlas es destruido por el efecto de una carta de tu adversario mientras esta carta está en tu mano o Cementerio (excepto durante el Damage Step): puedes Invocar esta carta de Modo Especial. Puedes descartar 1 Mágica, y después seleccionar 1 monstruo Ciberso en tu Cementerio; Invócalo de Modo Especial, pero este turno no puede atacar directamente. Sólo puedes usar cada efecto de \"Chófer Salvagente\" una vez por turno.",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/08/03",
+  "species_id": 27,
+  "starchip": "6"
+}

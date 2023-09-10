@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 5,
+  "card_id": 7667,
+  "card_name": "ウィード",
+  "card_name_label": "ウィード",
+  "card_name_search": "うぃーど",
+  "card_pen_effect": "",
+  "card_text": "フィールド上に表側表示で存在するこのカードが破壊される場合、代わりにこのカード以外の自分フィールド上に表側表示で存在する植物族モンスター１体を破壊できる。",
+  "defense_power": "400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/07/19",
+  "species_id": 13,
+  "starchip": "2"
+}

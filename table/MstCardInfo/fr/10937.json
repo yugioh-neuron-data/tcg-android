@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 2,
+  "card_id": 10937,
+  "card_name": "Gardien Gorgonique",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 monstres de Type Rocher de Niveau 3$NUne fois par tour, durant le tour de chaque joueur : vous pouvez détacher 1 Matériel Xyz de cette carte, puis ciblez 1 monstre face recto contrôlé par votre adversaire ; son ATK devient 0, et si elle le devient, ses effets sont annulés. Ces effets durent jusqu'à la fin de ce tour. Une fois par tour : vous pouvez cibler 1 monstre sur le Terrain avec 0 ATK ; détruisez-le.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/01/24",
+  "species_id": 6,
+  "starchip": "3"
+}

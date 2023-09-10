@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 5,
+  "card_id": 8938,
+  "card_name": "Verspieltes Opossum",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Während deiner Main Phase: Du kannst diese offene Karte auf dem Spielfeld zerstören. Dein Gegner muss ein Monster mit höheren ATK als diese Karte kontrollieren, damit du diesen Effekt aktivieren und auflösen kannst. Während deiner Standby Phase, falls diese Karte durch diesen Effekt zerstört wurde: Du kannst diese Karte als Spezialbeschwörung vom Friedhof beschwören.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/08/12",
+  "species_id": 11,
+  "starchip": "2"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 2,
+  "card_id": 12832,
+  "card_name": "Ptérapenthes Prédaplante",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsque cette carte inflige des dommages de combat à votre adversaire : vous pouvez cibler 1 monstre face recto contrôlé par votre adversaire ; placez 1 Compteur Prédateur sur celui-ci, et s'il est de min. Niveau 2, il devient Niveau 1 tant qu'il a un Compteur Prédateur. Une fois par tour : vous pouvez cibler 1 monstre contrôlé par votre adversaire d'un Niveau inférieur ou égal à celui de cette carte ; jusqu'à la End Phase, prenez son contrôle.",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/02/23",
+  "species_id": 13,
+  "starchip": "3"
+}

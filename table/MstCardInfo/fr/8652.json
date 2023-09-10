@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 5,
+  "card_id": 8652,
+  "card_name": "Guerrier Foreur",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"Perceuse Synchronique\" + 1 monstre non-Syntoniseur ou plus$NUne fois par tour, durant votre Main Phase 1 : vous pouvez diviser par deux l'ATK de cette carte, et si vous le faites, elle peut attaquer directement votre adversaire ce tour. Une fois par tour : vous pouvez défausser 1 carte, et si vous le faites, bannissez cette carte. Durant votre prochaine Standby Phase : Invoquez Spécialement cette carte bannie par cet effet, puis ajoutez 1 monstre depuis votre Cimetière à votre main.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/02/11",
+  "species_id": 15,
+  "starchip": "6"
+}

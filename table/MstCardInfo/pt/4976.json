@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 2,
+  "card_id": 4976,
+  "card_name": "Kiseitai",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Quando um monstro do seu oponente atacar este card com a face para baixo em Posição Defesa, este card se torna um Card de Magia de Equipamento equipado ao monstro atacante (nenhum cálculo de dano é conduzido). Durante cada uma das Fases de Apoio do seu oponente, aumente seus PV pela metade do ATK do monstro equipado com este card.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/10/20",
+  "species_id": 3,
+  "starchip": "2"
+}

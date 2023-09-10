@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 8864,
+  "card_name": "Sin 青眼の白龍",
+  "card_name_label": "シン ブルーアイズ・ホワイト・ドラゴン",
+  "card_name_search": "しんぶるーあいずほわいとどらごん",
+  "card_pen_effect": "",
+  "card_text": "このカードは通常召喚できない。デッキから「青眼の白龍」１体を除外した場合に特殊召喚できる。①：「Sin」モンスターはフィールドに１体しか表側表示で存在できない。②：このカードがモンスターゾーンに存在する限り、他の自分のモンスターは攻撃宣言できない。③：フィールド魔法カードが表側表示で存在しない場合にこのカードは破壊される。",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/12/14",
+  "species_id": 1,
+  "starchip": "8"
+}

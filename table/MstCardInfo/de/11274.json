@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11274,
+  "card_name": "Magischer Quell",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Ziehe eine Anzahl Karten in Höhe der Anzahl offener Zauber-/Fallenkarten, die dein Gegner kontrolliert, dann wirf eine Anzahl Karten in Höhe der Anzahl offener Zauber-/Fallenkarten ab, die du kontrollierst. Bis zum Ende des nächsten Spielzugs deines Gegners, nachdem diese Karte aufgelöst wurde, können Zauber-/Fallenkarten, die dein Gegner kontrolliert, nicht zerstört werden (durch Kampf oder Karteneffekte), zusätzlich können weder ihre Aktivierung noch ihre Effekte annulliert werden. Du kannst nur 1 „Magischer Quell“ pro Spielzug aktivieren.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/08/14",
+  "species_id": 24,
+  "starchip": "0"
+}

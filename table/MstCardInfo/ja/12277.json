@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 1,
+  "card_id": 12277,
+  "card_name": "EMホタルクス",
+  "card_name_label": "エンタメイトホタルクス",
+  "card_name_search": "えんためいとほたるくす",
+  "card_pen_effect": "①：１ターンに１度、相手モンスターの攻撃宣言時に自分フィールドの「EM」モンスター１体をリリースして発動できる。その攻撃を無効にし、その後バトルフェイズを終了する。",
+  "card_text": "①：このカードがモンスターゾーンに存在する限り、自分フィールドの「EM」モンスターまたは「オッドアイズ」モンスターが攻撃する場合、相手はダメージステップ終了時まで魔法・罠カードを発動できない。",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2016/01/09",
+  "species_id": 10,
+  "starchip": "4"
+}

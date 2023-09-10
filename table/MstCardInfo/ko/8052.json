@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 8052,
+  "card_name": "종자탄환",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "식물족 몬스터가 일반 소환/반전 소환/특수 소환될 때마다, 이 카드에 플랜트 카운터를 1개 놓는다(최대 5개까지). 필드 위에 존재하는 이 카드를 묘지로 보내는 것으로, 이 카드에 얹혀 있는 플랜트 카운터의 수 × 500 포인트 데미지를 상대 라이프에 준다.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/05/18",
+  "species_id": 24,
+  "starchip": "0"
+}

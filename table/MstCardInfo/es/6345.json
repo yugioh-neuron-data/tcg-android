@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 1,
+  "card_id": 6345,
+  "card_name": "HÉROE Elemental del Trueno Gigante",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"HÉROE Elemental Sparkman\" + \"HÉROE Elemental Clayman\"$NDebe ser Invocado por Fusión. Una vez por turno: puedes descartar 1 carta, y después seleccionar 1 monstruo en el Campo con ATK original menor al ATK de esta carta; destruye ese objetivo.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/06/01",
+  "species_id": 15,
+  "starchip": "6"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2600",
+  "attribute_id": 1,
+  "card_id": 18486,
+  "card_name": "恐楽園の死配人 ＜Arlechino＞",
+  "card_name_label": "アメイズメント・ドミネイター ＜アルレキーノ＞",
+  "card_name_search": "あめいずめんとどみねいたーのあるれきーの",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドに「アメイズメント」モンスターが存在する場合に発動できる。このカードを手札から特殊召喚する。その後、自分のデッキ・墓地から「アメイズメント・ファミリーフェイス」１枚を手札に加える事ができる。②：相手ターンに、フィールドの他の効果モンスター１体を対象として発動できる。このカードを持ち主のデッキに戻し、デッキから「驚楽園の支配人 ＜∀rlechino＞」１体を特殊召喚する。その後、対象のモンスターの攻撃力を０にする。",
+  "defense_power": "2200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/01/14",
+  "species_id": 21,
+  "starchip": "7"
+}

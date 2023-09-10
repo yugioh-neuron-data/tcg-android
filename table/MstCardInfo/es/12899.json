@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 2,
+  "card_id": 12899,
+  "card_name": "Núcleo Diabound",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando esta carta declara un ataque: ésta gana 600 ATK. (Efecto Rápido): puedes seleccionar 1 monstruo boca arriba que controle tu adversario; hasta el final de este turno, éste pierde ATK igual al ATK de esta carta en este momento, y después destierra esta carta hasta la Standby Phase del próximo turno. Sólo puedes usar este efecto de \"Núcleo Diabound\" una vez por turno.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/03/30",
+  "species_id": 3,
+  "starchip": "5"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 5,
+  "card_id": 12738,
+  "card_name": "EMダグ・ダガーマン",
+  "card_name_label": "エンタメイトダグ・ダガーマン",
+  "card_name_search": "えんためいとだぐだがーまん",
+  "card_pen_effect": "「EMダグ・ダガーマン」のP効果は１ターンに１度しか使用できない。①：このカードを発動したターンの自分メインフェイズに自分の墓地の「EM」モンスター１体を対象として発動できる。そのモンスターを手札に加える。",
+  "card_text": "「EMダグ・ダガーマン」のモンスター効果は１ターンに１度しか使用できない。①：このカードがP召喚に成功したターンの自分メインフェイズに手札から「EM」モンスター１体を墓地へ送って発動できる。自分はデッキから１枚ドローする。",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "2",
+  "pen_scale_r": "2",
+  "sales_at": "2016/10/08",
+  "species_id": 15,
+  "starchip": "5"
+}

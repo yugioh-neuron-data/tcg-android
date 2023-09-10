@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 5,
+  "card_id": 11358,
+  "card_name": "Apoqliphort-Türme",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Kann nicht als Spezialbeschwörung beschworen werden. Erfordert 3 „Qli“-Tribute, um als Normalbeschwörung beschworen/gesetzt zu werden. Falls diese Karte als Normalbeschwörung beschworen/gesetzt wird, bleibt sie von Zauber-/Falleneffekten und aktivierten Effekten von Monstern unberührt, deren Grundstufe/-rang niedriger ist als die derzeitige Stufe dieser Karte. Alle als Spezialbeschwörung beschworenen Monster verlieren 500 ATK und DEF. Einmal pro Spielzug: Du kannst deinen Gegner 1 Monster von seiner Hand oder seiner Spielfeldseite auf den Friedhof legen lassen (er bestimmt).",
+  "defense_power": "2600",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/11/06",
+  "species_id": 7,
+  "starchip": "10"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 3,
+  "card_id": 11701,
+  "card_name": "Zefrasable, Maestro de la Espada de los Necroz",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "No puedes Invocar monstruos por Péndulo, excepto monstruos \"Necroz\" y \"Zefra\". Este efecto no puede ser negado.",
+  "card_text": "Puedes Sacrificar esta carta en tu mano o boca arriba en tu lado del Campo; Sacrifica monstruos de tu mano o Campo, y después Invoca por Ritual, desde tu mano, 1 Monstruo de Ritual \"Necroz\" cuyo Nivel sea exactamente igual a los Niveles totales de esos monstruos. Sólo puedes usar este efecto de \"Zefrasable, Maestro de la Espada de los Necroz\" una vez por turno.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2015/05/14",
+  "species_id": 18,
+  "starchip": "4"
+}

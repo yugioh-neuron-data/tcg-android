@@ -1,0 +1,23 @@
+{
+  "attack_power": "2200",
+  "attribute_id": 5,
+  "card_id": 9084,
+  "card_name": "Gigante del Poder",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Puedes Invocar esta carta de Modo Especial (desde tu mano) mandando al Cementerio 1 monstruo de Nivel 4 o menor en tu mano. Si lo haces, disminuye el Nivel de esta carta tanto como el Nivel de ese monstruo. Si esta carta ataca o es atacada, cualquier daño que recibas por efectos se convierte en 0, hasta el final del Damage Step.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/11/11",
+  "species_id": 6,
+  "starchip": "6"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 11443,
+  "card_name": "D/D/D Armagedón, Rey de las Fatalidades",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Una vez por turno: puedes seleccionar 1 monstruo \"D/D\" que controles; hasta el final de este turno, éste gana 800 ATK (aún si esta carta deja el Campo).",
+  "card_text": "Una vez por turno, si uno o más monstruos que controlas son destruidos en batalla o por efecto de una carta: puedes seleccionar 1 de esos monstruos; hasta el final de este turno, esta carta gana ATK igual al ATK original de ese monstruo. Esta carta no puede atacar a tu adversario directamente durante el turno que es activado este efecto. No puede ser destruida por efectos de Cartas Mágicas/de Trampa que no seleccionen esta carta.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "4",
+  "pen_scale_r": "4",
+  "sales_at": "2017/01/19",
+  "species_id": 3,
+  "starchip": "8"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2700",
+  "attribute_id": 6,
+  "card_id": 16091,
+  "card_name": "DoSolfaccordo Coolia",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Il tuo avversario non può attivare una Carta Magia/Trappola, o l'effetto di un mostro, quando uno o più tuoi Mostri Pendulum \"Solfaccordo\" vengono Evocati Pendulum.",
+  "card_text": "Puoi Evocare Specialmente questa carta (dalla tua mano) offrendo come Tributo 2 Mostri Pendulum. Puoi utilizzare ognuno dei seguenti effetti di \"DoSolfaccordo Coolia\" una sola volta per turno. Puoi scegliere come bersaglio 1 carta scoperta controllata dal tuo avversario, o fino a 2 carte se hai un Valore Pendulum dispari nella tua Zona Pendulum; annulla i suoi effetti fino alla fine del turno del tuo avversario. Quando sul Terreno viene attivato l'effetto di un mostro con ATK pari o inferiore al Valore Pendulum più alto nella tua Zona Pendulum x 300: puoi distruggere quel mostro.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2021/05/06",
+  "species_id": 17,
+  "starchip": "8"
+}

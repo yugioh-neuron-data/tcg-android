@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14874,
+  "card_name": "使い捨て学習装置",
+  "card_name_label": "つかいすてラーニングマシン",
+  "card_name_search": "つかいすてらーにんぐましん",
+  "card_pen_effect": "",
+  "card_text": "このカード名の②の効果は１ターンに１度しか使用できない。①：装備モンスターの攻撃力は、自分の墓地のモンスターの数×２００アップする。②：このカードがフィールドから墓地へ送られたターンのエンドフェイズに発動できる。このカードを自分フィールドにセットする。この効果でセットしたこのカードはフィールドから離れた場合に除外される。",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/10/12",
+  "species_id": 24,
+  "starchip": "0"
+}

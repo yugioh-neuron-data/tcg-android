@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 5,
+  "card_id": 12147,
+  "card_name": "Büroboter 007",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Du kannst keine Monster als Pendelbeschwörung beschwören, außer „Büroboter“-Monstern. Dieser Effekt kann nicht annulliert werden.",
+  "card_text": "Diese Karte erhält 500 ATK für jede „Büroboter“-Karte in deinem Friedhof. Monster, die dein Gegner kontrolliert, können keine offenen „Büroboter“-Monster als Angriffsziel wählen, außer diesem. Falls diese Karte ein Monster in Verteidigungsposition angreift, füge deinem Gegner durchschlagenden Kampfschaden zu.",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "10",
+  "pen_scale_r": "10",
+  "sales_at": "2016/01/14",
+  "species_id": 7,
+  "starchip": "7"
+}

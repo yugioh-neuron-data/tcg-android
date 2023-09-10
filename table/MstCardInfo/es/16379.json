@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 6,
+  "card_id": 16379,
+  "card_name": "Dragón Sincro Ala Transparente Cristalina",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Monstruo de Sincronía Cantante + 1 monstruo \"Ala Transparente\" que no sea Cantante$NUna vez por turno, cuando tu adversario activa un efecto de monstruo (excepto durante el Damage Step) (Efecto Rápido): puedes activar este efecto; hasta el final de este turno, esta carta boca arriba no es afectada por los efectos activados de los monstruos de tu adversario, y además esta carta gana ATK igual al ATK original de ese monstruo del adversario. Una vez por turno, cuando una Carta Mágica/de Trampa o su efecto sea activado (Efecto Rápido): puedes negar la activación y, si lo haces, destruye esa carta. Si esta carta Invocada por Sincronía que controlas es mandada a tu Cementerio por una carta del adversario: puedes añadir a tu mano 1 monstruo de VIENTO en tu Deck.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/10/28",
+  "species_id": 1,
+  "starchip": "10"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 4962,
+  "card_name": "マジカルシルクハット",
+  "card_name_label": "マジカルシルクハット",
+  "card_name_search": "まじかるしるくはっと",
+  "card_pen_effect": "",
+  "card_text": "①：相手バトルフェイズに発動できる。デッキから魔法・罠カード２枚を選び、そのカード２枚を通常モンスターカード扱い（攻／守０）として、自分のメインモンスターゾーンのモンスター１体と合わせてシャッフルして裏側守備表示でセットする。この効果でデッキから特殊召喚したカードはバトルフェイズの間しか存在できず、バトルフェイズ終了時に破壊される。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2000/09/28",
+  "species_id": 25,
+  "starchip": "0"
+}

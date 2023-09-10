@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 5,
+  "card_id": 10691,
+  "card_name": "Poupée Truquée Tête d'Œuf",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Vous ne pouvez utiliser l'effet de \"Poupée Truquée Tête d'Œuf\" qu'une fois par tour. Vous pouvez défausser 1 monstre \"Poupée Truquée\", puis activez 1 de ces effets ;$N●Infligez 800 points de dommages à votre adversaire.$N●Jusqu'à la End Phase, le Niveau de cette carte devient 8.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/07/11",
+  "species_id": 7,
+  "starchip": "4"
+}

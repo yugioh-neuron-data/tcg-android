@@ -1,0 +1,23 @@
+{
+  "attack_power": "1250",
+  "attribute_id": 5,
+  "card_id": 4559,
+  "card_name": "マタンゴ",
+  "card_name_label": "マタンゴ",
+  "card_name_search": "またんご",
+  "card_pen_effect": "",
+  "card_text": "自分のスタンバイフェイズ毎に、コントローラーに３００ポイントダメージを与える。自分のエンドフェイズに５００ライフポイントを払えば、このカードのコントロールは相手に移る。",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2000/01/27",
+  "species_id": 15,
+  "starchip": "3"
+}

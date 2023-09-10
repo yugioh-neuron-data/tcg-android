@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 2,
+  "card_id": 12713,
+  "card_name": "Ator do Abismo - Novato Insolente",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Se um ou mais monstros \"Ator do Abismo\" que você controla seriam destruídos em batalha ou por um efeito de card do oponente, em vez disso, você pode destruir este card.",
+  "card_text": "Na primeira vez que este card seria destruído em batalha ou por um efeito de card a cada turno, ele não é destruído. Se este card for destruído em batalha, ou se este card na Zona de Monstros do seu dono for destruído por um efeito de card do oponente: você pode Invocar por Invocação-Especial 1 monstro \"Ator do Abismo\" de Nível 4 ou menos do seu Deck, exceto \"Ator do Abismo - Novato Insolente\". Se este card na Zona de Pêndulo for destruído: você pode escolher 1 monstro de Nível 4 ou menos que seu oponente controla; destrua-o.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "2",
+  "pen_scale_r": "2",
+  "sales_at": "2016/11/17",
+  "species_id": 3,
+  "starchip": "4"
+}

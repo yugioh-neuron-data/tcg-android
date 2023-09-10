@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 1,
+  "card_id": 18458,
+  "card_name": "Orgullo Dorado - León Estrella",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Cantante + 1+ monstruos que no sean Cantantes$NDurante la Main Phase (Efecto Rápido): puedes seleccionar 1 monstruo boca arriba que controle tu adversario; esta carta gana ATK igual al ATK original de ese objetivo y después, si tus LP son menores que los de tu adversario, puedes destruir ese monstruo. Sólo puedes usar el efecto previo de \"Orgullo Dorado - León Estrella\" una vez por turno. Una vez por turno, durante la End Phase, si el efecto previo fue activado este turno: devuelve esta carta al Deck Extra y, si lo haces, Invoca de Modo Especial 1 \"Orgullo Dorado - León\" desde tu Deck o Cementerio.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/02/06",
+  "species_id": 19,
+  "starchip": "6"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 5,
+  "card_id": 7558,
+  "card_name": "地球巨人 ガイア・プレート",
+  "card_name_label": "ちきゅうきょじん　ガイア・プレート",
+  "card_name_search": "ちきゅうきょじんがいあぷれーと",
+  "card_pen_effect": "",
+  "card_text": "このカードのコントローラーは、自分スタンバイフェイズ毎に自分の墓地から岩石族モンスター１体を除外する。または除外せずにこのカードを墓地へ送る。①：このカードは自分の墓地の岩石族モンスター２体を除外し、手札から特殊召喚できる。②：このカードと戦闘を行う相手モンスターの攻撃力・守備力はダメージ計算時のみ半分になる。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/11/30",
+  "species_id": 6,
+  "starchip": "8"
+}

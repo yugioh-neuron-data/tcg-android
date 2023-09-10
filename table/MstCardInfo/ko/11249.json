@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 2,
+  "card_id": 11249,
+  "card_name": "흑마도전사 브레이커",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"흑마도전사 브레이커\"의 ④의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 일반 소환에 성공했을 경우에 발동한다. 이 카드에 마력 카운터를 2개 놓는다. ②: 이 카드가 펜듈럼 소환에 성공했을 경우에 발동한다. 이 카드에 마력 카운터를 3개 놓는다. ③: 이 카드의 공격력은, 이 카드의 마력 카운터의 수 × 400 올린다. ④: 이 카드의 마력 카운터를 1개 제거하고, 필드의 마법 / 함정 카드 1장을 대상으로 하여 발동할 수 있다. 그 카드를 파괴한다.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/07/18",
+  "species_id": 18,
+  "starchip": "6"
+}

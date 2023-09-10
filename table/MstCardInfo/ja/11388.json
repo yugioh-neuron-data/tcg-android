@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11388,
+  "card_name": "モノマネンド",
+  "card_name_label": "モノマネンド",
+  "card_name_search": "ものまねんど",
+  "card_pen_effect": "",
+  "card_text": "「モノマネンド」は１ターンに１枚しか発動できない。①：相手フィールドにモンスターが存在する場合、自分フィールドのレベル２以下の表側守備表示モンスター１体を対象として発動できる。その同名モンスター１体をデッキから守備表示で特殊召喚する。この効果で特殊召喚したモンスターは、フィールドから離れた場合に除外される。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/07/19",
+  "species_id": 24,
+  "starchip": "0"
+}

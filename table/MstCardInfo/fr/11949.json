@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 5,
+  "card_id": 11949,
+  "card_name": "Transporteur Samouraï Supralourd",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si vous n'avez aucune Carte Magie/Piège dans votre Cimetière, vous pouvez Invoquer Spécialement cette carte (depuis votre main). Après que cette carte a été Invoquée Spécialement de cette façon, le reste de ce tour, vous ne pouvez pas Invoquer Spécialement de monstres (monstres \"Samouraï Supralourd\" exclus). Si vous n'avez aucune Carte Magie/Piège dans votre Cimetière : vous pouvez Sacrifier cette carte ; Invoquez Spécialement max. 2 monstres depuis votre main sur le Terrain de votre adversaire en Position de Défense, puis piochez un nombre de cartes égal au nombre de monstres Invoqués Spécialement par cet effet. Vous ne pouvez utiliser cet effet de \"Transporteur Samouraï Supralourd\" qu'une fois par tour.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/11/05",
+  "species_id": 7,
+  "starchip": "5"
+}

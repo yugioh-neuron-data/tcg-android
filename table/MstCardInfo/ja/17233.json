@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 3,
+  "card_id": 17233,
+  "card_name": "リブロマンサー・マジガール",
+  "card_name_label": "リブロマンサー・マジガール",
+  "card_name_search": "りぶろまんさーまじがーる",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：手札の儀式モンスター１体を相手に見せて発動できる。このカードを手札から特殊召喚する。②：相手ターンに発動できる。レベルの合計が儀式召喚するモンスターのレベル以上になるように、自分の手札・フィールドのモンスターをリリースし、手札から「リブロマンサー」儀式モンスター１体を儀式召喚する。",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/09/10",
+  "species_id": 18,
+  "starchip": "4"
+}

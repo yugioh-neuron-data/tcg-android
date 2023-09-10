@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11846,
+  "card_name": "Jardín del Arobru",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Una vez por turno, si controlas un monstruo \"Arobru\": puedes ganar 500 LP y además, hasta el final del próximo turno de tu adversario, todos los monstruos que controles ganan 500 ATK y DEF (aún si esta carta deja el Campo). Si un monstruo \"Arobru\" boca arriba que controles es destruido en batalla o por efecto de una carta y mandado al Cementerio: gana 1000 LP.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/08/06",
+  "species_id": 24,
+  "starchip": "0"
+}

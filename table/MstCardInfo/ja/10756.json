@@ -1,0 +1,23 @@
+{
+  "attack_power": "1100",
+  "attribute_id": 1,
+  "card_id": 10756,
+  "card_name": "武神器－イクタ",
+  "card_name_label": "ぶじんぎ－イクタ",
+  "card_name_search": "ぶじんぎいくた",
+  "card_pen_effect": "",
+  "card_text": "自分のメインフェイズ時、自分フィールド上に「武神」と名のついたモンスターが存在する場合、墓地のこのカードをゲームから除外し、相手フィールド上に表側攻撃表示で存在するモンスター１体を選択して発動できる。選択したモンスターを表側守備表示にし、その守備力をエンドフェイズ時まで０にする。",
+  "defense_power": "1900",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/07/20",
+  "species_id": 11,
+  "starchip": "4"
+}

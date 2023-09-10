@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 2,
+  "card_id": 12724,
+  "card_name": "堕天使イシュタム",
+  "card_name_label": "だてんしイシュタム",
+  "card_name_search": "だてんしいしゅたむ",
+  "card_pen_effect": "",
+  "card_text": "自分は「堕天使イシュタム」を１ターンに１度しか特殊召喚できず、その①②の効果はそれぞれ１ターンに１度しか使用できない。①：手札からこのカードと「堕天使」カード１枚を捨てて発動できる。自分はデッキから２枚ドローする。②：１０００LPを払い、自分の墓地の「堕天使」魔法・罠カード１枚を対象として発動できる。その魔法・罠カードの効果を適用する。その後、墓地のそのカードをデッキに戻す。この効果は相手ターンでも発動できる。",
+  "defense_power": "2900",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/08/06",
+  "species_id": 17,
+  "starchip": "10"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 3,
+  "card_id": 10852,
+  "card_name": "Tiburón Sable",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "No puede ser usado como Material de Sincronía. Dos veces por turno: puedes seleccionar 1 monstruo Pez en el Campo, y después activar 1 de estos efectos.$N●Aumenta su Nivel en 1.$N●Reduce su Nivel en 1.$NDurante el turno en el que activas este efecto, no puedes Invocar monstruos de Modo Especial, excepto monstruos de AGUA.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/03/30",
+  "species_id": 8,
+  "starchip": "4"
+}

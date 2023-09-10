@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 4657,
+  "card_name": "鎖付きブーメラン",
+  "card_name_label": "くさりつきブーメラン",
+  "card_name_search": "くさりつきぶーめらん",
+  "card_pen_effect": "",
+  "card_text": "①：以下の効果から１つ、または両方を選択してこのカードを発動できる。$N●相手モンスターの攻撃宣言時に、その攻撃モンスター１体を対象として発動できる。その攻撃モンスターを守備表示にする。$N●自分フィールドの表側表示モンスター１体を対象として発動できる。このカードを攻撃力５００アップの装備カード扱いとして、その自分のモンスターに装備する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "1999/07/08",
+  "species_id": 25,
+  "starchip": "0"
+}

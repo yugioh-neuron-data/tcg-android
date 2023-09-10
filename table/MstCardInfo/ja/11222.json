@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 5,
+  "card_id": 11222,
+  "card_name": "超重武者ビッグベン－K",
+  "card_name_label": "ちょうじゅうむしゃビッグベン－ケー",
+  "card_name_search": "ちょうじゅうむしゃびっぐべんけー",
+  "card_pen_effect": "",
+  "card_text": "①：このカードが召喚・特殊召喚に成功した時に発動できる。このカードの表示形式を変更する。②：このカードがモンスターゾーンに存在する限り、自分の「超重武者」モンスターは表側守備表示のままで攻撃できる。その場合、そのモンスターは守備力を攻撃力として扱いダメージ計算を行う。",
+  "defense_power": "3500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/04/19",
+  "species_id": 7,
+  "starchip": "8"
+}

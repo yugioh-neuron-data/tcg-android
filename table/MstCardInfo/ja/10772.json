@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 5,
+  "card_id": 10772,
+  "card_name": "剛地帝グランマーグ",
+  "card_name_label": "ごうちていグランマーグ",
+  "card_name_search": "ごうちていぐらんまーぐ",
+  "card_pen_effect": "",
+  "card_text": "このカードはアドバンス召喚したモンスター１体をリリースしてアドバンス召喚できる。このカードがアドバンス召喚に成功した時、フィールド上にセットされたカードを２枚まで選択して破壊する。このカードが地属性モンスターをリリースしてアドバンス召喚に成功した場合、その時の効果に以下の効果を加える。$N●デッキからカードを１枚ドローする。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/07/20",
+  "species_id": 6,
+  "starchip": "8"
+}

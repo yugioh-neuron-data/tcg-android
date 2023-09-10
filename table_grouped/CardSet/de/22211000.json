@@ -1,0 +1,38 @@
+[
+  {
+    "card_count": 1,
+    "card_id": 10901,
+    "card_image_id": 1,
+    "card_number": "LVAL-DEDE1",
+    "language": "de",
+    "pack_id": "22211000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 10907,
+    "card_image_id": 1,
+    "card_number": "LVAL-DEDE2",
+    "language": "de",
+    "pack_id": "22211000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 11047,
+    "card_image_id": 1,
+    "card_number": "LVAL-DEDE3",
+    "language": "de",
+    "pack_id": "22211000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 11093,
+    "card_image_id": 1,
+    "card_number": "LVAL-DEDE4",
+    "language": "de",
+    "pack_id": "22211000",
+    "rarity_id": 3
+  }
+]

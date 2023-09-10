@@ -1,0 +1,23 @@
+{
+  "attack_power": "1900",
+  "attribute_id": 5,
+  "card_id": 6854,
+  "card_name": "サイバー・オーガ",
+  "card_name_label": "サイバー・オーガ",
+  "card_name_search": "さいばーおーが",
+  "card_pen_effect": "",
+  "card_text": "このカードを手札から墓地に捨てる。自分フィールド上に存在する「サイバー・オーガ」１体が行う戦闘を１度だけ無効にし、さらに次の戦闘終了時まで攻撃力は２０００ポイントアップする。この効果は相手ターンでも発動する事ができる。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/08/10",
+  "species_id": 7,
+  "starchip": "5"
+}

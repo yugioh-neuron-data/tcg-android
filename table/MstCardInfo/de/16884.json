@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 16884,
+  "card_name": "Unüberlegte Einmischung",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Du musst weniger LP haben als dein Gegner, um diesen Effekt zu aktivieren und aufzulösen.$NAktiviere 1 dieser Effekte;$N●Zerstöre 1 Monster, das dein Gegner kontrolliert und dessen ATK kleiner oder gleich der Differenz eurer LP sind.$N●Beschwöre 1 Monster, dessen ATK kleiner oder gleich der Differenz eurer LP sind, als Spezialbeschwörung von deinem Friedhof.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/02/10",
+  "species_id": 25,
+  "starchip": "0"
+}

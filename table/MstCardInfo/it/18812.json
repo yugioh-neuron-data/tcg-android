@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 2,
+  "card_id": 18812,
+  "card_name": "Mago dell'Incubo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se questa carta combatte con un mostro, nessuno dei due può essere distrutto in quella battaglia. Alla fine del Damage Step, se questa carta ha combattuto con un mostro dell'avversario: puoi prendere il controllo di quel mostro dell'avversario. Una volta per turno, all'inizio del Damage Step, se un altro mostro attacca: puoi distruggere 1 carta sul Terreno.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/07/27",
+  "species_id": 34,
+  "starchip": "7"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 2,
+  "card_id": 9462,
+  "card_name": "BF－下弦のサルンガ",
+  "card_name_label": "ブラックフェザー－かげんのサルンガ",
+  "card_name_search": "ぶらっくふぇざーかげんのさるんが",
+  "card_pen_effect": "",
+  "card_text": "このカード名の、①の方法による特殊召喚は１ターンに１度しかできず、②の効果はデュエル中に１度しか使用できない。①：フィールドに攻撃力２０００以上のモンスターが存在する場合、このカードは手札から特殊召喚できる。②：自分フィールドに「BF」Sモンスターが存在する場合、墓地のこのカードを除外し、相手フィールドの表側表示のカード１枚を対象として発動できる。そのカードを破壊する。この効果は相手ターンでも発動できる。",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/12/17",
+  "species_id": 16,
+  "starchip": "2"
+}

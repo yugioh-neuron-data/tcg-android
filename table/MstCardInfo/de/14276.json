@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 14276,
+  "card_name": "Handigalopp",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Kann nicht direkt angreifen. Erhält ATK in Höhe der Differenz zwischen deinen LP und denen deines Gegners. Falls du mehr LP hast als dein Gegner, erhältst du stattdessen jeglichen Kampfschaden, den dein Gegner aus Kämpfen erhalten hätte, an denen diese angreifende Karte beteiligt ist.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/05/02",
+  "species_id": 11,
+  "starchip": "1"
+}

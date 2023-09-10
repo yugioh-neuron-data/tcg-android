@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15299,
+  "card_name": "Verbotener Tropfen",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lege eine beliebige Anzahl anderer Karten von deiner Hand und/oder Spielfeldseite auf den Friedhof; bestimme so viele Effektmonster, die dein Gegner kontrolliert, und bis zum Ende dieses Spielzugs werden ihre ATK halbiert, zusätzlich werden ihre Effekte annulliert. Dein Gegner kann als Reaktion auf die Aktivierung dieser Karte weder Karten noch die Effekte von Karten mit demselben Grund-Typ (Monster/Zauber/Falle) wie die Karten aktivieren, die auf den Friedhof gelegt wurden, um diese Karte zu aktivieren. Du kannst nur 1 „Verbotener Tropfen“ pro Spielzug aktivieren.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/08/06",
+  "species_id": 24,
+  "starchip": "0"
+}

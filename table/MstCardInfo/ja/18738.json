@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 18738,
+  "card_name": "VS 龍帝ノ槍",
+  "card_name_label": "ヴァンキッシュ・ソウル カラミティ・カイザー",
+  "card_name_search": "う゛ぁんきっしゅそうるからみてぃかいざー",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。$N①：自分フィールドに「VS」モンスターが存在し、自分フィールドのカードを対象とするモンスターの効果・魔法・罠カードを相手が発動した時に発動できる。その発動を無効にし破壊する。その後、自分フィールドの「VS」モンスター１体を選んでその攻撃力分のダメージを相手に与える事ができる。",
+  "defense_power": "0",
+  "effect_id": 1,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/03/18",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 5104,
+  "card_name": "魔力無力化の仮面",
+  "card_name_label": "まりょくむりょくかのかめん",
+  "card_name_search": "まりょくむりょくかのかめん",
+  "card_pen_effect": "",
+  "card_text": "フィールド上に表側表示で存在する魔法カード１枚を選択して発動する。自分のスタンバイフェイズ毎に、選択した魔法カードのコントローラーに５００ポイントダメージを与える。選択したカードがフィールド上に存在しなくなった時、このカードを破壊する。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2001/04/19",
+  "species_id": 24,
+  "starchip": "0"
+}

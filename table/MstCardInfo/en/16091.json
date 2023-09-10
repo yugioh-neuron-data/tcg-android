@@ -1,0 +1,23 @@
+{
+  "attack_power": "2700",
+  "attribute_id": 6,
+  "card_id": 16091,
+  "card_name": "DoSolfachord Coolia",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Your opponent cannot activate a Spell/Trap Card, or monster effect, when your \"Solfachord\" Pendulum Monster(s) is Pendulum Summoned.",
+  "card_text": "You can Special Summon this card (from your hand) by Tributing 2 Pendulum Monsters. You can only use each of the following effects of \"DoSolfachord Coolia\" once per turn. You can target 1 face-up card your opponent controls, or up to 2 cards if you have an odd Pendulum Scale in your Pendulum Zone; negate its effects until the end of your opponent's turn. When an effect of a monster on the field is activated, with an equal or lower ATK than the highest Pendulum Scale in your Pendulum Zone x 300: You can destroy that monster.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2021/05/07",
+  "species_id": 17,
+  "starchip": "8"
+}

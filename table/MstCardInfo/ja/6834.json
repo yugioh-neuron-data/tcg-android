@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 6834,
+  "card_name": "パワー・ウォール",
+  "card_name_label": "パワー・ウォール",
+  "card_name_search": "ぱわーうぉーる",
+  "card_pen_effect": "",
+  "card_text": "①：相手モンスターの攻撃によって自分が戦闘ダメージを受けるダメージ計算時に発動できる。その戦闘で発生する自分への戦闘ダメージが０になるように、受けるダメージの代わりに５００ダメージにつき１枚、自分のデッキの上からカードを墓地へ送る。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/12/17",
+  "species_id": 25,
+  "starchip": "0"
+}

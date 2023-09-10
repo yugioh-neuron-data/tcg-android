@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 6358,
+  "card_name": "岩盤爆破",
+  "card_name_label": "がんばんばくは",
+  "card_name_search": "がんばんばくは",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上に表側表示で存在する「マイン・ゴーレム」１体につき、相手ライフに１０００ポイントダメージを与える。その後自分フィールド上に表側表示で存在する「マイン・ゴーレム」を全て破壊する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/02/24",
+  "species_id": 25,
+  "starchip": "0"
+}

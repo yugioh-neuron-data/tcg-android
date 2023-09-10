@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 1,
+  "card_id": 15704,
+  "card_name": "Fuerza-S Orrafist",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Tu adversario no puede seleccionar con efectos de cartas ninguno de sus monstruos en la misma columna que uno de tus monstruos \"Fuerza-S\". Cuando un monstruo que controla tu adversario activa su efecto (Efecto Rápido): puedes desterrar 1 carta \"Fuerza-S\" en tu mano; destruye ese monstruo. Sólo puedes usar este efecto de \"Fuerza-S Orrafist\" una vez por turno.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/02/04",
+  "species_id": 27,
+  "starchip": "4"
+}

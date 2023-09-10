@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 7089,
+  "card_name": "クレイジー・ファイヤー",
+  "card_name_label": "クレイジー・ファイヤー",
+  "card_name_search": "くれいじーふぁいやー",
+  "card_pen_effect": "",
+  "card_text": "５００ライフポイントを払う。自分フィールド上に表側表示で存在する「ブレイズ・キャノン」と名のついたカードを破壊し、フィールド上のモンスターを全て破壊する。その後、自分フィールド上に「クレイジー・ファイヤー・トークン」（炎族・炎・星３・攻／守１０００）を１体攻撃表示で特殊召喚する。このターン自分のモンスターは攻撃する事ができない。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/02/15",
+  "species_id": 24,
+  "starchip": "0"
+}

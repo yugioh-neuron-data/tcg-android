@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 2,
+  "card_id": 8036,
+  "card_name": "Amo de Armaduras Alanegra",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Cantante \"Alanegra\" + 1+ monstruos que no sean Cantantes$NNo puede ser destruido en batalla, y tú no recibes daño de batalla de ataques que involucren a esta carta. Al final del Damage Step, si esta carta atacó a un monstruo: puedes poner 1 Contador de Cuña a ese monstruo (máx. 1). Puedes retirar todos los Contadores de Cuña de los monstruos de tu adversario; hasta el final de este turno, el ATK y la DEF de los monstruos que tenían Contadores de Cuña se convierten en 0.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/03/03",
+  "species_id": 16,
+  "starchip": "7"
+}

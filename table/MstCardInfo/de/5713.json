@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 5,
+  "card_id": 5713,
+  "card_name": "Gyaku-Gire-Panda",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Erhöhe die ATK dieser Karte für jedes Monster auf der Spielfeldseite deines Gegners um 500 Punkte. Wenn diese Karte ein Monster, das sich in Verteidigungsposition befindet, angreift und ihre ATK größer als die DEF des gegnerischen Monsters ist, füge die Differenz den Life Points deines Gegners als Kampfschaden zu.",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/05/01",
+  "species_id": 11,
+  "starchip": "3"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 1,
+  "card_id": 16432,
+  "card_name": "Cipher-Doppeldecker",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Einmal pro Spielzug: Du kannst 2 „Cipher“-Monster wählen, die du kontrollierst; ihre Stufen werden bis zum Ende dieses Spielzugs zu 8. Du kannst jeden der folgenden Effekte von „Cipher-Doppeldecker“ nur einmal pro Spielzug verwenden. Falls ein oder mehr „Cipher“-Monster als Normal- oder Spezialbeschwörung auf deine Spielfeldseite beschworen werden (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Falls diese Karte durch Kampf oder einen Karteneffekt zerstört und auf den Friedhof gelegt wird: Du kannst diese Karte von deinem Friedhof verbannen; füge deiner Hand 1 „Cipher“-Monster von deinem Deck hinzu.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/12/02",
+  "species_id": 7,
+  "starchip": "6"
+}

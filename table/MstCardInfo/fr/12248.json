@@ -1,0 +1,23 @@
+{
+  "attack_power": "2700",
+  "attribute_id": 6,
+  "card_id": 12248,
+  "card_name": "Gadarla, Kaiju de la Poussière Mystérieuse",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Vous pouvez Invoquer Spécialement cette carte (depuis votre main) sur le Terrain de votre adversaire en Position d'Attaque, en Sacrifiant 1 monstre qu'il contrôle. Si votre adversaire contrôle un monstre \"Kaiju\", vous pouvez Invoquer Spécialement cette carte (depuis votre main) en Position d'Attaque. Vous ne pouvez contrôler qu'1 monstre \"Kaiju\". Une fois par tour (Effet Rapide) : vous pouvez retirer 3 Compteurs Kaiju depuis le Terrain ; l'ATK/DEF de tous les autres monstres sur le Terrain seront divisées par deux.",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/01/14",
+  "species_id": 10,
+  "starchip": "8"
+}

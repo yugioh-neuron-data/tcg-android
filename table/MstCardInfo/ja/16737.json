@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 1,
+  "card_id": 16737,
+  "card_name": "エクソシスター・ステラ",
+  "card_name_label": "エクソシスター・ステラ",
+  "card_name_search": "えくそしすたーすてら",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分メインフェイズに発動できる。手札から「エクソシスター」モンスター１体を特殊召喚する。その後、自分フィールドに「エクソシスター・エリス」が存在する場合、自分は８００LP回復する。②：自分・相手の墓地のカードが相手によって墓地から離れた場合に発動できる。「エクソシスター」Xモンスター１体を、自分フィールドのこのカードの上に重ねてX召喚扱いとしてEXデッキから特殊召喚する。",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/08/28",
+  "species_id": 18,
+  "starchip": "4"
+}

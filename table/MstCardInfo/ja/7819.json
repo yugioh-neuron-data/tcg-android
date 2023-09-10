@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 4,
+  "card_id": 7819,
+  "card_name": "フレムベル・アーチャー",
+  "card_name_label": "フレムベル・アーチャー",
+  "card_name_search": "ふれむべるあーちゃー",
+  "card_pen_effect": "",
+  "card_text": "１ターンに１度、自分フィールド上に表側表示で存在する炎族モンスター１体をリリースして発動できる。フィールド上の全ての「フレムベル」と名のついたモンスターの攻撃力は、エンドフェイズ時まで８００ポイントアップする。",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/06/24",
+  "species_id": 4,
+  "starchip": "3"
+}

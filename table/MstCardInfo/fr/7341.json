@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 4,
+  "card_id": 7341,
+  "card_name": "Papillon aux Ailes Ardentes",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cette carte est traitée comme un Monstre Normal tant qu'elle est face recto sur le Terrain ou dans le Cimetière. Tant que cette carte est un Monstre Normal sur le Terrain, vous pouvez l'Invoquer Normalement pour qu'elle devienne un Monstre à Effet avec cet effet.$N●Vous pouvez Sacrifier cette carte, puis ciblez 1 monstre Gémeau (\"Papillon aux Ailes Ardentes\" exclu) dans votre Cimetière ; Invoquez Spécialement la cible, et si vous le faites, il devient un Monstre à Effet et gagne ses effets.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 9,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/08/04",
+  "species_id": 10,
+  "starchip": "4"
+}

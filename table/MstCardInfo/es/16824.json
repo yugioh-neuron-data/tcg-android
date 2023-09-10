@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 3,
+  "card_id": 16824,
+  "card_name": "Mutante Myutante",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si controlas una carta \"Myutante\": puedes Invocar esta carta de Modo Especial desde tu mano. Puedes Sacrificar esta carta, y después destierra 1 carta \"Myutante\" en tu mano o Deck; Invoca 1 monstruo de Modo Especial desde tu mano o Deck, basado en la carta desterrada, pero pierdes LP iguales al ATK original de ese monstruo Invocado de Modo Especial.$N●Monstruo: \"Bestia Myutante\"$N●Mágica: \"Niebla Myutante\"$N●Trampa: \"Arsenal Myutante\"$NSólo puedes usar cada efecto de \"Mutante Myutante\" una vez por turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/02/10",
+  "species_id": 21,
+  "starchip": "1"
+}

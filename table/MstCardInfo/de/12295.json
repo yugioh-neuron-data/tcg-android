@@ -1,0 +1,23 @@
+{
+  "attack_power": "1950",
+  "attribute_id": 2,
+  "card_id": 12295,
+  "card_name": "Lector-Pendel, der Drachoberherr (Geändert von: Lector Pendulum, der Drachoberherr)",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Annulliere die Effekte von offenen Pendelmonstern, solange dein Gegner sie kontrolliert.",
+  "card_text": "Am Beginn des Damage Steps, falls diese Karte gegen ein Pendelmonster kämpft: Zerstöre sowohl das Monster als auch diese Karte.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "Kartenname geändert von „Lector Pendulum, der Drachoberherr\" am 22-06-2017.",
+  "other_item_id": 26,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2016/05/05",
+  "species_id": 1,
+  "starchip": "4"
+}

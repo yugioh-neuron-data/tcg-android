@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 12174,
+  "card_name": "オッドアイズ・アドベント",
+  "card_name_label": "オッドアイズ・アドベント",
+  "card_name_search": "おっどあいずあどべんと",
+  "card_pen_effect": "",
+  "card_text": "ドラゴン族の儀式モンスターの降臨に必要。このカード名のカードは１ターンに１枚しか発動できない。①：レベルの合計が儀式召喚するモンスターのレベル以上になるように、自分の手札・フィールドのPモンスターをリリースし、自分の手札・墓地からドラゴン族の儀式モンスター１体を儀式召喚する。相手フィールドにモンスターが２体以上存在し、自分フィールドにモンスターが存在しない場合、自分のEXデッキの「オッドアイズ」モンスターもリリースの代わりに墓地へ送る事ができる。",
+  "defense_power": "0",
+  "effect_id": 6,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/10/17",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 1,
+  "card_id": 12144,
+  "card_name": "Ariadna Guía",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Aplica estos efectos.$N●No pagas LP para activar Cartas de Trampa de Contraefecto.$N●No descartas para activar Cartas de Trampa de Contraefecto.",
+  "card_text": "Si esta carta es destruida en batalla o por efecto de una carta: puedes mostrar 3 Trampas de Contraefecto en tu Deck, tu adversario elige 1 para que añadas a tu mano, y barajas el resto de vuelta a tu Deck.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2016/01/14",
+  "species_id": 17,
+  "starchip": "4"
+}

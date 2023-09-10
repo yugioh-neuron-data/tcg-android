@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 5,
+  "card_id": 13870,
+  "card_name": "Échange Clérique",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si cette carte est envoyée au Cimetière comme Matériel Lien : vous pouvez faire perdre 500 ATK au Monstre Lien, puis piochez 1 carte. Vous ne pouvez utiliser cet effet de \"Échange Clérique\" qu'une fois par tour.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/08/22",
+  "species_id": 27,
+  "starchip": "2"
+}

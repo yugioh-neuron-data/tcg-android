@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 1,
+  "card_id": 16213,
+  "card_name": "Inteligencia Antihumana ME-PSY-YA",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Cualquier carta mandada al Cementerio es desterrada en su lugar, excepto Cartas de Monstruo.",
+  "card_text": "Puedes mostrar esta carta en tu mano; añade otro Monstruo de Péndulo en tu mano, o 1 carta en tu Zona de Péndulo, al Deck Extra de su dueño boca arriba y, si lo haces, Invoca esta carta de Modo Especial. Sólo puedes usar este efecto de \"Inteligencia Antihumana ME-PSY-YA\" una vez por turno. Si otro u otros monstruos son Invocados de Modo Normal o Especial mientras controlas esta carta: manda ese o esos monstruos al Cementerio durante la End Phase de este turno.",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "0",
+  "pen_scale_r": "0",
+  "sales_at": "2021/08/12",
+  "species_id": 27,
+  "starchip": "8"
+}

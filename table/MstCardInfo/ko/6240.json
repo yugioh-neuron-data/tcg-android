@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 1,
+  "card_id": 6240,
+  "card_name": "엘리멘트 발키리",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 몬스터는 필드 위에 특정한 속성을 가진 몬스터가 존재할 경우, 이하의 효과를 얻는다.$N●화염 속성 : 이 카드의 공격력은 500 포인트 올린다.$N●물 속성 : 이 카드의 컨트롤을 변경할 수 없다.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/05/19",
+  "species_id": 17,
+  "starchip": "4"
+}

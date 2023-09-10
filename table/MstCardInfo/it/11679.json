@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 5,
+  "card_id": 11679,
+  "card_name": "Artistamico Pescalucertola",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Se hai una carta \"Artistamico\" nella tua altra Zona Pendulum, eccetto \"Artistamico Pescalucertola\": puoi distruggere questa carta e, se lo fai, pesca 1 carta. Puoi utilizzare questo effetto di \"Artistamico Pescalucertola\" una sola volta per turno.",
+  "card_text": "Se un altro mostro scoperto che controlli viene distrutto da un attacco o dall'effetto di una carta del tuo avversario: puoi pescare carte pari al numero di mostri \"Artistamico\" che controlli attualmente. Puoi utilizzare questo effetto di \"Artistamico Pescalucertola\" una sola volta per turno.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "6",
+  "pen_scale_r": "6",
+  "sales_at": "2015/05/14",
+  "species_id": 20,
+  "starchip": "3"
+}

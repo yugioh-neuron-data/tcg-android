@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 2,
+  "card_id": 15481,
+  "card_name": "Les Chevaliers Fantômes des Chausses Souillées",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si un ou plusieurs monstres \"Les Chevaliers Fantômes\" sont Invoqués Spécialement sur votre Terrain (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte depuis votre main, puis vous pouvez augmenter le Niveau de cette carte de 1. Vous pouvez bannir cette carte depuis votre Cimetière ; Invoquez Spécialement 1 monstre \"Les Chevaliers Fantômes\" (\"Les Chevaliers Fantômes des Chausses Souillées\" exclu) depuis votre main, puis vous pouvez augmenter son Niveau de 1. Vous ne pouvez utiliser chaque effet de \"Les Chevaliers Fantômes des Chausses Souillées\" qu'une fois par tour.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/11/05",
+  "species_id": 15,
+  "starchip": "3"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "-1",
+  "attribute_id": 2,
+  "card_id": 16838,
+  "card_name": "Darton the Mechanical Monstrosity",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Once per turn, during your Main Phase: You can check the difference between the current and original ATK of each monster on the field, add up the total of each of those differences, and make this monster's original ATK become that combined amount until the end of your opponent's next turn.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/02/10",
+  "species_id": 7,
+  "starchip": "1"
+}

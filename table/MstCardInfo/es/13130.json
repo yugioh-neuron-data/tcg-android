@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 1,
+  "card_id": 13130,
+  "card_name": "Artistamigo Mago de Cinco Arcoiris",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "No puedes Invocar por Péndulo, excepto desde el Deck Extra. Este efecto no puede ser negado. Cada jugador aplica 1 de estos efectos con base en el número de cartas Colocadas en sus Zonas de Magia y Trampas.$N●0: Todos los monstruos que controlan no pueden atacar ni activar sus efectos.$N●4 o más: El ATK de todos los monstruos que controlan se convierten en el doble de su ATK original.",
+  "card_text": "Si cualquier jugador Coloca una Mágica/Trampa en tu Campo mientras esta carta está en tu Cementerio (excepto durante el Damage Step): puedes poner esta carta en tu Zona de Péndulo.",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "12",
+  "pen_scale_r": "12",
+  "sales_at": "2017/07/06",
+  "species_id": 18,
+  "starchip": "1"
+}

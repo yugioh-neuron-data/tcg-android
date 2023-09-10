@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15301,
+  "card_name": "Zerwürfelte Würfel",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wirf einen sechsseitigen Würfel und falls du eine 1 oder 6 würfelst, füge deiner Hand 1 Karte, die einen Würfelwurf erfordert, von deinem Deck hinzu. Falls du eine andere Zahl als 1 oder 6 würfelst, würfle noch einmal und führe den entsprechenden Effekt aus.$N●1 oder 6: Gib diese Karte auf die Hand zurück.$N●2, 3, 4 oder 5: Lege diese Karte aufs Deck.$NDu kannst nur 1 „Zerwürfelte Würfel“ pro Spielzug aktivieren.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/08/06",
+  "species_id": 24,
+  "starchip": "0"
+}

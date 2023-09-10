@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10086,
+  "card_name": "暴走する魔力",
+  "card_name_label": "ぼうそうするまりょく",
+  "card_name_search": "ぼうそうするまりょく",
+  "card_pen_effect": "",
+  "card_text": "自分の墓地の魔法カードを全てゲームから除外して発動できる。除外した魔法カードの数×３００ポイント以下の守備力を持つ、相手フィールド上に表側表示で存在するモンスターを全て破壊する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/02/18",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 17455,
+  "card_name": "融合超渦",
+  "card_name_label": "フュージョン・オーバー",
+  "card_name_search": "ふゅーじょんおーばー",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：フィールドの表側表示モンスター１体を対象として発動できる。手札・デッキ・EXデッキから「E・HERO」モンスター、「N」モンスター、レベル１０モンスターの内１体を選んで相手に見せる。このターン、対象のモンスターを融合素材とする場合、見せたモンスターの同名カードとして扱う事ができる。自分のフィールドまたは墓地に「E・HERO ネオス」が存在する場合、見せたモンスターを墓地へ送る。それ以外の場合、手札から見せたモンスターはデッキに戻す。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/04/23",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 13863,
+  "card_name": "Attore dell'Abisso - Intermezzo Comico",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Puoi scegliere come bersaglio 1 Mostro Pendulum \"Attore dell'Abisso\" che controlli e 1 mostro controllato dal tuo avversario; scambia il controllo di quei mostri, poi distruggi questa carta. Puoi utilizzare questo effetto di \"Attore dell'Abisso - Intermezzo Comico\" una sola volta per turno.",
+  "card_text": "Non subisci danno da combattimento da attacchi che coinvolgono questa carta. Una volta per turno, durante la tua Standby Phase: dai il controllo di questa carta al tuo avversario. Una volta per turno, se il controllo di questa carta scoperta cambia: attiva questo effetto; il proprietario di questa carta può distruggere 1 Magia \"Sceneggiatura dell'Abisso\" Posizionata nella sua Zona Magie & Trappole.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "8",
+  "pen_scale_r": "8",
+  "sales_at": "2018/09/27",
+  "species_id": 3,
+  "starchip": "3"
+}

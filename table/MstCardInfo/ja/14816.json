@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 2,
+  "card_id": 14816,
+  "card_name": "ドンヨリボー＠イグニスター",
+  "card_name_label": "ドンヨリボーアットイグニスター",
+  "card_name_search": "どんよりぼーあっといぐにすたー",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分の「＠イグニスター」モンスターが攻撃されたダメージ計算時にこのカードを手札から捨てて発動できる。その戦闘で発生する自分への戦闘ダメージを０にする。②：「＠イグニスター」モンスターまたは「Ai」魔法・罠カードの、相手にダメージを与える効果が発動した時、墓地のこのカードを除外して発動できる（ダメージステップでも発動可能）。その効果で相手に与えるダメージは倍になる。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/10/12",
+  "species_id": 27,
+  "starchip": "1"
+}

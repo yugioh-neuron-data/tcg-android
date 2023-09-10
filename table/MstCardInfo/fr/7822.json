@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 5,
+  "card_id": 7822,
+  "card_name": "Galahad, Sabre X",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si cette carte attaque un monstre de l'adversaire, elle gagne 300 points d'ATK uniquement durant la Damage Step. Si cette carte est attaquée par un monstre de l'adversaire, elle perd 500 points d'ATK uniquement durant la Damage Step. Lorsque cette carte est sélectionnée comme cible d'une attaque, vous pouvez Sacrifier un autre monstre \"Sabre\" pour annuler l'attaque.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/06/10",
+  "species_id": 15,
+  "starchip": "4"
+}

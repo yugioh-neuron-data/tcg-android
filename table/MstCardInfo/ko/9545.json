@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 9545,
+  "card_name": "임대 자동기계 정비소",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "자신 필드 위에 \"자동기계\"라는 이름이 붙은 몬스터가 앞면 수비 표시로 존재할 경우에 발동할 수 있다. 상대가 발동한 마법 / 함정 카드의 발동을 무효로 하고 파괴한다.",
+  "defense_power": "0",
+  "effect_id": 1,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/06/10",
+  "species_id": 25,
+  "starchip": "0"
+}

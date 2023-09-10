@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 14391,
+  "card_name": "無限起動ハーヴェスター",
+  "card_name_label": "むげんきどうハーヴェスター",
+  "card_name_search": "むげんきどうはーう゛ぇすたー",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功した場合に発動できる。デッキから「無限起動ハーヴェスター」以外の「無限起動」モンスター１体を手札に加える。②：このカード以外の自分フィールドの機械族モンスター１体を対象として発動できる。そのモンスターとこのカードは、ターン終了時までその２体の元々のレベルを合計したレベルになる。",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/02/23",
+  "species_id": 7,
+  "starchip": "2"
+}

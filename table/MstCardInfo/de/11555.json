@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 2,
+  "card_id": 11555,
+  "card_name": "Caius der Megamonarch",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Du kannst diese Karte als Tributbeschwörung beschwören, indem du 1 als Tributbeschwörung beschworenes Monster als Tribut anbietest. Falls diese Karte als Tributbeschwörung beschworen wird: Wähle 1 Karte auf dem Spielfeld; verbanne sie und falls du dies tust, füge deinem Gegner 1000 Schaden zu, dann, falls es eine FINSTERNIS Monsterkarte ist, verbanne alle Karten mit demselben Namen von der Hand, dem Main Deck, dem Extra Deck und dem Friedhof des Spielers, der sie kontrolliert hat. Falls diese Karte als Tributbeschwörung beschworen wurde, indem ein FINSTERNIS Monster als Tribut angeboten wurde, füge diesen zusätzlichen Effekt hinzu.$N●Du kannst stattdessen 2 Karten wählen.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/01/15",
+  "species_id": 3,
+  "starchip": "8"
+}

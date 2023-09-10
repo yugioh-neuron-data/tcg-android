@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 2,
+  "card_id": 11724,
+  "card_name": "Raidraptor - Falco Rivoluzione",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "3 mostri di Tipo Bestia Alata di Livello 6$NPuoi staccare 1 Materiale Xyz da questa carta; in questo turno, questa carta può attaccare tutti i mostri controllati dal tuo avversario, una volta ciascuno. All'inizio del Damage Step, se questa carta combatte con un mostro Evocato Specialmente scoperto dell'avversario: l'ATK e il DEF di quel mostro diventano 0. Se questa carta ha un Mostro Xyz \"Raidraptor\" come Materiale Xyz, guadagna questo effetto.$N●Una volta per turno: puoi scegliere come bersaglio 1 mostro controllato dal tuo avversario; distruggilo e, se lo fai, infliggi al tuo avversario danno pari alla metà dell'ATK che quel mostro aveva sul Terreno.",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/05/14",
+  "species_id": 16,
+  "starchip": "6"
+}

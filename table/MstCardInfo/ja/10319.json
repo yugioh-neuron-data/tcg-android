@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10319,
+  "card_name": "アドバンス・ゾーン",
+  "card_name_label": "アドバンス・ゾーン",
+  "card_name_search": "あどばんすぞーん",
+  "card_pen_effect": "",
+  "card_text": "１ターンに１度、自分がモンスターのアドバンス召喚に成功したターンのエンドフェイズ時に発動できる。このターン自分がアドバンス召喚のためにリリースしたモンスターの数によって以下の効果を適用する。$N●１体以上：相手フィールド上にセットされたカード１枚を選んで破壊する。$N●２体以上：デッキからカードを１枚ドローする。$N●３体以上：自分の墓地のモンスター１体を選んで手札に加える。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/05/18",
+  "species_id": 24,
+  "starchip": "0"
+}

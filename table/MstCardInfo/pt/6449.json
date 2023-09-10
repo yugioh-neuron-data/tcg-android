@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 6449,
+  "card_name": "Preparar para Contra-Atacar",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cada vez que seu adversário declarar um ataque num monstro em Posição de Defesa com a face para cima, lance uma moeda e escolha Cara ou Coroa. Se ganhar, mude o monstro que foi designado como alvo da Posição de Defesa com a face para cima para a Posição de Ataque. Se perder, o controlador deste card recebe dano igual a diferença entre o ATK do monstro atacante e a DEF do monstro atacado.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/08/01",
+  "species_id": 25,
+  "starchip": "0"
+}

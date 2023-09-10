@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14313,
+  "card_name": "Klagelied der verschwundenen Drachen",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Aktiviere diese Karte, indem du 1 Kartennamen deklarierst. Jedes Mal, wenn die deklarierte Karte oder ihr Effekt aktiviert wird, halbiere die LP ihres Besitzers sofort nachdem sie oder er aufgelöst wurde. Während der End Phase, falls diese Karte in diesem Spielzug die LP eines Spielers halbiert hat, lege diese Karte auf den Friedhof. Solange dein Gegner ein Monster kontrolliert, kann diese Karte nicht durch Karteneffekte zerstört werden.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/05/02",
+  "species_id": 24,
+  "starchip": "0"
+}

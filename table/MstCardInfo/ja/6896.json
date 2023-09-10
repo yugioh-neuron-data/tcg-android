@@ -1,0 +1,23 @@
+{
+  "attack_power": "2300",
+  "attribute_id": 6,
+  "card_id": 6896,
+  "card_name": "ストーム・シューター",
+  "card_name_label": "ストーム・シューター",
+  "card_name_search": "すとーむしゅーたー",
+  "card_pen_effect": "",
+  "card_text": "１ターンに１度だけ、次の効果から１つを選択して発動する事ができる。$N●使用していない隣のモンスターカードゾーンに移動する。$N●このカードの正面に存在する相手のモンスター・魔法・罠カード１枚を持ち主の手札に戻す。",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/08/10",
+  "species_id": 16,
+  "starchip": "7"
+}

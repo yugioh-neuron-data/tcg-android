@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 6,
+  "card_id": 11497,
+  "card_name": "精霊獣 カンナホーク",
+  "card_name_label": "せいれいじゅう　カンナホーク",
+  "card_name_search": "せいれいじゅうかんなほーく",
+  "card_pen_effect": "",
+  "card_text": "自分は「精霊獣 カンナホーク」を１ターンに１度しか特殊召喚できない。①：１ターンに１度、自分メインフェイズに発動できる。デッキから「霊獣」カード１枚を除外する。発動後２回目の自分スタンバイフェイズに、この効果で除外したカードを手札に加える。",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/10/11",
+  "species_id": 19,
+  "starchip": "4"
+}

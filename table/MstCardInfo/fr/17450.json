@@ -1,0 +1,23 @@
+{
+  "attack_power": "2100",
+  "attribute_id": 5,
+  "card_id": 17450,
+  "card_name": "Roi Ashura",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "3+ monstres de Niveau 3$NTant que cette carte a du Matériel, elle peut attaquer un nombre de fois chaque Battle Phase, inférieur ou égal au nombre de Matériels qui lui sont attachés. Au début de la Damage Step, si cette carte combat : elle gagne 200 ATK. Lorsque l'effet d'un autre monstre est activé (Effet Rapide) : vous pouvez détacher 1 Matériel de cette carte ; annulez l'activation, et si vous le faites, détruisez la carte. Vous ne pouvez utiliser cet effet de \"Roi Ashura\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/08/04",
+  "species_id": 15,
+  "starchip": "3"
+}

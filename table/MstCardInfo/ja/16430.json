@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16430,
+  "card_name": "LL－バード・ストライク",
+  "card_name_label": "リリカル・ルスキニア－バード・ストライク",
+  "card_name_search": "りりかるるすきにあばーどすとらいく",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：自分フィールドに「LL」モンスターが存在する場合に発動できる。相手フィールドの全ての表側表示モンスターの効果はターン終了時まで無効化される。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/06/12",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "4000",
+  "attribute_id": 1,
+  "card_id": 7590,
+  "card_name": "Força Arcana EX - O Senhor das Trevas",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Não pode ser Invocado por Invocação-Normal/Baixado. Deve ser Invocado por Invocação-Especial (da sua mão) ao enviar 3 monstros que você controla para o Cemitério e não pode ser Invocado por Invocação-Especial de nenhuma outra forma. Quando este card for Invocado por Invocação-Especial: jogue uma moeda e ganhe o efeito apropriado.$N●Cara: Este card pode realizar um segundo ataque durante cada Fase de Batalha, mas se ele fizer isso por meio deste efeito, mude-o para Posição de Defesa no final da Fase de Batalha. Sua Posição de Batalha não pode ser mudada até o final do seu próximo turno.$N●Coroa: Se este card for destruído, destrua todos os cards no campo.",
+  "defense_power": "4000",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/02/22",
+  "species_id": 17,
+  "starchip": "10"
+}

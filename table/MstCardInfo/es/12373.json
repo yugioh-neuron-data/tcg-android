@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 5,
+  "card_id": 12373,
+  "card_name": "Artistamigo Cobrapecio",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Una vez por turno, cuando un monstruo que controlas inflige daño de batalla a tu adversario: puedes mandar al Cementerio la carta de la parte superior del Deck de tu adversario.",
+  "card_text": "Esta carta puede atacar directamente a tu adversario. Si esta carta ataca, se cambia a Posición de Defensa al final de la Battle Phase.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "2",
+  "pen_scale_r": "2",
+  "sales_at": "2016/05/26",
+  "species_id": 20,
+  "starchip": "4"
+}

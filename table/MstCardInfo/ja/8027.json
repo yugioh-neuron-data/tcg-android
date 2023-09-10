@@ -1,0 +1,23 @@
+{
+  "attack_power": "-1",
+  "attribute_id": 1,
+  "card_id": 8027,
+  "card_name": "スキヤナー",
+  "card_name_label": "スキヤナー",
+  "card_name_search": "すきやなー",
+  "card_pen_effect": "",
+  "card_text": "ゲームから除外されている相手のモンスター１体を選択して発動する。このカードはエンドフェイズ時まで選択したモンスターと同名カードとして扱い、選択したモンスターと同じ属性・レベル・攻撃力・守備力になる。この効果は１ターンに１度しか使用できない。この効果が適用されたこのカードはフィールド上から離れた場合、ゲームから除外される。",
+  "defense_power": "-1",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/11/15",
+  "species_id": 7,
+  "starchip": "1"
+}

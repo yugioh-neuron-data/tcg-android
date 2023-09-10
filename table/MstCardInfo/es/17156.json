@@ -1,0 +1,23 @@
+{
+  "attack_power": "700",
+  "attribute_id": 5,
+  "card_id": 17156,
+  "card_name": "Campeón Heroico - Jarngreipr",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 monstruos Guerrero de Nivel 1$NLa primera vez que cada monstruo Guerrero que controlas fuera a ser destruido en batalla o por el efecto de una carta cada turno, no es destruido. Sólo puedes usar cada uno de los siguientes efectos de \"Campeón Heroico - Jarngreipr\" una vez por turno. Puedes desacoplar 2 materiales de esta carta, y después selecciona 1 monstruo Guerrero de Nivel/Rango 4 en tu Cementerio; Invócalo de Modo Especial y, si lo haces, esta carta gana ATK igual al ATK original de ese monstruo. Cuando es declarado un ataque que involucra el monstruo de tu adversario: puedes ganar LP igual a la mitad de su ATK.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/05/19",
+  "species_id": 15,
+  "starchip": "1"
+}

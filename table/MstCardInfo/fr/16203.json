@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 5,
+  "card_id": 16203,
+  "card_name": "Figurines d'Acambaro Chronomal",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si un ou plusieurs monstres \"Chronomal\" que vous contrôlez vont être détruits au combat ou par un effet de carte de votre adversaire, vous pouvez défausser cette carte à la place. Si cette carte est dans votre Cimetière : vous pouvez payer 1000 LP ; Invoquez Spécialement cette carte, mais renvoyez-la à la main durant la End Phase. Vous ne pouvez pas Invoquer Spécialement de monstres (monstres \"Chronomal\" exclus) le tour où vous activez cet effet. Vous ne pouvez utiliser cet effet de \"Figurines d'Acambaro Chronomal\" qu'une fois par tour.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/08/12",
+  "species_id": 6,
+  "starchip": "5"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 5,
+  "card_id": 12255,
+  "card_name": "Gerümpeländerer",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Du kannst den folgenden Effekt von „Gerümpeländerer“ nur einmal pro Spielzug verwenden. Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 „Gerümpel“-Monster auf dem Spielfeld wählen und dann 1 dieser Effekte aktivieren;$N●Erhöhe seine Stufe um 1.$N●Verringere seine Stufe um 1.",
+  "defense_power": "900",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/03/17",
+  "species_id": 15,
+  "starchip": "3"
+}

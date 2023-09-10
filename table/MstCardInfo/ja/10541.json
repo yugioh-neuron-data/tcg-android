@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10541,
+  "card_name": "RUM－バリアンズ・フォース",
+  "card_name_label": "ランクアップマジック－バリアンズ・フォース",
+  "card_name_search": "らんくあっぷまじっくばりあんずふぉーす",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上のエクシーズモンスター１体を選択して発動できる。選択したモンスターと同じ種族でランクが１つ高い「CNo.」または「CX」と名のついたモンスター１体を、選択したモンスターの上に重ねてエクシーズ召喚扱いとしてエクストラデッキから特殊召喚する。その後、相手フィールド上にエクシーズ素材が存在する場合、相手フィールド上のエクシーズ素材１つを、この効果で特殊召喚したエクシーズモンスターの下に重ねてエクシーズ素材とする。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/02/16",
+  "species_id": 24,
+  "starchip": "0"
+}

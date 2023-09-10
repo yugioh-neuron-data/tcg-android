@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 10604,
+  "card_name": "DZW - Plattenschimäre",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Du kannst 1 „Nummer C39“-Monster wählen, das du kontrollierst; rüste das gewählte Ziel mit diesem Monster von deiner Hand oder deiner Spielfeldseite aus. Das ausgerüstete Monster kann nicht durch Kampf zerstört werden. Am Ende des Damage Steps, wenn das ausgerüstete Monster ein Monster deines Gegners angreift, aber das Monster deines Gegners nicht durch den Kampf zerstört wurde: Du kannst die ATK des Monsters deines Gegners zu 0 machen (selbst nachdem diese Karte das Spielfeld verlässt oder das Monster von Karteneffekten unberührt bleibt) und falls du dies tust, kann das ausgerüstete Monster dasselbe Monster sofort noch ein zweites Mal angreifen.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/08/08",
+  "species_id": 3,
+  "starchip": "1"
+}

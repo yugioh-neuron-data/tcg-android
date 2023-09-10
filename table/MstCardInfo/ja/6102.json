@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 6102,
+  "card_name": "暗黒のミミック LV３",
+  "card_name_label": "あんこくのミミック　レベル３",
+  "card_name_search": "あんこくのみみっくれべるすりー",
+  "card_pen_effect": "",
+  "card_text": "このカードが戦闘によって墓地に送られた場合、このカードのコントローラーはデッキからカードを１枚ドローする。このカードが「暗黒のミミック LV１」の効果によって特殊召喚されている場合はカードを２枚ドローする。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/05/27",
+  "species_id": 3,
+  "starchip": "3"
+}

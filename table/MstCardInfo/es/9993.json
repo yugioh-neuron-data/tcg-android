@@ -1,0 +1,23 @@
+{
+  "attack_power": "1650",
+  "attribute_id": 2,
+  "card_id": 9993,
+  "card_name": "Pájaro del Trueno Horda de Maldad",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante el turno de cualquier jugador, cuando es activada una carta o efecto (excepto durante el Damage Step): puedes desterrar esta carta que controlas. Durante la próxima Standby Phase, devuelve al Campo a esta carta desterrada por este efecto y, si lo haces, ésta gana 300 ATK. Sólo puedes usar este efecto de \"Pájaro del Trueno Horda de Maldad\" una vez por turno.",
+  "defense_power": "1050",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/04/25",
+  "species_id": 19,
+  "starchip": "4"
+}

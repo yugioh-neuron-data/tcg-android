@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 9005,
+  "card_name": "ビーストライザー",
+  "card_name_label": "ビーストライザー",
+  "card_name_search": "びーすとらいざー",
+  "card_pen_effect": "",
+  "card_text": "①：１ターンに１度、自分フィールドの表側表示の獣族・獣戦士族モンスター１体を除外し、自分フィールドの獣族・獣戦士族モンスター１体を対象として発動できる。その自分の獣族・獣戦士族モンスターの攻撃力は、この効果を発動するために除外したモンスターの元々の攻撃力分アップする。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/04/17",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 5,
+  "card_id": 14119,
+  "card_name": "Elevador Hiper Psíquico",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Cantante + 1+ monstruos que no sean Cantantes$NLos monstruos con menos ATK que esta carta no pueden atacar, y además ningún jugador puede activar los efectos de monstruos boca arriba en el Campo con ATK mayor al de esta carta. Si esta carta en tu posesión es destruida por la carta de tu adversario y mandada a tu Cementerio: puedes seleccionar 1 Cantante y 1 monstruo que no sea Cantante en tu Cementerio con el mismo Tipo y Atributo entre ellos; añádelos a tu mano. Sólo puedes usar este efecto de \"Elevador Hiper Psíquico\" una vez por turno.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/01/31",
+  "species_id": 21,
+  "starchip": "6"
+}

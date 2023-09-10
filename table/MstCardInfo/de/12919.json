@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 3,
+  "card_id": 12919,
+  "card_name": "Künstlerkumpel Münzdrache",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Einmal pro Spielzug: Du kannst 1 Monster vom Typ Drache wählen, das du kontrollierst und das als Spezialbeschwörung vom Extra Deck beschworen wurde; falls das Monster, das du kontrollierst, in diesem Spielzug gegen ein Monster deines Gegners kämpft, verbanne das Monster deines Gegners nach der Schadensberechnung (selbst falls diese Karte das Spielfeld verlässt).",
+  "card_text": "Andere Monster vom Typ Drache, die du kontrollierst, erhalten 500 ATK, zusätzlich können sie nicht durch Karteneffekte zerstört werden.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2017/05/04",
+  "species_id": 1,
+  "starchip": "4"
+}

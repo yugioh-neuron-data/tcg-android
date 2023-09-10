@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 6364,
+  "card_name": "トークン謝肉祭",
+  "card_name_label": "トークンしゃにくさい",
+  "card_name_search": "とーくんしゃにくさい",
+  "card_pen_effect": "",
+  "card_text": "トークンが特殊召喚された時に発動する事ができる。フィールド上に存在する全てのトークンを破壊し、相手ライフに破壊したトークンの数×３００ポイントダメージを与える。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/02/24",
+  "species_id": 25,
+  "starchip": "0"
+}

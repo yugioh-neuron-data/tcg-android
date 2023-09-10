@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 5437,
+  "card_name": "피라미드 파워",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "다음 효과에서 1개를 선택하고 발동할 수 있다.$N●앞면 표시로 자신 필드 위에 존재하는 모든 몬스터의 공격력은 엔드 페이즈까지 200 포인트 올린다.$N●앞면 표시로 자신 필드 위에 존재하는 모든 몬스터의 수비력은 엔드 페이즈까지 500 포인트 올린다.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/12/14",
+  "species_id": 24,
+  "starchip": "0"
+}

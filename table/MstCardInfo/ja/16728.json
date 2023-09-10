@@ -1,0 +1,23 @@
+{
+  "attack_power": "2300",
+  "attribute_id": 1,
+  "card_id": 16728,
+  "card_name": "No－P.U.N.K.フォクシー・チューン",
+  "card_name_label": "ノウ－パンクフォクシー・チューン",
+  "card_name_search": "のうぱんくふぉくしーちゅーん",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドの「P.U.N.K.」モンスター１体をリリースして発動できる。このカードを手札から特殊召喚する。②：手札・フィールドのこのカードを墓地へ送って発動できる。自分の手札を１枚選んで墓地へ送り、デッキからレベル８以外の「P.U.N.K.」モンスター１体を特殊召喚する。③：１ターンに１度、このカードが戦闘で相手モンスターを破壊した時に発動できる。そのモンスターの元々の攻撃力分だけ自分のLPを回復する。",
+  "defense_power": "2600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/08/28",
+  "species_id": 11,
+  "starchip": "8"
+}

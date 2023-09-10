@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 1,
+  "card_id": 13397,
+  "card_name": "Mythical Beast Master Cerberus",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "If you have no card in your other Pendulum Zone: You can destroy this card, and if you do, add 1 Level 7 or lower \"Mythical Beast\" Effect Monster from your Deck to your hand. You can only use this effect of \"Mythical Beast Master Cerberus\" once per turn.",
+  "card_text": "Each time a Spell Card is activated, place 2 Spell Counters on this card when that Spell resolves. Cannot be destroyed by card effects while 4 or more Spell Counters are on your field. Once per turn: You can remove 4 Spell Counters from your field, then target 1 monster your opponent controls; banish it face-up, and if you do, this card gains ATK equal to the banished monster's original ATK until the end of the opponent's turn.",
+  "defense_power": "2800",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "4",
+  "pen_scale_r": "4",
+  "sales_at": "2018/02/02",
+  "species_id": 18,
+  "starchip": "8"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1100",
+  "attribute_id": 4,
+  "card_id": 9865,
+  "card_name": "エヴォルダー・ペルタ",
+  "card_name_label": "エヴォルダー・ペルタ",
+  "card_name_search": "えう゛ぉるだーぺるた",
+  "card_pen_effect": "",
+  "card_text": "このカードが「エヴォルド」と名のついたモンスターの効果によって特殊召喚に成功した時、このカードの守備力は５００ポイントアップする。その後、このカードが戦闘によって破壊された場合、デッキから「エヴォルド」と名のついたモンスター１体を手札に加える事ができる。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/10/13",
+  "species_id": 9,
+  "starchip": "4"
+}

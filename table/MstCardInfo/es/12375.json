@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 6,
+  "card_id": 12375,
+  "card_name": "Artistamigo Tríoperico",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Una vez por turno, si controlas una carta \"Artistamigo\", \"Mago/a\" u \"Ojos Anómalos\" en tu otra Zona de Péndulo, excepto \"Artistamigo Tríoperico\": puedes hacer que la Escala de Péndulo de esta carta se convierta en 7 hasta el final de este turno.",
+  "card_text": "Cuando esta carta es destruida en batalla: puedes Invocar de Modo Especial, desde tu Deck, 1 monstruo \"Artistamigo\", excepto un Monstruo de Péndulo.",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "2",
+  "pen_scale_r": "2",
+  "sales_at": "2016/05/26",
+  "species_id": 16,
+  "starchip": "3"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 1,
+  "card_id": 13405,
+  "card_name": "Inspetor Prancha",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Não pode ser Invocado por Invocação-Normal ou Especial se você controlar um monstro. Nenhum duelista pode ativar efeitos de monstro a não ser que o número de efeitos de monstro que esse duelista tenha ativado previamente no turno em questão seja menor que o número de tipos de card de monstro atualmente no campo (Ritual, Fusão, Sincro, Xyz, Pêndulo e Link). (Se a ativação de um efeito foi negada, ela ainda conta para o número total do turno. Conte apenas os efeitos que foram ativados enquanto este monstro estava com a face para cima no campo.)",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/02/01",
+  "species_id": 7,
+  "starchip": "4"
+}

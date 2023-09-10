@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 8616,
+  "card_name": "Oger des scharlachroten Leidens",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Während des Spielzugs deines Gegners, wenn dein Gegner einen zweiten direkten Angriff während derselben Battle Phase erklärt, kannst du diese Karte als Spezialbeschwörung von deiner Hand beschwören. Wenn du dies tust, werden die ATK und DEF dieser Karte zu den ATK und DEF des ersten Monsters, das in diesem Spielzug direkt angegriffen hat, falls es noch offen auf dem Spielfeld liegt. Im Spielzug, in dem diese Karte durch diesen Effekt als Spezialbeschwörung beschworen wird, kann dein Gegner keine anderen Monster angreifen, außer dieser Karte, solange diese Karte offen auf dem Spielfeld liegt.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/02/11",
+  "species_id": 3,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 5669,
+  "card_name": "ビッグバン・シュート",
+  "card_name_label": "ビッグバン・シュート",
+  "card_name_search": "びっぐばんしゅーと",
+  "card_pen_effect": "",
+  "card_text": "装備モンスターの攻撃力は４００ポイントアップする。装備モンスターが守備表示モンスターを攻撃した時、その守備力を攻撃力が超えていれば、その数値だけ相手ライフに戦闘ダメージを与える。このカードがフィールド上から離れた時、装備モンスターをゲームから除外する。",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/09/19",
+  "species_id": 24,
+  "starchip": "0"
+}

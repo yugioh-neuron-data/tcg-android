@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11610,
+  "card_name": "Amplifuego Sinf",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cada vez que es activado un efecto de una carta \"Guerrero Sinfónico\", pon 1 Contador Sinfónico en esta carta cuando ese efecto se resuelve. Todos los monstruos \"Guerrero Sinfónico\" en el Campo ganan 100 ATK por cada Contador Sinfónico en esta carta. Una vez por turno: puedes retirar 5 o 7 Contadores Sinfónicos en tu Campo; aplica este efecto, dependiendo del número de Contadores Sinfónicos retirados.$N●5: Inflige 300 puntos de daño a tu adversario por cada carta \"Guerrero Sinfónico\" en el Campo.$N●7: Destierra hasta tantas cartas que controle tu adversario y/o en su Cementerio como el número de cartas \"Guerrero Sinfónico\" en el Campo.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/02/09",
+  "species_id": 24,
+  "starchip": "0"
+}

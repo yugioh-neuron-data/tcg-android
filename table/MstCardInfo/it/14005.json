@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14005,
+  "card_name": "Villaggio Nascosto delle Arti Ninjitsu",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se un mostro \"Ninja\" viene Evocato sul tuo Terreno (eccetto durante il Damage Step): puoi scegliere come bersaglio 1 mostro \"Ninja\" o 1 carta \"Ninjitsu\" nel tuo Cimitero; aggiungila alla tua mano, ma, per il resto di questo turno, non puoi attivare carte, o effetti di carte, con lo stesso nome della carta aggiunta. Se uno o più mostri \"Ninja\" o carte \"Ninjitsu\" che controlli stanno per essere distrutte in battaglia o dall'effetto di una carta dell'avversario, puoi invece bandire 1 mostro \"Ninja\" dal tuo Cimitero. Puoi utilizzare ogni effetto di \"Villaggio Nascosto delle Arti Ninjitsu\" una sola volta per turno.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/08/16",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11610,
+  "card_name": "Symph-Verstärkofeuer",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Jedes Mal, wenn ein Effekt einer „Symphonischer Krieger“-Karte aktiviert wird, lege 1 Symphonisch-Zählmarke auf diese Karte, wenn jener Effekt aufgelöst wird. Alle „Symphonischer Krieger“-Monster auf dem Spielfeld erhalten 100 ATK für jede Symphonisch-Zählmarke auf dieser Karte. Einmal pro Spielzug: Du kannst 5 oder 7 Symphonisch-Zählmarken von deiner Spielfeldseite entfernen; führe diesen Effekt aus, abhängig von der Anzahl entfernter Symphonisch-Zählmarken.$N●5: Füge deinem Gegner für jede „Symphonischer Krieger“-Karte auf dem Spielfeld 300 Schaden zu.$N●7: Verbanne Karten, die dein Gegner kontrolliert und/oder in seinem Friedhof, bis zur Anzahl der „Symphonischer Krieger“-Karten auf dem Spielfeld.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/02/09",
+  "species_id": 24,
+  "starchip": "0"
+}

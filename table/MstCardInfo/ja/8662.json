@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 8662,
+  "card_name": "ロケット・パイルダー",
+  "card_name_label": "ロケット・パイルダー",
+  "card_name_search": "ろけっとぱいるだー",
+  "card_pen_effect": "",
+  "card_text": "装備モンスターが攻撃する場合、装備モンスターは戦闘では破壊されない。装備モンスターが攻撃を行ったダメージステップ終了時、装備モンスターの攻撃を受けたモンスターの攻撃力は、エンドフェイズ時まで装備モンスターの攻撃力分ダウンする。",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/11/14",
+  "species_id": 24,
+  "starchip": "0"
+}

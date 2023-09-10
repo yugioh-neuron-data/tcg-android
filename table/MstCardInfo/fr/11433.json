@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 2,
+  "card_id": 11433,
+  "card_name": "P.E. Ravisseur",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Lorsque vous Invoquez par Pendulation un ou plusieurs monstres de Type Zombie : vous pouvez activer cet effet ; ce tour, il ne peut être détruit ni au combat ni par des effets de carte.",
+  "card_text": "Si cette carte détruit un monstre au combat : vous pouvez cibler 1 Monstre Pendule dans votre Cimetière ; ajoutez-le à votre main.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2015/04/16",
+  "species_id": 2,
+  "starchip": "4"
+}

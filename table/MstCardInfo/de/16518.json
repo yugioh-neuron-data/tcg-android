@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 5,
+  "card_id": 16518,
+  "card_name": "Zwillingierlord Golknight",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Diese Karte wird als Normales Monster behandelt, solange sie offen auf dem Spielfeld oder im Friedhof liegt. Solange diese Karte ein Normales Monster auf dem Spielfeld ist, kannst du sie als Normalbeschwörung beschwören, damit sie ein Effektmonster mit diesen Effekten wird.$N●Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst deiner Hand 1 Zauber/Falle von deinem Deck hinzufügen, der oder die „Zwillingsmonster“ in seinem oder ihrem Text erwähnt. Du kannst diesen Effekt von „Zwillingierlord Golknight“ nur einmal pro Spielzug verwenden.$N●Diese Karte wird zu einem Maschine-Monster, zusätzlich erhält sie 500 ATK.",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 9,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/11/04",
+  "species_id": 15,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 5,
+  "card_id": 7721,
+  "card_name": "ディストラクター",
+  "card_name_label": "ディストラクター",
+  "card_name_search": "でぃすとらくたー",
+  "card_pen_effect": "",
+  "card_text": "１０００ライフポイントを払って発動できる。相手フィールド上にセットされた魔法・罠カード１枚を選択して破壊する。また、お互いのエンドフェイズ時、自分フィールド上にこのカード以外のサイキック族モンスターが存在しない場合、このカードを破壊する。",
+  "defense_power": "400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/04/19",
+  "species_id": 21,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "700",
+  "attribute_id": 3,
+  "card_id": 16099,
+  "card_name": "ベアルクティ－ミクビリス",
+  "card_name_label": "ベアルクティ－ミクビリス",
+  "card_name_search": "べあるくてぃみくびりす",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分・相手のメインフェイズに、手札からこのカード以外のレベル７以上のモンスター１体をリリースして発動できる。このカードを手札から特殊召喚する。この効果の発動後、ターン終了時まで自分はレベルを持つモンスターしか特殊召喚できない。②：このカードが特殊召喚に成功した場合に発動できる。手札から「ベアルクティ－ミクビリス」以外の「ベアルクティ」モンスター１体を特殊召喚する。",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/03/06",
+  "species_id": 11,
+  "starchip": "7"
+}

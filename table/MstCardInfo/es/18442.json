@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 18442,
+  "card_name": "Zona de Sincronía",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Ningún jugador puede declarar ataques, excepto con Monstruos de Sincronía. Sólo puedes usar cada uno de los siguientes efectos de \"Zona de Sincronía\" una vez por turno. Si uno o más Monstruos de Sincronía que no sean Cantantes son mandados a tu Cementerio (excepto durante el Damage Step): puedes seleccionar 1 de esos monstruos; Invócalo de Modo Especial y, si lo haces, es tratado como un Cantante. Durante la Main Phase de tu adversario: puedes mandar al Cementerio esta carta boca arriba; inmediatamente después de que se resuelva este efecto, Invoca por Sincronía usando monstruos que controles como material.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/06/22",
+  "species_id": 25,
+  "starchip": "0"
+}

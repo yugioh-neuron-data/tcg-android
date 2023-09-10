@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 2,
+  "card_id": 17647,
+  "card_name": "Artistamigo Vidente de Ojos Anómalos",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Puedes seleccionar 1 carta \"Artistamigo\" u \"Ojos Anómalos\" en tu Cementerio; añádela a tu mano, y después destruye esta carta. Sólo puedes usar este efecto de \"Artistamigo Vidente de Ojos Anómalos\" una vez por turno.",
+  "card_text": "Durante tu Main Phase, si controlas esta carta Invocada por Péndulo: puedes activar el siguiente efecto, basado en su posición de batalla;$N●Posición de Ataque: Puedes desterrar esta carta, y después seleccionar 1 monstruo \"Artistamigo\" u \"Ojos Anómalos\" en tu Cementerio; Invócalo de Modo Especial.$N●Posición de Defensa: Toma 1 Monstruo de Péndulo \"Artistamigo\" u \"Ojos Anómalos\" en tu Deck, y ya sea añádelo a tu Deck Extra boca arriba o mándalo al Cementerio.$NSólo puedes usar este efecto de \"Artistamigo Vidente de Ojos Anómalos\" una vez por turno.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2022/11/17",
+  "species_id": 18,
+  "starchip": "6"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 1,
+  "card_id": 10835,
+  "card_name": "Épéiste de Révélation de la Lumière",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsqu'un monstre de votre adversaire déclare une attaque directe : vous pouvez Invoquer Spécialement cette carte depuis votre main, puis si la DEF de cette carte est supérieure à l'ATK du monstre attaquant, détruisez le monstre attaquant. Un Monstre Xyz qui a été Invoqué en utilisant cette carte sur le Terrain comme Matériel Xyz gagne cet effet.$N●Chaque tour, la première fois que cette carte va être détruite au combat, elle n'est pas détruite.",
+  "defense_power": "2400",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/01/15",
+  "species_id": 15,
+  "starchip": "8"
+}

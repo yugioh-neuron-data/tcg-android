@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 5,
+  "card_id": 8520,
+  "card_name": "シールド・ワーム",
+  "card_name_label": "シールド・ワーム",
+  "card_name_search": "しーるどわーむ",
+  "card_pen_effect": "",
+  "card_text": "このカードは召喚・反転召喚・特殊召喚に成功した時、守備表示になる。さらに、自分フィールド上に表側表示で存在する昆虫族モンスターの数だけ、相手のデッキの上からカードを墓地へ送る。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/09/17",
+  "species_id": 10,
+  "starchip": "4"
+}

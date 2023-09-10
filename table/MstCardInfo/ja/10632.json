@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 10632,
+  "card_name": "トリック・デーモン",
+  "card_name_label": "トリック・デーモン",
+  "card_name_search": "とりっくでーもん",
+  "card_pen_effect": "",
+  "card_text": "このカード名の効果は１ターンに１度しか使用できない。①：このカードが効果で墓地へ送られた場合、または戦闘で破壊され墓地へ送られた場合に発動できる。デッキから「トリック・デーモン」以外の「デーモン」カード１枚を手札に加える。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/04/20",
+  "species_id": 3,
+  "starchip": "3"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 1,
+  "card_id": 13040,
+  "card_name": "サイバース・ウィザード",
+  "card_name_label": "サイバース・ウィザード",
+  "card_name_search": "さいばーすうぃざーど",
+  "card_pen_effect": "",
+  "card_text": "①：１ターンに１度、相手フィールドの攻撃表示モンスター１体を対象として発動できる。そのモンスターを守備表示にする。この効果で守備表示にしたターン、自分のモンスターは対象のモンスターしか攻撃できず、自分のサイバース族モンスターが対象の守備表示モンスターを攻撃した場合、その守備力を攻撃力が超えた分だけ相手に戦闘ダメージを与える。",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/04/15",
+  "species_id": 27,
+  "starchip": "4"
+}

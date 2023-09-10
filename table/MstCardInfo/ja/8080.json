@@ -1,0 +1,23 @@
+{
+  "attack_power": "2100",
+  "attribute_id": 1,
+  "card_id": 8080,
+  "card_name": "マックス・テレポーター",
+  "card_name_label": "マックス・テレポーター",
+  "card_name_search": "まっくすてれぽーたー",
+  "card_pen_effect": "",
+  "card_text": "このカードは特殊召喚できない。２０００ライフポイントを払う事で、自分のデッキからレベル３のサイキック族モンスター２体を自分フィールド上に特殊召喚する。この効果はこのカードがフィールド上に表側表示で存在する限り１度しか使用できない。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/09/19",
+  "species_id": 21,
+  "starchip": "6"
+}

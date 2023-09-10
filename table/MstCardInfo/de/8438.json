@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 6,
+  "card_id": 8438,
+  "card_name": "Max-Krieger",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls diese Karte ein Monster deines Gegners angreift, erhält diese Karte nur während des Damage Steps 400 ATK. Falls diese Karte ein Monster deines Gegners durch Kampf zerstört, bis zu deiner nächsten Standby Phase: Diese Karte wird Stufe 2 und ihre Grund-ATK und -DEF werden halbiert.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/11/12",
+  "species_id": 15,
+  "starchip": "4"
+}

@@ -1,0 +1,938 @@
+[
+  {
+    "card_count": 1,
+    "card_id": 4137,
+    "card_image_id": 1,
+    "card_number": "SRL-EN052",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4205,
+    "card_image_id": 1,
+    "card_number": "SRL-EN001",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4298,
+    "card_image_id": 1,
+    "card_number": "SRL-EN053",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4310,
+    "card_image_id": 1,
+    "card_number": "SRL-EN002",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 4317,
+    "card_image_id": 1,
+    "card_number": "SRL-EN003",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 4319,
+    "card_image_id": 1,
+    "card_number": "SRL-EN004",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4320,
+    "card_image_id": 1,
+    "card_number": "SRL-EN054",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 4327,
+    "card_image_id": 1,
+    "card_number": "SRL-EN005",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4355,
+    "card_image_id": 1,
+    "card_number": "SRL-EN006",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 4372,
+    "card_image_id": 1,
+    "card_number": "SRL-EN055",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4375,
+    "card_image_id": 1,
+    "card_number": "SRL-EN056",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4444,
+    "card_image_id": 1,
+    "card_number": "SRL-EN007",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4469,
+    "card_image_id": 1,
+    "card_number": "SRL-EN008",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4474,
+    "card_image_id": 1,
+    "card_number": "SRL-EN009",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4490,
+    "card_image_id": 1,
+    "card_number": "SRL-EN010",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 4497,
+    "card_image_id": 1,
+    "card_number": "SRL-EN011",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4499,
+    "card_image_id": 1,
+    "card_number": "SRL-EN012",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 4519,
+    "card_image_id": 1,
+    "card_number": "SRL-EN013",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4525,
+    "card_image_id": 1,
+    "card_number": "SRL-EN014",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4540,
+    "card_image_id": 1,
+    "card_number": "SRL-EN015",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4553,
+    "card_image_id": 1,
+    "card_number": "SRL-EN016",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4561,
+    "card_image_id": 1,
+    "card_number": "SRL-EN017",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4581,
+    "card_image_id": 1,
+    "card_number": "SRL-EN018",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4588,
+    "card_image_id": 1,
+    "card_number": "SRL-EN019",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4589,
+    "card_image_id": 1,
+    "card_number": "SRL-EN020",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4591,
+    "card_image_id": 1,
+    "card_number": "SRL-EN021",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4599,
+    "card_image_id": 1,
+    "card_number": "SRL-EN022",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4611,
+    "card_image_id": 1,
+    "card_number": "SRL-EN023",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4612,
+    "card_image_id": 1,
+    "card_number": "SRL-EN057",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4617,
+    "card_image_id": 1,
+    "card_number": "SRL-EN024",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 4630,
+    "card_image_id": 1,
+    "card_number": "SRL-EN025",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4638,
+    "card_image_id": 1,
+    "card_number": "SRL-EN058",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4647,
+    "card_image_id": 1,
+    "card_number": "SRL-EN026",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 4656,
+    "card_image_id": 1,
+    "card_number": "SRL-EN027",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4658,
+    "card_image_id": 1,
+    "card_number": "SRL-EN059",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4662,
+    "card_image_id": 1,
+    "card_number": "SRL-EN060",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4663,
+    "card_image_id": 1,
+    "card_number": "SRL-EN061",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 4682,
+    "card_image_id": 1,
+    "card_number": "SRL-EN062",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4683,
+    "card_image_id": 1,
+    "card_number": "SRL-EN063",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4687,
+    "card_image_id": 1,
+    "card_number": "SRL-EN064",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4688,
+    "card_image_id": 1,
+    "card_number": "SRL-EN065",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4698,
+    "card_image_id": 1,
+    "card_number": "SRL-EN066",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4707,
+    "card_image_id": 1,
+    "card_number": "SRL-EN067",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4708,
+    "card_image_id": 1,
+    "card_number": "SRL-EN068",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4712,
+    "card_image_id": 1,
+    "card_number": "SRL-EN103",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 4716,
+    "card_image_id": 1,
+    "card_number": "SRL-EN069",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4729,
+    "card_image_id": 1,
+    "card_number": "SRL-EN028",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4731,
+    "card_image_id": 1,
+    "card_number": "SRL-EN030",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4732,
+    "card_image_id": 1,
+    "card_number": "SRL-EN070",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4733,
+    "card_image_id": 1,
+    "card_number": "SRL-EN071",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 4734,
+    "card_image_id": 1,
+    "card_number": "SRL-EN072",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 4735,
+    "card_image_id": 1,
+    "card_number": "SRL-EN073",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 4737,
+    "card_image_id": 1,
+    "card_number": "SRL-EN029",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 4738,
+    "card_image_id": 1,
+    "card_number": "SRL-EN074",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4743,
+    "card_image_id": 1,
+    "card_number": "SRL-EN075",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 4773,
+    "card_image_id": 1,
+    "card_number": "SRL-EN000",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 4798,
+    "card_image_id": 1,
+    "card_number": "SRL-EN076",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 4802,
+    "card_image_id": 1,
+    "card_number": "SRL-EN051",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 4893,
+    "card_image_id": 1,
+    "card_number": "SRL-EN031",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4894,
+    "card_image_id": 1,
+    "card_number": "SRL-EN032",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4895,
+    "card_image_id": 1,
+    "card_number": "SRL-EN033",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4896,
+    "card_image_id": 1,
+    "card_number": "SRL-EN034",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4897,
+    "card_image_id": 1,
+    "card_number": "SRL-EN035",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4898,
+    "card_image_id": 1,
+    "card_number": "SRL-EN036",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 4899,
+    "card_image_id": 1,
+    "card_number": "SRL-EN037",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4900,
+    "card_image_id": 1,
+    "card_number": "SRL-EN038",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 4901,
+    "card_image_id": 1,
+    "card_number": "SRL-EN039",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 4902,
+    "card_image_id": 1,
+    "card_number": "SRL-EN040",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4903,
+    "card_image_id": 1,
+    "card_number": "SRL-EN041",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4904,
+    "card_image_id": 1,
+    "card_number": "SRL-EN042",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4905,
+    "card_image_id": 1,
+    "card_number": "SRL-EN043",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 4906,
+    "card_image_id": 1,
+    "card_number": "SRL-EN044",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4907,
+    "card_image_id": 1,
+    "card_number": "SRL-EN045",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 4908,
+    "card_image_id": 1,
+    "card_number": "SRL-EN046",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4909,
+    "card_image_id": 1,
+    "card_number": "SRL-EN047",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 4910,
+    "card_image_id": 1,
+    "card_number": "SRL-EN048",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 4911,
+    "card_image_id": 1,
+    "card_number": "SRL-EN049",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 4912,
+    "card_image_id": 1,
+    "card_number": "SRL-EN050",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4913,
+    "card_image_id": 1,
+    "card_number": "SRL-EN077",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 4914,
+    "card_image_id": 1,
+    "card_number": "SRL-EN078",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 4915,
+    "card_image_id": 1,
+    "card_number": "SRL-EN079",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 4916,
+    "card_image_id": 1,
+    "card_number": "SRL-EN080",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 4917,
+    "card_image_id": 1,
+    "card_number": "SRL-EN081",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 4918,
+    "card_image_id": 1,
+    "card_number": "SRL-EN082",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4919,
+    "card_image_id": 1,
+    "card_number": "SRL-EN083",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 4920,
+    "card_image_id": 1,
+    "card_number": "SRL-EN084",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4921,
+    "card_image_id": 1,
+    "card_number": "SRL-EN085",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 4922,
+    "card_image_id": 1,
+    "card_number": "SRL-EN086",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 4923,
+    "card_image_id": 1,
+    "card_number": "SRL-EN087",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4924,
+    "card_image_id": 1,
+    "card_number": "SRL-EN088",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 4925,
+    "card_image_id": 1,
+    "card_number": "SRL-EN089",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4926,
+    "card_image_id": 1,
+    "card_number": "SRL-EN090",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 4927,
+    "card_image_id": 1,
+    "card_number": "SRL-EN091",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 4928,
+    "card_image_id": 1,
+    "card_number": "SRL-EN092",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4929,
+    "card_image_id": 1,
+    "card_number": "SRL-EN093",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4930,
+    "card_image_id": 1,
+    "card_number": "SRL-EN094",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 4931,
+    "card_image_id": 1,
+    "card_number": "SRL-EN095",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4932,
+    "card_image_id": 1,
+    "card_number": "SRL-EN096",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4933,
+    "card_image_id": 1,
+    "card_number": "SRL-EN097",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4934,
+    "card_image_id": 1,
+    "card_number": "SRL-EN098",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4935,
+    "card_image_id": 1,
+    "card_number": "SRL-EN099",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4936,
+    "card_image_id": 1,
+    "card_number": "SRL-EN100",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4937,
+    "card_image_id": 1,
+    "card_number": "SRL-EN101",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4938,
+    "card_image_id": 1,
+    "card_number": "SRL-EN102",
+    "language": "en",
+    "pack_id": "2000001242000",
+    "rarity_id": 3
+  }
+]

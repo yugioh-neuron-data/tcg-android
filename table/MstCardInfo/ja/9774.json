@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 9774,
+  "card_name": "エクストラゲート",
+  "card_name_label": "エクストラゲート",
+  "card_name_search": "えくすとらげーと",
+  "card_pen_effect": "",
+  "card_text": "１から１２までの任意のレベルを宣言して発動する。相手はエクストラデッキに存在する宣言されたレベルを持つモンスター１体をゲームから除外する。宣言したレベルを持つモンスターが相手のエクストラデッキに無かった場合、自分の手札を１枚選択して捨てる。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/07/16",
+  "species_id": 24,
+  "starchip": "0"
+}

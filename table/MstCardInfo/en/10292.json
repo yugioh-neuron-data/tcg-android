@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 10292,
+  "card_name": "Xyz Xtreme !!",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "When an Xyz Monster you control is destroyed by battle: Pay 1000 Life Points; you reveal 1 Xyz Monster from the Extra Deck with a Rank less than or equal to that destroyed monster's, and so can your opponent (simultaneously). The player who revealed the monster with lower ATK takes damage equal to the difference between the revealed monsters' ATK's. If the opponent doesn't reveal a monster, inflict damage to your opponent equal to the ATK of your revealed monster.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/11/09",
+  "species_id": 25,
+  "starchip": "0"
+}

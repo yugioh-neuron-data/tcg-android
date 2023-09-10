@@ -1,0 +1,23 @@
+{
+  "attack_power": "900",
+  "attribute_id": 2,
+  "card_id": 14450,
+  "card_name": "Kreuz-Debugger",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls du 2 oder mehr Linkmonster kontrollierst: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Während der Schadensberechnung, falls dein Linkmonster gegen ein Linkmonster eines Gegners kämpft (Schnelleffekt): Du kannst diese Karte von deinem Friedhof verbannen und dann 1 Linkmonster in deinem Friedhof wählen; dein kämpfendes Monster kann durch den Kampf nicht zerstört werden, zusätzlich erhält es bis zum Ende dieses Spielzugs ATK in Höhe der ATK des gewählten Ziels. Du kannst jeden Effekt von „Kreuz-Debugger“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/07/26",
+  "species_id": 27,
+  "starchip": "2"
+}

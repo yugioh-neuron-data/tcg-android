@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 4,
+  "card_id": 11521,
+  "card_name": "Cachecolion de Feu Potartiste",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Lorsqu'un Monstre Pendule que vous contrôlez est détruit au combat : vous pouvez Invoquer Spécialement cette carte depuis votre Zone Pendule.",
+  "card_text": "Une fois par tour, si un Monstre Pendule que vous contrôlez détruit un monstre de votre adversaire au combat, après le calcul des dommages : jusqu'à la fin de la Battle Phase, vous pouvez faire gagner 200 ATK au monstre que vous contrôlez, et si vous le faites, il peut faire une seconde attaque à la suite.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2015/01/15",
+  "species_id": 11,
+  "starchip": "3"
+}

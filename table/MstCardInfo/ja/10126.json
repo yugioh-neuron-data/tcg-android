@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 5,
+  "card_id": 10126,
+  "card_name": "太鼓魔人テンテンテンポ",
+  "card_name_label": "たいこまじんテンテンテンポ",
+  "card_name_search": "たいこまじんてんてんてんぽ",
+  "card_pen_effect": "",
+  "card_text": "レベル３モンスター×２$N１ターンに１度、このカードのエクシーズ素材を１つ取り除き、相手フィールド上のエクシーズモンスター１体を選択して発動できる。選択したモンスターのエクシーズ素材を１つ取り除き、自分フィールド上の全ての「魔人」と名のついたエクシーズモンスターの攻撃力は５００ポイントアップする。この効果は相手ターンでも発動できる。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/03/17",
+  "species_id": 3,
+  "starchip": "3"
+}

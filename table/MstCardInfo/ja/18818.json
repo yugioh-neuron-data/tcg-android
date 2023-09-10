@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 4,
+  "card_id": 18818,
+  "card_name": "鳴いて時鳥",
+  "card_name_label": "ないてホトトギス",
+  "card_name_search": "ないてほととぎす",
+  "card_pen_effect": "",
+  "card_text": "このカード名の効果は１ターンに１度しか使用できない。$N①：以下の効果から１つを選択して発動できる。$N●このカードを破壊する。その後、自分は１枚ドローする。$N●自分の手札を１枚選んで捨てる。その後、自分は１枚ドローする。$N●このターンのエンドフェイズに、自分は１枚ドローする。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/04/22",
+  "species_id": 16,
+  "starchip": "3"
+}

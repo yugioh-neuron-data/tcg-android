@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 1,
+  "card_id": 6685,
+  "card_name": "Dragón Voltech Súper-Electromagnético",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si Invocas esta carta mediante una Invocación de Sacrificio Sacrificando 1 de los siguientes monstruos, esta carta obtiene el efecto correspondiente:$N●Hombre Pila D: Niega los efectos de cualquier Carta Mágica o de Trampa que designe a esta 1 carta como objetivo.$N● Hombre Pila C: Durante una batalla en la que esta carta esté atacando a un monstruo en Posición de Defensa cuya DEF sea inferior al ATK de esta carta, inflige la diferencia como daño de batalla a los Life Points de tu adversario.$N● Hombre Pila AA: Aumenta el ATK de esta carta en 1000 puntos.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/05/13",
+  "species_id": 19,
+  "starchip": "5"
+}

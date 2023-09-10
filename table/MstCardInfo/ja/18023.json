@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 18023,
+  "card_name": "御巫の誘い輪舞",
+  "card_name_label": "みかんこのいざないロンド",
+  "card_name_search": "みかんこのいざないろんど",
+  "card_pen_effect": "",
+  "card_text": "相手フィールドのモンスターに装備できる。このカード名のカードは１ターンに１枚しか発動できない。①：「御巫の誘い輪舞」は自分フィールドに１枚しか表側表示で存在できない。②：自分フィールドに「御巫」モンスターが存在する限り、装備モンスターのコントロールを得る。③：装備モンスターは自分フィールドに存在する限り、効果を発動できない。④：このカードがフィールドから離れた時に装備モンスターは墓地へ送られる。",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/08/20",
+  "species_id": 24,
+  "starchip": "0"
+}

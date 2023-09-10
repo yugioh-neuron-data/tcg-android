@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 1,
+  "card_id": 12275,
+  "card_name": "Artistamigo Fénix de Luz de Ojos Anómalos",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Cuando un monstruo de tu adversario declara un ataque directo mientras tú tienes una carta en tu otra Zona de Péndulo: puedes destruir la carta en tu otra Zona de Péndulo y, si lo haces, Invoca esta carta de Modo Especial.",
+  "card_text": "(Efecto Rápido): puedes Sacrificar esta carta, y después seleccionar 1 monstruo \"Artistamigo\" que controles; hasta el final de este turno, éste gana 1000 ATK.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2016/05/05",
+  "species_id": 16,
+  "starchip": "5"
+}

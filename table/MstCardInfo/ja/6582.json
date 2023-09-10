@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 6582,
+  "card_name": "ダメージ・コンデンサー",
+  "card_name_label": "ダメージ・コンデンサー",
+  "card_name_search": "だめーじこんでんさー",
+  "card_pen_effect": "",
+  "card_text": "自分が戦闘ダメージを受けた時、手札を１枚捨てて発動できる。受けたそのダメージの数値以下の攻撃力を持つモンスター１体をデッキから表側攻撃表示で特殊召喚する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/11/17",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 1,
+  "card_id": 11044,
+  "card_name": "アーティファクト－アキレウス",
+  "card_name_label": "アーティファクト－アキレウス",
+  "card_name_search": "あーてぃふぁくとあきれうす",
+  "card_pen_effect": "",
+  "card_text": "このカードは魔法カード扱いとして手札から魔法＆罠カードゾーンにセットできる。魔法＆罠カードゾーンにセットされたこのカードが相手ターンに破壊され墓地へ送られた時、このカードを特殊召喚する。相手ターン中にこのカードが特殊召喚に成功した場合、このターン相手は自分フィールド上の「アーティファクト」と名のついたモンスターを攻撃対象にできない。",
+  "defense_power": "2200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/02/15",
+  "species_id": 17,
+  "starchip": "5"
+}

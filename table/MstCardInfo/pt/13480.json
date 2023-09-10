@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 5,
+  "card_id": 13480,
+  "card_name": "Estrutura do Mecanismo Antigo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Você pode descartar 1 card; adicione 1 \"Golem do Mecanismo Antigo\" ou 1 Magia/Armadilha que liste especificamente o card \"Golem do Mecanismo Antigo\" em seu texto, do seu Deck à sua mão. Você só pode usar este efeito de \"Estrutura do Mecanismo Antigo\" uma vez por turno. Se este card atacar, seu oponente não pode ativar Cards de Magia/Armadilha até o final da Etapa de Dano. Se este card com a face para cima sob o controle do seu dono deixar o campo devido a um efeito de card do oponente: você pode Invocar por Invocação-Especial até 3 \"Golem do Mecanismo Antigo\" e/ou \"Golem do Mecanismo Antigo - Murro Definitivo\" da sua mão, ignorando suas condições de Invocação.",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/02/22",
+  "species_id": 7,
+  "starchip": "4"
+}

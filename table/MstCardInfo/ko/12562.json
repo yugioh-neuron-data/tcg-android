@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 12562,
+  "card_name": "카디언－비사광－",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "튜너 ＋ 튜너 이외의 몬스터 3장$N①: 이 카드가 몬스터 존에 존재하는 한, 자신 필드의 \"카디언\" 몬스터는 효과로는 파괴되지 않으며, 상대의 효과 대상이 되지 않는다. ②: 상대의 드로우 페이즈에 상대가 일반 드로우를 했을 경우에 발동한다. 상대에게 1500 데미지를 준다. ③: 상대 엔드 페이즈에 이하의 효과에서 1개를 선택하고 발동한다.$N●다음 자신 턴의 드로우 페이즈를 스킵한다.$N●이 카드의 효과를 다음 상대 스탠바이 페이즈까지 무효로 한다.",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/11/10",
+  "species_id": 15,
+  "starchip": "8"
+}

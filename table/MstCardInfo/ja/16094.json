@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16094,
+  "card_name": "ドレミコード・ハルモニア",
+  "card_name_label": "ドレミコード・ハルモニア",
+  "card_name_search": "どれみこーどはるもにあ",
+  "card_pen_effect": "",
+  "card_text": "①：以下の効果から１つを選択して発動できる。「ドレミコード・ハルモニア」の以下の効果はそれぞれ１ターンに１度しか選択できない。$N●自分のEXデッキから表側表示の「ドレミコード」Pモンスター１体を手札に加える。$N●自分のPゾーンの「ドレミコード」カード１枚を選ぶ。このターン、そのPスケールをそのカードのレベル分だけ上げる。$N●自分フィールドの「ドレミコード」PモンスターカードのPスケールが奇数３種類以上または偶数３種類以上の場合、相手フィールドのカード１枚を選んで破壊する。",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/03/06",
+  "species_id": 24,
+  "starchip": "0"
+}

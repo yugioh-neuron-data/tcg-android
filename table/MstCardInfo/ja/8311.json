@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 6,
+  "card_id": 8311,
+  "card_name": "コアキメイル・スピード",
+  "card_name_label": "コアキメイル・スピード",
+  "card_name_search": "こあきめいるすぴーど",
+  "card_pen_effect": "",
+  "card_text": "このカードのコントローラーは自分のエンドフェイズ毎に手札から「コアキメイルの鋼核」１枚を墓地へ送るか、手札の機械族モンスター１体を相手に見せる。または、どちらも行わずにこのカードを破壊する。このカードがフィールド上に表側表示で存在する限り、自分のドローフェイズ時にドローしたカードが「コアキメイルの鋼核」だった場合、そのカードを相手に見せる事で自分はカードをもう１枚ドローする事ができる。",
+  "defense_power": "2200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/04/18",
+  "species_id": 7,
+  "starchip": "3"
+}

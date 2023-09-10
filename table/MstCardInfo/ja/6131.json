@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 6131,
+  "card_name": "記憶抹消",
+  "card_name_label": "きおくまっしょう",
+  "card_name_search": "きおくまっしょう",
+  "card_pen_effect": "",
+  "card_text": "相手の手札が３枚以下の場合に発動する事ができる。相手は手札をデッキに加えてシャッフルする。その後、相手はデッキに加えた枚数分のカードをドローする。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/05/27",
+  "species_id": 24,
+  "starchip": "0"
+}

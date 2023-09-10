@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 5,
+  "card_id": 10165,
+  "card_name": "Golem en Briques",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si tous les monstres dans votre Cimetière sont TERRE : vous pouvez Sacrifier cette carte, puis ciblez 2 monstres Rocher de max. Niveau 4 (\"Golem en Briques\" exclu) dans votre Cimetière ; Invoquez Spécialement ces monstres Rocher, mais leurs effets qui s'activent sur le Terrain ne peuvent pas être activés ce tour.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/08/23",
+  "species_id": 6,
+  "starchip": "3"
+}

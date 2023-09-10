@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 3,
+  "card_id": 8572,
+  "card_name": "氷結界の神精霊",
+  "card_name_label": "ひょうけっかいのしんしょうれい",
+  "card_name_search": "ひょうけっかいのしんしょうれい",
+  "card_pen_effect": "",
+  "card_text": "このカードは特殊召喚できない。召喚・リバースしたターンのエンドフェイズ時に持ち主の手札に戻る。自分フィールド上にこのカード以外の「氷結界」と名のついたモンスターが存在する場合、エンドフェイズ時に発動するこのカードの効果は「相手フィールド上のモンスター１体を選択して持ち主の手札に戻す」となる。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 7,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/10/01",
+  "species_id": 2,
+  "starchip": "4"
+}

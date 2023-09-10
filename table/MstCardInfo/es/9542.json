@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 9542,
+  "card_name": "Reactor Psíquico",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si controlas un monstruo de Tipo Psíquico: por el resto de este turno, aplica este efecto a todos los monstruos de Tipo Psíquico que controles en este momento. Cuando un monstruo de Tipo Psíquico que controles batalle con un monstruo de tu adversario, después del cálculo de daño: destierra ese monstruo de Tipo Psíquico, y además destierra a ese monstruo de tu adversario.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/05/05",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 13142,
+  "card_name": "黄昏の忍者－カゲン",
+  "card_name_label": "たそがれのにんじゃ－カゲン",
+  "card_name_search": "たそがれのにんじゃかげん",
+  "card_pen_effect": "①：自分は「忍者」モンスターしかP召喚できない。この効果は無効化されない。②：１ターンに１度、自分の「忍者」モンスターの攻撃宣言時に発動できる。そのモンスターの攻撃力はダメージステップ終了時まで１０００アップする。",
+  "card_text": "①：このカードをリリースし、自分フィールドの「忍者」モンスター１体を対象として発動できる。そのモンスターの攻撃力はターン終了時まで８００アップする。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "10",
+  "pen_scale_r": "10",
+  "sales_at": "2017/05/13",
+  "species_id": 15,
+  "starchip": "1"
+}

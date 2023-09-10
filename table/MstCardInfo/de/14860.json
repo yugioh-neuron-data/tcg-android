@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14860,
+  "card_name": "TA.I.-Schlag",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Während der Schadensberechnung, falls dein Monster gegen ein Monster eines Gegners kämpft: Die ATK deines kämpfenden Monsters werden nur während der Schadensberechnung gleich den ATK des Monsters des Gegners, zusätzlich erhält der Beherrscher jedes Monsters, das durch den Kampf zerstört wurde, am Ende des Damage Steps Schaden in Höhe seiner Grund-ATK. Falls dein „@Ignister“-Monster durch Kampf zerstört würde, kannst du stattdessen diese Karte von deinem Friedhof verbannen. Du kannst nur 1 „TA.I.-Schlag“ pro Spielzug aktivieren.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/01/30",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 2,
+  "card_id": 11148,
+  "card_name": "Dragón de Ojos Anómalos",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si esta carta destruye un monstruo de tu adversario en batalla y lo manda al Cementerio: inflige daño a tu adversario igual a la mitad del ATK original de ese monstruo en el Cementerio.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/07/10",
+  "species_id": 1,
+  "starchip": "7"
+}

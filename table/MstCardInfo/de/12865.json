@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 12865,
+  "card_name": "Abgrundschauspieler - Funkelnder kleiner Stern",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Du kannst keine Monster als Pendelbeschwörung beschwören, außer „Abgrundschauspieler“-Monstern. Dieser Effekt kann nicht annulliert werden. Einmal pro Spielzug: Du kannst 1 „Abgrundschauspieler“-Monster wählen, das du kontrollierst; in diesem Spielzug kann es während jeder Battle Phase bis zu 3 Angriffe gegen Monster durchführen, zusätzlich können andere Monster, die du kontrollierst, für den Rest dieses Spielzugs nicht angreifen (selbst falls diese Karte das Spielfeld verlässt).",
+  "card_text": "Kann während deines Spielzugs nicht durch Kampf zerstört werden. Diese Karte kann während jeder Battle Phase bis zu 3 Angriffe gegen Monster durchführen.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "9",
+  "pen_scale_r": "9",
+  "sales_at": "2020/08/06",
+  "species_id": 3,
+  "starchip": "4"
+}

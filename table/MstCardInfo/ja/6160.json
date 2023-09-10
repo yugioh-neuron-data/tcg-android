@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 5,
+  "card_id": 6160,
+  "card_name": "ブロックマン",
+  "card_name_label": "ブロックマン",
+  "card_name_search": "ぶろっくまん",
+  "card_pen_effect": "",
+  "card_text": "①：このカードをリリースして発動できる。このカードが自分フィールドに表側表示で存在した自分ターンの数と同じ数だけ、自分フィールドに「ブロックトークン」（岩石族・地・星４・攻１０００／守１５００）を守備表示で特殊召喚する。このトークンは攻撃宣言できない。",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/10/13",
+  "species_id": 6,
+  "starchip": "4"
+}

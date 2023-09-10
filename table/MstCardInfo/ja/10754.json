@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 1,
+  "card_id": 10754,
+  "card_name": "武神器－ヤタ",
+  "card_name_label": "ぶじんぎ－ヤタ",
+  "card_name_search": "ぶじんぎやた",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上の「武神」と名のついた獣戦士族モンスターが相手モンスターの攻撃対象に選択された時、このカードを手札から墓地へ送って発動できる。攻撃モンスターの攻撃を無効にし、そのモンスターの攻撃力の半分のダメージを相手ライフに与える。「武神器－ヤタ」の効果は１ターンに１度しか使用できない。",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/07/20",
+  "species_id": 16,
+  "starchip": "4"
+}

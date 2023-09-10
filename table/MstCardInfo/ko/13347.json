@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 1,
+  "card_id": 13347,
+  "card_name": "유니티 오브 드래곤",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "드래곤족 효과 몬스터 3장 이상$N이 카드는 링크 소환으로밖에 특수 소환할 수 없다. 엑스트라 링크 상태의 이 카드가 직접 공격으로 상대의 LP를 0 으로 했을 경우, 이 카드의 컨트롤러는 매치에서 승리한다.",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "46123",
+  "linkno": "5",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/12/12",
+  "species_id": 1,
+  "starchip": ""
+}

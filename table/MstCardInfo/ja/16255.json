@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16255,
+  "card_name": "簡素融合",
+  "card_name_label": "レトルトフュージョン",
+  "card_name_search": "れとるとふゅーじょん",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：１０００LPを払って発動できる。効果モンスターを除くレベル６以下の融合モンスター１体を融合召喚扱いとしてEXデッキから特殊召喚する。この効果で特殊召喚したモンスターは攻撃できず、エンドフェイズに破壊される。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/04/17",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 2,
+  "card_id": 13913,
+  "card_name": "幻妖フルドラ",
+  "card_name_label": "げんようフルドラ",
+  "card_name_search": "げんようふるどら",
+  "card_pen_effect": "",
+  "card_text": "このカード名の効果は１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功した場合、手札を１枚捨てて発動できる。捨てたカードの種類によって以下の効果を適用する。$N●モンスター：自分の墓地から罠カード１枚を選んで手札に加える。$N●魔法：自分の墓地からモンスター１体を選んで手札に加える。$N●罠：自分の墓地から魔法カード１枚を選んで手札に加える。",
+  "defense_power": "2400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/07/14",
+  "species_id": 18,
+  "starchip": "5"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 9132,
+  "card_name": "빙결계의 거울",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "①: 이 턴에 상대가 발동한 몬스터의 효과로, 자신의 패 / 필드 / 묘지의 카드가 제외될 때마다, 이하의 효과를 적용한다.$N●패: 상대의 패를 무작위로 2장까지 고르고 제외한다.$N●필드: 상대 필드의 카드를 2장까지 고르고 제외한다.$N●묘지: 상대 묘지의 카드를 2장까지 고르고 제외한다.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ko",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/10/20",
+  "species_id": 24,
+  "starchip": "0"
+}

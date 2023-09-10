@@ -1,0 +1,23 @@
+{
+  "attack_power": "2300",
+  "attribute_id": 5,
+  "card_id": 8581,
+  "card_name": "Robot Archer",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"Robot Synchronique\" + 1+ monstre non-Syntoniseur$NUne fois par tour : vous pouvez cibler 1 monstre contrôlé par votre adversaire ; bannissez-le. Durant la End Phase de ce tour, le monstre banni est renvoyé sur le Terrain de l'adversaire.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/01/14",
+  "species_id": 15,
+  "starchip": "7"
+}

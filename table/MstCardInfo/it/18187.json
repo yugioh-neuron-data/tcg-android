@@ -1,0 +1,23 @@
+{
+  "attack_power": "2200",
+  "attribute_id": 6,
+  "card_id": 18187,
+  "card_name": "Circolo delle Fate",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Tuner + 1+ mostri non-Tuner$NDurante la tua Main Phase, puoi Evocare Normalmente 1 mostro Insetto o Pianta in aggiunta alla tua Evocazione Normale/Posizionamento. (Puoi guadagnare questo effetto una sola volta per turno.) Quando un mostro viene distrutto in una battaglia che coinvolge un tuo mostro Insetto o Pianta, e mandato al Cimitero: puoi scegliere come bersaglio 1 di quei mostri distrutti; infliggi al tuo avversario danno pari alla metà del suo ATK, poi guadagni LP pari al danno inflitto al tuo avversario. Puoi utilizzare questo effetto di \"Circolo delle Fate\" una sola volta per turno.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/02/06",
+  "species_id": 13,
+  "starchip": "7"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 8488,
+  "card_name": "Armadura de Núcleo de Hierro",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Sólo puedes equipar esta carta a un monstruo \"Koa'ki Meiru\". Los monstruos que batallen con el monstruo equipado pierden ATK igual al Nivel del monstruo equipado x 100, sólo durante el cálculo de daño. Si el monstruo equipado fuera a ser destruido durante la End Phase, puedes mandar esta carta al Cementerio en su lugar.",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/11/12",
+  "species_id": 24,
+  "starchip": "0"
+}

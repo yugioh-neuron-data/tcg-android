@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 12344,
+  "card_name": "Lyse Amorphage",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Tous les monstres sur le Terrain (monstres \"Amorphage\" exclus) perdent 100 ATK/DEF pour chaque carte \"Amorphage\" sur le Terrain. Si une ou plusieurs cartes dans votre Zone Pendule sont détruites (sauf durant la Damage Step) : vous pouvez placer 1 Monstre Pendule \"Amorphage\" depuis votre Deck dans votre Zone Pendule. Vous ne pouvez utiliser cet effet de \"Lyse Amorphage\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/05/05",
+  "species_id": 25,
+  "starchip": "0"
+}

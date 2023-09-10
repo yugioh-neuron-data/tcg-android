@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13810,
+  "card_name": "鉄の檻",
+  "card_name_label": "てつのおり",
+  "card_name_search": "てつのおり",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：このカードの発動時の効果処理として、自分フィールドのモンスター１体を墓地へ送る。フィールドゾーンに「シュトロームベルクの金の城」が存在する場合、代わりに相手フィールドのモンスターを墓地へ送る事もできる。②：自分スタンバイフェイズに、このカードの①の効果で自分または相手の墓地へ送られたモンスター１体を対象として発動できる。このカードを破壊し、そのモンスターを自分フィールドに特殊召喚する。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/05/12",
+  "species_id": 24,
+  "starchip": "0"
+}

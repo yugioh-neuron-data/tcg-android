@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 5,
+  "card_id": 12241,
+  "card_name": "디논의 강철기병",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "①: 이 카드가 펜듈럼 몬스터와 전투를 실행하는 데미지 스텝 개시시에 발동한다. 이 카드의 공격력 / 수비력은 데미지 스텝 종료시까지 절반이 된다.",
+  "defense_power": "2600",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2017/02/03",
+  "species_id": 9,
+  "starchip": "4"
+}

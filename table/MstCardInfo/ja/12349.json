@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 12349,
+  "card_name": "仁王立ち",
+  "card_name_label": "におうだち",
+  "card_name_search": "におうだち",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターの守備力は倍になり、ターン終了時にその守備力は０になる。②：墓地のこのカードを除外し、自分フィールドのモンスター１体を対象として発動できる。このターン、相手は対象のモンスターしか攻撃できない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/01/09",
+  "species_id": 25,
+  "starchip": "0"
+}

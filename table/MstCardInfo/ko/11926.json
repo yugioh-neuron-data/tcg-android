@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 1,
+  "card_id": 11926,
+  "card_name": "갤럭시 웜",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "①: 이 카드가 일반 소환에 성공했을 때, 자신 필드에 이 카드 이외의 몬스터가 존재하지 않을 경우에 발동할 수 있다. 덱에서 레벨 3 이하의 \"갤럭시\" 효과 몬스터 1장을 특수 소환한다. 이 효과로 특수 소환한 몬스터의 효과는 무효화된다.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/12/23",
+  "species_id": 10,
+  "starchip": "3"
+}

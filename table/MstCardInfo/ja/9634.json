@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 3,
+  "card_id": 9634,
+  "card_name": "ゼンマイマイ",
+  "card_name_label": "ゼンマイマイ",
+  "card_name_search": "ぜんまいまい",
+  "card_pen_effect": "",
+  "card_text": "自分のメインフェイズ時、フィールド上にセットされたカード１枚を選択して持ち主の手札に戻す事ができる。この効果はこのカードがフィールド上に表側表示で存在する限り１度しか使用できない。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/04/16",
+  "species_id": 14,
+  "starchip": "2"
+}

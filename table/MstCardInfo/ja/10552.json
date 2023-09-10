@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 10552,
+  "card_name": "激流蘇生",
+  "card_name_label": "げきりゅうそせい",
+  "card_name_search": "げきりゅうそせい",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上の水属性モンスターが戦闘またはカードの効果によって破壊され墓地へ送られた時に発動できる。その時に破壊され、フィールド上から自分の墓地へ送られたモンスターを全て特殊召喚し、特殊召喚したモンスターの数×５００ポイントダメージを相手ライフに与える。「激流蘇生」は１ターンに１枚しか発動できない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/02/16",
+  "species_id": 25,
+  "starchip": "0"
+}

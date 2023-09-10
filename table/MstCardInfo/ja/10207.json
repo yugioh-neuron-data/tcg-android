@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 10207,
+  "card_name": "スリーカード",
+  "card_name_label": "スリーカード",
+  "card_name_search": "すりーかーど",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上にトークン以外の同名モンスターが３体以上存在する場合に発動できる。相手フィールド上のカード３枚を選択して破壊する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/04/14",
+  "species_id": 25,
+  "starchip": "0"
+}

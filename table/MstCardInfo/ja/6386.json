@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 5,
+  "card_id": 6386,
+  "card_name": "スチームロイド",
+  "card_name_label": "スチームロイド",
+  "card_name_search": "すちーむろいど",
+  "card_pen_effect": "",
+  "card_text": "このカードは相手モンスターに攻撃する場合、ダメージステップの間攻撃力が５００ポイントアップする。このカードは相手モンスターに攻撃される場合、ダメージステップの間攻撃力が５００ポイントダウンする。",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/05/26",
+  "species_id": 7,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1300",
+  "attribute_id": 1,
+  "card_id": 7894,
+  "card_name": "魔轟神レイヴン",
+  "card_name_label": "まごうしんレイヴン",
+  "card_name_search": "まごうしんれいう゛ん",
+  "card_pen_effect": "",
+  "card_text": "①：１ターンに１度、自分メインフェイズに発動できる。自分の手札を任意の枚数選んで捨て、ターン終了時まで、このカードのレベルは捨てた数だけ上がり、攻撃力は捨てた数×４００アップする。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/09/01",
+  "species_id": 3,
+  "starchip": "2"
+}

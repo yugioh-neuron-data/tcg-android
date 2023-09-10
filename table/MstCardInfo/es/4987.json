@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 4987,
+  "card_name": "El Ojo de la Verdad",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Tu adversario debe mantener su mano mostrada. Una vez por turno, durante la Standby Phase de tu adversario, si éste tiene una o más Mágicas en su mano: tu adversario gana 1000 LP si en la resolución tiene una o más Mágicas en su mano.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/03/01",
+  "species_id": 25,
+  "starchip": "0"
+}

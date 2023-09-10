@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 1,
+  "card_id": 11871,
+  "card_name": "魔装戦士 ドラゴディウス",
+  "card_name_label": "まそうせんし　ドラゴディウス",
+  "card_name_search": "まそうせんしどらごでぃうす",
+  "card_pen_effect": "①：自分のモンスターが相手の表側表示モンスターと戦闘を行うダメージステップ開始時に手札を１枚捨てて発動できる。その戦闘を行う相手モンスターの攻撃力・守備力は半分になる。",
+  "card_text": "①：自分のモンスターゾーンのこのカードが相手モンスターの攻撃または相手の効果で破壊された場合に発動できる。このターンのエンドフェイズに、デッキから「魔装戦士 ドラゴディウス」以外の攻撃力２０００以下の、戦士族または魔法使い族モンスター１体を手札に加える。",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "2",
+  "pen_scale_r": "2",
+  "sales_at": "2015/04/25",
+  "species_id": 15,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 18913,
+  "card_name": "転生炎獣の炎軍",
+  "card_name_label": "サラマングレイト・チャージ",
+  "card_name_search": "さらまんぐれいとちゃーじ",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。$N①：以下の効果から１つを選択して発動できる。$N●自分の墓地・除外状態の炎属性モンスター３体を対象として発動できる。その３体の内の２体をデッキに戻し、残りの１体を特殊召喚する。この効果で特殊召喚したモンスターはこのターン、効果が無効化され、攻撃できない。$N●元々の攻撃力と異なる攻撃力を持つ、炎属性の儀式・融合・S・X・Lモンスターが自分フィールドに存在する場合、フィールドのカード１枚を対象として発動できる。そのカードを破壊する。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/05/27",
+  "species_id": 24,
+  "starchip": "0"
+}

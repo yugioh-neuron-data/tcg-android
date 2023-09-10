@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 1,
+  "card_id": 7581,
+  "card_name": "アルカナフォース０－THE FOOL",
+  "card_name_label": "アルカナフォースゼロ－ザ・フール",
+  "card_name_search": "あるかなふぉーすぜろざふーる",
+  "card_pen_effect": "",
+  "card_text": "このカードは戦闘では破壊されず、表示形式を守備表示に変更できない。このカードが召喚・反転召喚・特殊召喚に成功した時、コイントスを１回行い、その裏表によって以下の効果を得る。●表：このカードを対象にする自分のカードの効果を無効にし破壊する。●裏：このカードを対象にする相手のカードの効果を無効にし破壊する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/02/23",
+  "species_id": 17,
+  "starchip": "1"
+}

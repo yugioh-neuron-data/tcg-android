@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 7863,
+  "card_name": "閻魔の裁き",
+  "card_name_label": "えんまのさばき",
+  "card_name_search": "えんまのさばき",
+  "card_pen_effect": "",
+  "card_text": "①：相手がモンスターの特殊召喚に成功した時に発動できる。そのモンスターを破壊する。その後、以下の効果を適用できる。$N●自分の墓地からアンデット族モンスター５体を除外し、手札・デッキからレベル７以上のアンデット族モンスター１体を特殊召喚する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/12/22",
+  "species_id": 25,
+  "starchip": "0"
+}

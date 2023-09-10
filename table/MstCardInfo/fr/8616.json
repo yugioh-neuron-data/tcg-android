@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 8616,
+  "card_name": "Ogre de la Tristesse de Sang",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durant le tour de votre adversaire, lorsque votre adversaire déclare une seconde attaque directe durant la même Battle Phase, vous pouvez Invoquer Spécialement cette carte depuis votre main. Si vous le faites, l'ATK et la DEF de cette carte deviennent égales à l'ATK et la DEF du premier monstre qui a attaqué directement ce tour, s'il est toujours face recto sur le Terrain. Le tour où cette carte est Invoquée Spécialement par cet effet, votre adversaire ne peut pas sélectionner de monstres autres que cette carte comme cible d'une attaque tant que cette carte est face recto sur le Terrain.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/02/11",
+  "species_id": 3,
+  "starchip": "4"
+}

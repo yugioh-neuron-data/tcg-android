@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11735,
+  "card_name": "Oráculo de Zefra",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Quando este card for ativado: adicione 1 monstro \"Zefra\" do seu Deck à sua mão. Quando você Invocar por Invocação-Ritual usando um monstro \"Zefra\", ou Invocar por Invocação-Especial usando um monstro \"Zefra\" como matéria, você pode ativar esses efeitos dependendo do monstro Invocado, uma vez por turno por efeito:$N●Ritual: Embaralhe no Deck 1 monstro no campo.$N●Fusão: Invoque por Invocação-Especial 1 monstro da sua mão.$N●Sincro: Selecione 1 monstro do seu Deck e coloque-o no topo do seu Deck.$N●Xyz: Compre 1 card e, depois, descarte 1 card.$NVocê só pode ativar 1 \"Oráculo de Zefra\" por turno.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "pt",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/05/14",
+  "species_id": 24,
+  "starchip": "0"
+}

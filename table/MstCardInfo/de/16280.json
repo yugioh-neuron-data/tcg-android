@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16280,
+  "card_name": "Wille des Kriegsfelsens",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Während der Battle Phase: Wähle 1 „Kriegsfels“-Monster in deinem Friedhof und aktiviere dann 1 dieser Effekte;$N●Beschwöre das gewählte Ziel als Spezialbeschwörung in die Angriffsposition, aber für den Rest dieses Spielzugs werden seine Effekte annulliert, zusätzlich kann es nicht direkt angreifen.$N●Beschwöre das gewählte Ziel als Spezialbeschwörung in die Verteidigungsposition, zusätzlich wird jedes „Kriegsfels“-Monster, das du kontrollierst, das erste Mal in diesem Spielzug, wenn es durch Kampf zerstört würde, nicht zerstört.$NDu kannst nur 1 „Wille des Kriegsfelsens“ pro Spielzug aktivieren.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/06/03",
+  "species_id": 24,
+  "starchip": "0"
+}

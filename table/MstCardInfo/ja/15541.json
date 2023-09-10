@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15541,
+  "card_name": "U.A.ロッカールーム",
+  "card_name_label": "ウルトラアスリートロッカールーム",
+  "card_name_search": "うるとらあすりーとろっかーるーむ",
+  "card_pen_effect": "",
+  "card_text": "このカード名はルール上「F.A.」カードとしても扱う。このカード名のカードは１ターンに１枚しか発動できない。①：自分のフィールド・墓地の、「U.A.」モンスターまたは「F.A.」モンスター１体を対象として発動できる。そのモンスターを持ち主の手札に戻し、自分は５００LP回復する。その後、以下の効果を適用できる。$N●手札の、「U.A.」モンスターまたは「F.A.」モンスターを任意の数だけ相手に見せ、デッキに戻してシャッフルする。その後、自分はデッキに戻した数だけデッキからドローする。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/08/08",
+  "species_id": 24,
+  "starchip": "0"
+}

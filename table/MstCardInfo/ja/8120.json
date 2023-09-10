@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 6,
+  "card_id": 8120,
+  "card_name": "ウィンドファーム・ジェネクス",
+  "card_name_label": "ウィンドファーム・ジェネクス",
+  "card_name_search": "うぃんどふぁーむじぇねくす",
+  "card_pen_effect": "",
+  "card_text": "「ジェネクス・コントローラー」＋チューナー以外の風属性モンスター１体以上$Nこのカードの攻撃力はフィールド上にセットされた魔法・罠カードの数×３００ポイントアップする。また、手札を１枚墓地へ送って発動できる。フィールド上にセットされた魔法・罠カード１枚を選択して破壊する。",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/12/04",
+  "species_id": 7,
+  "starchip": "7"
+}

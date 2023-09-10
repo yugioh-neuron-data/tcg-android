@@ -1,0 +1,23 @@
+{
+  "attack_power": "700",
+  "attribute_id": 1,
+  "card_id": 16837,
+  "card_name": "ピースリア",
+  "card_name_label": "ピースリア",
+  "card_name_search": "ぴーすりあ",
+  "card_pen_effect": "",
+  "card_text": "①：このカードは戦闘では破壊されない。②：このカードが相手モンスターと戦闘を行ったダメージステップ終了時に発動できる。このカードにピースカウンターを１つ置く（最大４つまで）。その後、このカードのピースカウンターの数によって以下の効果を適用できる。$N●１つ：デッキからモンスター１体を選んでデッキの一番上に置く。$N●２つ：自分はデッキから１枚ドローする。$N●３つ：デッキからモンスター１体を手札に加える。$N●４つ：デッキからカード１枚を選んで手札に加える。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/10/16",
+  "species_id": 6,
+  "starchip": "4"
+}

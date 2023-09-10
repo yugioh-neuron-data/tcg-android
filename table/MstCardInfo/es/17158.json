@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 4,
+  "card_id": 17158,
+  "card_name": "Sumo Musical Juegos de Dados",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 monstruos de Nivel 6$NAl comienzo de la Battle Phase de tu adversario: si esta carta está en la Zona de Monstruos Principal, lanza un dado de seis caras y mueve esta carta directamente a ese número de Zonas de Monstruos Principales (de 1 a 6) en el sentido de las agujas del reloj y, si un monstruo ya estaba en esa zona a la que se mueve, acopla ese monstruo a esta carta como material. (Transfiere sus materiales a esta carta). Si este efecto causa que el número de materiales de este monstruo sea mayor que 6, ganas el Duelo. Si esta carta no puede ser movida, o el monstruo en la zona a la que se mueve no puede ser acoplado, manda esta carta al Cementerio.",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/05/19",
+  "species_id": 7,
+  "starchip": "6"
+}

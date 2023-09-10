@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 2,
+  "card_id": 6592,
+  "card_name": "異次元への案内人",
+  "card_name_label": "いじげんへのあんないにん",
+  "card_name_search": "いじげんへのあんないにん",
+  "card_pen_effect": "",
+  "card_text": "このカードの召喚に成功した時、このカードのコントロールは相手に移る。エンドフェイズ毎に、相手はこのカードのコントローラーの墓地からカード１枚を選択しゲームから除外する。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/11/17",
+  "species_id": 15,
+  "starchip": "4"
+}

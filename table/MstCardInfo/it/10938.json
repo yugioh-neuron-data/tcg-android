@@ -1,0 +1,23 @@
+{
+  "attack_power": "2300",
+  "attribute_id": 1,
+  "card_id": 10938,
+  "card_name": "Alsei, l'Alto Protettore Silvano",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 mostri di Livello 8$NUna volta per turno: puoi dichiarare il nome di 1 carta; dissotterra la prima carta del tuo Deck e, se è la carta dichiarata, aggiungila alla tua mano. Altrimenti, mandala al Cimitero. Se una o più carte vengono mandate dal tuo Deck al Cimitero dall'effetto di una carta (eccetto durante il Damage Step): puoi staccare 1 materiale da questa carta, poi scegliere come bersaglio 1 carta sul Terreno; metti quel bersaglio in cima oppure in fondo al Deck. Puoi utilizzare questo effetto di \"Alsei, l'Alto Protettore Silvano\" una sola volta per turno.",
+  "defense_power": "3200",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/01/23",
+  "species_id": 13,
+  "starchip": "8"
+}

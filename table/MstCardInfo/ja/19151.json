@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 4,
+  "card_id": 19151,
+  "card_name": "スネークアイ・ワイトバーチ",
+  "card_name_label": "スネークアイ・ワイトバーチ",
+  "card_name_search": "すねーくあいわいとばーち",
+  "card_pen_effect": "",
+  "card_text": "このカード名の、①の方法による特殊召喚は１ターンに１度しかできず、②の効果は１ターンに１度しか使用できない。$N①：自分フィールドに炎属性モンスターが存在する場合、このカードは手札から特殊召喚できる。$N②：相手ターンに、このカードを含む自分フィールドの表側表示カード２枚を墓地へ送って発動できる。手札・デッキから「スネークアイ・ワイトバーチ」以外の「スネークアイ」モンスター１体を特殊召喚する。",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/07/22",
+  "species_id": 4,
+  "starchip": "1"
+}

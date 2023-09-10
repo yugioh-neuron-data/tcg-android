@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 1,
+  "card_id": 10825,
+  "card_name": "Gaia, der Mitternachtssonnen-Ritter",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Du kannst jeden Effekt von „Gaia, der Mitternachtssonnen-Ritter“ nur einmal pro Spielzug verwenden.$N●Du kannst 1 anderes LICHT Monster als Tribut anbieten; füge deiner Hand 1 FINSTERNIS Monster vom Typ Krieger der Stufe 4 von deinem Deck hinzu, dann lege 1 Karte von deiner Hand auf den Friedhof.$N●Du kannst 1 FINSTERNIS Monster von deinem Friedhof verbannen und dann 1 Monster auf dem Spielfeld wählen; es verliert bis zum Ende des Spielzugs deines Gegners 500 ATK.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/08/14",
+  "species_id": 15,
+  "starchip": "4"
+}

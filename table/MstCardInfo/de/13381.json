@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 2,
+  "card_id": 13381,
+  "card_name": "Tinwinkel-Hund",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "FLIPP: Du kannst 1 anderes offenes Monster auf dem Spielfeld wählen; diese Karte erhält ATK in Höhe der Grund-ATK des gewählten Ziels, dann ändere das gewählte Ziel in die verdeckte Verteidigungsposition.$NJedes Monster, das dein Gegner kontrolliert, verliert 1000 ATK für jedes Monster, das mit ihm verlinkt ist. Falls diese Karte durch Kampf oder einen Karteneffekt zerstört und auf den Friedhof gelegt wird: Du kannst 1 verdecktes Monster auf dem Spielfeld wählen; ändere es in die offene Verteidigungsposition.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 24,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/02/01",
+  "species_id": 3,
+  "starchip": "7"
+}

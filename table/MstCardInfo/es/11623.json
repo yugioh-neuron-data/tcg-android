@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11623,
+  "card_name": "Puño de Chatarra",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Selecciona 1 \"Guerrero de Basura\" que controles; si ese objetivo batalla con un monstruo de tu adversario este turno mientras lo controlas, aplica estos efectos.$N● Tu adversario no puede activar cartas ni efectos hasta el final del Damage Step.$N● Si ataca a un monstruo en Posición de Defensa, inflige daño de batalla de penetración a tu adversario.$N● Dobla el daño de batalla que reciba tu adversario.$N● No puede ser destruida en batalla.$N● Destruye el monstruo de tu adversario con el que batalló al final del Damage Step.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/08/27",
+  "species_id": 24,
+  "starchip": "0"
+}

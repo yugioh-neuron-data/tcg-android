@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 4,
+  "card_id": 8728,
+  "card_name": "고대 신 플레임벨",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "화염 속성 튜너 ＋ 튜너 이외의 화염족 몬스터 1장 이상$N이 카드가 싱크로 소환에 성공했을 때, 상대의 패의 매수만큼까지 상대의 묘지에 존재하는 카드를 선택하고 게임에서 제외한다. 이 카드의 공격력은 이 효과로 제외한 카드의 매수 × 200 포인트 올린다.",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/12/06",
+  "species_id": 4,
+  "starchip": "7"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 5505,
+  "card_name": "에너미 컨트롤러",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "①: 이하의 효과에서 1개를 선택하고 발동할 수 있다.$N●상대 필드의 앞면 표시 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 상대의 앞면 표시 몬스터의 표시 형식을 변경한다.$N●자신 필드의 몬스터 1장을 릴리스하고, 상대 필드의 앞면 표시 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 앞면 표시 몬스터의 컨트롤을 엔드 페이즈까지 얻는다.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/08/27",
+  "species_id": 24,
+  "starchip": "0"
+}

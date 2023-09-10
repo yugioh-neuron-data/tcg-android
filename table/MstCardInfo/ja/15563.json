@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 1,
+  "card_id": 15563,
+  "card_name": "妖竜マハーマ",
+  "card_name_label": "ようりゅうマハーマ",
+  "card_name_search": "ようりゅうまはーま",
+  "card_pen_effect": "",
+  "card_text": "①：相手ターンに、自分または相手が戦闘ダメージを受けた時に発動できる。このカードを手札から特殊召喚する。その後、以下の効果から１つを選んで適用する。$N●その戦闘ダメージの数値分だけ自分のLPを回復する。$N●その戦闘ダメージの数値分だけ相手にダメージを与える。",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/09/25",
+  "species_id": 1,
+  "starchip": "5"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 2,
+  "card_id": 10734,
+  "card_name": "Bosheitsfresser Löffel",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wenn ein „Bosheitsfresser“-Monster mit einem unterschiedlichen Namen als Normal- oder Spezialbeschwörung auf deine Spielfeldseite beschworen wird (außer während des Damage Steps): Du kannst 1 Monster vom Typ Unterweltler der Stufe 2 in deinem Friedhof wählen; beschwöre das gewählte Ziel als Spezialbeschwörung. Seine Effekte werden annulliert. Du kannst den Effekt von „Bosheitsfresser Löffel“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/11/07",
+  "species_id": 3,
+  "starchip": "2"
+}

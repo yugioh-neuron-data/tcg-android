@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 3,
+  "card_id": 11216,
+  "card_name": "EM 스워드 피시",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "①: 이 카드가 일반 소환 / 특수 소환에 성공했을 경우에 발동한다. 상대 필드의 모든 몬스터의 공격력 / 수비력은 600 내린다. ②: 이 카드가 몬스터 존에 존재하고, 자신이 몬스터의 특수 소환에 성공했을 경우에 발동한다. 상대 필드의 모든 몬스터의 공격력 / 수비력은 600 내린다.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/07/18",
+  "species_id": 8,
+  "starchip": "2"
+}

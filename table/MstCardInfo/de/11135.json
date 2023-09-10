@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 2,
+  "card_id": 11135,
+  "card_name": "Zeitdeutender Magier",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Du darfst keine Monster kontrollieren, um diese Karte zu aktivieren. Falls ein Pendelmonster kämpft, das du kontrollierst, kann dein Gegner bis zum Ende des Damage Steps keine Fallenkarten aktivieren. Der Pendelbereich dieser Karte wird zu 4, es sei denn, du hast eine „Magier“-Karte oder „Buntäugig“-Karte in deiner anderen Pendelzone.",
+  "card_text": "In jedem Spielzug werden die ersten ein oder mehr Karten in deiner Pendelzone, die durch einen Karteneffekt eines Gegners zerstört würden, nicht zerstört.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "8",
+  "pen_scale_r": "8",
+  "sales_at": "2014/07/10",
+  "species_id": 18,
+  "starchip": "3"
+}

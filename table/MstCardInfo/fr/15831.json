@@ -1,0 +1,23 @@
+{
+  "attack_power": "400",
+  "attribute_id": 3,
+  "card_id": 15831,
+  "card_name": "Esprit Hexa de la Barrière de Glace",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Tant que vous contrôlez un autre monstre \"Barrière de Glace\", les monstres contrôlés par votre adversaire perdent 500 ATK/DEF. Durant votre Main Phase : vous pouvez envoyer 1 monstre \"Barrière de Glace\" de max. Niveau 3 depuis votre Deck au Cimetière, et si vous le faites, le Niveau de cette carte devient le même que celui du monstre jusqu'à la fin de ce tour. Vous ne pouvez utiliser cet effet de \"Esprit Hexa de la Barrière de Glace\" qu'une fois par tour.",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/02/18",
+  "species_id": 5,
+  "starchip": "1"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15951,
+  "card_name": "ウォークライ・オーディール",
+  "card_name_label": "ウォークライ・オーディール",
+  "card_name_search": "うぉーくらいおーでぃーる",
+  "card_pen_effect": "",
+  "card_text": "①：「ウォークライ・オーディール」は自分フィールドに１枚しか表側表示で存在できない。②：このカードの発動時の効果処理として、このカードにカウンターを３つ置く。③：自分の「ウォークライ」モンスターが戦闘で相手モンスターを破壊し相手の墓地へ送った時に発動できる。このカードのカウンターを１つ取り除き、自分はデッキから１枚ドローする。この効果でこのカードのカウンターが全て取り除かれた場合、このカードは墓地へ送られる。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/09/25",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 2,
+  "card_id": 15344,
+  "card_name": "Jinzo la Menace Machine",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si un Piège est face recto sur le Terrain ou dans l'un des Cimetières : vous pouvez Invoquer Spécialement cette carte depuis votre main, et si vous le faites, elle devient Niveau 6 jusqu'à la fin de ce tour. Durant la Main Phase (Effet Rapide) : vous pouvez Sacrifier cette carte ; Invoquez Spécialement 1 \"Jinzo\" depuis votre main ou Cimetière, puis vous pouvez détruire tous les Pièges contrôlés par votre adversaire (si une carte est Posée, révélez-la). Vous ne pouvez utiliser chaque effet de \"Jinzo la Menace Machine\" qu'une fois par tour.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/09/24",
+  "species_id": 7,
+  "starchip": "7"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 15760,
+  "card_name": "Explosion Springans !",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si vous contrôlez un monstre \"Springans\" : choisissez 1 Zone Monstre Main de l'adversaire ; si un monstre est face recto dans la zone, durant ce tour, il ne peut pas attaquer directement, et aussi, ses effets sont annulés. S'il n'y a aucun monstre dans la zone, elle ne peut pas être utilisée ce tour. Si vous contrôlez un Monstre Fusion qui liste \"Albaz le Déchu\" comme Matériel, vous pouvez choisir 2 zones à la place. Vous ne pouvez activer qu'1 \"Explosion Springans !\" par tour.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/02/04",
+  "species_id": 25,
+  "starchip": "0"
+}

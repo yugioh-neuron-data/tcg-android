@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 18543,
+  "card_name": "Hatsugai",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Escave os 5 cards do topo do Deck do seu oponente (ou tantos quanto possível), selecione 1 card escavado e declare um número múltiplo de 100 (mín. 100, máx. 3000). Seu oponente pode selecionar ganhar PV igual ao número declarado. Se ele ganhou PV, você perde esse mesmo valor de PV e, se isso acontecer, adicione o card selecionado à sua mão e, além disso, coloque o resto no topo do Deck na mesma ordem. Se ele não quiser, coloque os cards escavados no topo do Deck na mesma ordem.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/05/04",
+  "species_id": 25,
+  "starchip": "0"
+}

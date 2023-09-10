@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 2,
+  "card_id": 16074,
+  "card_name": "溟界の漠－ゾーハ",
+  "card_name_label": "めいかいのすなはら－ゾーハ",
+  "card_name_search": "めいかいのすなはらぞーは",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが、フィールドから墓地へ送られた場合、または墓地からの特殊召喚に成功した場合に発動できる。相手はデッキから１枚ドローし、自分はデッキから「溟界の漠－ゾーハ」以外の「溟界」モンスター１体を手札に加える。その後、お互いのプレイヤーは手札を１枚選んで墓地へ送る。②：このカードが墓地に存在する場合、手札を１枚墓地へ送って発動できる。このカードを手札に加える。",
+  "defense_power": "1700",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/03/06",
+  "species_id": 20,
+  "starchip": "4"
+}

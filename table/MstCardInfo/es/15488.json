@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 1,
+  "card_id": 15488,
+  "card_name": "Ashiyan Dogmátik",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si uno o más Monstruos de Fusión, Sincronía, Xyz o Enlace son mandados al Cementerio (excepto durante el Damage Step): puedes Invocar esta carta de Modo Especial desde tu mano. Si esta carta es Invocada de Modo Especial desde la mano: puedes seleccionar 1 carta \"Dogmátik\" en tu Cementerio, excepto \"Ashiyan Dogmátik\"; añádela a tu mano. Cuando un monstruo del adversario declara un ataque: puedes hacer que todos los monstruos \"Dogmátik\" que controles en este momento ganen 500 ATK. Sólo puedes usar cada efecto de \"Ashiyan Dogmátik\" una vez por turno.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/11/05",
+  "species_id": 18,
+  "starchip": "8"
+}

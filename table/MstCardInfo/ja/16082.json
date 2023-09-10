@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 16082,
+  "card_name": "溟界の虚",
+  "card_name_label": "めいかいのうつろ",
+  "card_name_search": "めいかいのうつろ",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①の効果は１ターンに１度しか使用できない。①：自分・相手のメインフェイズに、自分フィールドの爬虫類族の効果モンスター１体をリリースし、相手の墓地のモンスター１体を対象として発動できる。そのモンスターを自分フィールドに特殊召喚する。この効果で特殊召喚したモンスターはエンドフェイズに墓地へ送られる。②：魔法＆罠ゾーンの表側表示のこのカードが墓地へ送られた場合に発動する。爬虫類族モンスター以外の自分フィールドの表側表示モンスターを全て墓地へ送る。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/03/06",
+  "species_id": 25,
+  "starchip": "0"
+}

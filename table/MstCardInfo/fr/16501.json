@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 6,
+  "card_id": 16501,
+  "card_name": "Fuvagabonbrise et Toccan",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si cette carte face recto va quitter le Terrain, bannissez-la à la place. Vous ne pouvez utiliser chacun des effets suivants de \"Fuvagabonbrise et Toccan\" qu'une fois par tour, et ne pouvez pas Invoquer Spécialement durant le tour où vous activez un de ces effets. Si cette carte est Invoquée Normalement : vous pouvez cibler 1 de vos cartes \"Fuvagabonbrise\" bannies ; ajoutez-la à votre main, puis immédiatement après la résolution de cet effet, vous pouvez Invoquer Normalement 1 monstre Bête Ailée. Si un monstre Bête Ailée est Invoqué Normalement sur votre Terrain tant que cette carte est bannie : vous pouvez ajouter cette carte à votre main.",
+  "defense_power": "1300",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/11/04",
+  "species_id": 16,
+  "starchip": "1"
+}

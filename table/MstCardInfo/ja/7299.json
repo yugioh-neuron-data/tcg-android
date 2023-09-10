@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 4,
+  "card_id": 7299,
+  "card_name": "エーリアン・テレパス",
+  "card_name_label": "エーリアン・テレパス",
+  "card_name_search": "えーりあんてれぱす",
+  "card_pen_effect": "",
+  "card_text": "１ターンに１度、相手フィールド上のモンスターに乗っているAカウンターを１つ取り除いて発動できる。フィールド上の魔法・罠カード１枚を選択して破壊する。このカードがフィールド上に表側表示で存在する限り、Aカウンターが乗ったモンスターは、「エーリアン」と名のついたモンスターと戦闘を行う場合、ダメージ計算時のみAカウンター１つにつき攻撃力・守備力が３００ポイントダウンする。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/07/21",
+  "species_id": 20,
+  "starchip": "4"
+}

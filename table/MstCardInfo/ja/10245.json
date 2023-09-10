@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 5,
+  "card_id": 10245,
+  "card_name": "魔導教士 システィ",
+  "card_name_label": "まどうきょうし　システィ",
+  "card_name_search": "まどうきょうししすてぃ",
+  "card_pen_effect": "",
+  "card_text": "自分が「魔導書」と名のついた魔法カードを発動した自分のターンのエンドフェイズ時、フィールド上のこのカードをゲームから除外して発動できる。デッキから光属性または闇属性の魔法使い族・レベル５以上のモンスター１体と、「魔導書」と名のついた魔法カード１枚を手札に加える。「魔導教士 システィ」の効果は１ターンに１度しか使用できない。",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/07/21",
+  "species_id": 18,
+  "starchip": "3"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 14330,
+  "card_name": "Dietado",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lanza un dado de seis caras. Aplica este efecto, dependiendo de quién sea el turno.$N●Durante tu turno: destierra tantas cartas en tu Cementerio como el resultado. Después, si el resultado es 1, además manda al Cementerio 6 cartas desde la parte superior de tu Deck.$N●Durante el turno de tu adversario: manda al Cementerio tantas cartas de la parte superior de tu Deck como el resultado. Después, si el resultado es 6, además destierra 1 carta en tu Cementerio.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/05/02",
+  "species_id": 25,
+  "starchip": "0"
+}

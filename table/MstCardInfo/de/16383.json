@@ -1,0 +1,23 @@
+{
+  "attack_power": "2900",
+  "attribute_id": 2,
+  "card_id": 16383,
+  "card_name": "Blumenweise",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Du kannst 1 Monster, das du kontrollierst, und 1 Karte auf dem Spielfeld wählen; beschwöre diese Karte als Spezialbeschwörung von deiner Hand und falls du dies tust, zerstöre sie. Falls diese Karte vom Spielfeld auf deinen Friedhof gelegt wird: Du kannst 1 anderes Monster in deinem Friedhof wählen; mische es ins Deck, dann füge deiner Hand 1 Pflanze-Monster der Stufe 1 von deinem Deck oder Friedhof hinzu. Du kannst jeden Effekt von „Blumenweise“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/10/28",
+  "species_id": 18,
+  "starchip": "8"
+}

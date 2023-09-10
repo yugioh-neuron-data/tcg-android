@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 5,
+  "card_id": 7866,
+  "card_name": "ウォールクリエイター",
+  "card_name_label": "ウォールクリエイター",
+  "card_name_search": "うぉーるくりえいたー",
+  "card_pen_effect": "",
+  "card_text": "このカードが召喚に成功した時、相手フィールド上に存在するモンスター１体を選択する事ができる。このカードがフィールド上に表側表示で存在する限り、選択されたモンスターは攻撃する事はできずリリースする事もできない。このカードのコントローラーは自分のエンドフェイズ毎に５００ライフポイントを払う。または、５００ライフポイント払わずにこのカードを破壊する。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/09/19",
+  "species_id": 21,
+  "starchip": "4"
+}

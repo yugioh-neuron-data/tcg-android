@@ -1,0 +1,23 @@
+{
+  "attack_power": "1900",
+  "attribute_id": 2,
+  "card_id": 11235,
+  "card_name": "シャドール・ドラゴン",
+  "card_name_label": "シャドール・ドラゴン",
+  "card_name_search": "しゃどーるどらごん",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：このカードがリバースした場合、相手フィールドのカード１枚を対象として発動できる。そのカードを持ち主の手札に戻す。②：このカードが効果で墓地へ送られた場合、フィールドの魔法・罠カード１枚を対象として発動できる。そのカードを破壊する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 24,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/04/19",
+  "species_id": 18,
+  "starchip": "4"
+}

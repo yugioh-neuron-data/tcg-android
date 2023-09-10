@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 6048,
+  "card_name": "Epée du Dévoreur d'Ame",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Vous ne pouvez équiper cette carte qu'à un Monstre Normal de Niveau 3 ou moins sur votre Terrain. Lorsque vous activez cette carte, sacrifiez tous les Monstres Normaux (excepté les jetons) sur votre Terrain excepté le monstre équipé. Augmente l'ATK du monstre équipé de 1000 points pour chaque Monstre Normal que vous avez sacrifié.",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/06/01",
+  "species_id": 24,
+  "starchip": "0"
+}

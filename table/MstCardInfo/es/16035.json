@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 16035,
+  "card_name": "Sorprendente Atracción Carreras Rápidas",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Selecciona 1 monstruo \"Asombro\" que controles o 1 monstruo boca arriba que controle tu adversario; equípale esta carta. Puedes activar el siguiente efecto, basado en qué jugador controle el monstruo equipado;$N●Tú: Selecciona 1 carta en el Cementerio de tu adversario; cambia la posición de batalla del monstruo equipado y, si lo haces, baraja al Deck ese objetivo.$N●Tu adversario: Aumenta el Nivel del monstruo equipado en 1 (hasta el final de este turno) y, si lo haces, cambia su posición de batalla.$NSólo puedes usar este efecto de \"Sorprendente Atracción Carreras Rápidas\" una vez por turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/06/03",
+  "species_id": 25,
+  "starchip": "0"
+}

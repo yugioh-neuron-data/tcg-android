@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 15395,
+  "card_name": "Electrodomésticor Copibloqueo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Puedes seleccionar 1 monstruo \"Electrodomésticor\" que controles; Invoca esta carta de Modo Especial desde tu mano y, si lo haces, hasta la End Phase el nombre de esta carta se convierte en el nombre de ese monstruo. Durante tu Main Phase, excepto en el turno en el que esta carta fue mandada al Cementerio: puedes desterrar esta carta en tu Cementerio, y después seleccionar 1 monstruo \"Electrodomésticor\" que controles; Invoca de Modo Especial, desde tu mano o Cementerio, 1 monstruo con el mismo nombre. Sólo puedes usar cada efecto de \"Electrodomésticor Copibloqueo\" una vez por turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/07/23",
+  "species_id": 7,
+  "starchip": "1"
+}

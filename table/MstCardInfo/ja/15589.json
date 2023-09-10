@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15589,
+  "card_name": "ドラグニティ・ドラフト",
+  "card_name_label": "ドラグニティ・ドラフト",
+  "card_name_search": "どらぐにてぃどらふと",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：このカードの発動時に、自分の墓地のレベル４以下の「ドラグニティ」モンスター１体を対象にできる。その場合、そのモンスターを手札に加える。②：このカードが魔法＆罠ゾーンに存在し、元々のレベルが５以上の自分の「ドラグニティ」モンスターが攻撃する場合、そのモンスターはダメージステップ終了時まで相手の効果を受けない。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/08/29",
+  "species_id": 24,
+  "starchip": "0"
+}

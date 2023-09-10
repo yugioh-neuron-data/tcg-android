@@ -1,0 +1,23 @@
+{
+  "attack_power": "2300",
+  "attribute_id": 1,
+  "card_id": 13202,
+  "card_name": "Encode Talker",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2+ Cyberse monsters$NOnce per turn, before damage calculation, if your monster this card points to battles an opponent's monster with higher ATK than it: You can make that monster unable to be destroyed by that battle, also you take no battle damage from that battle. After that damage calculation, have this card or 1 monster it points to gain ATK equal to the ATK of that battled opponent's monster, until the end of this turn.",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "823",
+  "linkno": "3",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/11/03",
+  "species_id": 27,
+  "starchip": ""
+}

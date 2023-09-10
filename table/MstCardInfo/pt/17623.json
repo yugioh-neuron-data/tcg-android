@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 17623,
+  "card_name": "Masmorra de Dados",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Quando este card for ativado: você pode adicionar 1 \"Dado Dimensional\" do seu Deck à sua mão. No começo da Fase de Batalha: você pode ativar este efeito; cada duelista lança um dado de seis faces e, até o final deste turno, aplica o resultado a todos os monstros que ele controla.$N●1: Perde 1000 de ATK.$N●2: Ganha 1000 de ATK.$N●3: Perde 500 de ATK.$N●4: Ganha 500 de ATK.$N●5: Diminui seu ATK pela metade.$N●6: Dobra seu ATK.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/11/17",
+  "species_id": 24,
+  "starchip": "0"
+}

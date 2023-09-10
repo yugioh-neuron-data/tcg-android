@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 4,
+  "card_id": 9761,
+  "card_name": "エヴォルカイザー・ラギア",
+  "card_name_label": "エヴォルカイザー・ラギア",
+  "card_name_search": "えう゛ぉるかいざーらぎあ",
+  "card_pen_effect": "",
+  "card_text": "恐竜族レベル４モンスター×２$N①：このカードのX素材を２つ取り除き、以下の効果を発動できる。$N●魔法・罠カードが発動した時に発動できる。その発動を無効にし破壊する。$N●自分か相手がモンスターを召喚・特殊召喚する際に発動できる。それを無効にし、そのモンスターを破壊する。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/07/16",
+  "species_id": 1,
+  "starchip": "4"
+}

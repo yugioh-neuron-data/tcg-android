@@ -1,0 +1,23 @@
+{
+  "attack_power": "400",
+  "attribute_id": 2,
+  "card_id": 17125,
+  "card_name": "Manischer Prügler",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Der Name dieser Karte wird zu „Seuchenverbreitender Zombie“, solange sie auf dem Spielfeld oder im Friedhof liegt. Falls sich diese Karte in deinem Friedhof befindet: Du kannst 1 Monster der Stufe 6 oder höher wählen, das du kontrollierst; verringere seine Stufe um 2 und falls du dies tust, beschwöre diese Karte als Spezialbeschwörung, zusätzlich kann der Spieler, der sie beschworen hat, keine Monster als Spezialbeschwörung beschwören, außer Zombie-Monstern, solange diese Karte offen in der Monsterzone liegt. Du kannst diesen Effekt von „Manischer Prügler“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/05/19",
+  "species_id": 2,
+  "starchip": "2"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 16266,
+  "card_name": "モンスターアソート",
+  "card_name_label": "モンスターアソート",
+  "card_name_search": "もんすたーあそーと",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：種族・属性・レベルが同じとなる、通常モンスター１体と効果モンスター１体をデッキから選んで相手に見せ、相手はその中からランダムに１体選ぶ。そのモンスター１体を自分の手札に加え、残りをデッキに戻す。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/04/17",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 3,
+  "card_id": 15564,
+  "card_name": "ジャブィアント・パンダ",
+  "card_name_label": "ジャブィアント・パンダ",
+  "card_name_search": "じゃぶぃあんとぱんだ",
+  "card_pen_effect": "",
+  "card_text": "このカード名の、①の方法による特殊召喚は１ターンに１度しかできず、②の効果は１ターンに１度しか使用できない。①：フィールドに獣戦士族モンスターが２体以上存在する場合、このカードは手札から特殊召喚できる。②：このカードがフィールドから墓地へ送られた場合、自分フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターの攻撃力は５００アップする。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/09/25",
+  "species_id": 12,
+  "starchip": "3"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 11596,
+  "card_name": "Desposeído",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Los monstruos \"el/la Encantador/a\" que controles no pueden ser destruidos en batalla. Si un monstruo \"Familiar Poseído\" que controlas ataca a un monstruo del adversario, gana 800 ATK sólo durante el cálculo de daño. Si uno o más monstruos que controlas son destruidos en batalla o por el efecto de una carta, mientras esta carta ya esté boca arriba en tu Zona de Magia y Trampas: puedes Invocar de Modo Especial, desde tu Deck, 1 monstruo Lanzador de Conjuros con 1500 DEF cuyo Atributo sea diferente de por lo menos 1 de los Atributos originales en el Campo de esos monstruos destruidos, en Posición de Ataque o Posición de Defensa boca abajo. Sólo puedes usar este efecto de \"Desposeído\" una vez por turno.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/01/15",
+  "species_id": 25,
+  "starchip": "0"
+}

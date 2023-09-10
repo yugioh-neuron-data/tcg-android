@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14315,
+  "card_name": "Mordschlag",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Sólo puedes equipar esta carta a un monstruo Invocado de Modo Normal/Colocado que controles. No es afectada por los efectos activados de tu adversario de monstruos Invocados de Modo Especial. Durante el cálculo de daño, si el monstruo equipado batalla con un monstruo del adversario Invocado de Modo Especial: ese monstruo del adversario pierde ATK/DEF igual al ATK original del monstruo equipado, sólo durante el cálculo de daño.",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/05/02",
+  "species_id": 24,
+  "starchip": "0"
+}

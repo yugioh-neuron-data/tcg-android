@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 1,
+  "card_id": 12285,
+  "card_name": "Lunalicht Tiger",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Einmal pro Spielzug: Du kannst 1 „Lunalicht“-Monster in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung, aber es kann nicht angreifen, seine Effekte werden annulliert, zusätzlich wird es während der End Phase zerstört.",
+  "card_text": "Falls diese Karte auf dem Spielfeld durch Kampf oder einen Karteneffekt zerstört wird: Du kannst 1 „Lunalicht“-Monster in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung. Du kannst diesen Effekt von „Lunalicht Tiger“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2016/05/05",
+  "species_id": 12,
+  "starchip": "3"
+}

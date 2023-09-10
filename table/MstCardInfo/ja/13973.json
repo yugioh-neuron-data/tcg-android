@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 1,
+  "card_id": 13973,
+  "card_name": "熾天龍 ジャッジメント",
+  "card_name_label": "してんりゅう　ジャッジメント",
+  "card_name_search": "してんりゅうじゃっじめんと",
+  "card_pen_effect": "",
+  "card_text": "チューナー＋チューナー以外のモンスター１体以上$NこのカードをS召喚する場合、S素材モンスターは全て同じ属性のモンスターでなければならない。①：自分の墓地にチューナーが４種類以上存在し、このカードがS召喚されている場合、１ターンに１度、LPを半分払って発動できる。このカード以外のフィールドのカードを全て破壊する。この効果の発動後、ターン終了時まで自分はドラゴン族モンスターしか特殊召喚できない。②：自分エンドフェイズに発動する。自分のデッキの上からカードを４枚除外する。",
+  "defense_power": "2600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/05/21",
+  "species_id": 1,
+  "starchip": "8"
+}

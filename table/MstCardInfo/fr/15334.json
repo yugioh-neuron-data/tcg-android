@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15334,
+  "card_name": "Canon de Flammes",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "(Cette carte est toujours aussi traitée comme une carte \"Accélérateur de Flammes\".)$NJusqu'à la fin de ce tour, un \"Le Dragon Ailé de Râ\" que vous contrôlez gagne les effets suivants. L'activation et l'effet de cette carte ne peuvent être annulés.$N●Cette carte n'est pas affectée par des effets de carte de votre adversaire.$N●Lorsqu'une attaque impliquant cette carte est déclarée : vous pouvez Sacrifier un nombre de votre choix d'autres monstres qui n'ont pas déclaré d'attaque ce tour ; jusqu'à la fin de ce tour, cette carte gagne une ATK égale à la somme des ATK d'origine des monstres Sacrifiés.$N●Après le calcul des dommages, si cette carte a attaqué : vous pouvez envoyer tous les monstres contrôlés par votre adversaire au Cimetière.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/09/24",
+  "species_id": 24,
+  "starchip": "0"
+}

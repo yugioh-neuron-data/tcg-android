@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15087,
+  "card_name": "Fête Yaminabe",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Au début de votre Battle Phase : vous pouvez cibler 1 monstre face recto que vous contrôlez ; ce tour, votre adversaire choisit les cibles de l'attaque du monstre, et aussi, si le monstre que vous contrôlez combat un monstre de l'adversaire, il gagne une ATK égale à son ATK d'origine durant le calcul des dommages uniquement. Vous ne pouvez utiliser cet effet de \"Fête Yaminabe\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/08/06",
+  "species_id": 24,
+  "starchip": "0"
+}

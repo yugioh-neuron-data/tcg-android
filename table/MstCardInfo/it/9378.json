@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 1,
+  "card_id": 9378,
+  "card_name": "Vylon Prisma",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se questa carta viene mandata dalla Zona Carte Mostro al Cimitero: puoi pagare 500 Life Point, poi scegliere come bersaglio 1 mostro scoperto che controlli; equipaggia questa carta a quel bersaglio. Se il mostro equipaggiato attacca o viene attaccato: esso guadagna 1000 ATK solamente durante il Damage Step.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/07/24",
+  "species_id": 19,
+  "starchip": "4"
+}

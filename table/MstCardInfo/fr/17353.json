@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 4,
+  "card_id": 17353,
+  "card_name": "Marquis de la Folie Vaylantz",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Si \"Monde Vaylantz - Konig Wissen\" est dans une Zone Terrain ou si vous contrôlez un monstre \"Vaylantz\" FEU : vous pouvez Invoquer Spécialement cette carte dans votre Zone Monstre Main dans sa même colonne. Vous ne pouvez utiliser cet effet de \"Marquis de la Folie Vaylantz\" qu'une fois par tour.",
+  "card_text": "Durant votre Main Phase : vous pouvez lancer un dé à six faces, dévoilez autant de cartes du dessus de votre Deck (ou autant que vous pouvez), et si vous le faites, vous pouvez ajouter 1 carte \"Vaylantz\" dévoilée à votre main, et aussi, mélangez les cartes restantes dans le Deck. Si cette carte dans la Zone Monstre est déplacée dans une autre Zone Monstre : vous pouvez lancer un dé à six faces, et si le résultat est 2, 3, 4 ou 5, Invoquez Spécialement 1 Carte Monstre depuis votre Zone Magie & Piège dans votre Zone Monstre Main dans sa même colonne. Vous ne pouvez utiliser chaque effet de \"Marquis de la Folie Vaylantz\" qu'une fois par tour.",
+  "defense_power": "1700",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2022/08/25",
+  "species_id": 7,
+  "starchip": "6"
+}

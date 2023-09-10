@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 18531,
+  "card_name": "Ferro Maiale contro Piolo Recinto",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Scegli come bersaglio 1 mostro scoperto sul Terreno; se l'ATK, DEF o Livello di quel mostro sono superiori al loro valore originario, essi diventano il loro valore originario, poi paga LP in multipli di 100 (minimo 100, massimo 1000). Durante la tua Main Phase, se entrambi i giocatori hanno gli stessi LP e questa carta è nel tuo Cimitero: puoi Posizionare questa carta. Puoi utilizzare questo effetto di \"Ferro Maiale contro Piolo Recinto\" una sola volta per turno.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/05/04",
+  "species_id": 24,
+  "starchip": "0"
+}

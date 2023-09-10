@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 5,
+  "card_id": 8858,
+  "card_name": "흡혈 코알라",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드가 몬스터와의 전투에 의해서 상대 라이프에 전투 데미지를 주었을 때, 준 전투 데미지의 수치만큼만 자신의 라이프 포인트를 회복한다.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/04/10",
+  "species_id": 11,
+  "starchip": "4"
+}

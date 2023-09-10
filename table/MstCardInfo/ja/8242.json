@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 5,
+  "card_id": 8242,
+  "card_name": "ナチュル・ドラゴンフライ",
+  "card_name_label": "ナチュル・ドラゴンフライ",
+  "card_name_search": "なちゅるどらごんふらい",
+  "card_pen_effect": "",
+  "card_text": "このカードは攻撃力２０００以上のモンスターとの戦闘では破壊されない。このカードの攻撃力は自分の墓地の「ナチュル」と名のついたモンスターの数×２００ポイントアップする。",
+  "defense_power": "400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/04/14",
+  "species_id": 10,
+  "starchip": "4"
+}

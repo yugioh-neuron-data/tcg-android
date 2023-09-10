@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 13376,
+  "card_name": "Dragão da Muralha Linkesteira",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Não pode ser Invocado por Invocação-Normal/Baixado. Deve ser Invocado por Invocação-Especial por seu próprio efeito. Quando você Invocar por Invocação-Link: você pode Invocar este card por Invocação-Especial da sua mão e, se isso acontecer, coloque 2 marcadores sobre ele. Se um monstro for Invocado por Invocação-Link: remova 2 desses marcadores deste card (ou todos, se houver menos de 2). Uma vez por turno, durante cada Fase de Apoio: coloque 1 desses marcadores neste card. Nenhum monstro pode ser Invocado por Invocação-Link a não ser que este card tenha pelo menos tantos desses marcadores quanto o Valor Link desse monstro. Monstros não podem atacar, exceto Monstros Link.",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/02/01",
+  "species_id": 1,
+  "starchip": "6"
+}

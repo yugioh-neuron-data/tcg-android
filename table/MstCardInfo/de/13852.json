@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 13852,
+  "card_name": "Schwarzflügel-Panzermeister",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 „Schwarzflügel“-Empfänger + 1+ Nicht-Empfänger-Monster$NBleibt von den Effekten anderer Karten unberührt. Jedes Mal, wenn der Effekt eines Monsters eines Gegners aktiviert wird, lege 1 Keilzählmarke auf jenes Monster des Gegners (max. 1), nachdem jener Effekt aufgelöst wurde. Einmal pro Spielzug: Du kannst 1 Monster mit einer Keilzählmarke wählen, das dein Gegner kontrolliert; übernimm die Kontrolle darüber. Einmal pro Spielzug, während deiner End Phase: Du kannst alle Monster auf dem Spielfeld zerstören, die eine Keilzählmarke haben.",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/09/27",
+  "species_id": 16,
+  "starchip": "10"
+}

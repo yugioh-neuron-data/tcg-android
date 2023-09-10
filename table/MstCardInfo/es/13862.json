@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 2,
+  "card_id": 13862,
+  "card_name": "Actor del Abismo - Dulce Madonna",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Puedes pagar 1000 LP; añade a tu mano 1 Monstruo de Péndulo \"Actor del Abismo\" en tu Deck, excepto \"Actor del Abismo - Dulce Madonna\", y además, no puedes Invocar monstruos de Modo Especial por el resto de este turno, excepto Monstruos de Péndulo \"Actor del Abismo\" (aun si esta carta deja el Campo). Sólo puedes usar este efecto de \"Actor del Abismo - Dulce Madonna\" una vez por turno.",
+  "card_text": "Gana 100 ATK por cada Mágica \"Guión de Abismo\" en tu Cementerio. Sólo puedes usar cada uno de los siguientes efectos de \"Actor del Abismo - Dulce Madonna\" una vez por turno.$N●Cuando un Monstruo de Péndulo que controlas es destruido en batalla: puedes Invocar esta carta de Modo Especial desde tu mano.$N●Si una Carta Mágica \"Guión de Abismo\" o efecto Mágico \"Guión de Abismo\" es activado: puedes Invocar de Modo Especial, desde tu Deck, 1 Monstruo de Péndulo \"Actor del Abismo\" de Nivel 4 o menor, pero devuélvelo a la mano durante la End Phase.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "0",
+  "pen_scale_r": "0",
+  "sales_at": "2018/09/27",
+  "species_id": 3,
+  "starchip": "7"
+}

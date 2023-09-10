@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 5,
+  "card_id": 7886,
+  "card_name": "Serpiente de Cadena de Hierro",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante tu Main Phase, puedes equipar esta carta a 1 monstruo boca arriba que controle tu adversario. Ese monstruo pierde 800 ATK y DEF. Cuando es destruido en batalla y mandado al Cementerio, su controlador manda al Cementerio desde la parte superior de su Deck tantas cartas como su Nivel.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/11/18",
+  "species_id": 20,
+  "starchip": "3"
+}

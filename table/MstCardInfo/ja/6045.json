@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 1,
+  "card_id": 6045,
+  "card_name": "オアシスの使者",
+  "card_name_label": "オアシスのししゃ",
+  "card_name_search": "おあしすのししゃ",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上にレベル３以下の通常モンスターが表側表示で存在する限り、相手はこのカードを攻撃対象に選択できない。このカードが自分フィールド上に存在する限り、レベル３以下の通常モンスターの戦闘によって発生するこのカードのコントローラーへの戦闘ダメージは０になる。",
+  "defense_power": "400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/02/26",
+  "species_id": 18,
+  "starchip": "3"
+}

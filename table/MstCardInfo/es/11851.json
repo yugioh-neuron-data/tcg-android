@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11851,
+  "card_name": "Juego de la Gallina",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "El jugador con los LP más bajos no recibe daño. Una vez por turno, durante la Main Phase: el jugador activo puede pagar 1000 LP, y después activar 1 de estos efectos;$N●Roba 1 carta.$N●Destruye esta carta.$N●Tu adversario gana 1000 LP.$NNingún jugador puede activar cartas o efectos en respuesta a la activación de este efecto.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/08/06",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 18025,
+  "card_name": "御巫の契り",
+  "card_name_label": "みかんこのちぎり",
+  "card_name_search": "みかんこのちぎり",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：手札・デッキから「御巫」モンスター１体を特殊召喚する。その後、そのモンスターが装備可能な装備魔法カード１枚を自分の手札・墓地から選んでそのモンスターに装備できる。この効果で特殊召喚したモンスターは、フィールドから離れた場合に除外される。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/08/20",
+  "species_id": 25,
+  "starchip": "0"
+}

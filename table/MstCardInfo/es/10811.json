@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 10811,
+  "card_name": "¿Ganancia GRANDE?",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Declara un Nivel entre 1 y 12; cada jugador lanza una moneda, y si ambas salen Cara, los Niveles de todos los monstruos boca arriba que controles en este momento se convierten en el Nivel declarado. Si ambos son Cruz, pierdes Life Points iguales al Nivel declarado x 500.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/11/07",
+  "species_id": 25,
+  "starchip": "0"
+}

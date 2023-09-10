@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 2,
+  "card_id": 12633,
+  "card_name": "花札衛－猪鹿蝶－",
+  "card_name_label": "カーディアン－いのしかちょう－",
+  "card_name_search": "かーでぃあんいのしかちょう",
+  "card_pen_effect": "",
+  "card_text": "チューナー＋チューナー以外のモンスター２体$N①：このカードがモンスターゾーンに存在する限り、自分の「花札衛」モンスターが守備表示モンスターを攻撃した場合、その守備力を攻撃力が超えた分だけ相手に戦闘ダメージを与える。②：１ターンに１度、自分の墓地の「花札衛」モンスター１体を除外して発動できる。次の相手ターン終了時まで、相手は墓地のカードの効果を発動できず、墓地からモンスターを特殊召喚できない。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/07/09",
+  "species_id": 15,
+  "starchip": "6"
+}

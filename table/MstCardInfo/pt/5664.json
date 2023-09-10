@@ -1,0 +1,23 @@
+{
+  "attack_power": "200",
+  "attribute_id": 3,
+  "card_id": 5664,
+  "card_name": "Koitsu",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Uma vez por turno, durante a sua Main Phase, você pode equipar este card a \"Aitsu\" como um Card de Magia de Equipamento, OU separar o Equipamento e Invocar, por Invocação-Especial, este card em Posição de Ataque com a face para cima. Quando este card é equipado pelo efeito deste card, aumente o ATK do monstro equipado em 3000 pontos, e quando ataca com um ATK superior ao DEF dum monstro em Posição de Defesa, inflija a diferença aos Life Points do seu adversário como dano de batalha. (1 monstro pode ser equipado apenas por 1 Monstro de Union de cada vez. Se o monstro equipado com este card é destruído como resultado de um combate, em vez disso destrúa este card.)",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 8,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/03/01",
+  "species_id": 17,
+  "starchip": "10"
+}

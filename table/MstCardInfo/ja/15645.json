@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15645,
+  "card_name": "喰光の竜輝巧",
+  "card_name_label": "ドライトロン・エクリプス",
+  "card_name_search": "どらいとろんえくりぷす",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分の墓地の「ドライトロン」モンスター１体を対象として発動できる。そのモンスターを手札に加える。②：墓地のこのカードを除外し、自分フィールドの「ドライトロン」モンスター１体を対象として発動できる。そのモンスターの攻撃力は相手ターン終了時まで２０００アップする。この効果はこのカードが墓地へ送られたターンには発動できない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/09/12",
+  "species_id": 24,
+  "starchip": "0"
+}

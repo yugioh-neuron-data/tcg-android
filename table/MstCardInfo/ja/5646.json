@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 5,
+  "card_id": 5646,
+  "card_name": "アマゾネスの吹き矢兵",
+  "card_name_label": "アマゾネスのふきやへい",
+  "card_name_search": "あまぞねすのふきやへい",
+  "card_pen_effect": "",
+  "card_text": "自分のスタンバイフェイズ毎に相手フィールド上のモンスターを１体選択する。選択したモンスターの攻撃力はターン終了時まで５００ポイントダウンする。",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/09/19",
+  "species_id": 15,
+  "starchip": "3"
+}

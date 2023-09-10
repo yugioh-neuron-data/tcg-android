@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 5,
+  "card_id": 10217,
+  "card_name": "六武衆の影－紫炎",
+  "card_name_label": "ろくぶしゅうのかげ－シエン",
+  "card_name_search": "ろくぶしゅうのかげしえん",
+  "card_pen_effect": "",
+  "card_text": "レベル４「六武衆」モンスター×２$N①：１ターンに１度、このカードのX素材を１つ取り除き、自分フィールドの攻撃力２０００未満の「六武衆」モンスター１体を対象として発動できる。そのモンスターの元々の攻撃力はターン終了時まで２０００になる。この効果は相手ターンでも発動できる。",
+  "defense_power": "400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/10/13",
+  "species_id": 15,
+  "starchip": "4"
+}

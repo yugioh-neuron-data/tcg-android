@@ -1,0 +1,23 @@
+{
+  "attack_power": "2200",
+  "attribute_id": 2,
+  "card_id": 15856,
+  "card_name": "Ladrón del Tiempo Doble Barril",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 monstruos de Nivel 4$NCuando tu adversario activa una carta o efecto: puedes desacoplar hasta 3 materiales de tipos diferentes de esta carta (Monstruo, Mágica y Trampa), y después aplica el o los siguientes efectos siguientes dependiendo de qué fue desacoplado, en secuencia.$N●Monstruo: esta carta gana 400 ATK.$N●Mágica: hasta la End Phase, toma el control de 1 monstruo boca arriba que controle tu adversario, pero este turno no puede declarar ataques ni activar sus efectos.$N●Trampa: hasta el final de este turno niega los efectos de 1 Monstruo de Efecto en el Campo.$NSólo puedes usar este efecto de \"Ladrón del Tiempo Doble Barril\" una vez por turno.",
+  "defense_power": "2200",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/04/16",
+  "species_id": 21,
+  "starchip": "4"
+}

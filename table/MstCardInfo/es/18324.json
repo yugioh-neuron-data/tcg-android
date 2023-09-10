@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 2,
+  "card_id": 18324,
+  "card_name": "Ghoul de las Sombras del Laberinto",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Puedes descartar esta carta; añade a tu mano 1 carta \"Muro Laberinto\" en tu Deck. Al comienzo del Damage Step, si el monstruo de tu adversario batalla, mientras tú controlas una carta \"Muro Laberinto\": puedes desterrar esta carta en tu Cementerio; destruye ese monstruo del adversario. Sólo puedes usar cada efecto de \"Ghoul de las Sombras del Laberinto\" una vez por turno.",
+  "defense_power": "1300",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/03/09",
+  "species_id": 2,
+  "starchip": "5"
+}

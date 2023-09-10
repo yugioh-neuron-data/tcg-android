@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 2,
+  "card_id": 7675,
+  "card_name": "트윈배럴 드래곤",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드가 일반 소환/반전 소환/특수 소환에 성공했을 때, 상대 필드 위에 존재하는 카드 1장을 선택하고 발동한다. 코인 토스를 2회 실행하고, 2회 모두 앞면이었을 경우, 선택한 카드를 파괴한다.",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/10/07",
+  "species_id": 7,
+  "starchip": "4"
+}

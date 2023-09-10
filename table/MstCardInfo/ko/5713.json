@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 5,
+  "card_id": 5713,
+  "card_name": "분노 팬더",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "상대 필드 위의 몬스터 1장당 이 카드의 공격력은 500 포인트 올린다. 수비 표시 몬스터를 공격했을 때 그 수비력을 공격력이 넘었으면, 그 수치만큼 상대에게 전투 데미지를 준다.",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/05/02",
+  "species_id": 11,
+  "starchip": "3"
+}

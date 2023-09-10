@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 1,
+  "card_id": 7018,
+  "card_name": "Tirador de Metal",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando esta carta es Invocada mediante una Invocación Normal, pon 2 contadores en ella. Esta carta gana 800 ATK por cada contador. Si esta carta fuera a ser destruida por un efecto, retira 1 de los contadores de esta carta en su lugar.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/11/30",
+  "species_id": 7,
+  "starchip": "5"
+}

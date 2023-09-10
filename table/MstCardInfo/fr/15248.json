@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 4,
+  "card_id": 15248,
+  "card_name": "Oliver, Chevalier Noble Inferno",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Tant que cette carte est une Carte d'Équipement, votre adversaire ne peut pas cibler le monstre équipé avec des effets de carte. Vous ne pouvez utiliser chacun des effets suivants de \"Oliver, Chevalier Noble Inferno\" qu'une fois par tour. Vous pouvez envoyer 1 monstre FEU Guerrier ou 1 Magie d'Équipement depuis votre main ou Terrain face recto au Cimetière ; Invoquez Spécialement cette carte depuis votre main comme un monstre de Niveau 1. Si cette carte est dans votre Cimetière : vous pouvez cibler 1 monstre Guerrier que vous contrôlez ; équipez cette carte au monstre que vous contrôlez.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/08/06",
+  "species_id": 15,
+  "starchip": "4"
+}

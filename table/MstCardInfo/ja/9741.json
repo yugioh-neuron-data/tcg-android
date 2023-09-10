@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 1,
+  "card_id": 9741,
+  "card_name": "ゼンマイナイト",
+  "card_name_label": "ゼンマイナイト",
+  "card_name_search": "ぜんまいないと",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上に表側表示で存在する「ゼンマイ」と名のついたモンスターが攻撃対象に選択された時、そのモンスターの攻撃を無効にする事ができる。この効果はこのカードがフィールド上に表側表示で存在する限り１度しか使用できない。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/07/16",
+  "species_id": 15,
+  "starchip": "4"
+}

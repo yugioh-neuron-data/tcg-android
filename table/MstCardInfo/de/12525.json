@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 12525,
+  "card_name": "Kubische Welle",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wähle 1 „Kubisch“-Monster, das du kontrollierst, und 1 offenes Monster, das dein Gegner kontrolliert; die ATK des Monsters, das du kontrollierst, werden gleich dem Doppelten seiner derzeitigen ATK und falls sie dies tun, werden die ATK des Monsters, das dein Gegner kontrolliert, gleich der Hälfte seiner derzeitigen ATK. Du kannst diese Karte und eine beliebige Anzahl „Kubisch“-Monster von deinem Friedhof verbannen und dann offene Monster, die dein Gegner kontrolliert, in Höhe der Anzahl der verbannten „Kubisch“-Monster wählen; lege auf jedes von ihnen 1 Kubisch-Zählmarke. (Monster mit einer Kubisch-Zählmarke können nicht angreifen, zusätzlich annulliere ihre Effekte.)",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/07/21",
+  "species_id": 24,
+  "starchip": "0"
+}

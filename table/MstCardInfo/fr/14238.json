@@ -1,0 +1,23 @@
+{
+  "attack_power": "400",
+  "attribute_id": 4,
+  "card_id": 14238,
+  "card_name": "Salamangrande Raton Laveur",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsque votre monstre \"Salamangrande\" est ciblé par une attaque d'un monstre de l'adversaire : vous pouvez envoyer cette carte depuis votre main au Cimetière, puis ciblez ces 2 monstres qui vont combattre ; gagnez des LP égaux à l'ATK du monstre de l'adversaire, et aussi, votre monstre ciblé ne peut pas être détruit au combat ce tour. Lorsque votre monstre \"Salamangrande\" détruit un monstre de l'adversaire au combat et l'envoie au Cimetière, tant que cette carte est dans votre Cimetière : vous pouvez ajouter cette carte à votre main. Vous ne pouvez utiliser cet effet de \"Salamangrande Raton Laveur\" qu'une fois par tour.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/02/14",
+  "species_id": 27,
+  "starchip": "1"
+}

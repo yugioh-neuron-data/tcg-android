@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14865,
+  "card_name": "Saga de los Antiguos Guerreros - Alianza Sun-Liu",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si controlas monstruos \"Antiguos Guerreros\" con 2 o más Atributos diferentes: puedes declarar 1 Atributo; tu adversario no puede activar los efectos de monstruos que controle en este momento con ese Atributo, hasta el final de este turno (aun si esta carta deja el Campo). Si tu adversario Invoca uno o más monstruos de Modo Especial, o tú activas el efecto de un monstruo \"Antiguos Guerreros\" (excepto durante el Damage Step): hasta el final de este turno, puedes hacer que todos los monstruos \"Antiguos Guerreros\" que controlas ganen 300 ATK por cada monstruo \"Antiguos Guerreros\" que controlas (aun si esta carta deja el Campo). Sólo puedes usar cada efecto de \"Saga de los Antiguos Guerreros - Alianza Sun-Liu\" una vez por turno.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/01/30",
+  "species_id": 24,
+  "starchip": "0"
+}

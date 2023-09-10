@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 12885,
+  "card_name": "Temerario Pellicciaspavento",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 mostro \"Imp Filo\" + 1 mostro \"Fluffal\"$NQuando questa carta distrugge un mostro dell'avversario in battaglia: puoi infliggere 1000 danni al tuo avversario. Se questa carta scoperta viene distrutta in battaglia, o lascia il Terreno a causa dell'effetto di una carta dell'avversario mentre il suo proprietario la controlla: puoi infliggere 500 danni al tuo avversario per ogni mostro \"Pellicciaspavento\" nel tuo Cimitero. Puoi utilizzare questo effetto di \"Temerario Pellicciaspavento\" una sola volta per turno.",
+  "defense_power": "2200",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/05/25",
+  "species_id": 3,
+  "starchip": "8"
+}

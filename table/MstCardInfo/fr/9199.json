@@ -1,0 +1,23 @@
+{
+  "attack_power": "2700",
+  "attribute_id": 6,
+  "card_id": 9199,
+  "card_name": "Chevalier de Fleur",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"Fleur Synchronique\" + 1+ monstre non-Syntoniseur$NUne fois par tour, durant votre tour, lorsque votre adversaire active une Carte Magie/Piège (Effet Rapide) : vous pouvez annuler l'activation, et si vous le faites, détruisez la carte.",
+  "defense_power": "2300",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/11/25",
+  "species_id": 15,
+  "starchip": "8"
+}

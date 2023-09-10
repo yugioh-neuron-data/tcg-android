@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 2,
+  "card_id": 11051,
+  "card_name": "Bambola Fantasmatrucco",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Non può essere Evocato Normalmente, a meno che tu controlli un mostro \"Fantasmatrucco\". Una volta per turno: puoi mettere questa carta coperta in Posizione di Difesa. Quando questa carta viene scoperta: durante la End Phase, metti coperti in Posizione di Difesa tanti mostri scoperti quanti possibile, poi puoi Evocare Specialmente dal tuo Deck coperto in Posizione di Difesa 1 mostro \"Fantasmatrucco\" il cui Livello è pari o inferiore al numero di mostri coperti da questo effetto.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/05/15",
+  "species_id": 18,
+  "starchip": "2"
+}

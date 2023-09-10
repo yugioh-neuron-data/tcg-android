@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 1,
+  "card_id": 6031,
+  "card_name": "Parieur des Sables",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lancez une pièce 3 fois. Si le résultat est 3 fois \"face\", détruisez tous les monstres sur le Terrain de votre adversaire. Si le résultat est 3 fois \"pile\", détruisez tous les monstres sur votre Terrain. Cet effet ne peut être utilisé qu'une seule fois par tour, durant votre Main Phase.",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/06/01",
+  "species_id": 18,
+  "starchip": "3"
+}

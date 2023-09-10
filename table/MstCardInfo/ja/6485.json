@@ -1,0 +1,23 @@
+{
+  "attack_power": "2100",
+  "attribute_id": 5,
+  "card_id": 6485,
+  "card_name": "サイバー・ブレイダー",
+  "card_name_label": "サイバー・ブレイダー",
+  "card_name_search": "さいばーぶれいだー",
+  "card_pen_effect": "",
+  "card_text": "「エトワール・サイバー」＋「ブレード・スケーター」$Nこのカードの融合召喚は上記のカードでしか行えない。①：相手フィールドのモンスターの数によって、このカードは以下の効果を得る。●１体：このカードは戦闘では破壊されない。●２体：このカードの攻撃力は倍になる。●３体：相手が発動したカードの効果は無効化される。",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/08/11",
+  "species_id": 15,
+  "starchip": "7"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "200",
+  "attribute_id": 1,
+  "card_id": 5247,
+  "card_name": "昇霊術師 ジョウゲン",
+  "card_name_label": "しょうれいじゅつし　ジョウゲン",
+  "card_name_search": "しょうれいじゅつしじょうげん",
+  "card_pen_effect": "",
+  "card_text": "手札をランダムに１枚墓地へ捨てて発動できる。フィールド上の特殊召喚されたモンスターを全て破壊する。また、このカードがフィールド上に表側表示で存在する限り、お互いにモンスターを特殊召喚できない。",
+  "defense_power": "1300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2001/07/12",
+  "species_id": 18,
+  "starchip": "3"
+}

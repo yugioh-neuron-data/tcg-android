@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 18532,
+  "card_name": "サイバネット・サーキット",
+  "card_name_label": "サイバネット・サーキット",
+  "card_name_search": "さいばねっとさーきっと",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドの「ファイアウォール」リンクモンスター１体を対象として発動できる。自分の墓地からモンスターを任意の数だけ選び、対象のモンスターとリンク状態になるように自分または相手フィールドに特殊召喚する。②：自分のLPが２０００以下の場合、墓地のこのカードを除外して発動できる。自分の墓地から「ファイアウォール」リンクモンスター１体を選んでEXデッキに戻す。その後、そのモンスターをEXデッキから特殊召喚できる。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/01/14",
+  "species_id": 25,
+  "starchip": "0"
+}

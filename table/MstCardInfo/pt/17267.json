@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 1,
+  "card_id": 17267,
+  "card_name": "Yakusa, o Senhor dos Oito Trovões",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Você pode Invocar este card por Invocação-Especial (da sua mão) ao banir 1 monstro de Nível/Classe 8 do seu Cemitério. Você pode escolher 1 Monstro de Ritual, de Fusão, Sincro ou Xyz de Nível/Classe 8 no seu Cemitério; embaralhe-o no Deck e, depois, aplique o seguinte efeito dependendo do tipo de card do monstro devolvido.$N●Ritual/Fusão: Compre 1 card.$N●Sincro/Xyz: Este card ganha 1000 de ATK.$NVocê só pode usar este efeito de \"Yakusa, o Senhor dos Oito Trovões\" uma vez por turno.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/05/19",
+  "species_id": 26,
+  "starchip": "8"
+}

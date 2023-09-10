@@ -1,0 +1,23 @@
+{
+  "attack_power": "900",
+  "attribute_id": 2,
+  "card_id": 8789,
+  "card_name": "Generador de Azar Inférnico",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Una vez por turno, mientras no tengas cartas en tu mano, puedes robar 1 carta y mostrarla. Si robas una Carta de Monstruo por este efecto, inflige daño a tu adversario igual al Nivel de ese monstruo x 200. Si robas una Carta Mágica o de Trampa, tú recibes 500 puntos de daño.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/05/06",
+  "species_id": 15,
+  "starchip": "1"
+}

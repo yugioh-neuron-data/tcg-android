@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 5,
+  "card_id": 13700,
+  "card_name": "EMクレイブレイカー",
+  "card_name_label": "エンタメイトクレイブレイカー",
+  "card_name_search": "えんためいとくれいぶれいかー",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：アドバンス召喚したこのカードが相手モンスターと戦闘を行うダメージ計算時に発動できる。その相手モンスターの攻撃力はターン終了時まで、自分のEXデッキの表側表示のPモンスターの数×５００ダウンする。②：このカードが墓地に存在し、自分が２体以上のモンスターを同時にP召喚した時に発動できる。墓地のこのカードを手札に加える。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/03/20",
+  "species_id": 15,
+  "starchip": "6"
+}

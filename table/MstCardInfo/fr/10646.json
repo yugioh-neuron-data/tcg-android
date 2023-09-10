@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 6,
+  "card_id": 10646,
+  "card_name": "Claíomh Solais Oiseau de Brume",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Syntoniseur + 1 monstre non-Syntoniseur ou plus$NUne fois par tour : vous pouvez cibler 1 monstre face recto contrôlé par votre adversaire ; son ATK devient 0, et si elle le devient, ses effets sont annulés. Ces changements durent jusqu'à la fin de ce tour.",
+  "defense_power": "2300",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/08/08",
+  "species_id": 16,
+  "starchip": "3"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 2,
+  "card_id": 11362,
+  "card_name": "Sabueso Sombrañeca",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "VOLTEO: Puedes seleccionar 1 carta \"Sombrañeca\" en tu Cementerio; añádela a tu mano.$NSi esta carta es mandada al Cementerio por efecto de una carta: puedes seleccionar 1 monstruo en el Campo; cambia su posición de batalla. (Los efectos de monstruos de Volteo no se activan en este momento, excepto los de monstruos \"Sombrañeca\"). Sólo puedes usar 1 efecto de \"Sabueso Sombrañeca\" por turno, y sólo una vez ese turno.",
+  "defense_power": "900",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 24,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/09/11",
+  "species_id": 18,
+  "starchip": "4"
+}

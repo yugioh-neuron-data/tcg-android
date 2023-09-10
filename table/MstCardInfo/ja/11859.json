@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 11859,
+  "card_name": "渇きの風",
+  "card_name_label": "かわきのかぜ",
+  "card_name_search": "かわきのかぜ",
+  "card_pen_effect": "",
+  "card_text": "「渇きの風」の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分のLPが回復した場合、相手フィールドの表側表示モンスター１体を対象としてこの効果を発動する。そのモンスターを破壊する。②：自分フィールドに「アロマ」モンスターが存在し、自分のLPが相手より３０００以上多い場合、その差分のLPを払ってこの効果を発動できる。攻撃力の合計が、この効果を発動するために払ったLPの数値以下になるように、相手フィールドの表側表示モンスターを選んで破壊する。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/04/25",
+  "species_id": 25,
+  "starchip": "0"
+}

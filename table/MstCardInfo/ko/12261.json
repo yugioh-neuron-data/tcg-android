@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 12261,
+  "card_name": "No.35 라베노스 타란툴라",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "레벨 10 몬스터 × 2$N①: 이 카드가 몬스터 존에 존재하는 한, 자신 필드 몬스터의 공격력 / 수비력은, 자신과 상대 LP의 차의 수치만큼 올린다. ②: 엑시즈 소재를 가진 이 카드가 몬스터 존에 존재하는 한, 상대가 몬스터를 특수 소환할 때마다 상대에게 600 데미지를 준다. ③: 1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고 발동할 수 있다. 이 카드의 공격력 이하의 공격력을 가지는 상대 필드의 몬스터를 전부 파괴한다.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/12/23",
+  "species_id": 10,
+  "starchip": "10"
+}

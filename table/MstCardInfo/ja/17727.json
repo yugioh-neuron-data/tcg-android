@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 17727,
+  "card_name": "墓守の刻印",
+  "card_name_label": "はかもりのこくいん",
+  "card_name_search": "はかもりのこくいん",
+  "card_pen_effect": "",
+  "card_text": "①：自分メインフェイズ１開始時に発動できる。以下の効果から１つを選び、相手ターン終了時まで適用する。$N●お互いに墓地のカードの効果を発動できない。$N●お互いに墓地のカードを除外できない。$N●お互いに墓地のモンスターを特殊召喚できない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/05/27",
+  "species_id": 24,
+  "starchip": "0"
+}

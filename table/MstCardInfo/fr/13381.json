@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 2,
+  "card_id": 13381,
+  "card_name": "Chien de Chasse Tindangle",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "FLIP : Vous pouvez cibler 1 autre monstre face recto sur le Terrain ; cette carte gagne une ATK égale à l'ATK d'origine de la cible, puis changez la cible en Position de Défense face verso.$NChaque monstre contrôlé par votre adversaire perd 1000 ATK pour chaque monstre qui lui est lié. Si cette carte est détruite au combat ou par un effet de carte, et envoyée au Cimetière : vous pouvez cibler 1 monstre face verso sur le Terrain ; changez-le en Position de Défense face recto.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 24,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/02/01",
+  "species_id": 3,
+  "starchip": "7"
+}

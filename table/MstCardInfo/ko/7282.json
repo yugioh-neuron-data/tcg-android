@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 1,
+  "card_id": 7282,
+  "card_name": "검투수 알렉산데르",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"검투수 디카에리\" 이외의 효과에 의해서, 이 카드를 특수 소환할 수 없다. 특수 소환된 이 카드는 자신 필드 위에 앞면 표시로 존재하는 한, 마법의 효과를 받지 않는다. 이 카드가 전투를 실행한 배틀 페이즈 종료시에 이 카드를 덱으로 되돌리는 것으로, 덱에서 \"검투수 알렉산데르\" 이외의 \"검투수\"라는 이름이 붙은 몬스터 1장을 자신 필드 위에 특수 소환한다.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/09/08",
+  "species_id": 11,
+  "starchip": "6"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 2,
+  "card_id": 7727,
+  "card_name": "Dark Hunter",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "This card's effect changes depending on the number of DARK monsters in your Graveyard.$N●1 or fewer: This card loses 400 ATK.$N●2 to 4: This card gains 400 ATK.$N●5 or more: You can send this card to the Graveyard to destroy all face-down monsters your opponent controls.",
+  "defense_power": "400",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/09/02",
+  "species_id": 3,
+  "starchip": "4"
+}

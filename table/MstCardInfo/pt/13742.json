@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 2,
+  "card_id": 13742,
+  "card_name": "Feiticeiro Ciberso",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Você pode Invocar este card por Invocação-Ritual com \"Cinet Ritual\". Qualquer dano que você sofrer é reduzido pela metade. (Você não pode reduzir o mesmo dano pela metade duas vezes desta forma.) Enquanto você controlar um Monstro Link, os monstros que seu oponente controla não podem escolher monstros que você controla como alvo de ataques, exceto este e, além disso, seu oponente não pode escolher monstros que você controla como alvo de efeitos de card, exceto este. Se este card batalhar um Monstro Link, ele ganha 1000 de ATK apenas durante o cálculo de dano. Se este card em sua posse for destruído por um efeito de card do oponente: você pode adicionar 1 monstro Ciberso do seu Deck à sua mão.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 5,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/07/26",
+  "species_id": 27,
+  "starchip": "7"
+}

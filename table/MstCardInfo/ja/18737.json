@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 18737,
+  "card_name": "VS トリニティ・バースト",
+  "card_name_label": "ヴァンキッシュ・ソウル トリニティ・バースト",
+  "card_name_search": "う゛ぁんきっしゅそうるとりにてぃばーすと",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。$N①：自分フィールドの「VS」モンスター１体を対象として発動できる。そのモンスターとは元々の属性が異なる「VS」モンスターを２体まで手札から効果を無効にして特殊召喚する（同名カードは１枚まで）。その後、対象の自分のモンスター及びこの効果で特殊召喚したモンスターの、正面の相手フィールドのカードを全て持ち主の手札に戻す事ができる。この効果で特殊召喚したモンスターはエンドフェイズに持ち主の手札に戻る。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/03/18",
+  "species_id": 25,
+  "starchip": "0"
+}

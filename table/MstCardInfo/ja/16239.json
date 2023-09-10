@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16239,
+  "card_name": "光来する奇跡",
+  "card_name_label": "こうらいするきせき",
+  "card_name_search": "こうらいするきせき",
+  "card_pen_effect": "",
+  "card_text": "①：このカードの発動時の効果処理として、手札・デッキからドラゴン族・レベル１モンスター１体を選んでデッキの一番上に置く。②：お互いにフィールドの「スターダスト・ドラゴン」及びそのカード名が記されたSモンスターをEXデッキに戻す事はできない。③：Sモンスターが特殊召喚された場合に発動できる。以下の効果から１つを選んで適用する。このターン、自分の「光来する奇跡」の効果で同じ効果を適用できない。$N●自分はデッキから１枚ドローする。$N●手札からチューナー１体を特殊召喚する。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/04/17",
+  "species_id": 24,
+  "starchip": "0"
+}

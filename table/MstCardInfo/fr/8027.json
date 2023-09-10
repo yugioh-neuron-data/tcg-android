@@ -1,0 +1,23 @@
+{
+  "attack_power": "-1",
+  "attribute_id": 1,
+  "card_id": 8027,
+  "card_name": "Scanner",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Une fois par tour, vous pouvez sélectionner 1 des monstres de votre adversaire qui est retiré du jeu. Jusqu'à la End Phase, le nom de cette carte est traité comme le nom du monstre sélectionné et cette carte a le même Attribut, Niveau, ATK et DEF que le monstre sélectionné. Si cette carte est retirée du Terrain lorsque cet effet est appliqué, retirez-la du jeu.",
+  "defense_power": "-1",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/03/03",
+  "species_id": 7,
+  "starchip": "1"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1100",
+  "attribute_id": 1,
+  "card_id": 7582,
+  "card_name": "Energia Arcana I - Il Mago",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Quando questa carta viene Evocata, lancia una moneta:$N●Testa: Quando una Carta Magia viene attivata, l'ATK di questa carta diventa il doppio del suo ATK originale fino alla End Phase di quel turno.$N●Croce: Quando una Carta Magia viene attivata, il tuo avversario guadagna 500 Life Points.",
+  "defense_power": "1100",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/05/13",
+  "species_id": 17,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 1,
+  "card_id": 10215,
+  "card_name": "サンダー・シーホース",
+  "card_name_label": "サンダー・シーホース",
+  "card_name_search": "さんだーしーほーす",
+  "card_pen_effect": "",
+  "card_text": "「サンダー・シーホース」の効果は１ターンに１度しか使用できず、この効果を発動するターン、自分はモンスターを特殊召喚できない。①：このカードを手札から捨てて発動できる。デッキから攻撃力１６００以下の雷族・光属性・レベル４の同名モンスター２体を手札に加える。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/09/21",
+  "species_id": 19,
+  "starchip": "4"
+}

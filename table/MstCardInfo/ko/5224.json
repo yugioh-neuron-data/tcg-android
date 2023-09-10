@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 5224,
+  "card_name": "위저 보드",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드와 \"죽음의 메시지\" 카드 4종류가 자신 필드에 모였을 때, 자신은 듀얼에서 승리한다. ①: 상대 엔드 페이즈에 이 효과를 발동한다. 패 / 덱에서 \"죽음의 메시지\" 카드 1장을 \"I\" \"N\" \"A\" \"L\"의 순으로 자신의 마법 & 함정 존에 낸다. ②: 자신 필드의 \"위저 보드\" 또는 \"죽음의 메시지\" 카드가 필드에서 벗어났을 때에 자신 필드의 \"위저 보드\" 및 \"죽음의 메시지\" 카드는 전부 묘지로 보내진다.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/09/02",
+  "species_id": 25,
+  "starchip": "0"
+}

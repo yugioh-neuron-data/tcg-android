@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 17179,
+  "card_name": "Surprise Chain",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Activate only as Chain Link 2 or higher; apply the following effects, depending on the Chain Link number of this card, in sequence (skip over any that do not apply). You cannot activate this card if multiple cards/effects with the same name are in that Chain.$N●2+: Excavate the top cards of your Deck, equal to the Chain Link number of this card, then place them on the top of your Deck in any order.$N●3+: Send the top card of your Deck to the GY.$N●4+: Draw 1 card.$NYou can only activate 1 \"Surprise Chain\" per turn.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/05/19",
+  "species_id": 24,
+  "starchip": "0"
+}

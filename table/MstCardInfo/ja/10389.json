@@ -1,0 +1,23 @@
+{
+  "attack_power": "1900",
+  "attribute_id": 4,
+  "card_id": 10389,
+  "card_name": "陽炎獣 スピンクス",
+  "card_name_label": "ヘイズビースト　スピンクス",
+  "card_name_search": "へいずびーすとすぴんくす",
+  "card_pen_effect": "",
+  "card_text": "このカードがフィールド上に表側表示で存在する限り、相手はこのカードをカードの効果の対象にできない。また、自分のメインフェイズ時、カードの種類（モンスター・魔法・罠）を宣言して発動できる。自分のデッキの一番上のカードを墓地へ送り、宣言した種類のカードだった場合、さらに自分の手札・墓地から炎属性モンスター１体を選んで特殊召喚できる。「陽炎獣 スピンクス」のこの効果は１ターンに１度しか使用できない。",
+  "defense_power": "1900",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/11/17",
+  "species_id": 12,
+  "starchip": "6"
+}

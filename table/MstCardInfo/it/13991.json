@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 13991,
+  "card_name": "Padrone Pellicciaspavento",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Puoi offrire come Tributo 1 mostro \"Pellicciaspavento\", \"Fluffal\" o \"Imp Filo\" di Livello 4 o inferiore; Evoca Specialmente dal tuo Deck 1 mostro Demone con lo stesso Livello, ma con un nome diverso. Puoi utilizzare questo effetto di \"Padrone Pellicciaspavento\" una sola volta per turno.",
+  "card_text": "Durante la tua Main Phase: puoi Evocare Specialmente 1 mostro \"Pellicciaspavento\", \"Fluffal\" o \"Imp Filo\" di Livello 4 o inferiore dal tuo Deck, inoltre non puoi Evocare Specialmente mostri dall'Extra Deck per il resto di questo turno, eccetto Mostri Fusione. Puoi offrire come Tributo 2 o più mostri Demone; Evoca Specialmente dal tuo Extra Deck 1 Mostro Fusione \"Pellicciaspavento\" con Livello pari alla somma dei Livelli originali di quei mostri. (Questa viene considerata come un'Evocazione tramite Fusione.) Puoi utilizzare ogni effetto di \"Padrone Pellicciaspavento\" una sola volta per turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "4",
+  "pen_scale_r": "4",
+  "sales_at": "2020/06/18",
+  "species_id": 3,
+  "starchip": "8"
+}

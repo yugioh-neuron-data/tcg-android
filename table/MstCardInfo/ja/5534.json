@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 5534,
+  "card_name": "バスターランチャー",
+  "card_name_label": "バスターランチャー",
+  "card_name_search": "ばすたーらんちゃー",
+  "card_pen_effect": "",
+  "card_text": "攻撃力１０００以下のモンスターのみ装備可能。ダメージ計算時、相手モンスターが攻撃表示なら攻撃力、守備表示なら守備力が２５００ポイント以上の場合、このカードを装備したモンスターの攻撃力は２５００ポイントアップする。",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/05/16",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 2,
+  "card_id": 11458,
+  "card_name": "D/D-Zerberus",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Einmal pro Spielzug: Du kannst 1 „D/D“-Monster wählen, das du kontrollierst; ändere seine Stufe zu 4 und falls du dies tust, erhält es 400 ATK und DEF (selbst falls diese Karte das Spielfeld verlässt).",
+  "card_text": "Wenn diese Karte als Pendelbeschwörung von der Hand beschworen wird, solange du ein „D/D“-Monster außer „D/D-Zerberus“ kontrollierst: Du kannst 1 Permanente Zauberkarte in deinem Friedhof wählen; füge sie deiner Hand hinzu.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "6",
+  "pen_scale_r": "6",
+  "sales_at": "2017/01/19",
+  "species_id": 3,
+  "starchip": "4"
+}

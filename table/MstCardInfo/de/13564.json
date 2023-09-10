@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 13564,
+  "card_name": "Gouki Oktodehnung",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls ein Monster deines Gegners angreift, während der Schadensberechnung (Schnelleffekt): Du kannst diese Karte abwerfen; der Schaden, den du aus dem Kampf erhältst, wird halbiert. Wenn dein Gegner einen Effekt aktiviert, der dir Schaden zufügen würde (sogar während des Damage Steps) (Schnelleffekt): Du kannst diese Karte abwerfen; der Schaden, den du durch den Effekt erhältst, wird halbiert. Falls diese Karte vom Spielfeld auf den Friedhof gelegt wird: Du kannst deiner Hand 1 „Gouki“-Karte von deinem Deck hinzufügen, außer „Gouki Oktodehnung“. Du kannst diesen Effekt von „Gouki Oktodehnung“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/05/03",
+  "species_id": 15,
+  "starchip": "1"
+}

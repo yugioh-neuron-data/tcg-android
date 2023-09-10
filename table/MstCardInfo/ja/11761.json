@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11761,
+  "card_name": "真帝王領域",
+  "card_name_label": "しんていおうりょういき",
+  "card_name_search": "しんていおうりょういき",
+  "card_pen_effect": "",
+  "card_text": "①：自分のエクストラデッキにカードが存在せず、自分フィールドにのみアドバンス召喚したモンスターが存在する場合、相手はエクストラデッキからモンスターを特殊召喚できない。②：自分のアドバンス召喚したモンスターの攻撃力は、相手モンスターに攻撃するダメージ計算時のみ８００アップする。③：１ターンに１度、自分メインフェイズにこの効果を発動できる。自分の手札の攻撃力２８００／守備力１０００のモンスター１体を選び、そのモンスターのレベルをターン終了時まで２つ下げる。",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/02/14",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 15890,
+  "card_name": "デメット爺さん",
+  "card_name_label": "デメットじいさん",
+  "card_name_search": "でめっとじいさん",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分の「プリンセス・コロン」のX素材を１つ取り除いて発動できる。自分の墓地から攻撃力か守備力が０の通常モンスターを２体まで選び、闇属性・レベル８モンスターとして守備表示で特殊召喚する。②：自分のXモンスターが、X素材としている通常モンスターを取り除いて効果を発動した場合、そのXモンスター１体と相手フィールドのモンスター１体を対象として発動できる。その相手モンスターを破壊し、対象のXモンスターのランク×３００ダメージを相手に与える。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/12/28",
+  "species_id": 18,
+  "starchip": "1"
+}

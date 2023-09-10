@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11399,
+  "card_name": "帝王の轟毅",
+  "card_name_label": "ていおうのごうき",
+  "card_name_search": "ていおうのごうき",
+  "card_pen_effect": "",
+  "card_text": "①：自分フィールドのレベル５以上の通常召喚された表側表示モンスター１体をリリースし、フィールドの表側表示のカード１枚を対象として発動できる。そのカードの効果をターン終了時まで無効にする。その後、自分はデッキから１枚ドローする。②：自分メインフェイズに墓地のこのカードを除外し、属性を１つ宣言して発動できる。フィールドの全ての表側表示モンスターは、ターン終了時まで宣言した属性になる。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/07/19",
+  "species_id": 24,
+  "starchip": "0"
+}

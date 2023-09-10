@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 5487,
+  "card_name": "攻撃誘導アーマー",
+  "card_name_label": "こうげきゆうどうアーマー",
+  "card_name_search": "こうげきゆうどうあーまー",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：自分または相手のモンスターの攻撃宣言時に、以下の効果から１つを選択して発動できる。$N●その攻撃モンスターを破壊する。$N●その攻撃モンスター以外の自分または相手フィールドのモンスター１体を対象として発動できる。攻撃対象をそのモンスターに移し替えてダメージ計算を行う。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/04/23",
+  "species_id": 25,
+  "starchip": "0"
+}

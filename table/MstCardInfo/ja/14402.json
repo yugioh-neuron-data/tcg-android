@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14402,
+  "card_name": "超接地展開",
+  "card_name_label": "アウトリガー・エクスパンド",
+  "card_name_search": "あうとりがーえくすぱんど",
+  "card_pen_effect": "",
+  "card_text": "①：自分フィールドの機械族Xモンスターは相手の効果の対象にならない。②：１ターンに１度、自分フィールドの「無限起動」Xモンスター１体を対象として発動できる。その自分のモンスターよりランクが２つ高い機械族Xモンスター１体を、対象のモンスターの上に重ねてX召喚扱いとしてEXデッキから特殊召喚する。この効果の発動後、ターン終了時まで自分は機械族・地属性モンスターしか特殊召喚できない。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/02/23",
+  "species_id": 24,
+  "starchip": "0"
+}

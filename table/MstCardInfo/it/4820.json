@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 4820,
+  "card_name": "Ragno Roulette",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Quando un mostro dell'avversario dichiara un attacco: tira un dado a sei facce e applica il risultato.$N1: Dimezza i tuoi LP.$N2: Fai diventare l'attacco un attacco diretto.$N3: Seleziona 1 mostro che controlli, cambia il bersaglio dell'attacco su di esso ed effettua il calcolo dei danni.$N4: Seleziona 1 altro mostro controllato dal tuo avversario, cambia il bersaglio dell'attacco su di esso ed effettua il calcolo dei danni.$N5: Annulla l'attacco e, se lo fai, infliggi al tuo avversario danno pari all'ATK di quel mostro.$N6: Distruggi quel mostro dell'avversario.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/07/16",
+  "species_id": 24,
+  "starchip": "0"
+}

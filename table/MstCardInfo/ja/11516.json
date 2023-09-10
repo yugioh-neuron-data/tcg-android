@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 5,
+  "card_id": 11516,
+  "card_name": "BOXサー",
+  "card_name_label": "ボクサー",
+  "card_name_search": "ぼくさー",
+  "card_pen_effect": "",
+  "card_text": "①：このカードが戦闘で相手モンスターを破壊し墓地へ送った時に発動できる。このカードにカウンターを１つ置く。②：カウンターが２つ以上置かれているこのカードを墓地へ送って発動できる。デッキから地属性モンスター１体を特殊召喚する。③：このカードが戦闘・効果で破壊される場合、代わりにこのカードのカウンターを１つ取り除く事ができる。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/09/19",
+  "species_id": 15,
+  "starchip": "4"
+}

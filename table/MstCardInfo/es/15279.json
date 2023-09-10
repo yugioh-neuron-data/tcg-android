@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 5,
+  "card_id": 15279,
+  "card_name": "Mami Melffy",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2+ monstruos Bestia de Nivel 2$NUna vez por turno (Efecto Rápido): puedes acoplar a esta carta 1 monstruo Bestia en tu mano o boca arriba en tu Campo como material. Esta carta gana efectos basados en el número de materiales acoplados a ella.$N●3+: No puede ser destruida en batalla.$N●4+: No recibes daño de batallas que involucren esta carta.$N●5+: Cuando es declarado un ataque que involucre esta carta y un monstruo en Posición de Ataque: puedes infligir daño a tu adversario igual al ATK de ese monstruo en Posición de Ataque.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/08/06",
+  "species_id": 11,
+  "starchip": "2"
+}

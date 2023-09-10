@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 3,
+  "card_id": 15005,
+  "card_name": "Tiburón de Zumbido",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Puedes seleccionar 1 monstruo de AGUA que controles; Invoca de Modo Especial, desde tu Deck, 1 monstruo Pez con el mismo Nivel que ese monstruo, pero con un nombre diferente, en Posición de Defensa y, si lo haces, éste no puede activar sus efectos este turno, y además no puedes Invocar monstruos de Modo Especial desde el Deck Extra por el resto de este turno, excepto Monstruos Xyz. Sólo puedes usar este efecto de \"Tiburón de Zumbido\" una vez por turno. Si esta carta es usada para la Invocación Xyz de un monstruo de AGUA, puede ser tratada como un monstruo de Nivel 3 o 5.",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/30",
+  "species_id": 8,
+  "starchip": "4"
+}

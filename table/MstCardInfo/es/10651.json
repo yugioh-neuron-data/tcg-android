@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 1,
+  "card_id": 10651,
+  "card_name": "Número C39: Rayo Utopía Victoria",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "3 monstruos de Nivel 5$NSi esta carta ataca, tu adversario no puede activar Cartas Mágicas/de Trampa hasta el final del Damage Step. Si esta carta tiene un monstruo \"Utopía\" como Material Xyz, gana este efecto.$N●Cuando esta carta declara un ataque a un monstruo boca arriba que controle tu adversario: puedes desacoplar de esta carta 1 Material Xyz; niega los efectos de ese monstruo boca arriba de tu adversario, y además esta carta gana ATK igual al ATK de ese monstruo de tu adversario. Estos cambios duran hasta el final del turno.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/08/08",
+  "species_id": 15,
+  "starchip": "5"
+}

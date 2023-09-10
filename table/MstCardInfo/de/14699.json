@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 14699,
+  "card_name": "Gladiator-Naumachia",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Solange du ein „Gladiatorungeheuer“-Monster kontrollierst, müssen alle Monster angreifen, die dein Gegner kontrolliert, falls möglich. Einmal pro Spielzug: Du kannst 1 „Gladiatorungeheuer“-Monster von deiner Hand oder deinem Friedhof ins Main Deck mischen und dann 1 „Gladiatorungeheuer“-Monster wählen, das du kontrollierst; es erhält bis zum Ende dieses Spielzugs ATK in Höhe seiner Grund-DEF (selbst falls diese Karte das Spielfeld verlässt). Falls diese Karte in der Zauber- & Fallenzone durch einen Karteneffekt zerstört wird: Du kannst diesen Effekt aktivieren; in diesem Spielzug können „Gladiatorungeheuer“-Monster, die du kontrollierst, nicht durch Kampf zerstört werden.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/10/24",
+  "species_id": 25,
+  "starchip": "0"
+}

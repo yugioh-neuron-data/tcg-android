@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 4,
+  "card_id": 12498,
+  "card_name": "Apfel-Magier-Mädchen",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Einmal pro Spielzug, falls diese Karte als Angriffsziel gewählt wird: Du kannst 1 Monster vom Typ Hexer der Stufe 5 oder niedriger als Spezialbeschwörung von deiner Hand beschwören, dann ändere das Angriffsziel darauf und falls du dies tust, werden die ATK des angreifenden Monsters gleich der Hälfte seiner derzeitigen ATK. Falls diese Karte durch Kampf oder einen Karteneffekt zerstört wird: Du kannst bis zu 3 andere „Magier-Mädchen“-Monster mit unterschiedlichen Namen in deinem Friedhof wählen; füge sie deiner Hand hinzu.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/07/21",
+  "species_id": 18,
+  "starchip": "3"
+}

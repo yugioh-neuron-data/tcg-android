@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 12397,
+  "card_name": "Onikuji",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Once per turn, during your Standby Phase: Your opponent declares 1 card type (Monster, Spell, or Trap). Excavate the top card of your Deck, then if it is that type of card, your opponent draws 1 card. Otherwise, discard 1 random card from their hand. Place the excavated card on the bottom of your Deck.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/05/05",
+  "species_id": 25,
+  "starchip": "0"
+}

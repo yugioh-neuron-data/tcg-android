@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 2,
+  "card_id": 5528,
+  "card_name": "Moissonneur Cauchemardesque",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"Moissonneur d'Esprit\" + \"Cheval de Cauchemar\"$NCette carte n'est pas détruite à l'issue d'un combat. Détruisez cette carte lorsqu'elle est désignée comme cible d'un effet d'une Carte Magie, Piège ou Monstre à Effet. Cette carte peut attaquer directement les Life Points de votre adversaire, même s'il y a un monstre sur le Terrain de votre adversaire. Si cette carte attaque directement avec succès les Life Points de votre adversaire, il se défausse d'1 carte au hasard de sa main.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/03/19",
+  "species_id": 2,
+  "starchip": "5"
+}

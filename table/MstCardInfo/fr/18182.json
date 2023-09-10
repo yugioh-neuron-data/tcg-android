@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 5,
+  "card_id": 18182,
+  "card_name": "Arktos XII - Chronofaille Vaylantz",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Vous pouvez activer 1 de ces effets ;$N●Invoquez Spécialement cette carte dans votre Zone Monstre Main dans sa même colonne.$N●Déplacez 1 monstre dans votre Zone Monstre Main dans une Zone Monstre (horizontale) adjacente.$NVous ne pouvez utiliser cet effet de \"Arktos XII - Chronofaille Vaylantz\" qu'une fois par tour.",
+  "card_text": "2 monstres \"Vaylantz\" de min. Niveau 5$NDoit d'abord être Invoquée Spécialement (depuis votre Extra Deck face verso) en Sacrifiant les cartes ci-dessus. (Effet Rapide) : vous pouvez échanger l'emplacement de 2 monstres dans vos Zones Monstre Main ou de 2 monstres dans les Zones Monstre Main de votre adversaire. Si une carte dans la Zone Monstre est déplacée dans une autre Zone Monstre (sauf durant la Damage Step) : vous pouvez détruire 1 carte sur le Terrain. Vous ne pouvez utiliser chaque effet de \"Arktos XII - Chronofaille Vaylantz\" qu'une fois par tour.",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 41,
+  "pen_scale_l": "12",
+  "pen_scale_r": "12",
+  "sales_at": "2023/02/06",
+  "species_id": 17,
+  "starchip": "12"
+}

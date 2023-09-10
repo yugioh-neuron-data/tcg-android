@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 4952,
+  "card_name": "一族の掟",
+  "card_name_label": "いちぞくのおきて",
+  "card_name_search": "いちぞくのおきて",
+  "card_pen_effect": "",
+  "card_text": "発動時に１種類の種族を宣言する。その種族のモンスターは攻撃宣言ができない。自分のスタンバイフェイズ毎にモンスター１体を生け贄に捧げなければこのカードを破壊する。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2000/09/28",
+  "species_id": 25,
+  "starchip": "0"
+}

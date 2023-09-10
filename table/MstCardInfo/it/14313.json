@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14313,
+  "card_name": "Lamento Funebre del Drago Perduto",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Attiva questa carta dichiarando 1 nome di carta. Ogni volta che la carta dichiarata, o un suo effetto, viene attivata, dimezza i LP del suo proprietario immediatamente dopo che si è risolta. Durante la End Phase, se questa carta ha dimezzato i LP di un giocatore in questo turno, manda questa carta al Cimitero. Mentre il tuo avversario controlla un mostro, questa carta non può essere distrutta dagli effetti delle carte.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/05/02",
+  "species_id": 24,
+  "starchip": "0"
+}

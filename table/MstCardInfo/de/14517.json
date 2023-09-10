@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 14517,
+  "card_name": "Marinzessin-Strom",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wenn ein „Marinzessin“-Linkmonster, das du kontrollierst, ein Monster eines Gegners durch Kampf zerstört: Füge deinem Gegner Schaden in Höhe der Linkzahl des Monsters, das du kontrollierst, x 400 zu, dann, falls du durch den Kampf ein Linkmonster eines Gegners zerstört hast, solange du ein „Marinzessin“-Monster mit Link-2 oder höher kontrolliert hast, füge deinem Gegner Schaden in Höhe der Linkzahl des zerstörten Monsters x 500 zu. Du kannst nur 1 „Marinzessin-Strom“ pro Spielzug aktivieren. Falls du ein „Marinzessin“-Monster mit Link-3 oder höher kontrollierst, kannst du diese Karte von deiner Hand aktivieren.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/07/26",
+  "species_id": 25,
+  "starchip": "0"
+}

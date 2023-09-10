@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 2,
+  "card_id": 12727,
+  "card_name": "堕天使アムドゥシアス",
+  "card_name_label": "だてんしアムドゥシアス",
+  "card_name_search": "だてんしあむどぅしあす",
+  "card_pen_effect": "",
+  "card_text": "自分は「堕天使アムドゥシアス」を１ターンに１度しか特殊召喚できず、その①②の効果はそれぞれ１ターンに１度しか使用できない。①：手札からこのカードと「堕天使」カード１枚を捨て、自分の墓地の「堕天使」カード１枚を対象として発動できる。そのカードを手札に加える。②：１０００LPを払い、自分の墓地の「堕天使」魔法・罠カード１枚を対象として発動できる。その魔法・罠カードの効果を適用する。その後、墓地のそのカードをデッキに戻す。この効果は相手ターンでも発動できる。",
+  "defense_power": "2800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/08/06",
+  "species_id": 17,
+  "starchip": "6"
+}

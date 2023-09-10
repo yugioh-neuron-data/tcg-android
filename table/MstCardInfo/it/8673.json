@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 8673,
+  "card_name": "Synchro Controllo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Attiva solo se non hai nessun Mostro Synchro sul tuo Terreno o nel tuo Cimitero. Paga 1000 Life Points e scegli 1 Mostro Synchro scoperto controllato dal tuo avversario. Prendi il controllo del mostro scelto fino alla End Phase del tuo turno.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/02/11",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10085,
+  "card_name": "엑시즈 유닛",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "엑시즈 몬스터에만 장착 가능. 장착 몬스터의 공격력은, 장착 몬스터의 랭크 × 200 포인트 올린다. 또한, 자신 필드 위의 장착 몬스터가 엑시즈 소재를 제거하고 효과를 발동할 경우, 이 카드는 제거할 엑시즈 소재의 1개로서 취급할 수 있다.",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/05/21",
+  "species_id": 24,
+  "starchip": "0"
+}

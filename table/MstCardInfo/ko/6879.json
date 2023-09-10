@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 2,
+  "card_id": 6879,
+  "card_name": "스나이프 스토커",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "패를 1장 버리고, 필드 위의 카드 1장을 선택하여 발동할 수 있다. 주사위를 1회 던지고 1 또는 6 이외가 나온 경우, 선택한 카드를 파괴한다.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/12/21",
+  "species_id": 3,
+  "starchip": "4"
+}

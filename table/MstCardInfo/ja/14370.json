@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 1,
+  "card_id": 14370,
+  "card_name": "ネオ・カイザー・グライダー",
+  "card_name_label": "ネオ・カイザー・グライダー",
+  "card_name_search": "ねおかいざーぐらいだー",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：手札からこのカードとモンスター１体を捨て、自分の墓地のドラゴン族の通常モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。②：このカードが墓地へ送られた場合に発動できる。相手フィールドの全てのモンスターの攻撃力はターン終了時まで５００ダウンする。",
+  "defense_power": "2200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/02/09",
+  "species_id": 1,
+  "starchip": "6"
+}

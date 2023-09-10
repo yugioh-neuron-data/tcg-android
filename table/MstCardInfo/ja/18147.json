@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 1,
+  "card_id": 18147,
+  "card_name": "銀河の召喚師",
+  "card_name_label": "ギャラクシー・サモナー",
+  "card_name_search": "ぎゃらくしーさもなー",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功した場合、「銀河の召喚師」以外の自分の墓地の、「フォトン」モンスターまたは「ギャラクシー」モンスター１体を対象として発動できる。そのモンスターを守備表示で特殊召喚する。②：このカード以外の自分フィールドの光属性モンスター１体を対象として発動できる。そのモンスターのレベルをターン終了時まで４にする。",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/10/15",
+  "species_id": 18,
+  "starchip": "4"
+}

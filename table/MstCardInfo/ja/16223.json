@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 1,
+  "card_id": 16223,
+  "card_name": "デスピアン・クエリティス",
+  "card_name_label": "デスピアン・クエリティス",
+  "card_name_search": "ですぴあんくえりてぃす",
+  "card_pen_effect": "",
+  "card_text": "「デスピア」モンスター＋光・闇属性モンスター$Nこのカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分・相手のメインフェイズに発動できる。レベル８以上の融合モンスターを除く、フィールドの全てのモンスターの攻撃力はターン終了時まで０になる。②：表側表示のこのカードが相手の効果でフィールドから離れた場合に発動できる。デッキから「デスピア」モンスターまたは「アルバスの落胤」１体を選び、手札に加えるか特殊召喚する。",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/04/17",
+  "species_id": 3,
+  "starchip": "8"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 18831,
+  "card_name": "エピュアリィ・ノアール",
+  "card_name_label": "エピュアリィ・ノアール",
+  "card_name_search": "えぴゅありぃのあーる",
+  "card_pen_effect": "",
+  "card_text": "レベル２モンスター×２$N①：１ターンに１度、手札を１枚捨て、相手フィールドのカード１枚を対象として発動できる（このカードが「ピュアリィ・スリーピィメモリー」をX素材としている場合、対象を２枚にできる）。そのカードを手札に戻す。$N②：１ターンに３度まで、自分が「ピュアリィ」速攻魔法カードを発動した時に発動できる。フィールドのそのカードをこのカードのX素材とする。その後、デッキから「ピュアリィ」罠カード１枚を自分フィールドにセットできる。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/04/22",
+  "species_id": 17,
+  "starchip": "2"
+}

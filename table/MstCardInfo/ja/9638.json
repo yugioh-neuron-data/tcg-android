@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 6,
+  "card_id": 9638,
+  "card_name": "エアジャチ",
+  "card_name_label": "エアジャチ",
+  "card_name_search": "えあじゃち",
+  "card_pen_effect": "",
+  "card_text": "１ターンに１度、手札から魚族・海竜族・水族モンスター１体をゲームから除外する事で、相手フィールド上に表側表示で存在するカード１枚を選択して破壊する。その後、このカードを次の自分のスタンバイフェイズ時までゲームから除外する。",
+  "defense_power": "300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/04/16",
+  "species_id": 5,
+  "starchip": "3"
+}

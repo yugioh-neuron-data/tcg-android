@@ -1,0 +1,23 @@
+{
+  "attack_power": "1900",
+  "attribute_id": 5,
+  "card_id": 6104,
+  "card_name": "Mystischer Schwertkämpfer LV4",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Kann nicht als Normalbeschwörung beschworen werden (kann aber normal gesetzt werden.) Am Beginn des Damage Steps, falls diese Karte ein Monster in verdeckter Verteidigungsposition angegriffen hat: Zerstöre das Monster. Während der End Phase, falls diese Karte in diesem Spielzug ein Monster durch Kampf zerstört hat: Du kannst diese offene Karte auf den Friedhof legen; beschwöre 1 „Mystischer Schwertkämpfer LV6“ als Spezialbeschwörung von deiner Hand oder deinem Deck.",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/10/01",
+  "species_id": 15,
+  "starchip": "4"
+}

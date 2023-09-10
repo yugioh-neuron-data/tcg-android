@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 17400,
+  "card_name": "Prévention Libromancienne",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si vous contrôlez un monstre \"Libromancien\" : vous pouvez cibler 1 monstre face recto contrôlé par votre adversaire ; ce tour, le monstre face recto ne peut pas être utilisé comme Matériel pour une Invocation Fusion, Synchro, Xyz ou Lien. Vous ne pouvez utiliser cet effet de \"Prévention Libromancienne\" qu'une fois par tour. Une fois par tour, durant la End Phase, si vous ne contrôlez aucun Monstre Rituel \"Libromancien\" : envoyez cette carte au Cimetière.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/05/19",
+  "species_id": 25,
+  "starchip": "0"
+}

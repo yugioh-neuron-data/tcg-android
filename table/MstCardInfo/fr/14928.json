@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14928,
+  "card_name": "Action Souriante",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsque cette carte est activée : chaque joueur peut bannir face verso max. 5 Magies depuis son propre Cimetière. Si un monstre déclare une attaque : le joueur attaqué active cet effet ;$N●Vous (le joueur attaqué) pouvez ajouter au hasard 1 de vos cartes qui ont été bannies par l'effet de cette carte à votre main, puis vous pouvez la défausser et annuler l'attaque, mais si vous ne défaussez pas la carte ajoutée, les dommages de combat que vous recevez ce tour sont doublés (même si cette carte quitte le Terrain).",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/01/16",
+  "species_id": 24,
+  "starchip": "0"
+}

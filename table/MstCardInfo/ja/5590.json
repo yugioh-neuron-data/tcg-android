@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 4,
+  "card_id": 5590,
+  "card_name": "灼岩魔獣",
+  "card_name_label": "しゃくがんまじゅう",
+  "card_name_search": "しゃくがんまじゅう",
+  "card_pen_effect": "",
+  "card_text": "１ターンに１度だけ自分のメインフェイズに装備カード扱いとして自分の「氷岩魔獣」に装備、または装備を解除して表側攻撃表示で特殊召喚する事ができる。この効果で装備カード扱いになっている時のみ、装備モンスターが相手プレイヤーに戦闘ダメージを与えた場合、フィールド上で表側表示の魔法または罠カード１枚を破壊する。（１体のモンスターが装備できるユニオンは１枚まで。装備モンスターが戦闘によって破壊される場合は、代わりにこのカードを破壊する。）",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 8,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/07/18",
+  "species_id": 4,
+  "starchip": "4"
+}

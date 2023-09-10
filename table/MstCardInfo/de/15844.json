@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 2,
+  "card_id": 15844,
+  "card_name": "Vampir Voivode",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls diese Karte als Normalbeschwörung beschworen wird: Du kannst bis zu 2 Monster im Friedhof deines Gegners wählen; beschwöre die Monster als Spezialbeschwörung auf deine Spielfeldseite in die Verteidigungsposition, aber ihre Effekte werden annulliert. Wenn ein Effekt eines Monsters aktiviert wird, solange ein oder mehr Monster mit seinem Namen in den Friedhöfen liegen (Schnelleffekt): Du kannst die Aktivierung annullieren. Falls ein oder mehr Monster als Spezialbeschwörung vom Friedhof deines Gegners beschworen werden: Du kannst 2 Monster als Tribut anbieten; beschwöre diese Karte als Spezialbeschwörung von deinem Friedhof. Du kannst jeden Effekt von „Vampir Voivode“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/04/16",
+  "species_id": 2,
+  "starchip": "8"
+}

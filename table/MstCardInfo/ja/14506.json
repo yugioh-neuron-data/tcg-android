@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14506,
+  "card_name": "神鳥の来寇",
+  "card_name_label": "シムルグのらいこう",
+  "card_name_search": "しむるぐのらいこう",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：手札から鳥獣族モンスター１体を捨てて発動できる。デッキから「シムルグ」モンスター２体を手札に加える（同じ属性は１体まで）。②：墓地のこのカードを除外して発動できる。手札の鳥獣族モンスター１体を相手に見せる。このターン、そのモンスター及び自分の手札の同名モンスターのレベルを１つ下げる。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/04/13",
+  "species_id": 24,
+  "starchip": "0"
+}

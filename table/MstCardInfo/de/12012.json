@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 12012,
+  "card_name": "D/D/D-Vertragsänderung",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wenn ein Monster deines Gegners einen Angriff deklariert: Aktiviere 1 dieser Effekte;$N●Verbanne 1 „D/D/D“-Monster von deinem Friedhof und falls du dies tust, verliert das angreifende Monster ATK in Höhe der ATK des verbannten Monsters.$N●Füge deiner Hand 1 „D/D“-Pendelmonster der Stufe 4 oder niedriger von deinem Deck hinzu.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/11/05",
+  "species_id": 25,
+  "starchip": "0"
+}

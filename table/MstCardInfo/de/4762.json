@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 1,
+  "card_id": 4762,
+  "card_name": "Reflektor-Lump",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Vor der Schadensberechnung, falls diese Karte von einem Monster eines Gegners angegriffen wird und am Beginn des Damage Steps in Angriffsposition lag: Füge deinem Gegner Schaden in Höhe der ATK des angreifenden Monsters zu. Falls du dies tust, nach der Schadensberechnung: Zerstöre diese Karte.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/05/01",
+  "species_id": 7,
+  "starchip": "4"
+}

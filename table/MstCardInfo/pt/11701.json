@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 3,
+  "card_id": 11701,
+  "card_name": "Zefrasabre, o Mestre da Espada de Necroz",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Você não pode Invocar monstros por Invocação-Pêndulo, exceto monstros \"Necroz\" e \"Zefra\". Este efeito não pode ser negado.",
+  "card_text": "Você pode oferecer este card como Tributo da sua mão ou com a face para cima no seu lado do campo; ofereça como Tributo monstros da sua mão ou do campo e, depois, Invoque por Invocação-Ritual 1 Monstro de Ritual \"Necroz\" da sua mão cujo Nível seja exatamente igual à soma dos Níveis desses monstros. Você só pode usar este efeito de \"Zefrasabre, o Mestre da Espada de Necroz\" uma vez por turno.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2015/05/14",
+  "species_id": 18,
+  "starchip": "4"
+}

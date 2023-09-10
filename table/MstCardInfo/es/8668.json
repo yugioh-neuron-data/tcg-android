@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 8668,
+  "card_name": "Línea de Ensamblaje de Máquinas",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Todos los monstruos Máquina en el Campo ganan 200 ATK. Cada vez que uno o más monstruos Máquina en el Campo boca arriba son destruidos en batalla o por efecto de una carta, pon 2 Contadores de Basura en esta carta. Puedes mandar esta carta al Cementerio, y después seleccionar 1 monstruo Máquina en tu Cementerio cuyo Nivel sea menor o igual a la cantidad de Contadores de Basura que había en esta carta; Invoca ese objetivo de Modo Especial.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/02/11",
+  "species_id": 24,
+  "starchip": "0"
+}

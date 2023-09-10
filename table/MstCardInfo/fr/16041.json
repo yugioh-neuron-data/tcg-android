@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 16041,
+  "card_name": "Fukubiki",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Chaque joueur mélange son Deck et dévoile la carte du dessus de son Deck. Ajoutez la carte dévoilée avec la plus haute ATK à la main du joueur, et aussi, envoyez la carte avec la plus faible ATK au Cimetière du joueur (les Magies/Pièges et monstres avec ? ATK sont traités comme 0). En cas d'égalité, placez ces cartes au-dessous des Decks.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/06/03",
+  "species_id": 25,
+  "starchip": "0"
+}

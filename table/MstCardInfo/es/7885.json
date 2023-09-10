@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 5,
+  "card_id": 7885,
+  "card_name": "Reparador de Cadena de Hierro",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando esta carta destruye un monstruo en batalla y lo manda al Cementerio, inflige 300 puntos de daño a tu adversario. Una vez por turno, puedes Invocar de Modo Especial desde tu Cementerio 1 monstruo \"Cadena de Hierro\" de Nivel 4 o menor, excepto \"Reparador de Cadena de Hierro\". Esta carta no puede atacar el turno en el que actives este efecto.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/11/18",
+  "species_id": 15,
+  "starchip": "4"
+}

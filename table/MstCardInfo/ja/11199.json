@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 1,
+  "card_id": 11199,
+  "card_name": "武神器－ツムガリ",
+  "card_name_label": "ぶじんぎ－ツムガリ",
+  "card_name_search": "ぶじんぎつむがり",
+  "card_pen_effect": "",
+  "card_text": "「武神器－ツムガリ」の効果は１ターンに１度しか使用できない。①：自分の獣戦士族の「武神」モンスターが相手モンスターと戦闘を行うダメージステップ開始時からダメージ計算前までに、墓地のこのカードを除外して発動できる。その戦闘を行う自分のモンスターの攻撃力はダメージステップ終了時まで、戦闘を行う相手モンスターの攻撃力分アップし、その戦闘によって相手に与える戦闘ダメージは半分になる。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/09/13",
+  "species_id": 11,
+  "starchip": "4"
+}

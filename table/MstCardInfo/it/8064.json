@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 8064,
+  "card_name": "Freccia d'Ebano",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Scegli 1 mostro scoperto che controlli. Fino alla End Phase, esso perde 500 ATK e durante il combattimento tra quel mostro attaccante ed un mostro in Posizione di Difesa il cui DEF sia inferiore all'ATK del mostro scelto, infliggi la differenza al tuo avversario come danno da combattimento. Quando il mostro scelto distrugge un mostro in battaglia e lo manda la Cimitero in questo turno, infliggi danni al tuo avversario pari al DEF originale del mostro distrutto.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/03/03",
+  "species_id": 25,
+  "starchip": "0"
+}

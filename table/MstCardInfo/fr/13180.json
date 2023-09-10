@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 2,
+  "card_id": 13180,
+  "card_name": "Canon Cyberténébreux",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si cette carte est envoyée au Cimetière tant qu'elle est équipée à un monstre : vous pouvez piocher 1 carte. Vous ne pouvez utiliser chacun des effets suivants de \"Canon Cyberténébreux\" qu'une fois par tour.$N●Vous pouvez défausser cette carte ; ajoutez 1 monstre \"Cyberténébreu\" Machine depuis votre Deck à votre main.$N●Durant le calcul des dommages, si un monstre équipé avec cette carte combat : vous pouvez envoyer 1 monstre depuis votre Deck au Cimetière.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/09/07",
+  "species_id": 1,
+  "starchip": "3"
+}

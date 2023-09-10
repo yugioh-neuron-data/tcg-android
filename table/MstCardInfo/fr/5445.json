@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 5445,
+  "card_name": "Mur de Piques",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Une fois par tour, durant votre Standby Phase : lancez un dé à six faces. Numérotez les Zones Carte Monstre de votre adversaire de 1 à 5 en partant de votre droite, et détruisez le monstre qui est dans la même Zone Carte Monstre que le résultat. Si le résultat est 6, relancez le dé.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/07/22",
+  "species_id": 25,
+  "starchip": "0"
+}

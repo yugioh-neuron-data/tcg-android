@@ -1,0 +1,23 @@
+{
+  "attack_power": "1100",
+  "attribute_id": 4,
+  "card_id": 15008,
+  "card_name": "戦華の詭－賈文",
+  "card_name_label": "せんかのき－かぶん",
+  "card_name_search": "せんかのきかぶん",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドの永続魔法・永続罠カード１枚を対象として発動できる。そのカードを墓地へ送り、フィールドの表側表示モンスター２体を選び、その攻撃力をターン終了時まで半分にする。②：相手フィールドのカードが戦闘・効果で破壊された場合、「戦華の詭－賈文」以外の自分の墓地の「戦華」カード１枚を対象として発動できる。そのカードを手札に加える。",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/01/11",
+  "species_id": 12,
+  "starchip": "4"
+}

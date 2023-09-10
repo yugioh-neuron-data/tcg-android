@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13423,
+  "card_name": "Fire Prison",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "All Dragon monsters on the field gain 300 DEF. If any Link Monsters are on the field, neither player can Link Summon a Link Monster with a lower Link Rating than the highest Link Rating on the field. Monsters cannot attack, except Link Monsters. Apply the following effects while 2 or more Cyberse Link Monsters are on the field.$N●Negate the activated effects of Cyberse monsters.$N●Cyberse monsters cannot attack, cannot be targeted for attacks, and cannot be targeted by card effects.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/02/02",
+  "species_id": 24,
+  "starchip": "0"
+}

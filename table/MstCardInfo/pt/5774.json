@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 3,
+  "card_id": 5774,
+  "card_name": "Arquidemônio Bispo das Trevas",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Uma vez por turno, durante sua Fase de Apoio, você deve pagar 500 PV (isso não é opcional), ou este card é destruído. Quando estiver resolvendo um efeito de card do oponente que escolha como alvo um monstro \"Arquidemônio\" que você controla, lance um dado de seis faces e negue esse efeito se o resultado for um 1, 3 ou 6 e, se isso acontecer, destrua esse card.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "Nome de Carta atualizado de \"Archdemônio Bispo das Trevas\". (Versão impressa ainda não disponível)",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/03/01",
+  "species_id": 3,
+  "starchip": "3"
+}

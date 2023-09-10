@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 5,
+  "card_id": 11144,
+  "card_name": "백호의 소환사",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "①: 이 카드가 일반 소환에 성공했을 때에 발동할 수 있다. 패에서 레벨 4 이하의 일반 몬스터 1장을 특수 소환한다. ②: 이 카드가 몬스터 존에 존재하는 한, 자신 필드의 몬스터의 공격력 / 수비력은 100 올린다.",
+  "defense_power": "1700",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/07/01",
+  "species_id": 18,
+  "starchip": "3"
+}

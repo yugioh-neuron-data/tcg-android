@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 18920,
+  "card_name": "Emissão Vulcânica",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Ative 1 desses efeitos (mas você só pode usar cada efeito de \"Emissão Vulcânica\" uma vez por turno);$N●Pegue 1 monstro \"Vulcânico(a)\" do seu Deck e adicione-o à sua mão ou Invoque-o por Invocação-Especial, ignorando suas condições de Invocação, mas devolva-o para a mão durante a Fase Final.$N●Escolha 1 monstro Piro no campo; cause dano ao seu oponente igual ao ATK original desse monstro ou, se você escolheu um monstro que você controla, o dano é diminuído pela metade.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/08/10",
+  "species_id": 25,
+  "starchip": "0"
+}

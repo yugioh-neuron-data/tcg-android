@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 5,
+  "card_id": 5891,
+  "card_name": "Stachelfee",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Dein Gegner kann keine Insekt-Monster angreifen. Falls diese Karte gegen ein Monster gekämpft hat, am Ende des Damage Steps: Ändere jenes Monster in die Verteidigungsposition.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/10/01",
+  "species_id": 13,
+  "starchip": "4"
+}

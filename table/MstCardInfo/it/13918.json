@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 13918,
+  "card_name": "Collezionista di Segnalini",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se viene Evocato Specialmente un Segna-Mostro (eccetto durante il Damage Step): puoi Evocare Specialmente questa carta dal Cimitero (se era lì quando il Segna-Mostro è stato Evocato Specialmente) o mano (anche se non era lì). Puoi utilizzare questo effetto di \"Collezionista di Segnalini\" una sola volta per turno. Se questa carta viene Evocata Specialmente: distruggi tanti Segna-Mostri sul Terreno quanti possibile e, se lo fai, questa carta guadagna 400 ATK per ogni Segna-Mostro distrutto. Nessun giocatore può Evocare Specialmente Segna-Mostri.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/10/18",
+  "species_id": 3,
+  "starchip": "4"
+}

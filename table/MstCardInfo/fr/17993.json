@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 4,
+  "card_id": 17993,
+  "card_name": "Moniteur des Secours-AS",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez ajouter 1 Piège \"Secours-AS\" depuis votre Deck à votre main. Lorsque votre adversaire active un effet de monstre sur le Terrain (Effet Rapide) : vous pouvez Sacrifier cette carte depuis votre main ou Terrain face recto, puis ciblez 1 monstre \"Secours-AS\" (\"Moniteur des Secours-AS\" exclu) dans votre Cimetière ; Invoquez-le Spécialement. Vous ne pouvez utiliser chaque effet de \"Moniteur des Secours-AS\" qu'une fois par tour.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/01/19",
+  "species_id": 15,
+  "starchip": "4"
+}

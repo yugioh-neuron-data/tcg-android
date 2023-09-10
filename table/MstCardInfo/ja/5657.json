@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 2,
+  "card_id": 5657,
+  "card_name": "魔導サイエンティスト",
+  "card_name_label": "まどうサイエンティスト",
+  "card_name_search": "まどうさいえんてぃすと",
+  "card_pen_effect": "",
+  "card_text": "１０００ライフポイントを払う事で、融合デッキからレベル６以下の融合モンスター１体を特殊召喚する。この融合モンスターは相手プレイヤーに直接攻撃する事はできず、ターン終了時に融合デッキに戻る。",
+  "defense_power": "300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/09/19",
+  "species_id": 18,
+  "starchip": "1"
+}

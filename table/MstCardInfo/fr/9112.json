@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 2,
+  "card_id": 9112,
+  "card_name": "Cauchemar du Crâne Serviteur",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Le nom de cette carte devient \"Crâne Serviteur\" tant qu'elle est dans le Cimetière. Vous pouvez défausser cette carte, puis activez 1 des effets suivants.$N●Ciblez 1 de vos \"Crâne Serviteur\" ou \"Cauchemar du Crâne Serviteur\" bannis ; renvoyez-le au Cimetière.$N●Ciblez 1 de vos \"Veuve du Crâne Serviteur\" ou \"Roi des Crânes Serviteurs\" bannis ; Invoquez-le Spécialement.",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/11/11",
+  "species_id": 2,
+  "starchip": "1"
+}

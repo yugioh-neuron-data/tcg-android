@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11093,
+  "card_name": "Bujintervento",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Scegli come bersaglio 1 mostro \"Bujin\" sul Terreno; applica questo effetto ad esso per il resto di questo turno. Ogni volta che esso distrugge in battaglia un mostro il cui ATK attuale è pari o superiore all'ATK originale del mostro scelto come bersaglio e lo manda al Cimitero: bandisci il mostro distrutto e, se lo fai, bandisci tutti i mostri dalla mano, Main Deck, Extra Deck e Cimitero del tuo avversario con lo stesso nome che il mostro distrutto aveva nel Cimitero.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/03/06",
+  "species_id": 24,
+  "starchip": "0"
+}

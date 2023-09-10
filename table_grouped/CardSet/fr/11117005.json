@@ -1,0 +1,947 @@
+[
+  {
+    "card_count": 1,
+    "card_id": 4842,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR046",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 4861,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR100",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 5114,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR047",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 5289,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR003",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 5400,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR101",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 6390,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR048",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 6768,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR049",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 6769,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR050",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 6770,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR051",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 6772,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR052",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 6939,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR053",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 7159,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR055",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 7406,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR054",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 8421,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR019",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 8428,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR016",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 8429,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR017",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 8430,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR018",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 8492,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR088",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 9511,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR057",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 9698,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR026",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 9708,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR056",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 10399,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR069",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 10469,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR071",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 10518,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR070",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 10712,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR058",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 11196,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR072",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 11468,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR073",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 11560,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR074",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 11799,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR059",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 11802,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR060",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 11840,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR064",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 12040,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR089",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 12067,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR068",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 12106,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR075",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 12187,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR102",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 12198,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR061",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 12199,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR062",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 12205,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR065",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 12337,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR090",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 12392,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR091",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 12586,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR092",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 12629,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR081",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 12630,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR082",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 12634,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR083",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 12724,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR076",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 12726,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR077",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 12728,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR093",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 12729,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR094",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 12731,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR103",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 12767,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR078",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 12800,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR095",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 12901,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR079",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 12933,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR063",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 12967,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR096",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 12977,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR097",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 12993,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR104",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 13019,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR084",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 13086,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR086",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 13090,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR087",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 13096,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR098",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 13097,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR099",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 13107,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR105",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 13163,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR085",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 13220,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR080",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 13417,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR066",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 13441,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR067",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 13800,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR001",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 13801,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR002",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 13802,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR004",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 13803,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR005",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 13804,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR006",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 13805,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR007",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 13806,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR008",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 13807,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR009",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 13808,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR010",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 13809,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR011",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 13810,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR012",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 13811,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR013",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 13812,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR014",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 13813,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR015",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 13814,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR020",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 13815,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR021",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 13816,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR022",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 13817,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR023",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 13818,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR024",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 13819,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR025",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 13820,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR027",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 13821,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR028",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 13822,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR029",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 13823,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR030",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 13824,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR031",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 13825,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR032",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 13826,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR033",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 13827,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR034",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 13828,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR035",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 13829,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR036",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 13830,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR037",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 13831,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR038",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 13832,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR039",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 13833,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR040",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 13834,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR041",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 13835,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR042",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 13836,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR043",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 13837,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR044",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 13838,
+    "card_image_id": 1,
+    "card_number": "BLRR-FR045",
+    "language": "fr",
+    "pack_id": "11117005",
+    "rarity_id": 5
+  }
+]

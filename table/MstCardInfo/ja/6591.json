@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 5,
+  "card_id": 6591,
+  "card_name": "巨大戦艦 カバード・コア",
+  "card_name_label": "きょだいせんかん　カバード・コア",
+  "card_name_search": "きょだいせんかんかばーどこあ",
+  "card_pen_effect": "",
+  "card_text": "このカードの召喚時にカウンターを２つ置く。このカードは戦闘によっては破壊されない。戦闘を行った場合、ダメージステップ終了時にコイントスで裏表を当てる。ハズレの場合、カードのカウンターを１つ取り除く。カウンターのない状態で戦闘を行った場合、ダメージステップ終了時にこのカードを破壊する。",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/11/17",
+  "species_id": 7,
+  "starchip": "7"
+}

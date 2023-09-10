@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15334,
+  "card_name": "Glutkanone",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "(Diese Karte wird zusätzlich immer als „Glutbeschleuniger“-Karte behandelt.)$NEin „Der geflügelte Drache von Ra“, den du kontrollierst, erhält bis zum Ende dieses Spielzugs die folgenden Effekte. Aktivierung und Effekt dieser Karte können nicht annulliert werden.$N●Diese Karte bleibt von den Karteneffekten deines Gegners unberührt.$N●Wenn ein Angriff deklariert wird, an dem diese Karte beteiligt ist: Du kannst eine beliebige Anzahl anderer Monster, die in diesem Spielzug keinen Angriff deklariert haben, als Tribut anbieten; diese Karte erhält bis zum Ende dieses Spielzugs ATK in Höhe der Summe der Grund-ATK der als Tribut angebotenen Monster.$N●Nach der Schadensberechnung, falls diese Karte angegriffen hat: Du kannst alle Monster, die dein Gegner kontrolliert, auf den Friedhof legen.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/09/24",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 10196,
+  "card_name": "공격 무적화",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "배틀 페이즈시에만, 이하의 효과에서 1개를 선택하고 발동할 수 있다.$N●필드 위의 몬스터 1장을 선택하고 발동할 수 있다. 선택한 몬스터는 이 배틀 페이즈 중, 전투 및 카드의 효과로는 파괴되지 않는다.$N●이 배틀 페이즈 중, 자신에게로의 전투 데미지는 0 이 된다.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/07/03",
+  "species_id": 25,
+  "starchip": "0"
+}

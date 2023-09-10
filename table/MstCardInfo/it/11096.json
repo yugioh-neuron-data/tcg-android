@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11096,
+  "card_name": "Scrittura Proibita",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se un mostro combatte con un mostro dell'avversario, durante il calcolo dei danni: annulla gli effetti sul Terreno di tutte le altre carte fino alla fine del Damage Step, inoltre il calcolo dei danni per questa battaglia utilizza l'ATK e il DEF originale di ogni mostro.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/05/15",
+  "species_id": 24,
+  "starchip": "0"
+}

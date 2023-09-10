@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 5,
+  "card_id": 9320,
+  "card_name": "Ver de Ferraille",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cette carte peut attaquer directement votre adversaire. Si cette carte attaque, elle est détruite à la fin de la Battle Phase. Si cette carte est détruite par l'effet d'une carte \"Ferraille\" et envoyée au Cimetière, vous pouvez sélectionner 1 monstre \"Ferraille\" dans votre Cimetière, excepté \"Ver de Ferraille\", et l'ajouter à votre main.",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/02/10",
+  "species_id": 10,
+  "starchip": "2"
+}

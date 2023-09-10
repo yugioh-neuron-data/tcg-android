@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 5,
+  "card_id": 15090,
+  "card_name": "Raideur Aérien Méchabot",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Vous pouvez défausser 1 autre monstre \"Méchabot\" ; Invoquez Spécialement cette carte depuis votre main. Durant le tour de votre adversaire (Effet Rapide) : vous pouvez cibler 1 monstre Machine que vous contrôlez ; Invoquez Spécialement 1 monstre \"Méchabot\" de nom différent et d'un Niveau inférieur ou égal au monstre depuis votre Deck, et si vous le faites, détruisez le monstre ciblé. Vous ne pouvez utiliser chaque effet de \"Raideur Aérien Méchabot\" qu'une fois par tour.",
+  "defense_power": "2600",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/16",
+  "species_id": 7,
+  "starchip": "8"
+}

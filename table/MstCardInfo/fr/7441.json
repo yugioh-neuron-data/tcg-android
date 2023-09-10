@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 1,
+  "card_id": 7441,
+  "card_name": "Limon Scintillant Néo-Spacien",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Le nom de cette carte peut être traité comme étant \"Limon Luminescent Néo-Spacien\". Cette carte ne peut pas être Invoquée Spécialement excepté avec \"NEX\". Lorsque cette carte attaque ou est attaquée, piochez 1 carte. Révélez cette carte et en fonction de son type, appliquez l'effet approprié :$N ●Monstre : La Battle Phase est terminée.$N ●Magie : Vous changez cette attaque en attaque directe.$N ●Piège : Ce monstre est changé en Position de Défense.",
+  "defense_power": "1100",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/01/26",
+  "species_id": 13,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 1,
+  "card_id": 14954,
+  "card_name": "HÉROE Elemental Neos Kluger",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"HÉROE Elemental Neos\" + \"Yubel\"$NDebe ser Invocado por Fusión. Antes del cálculo de daño, si esta carta batalla con un monstruo del adversario: puedes infligir daño a tu adversario igual al ATK de ese monstruo del adversario. Si esta carta boca arriba es destruida en batalla, o deja el Campo por efecto de una carta del adversario mientras su dueño la controla: puedes Invocar de Modo Especial, desde tu mano o Deck, 1 \"Sabio Neos\", ignorando sus condiciones de Invocación. Sólo puedes usar este efecto de \"HÉROE Elemental Neos Kluger\" una vez por turno.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/05/05",
+  "species_id": 18,
+  "starchip": "9"
+}

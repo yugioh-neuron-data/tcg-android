@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 19378,
+  "card_name": "騎士の絆",
+  "card_name_label": "フェイス・オブ・センチュリオン",
+  "card_name_search": "ふぇいすおぶせんちゅりおん",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。$N①：自分の手札・墓地から「センチュリオン」モンスター１体を永続罠カード扱いで自分の魔法＆罠ゾーンに表側表示で置く。$N②：このカードが墓地に存在する状態で、自分フィールドに「センチュリオン」Sモンスターが特殊召喚された場合、このカードを除外し、自分の墓地の「センチュリオン」モンスター１体を対象として発動できる。そのモンスターを永続罠カード扱いで自分の魔法＆罠ゾーンに表側表示で置く。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/08/26",
+  "species_id": 24,
+  "starchip": "0"
+}

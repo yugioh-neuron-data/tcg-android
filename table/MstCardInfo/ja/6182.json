@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 1,
+  "card_id": 6182,
+  "card_name": "エレメント・マジシャン",
+  "card_name_label": "エレメント・マジシャン",
+  "card_name_search": "えれめんとまじしゃん",
+  "card_pen_effect": "",
+  "card_text": "このモンスターはフィールド上に特定の属性を持つモンスターが存在する場合、以下の効果を得る。$N●水属性：このカードのコントロールを変更する事ができない。$N●風属性：このカードが戦闘によって相手モンスターを破壊した場合、もう一度だけ続けて攻撃を行う事ができる。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/08/05",
+  "species_id": 18,
+  "starchip": "4"
+}

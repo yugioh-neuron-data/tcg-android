@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 4,
+  "card_id": 16087,
+  "card_name": "ファドレミコード・ファンシア",
+  "card_name_label": "ファドレミコード・ファンシア",
+  "card_name_search": "ふぁどれみこーどふぁんしあ",
+  "card_pen_effect": "①：自分の「ドレミコード」PモンスターのP召喚は無効化されない。",
+  "card_text": "このカード名の①のモンスター効果は１ターンに１度しか使用できない。①：自分メインフェイズに発動できる。デッキから「ファドレミコード・ファンシア」以外の「ドレミコード」Pモンスター１体を選び、EXデッキに表側表示で加える。②：自分のPゾーンに奇数のPスケールが存在し、自分の「ドレミコード」Pモンスターが戦闘で破壊される場合、代わりにこのカードを破壊できる。",
+  "defense_power": "400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2021/03/06",
+  "species_id": 17,
+  "starchip": "4"
+}

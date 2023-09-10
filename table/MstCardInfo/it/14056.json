@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 2,
+  "card_id": 14056,
+  "card_name": "Re Destino Balerdroch",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante la Standby Phase, se una carta scoperta è in una Zona Terreno e questa carta è nel tuo Cimitero: puoi Evocare Specialmente questa carta in Posizione di Difesa. Puoi utilizzare questo effetto di \"Re Destino Balerdroch\" una sola volta per turno. Una volta per Catena, quando un mostro Zombie, eccetto \"Re Destino Balerdroch\", attiva il suo effetto (eccetto durante il Damage Step) (Effetto Rapido): puoi applicare 1 di questi effetti (ma non puoi applicare quello stesso effetto di \"Re Destino Balerdroch\" di nuovo in questo turno).$N●Annulla quell'effetto.$N●Bandisci 1 mostro dal Terreno o Cimitero.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/11/01",
+  "species_id": 2,
+  "starchip": "8"
+}

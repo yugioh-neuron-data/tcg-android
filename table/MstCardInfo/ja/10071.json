@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 1,
+  "card_id": 10071,
+  "card_name": "聖刻神龍－エネアード",
+  "card_name_label": "せいこくしんりゅう－エネアード",
+  "card_name_search": "せいこくしんりゅうえねあーど",
+  "card_pen_effect": "",
+  "card_text": "レベル８モンスター×２$N①：１ターンに１度、このカードのX素材を１つ取り除いて発動できる。自分の手札・フィールドのモンスターを任意の数だけリリースし、その数だけフィールドのカードを選んで破壊する。",
+  "defense_power": "2400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/02/18",
+  "species_id": 1,
+  "starchip": "8"
+}

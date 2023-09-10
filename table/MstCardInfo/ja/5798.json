@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 5798,
+  "card_name": "呪術抹消",
+  "card_name_label": "じゅじゅつまっしょう",
+  "card_name_search": "じゅじゅつまっしょう",
+  "card_pen_effect": "",
+  "card_text": "手札からカードを２枚捨てる。魔法カードの発動を無効にし、それを破壊する。さらに相手の手札とデッキを確認し、破壊した魔法カードと同名のカードがあった場合全て墓地へ送る。",
+  "defense_power": "0",
+  "effect_id": 1,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2003/02/20",
+  "species_id": 25,
+  "starchip": "0"
+}

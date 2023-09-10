@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 3,
+  "card_id": 12114,
+  "card_name": "EM 레인고트",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "①: 자신에게 데미지를 주는 마법 / 함정 / 몬스터의 효과가 발동했을 때, 이 카드를 패에서 버리고 발동할 수 있다. 그 효과로 자신이 받는 데미지를 0 으로 한다. ②: 자신 / 상대의 메인 페이즈에 이 카드를 패에서 버리고, 자신 필드의 \"EM(엔터메이트)\" 카드 또는 \"오드아이즈\" 카드 1장을 대상으로 하여 발동할 수 있다. 이 턴에, 그 카드는 전투 / 효과로는 파괴되지 않는다.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/02/01",
+  "species_id": 11,
+  "starchip": "1"
+}

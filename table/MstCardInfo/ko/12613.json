@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 3,
+  "card_id": 12613,
+  "card_name": "화합야수 하이드론 호크",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "①: 이 카드는 필드 / 묘지에 존재하는 한, 일반 몬스터로 취급한다. ②: 필드의 일반 몬스터 취급의 이 카드를 통상 소환으로서 1번 더 일반 소환할 수 있다. 그 경우 이 카드는 효과 몬스터로 취급되고, 이하의 효과를 얻는다.$N●패를 1장 버리고, 자신 묘지의 듀얼 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 몬스터를 수비 표시로 특수 소환한다. \"화합야수 하이드론 호크\"의 이 효과는 1턴에 1번밖에 사용할 수 없다.",
+  "defense_power": "700",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 9,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/10/20",
+  "species_id": 16,
+  "starchip": "2"
+}

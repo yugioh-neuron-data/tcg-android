@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 2,
+  "card_id": 8949,
+  "card_name": "幻角獣フュプノコーン",
+  "card_name_label": "げんかくじゅうフュプノコーン",
+  "card_name_search": "げんかくじゅうふゅぷのこーん",
+  "card_pen_effect": "",
+  "card_text": "相手フィールド上にモンスターが存在し、自分フィールド上にモンスターが存在しない場合にこのカードが召喚に成功した時、フィールド上にセットされた魔法・罠カード１枚を選択して破壊する事ができる。",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/04/17",
+  "species_id": 11,
+  "starchip": "4"
+}

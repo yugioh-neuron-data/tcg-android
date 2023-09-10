@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 2,
+  "card_id": 11787,
+  "card_name": "Magicien Xiangke",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Une fois par tour : vous pouvez cibler 1 Monstre Xyz face recto que vous contrôlez ; ce tour (même si cette carte quitte le Terrain), vous pouvez l'utiliser comme un Matériel Xyz pour une Invocation Xyz en utilisant son Rang comme Niveau.",
+  "card_text": "Une fois par tour, durant le tour de chaque joueur : vous pouvez cibler 1 monstre LUMIÈRE sur le Terrain ; jusqu'à la fin de ce tour, le monstre face recto a ses effets annulés.",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2015/08/06",
+  "species_id": 18,
+  "starchip": "7"
+}

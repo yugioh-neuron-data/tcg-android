@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 3,
+  "card_id": 17438,
+  "card_name": "水界の秘石－カトリン",
+  "card_name_label": "すいかいのひせき－カトリン",
+  "card_name_search": "すいかいのひせきかとりん",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードを手札から捨てて発動できる。このターン、自分は通常召喚に加えて１度だけ、自分メインフェイズに地・水属性モンスター１体を召喚できる。②：このカードが墓地に存在し、自分フィールドに地属性モンスター及び水属性モンスターが存在する場合に発動できる。このカードを特殊召喚する。この効果で特殊召喚したこのカードは、フィールドから離れた場合に除外される。",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/04/23",
+  "species_id": 6,
+  "starchip": "2"
+}

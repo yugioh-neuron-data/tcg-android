@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 1,
+  "card_id": 11966,
+  "card_name": "Caballero del Principio",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Un monstruo \"Soldado del Brillo Negro\" Invocado por Ritual usando esta carta gana estos efectos. Sólo puedes usar este efecto de \"Caballero del Principio\" una vez por turno.$N●Una vez por turno: puedes seleccionar 1 monstruo que controle tu adversario; destiérralo.$N●Cuando esta carta destruye un monstruo de tu adversario en batalla y lo manda al Cementerio: puedes activar este efecto; esta carta puede hacer un segundo ataque inmediatamente después.$NSi esta carta es desterrada del Cementerio: puedes añadir a tu mano 1 Carta Mágica de Ritual en tu Deck. Sólo puedes usar este efecto de \"Caballero del Principio\" una vez por turno.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/11/05",
+  "species_id": 15,
+  "starchip": "4"
+}

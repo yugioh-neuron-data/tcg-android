@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 18919,
+  "card_name": "Éjection de Feu",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Envoyez 1 monstre Pyro depuis votre Deck au Cimetière, puis, si vous avez envoyé un monstre \"Volcanique\" au Cimetière, vous pouvez appliquer 1 de ces effets.$N●Infligez des dommages à votre adversaire égaux à son Niveau x 100.$N●Invoquez Spécialement 1 \"Jeton Bombe\" (Pyro/FEU/Niveau 1/ATK 1000/DEF 1000) sur le Terrain de votre adversaire. Chaque fois qu'1 est détruit, son contrôleur reçoit 500 points de dommages.$NVous ne pouvez activer qu'1 \"Éjection de Feu\" par tour.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/08/10",
+  "species_id": 24,
+  "starchip": "0"
+}

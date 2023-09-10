@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14228,
+  "card_name": "Decodificador Destrucción",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Selecciona 1 \"Decodificador Hablador\" que controles; aplica los siguientes efectos este turno, dependiendo del número de monstruos a los que apunte en este momento.$N●1+: Ese monstruo gana 500 ATK por cada monstruo al que apunte en este momento.$N●2+: Los monstruos destruidos en batalla por ese monstruo son desterrados después del cálculo de daño.$N●3: Después del cálculo de daño, si ese monstruo destruye el monstruo de tu adversario en batalla: destruye todas las cartas que controle tu adversario.$NSólo puedes activar 1 \"Decodificador Destrucción\" por turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/04/04",
+  "species_id": 24,
+  "starchip": "0"
+}

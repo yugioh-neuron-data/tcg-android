@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 1,
+  "card_id": 12626,
+  "card_name": "Ciber Ángel Vrash",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Puedes Invocar esta carta por Ritual con \"Ritual del Ángel Mecánico\". Si esta carta es Invocada por Ritual: puedes destruir tantos monstruos boca arriba que controle tu adversario y que hayan sido Invocados de Modo Especial desde el Deck Extra como sea posible y, si lo haces, inflige 1000 puntos de daño a tu adversario por cada uno y, si haces eso, este turno esta carta puede hacer un segundo ataque durante cada Battle Phase. Una vez por turno, durante el turno de cualquier jugador, cuando es activada una carta o efecto que fuera a destruir una carta en el Campo: puedes barajar al Deck 1 Monstruo de Ritual en tu Cementerio; niega la activación y, si lo haces, destruye esa carta.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 5,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/11/03",
+  "species_id": 17,
+  "starchip": "10"
+}

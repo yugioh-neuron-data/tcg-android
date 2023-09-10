@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 5,
+  "card_id": 13370,
+  "card_name": "Démone Subterreur Béhémoth",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 monstres Flip$NGagne une ATK égale à la somme des Niveaux d'origine des monstres \"Subterreur\" utilisés pour son Invocation Lien x 100. Durant votre Main Phase : vous pouvez envoyer 1 monstre Flip depuis votre Deck au Cimetière, et si vous le faites, Invoquez Spécialement 1 monstre depuis votre main en Position de Défense face verso dans votre zone pointée par cette carte. Vous ne pouvez utiliser cet effet de \"Démone Subterreur Béhémoth\" qu'une fois par tour. Une fois par tour, si un monstre pointé par cette carte est retourné face recto : ajoutez 1 monstre Flip depuis votre Deck ou Cimetière à votre main.",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "13",
+  "linkno": "2",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/10/19",
+  "species_id": 26,
+  "starchip": ""
+}

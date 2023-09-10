@@ -1,0 +1,23 @@
+{
+  "attack_power": "3500",
+  "attribute_id": 1,
+  "card_id": 14484,
+  "card_name": "Avida, Reconstructora de Mundos",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "No puede ser Invocada de Modo Normal/Colocada. Debe ser Invocada de Modo Especial (desde tu mano) habiendo al menos 8 o más Monstruos de Enlace con nombres diferentes en el Campo y/o los Cementerios. No puedes Invocar otros monstruos de Modo Especial en el turno que Invocaste esta carta de Modo Especial. La Invocación Especial de esta carta no puede ser negada. Si esta carta es Invocada de Modo Especial: baraja a los Decks todos los otros monstruos desterrados, en el Campo, y en los Cementerios. Ningún jugador puede activar cartas o efectos en respuesta a la activación de este efecto.",
+  "defense_power": "3500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/07/26",
+  "species_id": 27,
+  "starchip": "11"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2300",
+  "attribute_id": 4,
+  "card_id": 15007,
+  "card_name": "Guerriers Anciens - Terrifiant Zhang Yuan",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Tous les autres monstres \"Guerriers Anciens\" que vous contrôlez ne peuvent pas être détruits au combat. Vous ne pouvez utiliser chacun des effets suivants de \"Guerriers Anciens - Terrifiant Zhang Yuan\" qu'une fois par tour.$N●Au début de la Damage Step, lorsque votre monstre \"Guerriers Anciens\" combat un monstre face recto de l'adversaire : vous pouvez Invoquer Spécialement cette carte depuis votre main, et si vous le faites, le monstre de l'adversaire perd 1000 ATK.$N●Si une ou plusieurs cartes contrôlées par votre adversaire sont détruites au combat ou par un effet de carte : vous pouvez cibler 1 carte contrôlée par votre adversaire ; détruisez-la.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/30",
+  "species_id": 12,
+  "starchip": "6"
+}

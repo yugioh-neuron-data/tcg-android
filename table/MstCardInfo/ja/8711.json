@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 8711,
+  "card_name": "A・ジェネクス・クラッシャー",
+  "card_name_label": "アーリー・ジェネクス・クラッシャー",
+  "card_name_search": "あーりーじぇねくすくらっしゃー",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上のこのカードと同じ属性のモンスターが自分フィールド上に召喚された時、相手フィールド上のカード１枚を選択して破壊できる。この効果は１ターンに１度しか使用できない。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/01/21",
+  "species_id": 7,
+  "starchip": "4"
+}

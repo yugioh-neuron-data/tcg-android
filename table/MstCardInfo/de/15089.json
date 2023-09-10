@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 5,
+  "card_id": 15089,
+  "card_name": "Maschinenwesen Zitadelle",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss durch einen Karteneffekt als Spezialbeschwörung beschworen werden. (Schnelleffekt): Du kannst 1 Maschine-Monster wählen, das du kontrollierst; zerstöre das Maschine-Monster und alle Monster mit weniger oder gleich viel ATK, die dein Gegner kontrolliert. Falls ein oder mehr offene ERDE Maschine-Monster, die du kontrollierst, außer „Maschinenwesen Zitadelle“, durch Kampf oder einen Karteneffekt zerstört werden, solange sich diese Karte in deinem Friedhof befindet: Du kannst diese Karte als Spezialbeschwörung beschwören. Du kannst jeden Effekt von „Maschinenwesen Zitadelle“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/16",
+  "species_id": 7,
+  "starchip": "10"
+}

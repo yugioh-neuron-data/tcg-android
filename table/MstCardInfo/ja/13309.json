@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 3,
+  "card_id": 13309,
+  "card_name": "影六武衆－ハツメ",
+  "card_name_label": "かげろくぶしゅう－ハツメ",
+  "card_name_search": "かげろくぶしゅうはつめ",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①の効果は１ターンに１度しか使用できない。①：自分の墓地及び自分フィールドの表側表示モンスターの中から、「六武衆」モンスター２体を除外し、「影六武衆－ハツメ」以外の自分の墓地の「六武衆」モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。②：自分フィールドの「六武衆」モンスター１体のみが効果で破壊される場合、代わりに墓地のこのカードを除外できる。",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/08/11",
+  "species_id": 15,
+  "starchip": "3"
+}

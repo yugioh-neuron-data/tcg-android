@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 6,
+  "card_id": 11621,
+  "card_name": "ラッシュ・ウォリアー",
+  "card_name_label": "ラッシュ・ウォリアー",
+  "card_name_search": "らっしゅうぉりあー",
+  "card_pen_effect": "",
+  "card_text": "「ラッシュ・ウォリアー」の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分の「ウォリアー」Sモンスターが相手モンスターと戦闘を行うダメージ計算時、このカードを手札から墓地へ送って発動できる。その戦闘を行う自分のモンスターの攻撃力は、そのダメージ計算時のみ倍になる。②：墓地のこのカードを除外し、自分の墓地の「シンクロン」モンスター１体を対象として発動できる。そのモンスターを手札に加える。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/12/06",
+  "species_id": 15,
+  "starchip": "2"
+}

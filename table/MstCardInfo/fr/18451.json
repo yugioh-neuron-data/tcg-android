@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 1,
+  "card_id": 18451,
+  "card_name": "Taurorphée l'Harmonieux Barde Matador",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Ni Invocable Normalement ni Posable Normalement. Uniquement Invocable Spécialement (depuis votre main) en bannissant 2 monstres LUMIÈRE et 2 monstres TÉNÈBRES (cette carte exclue) depuis votre main et/ou Cimetière. Si elle est Invoquée de cette façon, cette carte gagne 1000 ATK pour chaque monstre banni depuis votre main pour son Invocation, et elle peut attaquer un nombre de fois chaque Battle Phase, inférieur ou égal au nombre de monstres bannis depuis le Cimetière pour son Invocation. Si cette carte détruit un monstre de l'adversaire au combat, après le calcul des dommages : vous pouvez bannir le monstre de l'adversaire.",
+  "defense_power": "2400",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/02/06",
+  "species_id": 12,
+  "starchip": "8"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 17180,
+  "card_name": "Escala de Pêndulo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se você tiver 2 cards nas suas Zonas de Pêndulo: aplique o seguinte efeito, de acordo com a diferença nas Escalas de Pêndulo.$N●0: Destrua 2 Magias/Armadilhas no campo.$N●1, 2 ou 3: Adicione 1 Monstro Pêndulo de Nível 2, 3 ou 4 do seu Deck à sua mão.$N●4, 5 ou 6: Adicione 1 Monstro Pêndulo de Nível 5, 6 ou 7 do seu Deck à sua mão.$N●7+: Devolva até 2 cards da(s) sua(s) Zona(s) de Pêndulo para a mão e, depois, você pode Invocar por Invocação-Especial 1 Monstro Pêndulo da sua mão.$NVocê só pode ativar 1 \"Escala de Pêndulo\" por turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/05/19",
+  "species_id": 25,
+  "starchip": "0"
+}

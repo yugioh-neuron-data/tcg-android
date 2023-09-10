@@ -1,0 +1,23 @@
+{
+  "attack_power": "2300",
+  "attribute_id": 3,
+  "card_id": 8196,
+  "card_name": "神海竜ギシルノドン",
+  "card_name_label": "しんかいりゅうギシルノドン",
+  "card_name_search": "しんかいりゅうぎしるのどん",
+  "card_pen_effect": "",
+  "card_text": "チューナー＋チューナー以外のレベル３モンスター１体$Nフィールド上に表側表示で存在するレベル３以下のモンスターが墓地へ送られた時、このカードの攻撃力はエンドフェイズ時まで３０００になる。",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/02/14",
+  "species_id": 5,
+  "starchip": "5"
+}

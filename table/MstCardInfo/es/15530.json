@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15530,
+  "card_name": "Fuerza Magia de Subida de Rango Caballeros Fantasma",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante la Main Phase: destierra 1 o más monstruos de OSCURIDAD en tu Cementerio, y después selecciona 1 Monstruo Xyz de OSCURIDAD que controles; Invoca de Modo Especial, desde tu Deck Extra, 1 Monstruo Xyz \"Los Caballeros Fantasma\", \"Asaltorrapaz\" o \"Dragón Xyz\", cuyo Rango sea igual que el del monstruo seleccionado que controlas + el número de monstruos desterrados, usándolo como material, y además por el resto de este turno después de que esta carta se resuelva no puedes Invocar monstruos de Modo Especial desde el Deck Extra, excepto Monstruos Xyz. (Esto se trata como una Invocación Xyz. Transfiere sus materiales al monstruo Invocado). Sólo puedes activar 1 \"Fuerza Magia de Subida de Rango Caballeros Fantasma\" por turno.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/11/05",
+  "species_id": 24,
+  "starchip": "0"
+}

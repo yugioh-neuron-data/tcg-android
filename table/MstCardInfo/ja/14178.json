@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14178,
+  "card_name": "冷薔薇の抱香",
+  "card_name_label": "フローズン・ロアーズ",
+  "card_name_search": "ふろーずんろあーず",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：自分フィールドの表側表示モンスター１体を墓地へ送って発動できる。そのモンスターの種族によって以下の効果を適用する。$N●植物族：このターンのエンドフェイズに、自分はデッキから２枚ドローし、その後手札を１枚選んで捨てる。$N●植物族以外：デッキからレベル４以下の植物族モンスター１体を手札に加える。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/11/10",
+  "species_id": 24,
+  "starchip": "0"
+}

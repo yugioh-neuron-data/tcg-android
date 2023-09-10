@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 14342,
+  "card_name": "Dragon Anthélie des Ténèbres",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Une fois par tour : vous pouvez cibler 1 monstre face recto contrôlé par votre adversaire ; jusqu'à la fin de ce tour (même si cette carte quitte le Terrain), divisez par deux son ATK d'origine.",
+  "card_text": "2 monstres de Niveau 7$NSi vous pouvez effectuer une Invocation Pendule de Niveau 7, vous pouvez Invoquer par Pendulation cette carte face recto dans votre Extra Deck. Une fois par tour (Effet Rapide) : vous pouvez détacher 1 Matériel de cette carte, puis ciblez 1 monstre face recto contrôlé par votre adversaire ; jusqu'à la fin de ce tour, son ATK devient la moitié de son ATK actuelle, et si elle le devient, cette carte gagne l'ATK perdue. Si cette carte dans la Zone Monstre est détruite au combat ou par un effet de carte : vous pouvez placer cette carte dans votre Zone Pendule.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 34,
+  "pen_scale_l": "10",
+  "pen_scale_r": "10",
+  "sales_at": "2020/03/19",
+  "species_id": 1,
+  "starchip": "7"
+}

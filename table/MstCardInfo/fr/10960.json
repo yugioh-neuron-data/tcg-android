@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 10960,
+  "card_name": "Manège Fantôruse",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Une fois par tour, durant la Battle Phase : vous pouvez activer 1 de ces effets.$N●Ciblez 1 monstre \"Fantôruse\" que vous contrôlez ; changez la cible en Position de Défense face verso, et si vous le faites, changez 1 monstre en Position de Défense face verso contrôlé par votre adversaire en Position d'Attaque face recto.$N●Ciblez 1 monstre en Position de Défense face verso que vous contrôlez ; changez la cible en Position d'Attaque face recto, et si c'est un monstre \"Fantôruse\", changez 1 monstre face recto contrôlé par votre adversaire en Position de Défense face verso.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/01/24",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 1,
+  "card_id": 13039,
+  "card_name": "Artilugio Ciberso",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando esta carta es Invocada de Modo Normal: puedes seleccionar 1 monstruo de Nivel 2 o menor en tu Cementerio; Invócalo de Modo Especial en Posición de Defensa, pero sus efectos son negados. Si esta carta es mandada del Campo al Cementerio: puedes Invocar de Modo Especial 1 \"Ficha Artilugio\" (Ciberso/LUZ/Nivel 2/ATK 0/DEF 0). Sólo puedes usar este efecto de \"Artilugio Ciberso\" una vez por turno.",
+  "defense_power": "300",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/08/09",
+  "species_id": 27,
+  "starchip": "4"
+}

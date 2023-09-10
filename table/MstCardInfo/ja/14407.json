@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 1,
+  "card_id": 14407,
+  "card_name": "ウィッチクラフト・エーデル",
+  "card_name_label": "ウィッチクラフト・エーデル",
+  "card_name_search": "うぃっちくらふとえーでる",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：手札から魔法カード１枚を捨てて発動できる。手札から「ウィッチクラフト・エーデル」以外の「ウィッチクラフト」モンスター１体を特殊召喚する。この効果は相手ターンでも発動できる。②：このカードをリリースし、自分の墓地の「ウィッチクラフト・エーデル」以外の魔法使い族モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。",
+  "defense_power": "2300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/02/23",
+  "species_id": 18,
+  "starchip": "5"
+}

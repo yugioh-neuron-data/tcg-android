@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14860,
+  "card_name": "Attaque TA.I.",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durant le calcul des dommages, si votre monstre combat un monstre de l'adversaire : durant ce calcul des dommages uniquement, l'ATK de votre monstre combattant devient l'ATK du monstre de l'adversaire, et aussi, le contrôleur d'un monstre détruit par ce combat reçoit des points de dommages égaux à son ATK d'origine, à la fin de la Damage Step. Si votre monstre \"@Ignister\" va être détruit au combat, vous pouvez bannir cette carte depuis votre Cimetière à la place. Vous ne pouvez activer qu'1 \"Attaque TA.I.\" par tour.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/01/30",
+  "species_id": 24,
+  "starchip": "0"
+}

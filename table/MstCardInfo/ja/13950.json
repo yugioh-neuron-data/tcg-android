@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13950,
+  "card_name": "深淵の宣告者",
+  "card_name_label": "しんえんのせんこくしゃ",
+  "card_name_search": "しんえんのせんこくしゃ",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：１５００LPを払い、種族と属性を１つずつ宣言して発動できる。宣言した種族・属性のモンスターが相手フィールドに存在する場合、相手はそのモンスター１体を墓地へ送らなければならない。このターン、相手はそのモンスター及びその同名モンスターのモンスター効果を発動できない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/07/14",
+  "species_id": 24,
+  "starchip": "0"
+}

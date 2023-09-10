@@ -1,0 +1,23 @@
+{
+  "attack_power": "1300",
+  "attribute_id": 6,
+  "card_id": 11252,
+  "card_name": "Hipnohermana",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Esta carta gana efectos basados en la cantidad total de cartas en las Zonas de Péndulo de ambos jugadores.$N●1 o más: Esta carta gana 800 ATK y DEF.$N●2 o más: Al comienzo del Damage Step, si esta carta batalla con un monstruo Invocado por Péndulo: destruye ese monstruo.$N●3 o más: Si pueden, los monstruos que controle tu adversario deben atacar a esta carta.$N●4: Si esta carta destruye un monstruo en batalla o por su propio efecto: roba 1 carta.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/08/14",
+  "species_id": 21,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 4948,
+  "card_name": "強制接収",
+  "card_name_label": "きょうせいせっしゅう",
+  "card_name_search": "きょうせいせっしゅう",
+  "card_pen_effect": "",
+  "card_text": "自分が手札を捨てた時に発動する事ができる。その後自分が手札を捨てる度に、相手は同じ枚数分手札を選択して捨てる。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2000/09/28",
+  "species_id": 25,
+  "starchip": "0"
+}

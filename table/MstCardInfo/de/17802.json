@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 2,
+  "card_id": 17802,
+  "card_name": "Wollow, Gründer der Arbeitsdrachen",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2+ Monster der Stufe 6$NMonster, die du kontrollierst, erhalten für jede Karte im Friedhof deines Gegners 100 ATK/DEF. (Schnelleffekt): Du kannst 1 Karte im Friedhof deines Gegners wählen, 1 oder 2 Material von dieser Karte abhängen und dann den entsprechenden Effekt aktivieren;$N●1: Lege sie ins Deck zurück.$N●2: Falls das gewählte Ziel ein Monster ist, beschwöre es als Spezialbeschwörung offen oder in die verdeckte Verteidigungsposition auf deine Spielfeldseite. Falls nicht, setze es auf deine Spielfeldseite.$NDu kannst diesen Effekt von „Wollow, Gründer der Arbeitsdrachen“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "1300",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/10/20",
+  "species_id": 2,
+  "starchip": "6"
+}

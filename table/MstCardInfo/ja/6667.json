@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 6667,
+  "card_name": "ガードペナルティ",
+  "card_name_label": "ガードペナルティ",
+  "card_name_search": "がーどぺなるてぃ",
+  "card_pen_effect": "",
+  "card_text": "フィールド上のモンスター１体を選択する。このターン選択したモンスターが守備表示になった場合、自分のデッキからカードを１枚ドローする。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/02/16",
+  "species_id": 24,
+  "starchip": "0"
+}

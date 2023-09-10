@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 9271,
+  "card_name": "Changement de Masque II",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Défaussez 1 carte, puis ciblez 1 monstre face recto que vous contrôlez qui a un Niveau ; envoyez-le au Cimetière, et aussi, après ça, s'il a quitté le Terrain par cet effet, Invoquez Spécialement 1 monstre \"HÉROS Masqué\" du même Attribut que le monstre avait lorsqu'il était sur le Terrain, mais d'un Niveau supérieur à celui que le monstre avait lorsqu'il était sur le Terrain (son Attribut/Niveau d'origine, si face verso) depuis votre Extra Deck. (Ceci est traité comme une Invocation Spéciale avec \"Changement de Masque\".) Vous ne pouvez activer qu'1 \"Changement de Masque II\" par tour.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/01/29",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15643,
+  "card_name": "Fafnir Drytron",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando esta carta es activada: puedes añadir a tu mano 1 Mágica/Trampa \"Drytron\" en tu Deck, excepto \"Fafnir Drytron\". La activación y los efectos activados de Cartas Mágicas de Ritual no pueden ser negados. Una vez por turno, si un monstruo es Invocado de Modo Normal o Especial boca arriba mientras controlas un monstruo \"Drytron\" (excepto durante el Damage Step): por el resto de este turno puedes reducir el Nivel de ese monstruo en 1 por cada 1000 de su ATK en este momento (mín. Nivel 1). Sólo puedes activar 1 \"Fafnir Drytron\" por turno.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/12/03",
+  "species_id": 24,
+  "starchip": "0"
+}

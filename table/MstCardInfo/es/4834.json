@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 4834,
+  "card_name": "Escudo Mágico de Brazo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando un monstruo del adversario declara un ataque mientras controla 2 o más monstruos boca arriba y tú controlas un monstruo: selecciona 1 monstruo boca arriba que controle tu adversario, excepto el monstruo atacante; toma el control de ese monstruo boca arriba (hasta el final de la Battle Phase) y, si lo haces, cambia el objetivo del ataque a ese y haz el cálculo de daño.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/04/28",
+  "species_id": 25,
+  "starchip": "0"
+}

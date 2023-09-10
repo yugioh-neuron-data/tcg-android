@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 3,
+  "card_id": 16100,
+  "card_name": "Mégapolaire Ursarctique",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durant la Main Phase (Effet Rapide) : vous pouvez Sacrifier 1 autre monstre de min. Niveau 7 depuis votre main ; Invoquez Spécialement cette carte depuis votre main, et aussi, vous ne pouvez pas Invoquer Spécialement (monstres avec un Niveau exclus) le reste de ce tour. Si cette carte est Invoquée Spécialement tant que vous contrôlez un autre monstre \"Ursarctique\" : vous pouvez cibler 1 Magie/Piège contrôlé par votre adversaire ; détruisez-le. Vous ne pouvez utiliser chaque effet de \"Mégapolaire Ursarctique\" qu'une fois par tour.",
+  "defense_power": "700",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/05/06",
+  "species_id": 12,
+  "starchip": "8"
+}

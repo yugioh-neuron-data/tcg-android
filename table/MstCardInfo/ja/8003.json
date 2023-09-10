@@ -1,0 +1,23 @@
+{
+  "attack_power": "2200",
+  "attribute_id": 5,
+  "card_id": 8003,
+  "card_name": "ローズ・テンタクルス",
+  "card_name_label": "ローズ・テンタクルス",
+  "card_name_search": "ろーずてんたくるす",
+  "card_pen_effect": "",
+  "card_text": "このカードは特殊召喚できない。自分のバトルフェイズ開始時に相手フィールド上に表側表示で植物族モンスターが存在する場合、このターンこのカードは通常の攻撃に加えて、その植物族モンスターの数だけ攻撃する事ができる。このカードが戦闘によって植物族モンスターを破壊した場合、相手ライフに３００ポイントダメージを与える。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/02/14",
+  "species_id": 13,
+  "starchip": "6"
+}

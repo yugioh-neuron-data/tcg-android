@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 4,
+  "card_id": 13668,
+  "card_name": "閃刀姫－カガリ",
+  "card_name_label": "せんとうき－カガリ",
+  "card_name_search": "せんとうきかがり",
+  "card_pen_effect": "",
+  "card_text": "炎属性以外の「閃刀姫」モンスター１体$N自分は「閃刀姫－カガリ」を１ターンに１度しか特殊召喚できない。①：このカードが特殊召喚に成功した場合、自分の墓地の「閃刀」魔法カード１枚を対象として発動できる。そのカードを手札に加える。②：このカードの攻撃力は自分の墓地の魔法カードの数×１００アップする。",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "7",
+  "linkno": "1",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/02/24",
+  "species_id": 7,
+  "starchip": ""
+}

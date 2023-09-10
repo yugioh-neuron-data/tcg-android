@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 2,
+  "card_id": 12201,
+  "card_name": "幻影騎士団クラックヘルム",
+  "card_name_label": "ファントム・ナイツクラックヘルム",
+  "card_name_search": "ふぁんとむないつくらっくへるむ",
+  "card_pen_effect": "",
+  "card_text": "「幻影騎士団クラックヘルム」の①②の効果はそれぞれ１ターンに１度しか使用できない。①：「幻影騎士団」カードまたは「ファントム」魔法・罠カードが自分の墓地へ送られた場合に発動する。このカードの攻撃力は５００アップする。②：墓地のこのカードを除外して発動できる。このターンのエンドフェイズに、自分の墓地から「幻影騎士団」カードまたは「ファントム」魔法・罠カード１枚を選んで手札に加える。",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/11/14",
+  "species_id": 15,
+  "starchip": "4"
+}

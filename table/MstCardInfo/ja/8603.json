@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 5,
+  "card_id": 8603,
+  "card_name": "地底のアラクネー",
+  "card_name_label": "ちていのアラクネー",
+  "card_name_search": "ちていのあらくねー",
+  "card_pen_effect": "",
+  "card_text": "闇属性チューナー＋チューナー以外の昆虫族モンスター１体$Nこのカードが攻撃する場合、相手はダメージステップ終了時まで魔法・罠カードを発動する事ができない。１ターンに１度、相手フィールド上に表側表示で存在するモンスターを装備カード扱いとしてこのカードに１体のみ装備する事ができる。このカードが戦闘によって破壊される場合、代わりにこの効果で装備したモンスターを破壊する事ができる。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/08/21",
+  "species_id": 10,
+  "starchip": "6"
+}

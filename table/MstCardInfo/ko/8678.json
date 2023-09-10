@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 8678,
+  "card_name": "메테오 프로미넌스",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "상대 라이프가 3000 포인트보다도 많을 경우, 패를 2장 묘지로 보내고 발동할 수 있다. 상대 라이프에 2000 포인트 데미지를 준다. 이 카드가 묘지에 존재할 경우, 자신의 드로우 페이즈시에 일반 드로우를 실행하는 대신에, 이 카드를 패에 넣을 수 있다.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/02/23",
+  "species_id": 25,
+  "starchip": "0"
+}

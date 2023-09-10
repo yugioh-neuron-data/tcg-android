@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16547,
+  "card_name": "Rebote Reptílico",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Puedes seleccionar 1 monstruo que controles con 0 ATK y 1 monstruo Reptil de OSCURIDAD en tu Cementerio; destruye ese monstruo en el Campo y, si lo haces, Invoca ese otro monstruo de Modo Especial desde el Cementerio. Si tu adversario activa un efecto de monstruo: puedes seleccionar 1 monstruo que controle tu adversario con 0 ATK; toma el control de éste, y después Invoca de Modo Especial 1 \"Ficha Reptílica\" (Reptil/TIERRA/Nivel 1/ATK 0/DEF 0) al Campo de tu adversario. Sólo puedes usar cada efecto de \"Rebote Reptílico\" una vez por turno.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/11/04",
+  "species_id": 24,
+  "starchip": "0"
+}

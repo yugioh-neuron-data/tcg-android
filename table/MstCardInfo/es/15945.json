@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 5,
+  "card_id": 15945,
+  "card_name": "Roca de Guerra Fortia",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si tu monstruo Guerrero de TIERRA batalla, después del cálculo de daño: puedes añadir a tu mano 1 carta \"Roca de Guerra\" en tu Deck, excepto \"Roca de Guerra Fortia\", y después todos los monstruos \"Roca de Guerra\" que controles en este momento ganan 200 ATK hasta el final del turno de tu adversario. Si esta carta es mandada de tu Zona de Monstruos a tu Cementerio por efecto de una carta del adversario: puedes Invocar de Modo Especial, desde tu mano o Deck, 1 monstruo \"Roca de Guerra\" de Nivel 5 o mayor. Sólo puedes usar cada efecto de \"Roca de Guerra Fortia\" una vez por turno.",
+  "defense_power": "1700",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/02/04",
+  "species_id": 15,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "4000",
+  "attribute_id": 6,
+  "card_id": 12998,
+  "card_name": "Dragón Cósmico Blazar",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Monstruo de Sincronía Cantante + 2+ Monstruos de Sincronía que no sean Cantantes$NDebe ser Invocado por Sincronía. (Efecto Rápido): puedes desterrar esta carta hasta la End Phase para activar 1 de estos efectos;$N●Cuando tu adversario activa una carta o efecto: niega la activación y, si lo haces, destruye esa carta.$N●Cuando tu adversario fuera a Invocar uno o más monstruos: niega la Invocación y, si lo haces, destruye ese o esos monstruos.$N●Cuando un monstruo del adversario declara un ataque: niega el ataque, y después termina la Battle Phase.",
+  "defense_power": "4000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/03/30",
+  "species_id": 1,
+  "starchip": "12"
+}

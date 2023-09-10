@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 1,
+  "card_id": 15709,
+  "card_name": "魔轟神マルコシア",
+  "card_name_label": "まごうしんマルコシア",
+  "card_name_search": "まごうしんまるこしあ",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが手札に存在する場合に発動できる。「魔轟神」モンスターを含む、「魔轟神マルコシア」以外の手札のモンスターを２体まで捨て、このカードを特殊召喚する。この効果で特殊召喚したこのカードの攻撃力は、この効果で捨てたモンスターの数×２００アップする。②：このカードが手札から墓地へ捨てられた場合に発動する。デッキから「魔轟神」魔法・罠カード１枚を手札に加える。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/10/31",
+  "species_id": 3,
+  "starchip": "4"
+}

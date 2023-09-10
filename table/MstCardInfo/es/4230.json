@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 5,
+  "card_id": 4230,
+  "card_name": "Amo de Trampa",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "VOLTEO: Destruye 1 Carta de Trampa en el campo. Si el objetivo de esta carta está boca abajo, lo voltea boca arriba. Si la carta es una Carta de Trampa, es destruida. Si no, es devuelta a su posición boca abajo. La carta volteada no se activa.",
+  "defense_power": "1100",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 24,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/03/29",
+  "species_id": 15,
+  "starchip": "3"
+}

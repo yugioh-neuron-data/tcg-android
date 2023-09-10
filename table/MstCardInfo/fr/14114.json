@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 14114,
+  "card_name": "Dragon Sauvage Chargeborrelle",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Syntoniseur + 1+ monstre non-Syntoniseur$NSi cette carte est Invoquée par Synchronisation : vous pouvez équiper 1 Monstre Lien depuis votre Cimetière à cette carte, et si vous le faites, placez un nombre de Compteurs Borrelle sur cette carte égal à la Classification Lien du Monstre Lien. Cette carte gagne une ATK égale à la moitié de l'ATK du monstre qui lui est équipé par son effet. Lorsque votre adversaire active une carte ou un effet (Effet Rapide) : vous pouvez retirer 1 Compteur Borrelle de cette carte ; annulez l'activation. Vous ne pouvez utiliser cet effet de \"Dragon Sauvage Chargeborrelle\" qu'une fois par tour.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/01/31",
+  "species_id": 1,
+  "starchip": "8"
+}

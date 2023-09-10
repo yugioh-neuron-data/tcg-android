@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 9629,
+  "card_name": "スーパーバグマン",
+  "card_name_label": "スーパーバグマン",
+  "card_name_search": "すーぱーばぐまん",
+  "card_pen_effect": "",
+  "card_text": "このカードは通常召喚できない。自分の墓地に存在する「バグマンX」「バグマンY」「バグマンZ」をゲームから除外した場合に表側守備表示で特殊召喚する事ができる。このカードがフィールド上に表側表示で存在する限り、フィールド上に表側攻撃表示で存在する全てのモンスターの攻撃力・守備力を入れ替える。「スーパーバグマン」はフィールド上に１体しか表側表示で存在できない。",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/04/16",
+  "species_id": 3,
+  "starchip": "4"
+}

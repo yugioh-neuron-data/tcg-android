@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 15081,
+  "card_name": "Botín de la Patrulla Saqueo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Puedes declarar 1 Atributo, y después selecciona 1 monstruo boca arriba que controle tu adversario; éste se convierte en un monstruo con ese Atributo hasta el final de este turno (aun si esta carta deja el Campo), y después puedes tomar 1 monstruo \"Patrulla Saqueo\" de tu Cementerio, y barajarlo en el Deck o Invocarlo de Modo Especial. Sólo puedes usar este efecto de \"Botín de la Patrulla Saqueo\" una vez por turno. Una vez por turno, durante la End Phase, si no controlas monstruos \"Patrulla Saqueo\": manda esta carta al Cementerio.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/01/30",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "200",
+  "attribute_id": 1,
+  "card_id": 5424,
+  "card_name": "Giara Dado",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "SCOPRI: Entrambi i giocatori tirano un dado a sei facce. Il giocatore con il risultato inferiore subisce danno pari al risultato del tiro del suo avversario x 500. Tuttavia, se il vincitore ha tirato un 6, il perdente subisce 6000 danni. Se i risultati sono uguali, entrambi i giocatori tirano ancora.",
+  "defense_power": "300",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 24,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/07/22",
+  "species_id": 6,
+  "starchip": "3"
+}

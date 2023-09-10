@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 6,
+  "card_id": 10644,
+  "card_name": "幻獣機コンコルーダ",
+  "card_name_label": "げんじゅうきコンコルーダ",
+  "card_name_search": "げんじゅうきこんこるーだ",
+  "card_pen_effect": "",
+  "card_text": "チューナー＋チューナー以外のモンスター１体以上$Nこのカードがフィールド上に表側表示で存在する限り、自分フィールド上のトークンは戦闘及び効果では破壊されない。フィールド上のこのカードが相手によって破壊され墓地へ送られた場合、自分フィールド上のトークンを全てリリースして発動できる。自分の墓地からレベル４以下の「幻獣機」と名のついたモンスター１体を選択して特殊召喚する。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/04/20",
+  "species_id": 7,
+  "starchip": "7"
+}

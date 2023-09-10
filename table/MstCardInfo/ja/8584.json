@@ -1,0 +1,23 @@
+{
+  "attack_power": "1900",
+  "attribute_id": 2,
+  "card_id": 8584,
+  "card_name": "ファイターズ・エイプ",
+  "card_name_label": "ファイターズ・エイプ",
+  "card_name_search": "ふぁいたーずえいぷ",
+  "card_pen_effect": "",
+  "card_text": "このカードが戦闘によって相手モンスターを破壊した場合、このカードの攻撃力は３００ポイントアップする。このカードが自分のターンで攻撃を行っていない場合、この効果でアップした数値はそのターンのエンドフェイズ時に０に戻る。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/04/21",
+  "species_id": 11,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 3,
+  "card_id": 15114,
+  "card_name": "Erica la Fata Rikka",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Quando viene dichiarato un attacco che coinvolge un altro mostro Pianta che controlli: puoi offrire come Tributo questa carta dalla tua mano o Terreno scoperto; quel mostro che controlli guadagna 1000 ATK/DEF fino alla fine di questo turno. Se uno o più mostri Pianta che controlli vengono offerti come Tributo, mentre questa carta è nel tuo Cimitero (eccetto durante il Damage Step): puoi Evocare Specialmente questa carta in Posizione di Difesa, ma bandiscila quando lascia il Terreno. Puoi utilizzare ogni effetto di \"Erica la Fata Rikka\" una sola volta per turno.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/02",
+  "species_id": 13,
+  "starchip": "6"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "200",
+  "attribute_id": 5,
+  "card_id": 18495,
+  "card_name": "Fana aux Oreilles de Lapin",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Une fois par Chaîne, lorsqu'un monstre sur le Terrain (\"Fana aux Oreilles de Lapin\" exclu) active son effet (Effet Rapide) : vous pouvez placer 1 Compteur Oreilles de Lapin sur lui, et il ne peut pas être détruit au combat tant qu'il a le Compteur. Une fois par tour (Effet Rapide) : vous pouvez cibler 1 monstre avec un Compteur Oreilles de Lapin ; jusqu'à la Standby Phase du prochain tour, bannissez-le ainsi que cette carte.",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/05/04",
+  "species_id": 12,
+  "starchip": "1"
+}

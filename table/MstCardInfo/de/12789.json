@@ -1,0 +1,23 @@
+{
+  "attack_power": "-1",
+  "attribute_id": 5,
+  "card_id": 12789,
+  "card_name": "Zoodiak-Eberbogen",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "5 Monster der Stufe 4$NEinmal pro Spielzug kannst du „Zoodiak-Eberbogen“ auch als Xyz-Beschwörung beschwören, indem du 1 „Zoodiak“-Monster mit einem unterschiedlichen Namen, das du kontrollierst, als das Material verwendest. (Transferiere sein Material an diese Karte.) Diese Karte erhält ATK/DEF in Höhe der ATK/DEF aller „Zoodiak“-Monster, die als Material an sie angehängt sind. Diese Karte kann direkt angreifen. Wenn diese Karte deinem Gegner Kampfschaden zufügt, solange sie 12 oder mehr Material hat: Du kannst so viele Karten wie möglich von der Hand und Spielfeldseite deines Gegners auf den Friedhof legen, dann ändere diese Karte in die Verteidigungsposition.",
+  "defense_power": "-1",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/02/09",
+  "species_id": 12,
+  "starchip": "4"
+}

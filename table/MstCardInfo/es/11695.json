@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 1,
+  "card_id": 11695,
+  "card_name": "Satelcaballero Zefrathuban",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "No puedes Invocar monstruos por Péndulo, excepto monstruos \"telcaballero\" y \"Zefra\". Este efecto no puede ser negado.",
+  "card_text": "Si esta carta es Invocada de Modo Normal, por Volteo o por Péndulo: puedes seleccionar otra carta \"telcaballero\" o \"Zefra\" en tu Zona de Monstruos o Zona de Péndulo, y 1 carta boca arriba que controle tu adversario; destrúyelas. Sólo puedes usar este efecto de \"Satelcaballero Zefrathuban\" una vez por turno.",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2015/05/14",
+  "species_id": 15,
+  "starchip": "4"
+}

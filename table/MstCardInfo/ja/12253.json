@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 1,
+  "card_id": 12253,
+  "card_name": "青眼の亜白龍",
+  "card_name_label": "ブルーアイズ・オルタナティブ・ホワイト・ドラゴン",
+  "card_name_search": "ぶるーあいずおるたなてぃぶほわいとどらごん",
+  "card_pen_effect": "",
+  "card_text": "このカードは通常召喚できない。手札の「青眼の白龍」１体を相手に見せた場合に特殊召喚できる。この方法による「青眼の亜白龍」の特殊召喚は１ターンに１度しかできない。①：このカードのカード名は、フィールド・墓地に存在する限り「青眼の白龍」として扱う。②：１ターンに１度、相手フィールドのモンスター１体を対象として発動できる。そのモンスターを破壊する。この効果を発動するターン、このカードは攻撃できない。",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/12/12",
+  "species_id": 1,
+  "starchip": "8"
+}

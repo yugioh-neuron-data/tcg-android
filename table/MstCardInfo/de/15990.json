@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 3,
+  "card_id": 15990,
+  "card_name": "Yamorimori",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Du kannst diese Karte von deinem Friedhof verbannen und dann 1 Reptil-Monster, das du kontrollierst, und 1 offenes Monster, das dein Gegner kontrolliert, wählen, um 1 dieser Effekte zu aktivieren;$N●Ändere jene Monster in die verdeckte Verteidigungsposition.$N●Zerstöre jenes Monster, das du kontrollierst, und falls du dies tust, ändere die ATK des anderen Monsters bis zum Ende dieses Spielzugs zu 0.$NDu kannst diesen Effekt von „Yamorimori“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/06/03",
+  "species_id": 20,
+  "starchip": "2"
+}

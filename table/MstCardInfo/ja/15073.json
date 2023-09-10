@@ -1,0 +1,23 @@
+{
+  "attack_power": "900",
+  "attribute_id": 5,
+  "card_id": 15073,
+  "card_name": "九魂猫",
+  "card_name_label": "ナインライブズ・キャット",
+  "card_name_search": "ないんらいぶずきゃっと",
+  "card_pen_effect": "",
+  "card_text": "レベル９モンスター×２$Nこのカード名の②の効果は１ターンに１度しか使用できない。①：このカードがモンスターゾーンに存在する限り、墓地から特殊召喚された自分フィールドの他のモンスターは相手の効果の対象にならない。②：このカードのX素材を１つ取り除き、自分の墓地のレベル９モンスター１体または相手の墓地のモンスター１体を対象として発動できる。そのモンスターを自分フィールドに特殊召喚する。",
+  "defense_power": "3300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/10/03",
+  "species_id": 2,
+  "starchip": "9"
+}

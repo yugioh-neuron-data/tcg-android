@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14924,
+  "card_name": "Motivación del Futuro",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Selecciona 1 Monstruo Xyz \"Futuro Utópico\" que controles; por el resto de este turno, aplica el o los siguientes efectos a ese monstruo que controles.$N●El monstruo puede atacar a todos los monstruos que controle tu adversario, una vez a cada uno.$N●Si el monstruo batalla con un monstruo del adversario, los efectos de ese monstruo se niegan, sólo durante el Damage Step.$N●Cada vez que el monstruo destruye un monstruo del adversario en batalla, inflige daño a tu adversario igual al ATK original del monstruo destruido.$NSólo puedes activar 1 \"Motivación del Futuro\" por turno.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/01/16",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2200",
+  "attribute_id": 6,
+  "card_id": 14572,
+  "card_name": "Kampfwespe - Azusa der Geisterbogen",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Empfänger + 1+ Nicht-Empfänger-Monster$NWenn dein Gegner Effektschaden von einem anderen „Kampfwespe“-Monster erhält: Du kannst deinem Gegner Schaden in Höhe der Grund-ATK des Monsters zufügen. Du kannst diesen Effekt von „Kampfwespe - Azusa der Geisterbogen“ nur einmal pro Spielzug verwenden. Wenn ein Monster durch Kampf mit deinem „Kampfwespe“-Monster zerstört wird, solange sich diese Karte in deinem Friedhof befindet: Du kannst diese Karte als Spezialbeschwörung in die Verteidigungsposition beschwören, aber verbanne sie, wenn sie das Spielfeld verlässt.",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 19,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/07/11",
+  "species_id": 10,
+  "starchip": "5"
+}

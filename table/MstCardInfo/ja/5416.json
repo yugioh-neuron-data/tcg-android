@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 5,
+  "card_id": 5416,
+  "card_name": "さまようミイラ",
+  "card_name_label": "さまようミイラ",
+  "card_name_search": "さまようみいら",
+  "card_pen_effect": "",
+  "card_text": "このカードは１ターンに１度だけ裏側守備表示にする事ができる。この効果を使用した時、自分フィールド上に裏側守備表示で存在する全てのモンスターをシャッフルし、再び裏側守備表示で並べ替える。",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/03/21",
+  "species_id": 2,
+  "starchip": "4"
+}

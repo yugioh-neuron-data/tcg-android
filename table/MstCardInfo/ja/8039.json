@@ -1,0 +1,23 @@
+{
+  "attack_power": "2600",
+  "attribute_id": 1,
+  "card_id": 8039,
+  "card_name": "宇宙砦ゴルガー",
+  "card_name_label": "そらとりでゴルガー",
+  "card_name_search": "そらとりでごるがー",
+  "card_pen_effect": "",
+  "card_text": "「エーリアンモナイト」＋チューナー以外の「エーリアン」モンスター１体以上$N①：１ターンに１度、フィールドの表側表示の魔法・罠カードを任意の数だけ対象として発動できる。その表側表示のカードを持ち主の手札に戻す。その後、手札に戻った数だけフィールドの表側表示モンスターにAカウンターを置く。②：１ターンに１度、フィールドのAカウンターを２つ取り除き、相手フィールドのカード１枚を対象として発動できる。その相手のカードを破壊する。",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/11/15",
+  "species_id": 20,
+  "starchip": "5"
+}

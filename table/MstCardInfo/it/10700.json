@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 10700,
+  "card_name": "Zombaubau",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Quando questa carta dichiara un attacco, essa guadagna 500 ATK. Se questa carta sul Terreno viene distrutta e mandata al Cimitero: puoi Evocare Specialmente 1 mostro di Livello 1 con 0 ATK e DEF dal tuo Deck. I suoi effetti sono annullati, inoltre esso viene distrutto durante la tua prossima End Phase.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/07/11",
+  "species_id": 2,
+  "starchip": "2"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 1,
+  "card_id": 11788,
+  "card_name": "Magicien Xiangsheng",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Une fois par tour : vous pouvez cibler 1 Monstre Xyz face recto que vous contrôlez et 1 monstre de min. Niveau 5 que vous contrôlez ; jusqu'à la fin de ce tour (même si cette carte quitte le Terrain), le Rang du Monstre Xyz devient égal au Niveau du monstre de min. Niveau 5. Tant que vous contrôlez plus de cartes que votre adversaire, l'Échelle Pendule de cette carte devient 4.",
+  "card_text": "Votre adversaire ne reçoit aucun dommage de combat des attaques impliquant cette carte. Une fois par tour : vous pouvez cibler 1 autre monstre face recto que vous contrôlez ; jusqu'à la fin de ce tour, l'ATK de cette carte devient égale à l'ATK actuelle du monstre.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "8",
+  "pen_scale_r": "8",
+  "sales_at": "2015/08/06",
+  "species_id": 18,
+  "starchip": "4"
+}

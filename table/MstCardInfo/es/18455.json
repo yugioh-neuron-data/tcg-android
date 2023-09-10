@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 6,
+  "card_id": 18455,
+  "card_name": "Orgullo Dorado - León",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si tus LP son menores que los de tu adversario: puedes Invocar esta carta de Modo Especial desde tu mano. Si esta carta es Invocada de Modo Normal o Especial: puedes seleccionar 1 monstruo \"Orgullo Dorado\" que no sea Guerrero en tu Cementerio; Invócalo de Modo Especial en Posición de Defensa, y además no puedes Invocar monstruos de Modo Especial desde el Deck Extra por el resto de este turno, excepto monstruos \"Orgullo Dorado\". Durante la Main Phase de tu adversario, puedes (Efecto Rápido): inmediatamente después de que se resuelva este efecto, Invocar por Sincronía 1 Monstruo de Sincronía, usando sólo monstruos \"Orgullo Dorado\" que controles. Sólo puedes usar cada efecto de \"Orgullo Dorado - León\" una vez por turno.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/02/03",
+  "species_id": 15,
+  "starchip": "3"
+}

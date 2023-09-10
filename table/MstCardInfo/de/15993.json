@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 1,
+  "card_id": 15993,
+  "card_name": "Weißer Ritter der Dogmatika",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Du kannst diese Karte mit „Dogmatikatastrophe“ als Ritualbeschwörung beschwören. Du kannst keine Monster als Spezialbeschwörung vom Extra Deck beschwören. Falls dein Gegner eine Karte oder einen Effekt aktiviert (außer während des Damage Steps): Du kannst 1 Monster von deinem Extra Deck auf den Friedhof legen und falls du dies tust, sieh dir das Extra Deck deines Gegners an und lege 1 Monster davon auf den Friedhof. Diese Karte erhält bis zum Ende dieses Spielzugs ATK in Höhe der Hälfte der kombinierten ATK jener Monster, die auf den Friedhof gelegt wurden. Du kannst diesen Effekt von „Weißer Ritter der Dogmatika“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 5,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/06/03",
+  "species_id": 18,
+  "starchip": "8"
+}

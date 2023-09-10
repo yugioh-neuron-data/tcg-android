@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 2,
+  "card_id": 14343,
+  "card_name": "Dragon Affamé à Dose Mortelle Veninemi",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Une fois par tour, durant votre Main Phase : vous pouvez placer 1 Compteur Veninemi sur chaque monstre face recto contrôlé par votre adversaire. Tous les monstres sur le Terrain (monstres TÉNÈBRES Dragon exclus) perdent 200 ATK pour chaque Compteur Veninemi sur le Terrain.",
+  "card_text": "3 Monstres Pendule TÉNÈBRES$NChaque fois qu'une ou plusieurs cartes sont envoyées depuis le Terrain au Cimetière, placez 1 Compteur Veninemi sur cette carte pour chaque carte envoyée. Tous les monstres sur le Terrain (monstres TÉNÈBRES Dragon exclus) perdent 200 ATK pour chaque Compteur Veninemi sur le Terrain. Une fois par tour, durant votre Main Phase : jusqu'à la fin de ce tour, vous pouvez annuler les effets de tous les monstres face recto actuellement contrôlés par votre adversaire. Si cette carte dans la Zone Monstre est détruite au combat ou par un effet de carte : vous pouvez placer cette carte dans votre Zone Pendule.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 41,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2020/03/19",
+  "species_id": 1,
+  "starchip": "8"
+}

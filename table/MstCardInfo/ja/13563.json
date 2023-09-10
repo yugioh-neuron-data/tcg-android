@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 1,
+  "card_id": 13563,
+  "card_name": "トリックスター・シャクナージュ",
+  "card_name_label": "トリックスター・シャクナージュ",
+  "card_name_search": "とりっくすたーしゃくなーじゅ",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①の効果は１ターンに１度しか使用できない。①：手札から「トリックスター」カード１枚を捨て、自分の墓地の「トリックスター」リンクモンスター１体を対象として発動できる。そのモンスターを特殊召喚する。②：このカードがモンスターゾーンに存在する限り、相手の墓地からカードが除外される度に、その除外されたカードの数×２００ダメージを相手に与える。",
+  "defense_power": "1900",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/01/13",
+  "species_id": 17,
+  "starchip": "4"
+}

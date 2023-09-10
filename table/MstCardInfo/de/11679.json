@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 5,
+  "card_id": 11679,
+  "card_name": "Künstlerkumpel Ziehechse",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Falls du eine „Künstlerkumpel“-Karte in deiner anderen Pendelzone hast, außer „Künstlerkumpel Ziehechse“: Du kannst diese Karte zerstören und falls du dies tust, ziehe 1 Karte. Du kannst diesen Effekt von „Künstlerkumpel Ziehechse“ nur einmal pro Spielzug verwenden.",
+  "card_text": "Falls ein anderes offenes Monster, das du kontrollierst, durch einen Angriff oder einen Karteneffekt deines Gegners zerstört wird: Du kannst Karten in Höhe der Anzahl der „Künstlerkumpel“-Monster ziehen, die du derzeit kontrollierst. Du kannst diesen Effekt von „Künstlerkumpel Ziehechse“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "6",
+  "pen_scale_r": "6",
+  "sales_at": "2015/05/14",
+  "species_id": 20,
+  "starchip": "3"
+}

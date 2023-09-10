@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 1,
+  "card_id": 6031,
+  "card_name": "Jogador de Areia",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lance uma moeda 3 vezes. Se os 3 resultados forem Caras, destrúa todos os monstros no Campo do seu adversário. Se os 3 resultados forem Coroa, destrúa todos os monstros no seu Campo. Este efeito apenas pode ser usado uma vez por turno, durante a sua Main Phase.",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/06/01",
+  "species_id": 18,
+  "starchip": "3"
+}

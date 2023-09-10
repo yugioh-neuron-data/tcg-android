@@ -1,0 +1,23 @@
+{
+  "attack_power": "-1",
+  "attribute_id": 1,
+  "card_id": 8081,
+  "card_name": "RAI－JIN",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드가 필드 위에 앞면 표시로 존재하는 한, 자신 필드 위의 빛 속성 몬스터의 공격력은 자신 묘지의 빛 속성 몬스터의 수 × 100 포인트 올린다. 또한, 자신의 엔드 페이즈마다 발동한다. 자신 필드 위의 빛 속성 몬스터 1장을 선택하고 파괴한다. \"RAI－JIN\"은 필드 위에 1장밖에 앞면 표시로 존재할 수 없다.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/12/02",
+  "species_id": 19,
+  "starchip": "4"
+}

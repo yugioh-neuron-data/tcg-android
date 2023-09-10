@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 1,
+  "card_id": 8796,
+  "card_name": "フェアリー・アーチャー",
+  "card_name_label": "フェアリー・アーチャー",
+  "card_name_search": "ふぇありーあーちゃー",
+  "card_pen_effect": "",
+  "card_text": "自分のメインフェイズ時に発動できる。自分フィールド上の光属性モンスターの数×４００ポイントダメージを相手ライフに与える。「フェアリー・アーチャー」の効果は１ターンに１度しか使用できず、この効果を発動するターン、このカードは攻撃できない。",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/02/20",
+  "species_id": 17,
+  "starchip": "3"
+}

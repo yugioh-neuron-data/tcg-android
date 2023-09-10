@@ -1,0 +1,23 @@
+{
+  "attack_power": "2200",
+  "attribute_id": 2,
+  "card_id": 15856,
+  "card_name": "Double Barillet des Voleurs de Temps",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 monstres de Niveau 4$NLorsque votre adversaire active une carte ou un effet : vous pouvez détacher max. 3 types différents des Matériels de cette carte (Monstre, Magie et Piège), puis appliquez les effets suivants selon ce qui a été détaché, dans l'ordre.$N●Monstre : Cette carte gagne 400 ATK.$N●Magie : Prenez le contrôle d'1 monstre face recto contrôlé par votre adversaire jusqu'à la End Phase, mais il ne peut ni déclarer d'attaque ni activer ses effets ce tour.$N●Piège : Jusqu'à la fin de ce tour, annulez les effets d'1 Monstre à Effet sur le Terrain.$NVous ne pouvez utiliser cet effet de \"Double Barillet des Voleurs de Temps\" qu'une fois par tour.",
+  "defense_power": "2200",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/04/16",
+  "species_id": 21,
+  "starchip": "4"
+}

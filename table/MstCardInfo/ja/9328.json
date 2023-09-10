@@ -1,0 +1,23 @@
+{
+  "attack_power": "1900",
+  "attribute_id": 3,
+  "card_id": 9328,
+  "card_name": "夜叉",
+  "card_name_label": "ヤシャ",
+  "card_name_search": "やしゃ",
+  "card_pen_effect": "",
+  "card_text": "このカードは特殊召喚できない。召喚・リバースしたターンのエンドフェイズ時に持ち主の手札に戻る。このカードが召喚・リバースした時、相手フィールド上に存在する魔法・罠カード１枚を選択して持ち主の手札に戻す事ができる。",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 7,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/11/13",
+  "species_id": 17,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 8668,
+  "card_name": "Line di Montaggio delle Macchine",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Tutti i mostri Macchina sul Terreno guadagnano 200 ATK. Ogni volta che uno o più mostri Macchina scoperti sul Terreno vengono distrutti in battaglia o dall'effetto di una carta, metti 2 Segnalini Rottame su questa carta. Puoi mandare questa carta al Cimitero, poi scegliere come bersaglio 1 mostro Macchina nel tuo Cimitero con Livello pari o inferiore al numero di Segnalini Rottame che c'erano su questa carta; Evoca Specialmente quel bersaglio.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/02/11",
+  "species_id": 24,
+  "starchip": "0"
+}

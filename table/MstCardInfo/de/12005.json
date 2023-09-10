@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 12005,
+  "card_name": "Feueritter nachladen",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Zeige eine beliebige Anzahl Pendelmonster von deiner Hand vor und mische sie ins Deck, dann ziehe Karten in Höhe der Anzahl der ins Deck gemischten Karten +1. Für den Rest dieses Spielzugs, nachdem diese Karte aufgelöst wurde, kannst du keine Karten durch Karteneffekte ziehen. Du kannst nur 1 „Feueritter nachladen“ pro Spielzug aktivieren.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/11/05",
+  "species_id": 24,
+  "starchip": "0"
+}

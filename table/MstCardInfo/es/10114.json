@@ -1,0 +1,23 @@
+{
+  "attack_power": "1300",
+  "attribute_id": 2,
+  "card_id": 10114,
+  "card_name": "Dragard",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando esta carta es Invocada de Modo Normal: puedes seleccionar 1 Monstruo Normal con 1000 ATK o menos en tu Cementerio; Invoca ese objetivo de Modo Especial en Posición de Defensa boca arriba. Una vez por turno: puedes Sacrificar 1 monstruo de Tipo Dragón, y después seleccionar 1 monstruo boca arriba que controles; hasta la End Phase, su Nivel se convierte en 8 y, si lo hace, el monstruo gana 800 ATK.",
+  "defense_power": "1900",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/11/07",
+  "species_id": 1,
+  "starchip": "4"
+}

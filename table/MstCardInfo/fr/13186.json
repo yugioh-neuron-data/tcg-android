@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13186,
+  "card_name": "Ville Mégaroid",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Vous pouvez cibler 1 autre carte que vous contrôlez ; détruisez-la, et si vous le faites, ajoutez 1 carte \"roid\" depuis votre Deck à votre main. Durant le calcul des dommages, si votre monstre \"roid\" combat : vous pouvez envoyer 1 monstre \"roid\" depuis votre Deck au Cimetière ; durant le calcul des dommages uniquement, échangez l'ATK/DEF d'origine de votre monstre combattant. Vous ne pouvez utiliser chaque effet de \"Ville Mégaroid\" qu'une fois par tour. Vous ne pouvez pas Invoquer Spécialement de monstres (Monstres Fusion exclus) depuis l'Extra Deck le tour où vous activez un effet de cette carte (même si cette carte quitte le Terrain).",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/09/07",
+  "species_id": 24,
+  "starchip": "0"
+}

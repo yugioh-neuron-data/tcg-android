@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 5,
+  "card_id": 11522,
+  "card_name": "Künstlerkumpel Partnatter",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Einmal pro Spielzug: Du kannst 1 offenes Monster wählen, das du kontrollierst; es erhält bis zum Ende dieses Spielzugs 300 ATK für jede „Künstlerkumpel“-Karte, die du derzeit kontrollierst.",
+  "card_text": "Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 Monster wählen, das du kontrollierst; es erhält 300 ATK für jedes „Künstlerkumpel“-Monster, das du derzeit kontrollierst. Monster der Stufe 5 oder niedriger können nicht angreifen.",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2015/01/15",
+  "species_id": 20,
+  "starchip": "5"
+}

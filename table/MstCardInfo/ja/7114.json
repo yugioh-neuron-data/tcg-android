@@ -1,0 +1,23 @@
+{
+  "attack_power": "2200",
+  "attribute_id": 5,
+  "card_id": 7114,
+  "card_name": "天魔神 インヴィシル",
+  "card_name_label": "てんましん　インヴィシル",
+  "card_name_search": "てんましんいんう゛ぃしる",
+  "card_pen_effect": "",
+  "card_text": "このカードは特殊召喚できない。このカードのアドバンス召喚のためにリリースしたモンスターの種族と属性によって、このカードは以下の効果を得る。$N●天使族・光属性：このカードがフィールド上に表側表示で存在する限り、フィールド上の魔法カードの効果を無効にする。$N●悪魔族・闇属性：このカードがフィールド上に表側表示で存在する限り、フィールド上の罠カードの効果を無効にする。",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/02/15",
+  "species_id": 17,
+  "starchip": "6"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 6,
+  "card_id": 11473,
+  "card_name": "妖仙獣 鎌壱太刀",
+  "card_name_label": "ようせんじゅう　カマイタチ",
+  "card_name_search": "ようせんじゅうかまいたち",
+  "card_pen_effect": "",
+  "card_text": "①：このカードが召喚に成功した場合に発動できる。手札から「妖仙獣 鎌壱太刀」以外の「妖仙獣」モンスター１体を召喚する。②：このカードがフィールドに表側表示で存在する限り１度だけ、自分フィールドにこのカード以外の「妖仙獣」モンスターが存在する場合に相手フィールドの表側表示のカード１枚を対象として発動できる。そのカードを持ち主の手札に戻す。③：このカードを召喚したターンのエンドフェイズに発動する。このカードを持ち主の手札に戻す。",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/10/11",
+  "species_id": 12,
+  "starchip": "4"
+}

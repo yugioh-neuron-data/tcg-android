@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 3,
+  "card_id": 11009,
+  "card_name": "Wobby du Silence",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durant votre Main Phase : vous pouvez Invoquer Spécialement cette carte depuis votre main sur le Terrain de votre adversaire. Lorsqu'elle est Invoquée de cette façon : piochez 1 carte, et si vous le faites, votre adversaire gagne 2000 Life Points. Vous ne pouvez utiliser cet effet de \"Wobby du Silence\" qu'une fois par tour. La limite de cartes dans la main du contrôleur de cette carte devient 3.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/03/28",
+  "species_id": 8,
+  "starchip": "4"
+}

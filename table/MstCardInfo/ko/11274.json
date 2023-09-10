@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11274,
+  "card_name": "마력의 샘",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"마력의 샘\"은 1턴에 1장밖에 발동할 수 없다. ①: 상대 필드의 앞면 표시의 마법 / 함정 카드의 수만큼 자신은 덱에서 드로우한다. 그 후, 자신 필드의 앞면 표시의 마법 / 함정 카드의 수만큼 자신의 패에서 카드를 고르고 버린다. 이 카드의 발동 후, 다음 상대 턴의 종료시까지, 상대 필드의 마법 / 함정 카드는 파괴되지 않으며, 발동과 효과는 무효화되지 않는다.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/07/18",
+  "species_id": 24,
+  "starchip": "0"
+}

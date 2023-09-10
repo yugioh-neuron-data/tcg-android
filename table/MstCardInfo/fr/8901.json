@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 4,
+  "card_id": 8901,
+  "card_name": "Guerrier Laval",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsque cette carte détruit un monstre de votre adversaire au combat : infligez des dommages à votre adversaire égaux à l'ATK d'origine du monstre détruit. Vous devez avoir min. 4 monstres \"Laval\" de noms différents dans votre Cimetière pour activer et résoudre cet effet.",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/12/01",
+  "species_id": 15,
+  "starchip": "4"
+}

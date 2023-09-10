@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 2,
+  "card_id": 17799,
+  "card_name": "燐廻の三弦猫",
+  "card_name_label": "りんねのみけねこ",
+  "card_name_search": "りんねのみけねこ",
+  "card_pen_effect": "",
+  "card_text": "チューナー＋チューナー以外のモンスター１体以上$Nこのカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：相手メインフェイズに発動できる。このカードを含む自分フィールドのモンスターを素材としてS召喚する。②：このカードが墓地に存在する場合、このカード以外の自分の墓地のSモンスター１体を対象として発動できる。そのモンスターをEXデッキに戻し、このカードを特殊召喚する。この効果で特殊召喚したこのカードは、フィールドから離れた場合に除外される。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 19,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/07/16",
+  "species_id": 2,
+  "starchip": "3"
+}

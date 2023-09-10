@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 1,
+  "card_id": 15381,
+  "card_name": "Número 2: Puerta Númeron Dve",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "3 monstruos de Nivel 1$NNo puede ser destruido en batalla. Al final del Damage Step, si esta carta batalló con un monstruo del adversario: puedes desacoplar 1 material de esta carta; hasta el final de este turno, duplica el ATK de todos los monstruos \"Númeron\" que controles en este momento.",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/07/23",
+  "species_id": 7,
+  "starchip": "1"
+}

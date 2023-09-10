@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 5,
+  "card_id": 9319,
+  "card_name": "자동기계첩자 919 \"구일구\"",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드는 공격 가능한 경우에는 공격해야 한다. 필드 위에 앞면 표시로 존재하는 이 카드가 공격 대상으로 선택되었을 때, 이 카드의 표시 형식을 변경한다. 이 카드가 전투에 의해서 상대 몬스터를 파괴하고 묘지로 보냈을 때, 자신의 묘지에 존재하는 레벨 4 이하의 \"자동기계\"라는 이름이 붙은 몬스터 1장을 선택하고 앞면 수비 표시로 특수 소환한다.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/01/15",
+  "species_id": 7,
+  "starchip": "4"
+}

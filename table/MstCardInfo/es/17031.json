@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 2,
+  "card_id": 17031,
+  "card_name": "Mago de la Crónica",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si uno o más monstruos con ATK o DEF original de 2500 son Invocados de Modo Normal o Especial a tu Campo (excepto durante el Damage Step): puedes Invocar esta carta de Modo Especial desde tu mano en Posición de Defensa. Si esta carta es Invocada de Modo Especial: puedes seleccionar 1 \"Mago Oscuro\" o \"Dragón Blanco de Ojos Azules\" en tu Zona de Monstruos; éste gana 2500 ATK/DEF hasta el final de este turno. Sólo puedes usar cada efecto de \"Mago de la Crónica\" una vez por turno.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/05/05",
+  "species_id": 18,
+  "starchip": "7"
+}

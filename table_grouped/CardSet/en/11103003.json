@@ -1,0 +1,767 @@
+[
+  {
+    "card_count": 1,
+    "card_id": 4799,
+    "card_image_id": 1,
+    "card_number": "SOD-EN058",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4828,
+    "card_image_id": 1,
+    "card_number": "SOD-EN043",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 4828,
+    "card_image_id": 1,
+    "card_number": "SOD-EN043",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 5362,
+    "card_image_id": 1,
+    "card_number": "SOD-EN057",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 5362,
+    "card_image_id": 1,
+    "card_number": "SOD-EN057",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 6093,
+    "card_image_id": 1,
+    "card_number": "SOD-EN001",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 6093,
+    "card_image_id": 1,
+    "card_number": "SOD-EN001",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 6094,
+    "card_image_id": 1,
+    "card_number": "SOD-EN002",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 6095,
+    "card_image_id": 1,
+    "card_number": "SOD-EN003",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 6096,
+    "card_image_id": 1,
+    "card_number": "SOD-EN004",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 6097,
+    "card_image_id": 1,
+    "card_number": "SOD-EN005",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 6097,
+    "card_image_id": 1,
+    "card_number": "SOD-EN005",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 6098,
+    "card_image_id": 1,
+    "card_number": "SOD-EN006",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 6098,
+    "card_image_id": 1,
+    "card_number": "SOD-EN006",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 6099,
+    "card_image_id": 1,
+    "card_number": "SOD-EN007",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 6099,
+    "card_image_id": 1,
+    "card_number": "SOD-EN007",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 6100,
+    "card_image_id": 1,
+    "card_number": "SOD-EN008",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 6100,
+    "card_image_id": 1,
+    "card_number": "SOD-EN008",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 6101,
+    "card_image_id": 1,
+    "card_number": "SOD-EN009",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 6102,
+    "card_image_id": 1,
+    "card_number": "SOD-EN010",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 6102,
+    "card_image_id": 1,
+    "card_number": "SOD-EN010",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 6103,
+    "card_image_id": 1,
+    "card_number": "SOD-EN011",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 6103,
+    "card_image_id": 1,
+    "card_number": "SOD-EN011",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 6104,
+    "card_image_id": 1,
+    "card_number": "SOD-EN012",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 6104,
+    "card_image_id": 1,
+    "card_number": "SOD-EN012",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 6105,
+    "card_image_id": 1,
+    "card_number": "SOD-EN013",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 6106,
+    "card_image_id": 1,
+    "card_number": "SOD-EN014",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 6106,
+    "card_image_id": 1,
+    "card_number": "SOD-EN014",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 6107,
+    "card_image_id": 1,
+    "card_number": "SOD-EN015",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 6107,
+    "card_image_id": 1,
+    "card_number": "SOD-EN015",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 6108,
+    "card_image_id": 1,
+    "card_number": "SOD-EN016",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 6109,
+    "card_image_id": 1,
+    "card_number": "SOD-EN017",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 6110,
+    "card_image_id": 1,
+    "card_number": "SOD-EN018",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 6111,
+    "card_image_id": 1,
+    "card_number": "SOD-EN019",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 6111,
+    "card_image_id": 1,
+    "card_number": "SOD-EN019",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 6112,
+    "card_image_id": 1,
+    "card_number": "SOD-EN020",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 6112,
+    "card_image_id": 1,
+    "card_number": "SOD-EN020",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 6113,
+    "card_image_id": 1,
+    "card_number": "SOD-EN021",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 6114,
+    "card_image_id": 1,
+    "card_number": "SOD-EN022",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 6114,
+    "card_image_id": 1,
+    "card_number": "SOD-EN022",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 6115,
+    "card_image_id": 1,
+    "card_number": "SOD-EN023",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 6116,
+    "card_image_id": 1,
+    "card_number": "SOD-EN024",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 6117,
+    "card_image_id": 1,
+    "card_number": "SOD-EN025",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 6118,
+    "card_image_id": 1,
+    "card_number": "SOD-EN026",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 6119,
+    "card_image_id": 1,
+    "card_number": "SOD-EN027",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 6119,
+    "card_image_id": 1,
+    "card_number": "SOD-EN027",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 6120,
+    "card_image_id": 1,
+    "card_number": "SOD-EN028",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 6121,
+    "card_image_id": 1,
+    "card_number": "SOD-EN029",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 6122,
+    "card_image_id": 1,
+    "card_number": "SOD-EN030",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 6123,
+    "card_image_id": 1,
+    "card_number": "SOD-EN031",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 6124,
+    "card_image_id": 1,
+    "card_number": "SOD-EN032",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 6125,
+    "card_image_id": 1,
+    "card_number": "SOD-EN033",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 6125,
+    "card_image_id": 1,
+    "card_number": "SOD-EN033",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 6126,
+    "card_image_id": 1,
+    "card_number": "SOD-EN034",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 6126,
+    "card_image_id": 1,
+    "card_number": "SOD-EN034",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 6127,
+    "card_image_id": 1,
+    "card_number": "SOD-EN035",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 6127,
+    "card_image_id": 1,
+    "card_number": "SOD-EN035",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 6128,
+    "card_image_id": 1,
+    "card_number": "SOD-EN036",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 6129,
+    "card_image_id": 1,
+    "card_number": "SOD-EN037",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 6130,
+    "card_image_id": 1,
+    "card_number": "SOD-EN038",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 6130,
+    "card_image_id": 1,
+    "card_number": "SOD-EN038",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 6131,
+    "card_image_id": 1,
+    "card_number": "SOD-EN039",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 6132,
+    "card_image_id": 1,
+    "card_number": "SOD-EN040",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 6133,
+    "card_image_id": 1,
+    "card_number": "SOD-EN041",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 6134,
+    "card_image_id": 1,
+    "card_number": "SOD-EN042",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 6134,
+    "card_image_id": 1,
+    "card_number": "SOD-EN042",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 6135,
+    "card_image_id": 1,
+    "card_number": "SOD-EN044",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 6136,
+    "card_image_id": 1,
+    "card_number": "SOD-EN045",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 6137,
+    "card_image_id": 1,
+    "card_number": "SOD-EN046",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 6138,
+    "card_image_id": 1,
+    "card_number": "SOD-EN047",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 6139,
+    "card_image_id": 1,
+    "card_number": "SOD-EN048",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 6140,
+    "card_image_id": 1,
+    "card_number": "SOD-EN049",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 6141,
+    "card_image_id": 1,
+    "card_number": "SOD-EN050",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 6142,
+    "card_image_id": 1,
+    "card_number": "SOD-EN051",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 6142,
+    "card_image_id": 1,
+    "card_number": "SOD-EN051",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 6143,
+    "card_image_id": 1,
+    "card_number": "SOD-EN052",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 6144,
+    "card_image_id": 1,
+    "card_number": "SOD-EN053",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 6144,
+    "card_image_id": 1,
+    "card_number": "SOD-EN053",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 6145,
+    "card_image_id": 1,
+    "card_number": "SOD-EN054",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 6146,
+    "card_image_id": 1,
+    "card_number": "SOD-EN055",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 6146,
+    "card_image_id": 1,
+    "card_number": "SOD-EN055",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 6147,
+    "card_image_id": 1,
+    "card_number": "SOD-EN056",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 6148,
+    "card_image_id": 1,
+    "card_number": "SOD-EN059",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 6149,
+    "card_image_id": 1,
+    "card_number": "SOD-EN060",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 6149,
+    "card_image_id": 1,
+    "card_number": "SOD-EN060",
+    "language": "en",
+    "pack_id": "11103003",
+    "rarity_id": 6
+  }
+]

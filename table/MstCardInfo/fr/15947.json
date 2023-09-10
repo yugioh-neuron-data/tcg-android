@@ -1,0 +1,23 @@
+{
+  "attack_power": "2100",
+  "attribute_id": 5,
+  "card_id": 15947,
+  "card_name": "Orpis du Rocher de Guerre",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si vous ne contrôlez aucun monstre, ou si tous les monstres que vous contrôlez sont des monstres Guerrier, vous pouvez Invoquer Normalement cette carte sans Sacrifice. Si votre monstre TERRE Guerrier combat, après le calcul des dommages : vous pouvez envoyez 1 monstre TERRE Guerrier (\"Orpis du Rocher de Guerre\" exclu) depuis votre Deck au Cimetière, puis tous les monstres \"Rocher de Guerre\" que vous contrôlez actuellement gagnent 200 ATK jusqu'à la fin du tour de votre adversaire. Vous ne pouvez utiliser cet effet de \"Orpis du Rocher de Guerre\" qu'une fois par tour.",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/02/04",
+  "species_id": 15,
+  "starchip": "5"
+}

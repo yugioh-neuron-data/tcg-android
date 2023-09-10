@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 6,
+  "card_id": 14274,
+  "card_name": "Estornino Estrella Estelar",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Esta carta gana un efecto dependiendo de tu Zona de Monstruos Principal donde esté.$N●Extremo izquierdo: Aumenta su Nivel en 4.$N●Extremo derecho: Aumenta su Nivel en 3.$N●Central: Aumenta su Nivel en 2.$N●Otras: Aumenta su Nivel en 1.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/05/02",
+  "species_id": 16,
+  "starchip": "4"
+}

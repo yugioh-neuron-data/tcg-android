@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 2,
+  "card_id": 6410,
+  "card_name": "Van'Dalgyon der finstere Drachenherrscher",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Nachdem eine Konterfallenkarte, die du kontrollierst, die Aktivierung von Karten oder Effekten deines Gegners annulliert hat, kannst du diese Karte als Spezialbeschwörung von deiner Hand beschwören. Aktiviere dann die entsprechenden Effekte, basierend auf den Typen der annullierten Karten:$N●Zauber: Füge deinem Gegner 1500 Schaden zu.$N●Falle: Wähle 1 Karte, die dein Gegner kontrolliert, und zerstöre sie.$N●Effektmonster: Wähle 1 Monster in deinem Friedhof und beschwöre es als Spezialbeschwörung.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/08/26",
+  "species_id": 1,
+  "starchip": "8"
+}

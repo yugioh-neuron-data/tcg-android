@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 5,
+  "card_id": 18434,
+  "card_name": "薔薇占術師",
+  "card_name_label": "ローズ・シャーマン",
+  "card_name_search": "ろーずしゃーまん",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：このカードをリリースして発動できる。自分はデッキから１枚ドローする。②：墓地のこのカードを除外し、自分の墓地の植物族モンスター１体を対象として発動できる。そのモンスターを手札に加える。この効果で元々のレベルが７以上の植物族モンスターを手札に加えた場合、さらにデッキから植物族モンスター１体を墓地へ送る事ができる。",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/12/17",
+  "species_id": 15,
+  "starchip": "4"
+}

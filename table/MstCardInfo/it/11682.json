@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 5,
+  "card_id": 11682,
+  "card_name": "Samurai Superpesante Gigaguanti",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se questa carta viene mandata al Cimitero, e tu non hai nessuna Carta Magia/Trappola nel tuo Cimitero: puoi guardare le prime 5 carte dalla cima del tuo Deck, poi metterle in cima al Deck in qualsiasi ordine. Quando un mostro dell'avversario dichiara un attacco diretto: puoi bandire questa carta dal tuo Cimitero; dissotterra la prima carta del tuo Deck e, se è un mostro \"Samurai Superpesante\", aggiungila alla tua mano e, se lo fai, l'ATK del mostro attaccante diventa 0. Altrimenti, mandala al Cimitero.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/05/14",
+  "species_id": 7,
+  "starchip": "3"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 4,
+  "card_id": 15269,
+  "card_name": "Lampe Draton",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Une fois par tour (Effet Rapide) : vous pouvez défausser 1 monstre Wyrm ; jusqu'à la fin de ce tour, cette carte gagne 1000 DEF. Une fois par combat, durant le calcul des dommages, si cette carte en Position d'Attaque combat un monstre de l'adversaire en Position d'Attaque (Effet Rapide) : vous pouvez appliquer la DEF de chaque carte pour le calcul des dommages.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/08/06",
+  "species_id": 26,
+  "starchip": "4"
+}

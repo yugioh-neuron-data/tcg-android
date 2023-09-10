@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 8362,
+  "card_name": "バトル・テレポーテーション",
+  "card_name_label": "バトル・テレポーテーション",
+  "card_name_search": "ばとるてれぽーてーしょん",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上に表側表示で存在するサイキック族モンスターが１体のみの場合、そのモンスター１体を選択して発動する。このターン選択したモンスターは相手プレイヤーに直接攻撃する事ができる。このターンのバトルフェイズ終了時、選択したモンスターのコントロールを相手に移す。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/04/18",
+  "species_id": 25,
+  "starchip": "0"
+}

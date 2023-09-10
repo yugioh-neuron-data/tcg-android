@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 12966,
+  "card_name": "超越融合",
+  "card_name_label": "ちょうえつゆうごう",
+  "card_name_search": "ちょうえつゆうごう",
+  "card_pen_effect": "",
+  "card_text": "このカードの発動に対してカードの効果は発動できない。①：２０００LPを払って発動できる。融合モンスターカードによって決められた融合素材モンスター２体を自分フィールドから墓地へ送り、その融合モンスター１体をEXデッキから融合召喚する。②：墓地のこのカードを除外し、このカードの効果で融合召喚したモンスター１体を対象として発動できる。そのモンスターの融合召喚に使用した融合素材モンスター一組を自分の墓地から特殊召喚する。この効果で特殊召喚したモンスターの攻撃力・守備力は０になり、効果は無効化される。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/01/14",
+  "species_id": 24,
+  "starchip": "0"
+}

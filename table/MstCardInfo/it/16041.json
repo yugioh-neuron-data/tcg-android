@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 16041,
+  "card_name": "Fukubiki",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Ogni giocatore mischia il suo Deck e dissotterra la prima carta del suo Deck. Aggiungi la carta dissotterrata con l'ATK più alto alla mano di quel giocatore, inoltre manda la carta con l'ATK più basso al Cimitero di quel giocatore (le Magie/Trappole e i mostri con ? ATK vengono considerati come 0). In caso di parità, metti quelle carte in fondo ai Deck.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/06/03",
+  "species_id": 25,
+  "starchip": "0"
+}

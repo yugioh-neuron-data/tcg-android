@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 1,
+  "card_id": 13243,
+  "card_name": "Ejecutor Metafis",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial (desde tu mano), desterrando 5 cartas \"Metaf\" con nombres diferentes en tu Cementerio y/o boca arriba en tu Campo. No puede ser destruido ni desterrado por efectos de cartas. Una vez por turno, si tu adversario controla más cartas que tú: puedes seleccionar 1 de tus monstruos \"Metaf\" desterrados; Invócalo de Modo Especial, pero destiérralo durante la End Phase del próximo turno.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/10/19",
+  "species_id": 26,
+  "starchip": "10"
+}

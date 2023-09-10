@@ -1,0 +1,23 @@
+{
+  "attack_power": "1900",
+  "attribute_id": 1,
+  "card_id": 10043,
+  "card_name": "Priesterlicher Drache von Eset",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Du kannst diese Karte als Normalbeschwörung beschwören, ohne Tribut anzubieten, aber ihre Grund-ATK werden zu 1000. Einmal pro Spielzug: Du kannst 1 offenes Normales Drache-Monster auf dem Spielfeld wählen; die Stufen aller offenen „Priesterlich“-Monster, die sich derzeit auf dem Spielfeld befinden, werden bis zur End Phase die gleichen wie die Stufe des Monsters. Wenn diese Karte als Tribut angeboten wird: Beschwöre 1 Normales Drache-Monster als Spezialbeschwörung von deiner Hand, deinem Deck oder deinem Friedhof und seine ATK/DEF werden zu 0.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/05/10",
+  "species_id": 1,
+  "starchip": "5"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 4,
+  "card_id": 11602,
+  "card_name": "宝玉の守護者",
+  "card_name_label": "ほうぎょくのしゅごしゃ",
+  "card_name_search": "ほうぎょくのしゅごしゃ",
+  "card_pen_effect": "①：このカードがPゾーンに存在する限り、１ターンに１度だけ、自分フィールドの「究極宝玉神」モンスター及び「宝玉獣」カードは効果では破壊されない。",
+  "card_text": "①：自分の「宝玉獣」モンスターが相手モンスターと戦闘を行うダメージ計算時、手札・フィールドのこのカードをリリースして発動できる。その戦闘を行う自分のモンスターは、攻撃力・守備力がダメージ計算時のみ元々の数値の倍になり、ダメージステップ終了時に破壊される。",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "2",
+  "pen_scale_r": "2",
+  "sales_at": "2014/11/15",
+  "species_id": 15,
+  "starchip": "4"
+}

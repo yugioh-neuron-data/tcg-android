@@ -1,0 +1,23 @@
+{
+  "attack_power": "400",
+  "attribute_id": 5,
+  "card_id": 6939,
+  "card_name": "Kartenkavallerist",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Einmal pro Spielzug: Du kannst eine Zahl von 1 bis 3 bestimmen und dann so viele oberste Karten von deinem Deck auf den Friedhof legen; diese Karte erhält bis zum Ende dieses Spielzugs für jede auf diese Art auf den Friedhof gelegte Karte 500 ATK. Falls diese Karte, die du kontrollierst, zerstört und auf deinen Friedhof gelegt wird: Ziehe 1 Karte.",
+  "defense_power": "400",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/02/07",
+  "species_id": 7,
+  "starchip": "3"
+}

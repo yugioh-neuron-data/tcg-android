@@ -1,0 +1,23 @@
+{
+  "attack_power": "2700",
+  "attribute_id": 2,
+  "card_id": 5782,
+  "card_name": "闇の支配者－ゾーク",
+  "card_name_label": "ダーク・マスター－ゾーク",
+  "card_name_search": "だーくますたーぞーく",
+  "card_pen_effect": "",
+  "card_text": "「闇の支配者との契約」により降臨。①：１ターンに１度、自分メインフェイズに発動できる。サイコロを１回振り、出た目の効果を適用する。$N●１・２：相手フィールドのモンスターを全て破壊する。$N●３・４・５：相手フィールドのモンスター１体を選んで破壊する。$N●６：自分フィールドのモンスターを全て破壊する。",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 5,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2003/02/20",
+  "species_id": 3,
+  "starchip": "8"
+}

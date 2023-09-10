@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 6,
+  "card_id": 14340,
+  "card_name": "SRヘキサソーサー",
+  "card_name_label": "スピードロイドヘキサソーサー",
+  "card_name_search": "すぴーどろいどへきさそーさー",
+  "card_pen_effect": "このカード名のP効果は１ターンに１度しか使用できない。①：自分の墓地のモンスター及び除外されている自分のモンスターの中から、風属性Sモンスター１体を対象として発動できる。そのモンスターをEXデッキに戻す。",
+  "card_text": "①：このカードの戦闘で発生する戦闘ダメージはお互いのプレイヤーが受ける。②：このカードの戦闘で発生するお互いの戦闘ダメージは半分になる。③：このカードがPゾーンで破壊された場合に発動できる。自分のEXデッキから表側表示の「スピードロイド」Pモンスター１体を特殊召喚する。",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "6",
+  "pen_scale_r": "6",
+  "sales_at": "2018/12/22",
+  "species_id": 7,
+  "starchip": "4"
+}

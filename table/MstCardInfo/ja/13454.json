@@ -1,0 +1,23 @@
+{
+  "attack_power": "1900",
+  "attribute_id": 3,
+  "card_id": 13454,
+  "card_name": "沼地のドロゴン",
+  "card_name_label": "ぬまちのドロゴン",
+  "card_name_search": "ぬまちのどろごん",
+  "card_pen_effect": "",
+  "card_text": "同じ属性で種族が異なるモンスター×２$N①：このカードがモンスターゾーンに存在する限り、相手はこのカード及びこのカードと同じ属性を持つフィールドのモンスターを効果の対象にできない。②：１ターンに１度、属性を１つ宣言して発動できる。このカードはターン終了時まで宣言した属性になる。この効果は相手ターンでも発動できる。",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/10/07",
+  "species_id": 26,
+  "starchip": "4"
+}

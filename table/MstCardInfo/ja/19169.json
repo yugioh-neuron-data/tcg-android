@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 2,
+  "card_id": 19169,
+  "card_name": "折々の紙神",
+  "card_name_label": "おりおりのかみがみ",
+  "card_name_search": "おりおりのかみがみ",
+  "card_pen_effect": "",
+  "card_text": "①：１ターンに１度、自分メインフェイズに発動できる。裏が出るまでコイントスを行う。表が出た数２回につき１枚、自分はドローする。$N②：このカードがモンスターゾーンに存在する状態で、自分・相手がコイントスを行う度に発動する。そのコイントスで表が出た数１回につき１度、このカードの攻撃力は倍になる。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/07/22",
+  "species_id": 17,
+  "starchip": "1"
+}

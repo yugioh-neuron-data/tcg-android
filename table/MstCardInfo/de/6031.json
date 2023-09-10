@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 1,
+  "card_id": 6031,
+  "card_name": "Spieler im Wüstensand",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wirf eine Münze dreimal. Wenn du bei allen 3 Würfen Kopf bekommst, zerstöre alle Monster auf der Spielfeldseite deines Gegners. Wenn du bei allen 3 Würfen Zahl bekommst, zerstöre alle Monster auf deiner Spielfeldseite. Du kannst den Effekt dieser Karte nur einmal pro Spielzug, in deiner Main Phase, benutzen.",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/05/01",
+  "species_id": 18,
+  "starchip": "3"
+}

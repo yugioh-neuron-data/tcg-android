@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 1,
+  "card_id": 10886,
+  "card_name": "Raiden, Mano del Fedele della Luce",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante la tua Main Phase: puoi mandare le prime 2 carte del tuo Deck al Cimitero, poi, se qualsiasi mostro \"Fedele della Luce\" è stato mandato al Cimitero da questo effetto, questa carta guadagna 200 ATK fino alla fine del turno del tuo avversario. Puoi utilizzare questo effetto di \"Raiden, Mano del Fedele della Luce\" una sola volta per turno. Una volta per turno, durante la tua End Phase: manda le prime 2 carte del tuo Deck al Cimitero.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/06/26",
+  "species_id": 15,
+  "starchip": "4"
+}

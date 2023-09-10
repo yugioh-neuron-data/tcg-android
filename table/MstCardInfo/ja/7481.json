@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 3,
+  "card_id": 7481,
+  "card_name": "剣闘獣トラケス",
+  "card_name_label": "グラディアルビーストトラケス",
+  "card_name_search": "ぐらでぃあるびーすととらけす",
+  "card_pen_effect": "",
+  "card_text": "このカードが「剣闘獣」と名のついたモンスターの効果によって特殊召喚に成功した場合、このカードが戦闘を行ったバトルフェイズ終了時にこのカードをデッキに戻す事で、自分のデッキからカードを１枚ドローする。",
+  "defense_power": "400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/09/13",
+  "species_id": 8,
+  "starchip": "3"
+}

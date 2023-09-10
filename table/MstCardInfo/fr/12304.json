@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 3,
+  "card_id": 12304,
+  "card_name": "Spinos Dinobrume",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Si une ou plusieurs autres cartes \"Dinobrume\" que vous contrôlez vont être détruites au combat ou par un effet de carte de votre adversaire, vous pouvez détruire cette carte à la place.",
+  "card_text": "Vous pouvez Sacrifier 1 autre monstre \"Dinobrume\", puis activez 1 de ces effets ;$N●Cette carte peut attaquer directement votre adversaire ce tour.$N●Cette carte peut faire une seconde attaque durant chaque Battle Phase ce tour.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2016/05/05",
+  "species_id": 7,
+  "starchip": "5"
+}

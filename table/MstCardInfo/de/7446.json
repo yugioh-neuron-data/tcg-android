@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 7446,
+  "card_name": "Teuflische Kralle",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Das ausgerüstete Monster erhält 300 ATK. Falls das ausgerüstete Monster durch Kampf zerstört werden würde, gib stattdessen diese Karte auf die Hand ihres Besitzers zurück. Zerstöre dann 1 Monster, das dein Gegner kontrolliert, außer dem, das gegen das ausgerüstete Monster gekämpft hat, und füge deinem Gegner 600 Schaden zu. Beschwöre danach 1 „Böses-Spielmarke“ (Typ Unterweltler/FINSTERNIS/Stufe 7/ATK 2500/DEF 2500) als Spezialbeschwörung auf die Spielfeldseite deines Gegners. Während des Spielzugs, in dem diese Karte auf deine Hand zurückgegeben wird, kannst du „Teuflische Kralle“ nicht von deiner Hand ausspielen.",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/01/26",
+  "species_id": 24,
+  "starchip": "0"
+}

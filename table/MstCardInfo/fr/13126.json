@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 1,
+  "card_id": 13126,
+  "card_name": "Dragon Lancier aux Yeux Impairs",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si un Monstre Pendule que vous contrôlez est détruit au combat ou par un effet de carte : vous pouvez Sacrifier 1 monstre ; Invoquez Spécialement cette carte depuis votre main. Si cette carte attaque, votre adversaire ne peut pas activer de Cartes Magie/Piège jusqu'à la fin de la Damage Step. Si une ou plusieurs cartes \"Yeux Impairs\" que vous contrôlez vont être détruites au combat ou par un effet de carte, vous pouvez détruire 1 carte \"Yeux Impairs\" dans votre main, Zone Monstre ou Zone Pendule à la place.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/07/06",
+  "species_id": 1,
+  "starchip": "8"
+}

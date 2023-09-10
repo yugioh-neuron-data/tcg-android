@@ -1,0 +1,23 @@
+{
+  "attack_power": "200",
+  "attribute_id": 1,
+  "card_id": 5424,
+  "card_name": "Würfelkrug",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "FLIPP: Beide Spieler werfen einen sechsseitigen Würfel. Der Spieler mit dem niedrigeren Ergebnis erhält Schaden in Höhe des Ergebnisses seines Gegners x 500. Wenn der Gewinner allerdings eine 6 gewürfelt hat, erhält der Verlierer 6000 Schaden. Falls beide Ergebnisse gleich sind, würfeln beide Spieler noch einmal.",
+  "defense_power": "300",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 24,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2003/07/01",
+  "species_id": 6,
+  "starchip": "3"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 5514,
+  "card_name": "墓守の監視者",
+  "card_name_label": "はかもりのかんししゃ",
+  "card_name_search": "はかもりのかんししゃ",
+  "card_pen_effect": "",
+  "card_text": "相手プレイヤーが自らの手札を捨てる効果を含むカードを発動した時、このカードを手札から墓地に送る事で、その発動と効果を無効にしてそのカードを破壊する。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/05/16",
+  "species_id": 18,
+  "starchip": "4"
+}

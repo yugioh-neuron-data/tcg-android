@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 6,
+  "card_id": 10485,
+  "card_name": "ドテドテング",
+  "card_name_label": "ドテドテング",
+  "card_name_search": "どてどてんぐ",
+  "card_pen_effect": "",
+  "card_text": "このカードが相手のカードの効果によって墓地へ送られた場合、相手フィールド上のカード１枚を選択して発動できる。選択したカードを持ち主の手札に戻す。",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/02/16",
+  "species_id": 3,
+  "starchip": "3"
+}

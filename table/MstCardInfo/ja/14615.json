@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 2,
+  "card_id": 14615,
+  "card_name": "ヴァレット・トレーサー",
+  "card_name_label": "ヴァレット・トレーサー",
+  "card_name_search": "う゛ぁれっととれーさー",
+  "card_pen_effect": "",
+  "card_text": "このカード名の効果は１ターンに１度しか使用できない。①：自分フィールドの表側表示のカード１枚を対象として発動できる。そのカードを破壊し、デッキから「ヴァレット・トレーサー」以外の「ヴァレット」モンスター１体を特殊召喚する。この効果の発動後、ターン終了時まで自分は闇属性モンスターしかEXデッキから特殊召喚できない。この効果は相手ターンでも発動できる。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/06/22",
+  "species_id": 1,
+  "starchip": "4"
+}

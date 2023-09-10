@@ -1,0 +1,23 @@
+{
+  "attack_power": "700",
+  "attribute_id": 4,
+  "card_id": 11936,
+  "card_name": "貴竜の魔術師",
+  "card_name_label": "きりゅうのまじゅつし",
+  "card_name_search": "きりゅうのまじゅつし",
+  "card_pen_effect": "①：もう片方の自分のPゾーンに「魔術師」カードが存在しない場合にこのカードは破壊される。",
+  "card_text": "このカードをS素材とする場合、ドラゴン族モンスターのS召喚にしか使用できず、他のS素材に「オッドアイズ」モンスター以外のモンスターを使用した場合、このカードを持ち主のデッキの一番下に戻す。①：このカードが手札・墓地に存在する場合、自分フィールドのレベル７以上の「オッドアイズ」モンスター１体を対象として発動できる。そのモンスターのレベルを３つ下げ、このカードを特殊召喚する。",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 33,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2015/06/20",
+  "species_id": 18,
+  "starchip": "3"
+}

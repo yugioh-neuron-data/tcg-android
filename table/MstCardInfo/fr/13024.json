@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 13024,
+  "card_name": "Combat Final Subterreur",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Activez 1 de ces effets, et aussi, après ça, Posez cette carte face verso au lieu de l'envoyer au Cimetière.$N●Changez 1 monstre \"Subterreur\" Posé sur le Terrain en Position d'Attaque ou Défense face recto.$N●Changez 1 monstre \"Subterreur\" face recto sur le Terrain en Position de Défense face verso.$N●Jusqu'à la fin de ce tour, l'ATK/DEF d'1 monstre \"Subterreur\" sur le Terrain deviennent égales à la somme de son ATK/DEF d'origine.$N●Ce tour, les effets de cartes \"Subterreur\" activés ne peuvent pas être annulés.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/05/04",
+  "species_id": 25,
+  "starchip": "0"
+}

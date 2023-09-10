@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 4,
+  "card_id": 15014,
+  "card_name": "王の影 ロプトル",
+  "card_name_label": "ジェネレイド・シャドウ ロプトル",
+  "card_name_search": "じぇねれいどしゃどうろぷとる",
+  "card_pen_effect": "",
+  "card_text": "このカード名の③の効果は１ターンに１度しか使用できない。①：「王の影 ロプトル」は自分フィールドに１体しか表側表示で存在できない。②：自分フィールドの「ジェネレイド」モンスターの攻撃力・守備力は相手ターンの間１０００アップする。③：自分・相手のメインフェイズに、自分フィールドの「ジェネレイド」モンスター１体をリリースして発動できる。そのモンスターとはカード名が異なるレベル９の「ジェネレイド」モンスター１体をデッキから特殊召喚する。",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/01/11",
+  "species_id": 17,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 3,
+  "card_id": 16100,
+  "card_name": "Osártico Megapolar",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante la Main Phase (Efecto Rápido): puedes Sacrificar otro monstruo de Nivel 7 o mayor en tu mano; Invoca esta carta de Modo Especial desde tu mano, y además por el resto de este turno no puedes Invocar de Modo Especial, excepto monstruos que tengan Nivel. Si esta carta es Invocada de Modo Especial mientras controlas otro monstruo \"Osártico/a\": puedes seleccionar 1 Mágica/Trampa que controle tu adversario; destrúyela. Sólo puedes usar cada efecto de \"Osártico Megapolar\" una vez por turno.",
+  "defense_power": "700",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/05/06",
+  "species_id": 12,
+  "starchip": "8"
+}

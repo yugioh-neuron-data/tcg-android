@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 13475,
+  "card_name": "Rayo de Protones",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Una vez por turno, si un efecto de carta activado lanza monedas, inmediatamente después de que se resuelva, aplica el o los siguientes efectos, dependiendo del número de caras.$N●1+: Inflige 500 puntos de daño a tu adversario.$N●2+: Destruye 1 carta que controle tu adversario.$N●3+: Mira la mano de tu adversario y descarta 1 carta en su mano.$NCuando un efecto que lance una moneda 2 o más veces es activado: puedes desterrar esta carta en el Cementerio; trata todos los resultados como caras.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/02/22",
+  "species_id": 25,
+  "starchip": "0"
+}

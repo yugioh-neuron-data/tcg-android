@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 11465,
+  "card_name": "Jormungardr la Serpiente Nórdica",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "No puede ser Invocada de Modo Normal/Colocada. Si hay un monstruo \"Aesir\" en el Campo, puedes Invocar esta carta de Modo Especial (desde tu mano) en el lado del Campo de tu adversario, en Posición de Defensa. Si no hay un monstruo \"Aesir\" en el Campo, destruye esta carta. Si esta carta en Posición de Defensa boca arriba que controlas es cambiada a Posición de Ataque boca arriba: recibe 3000 puntos de daño. Este efecto sólo puede ser usado una vez mientras esta carta está boca arriba en el Campo.",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/10/23",
+  "species_id": 1,
+  "starchip": "8"
+}

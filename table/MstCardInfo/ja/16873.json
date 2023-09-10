@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 16873,
+  "card_name": "ダイノルフィア・ドメイン",
+  "card_name_label": "ダイノルフィア・ドメイン",
+  "card_name_search": "だいのるふぃあどめいん",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：自分・相手のメインフェイズに、LPを半分払って発動できる。自分の手札・デッキ・フィールドから、「ダイノルフィア」融合モンスターカードによって決められた融合素材モンスターを墓地へ送り、その融合モンスター１体をEXデッキから融合召喚する。②：自分のLPが２０００以下で、相手が魔法・罠・モンスターの効果を発動した時、墓地のこのカードを除外して発動できる。このターン、相手の効果で発生する自分への効果ダメージは０になる。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/10/16",
+  "species_id": 25,
+  "starchip": "0"
+}

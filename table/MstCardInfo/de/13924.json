@@ -1,0 +1,23 @@
+{
+  "attack_power": "3200",
+  "attribute_id": 1,
+  "card_id": 13924,
+  "card_name": "Donnerdrachen-Titan",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "3 „Donnerdrache“-Monster$NMuss entweder als Fusionsbeschwörung beschworen werden oder als Spezialbeschwörung beschworen werden, indem du 1 Donner-Monster von deiner Hand und 1 Donner-Fusionsmonster, das du kontrollierst, verbannst, außer „Donnerdrachen-Titan“ (in diesem Fall wird „Polymerisation“ nicht verwendet). Wenn der Effekt eines Donner-Monsters in der Hand aktiviert wird, selbst während des Damage Steps (Schnelleffekt): Du kannst 1 Karte auf dem Spielfeld zerstören. Falls diese Karte durch einen Karteneffekt zerstört würde, kannst du stattdessen 2 Karten von deinem Friedhof verbannen.",
+  "defense_power": "3200",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/10/18",
+  "species_id": 19,
+  "starchip": "10"
+}

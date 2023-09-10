@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 16884,
+  "card_name": "死償不知",
+  "card_name_label": "ししょうふち",
+  "card_name_search": "ししょうふち",
+  "card_pen_effect": "",
+  "card_text": "①：自分のLPが相手より少ない場合に、以下の効果から１つを選択して発動できる。$N●その差の数値以下の攻撃力を持つ相手フィールドのモンスター１体を選んで破壊する。$N●その差の数値以下の攻撃力を持つモンスター１体を自分の墓地から選んで特殊召喚する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/10/16",
+  "species_id": 25,
+  "starchip": "0"
+}

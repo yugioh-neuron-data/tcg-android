@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 4,
+  "card_id": 8707,
+  "card_name": "네오플레임벨 사벨",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "상대의 묘지에 존재하는 카드가 4장 이하일 경우, 이 카드의 공격력은 600 포인트 올린다. 상대의 묘지에 존재하는 카드가 8장 이상일 경우, 이 카드의 공격력은 300 포인트 내린다.",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/12/06",
+  "species_id": 4,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 2,
+  "card_id": 14481,
+  "card_name": "ボルテスター",
+  "card_name_label": "ボルテスター",
+  "card_name_search": "ぼるてすたー",
+  "card_pen_effect": "",
+  "card_text": "このカード名の効果は１ターンに１度しか使用できない。①：このカードがリンクモンスターのリンク先に特殊召喚された場合に発動する。このカードとリンク状態になっているリンクモンスターを全て破壊する。さらに「破壊したリンクモンスターのリンク先のモンスターも全て破壊する」処理を繰り返す。（この効果でこのカードは破壊されない。）",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/04/13",
+  "species_id": 19,
+  "starchip": "7"
+}

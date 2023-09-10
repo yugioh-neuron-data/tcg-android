@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 6293,
+  "card_name": "Génesis de Vampiro",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial (desde tu mano) desterrando 1 \"Señor de los Vampiros\" que controles. Una vez por turno: puedes descartar al Cementerio 1 monstruo Zombi, y después seleccionar 1 monstruo Zombi en tu Cementerio con un Nivel menor que el del monstruo Zombi descartado; Invoca ese objetivo de Modo Especial.",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/01/01",
+  "species_id": 2,
+  "starchip": "8"
+}

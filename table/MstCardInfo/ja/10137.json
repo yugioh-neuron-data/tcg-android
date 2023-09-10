@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 10137,
+  "card_name": "H・C ソード・シールド",
+  "card_name_label": "ヒロイック・チャレンジャー　ソード・シールド",
+  "card_name_search": "ひろいっくちゃれんじゃーそーどしーるど",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上に「ヒロイック」と名のついたモンスターが存在する場合、このカードを手札から墓地へ送って発動できる。このターン、戦闘によって発生する自分への戦闘ダメージは０になり、自分フィールド上の「ヒロイック」と名のついたモンスターは戦闘では破壊されない。この効果は相手ターンでも発動できる。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/04/14",
+  "species_id": 15,
+  "starchip": "4"
+}

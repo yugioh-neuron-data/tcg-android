@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 13861,
+  "card_name": "Photonen-Wechsel",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lege diese Karte während deiner 2. Standby Phase nach ihrer Aktivierung auf den Friedhof. Du kannst den folgenden Effekt von „Photonen-Wechsel“ nur einmal pro Spielzug verwenden. Lege 1 „Photon“- oder „Galaxie“-Monster, das du kontrollierst, auf den Friedhof, um 1 dieser Effekte zu aktivieren, oder, falls du „Galaxieaugen-Photonendrache“ legst, kannst du beide nacheinander aktivieren;$N●Beschwöre 1 „Photon“-Monster mit einem unterschiedlichen Grund-Namen als das gelegte Monster als Spezialbeschwörung von deinem Deck.$N●Füge deiner Hand 1 „Photon“-Karte von deinem Deck hinzu, außer „Photonen-Wechsel“.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/09/27",
+  "species_id": 25,
+  "starchip": "0"
+}

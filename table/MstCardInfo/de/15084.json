@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 1,
+  "card_id": 15084,
+  "card_name": "Seleglare der leuchtende Monddrache",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Du kannst diese Karte als Normalbeschwörung beschwören/setzen, ohne Tribut anzubieten, aber ihre Grund-ATK werden zu 1500. Während der Main Phase (Schnelleffekt): Du kannst 1 Monster wählen, das dein Gegner kontrolliert und dessen ATK kleiner oder gleich denen dieser Karte sind; gib diese Karte auf die Hand zurück und falls du dies tust, übernimm bis zur End Phase die Kontrolle über das Monster des Gegners. Du kannst diesen Effekt von „Seleglare der leuchtende Monddrache“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/08/06",
+  "species_id": 1,
+  "starchip": "6"
+}

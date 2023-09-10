@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 13475,
+  "card_name": "Ataque Explosão de Laser",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Uma vez por turno, se um efeito de card ativado lançar alguma moeda, imediatamente depois que ele resolver, aplique o(s) seguinte(s) efeito(s), dependendo do número de caras.$N●1+: Cause 500 de dano ao seu oponente.$N●2+: Destrua 1 card que seu oponente controla.$N●3+: Olhe a mão do seu oponente e descarte 1 card da mão dele.$NQuando um efeito for ativado que lance uma moeda 2 ou mais vezes: você pode banir este card do Cemitério; considere todos os resultados como caras.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/02/22",
+  "species_id": 25,
+  "starchip": "0"
+}

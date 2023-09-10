@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 2,
+  "card_id": 12909,
+  "card_name": "黒牙の魔術師",
+  "card_name_label": "こくがのまじゅつし",
+  "card_name_search": "こくがのまじゅつし",
+  "card_pen_effect": "①：１ターンに１度、相手フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターの攻撃力をターン終了時まで半分にする。その後、このカードを破壊する。",
+  "card_text": "このカードはルール上「エクシーズ・ドラゴン」カードとしても扱う。①：このカードが戦闘・効果で破壊された場合、自分の墓地の魔法使い族・闇属性モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "8",
+  "pen_scale_r": "8",
+  "sales_at": "2016/12/23",
+  "species_id": 18,
+  "starchip": "4"
+}

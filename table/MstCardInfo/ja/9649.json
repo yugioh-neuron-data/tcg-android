@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 4,
+  "card_id": 9649,
+  "card_name": "龍炎剣の使い手",
+  "card_name_label": "りゅうえんけんのつかいて",
+  "card_name_search": "りゅうえんけんのつかいて",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上に「龍炎剣の使い手」以外のモンスターが召喚された時、そのモンスターのレベルを１つ上げ、このカードの攻撃力をエンドフェイズ時まで３００ポイントアップする事ができる。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/04/16",
+  "species_id": 15,
+  "starchip": "4"
+}

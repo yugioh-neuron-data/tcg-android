@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 3,
+  "card_id": 15506,
+  "card_name": "Ávido Reptolfín Codiciosus",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Puedes seleccionar 1 monstruo Pez, Serpiente Marina o Aqua en tu Cementerio con un Nivel igual o menor que el número de cartas en la mano de tu adversario; Invócalo de Modo Especial, pero este turno no puede activar sus efectos. Sólo puedes usar este efecto de \"Ávido Reptolfín Codiciosus\" una vez por turno. Si esta carta es mandada al Cementerio como Material de Sincronía: puedes hacer que el Monstruo de Sincronía que usó esta carta como material gane 200 ATK/DEF por cada carta en la mano de tu adversario en este momento.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/11/05",
+  "species_id": 8,
+  "starchip": "3"
+}

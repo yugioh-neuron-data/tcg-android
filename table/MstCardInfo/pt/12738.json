@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 5,
+  "card_id": 12738,
+  "card_name": "Camarartista Lançador de Ada-da-gas",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Durante sua Fase Principal, se este card foi ativado neste turno: você pode escolher 1 monstro \"Camarartista\" no seu Cemitério; adicione-o à sua mão. Você só pode usar este efeito de \"Camarartista Lançador de Ada-da-gas\" uma vez por turno.",
+  "card_text": "Durante sua Fase Principal, se este card foi Invocado por Invocação-Pêndulo neste turno: você pode enviar 1 monstro \"Camarartista\" da sua mão para o Cemitério; compre 1 card. Você só pode usar este efeito de \"Camarartista Lançador de Ada-da-gas\" uma vez por turno.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "2",
+  "pen_scale_r": "2",
+  "sales_at": "2017/02/09",
+  "species_id": 15,
+  "starchip": "5"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "400",
+  "attribute_id": 5,
+  "card_id": 12737,
+  "card_name": "Raton Poirier Potartiste",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Vous pouvez cibler 1 carte \"Potartiste\" que vous contrôlez ; renvoyez-la à la main, mais le reste de ce tour (même si cette carte quitte le Terrain), vous ne pouvez activer ni de cartes ni d'effets de cartes du même nom que celle renvoyée à la main par cet effet. Vous ne pouvez utiliser cet effet de \"Raton Poirier Potartiste\" qu'une fois par tour.",
+  "card_text": "Lorsque cette carte est détruite au combat : vous pouvez cibler 1 carte sur le Terrain ; renvoyez-la à la main.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2017/02/09",
+  "species_id": 11,
+  "starchip": "2"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16279,
+  "card_name": "Würde des Kriegsfelsens",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Du musst ein „Kriegsfels“-Monster kontrollieren, um einen dieser Effekte aktivieren zu können.$N●Wenn der Effekt eines Monsters, das dein Gegner kontrolliert, aktiviert wird: Annulliere den Effekt.$N●Während der Battle Phase, wenn dein Gegner eine Zauber-/Fallenkarte oder einen Monstereffekt aktiviert: Annulliere den Effekt.$NDu kannst nur 1 „Würde des Kriegsfelsens“ pro Spielzug aktivieren.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/06/03",
+  "species_id": 24,
+  "starchip": "0"
+}

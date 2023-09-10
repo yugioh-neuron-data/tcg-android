@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 5042,
+  "card_name": "Vitelline",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cette carte peut attaquer directement les Life Points de votre adversaire. À chaque fois que cette carte inflige des dommages de combat aux Life Points de votre adversaire, augmentez l'ATK de cette carte de 1000 points durant votre prochaine Standby Phase. L'augmentation d'ATK dure tant que cette carte reste face recto sur le Terrain.",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/07/22",
+  "species_id": 14,
+  "starchip": "3"
+}

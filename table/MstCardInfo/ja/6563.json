@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 4,
+  "card_id": 6563,
+  "card_name": "神炎皇ウリア",
+  "card_name_label": "しんえんおうウリア",
+  "card_name_search": "しんえんおううりあ",
+  "card_pen_effect": "",
+  "card_text": "このカードは通常召喚できない。自分フィールドの表側表示の罠カード３枚を墓地へ送った場合のみ特殊召喚できる。①：このカードの攻撃力は、自分の墓地の永続罠カードの数×１０００アップする。②：１ターンに１度、相手フィールドにセットされた魔法・罠カード１枚を対象として発動できる。セットされたそのカードを破壊する。この効果の発動に対して魔法・罠カードは発動できない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/11/17",
+  "species_id": 4,
+  "starchip": "10"
+}

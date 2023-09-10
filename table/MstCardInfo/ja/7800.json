@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 2,
+  "card_id": 7800,
+  "card_name": "邪狂神の使い",
+  "card_name_label": "じゃきょうしんのつかい",
+  "card_name_search": "じゃきょうしんのつかい",
+  "card_pen_effect": "",
+  "card_text": "相手のスタンバイフェイズ時に１度だけ、自分の墓地に存在する闇属性モンスターを任意の枚数ゲームから除外する事ができる。エンドフェイズ時まで、このカードの守備力はこの効果で除外したモンスターの数×５００ポイントアップする。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/09/19",
+  "species_id": 18,
+  "starchip": "3"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10838,
+  "card_name": "ゴゴゴ護符",
+  "card_name_label": "ゴゴゴごふ",
+  "card_name_search": "ごごごごふ",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上に「ゴゴゴ」と名のついたモンスターが２体以上存在する場合、自分が受ける効果ダメージは０になる。また、１ターンに１度、自分フィールド上の「ゴゴゴ」と名のついたモンスターが戦闘を行う攻撃宣言時に発動できる。その自分のモンスターはその戦闘では破壊されない。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/09/21",
+  "species_id": 24,
+  "starchip": "0"
+}

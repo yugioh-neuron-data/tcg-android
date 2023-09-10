@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 5,
+  "card_id": 13147,
+  "card_name": "Amazonischer Schoßtiger",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "„Amazonische Tigerdame“ + 1 „Amazonisch“-Monster$NEinmal pro Kampf, falls diese Karte angreift, während der Schadensberechnung: Du kannst diese Karte nur während der Schadensberechnung 500 ATK erhalten lassen. Falls dein „Amazonisch“-Monster ein Monster eines Gegners angegriffen hat, nach der Schadensberechnung: Du kannst 1 offenes Monster wählen, das dein Gegner kontrolliert; es verliert 800 ATK. Monster, die dein Gegner kontrolliert, können keine „Amazonisch“-Monster angreifen, die du kontrollierst, außer diesem.",
+  "defense_power": "2400",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/10/19",
+  "species_id": 11,
+  "starchip": "7"
+}

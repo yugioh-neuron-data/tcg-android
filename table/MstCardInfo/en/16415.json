@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16415,
+  "card_name": "Ecole de Zone",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "If the turn player Summons exactly 1 monster: Destroy it, and if you do, the controller of that monster Special Summons 1 \"Mask Token\" (Spellcaster/DARK/Level 1/ATK ?/DEF ?) to their field, which cannot attack directly, with ATK/DEF equal to what the destroyed monster had on the field. You can only use this effect of \"Ecole de Zone\" once per turn. If this face-up card leaves the field, destroy all \"Mask Tokens\" on the field.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/12/02",
+  "species_id": 24,
+  "starchip": "0"
+}

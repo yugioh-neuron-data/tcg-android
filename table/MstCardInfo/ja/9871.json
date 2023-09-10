@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 9871,
+  "card_name": "エクシーズ・テリトリー",
+  "card_name_label": "エクシーズ・テリトリー",
+  "card_name_search": "えくしーずてりとりー",
+  "card_pen_effect": "",
+  "card_text": "エクシーズモンスターがモンスターと戦闘を行うダメージ計算時のみ、そのエクシーズモンスターの攻撃力・守備力はそのランク×２００ポイントアップする。フィールド上のこのカードがカードの効果によって破壊される場合、代わりに自分フィールド上のエクシーズ素材を１つ取り除く事ができる。",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/10/13",
+  "species_id": 24,
+  "starchip": "0"
+}

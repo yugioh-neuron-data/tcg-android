@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 1,
+  "card_id": 13255,
+  "card_name": "Gracia Elemental Doriado",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial (desde tu mano) teniendo 6 o más monstruos con diferentes Atributos en los Cementerios. Gana ATK/DEF igual a la cantidad de Atributos diferentes en los Cementerios x 500. Cuando tu adversario fuera a Invocar uno o más monstruos de Modo Especial (Efecto Rápido): puedes desterrar 3 monstruos en tu Cementerio; niega la Invocación y, si lo haces, destruye esos monstruos.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/10/19",
+  "species_id": 18,
+  "starchip": "9"
+}

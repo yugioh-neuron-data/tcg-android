@@ -1,0 +1,23 @@
+{
+  "attack_power": "2200",
+  "attribute_id": 6,
+  "card_id": 6893,
+  "card_name": "コンボマスター",
+  "card_name_label": "コンボマスター",
+  "card_name_search": "こんぼますたー",
+  "card_pen_effect": "",
+  "card_text": "このカードがフィールド上に表側表示で存在する時に自分ターンのメインフェイズ１でチェーンが発生した場合、このターンのみこのカードは１度のバトルフェイズ中に２回攻撃する事ができる。",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/08/10",
+  "species_id": 15,
+  "starchip": "5"
+}

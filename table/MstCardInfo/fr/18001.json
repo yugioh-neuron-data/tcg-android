@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 18001,
+  "card_name": "CONFINEMENT !",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "(Cette carte est toujours traitée comme une carte \"Secours-AS\".)$NSi vous contrôlez un monstre \"Secours-AS\" : ciblez 1 Monstre à Effet contrôlé par votre adversaire ; ce tour, le Monstre à Effet ne peut pas attaquer, et aussi, ses effets sont annulés. Si vous contrôlez \"Hydrant des Secours-AS\" à la résolution de cet effet, le monstre ne peut aussi pas être utilisé comme Matériel pour une Invocation Fusion, Synchro, Xyz ou Lien ce tour.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/01/19",
+  "species_id": 25,
+  "starchip": "0"
+}

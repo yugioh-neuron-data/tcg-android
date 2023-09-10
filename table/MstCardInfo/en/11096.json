@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11096,
+  "card_name": "Forbidden Scripture",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "If a monster battles an opponent's monster, during damage calculation: Negate all other card effects on the field until the end of the Damage Step, also damage calculation for this battle uses each monster's original ATK and DEF.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/05/16",
+  "species_id": 24,
+  "starchip": "0"
+}

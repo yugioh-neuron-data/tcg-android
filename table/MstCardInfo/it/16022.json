@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16022,
+  "card_name": "Tu e A.I.",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se uno o più mostri Cyberso con ATK originale 2300 vengono Evocati Specialmente: puoi attivare 1 di questi effetti a seconda dell'Attributo di quei mostri sul Terreno;$N●TERRA/ACQUA: Dimezza l'ATK di 1 mostro scoperto sul Terreno fino alla fine di questo turno.$N●VENTO/LUCE: Annulla gli effetti di 1 carta scoperta sul Terreno fino alla fine di questo turno.$N●FUOCO/OSCURITÀ: Evoca Specialmente 1 \"Segna-@Ignister\" (Cyberso/OSCURITÀ/Livello 1/ATK 0/DEF 0).$NPuoi utilizzare ogni effetto di \"Tu e A.I.\" una sola volta per turno per ogni Attributo.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/06/03",
+  "species_id": 24,
+  "starchip": "0"
+}

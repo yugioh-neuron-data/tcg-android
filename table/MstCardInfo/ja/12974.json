@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 12974,
+  "card_name": "光虫信号",
+  "card_name_label": "バグ・シグナル",
+  "card_name_search": "ばぐしぐなる",
+  "card_pen_effect": "",
+  "card_text": "「光虫信号」は１ターンに１枚しか発動できない。①：自分フィールドの昆虫族Xモンスター１体を対象として発動できる。その自分のモンスターよりランクが２つ高い、またはランクが２つ低い昆虫族Xモンスター１体を、対象のモンスターの上に重ねてX召喚扱いとしてエクストラデッキから特殊召喚する。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/01/14",
+  "species_id": 24,
+  "starchip": "0"
+}

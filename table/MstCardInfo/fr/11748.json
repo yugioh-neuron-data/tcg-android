@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 11748,
+  "card_name": "Purification du Vide",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si vous contrôlez un monstre (monstres \"Infernoid\" exclus), envoyez cette carte au Cimetière. Vous ne pouvez utiliser chacun de ces effets de \"Purification du Vide\" qu'une fois par tour.$N●Durant chaque Standby Phase de votre adversaire : vous pouvez cibler 1 monstre \"Infernoid\" dans votre Cimetière ; ajoutez-le à votre main.$N●Durant chacune de vos Standby Phases : vous pouvez cibler 1 de vos monstres \"Infernoid\" bannis ; renvoyez-le au Cimetière.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/05/14",
+  "species_id": 25,
+  "starchip": "0"
+}

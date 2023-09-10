@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 6,
+  "card_id": 15461,
+  "card_name": "Dragão Secular",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Uma vez por turno: você pode fazer com que este card ganhe Níveis igual ao número de cards que você controla e, se isso acontecer, ele ganha 100 de ATK para cada Nível que ele ganhou. Essas mudanças duram até o final deste turno. Se este card for enviado para o Cemitério: você pode escolher 1 monstro com a face para cima que você controla que foi Invocado por Invocação-Especial do Deck Adicional; na primeira vez que esse monstro com a face para cima seria destruído em batalha ou por um efeito de card, ele não é destruído. Você só pode usar este efeito de \"Dragão Secular\" uma vez por turno.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/09/10",
+  "species_id": 1,
+  "starchip": "4"
+}

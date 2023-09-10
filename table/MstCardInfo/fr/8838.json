@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 8838,
+  "card_name": "Armature de Puissance",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsqu'un monstre face recto que vous contrôlez est ciblé par une attaque d'un monstre avec une ATK supérieure : ciblez la cible de l'attaque ; annulez l'attaque, et si vous le faites, équipez cette carte à la cible. Le monstre équipé gagne une ATK égale à la différence entre son ATK et l'ATK de son attaquant lorsque cette carte est résolue.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/05/06",
+  "species_id": 25,
+  "starchip": "0"
+}

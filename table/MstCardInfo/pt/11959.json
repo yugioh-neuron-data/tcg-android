@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 1,
+  "card_id": 11959,
+  "card_name": "Camaramágico Espelho Condutor",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Uma vez por turno: você pode escolher 1 monstro com a face para cima no campo Invocado por Invocação-Especial; seu ATK e DEF se tornam igual ao seu ATK e DEF atuais (o que for menor) até o final deste turno (mesmo que este card deixe o campo).",
+  "card_text": "Uma vez por turno, durante o turno de qualquer duelista: você pode escolher 1 monstro com a face para cima no campo; troque o ATK atual pela DEF atual dele e, depois, sofra 500 de dano. Esta troca de ATK e DEF dura até o final deste turno.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2015/11/06",
+  "species_id": 18,
+  "starchip": "4"
+}

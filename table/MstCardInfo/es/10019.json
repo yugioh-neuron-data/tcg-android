@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 3,
+  "card_id": 10019,
+  "card_name": "Tiburón de Cuerda",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando un monstruo \"de Cuerda\" es Invocado de Modo Normal o Especial a tu lado del Campo: puedes Invocar esta carta de Modo Especial desde tu mano. Una vez por turno: puedes activar 1 de estos efectos.$N●Incrementa el Nivel de esta carta en 1, hasta la End Phase.$N●Reduce el Nivel de esta carta en 1, hasta la End Phase.",
+  "defense_power": "1300",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/01/19",
+  "species_id": 8,
+  "starchip": "4"
+}

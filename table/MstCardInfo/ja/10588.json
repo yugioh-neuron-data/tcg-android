@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 1,
+  "card_id": 10588,
+  "card_name": "青き眼の乙女",
+  "card_name_label": "あおきめのおとめ",
+  "card_name_search": "あおきめのおとめ",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：フィールドの表側表示のこのカードが効果の対象になった時に発動できる。自分の手札・デッキ・墓地から「青眼の白龍」１体を選んで特殊召喚する。②：このカードが攻撃対象に選択された時に発動できる。その攻撃を無効にし、このカードの表示形式を変更する。その後、自分の手札・デッキ・墓地から「青眼の白龍」１体を選んで特殊召喚できる。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/06/15",
+  "species_id": 18,
+  "starchip": "1"
+}

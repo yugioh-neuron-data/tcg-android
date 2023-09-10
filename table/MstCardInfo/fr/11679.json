@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 5,
+  "card_id": 11679,
+  "card_name": "Lézarpioche Potartiste",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Si vous avez une carte \"Potartiste\" (\"Lézarpioche Potartiste\" exclu) dans votre autre Zone Pendule : vous pouvez détruire cette carte, et si vous le faites, piochez 1 carte. Vous ne pouvez utiliser cet effet de \"Lézarpioche Potartiste\" qu'une fois par tour.",
+  "card_text": "Si un autre monstre face recto que vous contrôlez est détruit par une attaque ou effet de carte de votre adversaire : vous pouvez piocher un nombre de cartes égal au nombre de monstres \"Potartiste\" que vous contrôlez actuellement. Vous ne pouvez utiliser cet effet de \"Lézarpioche Potartiste\" qu'une fois par tour.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "6",
+  "pen_scale_r": "6",
+  "sales_at": "2015/05/14",
+  "species_id": 20,
+  "starchip": "3"
+}

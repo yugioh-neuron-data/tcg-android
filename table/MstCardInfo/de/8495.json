@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 8495,
+  "card_name": "Wütend tobende Pflanzen",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Alle Monster vom Typ Pflanze, die du derzeit kontrollierst, erhalten bis zum Ende dieses Spielzugs 300 ATK für jedes Monster vom Typ Pflanze, das sich derzeit in deinem Friedhof befindet. Während der End Phase, zerstöre alle Monster vom Typ Pflanze, die du kontrollierst.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/11/12",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2600",
+  "attribute_id": 1,
+  "card_id": 10884,
+  "card_name": "Michael, l'Arci-Fedele della Luce",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Tuner + 1 o più mostri LUCE non-Tuner$NUna volta per turno: puoi pagare 1000 LP, poi scegliere come bersaglio 1 carta sul Terreno; bandisci quel bersaglio. Quando questa carta viene distrutta: puoi scegliere come bersaglio un qualsiasi numero di altri mostri \"Fedele della Luce\" nel tuo Cimitero; mischiali nel Deck e, se lo fai, guadagni 300 LP per ogni carta fatta ritornare nel Deck. Durante ogni tua End Phase: manda le prime 3 carte del tuo Deck al Cimitero.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/06/26",
+  "species_id": 1,
+  "starchip": "7"
+}

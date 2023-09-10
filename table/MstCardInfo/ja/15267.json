@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 3,
+  "card_id": 15267,
+  "card_name": "揺海魚デッドリーフ",
+  "card_name_label": "ようかいぎょデッドリーフ",
+  "card_name_search": "ようかいぎょでっどりーふ",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚・反転召喚・特殊召喚に成功した時に発動できる。デッキから「揺海魚デッドリーフ」以外の魚族モンスター１体を墓地へ送る。②：墓地のこのカードを除外し、自分の墓地の魚族モンスター３体を対象として発動できる。そのモンスターをデッキに加えてシャッフルする。その後、自分はデッキから１枚ドローする。",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/18",
+  "species_id": 8,
+  "starchip": "4"
+}

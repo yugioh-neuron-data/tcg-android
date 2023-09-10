@@ -1,0 +1,23 @@
+{
+  "attack_power": "1900",
+  "attribute_id": 1,
+  "card_id": 10753,
+  "card_name": "武神－ミカヅチ",
+  "card_name_label": "ぶじん－ミカヅチ",
+  "card_name_search": "ぶじんみかづち",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上の「武神」と名のついた獣戦士族モンスターが戦闘またはカードの効果によって破壊され墓地へ送られた時、このカードを手札から特殊召喚できる。また、このカードがフィールド上に表側表示で存在し、自分の手札から「武神」と名のついたモンスターが自分の墓地へ送られた場合、そのターンのエンドフェイズ時に１度、デッキから「武神」と名のついた魔法・罠カード１枚を手札に加える事ができる。「武神－ミカヅチ」は自分フィールド上に１体しか表側表示で存在できない。",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/07/20",
+  "species_id": 12,
+  "starchip": "4"
+}

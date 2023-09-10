@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 10827,
+  "card_name": "Austausch von Tag und Nacht",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Du kannst nur 1 Effekt von „Austausch von Tag und Nacht“ pro Spielzug verwenden und in dem Spielzug nur einmal. Du kannst 1 dieser Effekte aktivieren;$N●Lege 1 LICHT Monster vom Typ Krieger von deiner Hand auf den Friedhof, dann füge deiner Hand 1 FINSTERNIS Monster vom Typ Krieger mit derselben Stufe, die das auf den Friedhof gelegte Monster in deiner Hand hatte, von deinem Deck hinzu.$N●Lege 1 FINSTERNIS Monster vom Typ Krieger von deiner Hand auf den Friedhof, dann füge deiner Hand 1 LICHT Monster vom Typ Krieger mit derselben Stufe, die das auf den Friedhof gelegte Monster in deiner Hand hatte, von deinem Deck hinzu.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/08/14",
+  "species_id": 25,
+  "starchip": "0"
+}

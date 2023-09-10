@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 4,
+  "card_id": 17778,
+  "card_name": "Ignis Phoenix, the Dracoslayer",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "During your Main Phase: You can shuffle 1 face-up Pendulum Monster from your Extra Deck into the Deck, then add 1 non-Pendulum \"Dracoslayer\" or \"Igknight\" monster from your Deck to your hand. You can only use this effect of \"Ignis Phoenix, the Dracoslayer\" once per turn.",
+  "card_text": "(This card is always treated as an \"Igknight\" card.)$NIf this card on the field is destroyed by battle or card effect: You can Special Summon 1 \"Dracoslayer\" or \"Igknight\" monster from your Deck, except \"Ignis Phoenix, the Dracoslayer\", and if you do, it is treated as a Tuner. You can only use this effect of \"Ignis Phoenix, the Dracoslayer\" once per turn.",
+  "defense_power": "1900",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "7",
+  "pen_scale_r": "7",
+  "sales_at": "2022/10/20",
+  "species_id": 15,
+  "starchip": "4"
+}

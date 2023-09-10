@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 1,
+  "card_id": 13405,
+  "card_name": "Inspektor Boarder",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Kann nicht als Normal- oder Spezialbeschwörung beschworen werden, falls du ein Monster kontrollierst. Kein Spieler kann Monstereffekte aktivieren, es sei denn, die Anzahl der Monstereffekte, die dieser Spieler in diesem Spielzug bereits aktiviert hat, ist kleiner als die Anzahl der Monsterkartentypen, die derzeit auf dem Spielfeld liegen (Ritual-, Fusion-, Synchro-, Xyz-, Pendel- und Linkmonster). (Falls die Aktivierung eines Effekts annulliert wurde, zählt er trotzdem für die Anzahl für den Spielzug. Zähle nur Effekte, die aktiviert wurden, solange dieses Monster offen auf dem Spielfeld lag.)",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/02/01",
+  "species_id": 7,
+  "starchip": "4"
+}

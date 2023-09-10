@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 3,
+  "card_id": 9216,
+  "card_name": "氷結のフィッツジェラルド",
+  "card_name_label": "ひょうけつのフィッツジェラルド",
+  "card_name_search": "ひょうけつのふぃっつじぇらるど",
+  "card_pen_effect": "",
+  "card_text": "闇属性チューナー＋チューナー以外の獣族モンスター１体$Nこのカードが攻撃する場合、相手はダメージステップ終了時まで魔法・罠カードを発動する事ができない。このカードが戦闘によって破壊され墓地へ送られた時、自分フィールド上にモンスターが存在しない場合、手札を１枚捨てる事でこのカードを墓地から表側守備表示で特殊召喚する。",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/11/20",
+  "species_id": 3,
+  "starchip": "5"
+}

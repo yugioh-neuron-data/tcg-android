@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 3,
+  "card_id": 18183,
+  "card_name": "Aegirine Gymir Jadeglace",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Syntoniseur EAU + 1+ monstre non-Syntoniseur$N(Effet Rapide) : vous pouvez activer cet effet ; ce tour, les monstres face recto que vous contrôlez ne peuvent être ni détruits ni bannis par des effets de carte de votre adversaire. Puis, si vous avez activé cet effet en réponse à l'activation de carte ou d'effet de votre adversaire, et que votre adversaire a une ou plusieurs cartes de ce nom sur son Terrain et/ou Cimetière, vous pouvez bannir ces cartes. Si une ou plusieurs cartes sont bannies par un effet de carte de votre adversaire, tant que cette carte est dans votre Cimetière (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte. Vous ne pouvez utiliser chaque effet de \"Aegirine Gymir Jadeglace\" qu'une fois par tour.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/02/06",
+  "species_id": 14,
+  "starchip": "10"
+}

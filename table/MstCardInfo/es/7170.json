@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 7170,
+  "card_name": "Espejo Puerta",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Activa esta carta sólo cuando un monstruo de tu adversario declare un ataque que tenga como objetivo un monstruo \"HÉROE Elemental\" boca arriba que controles. Intercambia el control del monstruo atacante y del monstruo atacado, y luego calcula el daño. El control de los monstruos se intercambia de nuevo durante la End Phase de este turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/08/15",
+  "species_id": 25,
+  "starchip": "0"
+}

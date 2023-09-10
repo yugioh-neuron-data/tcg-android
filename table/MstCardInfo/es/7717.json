@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 1,
+  "card_id": 7717,
+  "card_name": "Protector de la Mente",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "El controlador de esta carta debe pagar 500 Life Points durante cada una de sus Standby Phases. Si no puede, destruye esta carta. Los monstruos con 2000 o menos de ATK no pueden declarar ataques, excepto los monstruos de Tipo Psíquico.",
+  "defense_power": "2200",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/09/02",
+  "species_id": 21,
+  "starchip": "3"
+}

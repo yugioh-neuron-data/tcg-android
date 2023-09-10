@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 3,
+  "card_id": 7333,
+  "card_name": "Cuidador del Océano",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante una batalla entre esta carta atacante y un monstruo en Posición de Defensa cuya DEF es más baja que el ATK de esta carta, inflige la diferencia como Daño de Batalla a tu adversario. Cuando esta carta es destruida en batalla, añade a tu mano 1 \"Medusa de Mil Ojos\" o 1 \"Pez Cráneo\" de tu Deck.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/08/15",
+  "species_id": 8,
+  "starchip": "3"
+}

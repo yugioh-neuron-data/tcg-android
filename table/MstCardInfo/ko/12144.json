@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 1,
+  "card_id": 12144,
+  "card_name": "해방의 아리아드네",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "①: 이 카드가 펜듈럼 존에 존재하는 한, 이하의 효과를 적용한다.$N●자신은 카운터 함정 카드를 발동하기 위해 지불할 LP가 필요 없게 된다.$N●자신은 카운터 함정 카드를 발동하기 위해 버릴 패가 필요 없게 된다.",
+  "card_text": "①: 이 카드가 전투 / 효과로 파괴되었을 경우에 발동할 수 있다. 덱에서 카운터 함정 카드 3장을 상대에게 보여주고, 상대는 그 중에서 1장 고른다. 그 카드 1장을 자신의 패에 넣고, 나머지를 덱으로 되돌린다.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2016/02/01",
+  "species_id": 17,
+  "starchip": "4"
+}

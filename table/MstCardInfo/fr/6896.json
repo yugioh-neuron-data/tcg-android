@@ -1,0 +1,23 @@
+{
+  "attack_power": "2300",
+  "attribute_id": 6,
+  "card_id": 6896,
+  "card_name": "Tireur de la Tempête",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Une fois par tour, vous pouvez sélectionner et activer 1 des effets suivants :$N ● Déplacer cette carte vers une Zone Carte Monstre adjacente inoccupée.$N ● Renvoyer 1 Carte Magie, Piège ou Monstre dans la même colonne que cette carte sur le Terrain de votre adversaire dans la main de son propriétaire.",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/11/04",
+  "species_id": 16,
+  "starchip": "7"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 2,
+  "card_id": 9917,
+  "card_name": "Numéro 96 : Brume Sombre",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "3 monstres de Niveau 2$NUne fois par combat, lorsqu'une attaque impliquant cette carte et un monstre de l'adversaire est déclarée (Effet Rapide) : vous pouvez détacher 1 Matériel de cette carte ; divisez par deux l'ATK du monstre de l'adversaire, et si vous le faites, cette carte gagne ce montant d'ATK.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/01/19",
+  "species_id": 3,
+  "starchip": "2"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 17180,
+  "card_name": "Pendelbereich",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls du 2 Karten in deinen Pendelzonen hast: Führe den folgenden Effekt aus, basierend auf der Differenz der Pendelbereiche.$N●0: Zerstöre 2 Zauber/Fallen auf dem Spielfeld.$N●1, 2 oder 3: Füge deiner Hand 1 Pendelmonster der Stufe 2, 3 oder 4 von deinem Deck hinzu.$N●4, 5 oder 6: Füge deiner Hand 1 Pendelmonster der Stufe 5, 6 oder 7 von deinem Deck hinzu.$N●7+: Gib bis zu 2 Karten von deinen Pendelzonen auf die Hand zurück, dann kannst du 1 Pendelmonster als Spezialbeschwörung von deiner Hand beschwören.$NDu kannst nur 1 „Pendelbereich“ pro Spielzug aktivieren.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/05/19",
+  "species_id": 25,
+  "starchip": "0"
+}

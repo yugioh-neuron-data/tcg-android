@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 18000,
+  "card_name": "ALERTE !",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "(Cette carte est toujours traitée comme une carte \"Secours-AS\".)$NAjoutez 1 monstre \"Secours-AS\" depuis votre Cimetière à votre main, ou si vous contrôlez \"Hydrant des Secours-AS\", vous pouvez ajouter 1 monstre \"Secours-AS\" depuis votre Deck à votre main à la place. Vous ne pouvez activer qu'1 \"ALERTE !\" par tour.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/01/19",
+  "species_id": 24,
+  "starchip": "0"
+}

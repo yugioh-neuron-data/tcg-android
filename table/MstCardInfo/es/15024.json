@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 15024,
+  "card_name": "Rizos de Oro la Paisajista de Batalla",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si esta carta es Invocada de Modo Normal o Especial a una zona que no es el centro de la Zona de Monstruos Principal, destruye esta carta. Esta carta gana 3000 ATK mientras está en el centro de la Zona de Monstruos Principal. Una vez por turno: puedes elegir 1 de tus Zonas de Monstruos Principales sin usar; mueve esta carta de tu Zona de Monstruos Principal a esa zona, y después destruye todas las otras cartas en la columna de la zona donde estaba esta carta, la columna donde esta carta ha sido movida, y todas las columnas entre ellas.",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/30",
+  "species_id": 7,
+  "starchip": "10"
+}

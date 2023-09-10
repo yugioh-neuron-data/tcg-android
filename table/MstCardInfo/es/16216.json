@@ -1,0 +1,23 @@
+{
+  "attack_power": "1300",
+  "attribute_id": 5,
+  "card_id": 16216,
+  "card_name": "Konohanasakuya",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial (desde tu mano) controlando un monstruo Spirit. Sólo puedes Invocar de Modo Especial \"Konohanasakuya\" una vez por turno de esta forma. Una vez por turno, durante la End Phase, si este turno esta carta fue Invocada de Modo Especial: devuélvela a la mano. Una vez por turno, durante la End Phase: puedes desterrar esta carta en tu Cementerio, y después seleccionar 1 monstruo Spirit que controles; por el resto de este turno ningún jugador puede activar los efectos de ese monstruo boca arriba en el Campo.",
+  "defense_power": "1300",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 29,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/08/12",
+  "species_id": 17,
+  "starchip": "3"
+}

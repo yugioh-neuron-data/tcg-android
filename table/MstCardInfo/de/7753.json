@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 7753,
+  "card_name": "Ausrüstungsschuss",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Aktiviere diese Karte nur während der Battle Phase. Wähle 1 Ausrüstungskarte, die ein Monster in offener Angriffsposition ausrüstet, das du kontrollierst, und wähle 1 Monster in offener Angriffsposition, das dein Gegner kontrolliert. Rüste das Monster mit der gewählten Ausrüstungskarte aus. Führe dann einen Kampf zwischen deinem zuvor ausgerüsteten Monster und dem gewählten Monster durch (andere Effekte können während dieses Kampfes nicht aktiviert werden).",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/09/02",
+  "species_id": 25,
+  "starchip": "0"
+}

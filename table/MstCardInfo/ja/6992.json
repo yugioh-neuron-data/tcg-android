@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 1,
+  "card_id": 6992,
+  "card_name": "覚醒戦士 クーフーリン",
+  "card_name_label": "かくせいせんし　クーフーリン",
+  "card_name_search": "かくせいせんしくーふーりん",
+  "card_pen_effect": "",
+  "card_text": "「覚醒の証」により降臨。１ターンに１度、自分の墓地に存在する通常モンスター１体を選択して発動する事ができる。選択したモンスターをゲームから除外し、除外したその通常モンスターの攻撃力分だけ、次の自分のターンのスタンバイフェイズ時までこのカードの攻撃力をアップする。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 5,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/11/16",
+  "species_id": 15,
+  "starchip": "4"
+}

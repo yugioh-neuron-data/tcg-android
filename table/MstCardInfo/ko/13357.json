@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 13357,
+  "card_name": "용기사 블랙 매지션",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"블랙 매지션\" ＋ 드래곤족 몬스터$N①: 이 카드의 카드명은, 필드 / 묘지에 존재하는 한 \"블랙 매지션\"으로 취급한다. ②: 이 카드가 몬스터 존에 존재하는 한, 자신 필드의 마법 / 함정 카드는 상대 효과의 대상이 되지 않으며, 상대 효과로는 파괴되지 않는다.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/05/29",
+  "species_id": 1,
+  "starchip": "8"
+}

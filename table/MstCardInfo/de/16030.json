@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 16030,
+  "card_name": "Richten der Markierten",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wähle 1 Fusionsmonster der Stufe 8 oder höher, das du kontrollierst; zerstöre alle Monster, die dein Gegner kontrolliert und deren ATK größer oder gleich denen jenes Monsters sind. Während der End Phase, falls sich diese Karte im Friedhof befindet, weil sie in diesem Spielzug dorthin gelegt wurde, um den Effekt von „Gefallener von Albaz“ zu aktivieren: Du kannst diese Karte setzen. Du kannst diesen Effekt von „Richten der Markierten“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/06/03",
+  "species_id": 25,
+  "starchip": "0"
+}

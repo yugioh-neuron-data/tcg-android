@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 5978,
+  "card_name": "神秘の中華なべ",
+  "card_name_label": "しんぴのちゅうかなべ",
+  "card_name_search": "しんぴのちゅうかなべ",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上のモンスター１体を生け贄に捧げる。生け贄に捧げたモンスターの攻撃力か守備力を選択し、その数値だけ自分のライフポイントを回復する。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2003/11/20",
+  "species_id": 24,
+  "starchip": "0"
+}

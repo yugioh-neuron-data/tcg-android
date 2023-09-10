@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 16095,
+  "card_name": "Música Solfacorde",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Activa 1 de estos efectos, basándote en las Escalas de Péndulo de las Cartas de Monstruo de Péndulo \"Solfacorde\" que controles.$N●Impar: Invoca de Modo Especial, desde tu Deck Extra, 1 Monstruo de Péndulo \"Solfacorde\" con Escala de Péndulo impar boca arriba.$N●Par: Invoca de Modo Especial, desde tu Deck Extra, 1 Monstruo de Péndulo \"Solfacorde\" con Escala de Péndulo par boca arriba.$N●Par e Impar: selecciona 1 carta que controle tu adversario; destrúyela.$NSólo puedes activar 1 \"Música Solfacorde\" por turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/05/06",
+  "species_id": 25,
+  "starchip": "0"
+}

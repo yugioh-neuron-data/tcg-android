@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 2,
+  "card_id": 12287,
+  "card_name": "Raidraptor - Pie-Grièche de la Douleur",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Non utilisable comme Matériel Xyz pour une Invocation Xyz, sauf pour l'Invocation Xyz d'un monstre de Type Bête Ailée. Si cette carte est dans votre main : vous pouvez cibler 1 monstre \"Raidraptor\" que vous contrôlez qui a un niveau ; recevez des dommages égaux à son ATK ou DEF (la plus faible valeur, et en cas d'égalité, vous choisissez), et si vous le faites, Invoquez Spécialement cette carte, et si vous faites ça, le Niveau de cette carte devient le Niveau actuel du monstre ciblé. Vous ne pouvez utiliser cet effet de \"Raidraptor - Pie-Grièche de la Douleur\" qu'une fois par tour.",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/05/05",
+  "species_id": 16,
+  "starchip": "1"
+}

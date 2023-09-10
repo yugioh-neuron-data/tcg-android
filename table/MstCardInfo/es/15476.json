@@ -1,0 +1,23 @@
+{
+  "attack_power": "2600",
+  "attribute_id": 2,
+  "card_id": 15476,
+  "card_name": "Dédalo del Caos",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "No puede ser Invocado de Modo Normal/Colocado. Debe ser primero Invocado de Modo Especial (desde tu mano) desterrando 1 monstruo de LUZ y 1 de OSCURIDAD en tu Cementerio. Mientras una Mágica de Campo esté boca arriba en el Campo, tu adversario no puede seleccionar monstruos de LUZ u OSCURIDAD que controles para efectos de cartas. Puedes seleccionar hasta tantas cartas en el Campo como el número de Mágicas de Campo boca arriba en el Campo; destiérralas. Sólo puedes usar este efecto de \"Dédalo del Caos\" una vez por turno.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/06/18",
+  "species_id": 5,
+  "starchip": "7"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 5232,
+  "card_name": "Jugement d'Anubis",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsque votre adversaire active une Carte Magie qui va détruire un ou plusieurs Magies/Pièges sur le Terrain : défaussez 1 carte ; annulez l'activation, et si vous le faites, détruisez-la, puis vous pouvez détruire 1 monstre face recto contrôlé par votre adversaire, et si vous faites ça, infligez des dommages à votre adversaire égaux à l'ATK du monstre détruit sur le Terrain.",
+  "defense_power": "0",
+  "effect_id": 1,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "1000/01/01",
+  "species_id": 25,
+  "starchip": "0"
+}

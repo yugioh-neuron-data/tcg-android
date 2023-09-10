@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 3,
+  "card_id": 9624,
+  "card_name": "ドリル・バーニカル",
+  "card_name_label": "ドリル・バーニカル",
+  "card_name_search": "どりるばーにかる",
+  "card_pen_effect": "",
+  "card_text": "このカードは相手プレイヤーに直接攻撃する事ができる。このカードが直接攻撃によって相手ライフに戦闘ダメージを与える度に、このカードの攻撃力は１０００ポイントアップする。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/04/16",
+  "species_id": 14,
+  "starchip": "3"
+}

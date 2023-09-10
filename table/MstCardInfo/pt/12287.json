@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 2,
+  "card_id": 12287,
+  "card_name": "Ataqueraptor - Laniidae Doloroso",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Não pode ser usado como uma Matéria Xyz para uma Invocação-Xyz, exceto para a Invocação-Xyz de um monstro do Tipo Besta Alada. Se este card estiver na sua mão: você pode escolher 1 monstro \"Ataqueraptor\" que você controla que tenha um Nível; sofra dano igual ao ATK ou DEF dele (o que for menor, mas você seleciona em caso de empate) e, se isso acontecer, Invoque este card por Invocação-Especial e, se isso acontecer, o Nível deste card se torna o Nível atual do monstro escolhido. Você só pode usar este efeito de \"Ataqueraptor - Laniidae Doloroso\" uma vez por turno.",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/05/05",
+  "species_id": 16,
+  "starchip": "1"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14499,
+  "card_name": "リンク・バック",
+  "card_name_label": "リンク・バック",
+  "card_name_search": "りんくばっく",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：EXモンスターゾーンの自分のリンクモンスター１体を対象として発動できる。その自分のモンスターの位置を、そのリンク先となる自分のメインモンスターゾーンに移動する。その後、そのモンスターのリンクマーカーの数だけ、自分のデッキの上からカードを墓地へ送る事ができる。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/04/13",
+  "species_id": 24,
+  "starchip": "0"
+}

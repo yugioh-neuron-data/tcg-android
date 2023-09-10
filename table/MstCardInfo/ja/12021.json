@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 12021,
+  "card_name": "緊急儀式術",
+  "card_name_label": "きんきゅうぎしきじゅつ",
+  "card_name_search": "きんきゅうぎしきじゅつ",
+  "card_pen_effect": "",
+  "card_text": "①：自分フィールドに儀式モンスターが存在しない場合、自分の手札・墓地から儀式魔法カード１枚を除外して発動できる。このカードの効果は、その儀式魔法カード発動時の儀式召喚する効果と同じになる。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/07/18",
+  "species_id": 25,
+  "starchip": "0"
+}

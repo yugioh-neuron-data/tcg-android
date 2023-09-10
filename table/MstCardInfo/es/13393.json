@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 1,
+  "card_id": 13393,
+  "card_name": "Bestia Mítica Garuda",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Si no tienes cartas en tu otra Zona del Péndulo: puedes seleccionar otra Mágica/Trampa en el Campo; destrúyela, así como a esta carta. Sólo puedes usar este efecto de \"Bestia Mítica Garuda\" una vez por turno.",
+  "card_text": "Cada vez que es activada una Carta Mágica, pon 1 Contador Mágico en esta carta cuando esa Mágica se resuelva. Cuando tu adversario Invoca uno o más monstruos de Modo Normal o Especial (excepto durante el Damage Step): puedes retirar 3 Contadores Mágicos en tu Campo; Invoca esta carta de Modo Especial desde tu mano, y después devuelve a la mano ese o esos monstruos Invocados del adversario. Sólo puedes usar este efecto de \"Bestia Mítica Garuda\" una vez por turno.",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "4",
+  "pen_scale_r": "4",
+  "sales_at": "2018/02/01",
+  "species_id": 18,
+  "starchip": "4"
+}

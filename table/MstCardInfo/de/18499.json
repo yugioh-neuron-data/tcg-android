@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 18499,
+  "card_name": "Teuflischer Astraloud",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "„Visas Starfrost“ + 1 Monster mit 1500 ATK/2100 DEF$NMuss als Spezialbeschwörung (von deinem Extra Deck) beschworen werden, indem du die oben aufgeführten Karten von deiner Spielfeldseite und/oder deinem Friedhof verbannst. Kann nicht durch Kampf zerstört werden. Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst 1 anderes Monster auf dem Spielfeld wählen; zerstöre es und falls du dies tust, erhält diese Karte ATK in Höhe der Hälfte der Grund-ATK oder -DEF jenes Monsters (was davon höher ist).",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/05/04",
+  "species_id": 17,
+  "starchip": "8"
+}

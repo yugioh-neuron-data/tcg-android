@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 1,
+  "card_id": 12531,
+  "card_name": "Camarartista Córnio",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Uma vez por turno, durante sua Fase Principal, se este card foi Invocado por Invocação-Normal ou Especial neste turno: você pode escolher 1 outro monstro \"Camarartista\" que você controla com 1000 ou menos de ATK; mude tanto ele quanto este card, que você controla, de Posição de Ataque com a face para cima para Posição de Defesa e, se isso acontecer, adicione 1 monstro \"Olhos Anômalos\" do seu Deck à sua mão. Durante o turno do seu oponente (Efeito Rápido): você pode banir 1 monstro \"Camarartista\", exceto \"Camarartista Córnio\", e este card do seu Cemitério; ganhe 500 PV.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/08/18",
+  "species_id": 12,
+  "starchip": "3"
+}

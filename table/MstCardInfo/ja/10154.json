@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 5,
+  "card_id": 10154,
+  "card_name": "マドルチェ・マジョレーヌ",
+  "card_name_label": "マドルチェ・マジョレーヌ",
+  "card_name_search": "まどるちぇまじょれーぬ",
+  "card_pen_effect": "",
+  "card_text": "このカードが相手によって破壊され墓地へ送られた時、このカードをデッキに戻す。このカードが召喚・反転召喚に成功した時、デッキから「マドルチェ」と名のついたモンスター１体を手札に加える事ができる。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/04/14",
+  "species_id": 18,
+  "starchip": "4"
+}

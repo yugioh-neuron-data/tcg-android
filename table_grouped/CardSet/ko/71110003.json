@@ -1,0 +1,776 @@
+[
+  {
+    "card_count": 1,
+    "card_id": 10131,
+    "card_image_id": 1,
+    "card_number": "REDU-KR001",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10132,
+    "card_image_id": 1,
+    "card_number": "REDU-KR002",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10133,
+    "card_image_id": 1,
+    "card_number": "REDU-KR003",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10134,
+    "card_image_id": 1,
+    "card_number": "REDU-KR004",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10135,
+    "card_image_id": 1,
+    "card_number": "REDU-KR005",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10136,
+    "card_image_id": 1,
+    "card_number": "REDU-KR006",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10137,
+    "card_image_id": 1,
+    "card_number": "REDU-KR007",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10138,
+    "card_image_id": 1,
+    "card_number": "REDU-KR008",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10139,
+    "card_image_id": 1,
+    "card_number": "REDU-KR009",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10140,
+    "card_image_id": 1,
+    "card_number": "REDU-KR010",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10141,
+    "card_image_id": 1,
+    "card_number": "REDU-KR011",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10142,
+    "card_image_id": 1,
+    "card_number": "REDU-KR012",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10143,
+    "card_image_id": 1,
+    "card_number": "REDU-KR013",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10144,
+    "card_image_id": 1,
+    "card_number": "REDU-KR014",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10145,
+    "card_image_id": 1,
+    "card_number": "REDU-KR015",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10146,
+    "card_image_id": 1,
+    "card_number": "REDU-KR016",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10147,
+    "card_image_id": 1,
+    "card_number": "REDU-KR017",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10148,
+    "card_image_id": 1,
+    "card_number": "REDU-KR018",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10149,
+    "card_image_id": 1,
+    "card_number": "REDU-KR019",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10150,
+    "card_image_id": 1,
+    "card_number": "REDU-KR020",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10151,
+    "card_image_id": 1,
+    "card_number": "REDU-KR021",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10152,
+    "card_image_id": 1,
+    "card_number": "REDU-KR022",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10153,
+    "card_image_id": 1,
+    "card_number": "REDU-KR023",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10154,
+    "card_image_id": 1,
+    "card_number": "REDU-KR024",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10155,
+    "card_image_id": 1,
+    "card_number": "REDU-KR025",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10156,
+    "card_image_id": 1,
+    "card_number": "REDU-KR026",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10157,
+    "card_image_id": 1,
+    "card_number": "REDU-KR027",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10158,
+    "card_image_id": 1,
+    "card_number": "REDU-KR028",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10159,
+    "card_image_id": 1,
+    "card_number": "REDU-KR029",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10160,
+    "card_image_id": 1,
+    "card_number": "REDU-KR030",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10161,
+    "card_image_id": 1,
+    "card_number": "REDU-KR031",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10162,
+    "card_image_id": 1,
+    "card_number": "REDU-KR032",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10163,
+    "card_image_id": 1,
+    "card_number": "REDU-KR033",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10164,
+    "card_image_id": 1,
+    "card_number": "REDU-KR034",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10165,
+    "card_image_id": 1,
+    "card_number": "REDU-KR035",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10166,
+    "card_image_id": 1,
+    "card_number": "REDU-KR036",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10167,
+    "card_image_id": 1,
+    "card_number": "REDU-KR037",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10168,
+    "card_image_id": 1,
+    "card_number": "REDU-KR038",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10169,
+    "card_image_id": 1,
+    "card_number": "REDU-KR039",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10170,
+    "card_image_id": 1,
+    "card_number": "REDU-KR040",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10171,
+    "card_image_id": 1,
+    "card_number": "REDU-KR041",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 10171,
+    "card_image_id": 1,
+    "card_number": "REDU-KR041",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 10171,
+    "card_image_id": 1,
+    "card_number": "REDU-KR041",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 7
+  },
+  {
+    "card_count": 1,
+    "card_id": 10172,
+    "card_image_id": 1,
+    "card_number": "REDU-KR042",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 10172,
+    "card_image_id": 1,
+    "card_number": "REDU-KR042",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 10173,
+    "card_image_id": 1,
+    "card_number": "REDU-KR043",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 10173,
+    "card_image_id": 1,
+    "card_number": "REDU-KR043",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 10174,
+    "card_image_id": 1,
+    "card_number": "REDU-KR044",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 10174,
+    "card_image_id": 1,
+    "card_number": "REDU-KR044",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 10175,
+    "card_image_id": 1,
+    "card_number": "REDU-KR045",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 10175,
+    "card_image_id": 1,
+    "card_number": "REDU-KR045",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 10176,
+    "card_image_id": 1,
+    "card_number": "REDU-KR046",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10177,
+    "card_image_id": 1,
+    "card_number": "REDU-KR047",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10178,
+    "card_image_id": 1,
+    "card_number": "REDU-KR048",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10179,
+    "card_image_id": 1,
+    "card_number": "REDU-KR049",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10180,
+    "card_image_id": 1,
+    "card_number": "REDU-KR050",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10181,
+    "card_image_id": 1,
+    "card_number": "REDU-KR051",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10182,
+    "card_image_id": 1,
+    "card_number": "REDU-KR052",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10183,
+    "card_image_id": 1,
+    "card_number": "REDU-KR053",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10184,
+    "card_image_id": 1,
+    "card_number": "REDU-KR054",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10185,
+    "card_image_id": 1,
+    "card_number": "REDU-KR055",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10186,
+    "card_image_id": 1,
+    "card_number": "REDU-KR056",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10187,
+    "card_image_id": 1,
+    "card_number": "REDU-KR057",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10188,
+    "card_image_id": 1,
+    "card_number": "REDU-KR058",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10189,
+    "card_image_id": 1,
+    "card_number": "REDU-KR059",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10190,
+    "card_image_id": 1,
+    "card_number": "REDU-KR060",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10191,
+    "card_image_id": 1,
+    "card_number": "REDU-KR061",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10192,
+    "card_image_id": 1,
+    "card_number": "REDU-KR062",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10193,
+    "card_image_id": 1,
+    "card_number": "REDU-KR063",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10194,
+    "card_image_id": 1,
+    "card_number": "REDU-KR064",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10195,
+    "card_image_id": 1,
+    "card_number": "REDU-KR065",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10196,
+    "card_image_id": 1,
+    "card_number": "REDU-KR066",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10197,
+    "card_image_id": 1,
+    "card_number": "REDU-KR067",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10198,
+    "card_image_id": 1,
+    "card_number": "REDU-KR068",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10199,
+    "card_image_id": 1,
+    "card_number": "REDU-KR069",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10200,
+    "card_image_id": 1,
+    "card_number": "REDU-KR070",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10201,
+    "card_image_id": 1,
+    "card_number": "REDU-KR071",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10202,
+    "card_image_id": 1,
+    "card_number": "REDU-KR072",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10203,
+    "card_image_id": 1,
+    "card_number": "REDU-KR073",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10204,
+    "card_image_id": 1,
+    "card_number": "REDU-KR074",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10205,
+    "card_image_id": 1,
+    "card_number": "REDU-KR075",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10206,
+    "card_image_id": 1,
+    "card_number": "REDU-KR076",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10207,
+    "card_image_id": 1,
+    "card_number": "REDU-KR077",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10208,
+    "card_image_id": 1,
+    "card_number": "REDU-KR078",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10209,
+    "card_image_id": 1,
+    "card_number": "REDU-KR079",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10210,
+    "card_image_id": 1,
+    "card_number": "REDU-KR080",
+    "language": "ko",
+    "pack_id": "71110003",
+    "rarity_id": 1
+  }
+]

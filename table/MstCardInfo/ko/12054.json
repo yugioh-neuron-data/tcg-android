@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 6,
+  "card_id": 12054,
+  "card_name": "SR 빨간 눈의 다이스",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "①: 이 카드가 일반 소환 / 특수 소환에 성공했을 때, \"SR(스피드로이드) 빨간 눈의 다이스\" 이외의 자신 필드의 \"스피드로이드\" 몬스터 1장을 대상으로 하고, 1~6 까지의 임의의 레벨을 선언하여 발동할 수 있다. 그 몬스터의 레벨은 턴 종료시까지, 선언한 레벨이 된다.",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/12/24",
+  "species_id": 7,
+  "starchip": "1"
+}

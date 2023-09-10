@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 3,
+  "card_id": 16273,
+  "card_name": "Pendransacción",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 monstruos de Nivel 4$NPuedes desacoplar 1 material de esta carta; si tienes más cartas en tu Deck Extra que tu adversario, aplica estos efectos en secuencia, dependiendo de la diferencia.$N●1+: Esta carta gana 1000 ATK hasta el final del turno de tu adversario.$N●5+: Ningún jugador puede seleccionar esta carta con efectos de cartas hasta el final del turno de tu adversario.$N●10+: Destierra 1 carta que controle tu adversario.$N●15+: Convierte los LP de tu adversario en 3000.$NSólo puedes usar este efecto de \"Pendransacción\" una vez por turno.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/06/03",
+  "species_id": 27,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13779,
+  "card_name": "獣・魔・導",
+  "card_name_label": "ビースト・マジック",
+  "card_name_search": "びーすとまじっく",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：自分フィールドの魔力カウンターを以下の数だけ取り除き、その効果を発動できる。$N●２つ：自分フィールドの「魔導獣」Pモンスター１体を選んで持ち主の手札に戻す。$N●４つ：自分のEXデッキから表側表示の「魔導獣」Pモンスター１体を特殊召喚する。その後、そのモンスターに魔力カウンターを２つ置く事ができる。$N●６つ：自分のEXデッキから表側表示のPモンスター１体を特殊召喚する。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/04/14",
+  "species_id": 24,
+  "starchip": "0"
+}

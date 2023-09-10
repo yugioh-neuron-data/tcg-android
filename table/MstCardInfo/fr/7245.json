@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 4,
+  "card_id": 7245,
+  "card_name": "Dragon du Brasier Sombre",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si cette carte est Invoquée par Invocation Spéciale depuis le Cimetière: son ATK/DEF deviennent le double de son ATK/DEF d'origine. Si cette carte détruit un monstre au combat et l'envoie au Cimetière : infligez à votre adversaire des dommages égaux à l'ATK d'origine du monstre détruit.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/10/24",
+  "species_id": 1,
+  "starchip": "7"
+}

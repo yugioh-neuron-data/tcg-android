@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15837,
+  "card_name": "Faust des Schicksals",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Aktivierung und Effekt dieser Karte können nicht annulliert werden. Falls du ein Monster kontrollierst, dessen Grund-Name „Obelisk der Peiniger“ ist: Annulliere die Effekte von 1 Effektmonster, das dein Gegner kontrolliert, und falls du dies tust, zerstöre es und falls du dies tust, werden die Effekte des Monsters sowie die aktivierten Effekte und die Effekte auf dem Spielfeld von Monstern mit demselben Grund-Namen für den Rest dieses Spielzugs annulliert, dann, falls du diese Karte während deiner Main Phase aktiviert hast, kannst du diesen Effekt ausführen.$N●Zerstöre alle Zauber und Fallen, die dein Gegner kontrolliert.$NDu kannst nur 1 „Faust des Schicksals“ pro Spielzug aktivieren.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/06/17",
+  "species_id": 24,
+  "starchip": "0"
+}

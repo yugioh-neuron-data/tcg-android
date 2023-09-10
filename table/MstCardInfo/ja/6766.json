@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 3,
+  "card_id": 6766,
+  "card_name": "E・HERO アクア・ネオス",
+  "card_name_label": "エレメンタルヒーロー　アクア・ネオス",
+  "card_name_search": "えれめんたるひーろーあくあねおす",
+  "card_pen_effect": "",
+  "card_text": "「E・HERO ネオス」＋「N・アクア・ドルフィン」$N自分フィールド上の上記のカードをデッキに戻した場合のみ、エクストラデッキから特殊召喚できる（「融合」魔法カードは必要としない）。１ターンに１度、手札を１枚捨てる事で、相手の手札をランダムに１枚選んで破壊する。また、エンドフェイズ時、このカードはエクストラデッキに戻る。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/05/18",
+  "species_id": 15,
+  "starchip": "7"
+}

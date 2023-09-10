@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 5,
+  "card_id": 11789,
+  "card_name": "Künstlerkumpel Kamelhöcker",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Einmal pro Spielzug, während deiner Main Phase 1: Du kannst 1 offenes Monster wählen, das du kontrollierst; die Monster, die dein Gegner derzeit kontrolliert, verlieren bis zum Ende dieses Spielzugs 800 DEF und falls sie dies tun, falls das als Ziel gewählte Monster in diesem Spielzug ein Monster in Verteidigungsposition angreift, füge deinem Gegner durchschlagenden Kampfschaden zu. (Diese Effekte dauern sogar an, falls diese Karte das Spielfeld verlässt.)",
+  "card_text": "Falls diese Karte durch Kampf zerstört wird: Du kannst das Monster, das diese Karte zerstört hat, 800 ATK verlieren lassen.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "2",
+  "pen_scale_r": "2",
+  "sales_at": "2015/08/06",
+  "species_id": 11,
+  "starchip": "4"
+}

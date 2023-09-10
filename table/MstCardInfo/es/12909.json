@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 2,
+  "card_id": 12909,
+  "card_name": "Mago Colmillo Negro",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Una vez por turno: puedes seleccionar 1 monstruo boca arriba que controle tu adversario; su ATK se convierte en la mitad de su ATK en este momento (hasta el final de este turno), y después destruye esta carta.",
+  "card_text": "(Esta carta se trata siempre como una carta \"Dragón Xyz\").$NSi esta carta es destruida en batalla o por efecto de una carta: puedes seleccionar 1 monstruo de OSCURIDAD de Tipo Lanzador de Conjuros en tu Cementerio; Invócalo de Modo Especial.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "8",
+  "pen_scale_r": "8",
+  "sales_at": "2017/06/22",
+  "species_id": 18,
+  "starchip": "4"
+}

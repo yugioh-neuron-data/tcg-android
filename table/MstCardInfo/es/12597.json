@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 2,
+  "card_id": 12597,
+  "card_name": "Predaplanta Nepenthes Morena",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Esta carta gana 200 ATK por cada Contador de Predador en el Campo. Cuando esta carta destruye a un monstruo de tu adversario en batalla: puedes equipar ese monstruo a esta carta. Una vez por turno: puedes seleccionar 1 Carta de Monstruo equipada a esta carta por el efecto de esta carta; destrúyela y, si lo haces, gana tantos LP como su ATK original.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/11/03",
+  "species_id": 13,
+  "starchip": "4"
+}

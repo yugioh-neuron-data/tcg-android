@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 4,
+  "card_id": 12162,
+  "card_name": "Shiranui Sagashogun",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Cantante de Tipo Zombi + 1 o más monstruos de Tipo Zombi que no sean Cantantes$NSi esta carta es Invocada de Modo Especial: puedes desterrar 1 monstruo de Tipo Zombi en tu Cementerio; hasta el final de este turno, esta carta gana ATK igual al ATK original del monstruo desterrado. Si esta carta en el Campo es destruida en batalla o por efecto de una carta y mandada al Cementerio: puedes seleccionar 1 de tus monstruos desterrados de Tipo Zombi con 0 DEF; devuélvelo al Cementerio. Sólo puedes Invocar de Modo Especial 1 o más \"Shiranui Sagashogun\" una vez por turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/01/14",
+  "species_id": 2,
+  "starchip": "8"
+}

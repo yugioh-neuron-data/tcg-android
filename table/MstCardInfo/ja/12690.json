@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 6,
+  "card_id": 12690,
+  "card_name": "SPYRAL GEAR－ドローン",
+  "card_name_label": "スパイラル　ギア－ドローン",
+  "card_name_search": "すぱいらるぎあどろーん",
+  "card_pen_effect": "",
+  "card_text": "①：このカードが召喚・特殊召喚に成功した場合に発動できる。相手のデッキの上からカードを３枚確認し、好きな順番でデッキの上に戻す。②：このカードをリリースし、自分フィールドの「SPYRAL」モンスター１体を対象として発動できる。そのモンスターの攻撃力は相手フィールドのカードの数×５００アップする。この効果は相手ターンでも発動できる。③：自分の墓地からこのカードと「SPYRAL」カード１枚を除外し、自分の墓地の「SPYRAL－ダンディ」１体を対象として発動できる。そのカードを手札に加える。",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/09/09",
+  "species_id": 7,
+  "starchip": "1"
+}

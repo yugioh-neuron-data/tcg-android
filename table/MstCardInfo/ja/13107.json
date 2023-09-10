@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 13107,
+  "card_name": "トリックスター・リンカーネイション",
+  "card_name_label": "トリックスター・リンカーネイション",
+  "card_name_search": "とりっくすたーりんかーねいしょん",
+  "card_pen_effect": "",
+  "card_text": "①：相手の手札を全て除外し、その枚数分だけ相手はデッキからドローする。②：墓地のこのカードを除外し、自分の墓地の「トリックスター」モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/04/15",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 5,
+  "card_id": 9081,
+  "card_name": "Mitrailleur d'Aiguilles",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si cette carte est utilisée en tant que Monstre-Matériel de Synchro pour un Monstre Synchro, durant un combat entre ce Monstre Synchro et un monstre en Position de Défense dont la DEF est inférieure à l'ATK de ce Monstre Synchro, infligez la différence en tant que dommages de combat à votre adversaire.",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/11/11",
+  "species_id": 7,
+  "starchip": "1"
+}

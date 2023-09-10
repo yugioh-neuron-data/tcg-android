@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 1,
+  "card_id": 17155,
+  "card_name": "Campeón Heroico - Claivesolish",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 monstruos Guerrero de Nivel 4$NTu adversario no puede seleccionar monstruos para ataques, excepto éste. Sólo puedes usar cada uno de los siguientes efectos de \"Campeón Heroico - Claivesolish\" una vez por turno. Puedes pagar LP hasta que sólo te queden 500; al comienzo de la Battle Phase este turno, duplica el ATK de 1 monstruo que controles. Cuando es declarado un ataque que involucra el monstruo de tu adversario: puedes desacoplar 1 material de esta carta, y después selecciona 1 monstruo boca arriba que controle tu adversario; esta carta gana ATK igual al ATK de ese monstruo hasta el final de este turno.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/05/19",
+  "species_id": 15,
+  "starchip": "4"
+}

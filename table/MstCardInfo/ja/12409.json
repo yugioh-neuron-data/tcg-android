@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 2,
+  "card_id": 12409,
+  "card_name": "DD魔導賢者トーマス",
+  "card_name_label": "ディーディーまどうけんじゃトーマス",
+  "card_name_search": "でぃーでぃーまどうけんじゃとーます",
+  "card_pen_effect": "「DD魔導賢者トーマス」のP効果は１ターンに１度しか使用できない。①：自分メインフェイズに発動できる。自分のエクストラデッキから表側表示の「DD」Pモンスター１体を手札に加える。",
+  "card_text": "「DD魔導賢者トーマス」のモンスター効果は１ターンに１度しか使用できない。①：自分のPゾーンの「DD」カード１枚を対象として発動できる。そのカードを破壊し、デッキからレベル８の「DDD」モンスター１体を守備表示で特殊召喚する。このターン、この効果で特殊召喚したモンスターの効果は無効化され、相手が受ける戦闘ダメージは半分になる。",
+  "defense_power": "2600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "6",
+  "pen_scale_r": "6",
+  "sales_at": "2016/04/09",
+  "species_id": 3,
+  "starchip": "8"
+}

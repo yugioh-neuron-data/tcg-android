@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 1,
+  "card_id": 12693,
+  "card_name": "Siniveleiro Camarartista",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Uma vez por turno: você pode aumentar em 1 os Níveis de todos os monstros Invocados por Invocação-Pêndulo que você controla atualmente (mesmo que este card deixe o campo).",
+  "card_text": "Uma vez por turno: você pode declarar um Nível de 1 a 5 e, depois, escolher 1 outro monstro \"Camarartista\" que você controla; até o final deste turno, reduza o Nível deste card pelo Nível declarado e, se isso acontecer, aumente o Nível do outro monstro pelo mesmo valor.",
+  "defense_power": "2600",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2018/07/26",
+  "species_id": 17,
+  "starchip": "6"
+}

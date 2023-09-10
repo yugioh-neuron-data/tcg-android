@@ -1,0 +1,23 @@
+{
+  "attack_power": "3100",
+  "attribute_id": 2,
+  "card_id": 18821,
+  "card_name": "Schimäre das Illusionsungeheuer",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "„Schimäre das fliegende Sagenungeheuer“ + 1+ Illusion-Monster$NDer Name dieser Karte wird zu „Schimäre das fliegende Sagenungeheuer“, solange sie auf dem Spielfeld oder im Friedhof liegt. Diese Karte kann in jeder Battle Phase bis zu so viele Male Monster angreifen wie die Anzahl des Materials, das für sie verwendet wurde. Falls diese Karte gegen ein Monster kämpft, können beide durch jenen Kampf nicht zerstört werden. Am Ende des Damage Steps, falls diese Karte gegen ein Monster eines Gegners gekämpft hat: Du kannst die ATK jenes Monsters des Gegners zu 0 ändern, zusätzlich annulliere seine Effekte.",
+  "defense_power": "2800",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/07/27",
+  "species_id": 34,
+  "starchip": "8"
+}

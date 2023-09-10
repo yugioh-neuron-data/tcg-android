@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 1,
+  "card_id": 7018,
+  "card_name": "Metallschütze",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wenn diese Karte als Normalbeschwörung beschworen wird, lege 2 Zählmarken darauf. Diese Karte erhält 800 ATK für jede dieser Spielmarken, die darauf liegen. Falls diese Karte durch einen Karteneffekt zerstört werden würde, entferne stattdessen 1 Zählmarke von dieser Karte.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/11/30",
+  "species_id": 7,
+  "starchip": "5"
+}

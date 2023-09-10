@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 12178,
+  "card_name": "Seguir las Alas",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Activa esta carta seleccionando 1 Monstruo de Sincronía que controles; éste no puede ser destruido en batalla o por efectos de cartas de tu adversario. Al comienzo del Damage Step, si éste batalla con un monstruo de tu adversario de Nivel 5 o mayor: puedes destruir ese monstruo de tu adversario y, si lo haces, hasta el final de este turno el Monstruo de Sincronía seleccionado gana ATK igual al ATK original del monstruo destruido. Cuando ese monstruo deja el Campo, destruye esta carta.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/01/14",
+  "species_id": 25,
+  "starchip": "0"
+}

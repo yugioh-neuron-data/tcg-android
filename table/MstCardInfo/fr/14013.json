@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 6,
+  "card_id": 14013,
+  "card_name": "Adepte de Nephtys",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Vous pouvez Invoquer Rituellement cette carte avec \"Réincarnation de Nephtys\". Vous ne pouvez utiliser chacun des effets suivants de \"Adepte de Nephtys\" qu'une fois par tour.$N●Si cette carte est Invoquée Rituellement : vous pouvez activer cet effet ; Invoquez Spécialement 1 monstre \"Nephtys\" depuis votre Deck, et aussi, détruisez cette carte durant la End Phase de ce tour.$N●Si cette carte est dans le Cimetière : vous pouvez détruire 1 carte \"Nephtys\" dans votre main, et si vous le faites, Invoquez Spécialement cette carte.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 5,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/11/15",
+  "species_id": 18,
+  "starchip": "2"
+}

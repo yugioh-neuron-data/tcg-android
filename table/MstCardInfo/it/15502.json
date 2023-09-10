@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 5,
+  "card_id": 15502,
+  "card_name": "Alpha, il Signore delle Bestie",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Non può essere Evocato Normalmente/Posizionato. Deve prima essere Evocato Specialmente (dalla tua mano) mentre la somma degli ATK di tutti i mostri controllati dal tuo avversario è superiore a quella di tutti i mostri che controlli. Puoi scegliere come bersaglio un qualsiasi numero di mostri Bestia, Guerriero-Bestia e/o Bestia Alata che controlli; falli ritornare nella mano, poi fai ritornare nella mano mostri scoperti controllati dal tuo avversario pari al numero di carte che hai fatto ritornare nella mano, inoltre, per il resto di questo turno, \"Alpha, il Signore delle Bestie\" che controlli non può attaccare direttamente. Puoi utilizzare questo effetto di \"Alpha, il Signore delle Bestie\" una sola volta per turno.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/11/05",
+  "species_id": 11,
+  "starchip": "8"
+}

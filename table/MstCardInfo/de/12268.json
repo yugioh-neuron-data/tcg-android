@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 12268,
+  "card_name": "Die Phantomritter der Dunklen Panzerhandschuhe",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lege 1 „Phantomritter“-Zauber/Falle von deinem Deck auf den Friedhof. Wenn ein Monster eines Gegners einen direkten Angriff deklariert, solange du keine Karten kontrollierst und sich diese Karte in deinem Friedhof befindet: Beschwöre diese Karte als Spezialbeschwörung als Effektmonster (Krieger/FINSTERNIS/Stufe 4/ATK 300/DEF 600) in die Verteidigungsposition, aber verbanne sie, wenn sie das Spielfeld verlässt. (Diese Karte wird NICHT als Falle behandelt.) Falls diese Karte auf diese Art beschworen wird, erhält sie 300 DEF für jede/n „Phantomritter“-Zauber/Falle in deinem Friedhof.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/03/17",
+  "species_id": 25,
+  "starchip": "0"
+}

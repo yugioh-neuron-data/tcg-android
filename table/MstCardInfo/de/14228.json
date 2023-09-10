@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14228,
+  "card_name": "Dekodier-Zerstörung",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wähle 1 „Dekodier-Sprecher“, den du kontrollierst; wende in diesem Spielzug die folgenden Effekte an, abhängig von der Anzahl der Monster, auf die er derzeit zeigt.$N●1+: Das Monster erhält 500 ATK für jedes Monster, auf das es derzeit zeigt.$N●2+: Monster, die durch Kampf mit dem Monster zerstört werden, werden nach der Schadensberechnung verbannt.$N●3: Nach der Schadensberechnung, falls das Monster ein Monster deines Gegners durch Kampf zerstört: Zerstöre alle Karten, die dein Gegner kontrolliert.$NDu kannst nur 1 „Dekodier-Zerstörung“ pro Spielzug aktivieren.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/04/04",
+  "species_id": 24,
+  "starchip": "0"
+}

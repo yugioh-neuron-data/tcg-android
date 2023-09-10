@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 10679,
+  "card_name": "Überschallknall",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Während deines Spielzugs: Wähle 1 „Mecha-Phantomungeheuer“-Monster auf dem Spielfeld; in diesem Spielzug werden seine ATK zum Doppelten seiner Grund-ATK, es bleibt von anderen Zauber-/Falleneffekten unberührt, zusätzlich, falls es ein Monster in Verteidigungsposition angreift, füge deinem Gegner durchschlagenden Kampfschaden zu. Falls dieser Effekt auf das Monster angewendet wird, zerstöre während der End Phase dieses Spielzugs alle Monster vom Typ Maschine, die du kontrollierst. Andere Monster können während des Spielzugs, in dem du diese Karte aktivierst, nicht angreifen.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/08/08",
+  "species_id": 25,
+  "starchip": "0"
+}

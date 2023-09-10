@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 4,
+  "card_id": 12890,
+  "card_name": "No.28 タイタニック・モス",
+  "card_name_label": "ナンバーズ２８ タイタニック・モス",
+  "card_name_search": "なんばーずにじゅうはちたいたにっくもす",
+  "card_pen_effect": "",
+  "card_text": "レベル７モンスター×２$N①：自分フィールドに他のモンスターが存在しない場合、このカードは直接攻撃できる。その直接攻撃で相手に与える戦闘ダメージは半分になる。②：このカードが相手に戦闘ダメージを与えた時、このカードのX素材を１つ取り除いて発動できる。相手の手札の数×５００ダメージを相手に与える。",
+  "defense_power": "2200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/12/17",
+  "species_id": 10,
+  "starchip": "7"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 5,
+  "card_id": 6117,
+  "card_name": "共鳴虫",
+  "card_name_label": "ハウリング・インセクト",
+  "card_name_search": "はうりんぐいんせくと",
+  "card_pen_effect": "",
+  "card_text": "このカードが戦闘によって破壊され墓地に送られた時、デッキから攻撃力１５００以下の昆虫族モンスター１体を自分フィールド上に特殊召喚する事ができる。その後デッキをシャッフルする。",
+  "defense_power": "1300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/05/27",
+  "species_id": 10,
+  "starchip": "3"
+}

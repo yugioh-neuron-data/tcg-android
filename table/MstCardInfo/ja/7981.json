@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 5,
+  "card_id": 7981,
+  "card_name": "星見獣ガリス",
+  "card_name_label": "ほしみじゅうガリス",
+  "card_name_search": "ほしみじゅうがりす",
+  "card_pen_effect": "",
+  "card_text": "手札にあるこのカードを相手に見せて発動する。自分のデッキの一番上のカードを墓地へ送り、そのカードがモンスターだった場合、そのモンスターのレベル×２００ポイントダメージを相手ライフに与えこのカードを特殊召喚する。そのカードがモンスター以外だった場合、このカードを破壊する。",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/11/27",
+  "species_id": 11,
+  "starchip": "3"
+}

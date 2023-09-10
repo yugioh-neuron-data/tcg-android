@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 12506,
+  "card_name": "Sphinx Dimensionnel",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Activez cette carte en ciblant 1 monstre en Position d'Attaque face recto que vous contrôlez. Une fois par combat, durant la Battle Step, si elle est attaquée par un monstre de votre adversaire avec une ATK supérieure : vous pouvez infliger des dommages à votre adversaire égaux à la différence entre l'ATK du monstre attaquant et celle du monstre ciblé. Si le monstre ciblé quitte le Terrain, détruisez cette carte.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/07/21",
+  "species_id": 25,
+  "starchip": "0"
+}

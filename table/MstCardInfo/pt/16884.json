@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 16884,
+  "card_name": "Intrusão Imprudente",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Seus PV devem ser menores que os do seu oponente para ativar e resolver este efeito.$NAtive 1 desses efeitos;$N●Destrua 1 monstro que seu oponente controla com ATK igual ou menor que a diferença de PV.$N●Invoque por Invocação-Especial 1 monstro do seu Cemitério com ATK igual ou menor que a diferença de PV.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/02/10",
+  "species_id": 25,
+  "starchip": "0"
+}

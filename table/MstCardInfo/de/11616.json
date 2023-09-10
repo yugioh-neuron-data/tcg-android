@@ -1,0 +1,23 @@
+{
+  "attack_power": "2200",
+  "attribute_id": 2,
+  "card_id": 11616,
+  "card_name": "D/D/D-Vergessenskönig Abyss Ragnarok",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Falls du ein oder mehr „D/D“-Monster als Spezialbeschwörung beschwörst, außer während des Damage Steps: Du kannst 1 „D/D“-Monster in deinem Friedhof wählen; Kampfschaden, den dein Gegner erhält, wird für den Rest dieses Spielzugs halbiert, zusätzlich beschwöre das Monster als Spezialbeschwörung und falls du dies tust, erhältst du 1000 Schaden. Du kannst diesen Effekt von „D/D/D-Vergessenskönig Abyss Ragnarok“ nur einmal pro Spielzug verwenden.",
+  "card_text": "Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 „D/D/D“-Monster in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung. Du kannst diesen Effekt von „D/D/D-Vergessenskönig Abyss Ragnarok“ nur einmal pro Spielzug verwenden. Einmal pro Spielzug: Du kannst 1 anderes „D/D“-Monster als Tribut anbieten und dann 1 Monster wählen, das dein Gegner kontrolliert; verbanne es.",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2015/11/05",
+  "species_id": 3,
+  "starchip": "8"
+}

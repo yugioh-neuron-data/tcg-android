@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 3,
+  "card_id": 11780,
+  "card_name": "Serpiente de Mar Kaiser",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si tu adversario controla un monstruo y tú no controlas ninguno, puedes Invocar esta carta de Modo Especial (desde tu mano). Sólo puedes Invocar de Modo Especial a \"Serpiente de Mar Kaiser\" una vez por turno de esta forma. Cuando es Invocada de esta forma: puedes Invocar de Modo Especial, desde tu mano o Cementerio, 1 monstruo Serpiente Marina de Nivel 8 pero su ATK/DEF se convierte en 0. Si esta carta es Invocada de Modo Especial, su Nivel se convierte en 4 y su ATK original en 0.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/05/04",
+  "species_id": 5,
+  "starchip": "8"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 1,
+  "card_id": 9280,
+  "card_name": "Karood, Hechicero de la Piedra Mágica",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Una vez por turno, cuando se activa el efecto de otra Carta de Monstruo mientras no hay Contadores de Piedra Mágica en esta carta, pon 1 Contador de Piedra Mágica en esta carta (máx. 1). Esta carta gana 300 DEF por cada Contador de Piedra Mágica que tenga. Una vez por turno, puedes retirar 1 Contador de Piedra Mágica en tu Campo para seleccionar 1 carta en el Cementerio de tu adversario y retirarla del juego.",
+  "defense_power": "1900",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/11/11",
+  "species_id": 18,
+  "starchip": "3"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 2,
+  "card_id": 15258,
+  "card_name": "悦楽の堕天使",
+  "card_name_label": "えつらくのだてんし",
+  "card_name_search": "えつらくのだてんし",
+  "card_pen_effect": "",
+  "card_text": "このカード名の効果は１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功した場合に発動できる。手札・デッキから「悦楽の堕天使」以外の、レベルが異なる「堕天使」モンスター２体を選び、その内の１体を相手フィールドに守備表示で特殊召喚し、もう１体を自分の手札に加える。この効果の発動後、ターン終了時まで自分は天使族以外のモンスターの効果を発動できない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/18",
+  "species_id": 17,
+  "starchip": "4"
+}

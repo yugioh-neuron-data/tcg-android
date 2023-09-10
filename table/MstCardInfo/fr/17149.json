@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 17149,
+  "card_name": "Rexterm Dinomorphia",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Monstre Fusion \"Dinomorphia\" + 1 monstre \"Dinomorphia\"$NVotre adversaire ne peut pas activer les effets des monstres qu'il contrôle qui a une ATK supérieure ou égale à vos LP. Vous ne pouvez utiliser chacun des effets suivants de \"Rexterm Dinomorphia\" qu'une fois par tour. (Effet Rapide) : vous pouvez payer la moitié de vos LP ; jusqu'à la fin de ce tour, l'ATK de tous les monstres actuellement contrôlés par votre adversaire devient égale à vos LP. Si cette carte est détruite au combat ou par un effet de carte : vous pouvez Invoquer Spécialement 1 monstre \"Dinomorphia\" de max. Niveau 6 depuis votre Cimetière.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/05/19",
+  "species_id": 9,
+  "starchip": "8"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 2,
+  "card_id": 12143,
+  "card_name": "Doriado des Ténèbres",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Tous les monstres TERRE, EAU, FEU et VENT que vous contrôlez gagnent 200 ATK/DEF pour chaque Attribut différent parmi les monstres que vous contrôlez.",
+  "card_text": "Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez choisir 4 monstres depuis votre Deck (1 TERRE, 1 EAU, 1 FEU et 1 VENT), puis placez-les au-dessus du Deck dans l'ordre de votre choix.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2016/01/14",
+  "species_id": 18,
+  "starchip": "4"
+}

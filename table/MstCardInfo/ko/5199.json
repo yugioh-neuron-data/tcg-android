@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 4,
+  "card_id": 5199,
+  "card_name": "화염의 마녀",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "리버스 : 자신의 패를 무작위로 2장 선택하여 게임에서 제외한다. 상대 라이프에 800 포인트의 데미지를 준다.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 24,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/09/02",
+  "species_id": 18,
+  "starchip": "4"
+}

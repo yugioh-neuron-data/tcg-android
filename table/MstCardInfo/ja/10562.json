@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 3,
+  "card_id": 10562,
+  "card_name": "No.47 ナイトメア・シャーク",
+  "card_name_label": "ナンバーズ４７ ナイトメア・シャーク",
+  "card_name_search": "なんばーずよんじゅうななないとめあしゃーく",
+  "card_pen_effect": "",
+  "card_text": "レベル３モンスター×２$N①：このカードが特殊召喚に成功した時に発動できる。手札及び自分フィールドの表側表示モンスターの中から、水属性・レベル３モンスター１体を選び、このカードの下に重ねてX素材とする。②：１ターンに１度、このカードのX素材を１つ取り除き、自分フィールドの水属性モンスター１体を対象として発動できる。このターン、そのモンスター以外のモンスターは攻撃できず、そのモンスターは直接攻撃できる。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/02/04",
+  "species_id": 5,
+  "starchip": "3"
+}

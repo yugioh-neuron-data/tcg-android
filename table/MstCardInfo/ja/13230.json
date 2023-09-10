@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 3,
+  "card_id": 13230,
+  "card_name": "オルターガイスト・メリュシーク",
+  "card_name_label": "オルターガイスト・メリュシーク",
+  "card_name_search": "おるたーがいすとめりゅしーく",
+  "card_pen_effect": "",
+  "card_text": "このカード名の③の効果は１ターンに１度しか使用できない。$N①：このカードは直接攻撃できる。$N②：このカードが相手に戦闘ダメージを与えた時、相手フィールドのカード１枚を対象として発動できる。そのカードを墓地へ送る。$N③：このカードがフィールドから墓地へ送られた場合に発動できる。デッキから「オルターガイスト・メリュシーク」以外の「オルターガイスト」モンスター１体を手札に加える。",
+  "defense_power": "300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/07/08",
+  "species_id": 18,
+  "starchip": "1"
+}

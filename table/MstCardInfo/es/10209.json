@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 10209,
+  "card_name": "Rebote",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando tu adversario activa una Carta Mágica, Carta de Trampa, o efecto de monstruo que devuelve a la mano una o más cartas en el Campo: niega ese efecto y, si lo haces, manda al Cementerio 1 carta en la mano de tu adversario (al azar) o en su lado del Campo. Cuando esta carta Colocada es destruida por un efecto de una carta de tu adversario y mandada al Cementerio: roba 1 carta.",
+  "defense_power": "0",
+  "effect_id": 1,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/08/23",
+  "species_id": 25,
+  "starchip": "0"
+}

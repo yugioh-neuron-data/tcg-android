@@ -1,0 +1,23 @@
+{
+  "attack_power": "900",
+  "attribute_id": 2,
+  "card_id": 11697,
+  "card_name": "Zefranaga Marionnette de l'Ombre",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Vous ne pouvez pas Invoquer par Pendulation de monstres (monstres \"Marionnette de l'Ombre\" et \"Zefra\" exclus). Cet effet ne peut pas être annulé.",
+  "card_text": "Si cette carte est Invoquée par Pendulation ou envoyée au Cimetière : vous pouvez cibler 1 carte dans la Zone Pendule d'un joueur ; renvoyez-la à la main. Vous devez avoir une carte \"Zefra\" dans votre Zone Pendule pour activer et résoudre cet effet. Vous ne pouvez utiliser cet effet de \"Zefranaga Marionnette de l'Ombre\" qu'une fois par tour.",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2015/05/14",
+  "species_id": 18,
+  "starchip": "2"
+}

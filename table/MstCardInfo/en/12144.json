@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 1,
+  "card_id": 12144,
+  "card_name": "Guiding Ariadne",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Apply these effects.$N●You do not pay LP to activate Counter Trap Cards.$N●You do not discard to activate Counter Trap Cards.",
+  "card_text": "If this card is destroyed by battle or card effect: You can reveal 3 Counter Traps from your Deck, your opponent chooses 1 for you to add to your hand, and you shuffle the rest back into your Deck.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2016/01/15",
+  "species_id": 17,
+  "starchip": "4"
+}

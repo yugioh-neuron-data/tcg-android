@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 5,
+  "card_id": 17596,
+  "card_name": "Morphtronic Telefon",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "●Attack Position: Once per turn, during your Main Phase: You can roll a six-sided die and gain LP equal to the result x 100, then you can Special Summon 1 \"Morphtronic\" monster from your GY with a Level equal to or lower than the result.$N●Defense Position: Once per turn, during your Main Phase: You can roll a six-sided die, excavate that many cards from the top of your Deck (or as many as you can), and if you do, you can send 1 excavated \"Morphtronic\" card to the GY, also place the rest on either the top or bottom of the Deck in any order.",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/08/04",
+  "species_id": 7,
+  "starchip": "1"
+}

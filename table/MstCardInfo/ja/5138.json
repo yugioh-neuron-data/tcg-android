@@ -1,0 +1,23 @@
+{
+  "attack_power": "400",
+  "attribute_id": 6,
+  "card_id": 5138,
+  "card_name": "爆弾かめ虫",
+  "card_name_label": "ばくだんかめムシ",
+  "card_name_search": "ばくだんかめむし",
+  "card_pen_effect": "",
+  "card_text": "リバース：相手フィールド上の裏側守備表示モンスターカード１枚を確認する。効果モンスターの場合は破壊し（リバース効果は発動しない）、違う場合は元に戻す。",
+  "defense_power": "900",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 24,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2000/12/14",
+  "species_id": 10,
+  "starchip": "2"
+}

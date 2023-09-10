@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 5,
+  "card_id": 6392,
+  "card_name": "ダーク・カタパルター",
+  "card_name_label": "ダーク・カタパルター",
+  "card_name_search": "だーくかたぱるたー",
+  "card_pen_effect": "",
+  "card_text": "自分のスタンバイフェイズ時にこのカードが守備表示だった場合、このカードにカウンターを１つ置く。カウンターと同じ数のカードを自分の墓地から除外する事で、その枚数と同じ枚数のフィールド上の魔法・罠カードを破壊する。その後このカードのカウンターを全て取り除く。",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/05/26",
+  "species_id": 7,
+  "starchip": "4"
+}

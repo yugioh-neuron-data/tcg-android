@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 14952,
+  "card_name": "Soldat Dragon Sombre aux Yeux Rouges",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"Magicien Sombre\" + \"Dragon Noir aux Yeux Rouges\" ou 1 Monstre à Effet Dragon$NNon destructible par des effets de carte. Aucun joueur ne peut cibler cette carte avec des effets de carte. Durant votre Main Phase : vous pouvez détruire 1 monstre contrôlé par votre adversaire, et si vous le faites, infligez des dommages à votre adversaire égaux à l'ATK d'origine du monstre. Vous pouvez utiliser cet effet un nombre de fois par tour inférieur ou égal au nombre de Monstres Normaux utilisés comme Matériel Fusion pour cette carte. Une fois par tour, lorsqu'une carte ou un effet est activé (Effet Rapide) : vous pouvez défausser 1 carte ; annulez l'activation, et si vous le faites, détruisez la carte, et si vous faites ça, cette carte gagne 1000 ATK.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/08/27",
+  "species_id": 18,
+  "starchip": "8"
+}

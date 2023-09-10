@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 2,
+  "card_id": 11296,
+  "card_name": "Nummer 86: Heroischer Champion - Rhongomyniad",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 oder mehr (max. 5) Krieger-Monster der Stufe 4$NEinmal pro Spielzug, während der End Phase deines Gegners: Hänge 1 Material von dieser Karte ab. Diese Karte erhält Effekte basierend auf der Anzahl des an sie angehängten Materials.$N●1+: Kann nicht durch Kampf zerstört werden.$N●2+: Erhält 1500 ATK/DEF.$N●3+: Bleibt von den Effekten anderer Karten unberührt.$N●4+: Dein Gegner kann keine Monster als Normal- oder Spezialbeschwörung beschwören.$N●5: Einmal pro Spielzug: Du kannst alle Karten zerstören, die dein Gegner kontrolliert.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/04/16",
+  "species_id": 15,
+  "starchip": "4"
+}

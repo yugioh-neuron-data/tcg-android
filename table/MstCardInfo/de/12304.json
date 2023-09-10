@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 3,
+  "card_id": 12304,
+  "card_name": "Dinonebel Spinos",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Falls ein oder mehr andere „Dinonebel“-Karten, die du kontrollierst, durch Kampf oder einen Karteneffekt deines Gegners zerstört würden, kannst du stattdessen diese Karte zerstören.",
+  "card_text": "Du kannst 1 anderes „Dinonebel“-Monster als Tribut anbieten und dann 1 dieser Effekte aktivieren;$N●Diese Karte kann deinen Gegner in diesem Spielzug direkt angreifen.$N●Diese Karte kann während jeder Battle Phase in diesem Spielzug einen zweiten Angriff durchführen.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2016/05/05",
+  "species_id": 7,
+  "starchip": "5"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 1,
+  "card_id": 16809,
+  "card_name": "Dragon à Réaction aux Yeux Bleus",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Les autres cartes que vous contrôlez ne peuvent pas être détruites par des effets de carte de votre adversaire. Vous ne pouvez utiliser chacun des effets suivants de \"Dragon à Réaction aux Yeux Bleus\" qu'une fois par tour, et pouvez uniquement les activer tant que \"Dragon Blanc aux Yeux Bleus\" est sur votre Terrain ou dans votre Cimetière. Si une ou plusieurs cartes sur le Terrain sont détruites au combat ou par un effet de carte : vous pouvez Invoquer Spécialement cette carte depuis le Cimetière (si elle y était lorsque la carte a été détruite) ou la main (même si elle n'y était pas). Au début de la Damage Step, si cette carte combat : vous pouvez cibler 1 carte contrôlée par votre adversaire ; renvoyez-la à la main.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/02/10",
+  "species_id": 1,
+  "starchip": "8"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 18438,
+  "card_name": "分裂するマザー・スパイダー",
+  "card_name_label": "ぶんれつするマザー・スパイダー",
+  "card_name_search": "ぶんれつするまざーすぱいだー",
+  "card_pen_effect": "",
+  "card_text": "このカード名の②の効果は１ターンに１度しか使用できない。①：自分フィールドにモンスターが存在しない場合、このカードは手札から特殊召喚できる。②：このカードをリリースして発動できる。手札・デッキから「ベビー・スパイダー」を３体まで特殊召喚する。この効果で特殊召喚したモンスターはレベルが５になり、X召喚の素材とする場合、闇属性モンスターのX召喚にしか使用できない。この効果の発動後、ターン終了時まで自分はXモンスターしかEXデッキから特殊召喚できない。",
+  "defense_power": "2300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/12/17",
+  "species_id": 10,
+  "starchip": "5"
+}

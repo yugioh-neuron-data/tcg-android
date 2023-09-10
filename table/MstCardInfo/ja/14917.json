@@ -1,0 +1,23 @@
+{
+  "attack_power": "700",
+  "attribute_id": 2,
+  "card_id": 14917,
+  "card_name": "サテライト・シンクロン",
+  "card_name_label": "サテライト・シンクロン",
+  "card_name_search": "さてらいとしんくろん",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。$N①：自分の墓地からモンスターが特殊召喚された場合に発動できる。このカードを手札から特殊召喚する。$N②：元々のカード名に「ウォリアー」、「シンクロン」、「スターダスト」の内、いずれかを含むSモンスターが自分のフィールドか墓地に存在する場合に発動できる。このカードのレベルはターン終了時まで４になる。",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/11/09",
+  "species_id": 7,
+  "starchip": "2"
+}

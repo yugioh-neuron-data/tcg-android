@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 12265,
+  "card_name": "Colpo Tsukumo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se un mostro che controlli attacca un mostro con ATK superiore al suo, durante il calcolo dei danni: il tuo mostro che sta combattendo guadagna ATK pari alla differenza tra i tuoi LP e quelli del tuo avversario, solamente durante quel calcolo dei danni. Puoi attivare solo 1 \"Colpo Tsukumo\" per turno.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/03/17",
+  "species_id": 24,
+  "starchip": "0"
+}

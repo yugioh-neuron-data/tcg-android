@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 12602,
+  "card_name": "카디언－싸리에 멧돼지－",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드는 통상 소환할 수 없다. \"카디언－싸리에 멧돼지－\" 이외의 자신 필드의 \"카디언\" 몬스터 1장을 릴리스했을 경우에 특수 소환할 수 있다. ①: 이 카드가 특수 소환에 성공했을 경우에 발동한다. 자신은 덱에서 1장 드로우하고, 서로 확인한다. 그것이 \"카디언\" 몬스터였을 경우, 상대 필드의 몬스터 1장을 고르고 파괴할 수 있다. 다를 경우, 그 카드를 묘지로 보낸다.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/10/20",
+  "species_id": 15,
+  "starchip": "7"
+}

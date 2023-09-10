@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14912,
+  "card_name": "ジェネレーション・ネクスト",
+  "card_name_label": "ジェネレーション・ネクスト",
+  "card_name_search": "じぇねれーしょんねくすと",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：自分のLPが相手より少ない場合に発動できる。お互いのLPの差の数値以下の攻撃力を持つ、「E・HERO」モンスター、「クリボー」モンスター、「N」モンスターの内、いずれか１体を自分のデッキ・墓地から選び、手札に加えるか特殊召喚する。このターン、自分はそのカード及びその同名カードの効果の発動ができない。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/11/09",
+  "species_id": 24,
+  "starchip": "0"
+}

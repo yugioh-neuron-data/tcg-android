@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16092,
+  "card_name": "ドレミコード・エレガンス",
+  "card_name_label": "ドレミコード・エレガンス",
+  "card_name_search": "どれみこーどえれがんす",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：以下の効果から１つを選択して発動できる。$N●デッキから「ドレミコード」Pモンスター１体を選び、自分のPゾーンに置く。$N●手札から「ドレミコード」Pモンスター１体を選び、EXデッキに表側表示で加える。その後、デッキからPスケールが奇数と偶数の「ドレミコード」Pモンスターを１体ずつ選び、自分のPゾーンに置く。$N●自分のPゾーンからPスケールが奇数と偶数のカードを１枚ずつ持ち主のEXデッキに表側表示で加え、自分はデッキから２枚ドローする。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/03/06",
+  "species_id": 24,
+  "starchip": "0"
+}

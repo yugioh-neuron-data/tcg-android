@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 3,
+  "card_id": 16526,
+  "card_name": "천극휘함－베어트론",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드명은 룰상 \"베어루크티\" 카드, \"드라이트론\" 카드로도 취급한다. 이 카드는 \"베어루크티 드라이트론\"의 효과로만 특수 소환할 수 있다. ①: 1턴에 1번, 자신 필드에 다른 효과 몬스터가 특수 소환되었을 경우에 발동할 수 있다. 덱에서 \"베어루크티\" 몬스터 또는 \"드라이트론\" 몬스터 1장을 패에 넣는다. ②: 1턴에 1번, 제외되어 있는 자신의, \"베어루크티\" 몬스터 또는 \"드라이트론\" 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 패에 넣는다.",
+  "defense_power": "700",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/10/26",
+  "species_id": 7,
+  "starchip": "7"
+}

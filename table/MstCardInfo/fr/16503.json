@@ -1,0 +1,23 @@
+{
+  "attack_power": "2700",
+  "attribute_id": 6,
+  "card_id": 16503,
+  "card_name": "Fuvagabonbrise et Empen",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si cette carte est Invoquée par Sacrifice : vous pouvez ajouter 1 Magie/Piège \"Fuvagabonbrise\" depuis votre Deck à votre main, puis immédiatement après la résolution de cet effet, vous pouvez Invoquer Normalement 1 monstre. Tant que cette carte Invoquée par Sacrifice est dans la Zone Monstre, votre adversaire ne peut pas activer les effets des monstres Invoqués Spécialement qu'il contrôle en Position d'Attaque. Une fois par combat, durant le calcul des dommages, si cette carte combat un monstre de l'adversaire (Effet Rapide) : vous pouvez bannir 1 carte depuis votre main ; jusqu'à la fin de ce tour, l'ATK/DEF actuelles du monstre de l'adversaire seront divisées par deux.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/11/04",
+  "species_id": 16,
+  "starchip": "10"
+}

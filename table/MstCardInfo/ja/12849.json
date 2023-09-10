@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 1,
+  "card_id": 12849,
+  "card_name": "召喚獣メルカバー",
+  "card_name_label": "しょうかんじゅうメルカバー",
+  "card_name_search": "しょうかんじゅうめるかばー",
+  "card_pen_effect": "",
+  "card_text": "「召喚師アレイスター」＋光属性モンスター$N①：１ターンに１度、モンスターの効果・魔法・罠カードが発動した時、そのカードと同じ種類（モンスター・魔法・罠）の手札を１枚墓地へ送って発動できる。その発動を無効にし除外する。",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/11/12",
+  "species_id": 7,
+  "starchip": "9"
+}

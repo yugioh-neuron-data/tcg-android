@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16416,
+  "card_name": "魂縛門",
+  "card_name_label": "こんばくもん",
+  "card_name_search": "こんばくもん",
+  "card_pen_effect": "",
+  "card_text": "自分フィールドにセットされた魔法・罠カードが効果で破壊されたターン、自分フィールドにモンスターが存在しない場合にこのカードを発動できる。①：自分・相手のメインフェイズに、自分の墓地に「Z－ONE」が存在し、自分のLPの数値より低い攻撃力を持つモンスター１体のみが召喚・反転召喚・特殊召喚された場合に発動する。そのモンスターを破壊し、自分は８００ダメージを受ける。その後、相手に８００ダメージを与える。",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/06/12",
+  "species_id": 24,
+  "starchip": "0"
+}

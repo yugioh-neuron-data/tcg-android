@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 10477,
+  "card_name": "킥파이어",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드가 필드 위에 존재하는 한, 자신 필드 위에 앞면 표시로 존재하는 화염 속성 몬스터가 카드의 효과에 의해서 파괴될 때마다, 그 파괴된 몬스터의 수만큼 이 카드에 카운터를 놓는다. 이 효과는 1턴에 1번밖에 적용할 수 없다. 또한, 자신 또는 상대의 스텐바이 페이즈시에 이 카드를 묘지로 보내고 발동할 수 있다. 이 카드의 효과에 의해서 이 카드에 얹혀 있는 카운터의 수 × 1000 포인트 데미지를 상대 라이프에 준다.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/10/01",
+  "species_id": 25,
+  "starchip": "0"
+}

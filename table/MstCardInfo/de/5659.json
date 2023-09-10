@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 1,
+  "card_id": 5659,
+  "card_name": "Rüstungs-Exe",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Diese Karte kann im Spielzug, in dem sie als Normal-, Flipp- oder Spezialbeschwörung beschworen wurde, nicht angreifen. Entferne in jeder deiner Standby Phasen und jeder Standby Phase deines Gegners 1 Zauberzählmarke auf deiner Spielfeldseite. Wenn du dies nicht tust, zerstöre diese Karte.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/05/01",
+  "species_id": 6,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 9894,
+  "card_name": "인잭터 단셀",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "①: 1턴에 1번, 자신 메인 페이즈에 발동할 수 있다. 자신의 패 / 묘지에서 \"인잭터\" 몬스터 1장을 고르고, 장착 카드로 취급하여 이 카드에 장착한다. ②: 이 카드가 자신 필드에 존재하고, 이 카드에 장착된 카드가 자신 묘지로 보내졌을 경우에 발동할 수 있다. 덱에서 \"인잭터 단셀\" 이외의 \"인잭터\" 몬스터 1장을 특수 소환한다. ③: 이 카드를 장착 카드로 취급하여 장착하고 있는 몬스터의 레벨은 3개 올라간다.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/02/07",
+  "species_id": 10,
+  "starchip": "3"
+}

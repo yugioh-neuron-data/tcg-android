@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 4,
+  "card_id": 10329,
+  "card_name": "炎星師－チョウテン",
+  "card_name_label": "えんせいし－チョウテン",
+  "card_name_search": "えんせいしちょうてん",
+  "card_pen_effect": "",
+  "card_text": "このカード名の効果は１ターンに１度しか使用できない。このカードをS素材とする場合、獣戦士族モンスターのS召喚にしか使用できない。①：このカードが召喚に成功した時、自分の墓地の守備力２００以下の炎属性・レベル３モンスター１体を対象として発動できる。その炎属性モンスターを守備表示で特殊召喚する。この効果で特殊召喚に成功したターン、獣戦士族以外の自分のモンスターは攻撃できない。",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/07/30",
+  "species_id": 12,
+  "starchip": "3"
+}

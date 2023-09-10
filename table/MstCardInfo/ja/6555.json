@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 2,
+  "card_id": 6555,
+  "card_name": "闇紅の魔導師",
+  "card_name_label": "ダークレッド・エンチャンター",
+  "card_name_search": "だーくれっどえんちゃんたー",
+  "card_pen_effect": "",
+  "card_text": "このカードが召喚に成功した時、このカードに魔力カウンターを２つ置く。このカードがフィールド上に表側表示で存在する限り、自分または相手が魔法カードを発動する度に、このカードに魔力カウンターを１つ置く。このカードに乗っている魔力カウンター１つにつき、このカードの攻撃力は３００ポイントアップする。１ターンに１度、このカードに乗っている魔力カウンターを２つ取り除く事で、相手の手札をランダムに１枚捨てる。",
+  "defense_power": "2200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/08/19",
+  "species_id": 18,
+  "starchip": "6"
+}

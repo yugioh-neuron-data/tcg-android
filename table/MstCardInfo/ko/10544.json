@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10544,
+  "card_name": "마도서의 신판",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 이 카드를 발동한 턴의 엔드 페이즈에, 이 카드의 발동 후에 자신 또는 상대가 발동한 마법 카드의 수까지, 덱에서 \"마도서의 신판\" 이외의 \"마도서\" 마법 카드를 패에 넣는다. 그 후, 이 효과로 패에 넣은 카드의 수 이하의 레벨을 가지는 마법사족 몬스터 1장을 덱에서 특수 소환할 수 있다.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/05/01",
+  "species_id": 24,
+  "starchip": "0"
+}

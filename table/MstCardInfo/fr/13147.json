@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 5,
+  "card_id": 13147,
+  "card_name": "Ligre Familier Amazonesse",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"Tigresse Amazonesse\" + 1 monstre \"Amazonesse\"$NUne fois par combat, si cette carte attaque, durant le calcul des dommages : durant ce calcul des dommages uniquement, vous pouvez faire gagner 500 ATK à cette carte. Si votre monstre \"Amazonesse\" a attaqué un monstre de l'adversaire, après le calcul des dommages : vous pouvez cibler 1 monstre face recto contrôlé par votre adversaire ; il perd 800 ATK. Les monstres contrôlés par votre adversaire ne peuvent pas attaquer de monstres \"Amazonesse\" que vous contrôlez (celui-ci exclu).",
+  "defense_power": "2400",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/10/19",
+  "species_id": 11,
+  "starchip": "7"
+}

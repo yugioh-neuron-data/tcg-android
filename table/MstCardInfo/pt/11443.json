@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 11443,
+  "card_name": "D/D/D Armagedom, o Rei do Fim",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Uma vez por turno: você pode escolher 1 monstro \"D/D\" que você controla; ele ganha 800 de ATK até o final deste turno (mesmo que este card deixe o campo).",
+  "card_text": "Uma vez por turno, se um ou mais monstros que você controla forem destruídos em batalha ou por um efeito de card: você pode escolher 1 desses monstros; até o final deste turno, este card ganha ATK igual ao ATK original desse monstro. Este card não pode atacar diretamente seu oponente durante o turno em que este efeito for ativado. Não pode ser destruído por efeitos de Magia/Armadilha que não escolherem este card como alvo.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "4",
+  "pen_scale_r": "4",
+  "sales_at": "2017/01/19",
+  "species_id": 3,
+  "starchip": "8"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 2,
+  "card_id": 18664,
+  "card_name": "リンク・デコーダー",
+  "card_name_label": "リンク・デコーダー",
+  "card_name_search": "りんくでこーだー",
+  "card_pen_effect": "",
+  "card_text": "レベル４以下のサイバース族モンスター１体$Nこのカード名の効果は１ターンに１度しか使用できない。$N①：元々の攻撃力が２３００以上のサイバース族リンクモンスターのリンク素材としてこのカードが墓地へ送られた場合に発動できる。このカードを特殊召喚する。この効果で特殊召喚したこのカードは、フィールドから離れた場合に除外される。",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "2",
+  "linkno": "1",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/03/17",
+  "species_id": 27,
+  "starchip": ""
+}

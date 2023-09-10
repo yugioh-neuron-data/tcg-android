@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 2,
+  "card_id": 17552,
+  "card_name": "Loris, Dame de la Lamentation",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Vous pouvez cibler 3 ou 6 de vos Pièges Normaux qui sont bannis et/ou dans votre Cimetière ; placez-les au-dessous de votre Deck dans l'ordre de votre choix, puis piochez 1 carte pour toutes les 3 cartes placées. Si un ou plusieurs autres monstres sont Sacrifiés, ou si un ou plusieurs Pièges Normaux sont envoyés à votre Cimetière par un effet de carte de l'adversaire (sauf durant la Damage Step) : vous pouvez cibler 1 Piège Normal dans votre Cimetière ; Posez-le. Vous ne pouvez utiliser chaque effet de \"Loris, Dame de la Lamentation\" qu'une fois par tour.",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/08/04",
+  "species_id": 3,
+  "starchip": "3"
+}

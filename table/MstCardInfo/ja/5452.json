@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 2,
+  "card_id": 5452,
+  "card_name": "イグザリオン・ユニバース",
+  "card_name_label": "イグザリオン・ユニバース",
+  "card_name_search": "いぐざりおんゆにばーす",
+  "card_pen_effect": "",
+  "card_text": "①：このカードが守備表示モンスターに攻撃するバトルステップに発動できる。ターン終了時まで、このカードの攻撃力は４００ダウンし、このカードが守備表示モンスターを攻撃した場合、その守備力を攻撃力が超えた分だけ戦闘ダメージを与える。",
+  "defense_power": "1900",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2001/12/20",
+  "species_id": 12,
+  "starchip": "4"
+}

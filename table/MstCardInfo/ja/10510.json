@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 4,
+  "card_id": 10510,
+  "card_name": "殺炎星－ブルキ",
+  "card_name_label": "さつえんせい－ブルキ",
+  "card_name_search": "さつえんせいぶるき",
+  "card_pen_effect": "",
+  "card_text": "このカードが墓地に存在する場合、手札または自分フィールド上に表側表示で存在する、「炎星」または「炎舞」と名のついたカードを合計２枚墓地へ送って発動できる。このカードを墓地から特殊召喚する。「殺炎星－ブルキ」の効果は１ターンに１度しか使用できない。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/02/16",
+  "species_id": 12,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 16396,
+  "card_name": "Lyrilusc - Plumes Fantômes",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Ciblez 1 monstre \"Lyrilusc\" que vous contrôlez ; l'ATK de tous les monstres actuellement contrôlés par votre adversaire devient l'ATK actuelle du monstre, et aussi, leur Niveau/Rang devient 1. Lorsqu'un monstre de l'adversaire déclare une attaque sur votre monstre \"Lyrilusc\" : vous pouvez bannir cette carte depuis votre Cimetière ; jusqu'à la fin de ce tour, l'ATK de votre monstre devient l'ATK du monstre de l'adversaire. Vous ne pouvez utiliser chaque effet de \"Lyrilusc - Plumes Fantômes\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/10/28",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 5,
+  "card_id": 12401,
+  "card_name": "Camarartista Gongato",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Uma vez por turno, quando um monstro do oponente declarar um ataque direto: você pode ativar este efeito; você não sofre dano de batalha dessa batalha (mesmo que este card deixe o campo).",
+  "card_text": "Uma vez por turno, quando um ataque for declarado envolvendo um monstro que você controla e um monstro do oponente: você pode ativar este efeito; você não sofre dano de batalha dessa batalha.",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "2",
+  "pen_scale_r": "2",
+  "sales_at": "2016/08/04",
+  "species_id": 11,
+  "starchip": "1"
+}

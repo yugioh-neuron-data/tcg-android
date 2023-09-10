@@ -1,0 +1,23 @@
+{
+  "attack_power": "1300",
+  "attribute_id": 6,
+  "card_id": 14166,
+  "card_name": "Oracle Harpie",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Le nom de cette carte devient \"Dame Harpie\" tant qu'elle est sur le Terrain ou dans le Cimetière. Vous ne pouvez utiliser chacun de ces effets de \"Oracle Harpie\" qu'une fois par tour.$N●Si vous contrôlez un monstre \"Harpie\" de min. Niveau 5 : vous pouvez Invoquer Spécialement cette carte depuis votre main.$N●Si cette carte est Invoquée Normalement ou Spécialement : durant la End Phase de ce tour, vous pouvez ajouter 1 Magie/Piège depuis votre Cimetière à votre main, qui liste spécifiquement la carte \"Sœurs de Harpie\" dans son texte.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/01/10",
+  "species_id": 16,
+  "starchip": "4"
+}

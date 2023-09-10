@@ -1,0 +1,23 @@
+{
+  "attack_power": "2200",
+  "attribute_id": 5,
+  "card_id": 9084,
+  "card_name": "Energieriese",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Du kannst diese Karte als Spezialbeschwörung (von deiner Hand) beschwören, indem du 1 Monster der Stufe 4 oder niedriger von deiner Hand auf den Friedhof legst. Falls du dies tust, verringere die Stufe dieser Karte um die Stufe des Monsters. Falls diese Karte angreift oder angegriffen wird, wird bis zum Ende des Damage Steps jeglicher Effektschaden, den du erhältst, zu 0.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/11/11",
+  "species_id": 6,
+  "starchip": "6"
+}

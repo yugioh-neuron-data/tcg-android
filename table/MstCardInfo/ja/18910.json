@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 4,
+  "card_id": 18910,
+  "card_name": "転生炎獣ティガー",
+  "card_name_label": "サラマングレイトティガー",
+  "card_name_search": "さらまんぐれいとてぃがー",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①の効果は１ターンに１度しか使用できない。$N①：手札から他の「サラマングレイト」カード１枚を捨てて発動できる。このカードを手札から特殊召喚する。$N②：自分フィールドのこのカードを炎属性SモンスターのS素材とする場合、このカードをチューナー以外のモンスターとして扱う事ができる。$N③：１ターンに１度、自分メインフェイズに発動できる。このカードのレベルを１つ上げるか下げる。",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/05/27",
+  "species_id": 27,
+  "starchip": "5"
+}

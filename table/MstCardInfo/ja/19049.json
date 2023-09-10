@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 19049,
+  "card_name": "トランザクション・ロールバック",
+  "card_name_label": "トランザクション・ロールバック",
+  "card_name_search": "とらんざくしょんろーるばっく",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。$N①：LPを半分払い、「トランザクション・ロールバック」以外の相手の墓地の通常罠カード１枚を対象として発動できる。この効果は、その通常罠カード発動時の効果と同じになる。$N②：墓地のこのカードを除外し、LPを半分払い、「トランザクション・ロールバック」以外の自分の墓地の通常罠カード１枚を対象として発動できる。この効果は、その通常罠カード発動時の効果と同じになる。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/06/10",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 5,
+  "card_id": 5585,
+  "card_name": "Tigre Zombie",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Une fois par tour, vous pouvez SOIT : ciblez 1 \"Commandant Décomposé\" que vous contrôlez ; équipez cette carte à la cible, SOIT : déséquipez cette carte et Invoquez-la Spécialement en Position d'Attaque. Tant qu'il est équipé par cet effet, le monstre équipé gagne 500 ATK/DEF. Si le monstre équipé détruit un monstre de l'adversaire au combat : défaussez-lui 1 carte au hasard. (Un monstre ne peut être équipé qu'avec 1 monstre Union à la fois. Si le monstre équipé va être détruit au combat, détruisez cette carte à la place.)",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 8,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/03/19",
+  "species_id": 2,
+  "starchip": "3"
+}

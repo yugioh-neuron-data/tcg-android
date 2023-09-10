@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 2,
+  "card_id": 15181,
+  "card_name": "D/D-Hund",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Du kannst 1 Fusions-, Synchro- oder Xyz-Monster wählen, das dein Gegner kontrolliert; annulliere seine Effekte bis zum Ende dieses Spielzugs, dann zerstöre diese Karte. Du kannst diesen Effekt von „D/D-Hund“ nur einmal pro Spielzug verwenden.",
+  "card_text": "Einmal pro Spielzug, falls dein Gegner ein oder mehr Fusions-, Synchro- oder Xyz-Monster als Spezialbeschwörung beschwört (außer während des Damage Steps): Du kannst 1 der Monster wählen; in diesem Spielzug kann das offene Monster nicht angreifen, zusätzlich werden seine Effekte annulliert.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2020/08/06",
+  "species_id": 3,
+  "starchip": "6"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 3,
+  "card_id": 15029,
+  "card_name": "飢鰐竜アーケティス",
+  "card_name_label": "きがくりゅうアーケティス",
+  "card_name_search": "きがくりゅうあーけてぃす",
+  "card_pen_effect": "",
+  "card_text": "チューナー＋チューナー以外のモンスター１体以上$Nこのカード名の①③の効果はそれぞれ１ターンに１度しか使用できない。①：このカードがS召喚に成功した場合に発動できる。そのS素材としたモンスターの内、チューナー以外のモンスターの数だけ、自分はデッキからドローする。②：このカードの攻撃力・守備力は自分の手札の数×５００アップする。③：手札を２枚捨て、フィールドのカード１枚を対象として発動できる。そのカードを破壊する。この効果は相手ターンでも発動できる。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/01/11",
+  "species_id": 8,
+  "starchip": "9"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 5,
+  "card_id": 6641,
+  "card_name": "グレート・スピリット",
+  "card_name_label": "グレート・スピリット",
+  "card_name_search": "ぐれーとすぴりっと",
+  "card_pen_effect": "",
+  "card_text": "このカードは１ターンに１度だけ裏側守備表示にする事ができる。このカードが反転召喚に成功した時、フィールド上の地属性モンスター１体を選択して発動できる。選択した地属性モンスターの元々の攻撃力と元々の守備力を、エンドフェイズ時まで入れ替える。",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/12/08",
+  "species_id": 6,
+  "starchip": "4"
+}

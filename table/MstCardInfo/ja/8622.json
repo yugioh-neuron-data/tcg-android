@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 5,
+  "card_id": 8622,
+  "card_name": "ソード・マスター",
+  "card_name_label": "ソード・マスター",
+  "card_name_search": "そーどますたー",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上に存在する戦士族モンスターの攻撃によって相手モンスターが破壊されなかったダメージステップ終了時、このカードを手札から特殊召喚する事ができる。また、このカードが守備表示モンスターを攻撃した時、その守備力を攻撃力が超えていれば、その数値だけ相手ライフに戦闘ダメージを与える。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/11/14",
+  "species_id": 15,
+  "starchip": "3"
+}

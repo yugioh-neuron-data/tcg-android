@@ -1,0 +1,23 @@
+{
+  "attack_power": "200",
+  "attribute_id": 2,
+  "card_id": 13129,
+  "card_name": "Artistamico Occhi Diversi Synchron",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Una volta per turno: puoi scegliere come bersaglio 1 mostro \"Artistamico\" o \"Occhi Diversi\" che controlli; in questo turno, quel mostro scoperto viene considerato come un Tuner, inoltre il suo Livello diventa 1 (anche se questa carta lascia il Terreno).",
+  "card_text": "Se questa carta, Evocata Specialmente dall'Extra Deck, viene utilizzata come Materiale Synchro, bandiscila. Quando questa carta viene Evocata Normalmente: puoi scegliere come bersaglio 1 mostro \"Artistamico\" o \"Occhi Diversi\" di Livello 3 o inferiore nel tuo Cimitero; Evocalo Specialmente, ma i suoi effetti si annullano. Una volta per turno: puoi scegliere come bersaglio 1 carta nella tua Zona Pendulum; Evocala Specialmente, ma i suoi effetti si annullano (se ne ha) e, se lo fai, immediatamente dopo che questo effetto si è risolto, Synchro Evoca 1 Mostro Synchro utilizzando solo quel mostro e questa carta.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 33,
+  "pen_scale_l": "6",
+  "pen_scale_r": "6",
+  "sales_at": "2017/07/06",
+  "species_id": 18,
+  "starchip": "2"
+}

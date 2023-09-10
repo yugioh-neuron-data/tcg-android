@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 15337,
+  "card_name": "Meklord Astro Dragón Triskelion",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "No puede ser Invocado de Modo Normal/Colocado. Debe ser primero Invocado de Modo Especial (desde tu mano) desterrando 3 monstruos \"Meklord\" con nombres diferentes en tu Cementerio. Una vez por turno, cuando esta carta declara un ataque: puedes mirar el Deck Extra de tu adversario y equipar a esta carta 1 monstruo de él. Esta carta gana ATK igual al ATK combinado de esos monstruos equipados. Mientras esté equipada con un Monstruo de Sincronía, esta carta puede hacer hasta 3 ataques a monstruos durante cada Battle Phase.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/09/24",
+  "species_id": 7,
+  "starchip": "10"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 11656,
+  "card_name": "星墜つる地に立つ閃珖",
+  "card_name_label": "スターダスト・リ・スパーク",
+  "card_name_search": "すたーだすとりすぱーく",
+  "card_pen_effect": "",
+  "card_text": "「星墜つる地に立つ閃珖」は１ターンに１枚しか発動できない。①：特殊召喚された相手モンスターの直接攻撃宣言時、そのモンスターの攻撃力が自分のLP以上の場合に発動できる。その攻撃を無効にし、自分はデッキから１枚ドローする。その後、自分のエクストラデッキ・墓地から「スターダスト」モンスター１体を選んで特殊召喚できる。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/12/20",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 5530,
+  "card_name": "名推理",
+  "card_name_label": "めいすいり",
+  "card_name_search": "めいすいり",
+  "card_pen_effect": "",
+  "card_text": "①：相手は１～１２までの任意のレベルを宣言する。通常召喚可能なモンスターが出るまで自分のデッキの上からカードをめくり、そのモンスターのレベルが宣言されたレベルと同じ場合、めくったカードを全て墓地へ送る。違った場合、そのモンスターを特殊召喚し、残りのめくったカードは全て墓地へ送る。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/05/16",
+  "species_id": 24,
+  "starchip": "0"
+}

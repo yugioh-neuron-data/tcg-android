@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 2,
+  "card_id": 10051,
+  "card_name": "甲虫装機 リュシオル",
+  "card_name_label": "インゼクター　リュシオル",
+  "card_name_search": "いんぜくたーりゅしおる",
+  "card_pen_effect": "",
+  "card_text": "１ターンに１度、自分の手札・墓地から「甲虫装機」と名のついたモンスター１体を装備カード扱いとしてこのカードに装備できる。このカードに「甲虫装機」と名のついたカードが装備された場合、相手フィールド上にセットされたカードを全て確認できる。また、このカードが装備カード扱いとして装備されている場合、装備モンスターのレベルは１つ上がり、攻撃力・守備力はこのカードのそれぞれの数値分アップする。",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/02/18",
+  "species_id": 10,
+  "starchip": "1"
+}

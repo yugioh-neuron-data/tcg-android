@@ -1,0 +1,956 @@
+[
+  {
+    "card_count": 1,
+    "card_id": 8734,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE090",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8735,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE091",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10443,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE092",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 10444,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE093",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 10445,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE094",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 10446,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE095",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10460,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE096",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10464,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE097",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10465,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE098",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10583,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE099",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10604,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE001",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10605,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE002",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10606,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE003",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10607,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE004",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10608,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE005",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10609,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE006",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10610,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE007",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10611,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE008",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10612,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE009",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10613,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE010",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10614,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE011",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10615,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE012",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10616,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE013",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10617,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE014",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10618,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE015",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10619,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE016",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 10620,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE017",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10621,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE018",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10622,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE019",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10623,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE020",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10624,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE021",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10625,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE022",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10626,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE023",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 10627,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE024",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10628,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE025",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10629,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE026",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10630,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE027",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10631,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE028",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 10632,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE029",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10633,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE030",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10634,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE031",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10635,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE032",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10636,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE033",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10637,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE034",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10638,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE035",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10639,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE036",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10640,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE037",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10641,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE038",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 10642,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE039",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10643,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE040",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10644,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE041",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10645,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE042",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10646,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE043",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10647,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE044",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10648,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE045",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 10649,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE046",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 3,
+    "card_id": 10650,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE047",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 3,
+    "card_id": 10650,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE047",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 3,
+    "card_id": 10650,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE047",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 7
+  },
+  {
+    "card_count": 2,
+    "card_id": 10651,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE048",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 2,
+    "card_id": 10651,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE048",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 10652,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE049",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10653,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE050",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10654,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE051",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10655,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE052",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10656,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE053",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10657,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE054",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10658,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE055",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 2,
+    "card_id": 10659,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE056",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 2,
+    "card_id": 10659,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE056",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 2,
+    "card_id": 10660,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE057",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 2,
+    "card_id": 10660,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE057",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 10661,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE058",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 2,
+    "card_id": 10662,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE059",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 2,
+    "card_id": 10662,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE059",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 10663,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE060",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10664,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE061",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10665,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE062",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10666,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE063",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10667,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE064",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10668,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE065",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10669,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE066",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10670,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE067",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 10671,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE068",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10672,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE069",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10673,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE070",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10674,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE071",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10675,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE072",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10676,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE073",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10677,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE074",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10678,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE075",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10679,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE076",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10680,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE077",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10681,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE078",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10682,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE079",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 10683,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE080",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10812,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE000",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10813,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE084",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 10814,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE081",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10815,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE082",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 10816,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE083",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 10817,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE085",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10818,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE086",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10819,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE087",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 10820,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE088",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 10821,
+    "card_image_id": 1,
+    "card_number": "JOTL-DE089",
+    "language": "de",
+    "pack_id": "21112007",
+    "rarity_id": 2
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 6,
+  "card_id": 10759,
+  "card_name": "幻獣機グリーフィン",
+  "card_name_label": "げんじゅうきグリーフィン",
+  "card_name_search": "げんじゅうきぐりーふぃん",
+  "card_pen_effect": "",
+  "card_text": "自分のメインフェイズ時、自分フィールド上の「幻獣機」と名のついたモンスター２体をリリースして発動できる。このカードを手札から特殊召喚する。「幻獣機グリーフィン」のこの効果は１ターンに１度しか使用できない。自分フィールド上にトークンが存在する限り、このカードは戦闘及び効果では破壊されない。また、１ターンに１度、手札の「幻獣機」と名のついたモンスター１体を捨てて発動できる。「幻獣機トークン」（機械族・風・星３・攻／守０）１体を特殊召喚する。",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/07/20",
+  "species_id": 7,
+  "starchip": "7"
+}

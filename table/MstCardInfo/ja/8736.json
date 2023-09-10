@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 1,
+  "card_id": 8736,
+  "card_name": "ライトニング・ウォリアー",
+  "card_name_label": "ライトニング・ウォリアー",
+  "card_name_search": "らいとにんぐうぉりあー",
+  "card_pen_effect": "",
+  "card_text": "チューナー＋チューナー以外のモンスター１体以上$Nこのカードが戦闘によって相手モンスターを破壊し墓地へ送った時、相手の手札の枚数×３００ポイントダメージを相手ライフに与える。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/10/21",
+  "species_id": 15,
+  "starchip": "7"
+}

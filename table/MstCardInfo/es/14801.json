@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 4,
+  "card_id": 14801,
+  "card_name": "Fénix Inmortal Gearfried",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Puedes desterrar 1 Mágica de Equipo en tu Campo o Cementerio; Invoca esta carta de Modo Especial desde tu mano. Al comienzo del Damage Step, si esta carta ataca: puedes equipar 1 monstruo boca arriba en el Campo a esta carta (máx. 1) como una Mágica de Equipo que le da a esta carta 500 ATK. Cuando es activado un efecto de monstruo (Efecto Rápido): puedes mandar al Cementerio 1 Carta de Equipo boca arriba que controles; niega la activación y, si lo haces, destrúyela. Sólo puedes usar cada efecto de \"Fénix Inmortal Gearfried\" una vez por turno.",
+  "defense_power": "2200",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/06/18",
+  "species_id": 15,
+  "starchip": "9"
+}

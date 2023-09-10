@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15543,
+  "card_name": "Lettura Arcana",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lancia una moneta una volta e applica questo effetto. Se \"Barriera di Luce\" è nella tua Zona Terreno, puoi invece selezionare l'effetto.$N●Testa: Aggiungi dal tuo Deck alla tua mano 1 carta che ha un effetto di lancio della moneta, eccetto \"Lettura Arcana\".$N●Croce: Il tuo avversario aggiunge 1 carta dal suo Deck alla sua mano.$NPuoi bandire questa carta dal tuo Cimitero; immediatamente dopo che questo effetto si è risolto, Evoca Normalmente 1 mostro \"Energia Arcana\".$NPuoi utilizzare ogni effetto di \"Lettura Arcana\" una sola volta per turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/11/05",
+  "species_id": 24,
+  "starchip": "0"
+}

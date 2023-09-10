@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 5860,
+  "card_name": "混沌帝龍 －終焉の使者－",
+  "card_name_label": "カオス・エンペラー・ドラゴン　－しゅうえんのししゃ－",
+  "card_name_search": "かおすえんぺらーどらごんしゅうえんのししゃ",
+  "card_pen_effect": "",
+  "card_text": "このカードは通常召喚できない。自分の墓地から光属性と闇属性のモンスターを１体ずつ除外した場合のみ特殊召喚できる。このカードの効果を発動するターン、自分は他の効果を発動できない。①：１ターンに１度、１０００LPを払って発動できる。お互いの手札・フィールドのカードを全て墓地へ送る。その後、この効果で相手の墓地へ送ったカードの数×３００ダメージを相手に与える。",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2003/04/24",
+  "species_id": 1,
+  "starchip": "8"
+}

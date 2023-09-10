@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 5439,
+  "card_name": "Belastungsprobe eines Reisenden",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wenn ein Monster deines Gegners einen Angriff deklariert: Dein Gegner bestimmt 1 zufällige Karte in deiner Hand, rät den Typ der Karte (Monster, Zauber oder Falle) und falls er falsch geraten hat, gib das angreifende Monster auf die Hand zurück.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2003/07/01",
+  "species_id": 25,
+  "starchip": "0"
+}

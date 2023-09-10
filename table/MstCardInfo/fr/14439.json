@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 2,
+  "card_id": 14439,
+  "card_name": "Endymion, le Puissant Maître de Magie",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Vous pouvez retirer 6 Compteurs Magie depuis votre Terrain ; Invoquez Spécialement cette carte depuis la Zone Pendule, puis comptez le nombre de cartes que vous contrôlez qui peuvent avoir un Compteur Magie, détruisez max. autant de cartes sur le Terrain, et si vous le faites, placez un nombre de Compteurs Magie sur cette carte égal au nombre de cartes détruites. Vous ne pouvez utiliser cet effet de \"Endymion, le Puissant Maître de Magie\" qu'une fois par tour.",
+  "card_text": "Une fois par tour, lorsqu'une Carte Magie/Piège ou effet de Magie/Piège est activé (Effet Rapide) : vous pouvez renvoyer 1 carte que vous contrôlez avec un Compteur Magie à la main, et si vous le faites, annulez l'activation, et si vous faites ça, détruisez-la. Puis, vous pouvez placer le même nombre de Compteurs Magie que la carte renvoyée avait sur cette carte. Tant que cette carte a un Compteur Magie, votre adversaire ne peut pas la cibler avec des effets de carte, et aussi, elle ne peut pas être détruite par des effets de carte de votre adversaire. Lorsque cette carte avec un Compteur Magie est détruite au combat : vous pouvez ajouter 1 Magie Normale depuis votre Deck à votre main.",
+  "defense_power": "1700",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "8",
+  "pen_scale_r": "8",
+  "sales_at": "2019/04/18",
+  "species_id": 18,
+  "starchip": "7"
+}

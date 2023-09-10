@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 13566,
+  "card_name": "デフラドラグーン",
+  "card_name_label": "デフラドラグーン",
+  "card_name_search": "でふらどらぐーん",
+  "card_pen_effect": "",
+  "card_text": "このカード名の、①の方法による特殊召喚は１ターンに１度しかできず、②の効果は１ターンに１度しか使用できない。①：このカードは手札の他のモンスター１体を墓地へ送り、手札から特殊召喚できる。②：このカードが墓地に存在する場合、自分の墓地からこのカード以外の同名モンスター３体を除外して発動できる。このカードを墓地から特殊召喚する。",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/01/13",
+  "species_id": 1,
+  "starchip": "3"
+}

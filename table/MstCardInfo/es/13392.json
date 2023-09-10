@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 13392,
+  "card_name": "Bestia Mítica Chacal",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Si no tienes cartas en tu otra Zona del Péndulo: puedes seleccionar 1 carta boca arriba que controles en la que puedas poner un Contador Mágico; destruye esta carta y, si lo haces, pon 1 Contador Mágico en esa carta. Sólo puedes usar este efecto de \"Bestia Mítica Chacal\" una vez por turno.",
+  "card_text": "Cada vez que es activada una Carta Mágica, pon 1 Contador Mágico en esta carta cuando esa Mágica se resuelva. Puedes retirar 3 Contadores Mágicos en tu Campo y Sacrificar esta carta; Invoca de Modo Especial, desde tu Deck, 1 Monstruo de Efecto \"Bestia Mítica\", excepto \"Bestia Mítica Chacal\".",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "4",
+  "pen_scale_r": "4",
+  "sales_at": "2018/02/01",
+  "species_id": 18,
+  "starchip": "1"
+}

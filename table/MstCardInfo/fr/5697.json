@@ -1,0 +1,23 @@
+{
+  "attack_power": "3300",
+  "attribute_id": 1,
+  "card_id": 5697,
+  "card_name": "Shinato, Roi d'un Plan Supérieur",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cette carte ne peut être Invoquée que par Invocation Rituelle avec la Carte Magie Rituelle, \"Arche de Shinato\". Vous devez également sacrifier des monstres dont le total des Niveaux est égal à 8 ou plus du Terrain ou de votre main. Lorsque cette carte détruit un monstre en Position de Défense et l'envoie au Cimetière à l'issue d'un combat, infligez des dommages aux Life Points de votre adversaire égaux à l'ATK d'origine du monstre détruit.",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 5,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/03/19",
+  "species_id": 17,
+  "starchip": "8"
+}

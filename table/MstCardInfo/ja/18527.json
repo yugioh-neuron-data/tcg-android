@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 18527,
+  "card_name": "星守の騎士団",
+  "card_name_label": "テラナイト・セイクリッド",
+  "card_name_search": "てらないとせいくりっど",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できず、このカード名の②の効果は１ターンに１度しか使用できない。①：このカードの発動時の効果処理として、自分の手札・墓地から「テラナイト」、「セイクリッド」モンスター１体を選んで特殊召喚できる。②：自分フィールドの「テラナイト」、「セイクリッド」Xモンスター１体を対象として発動できる。その自分のモンスターとはランクが異なる「テラナイト」、「セイクリッド」Xモンスター１体を、対象のモンスターの上に重ねてX召喚扱いとしてEXデッキから特殊召喚する。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/01/14",
+  "species_id": 24,
+  "starchip": "0"
+}

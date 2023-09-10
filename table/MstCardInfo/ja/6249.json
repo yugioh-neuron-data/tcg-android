@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 1,
+  "card_id": 6249,
+  "card_name": "機械犬マロン",
+  "card_name_label": "メカドッグマロン",
+  "card_name_search": "めかどっぐまろん",
+  "card_pen_effect": "",
+  "card_text": "フィールド上のこのカードが戦闘によって破壊され墓地へ送られた時、お互いのライフに１０００ポイントダメージを与える。フィールド上のこのカードが戦闘以外によって破壊され墓地へ送られた時、相手ライフに１０００ポイントダメージを与える。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/11/25",
+  "species_id": 7,
+  "starchip": "4"
+}

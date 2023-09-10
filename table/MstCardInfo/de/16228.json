@@ -1,0 +1,23 @@
+{
+  "attack_power": "4000",
+  "attribute_id": 6,
+  "card_id": 16228,
+  "card_name": "Schnuppiger majestätischer Sternendrache",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "„Majestätischer Drache“ + 1+ Nicht-Empfänger-Monster, darunter ein Drache-Synchromonster$NMuss erst als Synchrobeschwörung beschworen werden. Einmal pro Spielzug: Du kannst die Effekte von 1 Effektmonster annullieren, das dein Gegner kontrolliert. Diese Karte erhält in jeder Battle Phase für jedes Monster in deinem Friedhof, das „Sternenstaubdrache“ oder ein Synchromonster mit „Sternenstaubdrache“ in seinem Text ist, 1 zusätzlichen Angriff. Einmal pro Spielzug, wenn dein Gegner eine Karte oder einen Effekt aktiviert (Schnelleffekt): Du kannst diese Karte (bis zur End Phase) verbannen und falls du dies tust, annulliere die Aktivierung und falls du dies tust, verbanne die Karte.",
+  "defense_power": "3300",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/08/12",
+  "species_id": 1,
+  "starchip": "11"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2900",
+  "attribute_id": 4,
+  "card_id": 8017,
+  "card_name": "Verdammniskaiser-Drache/Angriffsmodus",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Diese Karte kann nicht als Normalbeschwörung beschworen oder gesetzt werden. Diese Karte kann nicht als Spezialbeschwörung beschworen werden, außer mit „Angriffsmodus aktivieren“. Wenn diese Karte als Spezialbeschwörung beschworen wird, beschwöre eine beliebige Anzahl Monster vom Typ Zombie aus den Friedhöfen beliebiger Spieler auf deine Spielfeldseite. Die Effekte der Monster werden annulliert und sie werden während der End Phase dieses Spielzugs zerstört. Wenn diese Karte auf dem Spielfeld zerstört wird, kannst du 1 „Verdammniskaiser-Drache“ als Spezialbeschwörung von deinem Friedhof beschwören.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/03/03",
+  "species_id": 2,
+  "starchip": "8"
+}

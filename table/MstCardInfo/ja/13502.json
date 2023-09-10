@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 5,
+  "card_id": 13502,
+  "card_name": "クリフォート・ゲニウス",
+  "card_name_label": "クリフォート・ゲニウス",
+  "card_name_search": "くりふぉーとげにうす",
+  "card_pen_effect": "",
+  "card_text": "機械族モンスター２体$N①：リンク召喚したこのカードは魔法・罠カードの効果を受けず、このカード以外のリンクモンスターが発動した効果も受けない。②：１ターンに１度、このカード以外の、自分及び相手フィールドの表側表示のカードを１枚ずつ対象として発動できる。そのカード２枚の効果をターン終了時まで無効にする。③：このカードのリンク先にモンスター２体が同時に特殊召喚された時に発動できる。デッキからレベル５以上の機械族モンスター１体を手札に加える。",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "13",
+  "linkno": "2",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/11/25",
+  "species_id": 7,
+  "starchip": ""
+}

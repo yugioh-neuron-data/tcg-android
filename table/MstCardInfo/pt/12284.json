@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 1,
+  "card_id": 12284,
+  "card_name": "Loba Luzlunar",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Você não pode Invocar monstros por Invocação-Pêndulo, exceto monstros \"Luzlunar\". Este efeito não pode ser negado. Uma vez por turno: você pode Invocar por Invocação-Fusão 1 Monstro de Fusão \"Luzlunar\" do seu Deck Adicional, ao banir as Matérias de Fusão listadas nele do seu campo ou Cemitério.",
+  "card_text": "Se um monstro \"Luzlunar\" que você controla atacar um monstro em Posição de Defesa, cause dano de batalha perfurante ao seu oponente.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2016/05/05",
+  "species_id": 12,
+  "starchip": "6"
+}

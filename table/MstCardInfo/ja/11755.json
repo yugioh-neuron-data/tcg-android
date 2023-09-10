@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 11755,
+  "card_name": "再転",
+  "card_name_label": "サイコロ",
+  "card_name_search": "さいころ",
+  "card_pen_effect": "",
+  "card_text": "①：１ターンに１度、フィールドの元々のレベルと異なるレベルを持つモンスター１体を対象としてこの効果を発動できる。サイコロを１回振る。対象のモンスターのレベルは出た目と同じになる。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/02/14",
+  "species_id": 25,
+  "starchip": "0"
+}

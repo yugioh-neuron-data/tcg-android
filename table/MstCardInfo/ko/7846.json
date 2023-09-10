@@ -1,0 +1,23 @@
+{
+  "attack_power": "1900",
+  "attribute_id": 5,
+  "card_id": 7846,
+  "card_name": "맘모스 좀비",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "자신의 묘지에 언데드족 몬스터가 존재하지 않을 경우, 이 카드를 파괴한다. 필드 위에 앞면 표시로 존재하는 이 카드가 파괴되었을 경우, 그때의 컨트롤러에게 이 카드의 원래 공격력만큼 데미지를 준다.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/03/05",
+  "species_id": 2,
+  "starchip": "4"
+}

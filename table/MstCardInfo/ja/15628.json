@@ -1,0 +1,23 @@
+{
+  "attack_power": "2200",
+  "attribute_id": 2,
+  "card_id": 15628,
+  "card_name": "Evil★Twins キスキル・リィラ",
+  "card_name_label": "イビルツインズ キスキル・リィラ",
+  "card_name_search": "いびるついんずきすきるりぃら",
+  "card_pen_effect": "",
+  "card_text": "このカードは通常召喚できない。自分フィールドのリンクモンスター２体をリリースした場合のみ手札・墓地から特殊召喚できる。このカード名の①の効果は１ターンに１度しか使用できない。①：このカードが特殊召喚に成功した場合に発動できる。相手は自身のフィールドのカードが３枚以上の場合には２枚になるように墓地へ送らなければならない。②：自分の墓地に「キスキル」モンスター及び「リィラ」モンスターが存在する限り、このカードの攻撃力・守備力は２２００アップする。",
+  "defense_power": "2200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/09/12",
+  "species_id": 3,
+  "starchip": "8"
+}

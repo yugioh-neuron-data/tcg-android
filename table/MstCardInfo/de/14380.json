@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14380,
+  "card_name": "Niederträchtiges Territorium",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wenn diese Karte aktiviert wird: Du kannst 1 „Niederträchtige Welt“ von deinem Deck aktivieren. Solange die Karte in der Spielfeldzone liegt, kann kein Spieler eine oder mehr Karten in der Spielfeldzone als Ziel für Karteneffekte wählen. Der „Niederträchtig“-Monstereffekt „Es kann nur 1 offenes „Niederträchtig“-Monster auf dem Spielfeld liegen“ wird zu „Es kann nur 1 offenes „Niederträchtig“-Monster mit demselben Namen auf dem Spielfeld liegen“. Während der Battle Phase, annulliere die Effekte von offenen „Niederträchtig“-Monstern auf dem Spielfeld.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/03/19",
+  "species_id": 24,
+  "starchip": "0"
+}

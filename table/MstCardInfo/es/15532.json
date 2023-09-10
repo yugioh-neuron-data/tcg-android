@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15532,
+  "card_name": "Tri-Brigada Asalto Aéreo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Selecciona 1 monstruo Bestia, Guerrero-Bestia o Bestia Alada que controlas; Invoca de Modo Especial, desde tu Deck en Posición de Defensa, 1 monstruo Bestia, Guerrero-Bestia o Bestia Alada con un Tipo diferente y ATK menor o igual al de ese monstruo, pero sus efectos son negados hasta el final de este turno, y además no puedes Invocar monstruos de Modo Especial desde el Deck Extra por el resto de este turno, excepto Monstruos de Enlace. Sólo puedes activar 1 \"Tri-Brigada Asalto Aéreo\" por turno.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/11/05",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 6,
+  "card_id": 19155,
+  "card_name": "ホルスの先導－ハーピ",
+  "card_name_label": "ホルスのせんどう－ハーピ",
+  "card_name_search": "ほるすのせんどうはーぴ",
+  "card_pen_effect": "",
+  "card_text": "このカード名の、①の方法による特殊召喚は１ターンに１度しかできず、②の効果は１ターンに１度しか使用できない。$N①：自分フィールドに「王の棺」が存在する場合、このカードは墓地から特殊召喚できる。$N②：このカードがモンスターゾーンに存在する状態で、自分フィールドの他のカードが相手の効果でフィールドから離れた場合、お互いの墓地・除外状態のカードの中から合計２枚を対象として発動できる。そのカード２枚を持ち主の手札に加えるかそのカード２枚をデッキに戻す。",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/07/22",
+  "species_id": 12,
+  "starchip": "8"
+}

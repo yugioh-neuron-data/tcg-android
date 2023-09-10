@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 14189,
+  "card_name": "Lunalicht-Serenadentanz",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wenn ein oder mehr Fusionsmonster als Fusionsbeschwörung auf deine Spielfeldseite beschworen werden (außer während des Damage Steps): Du kannst 1 der Monster wählen; führe nacheinander diese Effekte aus.$N●Beschwöre 1 „Lunalicht-Spielmarke“ (Ungeheuer-Krieger/FINSTERNIS/Stufe 4/ATK 2000/DEF 2000) als Spezialbeschwörung auf die Spielfeldseite deines Gegners.$N●Das gewählte Ziel erhält 500 ATK für jedes Monster, das dein Gegner kontrolliert (selbst falls diese Karte das Spielfeld verlässt).$NWährend deiner Main Phase: Du kannst diese Karte von deinem Friedhof verbannen; lege 1 Karte von deiner Hand auf den Friedhof und falls du dies tust, beschwöre 1 „Lunalicht“-Monster als Spezialbeschwörung von deinem Deck. Du kannst diesen Effekt von „Lunalicht-Serenadentanz“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/01/10",
+  "species_id": 25,
+  "starchip": "0"
+}

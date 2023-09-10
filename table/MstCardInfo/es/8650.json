@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 2,
+  "card_id": 8650,
+  "card_name": "Garlandolf, Rey de la Destrucción",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Esta carta sólo puede ser Invocada por Ritual con la Carta Mágica de Ritual \"Ritual de la Destrucción\". Cuando esta carta es Invocada por Ritual, destruye todos los demás monstruos boca arriba en el Campo que tengan DEF menor o igual al ATK de esta carta. Esta carta gana 100 ATK por cada monstruo destruido por este efecto.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 5,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/02/11",
+  "species_id": 3,
+  "starchip": "7"
+}

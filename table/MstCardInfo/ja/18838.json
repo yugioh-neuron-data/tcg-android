@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 18838,
+  "card_name": "シンクロ・ワールド",
+  "card_name_label": "シンクロ・ワールド",
+  "card_name_search": "しんくろわーるど",
+  "card_pen_effect": "",
+  "card_text": "①：モンスターがS召喚される度にこのカードにシグナルカウンターを２つ置く。$N②：自分フィールドのシグナルカウンターを以下の数だけ取り除き、その効果を発動できる。$N●４：自分フィールドの表側表示モンスター１体のレベルを１つ上げるか下げる。$N●７：自分の墓地からチューナー１体を特殊召喚する。$N●１０：自分の墓地からSモンスター１体を特殊召喚する。$N③：フィールドのこのカードが相手の効果で破壊された場合に発動できる。EXデッキから「赤き竜」１体を特殊召喚する。",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/04/22",
+  "species_id": 24,
+  "starchip": "0"
+}

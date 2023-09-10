@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13424,
+  "card_name": "Accensione Settore di Avvio",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Tutti i mostri \"Mizzile\" sul Terreno guadagnano 300 ATK/DEF.$NPuoi attivare 1 di questi effetti;$N●Evoca Specialmente fino a 2 mostri \"Mizzile\" con nomi diversi dalla tua mano in Posizione di Difesa.$N●Se il tuo avversario controlla più mostri di te: Evoca Specialmente mostri \"Mizzile\" con nomi diversi dal tuo Cimitero in Posizione di Difesa, fino alla differenza.$NPuoi utilizzare questo effetto di \"Accensione Settore di Avvio\" una sola volta per turno.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/02/01",
+  "species_id": 24,
+  "starchip": "0"
+}

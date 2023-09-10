@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 6524,
+  "card_name": "Bewaffnete Arme",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lege 1 Ausrüstungszauberkarte aus deiner Hand auf den Friedhof, um diese Karte zu aktivieren. Falls das ausgerüstete Monster ein Monster als Ergebnis eines Kampfes zerstört, kann der Beherrscher dieser Ausrüstungszauberkarte 1 Monster von seinem Friedhof seiner Hand hinzufügen, dessen ATK kleiner oder gleich den ATK des ausgerüsteten Monsters sind.",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/11/01",
+  "species_id": 24,
+  "starchip": "0"
+}

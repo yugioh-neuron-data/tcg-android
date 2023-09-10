@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 7227,
+  "card_name": "ヴェノム・スプラッシュ",
+  "card_name_label": "ヴェノム・スプラッシュ",
+  "card_name_search": "う゛ぇのむすぷらっしゅ",
+  "card_pen_effect": "",
+  "card_text": "ヴェノムカウンターが乗ったモンスター１体を選択して発動する。そのカードのヴェノムカウンターを取り除き、取り除いたヴェノムカウンターの数×７００ポイントダメージを相手ライフに与える。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/05/12",
+  "species_id": 25,
+  "starchip": "0"
+}

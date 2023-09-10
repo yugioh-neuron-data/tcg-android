@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 6,
+  "card_id": 14274,
+  "card_name": "Star Staring Starling",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "This card gains an effect based on your Main Monster Zone it is in.$N●Leftmost: Increase its Level by 4.$N●Rightmost: Increase its Level by 3.$N●Center: Increase its Level by 2.$N●Others: Increase its Level by 1.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/05/03",
+  "species_id": 16,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 18206,
+  "card_name": "Perlegia des Tiarmentations",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Les monstres \"Tiarmentations\" et Monstres Fusion que vous contrôlez gagnent 500 ATK. Si un monstre \"Tiarmentations\" Aqua est envoyé à votre Cimetière par un effet de carte (sauf durant la Damage Step) : vous pouvez envoyer 1 monstre Aqua de max. Niveau 4 depuis votre Deck au Cimetière, mais si vous avez envoyé un monstre non-\"Tiarmentations\" au Cimetière, vous ne pouvez activer ni de cartes ni d'effets de cartes du même nom que la carte envoyée le reste de ce tour. Vous ne pouvez utiliser cet effet de \"Perlegia des Tiarmentations\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/02/06",
+  "species_id": 24,
+  "starchip": "0"
+}

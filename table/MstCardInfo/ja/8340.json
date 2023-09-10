@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 8340,
+  "card_name": "スピリット・バーナー",
+  "card_name_label": "スピリット・バーナー",
+  "card_name_search": "すぴりっとばーなー",
+  "card_pen_effect": "",
+  "card_text": "１ターンに１度、装備モンスターを守備表示にする事ができる。装備モンスターがフィールド上から手札に戻る事によってこのカードが墓地へ送られた時、相手ライフに６００ポイントダメージを与える。このカードが墓地に存在する場合、自分のドローフェイズ時に通常のドローを行う代わりに、このカードを手札に加える事ができる。",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/04/18",
+  "species_id": 24,
+  "starchip": "0"
+}

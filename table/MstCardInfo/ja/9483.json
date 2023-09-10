@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 2,
+  "card_id": 9483,
+  "card_name": "機皇兵ワイゼル・アイン",
+  "card_name_label": "きこうへいワイゼル・アイン",
+  "card_name_search": "きこうへいわいぜるあいん",
+  "card_pen_effect": "",
+  "card_text": "①：このカードの攻撃力は、このカード以外のフィールドの「機皇」モンスターの数×１００アップする。②：１ターンに１度、このカード以外の自分の「機皇」モンスターが守備表示モンスターに攻撃宣言した時に発動できる。その戦闘でその自分のモンスターが守備表示モンスターを攻撃した場合、その守備力を攻撃力が超えた分だけ相手に戦闘ダメージを与える。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/02/11",
+  "species_id": 7,
+  "starchip": "4"
+}

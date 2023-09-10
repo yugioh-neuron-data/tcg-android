@@ -1,0 +1,23 @@
+{
+  "attack_power": "2700",
+  "attribute_id": 5,
+  "card_id": 15949,
+  "card_name": "Kriegsfels-Bashileos",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Während einer Battle Phase, in der dein ERDE Krieger-Monster kämpft (Schnelleffekt): Du kannst diesen Effekt aktivieren; diese Karte kann in diesem Spielzug direkt angreifen, zusätzlich erhalten alle „Kriegsfels“-Monster, die du derzeit kontrollierst, bis zum Ende des Spielzugs deines Gegners 200 ATK. Solange sich diese Karte in deiner Hand oder deinem Friedhof befindet, wenn dein ERDE Krieger-Monster durch Kampf zerstört wird: Du kannst diese Karte als Spezialbeschwörung beschwören, aber verbanne sie, wenn sie das Spielfeld verlässt. Du kannst jeden Effekt von „Kriegsfels-Bashileos“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "2700",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/02/04",
+  "species_id": 15,
+  "starchip": "8"
+}

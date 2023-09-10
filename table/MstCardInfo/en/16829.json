@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 2,
+  "card_id": 16829,
+  "card_name": "Skilled Brown Magician",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves (max. 3). You can remove 1 Spell Counter from this card, then activate 1 of these effects;$N●This card gains 1500 ATK, and its Level is increased by 1.$N●Add 1 \"Kuriboh\" monster or 1 \"Multiply\" from your Deck or GY to your hand.$NYou can only use this effect of \"Skilled Brown Magician\" once per turn.",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/02/10",
+  "species_id": 18,
+  "starchip": "4"
+}

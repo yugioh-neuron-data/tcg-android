@@ -1,0 +1,23 @@
+{
+  "attack_power": "-1",
+  "attribute_id": 2,
+  "card_id": 11005,
+  "card_name": "巡死神リーパー",
+  "card_name_label": "ピルグリムリーパー",
+  "card_name_search": "ぴるぐりむりーぱー",
+  "card_pen_effect": "",
+  "card_text": "レベル６モンスター×２$N「巡死神リーパー」の②の効果は１ターンに１度しか使用できない。①：このカードの攻撃力・守備力は、お互いの墓地の闇属性モンスターの数×２００アップする。②：このカードのX素材を１つ取り除いて発動できる。お互いのデッキの上からカードを５枚墓地へ送る。",
+  "defense_power": "-1",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/12/21",
+  "species_id": 2,
+  "starchip": "6"
+}

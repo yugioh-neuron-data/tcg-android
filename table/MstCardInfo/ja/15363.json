@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 5,
+  "card_id": 15363,
+  "card_name": "暗黒騎士ガイアオリジン",
+  "card_name_label": "あんこくきしガイアオリジン",
+  "card_name_search": "あんこくきしがいあおりじん",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①③の効果はそれぞれ１ターンに１度しか使用できない。①：手札からレベル５以上のモンスター１体を墓地へ送って発動できる。このカードを手札から特殊召喚する。②：戦士族モンスターをアドバンス召喚する場合、このカードは２体分のリリースにできる。③：自分・相手のバトルフェイズに、墓地のこのカードを除外し、元々の攻撃力と異なる攻撃力を持つフィールドのモンスター１体を対象として発動できる。そのモンスターの攻撃力は元々の数値になる。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/21",
+  "species_id": 15,
+  "starchip": "4"
+}

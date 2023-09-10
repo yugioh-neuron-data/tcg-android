@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 16758,
+  "card_name": "Donnerentladung",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls du eine „Abenteurer-Spielmarke“ kontrollierst: Du kannst 1 Monster wählen, das du kontrollierst und das mit einer Ausrüstungskarte ausgerüstet ist, die „Abenteurer-Spielmarke“ erwähnt; zerstöre so viele Monster, die dein Gegner kontrolliert und deren ATK kleiner oder gleich denen jenes Monsters sind, wie möglich, dann kannst du 1 Monster, das du kontrollierst, mit 1 Ausrüstungszauber, der „Abenteurer-Spielmarke“ erwähnt, von deiner Hand oder deinem Friedhof ausrüsten. Du kannst nur 1 „Donnerentladung“ pro Spielzug aktivieren.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/01/27",
+  "species_id": 25,
+  "starchip": "0"
+}

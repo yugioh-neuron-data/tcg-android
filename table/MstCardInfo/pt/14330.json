@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 14330,
+  "card_name": "Dadieta",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lance um dado de seis faces. Aplique este efeito, dependendo de quem é o turno.$N●Durante o seu turno: bana cards do seu Cemitério igual ao resultado. Depois, se o resultado foi 1, envie 6 cards do topo do seu Deck para o Cemitério.$N●Durante o turno do seu oponente: envie para o Cemitério cards do topo do seu Deck igual ao resultado. Depois, se o resultado foi 6, bana 1 card do seu Cemitério.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/05/02",
+  "species_id": 25,
+  "starchip": "0"
+}

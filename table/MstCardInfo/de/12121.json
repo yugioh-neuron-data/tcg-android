@@ -1,0 +1,23 @@
+{
+  "attack_power": "200",
+  "attribute_id": 1,
+  "card_id": 12121,
+  "card_name": "Partitur die musikalische Sängerin",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Während der Schadensberechnung (im Spielzug eines beliebigen Spielers), falls ein „Musikalisch“-Monster, das du kontrollierst, gegen ein Monster deines Gegners kämpft: Du kannst diese Karte von deiner Hand auf den Friedhof legen; ändere die ATK und DEF des Monsters deines Gegners bis zum Ende dieses Spielzugs zu 0.",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/01/14",
+  "species_id": 17,
+  "starchip": "2"
+}

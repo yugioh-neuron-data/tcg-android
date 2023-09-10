@@ -1,0 +1,23 @@
+{
+  "attack_power": "400",
+  "attribute_id": 3,
+  "card_id": 10985,
+  "card_name": "삼라의 밀감자 시트라",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "①: 필드의 이 카드가 상대에 의해서 파괴되어 묘지로 보내졌을 때에 발동할 수 있다. 자신 덱의 맨 위의 카드를 넘겨, 그 카드가 식물족 몬스터였을 경우, 그 몬스터를 묘지로 보낸다. 다를 경우, 그 카드를 덱의 맨 아래로 되돌린다. ②: 덱의 이 카드가 효과로 넘겨져 묘지로 보내졌을 경우에 발동한다. 자신 필드의 모든 식물족 몬스터의 공격력 / 수비력은 300 올린다.",
+  "defense_power": "1100",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/12/17",
+  "species_id": 13,
+  "starchip": "3"
+}

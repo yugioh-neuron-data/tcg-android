@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 4,
+  "card_id": 13157,
+  "card_name": "Lazion, el Señor del Tiempo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "No puede ser Invocada de Modo Especial desde el Deck. Si no controlas monstruos, puedes Invocar esta carta de Modo Normal sin Sacrificios. No puede ser destruida en batalla o por efectos de cartas. No recibes daño de batalla de ataques que involucren a esta carta. Al final de la Battle Phase, si esta carta batalló: baraja al Deck todas las cartas en el Cementerio de tu adversario. Una vez por turno, si tu adversario roba una carta: inflige 1000 puntos de daño a tu adversario. Una vez por turno, durante tu Standby Phase: baraja esta carta al Deck.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/07/06",
+  "species_id": 17,
+  "starchip": "10"
+}

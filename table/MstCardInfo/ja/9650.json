@@ -1,0 +1,23 @@
+{
+  "attack_power": "2700",
+  "attribute_id": 2,
+  "card_id": 9650,
+  "card_name": "地獄の傀儡魔人",
+  "card_name_label": "じごくのくぐつまじん",
+  "card_name_search": "じごくのくぐつまじん",
+  "card_pen_effect": "",
+  "card_text": "１ターンに１度、手札を１枚捨てる事で、相手フィールド上に表側表示で存在する全てのレベル３以下のモンスターのコントロールをエンドフェイズ時まで得る。この効果でコントロールを得たモンスターは効果を発動する事ができず、リリースやシンクロ素材とする事もできない。",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/04/16",
+  "species_id": 3,
+  "starchip": "7"
+}

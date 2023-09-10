@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 4,
+  "card_id": 6113,
+  "card_name": "超熱血球児",
+  "card_name_label": "ちょうねっけつきゅうじ",
+  "card_name_search": "ちょうねっけつきゅうじ",
+  "card_pen_effect": "",
+  "card_text": "フィールド上にこのカード以外の炎属性モンスターが存在する場合、このカードの攻撃力は１体につき１０００ポイントアップする。このカード以外の炎属性モンスターを墓地に送る度に、相手プレイヤーに５００ポイントダメージを与える。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/05/27",
+  "species_id": 15,
+  "starchip": "3"
+}

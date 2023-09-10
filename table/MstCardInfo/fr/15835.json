@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 15835,
+  "card_name": "Terreur de Trishula",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Appliquez ces effets, dans l'ordre, selon le nombre de Monstres Synchro \"Barrière de Glace\" que vous contrôlez de noms différents ;$N●1+ : Bannissez 1 carte contrôlée par votre adversaire.$N●2+ : Bannissez 1 carte depuis le Cimetière de votre adversaire.$N●3+ : Bannissez 1 carte au hasard depuis la main de votre adversaire.$NLorsque votre adversaire active une carte ou un effet qui cible un ou plusieurs Monstres Synchro \"Barrière de Glace\" que vous contrôlez : vous pouvez bannir cette carte depuis votre Cimetière ; annulez l'effet.$NVous ne pouvez utiliser chaque effet de \"Terreur de Trishula\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/02/18",
+  "species_id": 25,
+  "starchip": "0"
+}

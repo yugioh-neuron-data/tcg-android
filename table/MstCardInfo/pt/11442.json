@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 11442,
+  "card_name": "D/D Kepler, o Erudito",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Você não pode Invocar monstros por Invocação-Pêndulo, exceto monstros \"D/D\". Este efeito não pode ser negado. Uma vez por turno, durante sua Fase de Apoio: reduza a Escala de Pêndulo deste card por 2 (mín. 1) e, depois, destrua todos os monstros que você controla com um Nível igual ou maior que a Escala de Pêndulo deste card, exceto monstros \"D/D\".",
+  "card_text": "Se este card for Invocado por Invocação-Normal ou Especial: você pode ativar 1 desses efeitos. Você só pode usar este efeito de \"D/D Kepler, o Erudito\" uma vez por turno.$N●Escolha 1 outro card \"D/D\" que você controla; devolva-o para a mão.$N●Adicione 1 card \"Pacto Obscuro\" do seu Deck à sua mão.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "10",
+  "pen_scale_r": "10",
+  "sales_at": "2015/11/06",
+  "species_id": 3,
+  "starchip": "1"
+}

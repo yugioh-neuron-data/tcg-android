@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 2,
+  "card_id": 17111,
+  "card_name": "Artistamigo Barokuriboh",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Una vez por turno, al comienzo de la Battle Phase: puedes añadir a tu mano 1 monstruo con 300 ATK/200 DEF en tu Deck, y después destruye esta carta.",
+  "card_text": "Cuando tu monstruo es destruido en batalla: puedes Invocar esta carta de Modo Especial desde tu mano. Los monstruos de tu adversario no pueden seleccionar monstruos para ataques, excepto éste. Si esta carta es atacada, cámbiala a Posición de Ataque al final del Damage Step.",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2023/06/22",
+  "species_id": 3,
+  "starchip": "8"
+}

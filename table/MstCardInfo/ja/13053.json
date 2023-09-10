@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 13053,
+  "card_name": "クラッキング・ドラゴン",
+  "card_name_label": "クラッキング・ドラゴン",
+  "card_name_search": "くらっきんぐどらごん",
+  "card_pen_effect": "",
+  "card_text": "①：このカードは、このカードのレベル以下のレベルを持つモンスターとの戦闘では破壊されない。②：このカードがモンスターゾーンに存在し、相手がモンスター１体のみを召喚・特殊召喚した時に発動できる。そのモンスターの攻撃力はターン終了時までそのレベル×２００ダウンし、ダウンした数値分だけ相手にダメージを与える。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/04/15",
+  "species_id": 7,
+  "starchip": "8"
+}

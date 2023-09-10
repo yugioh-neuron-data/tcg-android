@@ -1,0 +1,23 @@
+{
+  "attack_power": "50",
+  "attribute_id": 5,
+  "card_id": 17137,
+  "card_name": "バーバリアン０号",
+  "card_name_label": "バーバリアン０ごう",
+  "card_name_search": "ばーばりあんぜろごう",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①③の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功した場合に発動できる。デッキから「蛮族の狂宴LV５」１枚を手札に加える。②：このカードがモンスターゾーンに存在する限り、自分フィールドの「バーバリアン」モンスターの攻撃力は５００アップする。③：このカードをリリースして発動できる。手札から戦士族・レベル８モンスター１体を特殊召喚する。",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/01/15",
+  "species_id": 15,
+  "starchip": "1"
+}

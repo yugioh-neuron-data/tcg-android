@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 14148,
+  "card_name": "NEXT",
+  "card_name_label": "ネオスペースエクステンション",
+  "card_name_search": "ねおすぺーすえくすてんしょん",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。自分フィールドにカードが存在しない場合、このカードの発動は手札からもできる。①：自分の手札・墓地から、「N」モンスター及び「E・HERO ネオス」を任意の数だけ選んで守備表示で特殊召喚する（同名カードは１枚まで）。この効果で特殊召喚したモンスターの効果は無効化される。この効果で特殊召喚したモンスターが自分フィールドに表側表示で存在する限り、自分は融合モンスターしかEXデッキから特殊召喚できない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/10/13",
+  "species_id": 25,
+  "starchip": "0"
+}

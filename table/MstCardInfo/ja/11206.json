@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 1,
+  "card_id": 11206,
+  "card_name": "エレキック・ファイター",
+  "card_name_label": "エレキック・ファイター",
+  "card_name_search": "えれきっくふぁいたー",
+  "card_pen_effect": "",
+  "card_text": "「エレキック・ファイター」の効果は１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功した時、相手の墓地のカード１枚を対象として発動できる。そのカードを相手のデッキの一番上または一番下に戻す。",
+  "defense_power": "300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/09/13",
+  "species_id": 21,
+  "starchip": "3"
+}

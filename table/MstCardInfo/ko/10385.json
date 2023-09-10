@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 4,
+  "card_id": 10385,
+  "card_name": "웅염성－스네이린",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1턴에 1번, \"염무\"라는 이름이 붙은 마법 / 함정 카드가 자신의 묘지로 보내졌을 경우, 덱에서 \"염무\"라는 이름이 붙은 함정 카드 1장을 고르고 자신 필드 위에 세트할 수 있다. 또한, 자신 필드 위에 이 카드 이외의 몬스터가 존재하지 않을 경우, 1턴에 1번, 자신 필드 위에 앞면 표시로 존재하는 \"염무\"라는 이름이 붙은 마법 / 함정 카드 2장을 묘지로 보내고 발동할 수 있다. 덱에서 카드를 1장 드로우한다.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/02/05",
+  "species_id": 12,
+  "starchip": "4"
+}

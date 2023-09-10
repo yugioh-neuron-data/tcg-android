@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 10291,
+  "card_name": "Avanzamento Eroico",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Quando un mostro \"Eroico\" scoperto che controlli viene scelto come bersaglio per un attacco: scegli come bersaglio un altro mostro \"Eroico\" di Livello 4 o inferiore scoperto che controlli; raddoppia il suo ATK durante questa Battle Phase, poi cambia il bersaglio dell'attacco su di esso e effettua il calcolo dei danni, ma i mostri non possono essere distrutti in questa battaglia.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/11/08",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 2,
+  "card_id": 18471,
+  "card_name": "Le Bystial Aluber",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Le nom de cette carte devient \"Albaz le Déchu\" tant qu'elle est sur le Terrain ou dans le Cimetière. Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez défausser 1 carte, puis ciblez 1 monstre Dragon contrôlé par votre adversaire ou dans son Cimetière, et activez l'effet approprié ;$N●Envoyez cette carte au Cimetière, et si vous le faites, prenez le contrôle du monstre sur le Terrain jusqu'à la End Phase.$N●Envoyez cette carte au Cimetière, et si vous le faites, Invoquez Spécialement le monstre depuis le Cimetière sur votre Terrain.$NVous ne pouvez utiliser cet effet de \"Le Bystial Aluber\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/05/04",
+  "species_id": 1,
+  "starchip": "4"
+}

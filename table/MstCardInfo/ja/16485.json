@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16485,
+  "card_name": "マグネット・インダクション",
+  "card_name_label": "マグネット・インダクション",
+  "card_name_search": "まぐねっといんだくしょん",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：自分フィールドに元々のレベルが４以下の「マグネット・ウォリアー」モンスターが存在する場合に発動できる。同名カードが自分フィールドに存在しないレベル４以下の「マグネット・ウォリアー」モンスター１体をデッキから特殊召喚する。このカードの発動後、ターン終了時まで自分フィールドの「マグネット・ウォリアー」モンスター及び「磁石の戦士」モンスターは、戦闘及び相手の効果では破壊されない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/09/25",
+  "species_id": 24,
+  "starchip": "0"
+}

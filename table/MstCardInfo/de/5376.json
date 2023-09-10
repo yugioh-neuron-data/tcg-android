@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 5,
+  "card_id": 5376,
+  "card_name": "Susa, der Soldat",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Diese Karte kann nicht als Spezialbeschwörung beschworen werden. Diese Karte kehrt in der End Phase des Spielzugs, in dem sie als Normalbeschwörung beschworen oder aufgedeckt wurde, auf die Hand ihres Besitzers zurück. Kampfschaden, den diese Karte den Life Points deines Gegners zufügt, wird halbiert.",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 7,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2003/04/01",
+  "species_id": 19,
+  "starchip": "4"
+}

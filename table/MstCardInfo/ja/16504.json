@@ -1,0 +1,23 @@
+{
+  "attack_power": "1100",
+  "attribute_id": 2,
+  "card_id": 16504,
+  "card_name": "D-HERO ディナイアルガイ",
+  "card_name_label": "デステニーヒーロー　ディナイアルガイ",
+  "card_name_search": "ですてにーひーろーでぃないあるがい",
+  "card_pen_effect": "",
+  "card_text": "このカード名の、①の効果は１ターンに１度しか使用できず、②の効果はデュエル中に１度しか使用できない。①：このカードが召喚・特殊召喚に成功した場合に発動できる。自分のデッキ・墓地のモンスター及び除外されている自分のモンスターの中から、「D-HERO」モンスター１体を選んでデッキの一番上に置く。②：自分のフィールド・墓地に「D-HERO ディナイアルガイ」以外の「D-HERO」モンスターが存在する場合に発動できる。このカードを墓地から特殊召喚する。",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/07/17",
+  "species_id": 15,
+  "starchip": "3"
+}

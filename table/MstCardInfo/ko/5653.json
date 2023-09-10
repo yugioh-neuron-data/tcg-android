@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 2,
+  "card_id": 5653,
+  "card_name": "마법의 꼭두각시 인형",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "자신 또는 상대가 마법을 발동할 때마다, 이 카드에 마력 카운터를 1개 얹는다. 이 카드에 얹혀 있는 마력 카운터 1개당, 이 카드의 공격력은 200 포인트 올린다. 또한, 마력 카운터를 2개 제거하는 것으로, 필드 위의 몬스터 1장을 파괴한다.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/11/26",
+  "species_id": 18,
+  "starchip": "5"
+}

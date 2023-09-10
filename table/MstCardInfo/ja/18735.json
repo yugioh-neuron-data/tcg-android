@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 18735,
+  "card_name": "VS 螺旋流辻風",
+  "card_name_label": "ヴァンキッシュ・ソウル ダストデビル",
+  "card_name_search": "う゛ぁんきっしゅそうるだすとでびる",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。$N①：自分フィールドの「VS」モンスター１体を対象として発動できる。そのモンスターの表示形式を変更する。その後、自分フィールドの「VS」モンスターの種類の数まで、相手フィールドの表側表示モンスターを選んで裏側守備表示にできる。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/03/18",
+  "species_id": 24,
+  "starchip": "0"
+}

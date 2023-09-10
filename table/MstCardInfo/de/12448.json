@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 12448,
+  "card_name": "Angriffs-Schwarzflügel - Onimaru der göttliche Donner",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Empfänger + 1 oder mehr Nicht-Empfänger-Monster$NFalls diese Karte als Synchrobeschwörung beschworen und dabei ein „Schwarzflügel“-Monster als Material verwendet wird, wird sie als Empfänger behandelt, solange sie offen auf dem Spielfeld liegt. Kann nicht durch Karteneffekte zerstört werden. Du kannst 1 „Schwarzflügel“-Monster in deinem Friedhof wählen; die Stufe dieser Karte wird dieselbe wie die des Monsters. Du kannst diesen Effekt von „Angriffs-Schwarzflügel - Onimaru der göttliche Donner“ nur einmal pro Duell verwenden. Falls diese Karte angreift, die nur mit Synchromonstern als Synchrobeschwörung beschworen wurde, erhält sie nur während des Damage Steps 3000 ATK.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/08/04",
+  "species_id": 16,
+  "starchip": "12"
+}

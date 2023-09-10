@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 8678,
+  "card_name": "メテオ・プロミネンス",
+  "card_name_label": "メテオ・プロミネンス",
+  "card_name_search": "めておぷろみねんす",
+  "card_pen_effect": "",
+  "card_text": "相手ライフが３０００ポイントよりも多い場合、手札を２枚墓地へ送って発動する事ができる。相手ライフに２０００ポイントダメージを与える。このカードが墓地に存在する場合、自分のドローフェイズ時に通常のドローを行う代わりに、このカードを手札に加える事ができる。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/11/14",
+  "species_id": 25,
+  "starchip": "0"
+}

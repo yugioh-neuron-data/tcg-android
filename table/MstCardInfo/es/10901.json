@@ -1,0 +1,23 @@
+{
+  "attack_power": "400",
+  "attribute_id": 6,
+  "card_id": 10901,
+  "card_name": "Pacificador Silvano",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando esta carta es Invocada de Modo Normal o Especial: puedes excavar la carta de la parte superior de tu Deck y, si es un monstruo de Tipo Planta, mandarla al Cementerio. De otra forma, ponla en el fondo de tu Deck. Si esta carta es excavada del Deck y mandada al Cementerio por efecto de una carta: puedes seleccionar 1 monstruo de Tipo Planta de Nivel 4 o menor en tu Cementerio; Invoca ese objetivo de Modo Especial. Sólo puedes usar este efecto de \"Pacificador Silvano\" una vez por turno.",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/01/23",
+  "species_id": 13,
+  "starchip": "1"
+}

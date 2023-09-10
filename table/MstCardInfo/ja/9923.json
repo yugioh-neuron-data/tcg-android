@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 9923,
+  "card_name": "ダブル・ディフェンダー",
+  "card_name_label": "ダブル・ディフェンダー",
+  "card_name_search": "だぶるでぃふぇんだー",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上に表側守備表示でモンスターが２体以上存在する場合、相手モンスターの攻撃宣言時に発動できる。その相手モンスター１体の攻撃を無効にする。この効果は１ターンに１度しか使用できない。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/11/19",
+  "species_id": 24,
+  "starchip": "0"
+}

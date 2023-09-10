@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 3,
+  "card_id": 7025,
+  "card_name": "アイス・ブリザード・マスター",
+  "card_name_label": "アイス・ブリザード・マスター",
+  "card_name_search": "あいすぶりざーどますたー",
+  "card_pen_effect": "",
+  "card_text": "このカードは自分フィールドの水属性モンスター２体をリリースし、手札から特殊召喚できる。１ターンに１度、フィールド上に表側表示で存在するモンスター１体を選択し、アイスカウンターを１つ置く事ができる。また、このカードをリリースする事で、アイスカウンターが乗ったモンスターを全て破壊する。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/03/21",
+  "species_id": 18,
+  "starchip": "8"
+}

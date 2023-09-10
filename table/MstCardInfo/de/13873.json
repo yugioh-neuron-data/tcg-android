@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 1,
+  "card_id": 13873,
+  "card_name": "Verbotsschlange",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Am Beginn des Damage Steps, falls dein Cyberse-Linkmonster gegen ein Monster eines Gegners kämpft: Du kannst diese Karte von deiner Hand auf den Friedhof legen; gib das Monster des Gegners auf die Hand zurück. Wenn dein Cyberse-Monster ein Monster eines Gegners durch Kampf zerstört und auf den Friedhof legt, solange sich diese Karte in deinem Friedhof befindet: Du kannst 1 Karte von deinem Friedhof verbannen und dann 1 Cyberse-Monster der Stufe 4 oder niedriger in deinem Friedhof wählen; füge es deiner Hand hinzu. Du kannst jeden Effekt von „Verbotsschlange“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/08/22",
+  "species_id": 27,
+  "starchip": "2"
+}

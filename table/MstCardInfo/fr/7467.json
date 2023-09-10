@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 7467,
+  "card_name": "Cycle Alchimique",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "L'ATK d'origine de tous les monstres face recto que vous contrôlez devient 0 jusqu'à la End Phase. Chaque fois qu'un monstre qui a vu son ATK d'origine réduit à 0 par cet effet, est détruit au combat et envoyé au Cimetière, piochez 1 carte.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/01/26",
+  "species_id": 25,
+  "starchip": "0"
+}

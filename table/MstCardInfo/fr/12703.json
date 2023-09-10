@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 12703,
+  "card_name": "Dynatag - HÉROS de la Destinée",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durant le calcul des dommages, lorsque vous recevez des dommages de combat (Effet Rapide) : vous pouvez défausser cette carte ; ne vous faites recevoir aucun dommage de combat de ce combat, et si vous le faites, chaque joueur reçoit 1000 points de dommages. Vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 monstre \"HÉROS de la Destinée\" que vous contrôlez ; il gagne 1000 ATK jusqu'à la fin du prochain tour de votre adversaire.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/11/17",
+  "species_id": 15,
+  "starchip": "5"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 2,
+  "card_id": 12160,
+  "card_name": "Dragon Buster",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Syntoniseur + 1+ monstre non-Syntoniseur$NTous les monstres contrôlés par votre adversaire deviennent Dragon. Une fois par tour, si vous ne contrôlez aucun monstre \"Buster Blader\" : vous pouvez cibler 1 \"Buster Blader\" dans votre Cimetière ; Invoquez-le Spécialement. Une fois par tour de l'adversaire (Effet Rapide) : vous pouvez cibler 1 monstre \"Buster Blader\" que vous contrôlez ; équipez-le avec 1 monstre \"Épée Destructrice\" depuis votre Cimetière.",
+  "defense_power": "2800",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/01/14",
+  "species_id": 1,
+  "starchip": "8"
+}

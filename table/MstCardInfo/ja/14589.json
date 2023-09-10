@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14589,
+  "card_name": "覇王城",
+  "card_name_label": "はおうじょう",
+  "card_name_search": "はおうじょう",
+  "card_pen_effect": "",
+  "card_text": "①：このカードがフィールドゾーンに存在する限り、自分は「ダーク・フュージョン」の効果でのみ特殊召喚できる融合モンスターを「ダーク・フュージョン」の効果以外でも融合召喚できる。②：１ターンに１度、自分の悪魔族モンスターが相手モンスターと戦闘を行うダメージ計算時に、デッキ・EXデッキから「E-HERO」モンスター１体を墓地へ送って発動できる。その自分のモンスターの攻撃力はターン終了時まで、墓地へ送ったモンスターのレベル×２００アップする。",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/06/08",
+  "species_id": 24,
+  "starchip": "0"
+}

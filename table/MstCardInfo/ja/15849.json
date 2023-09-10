@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 5,
+  "card_id": 15849,
+  "card_name": "星なる影 ゲニウス",
+  "card_name_label": "ネフシャドール　ゲニウス",
+  "card_name_search": "ねふしゃどーるげにうす",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：このカードがリバースした場合、自分フィールドの「シャドール」モンスター１体を対象として発動できる。このターン、その表側表示モンスターは自身以外のモンスターの効果を受けない。②：このカードが効果で墓地へ送られた場合、フィールドの効果モンスター１体を対象として発動できる。このターン、その効果モンスターはフィールドで発動する効果を発動できない。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 24,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/11/21",
+  "species_id": 7,
+  "starchip": "4"
+}

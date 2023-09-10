@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 14858,
+  "card_name": "Contrôleur de la Pesanteur",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Monstre non-Lien dans une Zone Monstre Extra$NNon utilisable comme Matériel Lien le tour où elle est Invoquée par Lien. Cette carte dans la Zone Monstre Extra ne peut pas être détruite au combat avec un monstre dans la Zone Monstre Main. Au début de la Damage Step, si cette carte combat un monstre de l'adversaire dans la Zone Monstre Extra : vous pouvez renvoyer le monstre de l'adversaire ainsi que cette carte au Deck.",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "1",
+  "linkno": "1",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/01/30",
+  "species_id": 21,
+  "starchip": ""
+}

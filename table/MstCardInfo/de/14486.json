@@ -1,0 +1,23 @@
+{
+  "attack_power": "-1",
+  "attribute_id": 1,
+  "card_id": 14486,
+  "card_name": "Schicksalsdame Immer",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Empfänger + 1+ Hexer-Nicht-Empfänger-Monster$NDie ATK/DEF dieser Karte werden gleich ihrer Stufe x 400. Einmal pro Spielzug, während deiner Standby Phase: Erhöhe die Stufe dieser Karte um 1 (max. 12), dann kannst du 1 offenes Monster verbannen, das dein Gegner kontrolliert. Während der End Phase deines Gegners, falls sich diese Karte in deinem Friedhof befindet: Du kannst 1 anderes Hexer-Monster von deinem Friedhof verbannen; beschwöre diese Karte als Spezialbeschwörung. Du kannst diesen Effekt von „Schicksalsdame Immer“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "-1",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/07/26",
+  "species_id": 18,
+  "starchip": "7"
+}

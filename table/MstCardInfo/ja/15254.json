@@ -1,0 +1,23 @@
+{
+  "attack_power": "400",
+  "attribute_id": 5,
+  "card_id": 15254,
+  "card_name": "メルフィー・ポニィ",
+  "card_name_label": "メルフィー・ポニィ",
+  "card_name_search": "めるふぃーぽにぃ",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：相手がモンスターの召喚・特殊召喚に成功した場合、またはこのカードが相手モンスターの攻撃対象に選択された場合に発動できる。このカードを持ち主の手札に戻す。その後、自分の墓地から「メルフィー・ポニィ」以外のレベル２以下の獣族モンスター１体を選んで手札に加える事ができる。②：自分エンドフェイズに発動できる。このカードを手札から特殊召喚する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/18",
+  "species_id": 11,
+  "starchip": "2"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 11418,
+  "card_name": "La Porte de la Destinée",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsqu'un monstre de votre adversaire déclare une attaque directe : annulez l'attaque, puis Invoquez Spécialement cette carte comme un Monstre à Effet (Type Démon/LUMIÈRE/Niveau 1/ATK 0/DEF 0). (Cette carte est toujours aussi une Carte Piège.) Durant votre Standby Phase, tant que cette carte est traitée comme un monstre : vous pouvez bannir un nombre de votre choix de monstres \"Utopie\" de noms différents depuis votre Cimetière ; infligez 500 points de dommages à votre adversaire pour chacun de ces monstres bannis, et si vous le faites, cette carte gagne une ATK égale aux dommages qu'il a reçus.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/04/16",
+  "species_id": 25,
+  "starchip": "0"
+}

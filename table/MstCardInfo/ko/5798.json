@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 5798,
+  "card_name": "주술 말소",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "패에서 카드를 2장 버린다. 마법 카드의 발동을 무효로 하여, 그것을 파괴한다. 다시 상대의 패와 덱을 확인하여, 파괴한 마법 카드와 같은 이름의 카드가 있을 경우 전부 묘지로 보낸다.",
+  "defense_power": "0",
+  "effect_id": 1,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/05/02",
+  "species_id": 25,
+  "starchip": "0"
+}

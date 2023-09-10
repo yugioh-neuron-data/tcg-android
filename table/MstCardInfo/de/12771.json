@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 1,
+  "card_id": 12771,
+  "card_name": "Cyberengel - Natasha",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Du kannst diese Karte mit „Maschinenengel-Ritual“ als Ritualbeschwörung beschwören. Einmal pro Spielzug: Du kannst 1 offenes Monster wählen, das du kontrollierst; du erhältst LP in Höhe der Hälfte seiner ATK. Wenn ein Ritualmonster, das du kontrollierst, als Ziel für einen Angriff gewählt wird: Du kannst den Angriff annullieren. Falls sich diese Karte im Friedhof befindet: Du kannst 1 anderes „Cyberengel“-Monster von deinem Friedhof verbannen und dann 1 Monster wählen, das dein Gegner kontrolliert; beschwöre diese Karte als Spezialbeschwörung und falls du dies tust, übernimm die Kontrolle über das Monster.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 5,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/02/09",
+  "species_id": 17,
+  "starchip": "5"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 4,
+  "card_id": 10396,
+  "card_name": "紅炎の騎士",
+  "card_name_label": "こうえんのきし",
+  "card_name_search": "こうえんのきし",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：このカードが既にモンスターゾーンに存在する状態で、このカード以外の炎属性モンスターが破壊され自分の墓地へ送られた場合に発動する。デッキから炎属性モンスター１体を墓地へ送る。②：このカードが破壊され墓地へ送られた場合に発動する。デッキから炎属性モンスター１体を墓地へ送る。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/11/17",
+  "species_id": 15,
+  "starchip": "4"
+}

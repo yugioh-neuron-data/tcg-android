@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 5,
+  "card_id": 11993,
+  "card_name": "Büroboter Jet",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Empfänger- + 1 oder mehr Nicht-Empfänger-Monster$NDiese Karte erhält 500 ATK und DEF für jede „Büroboter“-Karte auf dem Spielfeld. Du kannst nur 1 der folgenden Effekte von „Büroboter Jet“ pro Spielzug verwenden und in dem Spielzug nur einmal.$N●Du kannst 1 „Büroboter“-Karte wählen, die du kontrollierst; zerstöre sie und falls du dies tust, beschwöre 1 „Büroboter“-Monster als Spezialbeschwörung von deinem Deck.$N●Du kannst 1 „Büroboter“-Karte, die du kontrollierst, und 1 offene Karte auf dem Spielfeld wählen; zerstöre sie.",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/11/05",
+  "species_id": 7,
+  "starchip": "10"
+}

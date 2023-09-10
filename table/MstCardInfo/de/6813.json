@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 6813,
+  "card_name": "Königlicher Steuererlass",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Du kannst diese Karte nur während der Standby Phase deines Gegners aktivieren. Wähle 1 zufällige Karte von der Hand deines Gegners und sieh sie dir an. Falls die gewählte Karte oder eine Karte mit demselben Namen nicht bis zum Ende deines nächsten Spielzugs als Normalbeschwörung beschworen oder aktiviert wurde, füge den Life Points deines Gegners 1000 Punkte Schaden zu. Falls die gewählte Karte oder eine Karte mit demselben Namen bis zum Ende deines nächsten Spielzugs als Normalbeschwörung beschworen oder aktiviert wurde, erhältst du 1000 Punkte Schaden.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/08/16",
+  "species_id": 25,
+  "starchip": "0"
+}

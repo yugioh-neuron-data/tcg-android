@@ -1,0 +1,23 @@
+{
+  "attack_power": "1900",
+  "attribute_id": 1,
+  "card_id": 9201,
+  "card_name": "Nobile Cavaliere Joan",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se questa carta attacca, essa perde 300 ATK solo durante il Damage Step. Se questa carta sotto il tuo comando viene distrutta da una carta del tuo avversario e mandata al tuo Cimitero: puoi mandare 1 carta dalla tua mano al Cimitero, poi scegliere come bersaglio 1 mostro Guerriero di Livello 4 o inferiore nel tuo Cimitero; aggiungi quel bersaglio alla tua mano.",
+  "defense_power": "1300",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/01/24",
+  "species_id": 15,
+  "starchip": "4"
+}

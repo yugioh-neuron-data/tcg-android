@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 17730,
+  "card_name": "Égida del Cristal",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Selecciona 1 Carta de Monstruo \"Bestia de Cristal\" que controles; destrúyela, y después Invoca de Modo Especial 1 \"Ficha Bestia de Cristal\" con el mismo Tipo, Atributo, Nivel y ATK/DEF originales que el monstruo destruido. Si una o más cartas \"Bestia de Cristal\" son puestas en tu Zona de Magia y Trampas, mientras esta carta esté en tu Cementerio, incluso durante el Damage Step: puedes desterrar esta carta; Invoca de Modo Especial, desde tu Zona de Magia y Trampas, 1 Carta de Monstruo \"Bestia de Cristal\". Sólo puedes usar este efecto de \"Égida del Cristal\" una vez por turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/09/29",
+  "species_id": 24,
+  "starchip": "0"
+}

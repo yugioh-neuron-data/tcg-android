@@ -1,0 +1,23 @@
+{
+  "attack_power": "2300",
+  "attribute_id": 4,
+  "card_id": 15007,
+  "card_name": "戦華の来－張遠",
+  "card_name_label": "せんかのらい－ちょうえん",
+  "card_name_search": "せんかのらいちょうえん",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①③の効果はそれぞれ１ターンに１度しか使用できない。①：自分の「戦華」モンスターが相手の表側表示モンスターと戦闘を行うダメージステップ開始時に発動できる。このカードを手札から特殊召喚し、その相手モンスターの攻撃力を１０００ダウンする。②：このカード以外の自分の「戦華」モンスターは戦闘では破壊されない。③：相手フィールドのカードが戦闘・効果で破壊された場合、相手フィールドのカード１枚を対象として発動できる。そのカードを破壊する。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/01/11",
+  "species_id": 12,
+  "starchip": "6"
+}

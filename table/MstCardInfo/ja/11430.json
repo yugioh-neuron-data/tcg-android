@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 11430,
+  "card_name": "タイフーン",
+  "card_name_label": "タイフーン",
+  "card_name_search": "たいふーん",
+  "card_pen_effect": "",
+  "card_text": "相手フィールドに魔法・罠カードが２枚以上存在し、自分フィールドに魔法・罠カードが存在しない場合、このカードの発動は手札からもできる。①：フィールドの表側表示の魔法・罠カード１枚を対象として発動できる。そのカードを破壊する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/09/19",
+  "species_id": 25,
+  "starchip": "0"
+}

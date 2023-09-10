@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 1,
+  "card_id": 12285,
+  "card_name": "Tigre de Clair de Lune",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Une fois par tour : vous pouvez cibler 1 monstre \"Clair de Lune\" (\"Dragon Clair de Lune Rose Noire\" exclu) dans votre Cimetière ; Invoquez-le Spécialement, mais il ne peut pas attaquer, ses effets sont annulés, et aussi, il est détruit durant la End Phase.",
+  "card_text": "Si cette carte sur le Terrain est détruite au combat ou par un effet de carte : vous pouvez cibler 1 monstre \"Clair de Lune\" (\"Dragon Clair de Lune Rose Noire\" exclu) dans votre Cimetière ; Invoquez-le Spécialement. Vous ne pouvez utiliser cet effet de \"Tigre de Clair de Lune\" qu'une fois par tour.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2016/05/05",
+  "species_id": 12,
+  "starchip": "3"
+}

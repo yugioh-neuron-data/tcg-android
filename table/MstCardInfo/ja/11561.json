@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 5,
+  "card_id": 11561,
+  "card_name": "ブンボーグ００３",
+  "card_name_label": "ブンボーグゼロゼロスリー",
+  "card_name_search": "ぶんぼーぐぜろぜろすりー",
+  "card_pen_effect": "",
+  "card_text": "①：このカードが召喚に成功した時に発動できる。デッキから「ブンボーグ００３」以外の「ブンボーグ」モンスター１体を特殊召喚する。②：１ターンに１度、自分フィールドの「ブンボーグ」モンスター１体を対象として発動できる。そのモンスターの攻撃力・守備力はターン終了時まで、自分フィールドの「ブンボーグ」カードの数×５００アップする。この効果は相手ターンでも発動できる。",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/11/15",
+  "species_id": 7,
+  "starchip": "3"
+}

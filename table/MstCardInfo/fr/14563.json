@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 1,
+  "card_id": 14563,
+  "card_name": "Numéro 26 : Voie Spatiale Pieuvration",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 monstres de Niveau 3$NAu début de la Battle Phase : vous pouvez détacher 1 Matériel de cette carte ; durant cette Battle Phase, un joueur ne peut attaquer qu'avec 1 monstre et ses attaques deviennent des attaques directes. Vous ne pouvez utiliser cet effet de \"Numéro 26 : Voie Spatiale Pieuvration\" qu'une fois par tour. À la fin de la Damage Step, si un monstre a infligé des dommages de combat par une attaque directe : donnez le contrôle du monstre qui a attaqué à l'adversaire du joueur du tour.",
+  "defense_power": "2400",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/07/11",
+  "species_id": 21,
+  "starchip": "3"
+}

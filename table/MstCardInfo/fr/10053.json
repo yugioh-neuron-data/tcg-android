@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 10053,
+  "card_name": "Inzektor Forficule",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Une fois par tour : vous pouvez équiper 1 monstre \"Inzektor\" depuis votre main ou Cimetière à cette carte. Tant que cette carte est équipée à un monstre, le monstre gagne une ATK/DEF égales à l'ATK/DEF de cette carte. Lorsque cette carte est envoyée au Cimetière tant qu'elle était équipée à un monstre : jusqu'à la End Phase, le monstre qui était équipé à cette carte gagne 1000 ATK.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/05/10",
+  "species_id": 10,
+  "starchip": "4"
+}

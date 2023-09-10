@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 5481,
+  "card_name": "Distruzione Multipla",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se entrambi i giocatori hanno 3 o più carte nella loro mano: ogni giocatore mette tutta la sua mano in fondo al Deck in qualsiasi ordine, inoltre tu perdi LP pari al numero totale di carte fatte ritornare nel Deck da questo effetto x 300 (minimo 1), poi ogni giocatore pesca 5 carte. Puoi attivare solo 1 \"Distruzione Multipla\" per turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/12/10",
+  "species_id": 25,
+  "starchip": "0"
+}

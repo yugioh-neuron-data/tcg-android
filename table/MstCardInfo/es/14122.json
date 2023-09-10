@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 6,
+  "card_id": 14122,
+  "card_name": "Bloqueador de Actualizaciones",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 monstruos Ciberso de Nivel 2 o mayor$NUna vez por batalla, durante el cálculo de daño, si tu monstruo Ciberso batalla (Efecto Rápido): puedes activar este efecto; niega todos los otros efectos de cartas en el Campo hasta el final del Damage Step, el cálculo de daño para esta batalla usa el ATK/DEF originales de cada monstruo, y además, si un monstruo del adversario es destruido en esta batalla y mandado al Cementerio, inflige 1000 puntos de daño a tu adversario. Si esta carta es mandada al Cementerio como Material de Enlace: ese Monstruo de Enlace puede hacer un segundo ataque durante cada Battle Phase este turno.",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "84",
+  "linkno": "2",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/01/31",
+  "species_id": 27,
+  "starchip": ""
+}

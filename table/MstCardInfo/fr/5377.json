@@ -1,0 +1,23 @@
+{
+  "attack_power": "2600",
+  "attribute_id": 4,
+  "card_id": 5377,
+  "card_name": "Dragon Yamata",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cette carte ne peut pas être Invoquée Spécialement. Cette carte retourne dans la main de son propriétaire durant la End Phase du tour où elle a été Invoquée Normalement ou retournée face recto. Lorsque cette carte inflige des dommages de combat à votre adversaire, piochez des cartes de votre Deck jusqu'à avoir 5 cartes dans votre main.",
+  "defense_power": "3100",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 7,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/06/01",
+  "species_id": 1,
+  "starchip": "7"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 2,
+  "card_id": 18481,
+  "card_name": "ピュアリィ・リリィ",
+  "card_name_label": "ピュアリィ・リリィ",
+  "card_name_search": "ぴゅありぃりりぃ",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功した場合に発動できる。デッキから速攻魔法カード以外の「ピュアリィ」カード１枚を手札に加える。②：自分の墓地の「ピュアリィ」速攻魔法カード１枚を対象として発動できる。そのカード名が記されたXモンスター１体を、自分フィールドのこのカードの上に重ねてX召喚扱いでEXデッキから特殊召喚し、対象のカードをそのXモンスターの下に重ねてX素材とする。",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/01/14",
+  "species_id": 17,
+  "starchip": "1"
+}

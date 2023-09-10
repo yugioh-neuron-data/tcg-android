@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 17359,
+  "card_name": "Mundo Vaylantz - Konig Wissen",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando esta carta es activada: pon 1 Mágica de Campo \"Vaylantz\" en tu Deck en la Zona del Campo de tu adversario boca arriba, excepto \"Mundo Vaylantz - Konig Wissen\". Si hay 2 cartas en las Zonas del Campo: el jugador en turno puede seleccionar 1 Monstruo de Efecto en la Zona de Monstruos Principal del adversario, en la misma columna que uno de los monstruos que controle; el jugador en turno pone ese monstruo del adversario como una Mágica Continua boca arriba en su Zona de Magia y Trampas en su misma columna. (Si la zona está ocupada, destruye la carta ocupante). El jugador en turno sólo puede usar este efecto de \"Mundo Vaylantz - Konig Wissen\" una vez por turno.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/08/25",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 8227,
+  "card_name": "Angriff der in die Enge getriebenen Ratte",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls ein Normales Monster der Stufe 3 oder niedriger kämpft, das du kontrollierst, kannst du während des Damage Steps Life Points in Vielfachen von 100 zahlen. Die ATK des Monsters deines Gegners werden bis zur End Phase um die Anzahl der Life Points reduziert, die du gezahlt hast. (Du kannst nicht mehr Life Points zahlen als die ATK des Monsters deines Gegners.)",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/06/04",
+  "species_id": 25,
+  "starchip": "0"
+}

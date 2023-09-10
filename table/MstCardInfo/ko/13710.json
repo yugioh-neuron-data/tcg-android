@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 1,
+  "card_id": 13710,
+  "card_name": "F.A. 라이트닝마스터",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "튜너 ＋ 튜너 이외의 몬스터 1장 이상$N①: 이 카드의 공격력은 이 카드의 레벨 × 300 올린다. ②: 이 카드가 수비 표시 몬스터를 공격했을 경우, 그 수비력을 공격력이 넘은 만큼만 전투 데미지를 준다. ③: \"F.A.(포뮬러 애슬리트)\" 마법 / 함정 카드의 효과가 발동했을 경우에 발동할 수 있다(데미지 스텝에도 발동 가능). 이 카드의 레벨을 1개 올린다. ④: 1턴에 1번, 상대가 마법 / 함정 카드의 효과를 발동했을 때에 발동할 수 있다. 이 카드의 레벨을 2개 내리고, 그 발동을 무효로 하여 파괴한다.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/12/12",
+  "species_id": 7,
+  "starchip": "7"
+}

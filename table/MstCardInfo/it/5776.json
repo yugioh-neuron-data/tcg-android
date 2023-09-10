@@ -1,0 +1,23 @@
+{
+  "attack_power": "900",
+  "attribute_id": 4,
+  "card_id": 5776,
+  "card_name": "Arcidemone Regina Infernale",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Una volta per turno, durante la tua Standby Phase, devi pagare 500 LP (questo non è opzionale), o questa carta viene distrutta. Quando si sta risolvendo l'effetto di una carta dell'avversario che sceglie come bersaglio questa carta, tira un dado a sei facce e annulla l'effetto se tiri un 2 o 5 e, se lo fai, distruggi quella carta. Una volta per turno, durante la Standby Phase: scegli come bersaglio 1 mostro \"Arcidemone\" sul Terreno; esso guadagna 1000 ATK fino alla fine di questo turno.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/03/19",
+  "species_id": 3,
+  "starchip": "4"
+}

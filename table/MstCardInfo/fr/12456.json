@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 12456,
+  "card_name": "Cercle Magique Sombre",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsque cette carte est activée : regardez les 3 cartes du dessus de votre Deck, puis vous pouvez en révéler 1 qui a \"Magicien Sombre\" ou une Magie/Piège qui mentionne \"Magicien Sombre\", et ajoutez-la à votre main, et aussi, placez les cartes restantes au-dessus de votre Deck dans l'ordre de votre choix. Si \"Magicien Sombre\" est Invoqué Normalement ou Spécialement sur votre Terrain (sauf durant la Damage Step) : vous pouvez cibler 1 carte contrôlée par votre adversaire ; bannissez-la. Vous ne pouvez utiliser chaque effet de \"Cercle Magique Sombre\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/08/04",
+  "species_id": 24,
+  "starchip": "0"
+}

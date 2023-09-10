@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 5,
+  "card_id": 7294,
+  "card_name": "古代の機械騎士",
+  "card_name_label": "アンティーク・ギアナイト",
+  "card_name_search": "あんてぃーくぎあないと",
+  "card_pen_effect": "",
+  "card_text": "①：このカードはフィールド・墓地に存在する限り、通常モンスターとして扱う。②：フィールドの通常モンスター扱いのこのカードを通常召喚としてもう１度召喚できる。その場合このカードは効果モンスター扱いとなり以下の効果を得る。$N●このカードが攻撃する場合、相手はダメージステップ終了時まで魔法・罠カードを発動できない。",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 9,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/07/21",
+  "species_id": 7,
+  "starchip": "4"
+}

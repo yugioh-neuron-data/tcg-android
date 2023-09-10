@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 5,
+  "card_id": 5366,
+  "card_name": "Agido",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando esta carta es destruida como resultado de una batalla y mandada al Cementerio, lanza un dado de seis caras. Puedes Invocar mediante una Invocación Especial 1 monstruo de Tipo Hada de tu Cementerio cuyo Nivel sea igual al resultado. Si el resultado es 6, puedes Invocar mediante una Invocación Especial un monstruo de Nivel 6 o superior.",
+  "defense_power": "1300",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/03/19",
+  "species_id": 17,
+  "starchip": "4"
+}

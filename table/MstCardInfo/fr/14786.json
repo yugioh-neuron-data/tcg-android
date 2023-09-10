@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14786,
+  "card_name": "Punisseur à Baïonnette",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Appliquez ces effets, dans l'ordre, selon les types de monstres \"Borrelle\" que vous contrôlez et dans votre Cimetière. Si vous contrôlez un monstre avec min. 3000 ATK, votre adversaire ne peut activer ni de cartes ni d'effets en réponse à l'activation de cette carte.$N●Fusion : Bannissez 1 monstre contrôlé par votre adversaire.$N●Synchro : Bannissez face recto 3 cartes face verso au hasard depuis l'Extra Deck de votre adversaire.$N●Xyz : Bannissez 1 Magie/Piège contrôlé par votre adversaire.$N●Lien : Bannissez max. 3 cartes depuis le Cimetière de votre adversaire.$NVous ne pouvez activer qu'1 \"Punisseur à Baïonnette\" par tour.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/11/04",
+  "species_id": 24,
+  "starchip": "0"
+}

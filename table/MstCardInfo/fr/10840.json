@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 10840,
+  "card_name": "Attaque d'Âme",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si vous avez max. 4000 LP, lorsqu'une attaque impliquant un monstre que vous contrôlez et un monstre de votre adversaire est déclarée : payez la moitié de vos LP, puis ciblez 1 monstre face recto que vous contrôlez ; jusqu'à la fin du tour de votre adversaire, il gagne une ATK égale au déficit entre vos LP actuels et 4000. Vous ne pouvez activer qu'1 \"Attaque d'Âme\" par tour.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/01/15",
+  "species_id": 25,
+  "starchip": "0"
+}

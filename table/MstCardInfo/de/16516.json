@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 16516,
+  "card_name": "Herr des himmlischen Gefängnisses",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Während deiner Main Phase: Du kannst diesen Effekt aktivieren; diese Karte in deiner Hand wird bis zum Ende des Spielzugs deines Gegners vorgezeigt. Solange diese Karte durch diesen Effekt vorgezeigt ist, können gesetzte Karten auf dem Spielfeld nicht durch Karteneffekte zerstört werden. Falls eine gesetzte Zauber-/Fallenkarte aktiviert wird (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören, dann, falls du diesen Effekt aktiviert hast, solange diese Karte vorgezeigt war, kannst du 1 Zauber/Falle von deinem Deck vorzeigen und direkt setzen, aber verbanne ihn oder sie während der End Phase des nächsten Spielzugs. Du kannst nur 1 Effekt von „Herr des himmlischen Gefängnisses“ pro Spielzug verwenden und in jenem Spielzug nur einmal.",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/11/04",
+  "species_id": 6,
+  "starchip": "10"
+}

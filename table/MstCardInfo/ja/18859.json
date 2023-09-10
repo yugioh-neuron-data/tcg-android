@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 18859,
+  "card_name": "シャルルの叙事詩",
+  "card_name_label": "シャルルのじょじし",
+  "card_name_search": "しゃるるのじょじし",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。$N①：手札の「聖剣」装備魔法カード１枚を相手に見せ、手札・デッキから「焔聖騎士」モンスター１体を特殊召喚する。その後、見せたカードをそのモンスターに装備するか、墓地へ送る。$N②：墓地のこのカードを除外し、自分フィールドの「焔聖騎士帝－シャルル」１体を対象として発動できる。手札・デッキから「聖騎士」モンスター１体を選び、攻撃力５００アップの装備魔法カード扱いで対象のモンスターに装備する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/04/22",
+  "species_id": 25,
+  "starchip": "0"
+}

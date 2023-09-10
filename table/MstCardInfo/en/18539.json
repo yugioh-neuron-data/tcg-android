@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 18539,
+  "card_name": "Dinomorphia Intact",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "When a monster effect is activated, while you control a \"Dinomorphia\" card: Pay half your LP; negate the activation, and if you do, destroy that monster, also whenever you take battle damage this turn, the damage taken becomes half your LP at that time. During damage calculation, while your LP are 2000 or less, if you would take battle damage: You can banish this card from your GY; you take no battle damage from that battle. You can only activate 1 \"Dinomorphia Intact\" per turn.",
+  "defense_power": "0",
+  "effect_id": 1,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/05/04",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "4000",
+  "attribute_id": 2,
+  "card_id": 11514,
+  "card_name": "Beelzeus de los Dragones Diabólicos",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Cantante de OSCURIDAD + 2+ monstruos que no sean Cantantes$NNo puede ser destruido en batalla o por efectos de cartas. Los otros monstruos que controles no pueden atacar. Una vez por turno: puedes seleccionar 1 monstruo que controle tu adversario; este turno, cualquier daño de batalla que recibe tu adversario de ataques que involucren esta carta se divide a la mitad, y además, cambia el ATK de ese monstruo a 0, y, si lo haces, gana LP iguales a su ATK original.",
+  "defense_power": "4000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/10/04",
+  "species_id": 1,
+  "starchip": "10"
+}

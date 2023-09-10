@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 4,
+  "card_id": 7415,
+  "card_name": "Volcanic Counter",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "When you take battle damage while this card is in your Graveyard: Banish it from your Graveyard, then if there is a FIRE monster other than \"Volcanic Counter\" in your Graveyard, inflict damage to your opponent equal to the amount of battle damage you took.",
+  "defense_power": "1300",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/02/13",
+  "species_id": 4,
+  "starchip": "3"
+}

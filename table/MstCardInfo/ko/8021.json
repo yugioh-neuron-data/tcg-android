@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 5,
+  "card_id": 8021,
+  "card_name": "버스터 머시너리",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "자신의 패 또는 묘지에 존재하는 \"버스터 모드\" 1장을 덱으로 되돌리는 것으로, 상대 필드 위에 존재하는 마법/함정 카드 1장을 파괴한다. 이 효과는 1턴에 1번밖에 사용할 수 없다.",
+  "defense_power": "300",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/05/18",
+  "species_id": 15,
+  "starchip": "4"
+}

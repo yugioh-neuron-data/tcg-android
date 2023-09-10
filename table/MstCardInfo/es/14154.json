@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 14154,
+  "card_name": "Sucesión del Subterror",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Activa 1 de estos efectos, y además, después de eso, Coloca esta carta boca abajo en vez de mandarla al Cementerio.$N●Manda al Cementerio 1 monstruo en tu mano o Campo boca arriba y, si lo haces, añade a tu mano 1 monstruo de Volteo en tu Deck con el mismo Atributo, pero nombre diferente al de ese monstruo antes de ser mandado al Cementerio.$N●Manda al Cementerio 1 monstruo de Volteo en tu mano o Campo boca arriba y, si lo haces, añade a tu mano 1 monstruo en tu Deck con el mismo Atributo, pero un Nivel original menor al de ese monstruo antes de ser mandado al Cementerio.$NSólo puedes activar 1 \"Sucesión del Subterror\" por turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/01/31",
+  "species_id": 25,
+  "starchip": "0"
+}

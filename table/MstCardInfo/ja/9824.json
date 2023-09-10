@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 1,
+  "card_id": 9824,
+  "card_name": "セイクリッド・プレアデス",
+  "card_name_label": "セイクリッド・プレアデス",
+  "card_name_search": "せいくりっどぷれあです",
+  "card_pen_effect": "",
+  "card_text": "光属性レベル５モンスター×２$N①：１ターンに１度、このカードのX素材を１つ取り除き、フィールドのカード１枚を対象として発動できる。そのカードを持ち主の手札に戻す。この効果は相手ターンでも発動できる。",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/10/04",
+  "species_id": 15,
+  "starchip": "5"
+}

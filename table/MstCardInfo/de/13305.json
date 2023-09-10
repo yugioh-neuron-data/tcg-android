@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 1,
+  "card_id": 13305,
+  "card_name": "Unterbrechungsbeschränker",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wenn du Kampfschaden erhältst: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören und falls du dies tust, erhält sie ATK in Höhe des Schadens, den du erhalten hast. Einmal pro Spielzug, während der Schadensberechnung, wenn ein anderes Monster in Verteidigungsposition, das du kontrollierst, von einem Monster eines Gegners angegriffen wird (Schnelleffekt): Du kannst diesen Effekt aktivieren; während dieser Schadensberechnung werden die DEF deines angegriffenen Monsters gleich den DEF dieser Karte, zusätzlich kann es durch den Kampf nicht zerstört werden.",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/07/26",
+  "species_id": 27,
+  "starchip": "6"
+}

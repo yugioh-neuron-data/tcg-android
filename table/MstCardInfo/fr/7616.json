@@ -1,0 +1,23 @@
+{
+  "attack_power": "4400",
+  "attribute_id": 5,
+  "card_id": 7616,
+  "card_name": "Golem Rouages Ancients Ultime",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"Golem Rouages Ancients\" + 2 monstres \"Rouages Ancients\"$NUniquement Invocable par Fusion. Si cette carte attaque un monstre en Position de Défense, infligez des dommages de combat perçants. Si cette carte attaque, votre adversaire ne peut pas activer de Cartes Magie/Piège jusqu'à la fin de la Damage Step. Si cette carte est détruite : vous pouvez cibler 1 \"Golem Rouages Ancients\" dans votre Cimetière ; Invoquez-le Spécialement, en ignorant ses conditions d'Invocation.",
+  "defense_power": "3400",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/05/13",
+  "species_id": 7,
+  "starchip": "10"
+}

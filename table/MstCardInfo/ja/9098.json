@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 5,
+  "card_id": 9098,
+  "card_name": "カラクリ参謀 弐四八",
+  "card_name_label": "カラクリさんぼう　ニシパチ",
+  "card_name_search": "からくりさんぼうにしぱち",
+  "card_pen_effect": "",
+  "card_text": "このカードは攻撃可能な場合には攻撃しなければならない。フィールド上に表側攻撃表示で存在するこのカードが攻撃対象に選択された時、このカードの表示形式を守備表示にする。このカードが召喚・特殊召喚に成功した時、フィールド上に存在するモンスター１体の表示形式を変更する。",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/07/17",
+  "species_id": 7,
+  "starchip": "3"
+}

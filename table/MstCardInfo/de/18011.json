@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 18011,
+  "card_name": "Glückliche Purrely-Erinnerung",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Bestimme 1 Karte auf dem Spielfeld und bis zum Ende des nächsten Spielzugs wird sie das erste Mal, dass sie durch einen Karteneffekt zerstört würde, nicht zerstört. Nachdem du eine Karte bestimmt hast, kannst du dann den folgenden Effekt ausführen.$N●Wirf 1 Karte ab und falls du dies tust, beschwöre 1 „Purrely“-Monster der Stufe 1 als Spezialbeschwörung von deinem Deck.$NEin „Purrely“-Xyz-Monster, das diese Karte als Material hat, erhält den folgenden Effekt.$N●Diese Karte kann in jeder Battle Phase bis zu so viele Male Monster angreifen wie die Anzahl der „Glückliche Purrely-Erinnerung“, die an sie angehängt sind, +1.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/01/19",
+  "species_id": 24,
+  "starchip": "0"
+}

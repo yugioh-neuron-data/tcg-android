@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 1,
+  "card_id": 15322,
+  "card_name": "Lys, Navire de la Patroll du Pillage",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 monstres \"Patroll du Pillage\"$NDurant la Main Phase (Effet Rapide) : vous pouvez Invoquer Spécialement 1 Carte Monstre \"Patroll du Pillage\" depuis votre main ou Zone Magie & Piège face recto. Lorsque votre adversaire active un effet de monstre (Effet Rapide) : vous pouvez défausser 1 carte \"Patroll du Pillage\" ; annulez l'activation, et si vous le faites, détruisez-la, puis si cette carte est équipée avec une carte \"Patroll du Pillage\", vous pouvez ajouter 1 carte \"Patroll du Pillage\" depuis votre Deck à votre main. Vous ne pouvez utiliser chaque effet de \"Lys, Navire de la Patroll du Pillage\" qu'une fois par tour.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/30",
+  "species_id": 3,
+  "starchip": "8"
+}

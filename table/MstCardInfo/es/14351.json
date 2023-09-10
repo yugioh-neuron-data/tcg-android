@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 2,
+  "card_id": 14351,
+  "card_name": "¡Peligro! ¡Ogopogo!",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Puedes mostrar esta carta en tu mano; tu adversario elige al azar 1 carta en toda tu mano, y después descartas la carta elegida. Después, si la carta descartada no fue \"¡Peligro! ¡Ogopogo!\", Invoca de Modo Especial, desde tu mano, 1 \"¡Peligro! ¡Ogopogo!\" y, si lo haces, roba 1 carta. Si esta carta es descartada: puedes mandar al Cementerio 1 carta \"¡Peligro!\" en tu Deck, excepto \"¡Peligro! ¡Ogopogo!\". Sólo puedes usar este efecto de \"¡Peligro! ¡Ogopogo!\" una vez por turno.",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/01/31",
+  "species_id": 5,
+  "starchip": "8"
+}

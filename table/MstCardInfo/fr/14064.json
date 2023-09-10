@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 2,
+  "card_id": 14064,
+  "card_name": "Shinobi Nécro",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si un autre monstre Zombie est Invoqué Spécialement depuis votre Cimetière tant que vous contrôlez ce monstre (sauf durant la Damage Step) : vous pouvez piocher 1 carte, puis défaussez 1 carte. Si cette carte dans le Cimetière est bannie face recto pour activer un effet, ou par un effet : vous pouvez Invoquer Spécialement cette carte, mais bannissez-la lorsqu'elle quitte le Terrain. Vous ne pouvez utiliser chaque effet de \"Shinobi Nécro\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/01/31",
+  "species_id": 2,
+  "starchip": "2"
+}

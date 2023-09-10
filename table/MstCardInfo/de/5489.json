@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 2,
+  "card_id": 5489,
+  "card_name": "Helpoemer",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Kann nicht als Spezialbeschwörung vom Friedhof beschworen werden. Am Ende der Battle Phase deines Gegners, falls sich diese Karte im Friedhof befindet, weil sie durch Kampf zerstört wurde: Lasse deinen Gegner 1 zufällige Karte abwerfen. Diese Karte muss sich im Friedhof befinden, um diesen Effekt zu aktivieren und aufzulösen.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2003/07/01",
+  "species_id": 3,
+  "starchip": "5"
+}

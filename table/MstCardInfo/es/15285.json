@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15285,
+  "card_name": "Nación Dogmátik",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Ningún jugador puede seleccionar monstruos \"Dogmátik\" que controles con efectos de monstruos que fueron Invocados de Modo Especial desde el Deck Extra. Sólo puedes usar cada uno de los siguientes efectos de \"Nación Dogmátik\" una vez por turno.$N●Después del cálculo de daño, si tu monstruo \"Dogmátik\" batalló con un monstruo del adversario: destruye ese monstruo del adversario.$N●Si esta carta boca arriba en la Zona del Campo es destruida por efecto de una carta del adversario: puedes hacer que cada jugador mande al Cementerio 1 monstruo en su Deck Extra.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/08/06",
+  "species_id": 24,
+  "starchip": "0"
+}

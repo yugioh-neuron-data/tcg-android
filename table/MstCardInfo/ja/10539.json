@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10539,
+  "card_name": "最強の盾",
+  "card_name_label": "さいきょうのたて",
+  "card_name_search": "さいきょうのたて",
+  "card_pen_effect": "",
+  "card_text": "戦士族モンスターにのみ装備可能。①：装備モンスターの表示形式によって以下の効果を適用する。●攻撃表示：装備モンスターの攻撃力は、その元々の守備力分アップする。●守備表示：装備モンスターの守備力は、その元々の攻撃力分アップする。",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/02/16",
+  "species_id": 24,
+  "starchip": "0"
+}

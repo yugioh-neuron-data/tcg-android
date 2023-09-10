@@ -1,0 +1,23 @@
+{
+  "attack_power": "2300",
+  "attribute_id": 2,
+  "card_id": 6505,
+  "card_name": "암흑계의 무신 골드",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "①: 이 카드가 효과로 패에서 묘지로 버려졌을 경우에 발동한다. 이 카드를 특수 소환한다. 상대 효과로 버려졌을 경우, 발동시에 상대 필드의 카드를 2장까지 대상으로 할 수 있다. 그 경우, 추가로 이하의 효과를 적용한다.$N●대상의 상대 카드를 파괴한다.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/05/17",
+  "species_id": 3,
+  "starchip": "5"
+}

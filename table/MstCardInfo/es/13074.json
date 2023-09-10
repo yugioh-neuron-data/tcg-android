@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 13074,
+  "card_name": "Hidrañés Orbital",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial (desde tu mano) teniendo 5 o más monstruos en tu Cementerio, y ningún monstruo en tu Cementerio con el mismo nombre. Una vez por turno (Efecto Rápido): puedes mandar al Cementerio las 3 cartas de la parte superior de tu Deck; destruye 1 carta en el Campo. Debes tener por lo menos 2 monstruos en tu Cementerio, y ningún monstruo en tu Cementerio con el mismo nombre, para activar y resolver este efecto.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/08/03",
+  "species_id": 7,
+  "starchip": "8"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 5,
+  "card_id": 9633,
+  "card_name": "ゼンマイドッグ",
+  "card_name_label": "ゼンマイドッグ",
+  "card_name_search": "ぜんまいどっぐ",
+  "card_pen_effect": "",
+  "card_text": "自分のメインフェイズ時に発動する事ができる。エンドフェイズ時までこのカードのレベルを２つ上げ、攻撃力を６００ポイントアップする。この効果はこのカードがフィールド上に表側表示で存在する限り１度しか使用できない。",
+  "defense_power": "900",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/04/16",
+  "species_id": 11,
+  "starchip": "3"
+}

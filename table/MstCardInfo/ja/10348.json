@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10348,
+  "card_name": "炎王の急襲",
+  "card_name_label": "えんおうのきゅうしゅう",
+  "card_name_search": "えんおうのきゅうしゅう",
+  "card_pen_effect": "",
+  "card_text": "相手フィールド上にモンスターが存在し、自分フィールド上にモンスターが存在しない場合に発動できる。デッキから炎属性の獣族・獣戦士族・鳥獣族モンスター１体を特殊召喚する。この効果で特殊召喚したモンスターの効果は無効化され、エンドフェイズ時に破壊される。「炎王の急襲」は１ターンに１枚しか発動できない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/12/08",
+  "species_id": 24,
+  "starchip": "0"
+}

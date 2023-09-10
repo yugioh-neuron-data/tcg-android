@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 1,
+  "card_id": 11788,
+  "card_name": "Mago Xiangsheng",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Uma vez por turno: você pode escolher 1 Monstro Xyz com a face para cima que você controla e 1 monstro de Nível 5 ou mais que você controla; até o final deste turno, a Classe desse Monstro Xyz se torna igual ao Nível desse monstro de Nível 5 ou mais (mesmo que este card deixe o campo). Enquanto você controlar mais cards que o seu oponente, a Escala de Pêndulo deste card se torna 4.",
+  "card_text": "Seu oponente não sofre dano de batalha de ataques envolvendo este card. Uma vez por turno: você pode escolher 1 outro monstro com a face para cima que você controla; até o final deste turno, o ATK deste card se torna igual ao ATK atual desse monstro.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "8",
+  "pen_scale_r": "8",
+  "sales_at": "2015/08/06",
+  "species_id": 18,
+  "starchip": "4"
+}

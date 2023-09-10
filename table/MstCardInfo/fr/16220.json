@@ -1,0 +1,23 @@
+{
+  "attack_power": "200",
+  "attribute_id": 6,
+  "card_id": 16220,
+  "card_name": "Aérofétrois",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Une fois par tour (Effet Rapide) : vous pouvez cibler 1 monstre face recto contrôlé par votre adversaire dans la colonne de cette carte ; déplacez cette carte que vous contrôlez dans une autre de vos Zones Monstre Main, et si vous le faites, déplacez le monstre de l'adversaire dans sa Zone Monstre Main dans la colonne de cette carte, puis placez 1 Compteur Brûlant sur lui. (Les monstres avec des Compteurs Brûlant perdent 200 ATK/DEF pour chaque Compteur Brûlant sur eux.)",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/08/12",
+  "species_id": 17,
+  "starchip": "1"
+}

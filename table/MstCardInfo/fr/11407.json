@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 11407,
+  "card_name": "Brutalité Yang Zing",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si un monstre \"Yang Zing\" que vous contrôlez combat un monstre de l'adversaire, durant le calcul des dommages : l'ATK/DEF de votre monstre combattant devient le double de son ATK/DEF d'origine durant ce calcul des dommages uniquement, mais détruisez-le à la fin de la Damage Step.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/11/06",
+  "species_id": 25,
+  "starchip": "0"
+}

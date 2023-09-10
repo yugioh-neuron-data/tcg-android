@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 5631,
+  "card_name": "拡散する波動",
+  "card_name_label": "かくさんするはどう",
+  "card_name_search": "かくさんするはどう",
+  "card_pen_effect": "",
+  "card_text": "①：相手フィールドにモンスターが存在する場合、１０００LPを払い、自分フィールドのレベル７以上の魔法使い族モンスター１体を対象として発動できる。このターン、そのモンスター以外のモンスターは攻撃できず、対象のモンスターは可能な限り相手モンスター全てに１回ずつ攻撃しなければならない。その攻撃で破壊されたモンスターの効果は発動できず、無効化される。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/09/19",
+  "species_id": 24,
+  "starchip": "0"
+}

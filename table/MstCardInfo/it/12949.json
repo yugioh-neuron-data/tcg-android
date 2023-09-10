@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 4,
+  "card_id": 12949,
+  "card_name": "Petardiere",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante il turno di qualsiasi giocatore: puoi scartare questa carta; infliggi 1000 danni al tuo avversario e, se lo fai, salta la tua prossima Draw Phase. Puoi utilizzare questo effetto di \"Petardiere\" una sola volta per turno. Ogni volta che il tuo avversario subisce danno da effetto, metti 1 Segnalino su questa carta. Una volta per turno, durante la End Phase: rimuovi da questa carta tutti i Segnalini che ci erano stati messi dal suo effetto e, se lo fai, infliggi 300 danni al tuo avversario per ognuno.",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/05/04",
+  "species_id": 3,
+  "starchip": "4"
+}

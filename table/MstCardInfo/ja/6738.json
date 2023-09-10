@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 3,
+  "card_id": 6738,
+  "card_name": "サブマリンロイド",
+  "card_name_label": "サブマリンロイド",
+  "card_name_search": "さぶまりんろいど",
+  "card_pen_effect": "",
+  "card_text": "このカードは相手プレイヤーに直接攻撃できる。この時、相手ライフに与える戦闘ダメージはこのカードの元々の攻撃力と同じ数値になる。また、このカードが戦闘を行ったダメージステップ終了時、このカードの表示形式を守備表示にできる。",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/05/18",
+  "species_id": 7,
+  "starchip": "4"
+}

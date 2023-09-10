@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 5,
+  "card_id": 9438,
+  "card_name": "Orthros de Chatarra",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "No puede ser Invocado de Modo Normal/Colocado. Debe ser primero Invocado de Modo Especial (desde tu mano) mientras controlas un monstruo \"Chatarra\". Si es Invocado de esta forma: selecciona 1 monstruo \"Chatarra\" que controles; destruye ese objetivo. Si esta carta es destruida por el efecto de una carta \"Chatarra\" y mandada al Cementerio: puedes seleccionar 1 monstruo \"Chatarra\" en tu Cementerio, excepto \"Orthros de Chatarra\"; añade ese objetivo a tu mano.",
+  "defense_power": "1100",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 30,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/05/05",
+  "species_id": 11,
+  "starchip": "4"
+}

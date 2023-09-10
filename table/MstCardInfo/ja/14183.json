@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14183,
+  "card_name": "緊急ダイヤ",
+  "card_name_label": "きんきゅうダイヤ",
+  "card_name_search": "きんきゅうだいや",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：相手フィールドのモンスターの数が自分フィールドのモンスターより多い場合に発動できる。機械族・地属性の、レベル４以下のモンスター１体とレベル５以上のモンスター１体をデッキから効果を無効にして守備表示で特殊召喚する。このカードを発動するターン、自分は機械族モンスターでしか攻撃宣言できない。②：セットされたこのカードが墓地へ送られた場合に発動できる。デッキから機械族・レベル１０モンスター１体を手札に加える。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/11/10",
+  "species_id": 24,
+  "starchip": "0"
+}

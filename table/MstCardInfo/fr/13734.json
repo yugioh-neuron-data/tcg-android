@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 1,
+  "card_id": 13734,
+  "card_name": "Dragon Appât Métaphysique",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Lorsque votre monstre est ciblé par une attaque : vous pouvez cibler 1 de vos monstres \"Métaphysique\" qui sont bannis ou dans votre Cimetière ; bannissez cette carte, et si vous le faites, Invoquez Spécialement le monstre en Position d'Attaque. Vous ne pouvez utiliser cet effet de \"Dragon Appât Métaphysique\" qu'une fois par tour.",
+  "card_text": "Lorsque votre monstre est ciblé par une attaque : vous pouvez cibler 1 de vos monstres \"Métaphysique\" qui sont bannis ou dans votre Cimetière ; bannissez cette carte, et si vous le faites, Invoquez Spécialement le monstre en Position d'Attaque. Durant la Standby Phase du prochain tour après que cette carte a été bannie : vous pouvez Invoquer Spécialement cette carte bannie. Vous ne pouvez utiliser chaque effet de \"Dragon Appât Métaphysique\" qu'une fois par tour.",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2018/07/26",
+  "species_id": 26,
+  "starchip": "2"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 4,
+  "card_id": 11255,
+  "card_name": "Espion-C-Espion",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si cette carte est Invoquée Normalement : regardez 1 carte au hasard dans l'Extra Deck de votre adversaire, et si elle a min. 2000 ATK, cette carte gagne 1000 ATK. Si elle a moins de 2000 ATK, vous gagnez des LP égaux à l'ATK du monstre.",
+  "defense_power": "1300",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/08/14",
+  "species_id": 15,
+  "starchip": "3"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 5,
+  "card_id": 11333,
+  "card_name": "Camarartista Toupeira de Torcida",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Todos os Monstros Pêndulo que você controla ganham 300 de ATK.",
+  "card_text": "Você pode escolher 1 monstro cujo ATK atual seja diferente do seu ATK original; aplique o efeito apropriado. Você só pode usar este efeito de \"Camarartista Toupeira de Torcida\" uma vez por turno.$N●Se o ATK atual desse monstro for maior que o ATK original dele, ele ganha 1000 de ATK.$N●Se o ATK atual desse monstro for menor que o ATK original dele, ele perde 1000 de ATK.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2014/11/07",
+  "species_id": 11,
+  "starchip": "2"
+}

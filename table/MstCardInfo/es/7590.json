@@ -1,0 +1,23 @@
+{
+  "attack_power": "4000",
+  "attribute_id": 1,
+  "card_id": 7590,
+  "card_name": "Fuerza Arcana EX - El Señor Oscuro",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "No puede ser Invocado de Modo Normal, ni Colocado. Debe ser Invocado de Modo Especial (desde tu mano) mandando 3 monstruos que controles al Cementerio, y no puede ser Invocado de Modo Especial de otra forma. Cuando esta carta es Invocada de Modo Especial: lanza una moneda y gana el efecto apropiado.$N● Cara: Esta carta puede hacer un segundo ataque durante cada Battle Phase, pero si lo hace usando este efecto, cámbiala a Posición de Defensa al final de la Battle Phase. Su posición de batalla no puede ser cambiada hasta el final de tu próximo turno.$N● Cruz: Si esta carta es destruida, destruye todas las cartas en el Campo.",
+  "defense_power": "4000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/05/13",
+  "species_id": 17,
+  "starchip": "10"
+}

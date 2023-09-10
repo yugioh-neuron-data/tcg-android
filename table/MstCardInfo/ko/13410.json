@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 13410,
+  "card_name": "언더클락테이커",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "효과 몬스터 2장$N①: 1턴에 1번, 이 카드의 링크 앞의 앞면 표시 몬스터 1장과, 상대 필드의 앞면 표시 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 상대 몬스터의 공격력은 턴 종료시까지, 대상으로 한 링크 앞의 몬스터의 공격력만큼 내린다.",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "42",
+  "linkno": "2",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/01/17",
+  "species_id": 27,
+  "starchip": ""
+}

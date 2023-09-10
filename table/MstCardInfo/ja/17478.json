@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 17478,
+  "card_name": "エクソシスター・リタニア",
+  "card_name_label": "エクソシスター・リタニア",
+  "card_name_search": "えくそしすたーりたにあ",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：自分フィールドのモンスターが「エクソシスター」モンスターのみの場合、８００LPを払い、相手のフィールド・墓地のカード１枚を対象として発動できる。そのカードを除外する。その後、以下の効果から１つを選んで適用できる。$N●自分フィールドのモンスターを素材として「エクソシスター」Xモンスター１体をX召喚する。$N●このターンに自分がモンスターのX召喚に成功している場合、相手フィールドのカード１枚を選んで除外する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/04/23",
+  "species_id": 25,
+  "starchip": "0"
+}

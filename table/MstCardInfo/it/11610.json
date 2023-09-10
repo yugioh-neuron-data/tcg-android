@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11610,
+  "card_name": "Sinf Amplifuoco",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Ogni volta che viene attivato l'effetto di una carta \"Guerriero Sinfonico\", metti 1 Segnalino Sinfonico su questa carta quando quell'effetto si risolve. Tutti i mostri \"Guerriero Sinfonico\" sul Terreno guadagnano 100 ATK per ogni Segnalino Sinfonico su questa carta. Una volta per turno: puoi rimuovere 5 o 7 Segnalini Sinfonico dal tuo Terreno; applica questo effetto, a seconda del numero di Segnalini Sinfonico rimossi.$N●5: Infliggi 300 danni al tuo avversario per ogni carta \"Guerriero Sinfonico\" sul Terreno.$N●7: Bandisci carte controllate dal tuo avversario e/o nel suo Cimitero, fino al numero di carte \"Guerriero Sinfonico\" sul Terreno.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/02/09",
+  "species_id": 24,
+  "starchip": "0"
+}

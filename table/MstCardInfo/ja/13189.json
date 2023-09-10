@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 3,
+  "card_id": 13189,
+  "card_name": "デューテリオン",
+  "card_name_label": "デューテリオン",
+  "card_name_search": "でゅーてりおん",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分メインフェイズにこのカードを手札から捨てて発動できる。デッキから「ボンディング」魔法・罠カード１枚を手札に加える。②：このカードが召喚・特殊召喚に成功した場合、自分の墓地の「ハイドロゲドン」「オキシゲドン」「デューテリオン」のいずれか１体を対象として発動できる。そのモンスターを特殊召喚する。",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/06/03",
+  "species_id": 9,
+  "starchip": "5"
+}

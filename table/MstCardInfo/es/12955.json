@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 6,
+  "card_id": 12955,
+  "card_name": "Lirilusc - Ruiseñor Independiente",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"Lirilusc - Ruiseñor Ensamblado\" + 1 monstruo \"Lirilusc\"$NSi esta carta es Invocada por Fusión usando un Monstruo Xyz en el Campo cuyo nombre original incluya \"Lirilusc\" como Material de Fusión: puedes aumentar el Nivel de esta carta en la cantidad de Materiales Xyz que ese o esos monstruos tenían. Esta carta gana ATK igual a su Nivel x 500. No es afectada por efectos de otras cartas. Una vez por turno: puedes infligir daño a tu adversario igual al Nivel de esta carta x 500.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/05/04",
+  "species_id": 16,
+  "starchip": "1"
+}

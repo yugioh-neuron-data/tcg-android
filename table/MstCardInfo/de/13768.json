@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13768,
+  "card_name": "Null-Extra-Link",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Aktiviere diese Karte, indem du 1 Linkmonster wählst, das du kontrollierst und das mit einem Linkmonster in der Extra-Monsterzone kreuzgelinkt ist. Das als Ziel gewählte Monster erhält 800 ATK für jedes Linkmonster auf dem Spielfeld. Falls ein Linkmonster als Linkbeschwörung beschworen und das als Ziel gewählte Monster dafür als Material verwendet wird: Das Linkmonster erhält bis zum Ende dieses Spielzugs dieselbe ATK-Steigerung, die das als Ziel gewählte Monster hatte (selbst falls diese Karte das Spielfeld verlässt). Nach der Schadensberechnung, falls das als Ziel gewählte Monster angegriffen hat: Zerstöre diese Karte.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/07/26",
+  "species_id": 24,
+  "starchip": "0"
+}

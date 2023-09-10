@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 4,
+  "card_id": 8099,
+  "card_name": "ジュラック・ティラヌス",
+  "card_name_label": "ジュラック・ティラヌス",
+  "card_name_search": "じゅらっくてぃらぬす",
+  "card_pen_effect": "",
+  "card_text": "自分のメインフェイズ時に、このカード以外の自分フィールド上の恐竜族モンスター１体をリリースして発動できる。このカードの攻撃力は５００ポイントアップする。また、このカードが戦闘によって相手モンスターを破壊し墓地へ送った時、このカードの攻撃力は３００ポイントアップする。",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/12/04",
+  "species_id": 9,
+  "starchip": "7"
+}

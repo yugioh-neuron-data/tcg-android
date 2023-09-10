@@ -1,0 +1,23 @@
+{
+  "attack_power": "1900",
+  "attribute_id": 5,
+  "card_id": 12688,
+  "card_name": "Super Espion ESPIRALE",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si cette carte est dans votre main : vous pouvez déclarer 1 type de carte (Monstre, Magie ou Piège) ; révélez la carte du dessus du Deck de votre adversaire, et si vous le faites, Invoquez Spécialement cette carte si c'est une carte de ce type. Si cette carte est Invoquée Spécialement par l'effet d'une carte \"ESPIRALE\" : vous pouvez cibler 1 Magie/Piège contrôlé par votre adversaire ; détruisez-le. Vous ne pouvez utiliser chaque effet de \"Super Espion ESPIRALE\" qu'une fois par tour.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/08/04",
+  "species_id": 15,
+  "starchip": "4"
+}

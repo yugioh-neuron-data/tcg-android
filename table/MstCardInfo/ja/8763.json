@@ -1,0 +1,23 @@
+{
+  "attack_power": "2600",
+  "attribute_id": 2,
+  "card_id": 8763,
+  "card_name": "A・ジェネクス・アクセル",
+  "card_name_label": "アーリー・ジェネクス・アクセル",
+  "card_name_search": "あーりーじぇねくすあくせる",
+  "card_pen_effect": "",
+  "card_text": "「ジェネクス」と名のついたチューナー＋チューナー以外のモンスター１体以上$N１ターンに１度、手札を１枚捨てる事で、自分の墓地に存在するレベル４以下の機械族モンスター１体を選択して特殊召喚する。この効果で特殊召喚したモンスターの攻撃力はエンドフェイズ時まで倍になり、相手プレイヤーに直接攻撃する事はできず、自分のエンドフェイズ時にゲームから除外される。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/01/20",
+  "species_id": 7,
+  "starchip": "8"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 5,
+  "card_id": 11542,
+  "card_name": "Qliphort Furtivo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Você não pode Invocar monstros por Invocação-Especial, exceto monstros \"Qli\". Este efeito não pode ser negado. Todos os monstros \"Qli\" que você controla ganham 300 de ATK.",
+  "card_text": "Você pode Invocar este card por Invocação-Normal sem oferecer Tributo. Se este card for Invocado por Invocação-Normal sem oferecer Tributo, ou se for Invocado por Invocação-Especial, o Nível dele se torna 4 e o ATK original dele se torna 1800. Se este card for Invocado por Invocação-Normal/Baixado, ele não é afetado por efeitos ativados de monstros cujo Nível/Classe original seja menor que o Nível atual deste card. Quando este card for Invocado por Invocação-Tributo pelo Tributo de um ou mais monstros \"Qli\": você pode escolher 1 card no campo; devolva-o para a mão. Seu oponente não pode ativar cards ou efeitos em resposta à ativação deste efeito.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2015/01/16",
+  "species_id": 7,
+  "starchip": "8"
+}

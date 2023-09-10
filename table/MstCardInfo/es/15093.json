@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15093,
+  "card_name": "Perímetro de Defensa de la Maquinaria",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Mientras controles un monstruo Máquina de Nivel 7 o mayor, los monstruos de tu adversario no pueden seleccionar para ataques monstruos Máquina de Nivel 6 o menor que controles, y además tu adversario no puede seleccionarlos para efectos de cartas. Si uno o más monstruos Máquina boca arriba que controlas son destruidos en batalla o por el efecto de una carta: puedes seleccionar 1 monstruo Máquina en tu Cementerio; añádelo a tu mano. Sólo puedes usar este efecto de \"Perímetro de Defensa de la Maquinaria\" una vez por turno.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/16",
+  "species_id": 24,
+  "starchip": "0"
+}

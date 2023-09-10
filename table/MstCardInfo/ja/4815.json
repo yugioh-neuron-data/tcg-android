@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 4815,
+  "card_name": "天使のサイコロ",
+  "card_name_label": "てんしのサイコロ",
+  "card_name_search": "てんしのさいころ",
+  "card_pen_effect": "",
+  "card_text": "①：サイコロを１回振る。自分フィールドのモンスターの攻撃力・守備力は、ターン終了時まで出た目の数×１００アップする。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2001/07/05",
+  "species_id": 24,
+  "starchip": "0"
+}

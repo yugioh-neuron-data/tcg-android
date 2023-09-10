@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13200,
+  "card_name": "Cinet Backdoor",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Escolha 1 monstro Ciberso que você controla; bana-o e, se isso acontecer, adicione 1 monstro Ciberso do seu Deck à sua mão, cujo ATK seja menor que o ATK original desse monstro. Durante sua próxima Fase de Apoio, devolva o monstro banido por este efeito para o campo e ele pode atacar diretamente nesse turno. Você só pode ativar 1 \"Cinet Backdoor\" por turno.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/11/02",
+  "species_id": 24,
+  "starchip": "0"
+}

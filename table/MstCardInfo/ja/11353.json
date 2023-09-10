@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 5,
+  "card_id": 11353,
+  "card_name": "クリフォート・ツール",
+  "card_name_label": "クリフォート・ツール",
+  "card_name_search": "くりふぉーとつーる",
+  "card_pen_effect": "①：自分は「クリフォート」モンスターしか特殊召喚できない。この効果は無効化されない。②：１ターンに１度、８００LPを払って発動できる。デッキから「クリフォート・ツール」以外の「クリフォート」カード１枚を手札に加える。",
+  "card_text": "システムをレプリカモードで起動する準備をしています...$NC：\\sophia\\sefiroth.exe 実行中にエラーが発生しました。$N次の不明な発行元からのプログラムを実行しようとしています。$NC：\\tierra\\qliphoth.exe の実行を許可しますか？ ＜Y／N＞...［Y］$Nシステムを自律モードで起動します。",
+  "defense_power": "2800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 25,
+  "pen_scale_l": "9",
+  "pen_scale_r": "9",
+  "sales_at": "2014/07/19",
+  "species_id": 7,
+  "starchip": "5"
+}

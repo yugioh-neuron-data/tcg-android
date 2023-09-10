@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 10439,
+  "card_name": "出目出し",
+  "card_name_label": "ダメだし",
+  "card_name_search": "だめだし",
+  "card_pen_effect": "",
+  "card_text": "相手がモンスターの特殊召喚に成功した時、サイコロを１回振る。出た目がその特殊召喚されたモンスターのレベルと同じだった場合、そのモンスターを持ち主の手札に戻す。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/11/17",
+  "species_id": 25,
+  "starchip": "0"
+}

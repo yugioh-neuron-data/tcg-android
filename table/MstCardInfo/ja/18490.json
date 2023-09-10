@@ -1,0 +1,23 @@
+{
+  "attack_power": "400",
+  "attribute_id": 1,
+  "card_id": 18490,
+  "card_name": "幸魂",
+  "card_name_label": "サキタマ",
+  "card_name_search": "さきたま",
+  "card_pen_effect": "",
+  "card_text": "このカードは特殊召喚できない。このカード名の①③の効果はそれぞれ１ターンに１度しか使用できない。①：手札のこのカードを相手に見せて発動できる。手札からスピリットモンスター１体を召喚する。②：このカードが召喚・リバースしたターンのエンドフェイズに発動する。このカードを持ち主の手札に戻す。③：このカードがリリースされた場合、自分の墓地のスピリットモンスター１体を対象として発動する。そのモンスターを手札に加える。",
+  "defense_power": "900",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 7,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/01/14",
+  "species_id": 17,
+  "starchip": "4"
+}

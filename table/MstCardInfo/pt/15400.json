@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 4,
+  "card_id": 15400,
+  "card_name": "Utensilhor Secadragonete",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 monstro \"Utensilhor\"$NNão pode ser usado como Matéria Link no turno em que for Invocado por Invocação-Link. Este card linkado ganha 1000 de ATK. Uma vez por turno, durante sua Fase de Batalha, se este card estiver co-linkado (exceto durante a Etapa de Dano): você pode trocar a posição de 2 monstros \"Utensilhor\" nas suas Zonas de Monstros Principais, incluindo este card e, se isso acontecer, o outro monstro pode realizar um segundo ataque durante cada Fase de Batalha neste turno. Uma vez por turno, quando este card que não estiver co-linkado for escolhido como alvo de um ataque: você pode negar o ataque.",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "9",
+  "linkno": "1",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/07/23",
+  "species_id": 7,
+  "starchip": ""
+}

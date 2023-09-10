@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 6,
+  "card_id": 17787,
+  "card_name": "Espírito do Kyudo Han-Shi",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Se um ou mais monstros forem Invocados por Invocação-Pêndulo: devolva este card para a mão.",
+  "card_text": "Quando este card for Invocado por Invocação-Normal: você pode devolver para a mão todos os cards que você controla nas mesmas colunas que os cards nas suas Zonas de Pêndulo (incluindo os próprios cards da Zona de Pêndulo) e, depois, você pode adicionar 1 monstro com 2400 de ATK/1000 de DEF do seu Deck à sua mão, exceto \"Espírito do Kyudo Han-Shi\". Uma vez por turno, durante a Fase Final, se este card foi Invocado por Invocação-Normal ou virado com a face para cima neste turno: devolva este card para a mão.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 45,
+  "pen_scale_l": "9",
+  "pen_scale_r": "9",
+  "sales_at": "2022/10/20",
+  "species_id": 15,
+  "starchip": "5"
+}

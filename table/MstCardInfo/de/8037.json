@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 5,
+  "card_id": 8037,
+  "card_name": "Hyperpsychischer Sprenger",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Empfänger- + 1 oder mehr Nicht-Empfänger-Monster vom Typ Psi$NFalls diese Karte ein Monster in Verteidigungsposition angreift, füge deinem Gegner durchschlagenden Kampfschaden zu. Am Ende des Damage Steps, falls diese Karte ein Monster in Verteidigungsposition angegriffen hat und die DEF des Monsters niedriger sind als die ATK dieser Karte (verwende die Grundwerte des anderen Monsters, falls es sich nicht mehr auf dem Spielfeld befindet): Du erhältst LP in Höhe des Überschusses.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/03/03",
+  "species_id": 21,
+  "starchip": "9"
+}

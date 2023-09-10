@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 17470,
+  "card_name": "Brouillage Chiffré",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durant le calcul des dommages, si un monstre combat tant qu'un monstre avec min. 1000 ATK est sur le Terrain : l'ATK de tous les monstres actuellement sur le Terrain sera réduite de 1000 pour chaque 1000 ATK qu'ils ont, et aussi, leur DEF sera réduite de 1000 pour chaque 1000 DEF qu'ils ont. Si cette carte est détruite : jusqu'à la fin de ce tour, appliquez les ajustements d'ATK/DEF ci-dessus à tous les monstres actuellement sur le Terrain.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/08/04",
+  "species_id": 24,
+  "starchip": "0"
+}

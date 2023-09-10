@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 2,
+  "card_id": 11872,
+  "card_name": "魔装戦士 ドラゴノックス",
+  "card_name_label": "まそうせんし　ドラゴノックス",
+  "card_name_search": "まそうせんしどらごのっくす",
+  "card_pen_effect": "①：相手モンスターの攻撃宣言時に発動できる。このカードを破壊し、そのバトルフェイズを終了する。",
+  "card_text": "①：１ターンに１度、手札を１枚捨て、自分の墓地の攻撃力２０００以下の、戦士族または魔法使い族モンスター１体を対象として発動できる。そのモンスターを裏側守備表示で特殊召喚する。",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "7",
+  "pen_scale_r": "7",
+  "sales_at": "2015/04/25",
+  "species_id": 15,
+  "starchip": "4"
+}

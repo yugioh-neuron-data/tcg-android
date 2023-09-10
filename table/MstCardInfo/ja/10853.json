@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 3,
+  "card_id": 10853,
+  "card_name": "ガード・ペンギン",
+  "card_name_label": "ガード・ペンギン",
+  "card_name_search": "がーどぺんぎん",
+  "card_pen_effect": "",
+  "card_text": "カードの効果によって自分がダメージを受けた時に発動できる。このカードを手札から特殊召喚し、受けたダメージの数値分だけ自分のライフポイントを回復する。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/10/19",
+  "species_id": 16,
+  "starchip": "4"
+}

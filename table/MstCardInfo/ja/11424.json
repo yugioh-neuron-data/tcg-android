@@ -1,0 +1,23 @@
+{
+  "attack_power": "200",
+  "attribute_id": 4,
+  "card_id": 11424,
+  "card_name": "名匠 ガミル",
+  "card_name_label": "めいしょう　ガミル",
+  "card_name_search": "めいしょうがみる",
+  "card_pen_effect": "",
+  "card_text": "①：自分のモンスターが戦闘を行うダメージステップ開始時からダメージ計算前までに、このカードを手札から墓地へ送って発動できる。そのモンスターの攻撃力はターン終了時まで３００アップする。",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/09/19",
+  "species_id": 4,
+  "starchip": "2"
+}

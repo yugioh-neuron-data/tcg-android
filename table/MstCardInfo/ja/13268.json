@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 3,
+  "card_id": 13268,
+  "card_name": "マスター・ボーイ",
+  "card_name_label": "マスター・ボーイ",
+  "card_name_search": "ますたーぼーい",
+  "card_pen_effect": "",
+  "card_text": "水属性モンスター２体$Nこのカード名の②の効果は１ターンに１度しか使用できない。①：フィールドの水属性モンスターの攻撃力・守備力は５００アップし、炎属性モンスターの攻撃力・守備力は４００ダウンする。②：このカードが戦闘・効果で破壊された場合、自分の墓地の水属性モンスター１体を対象として発動できる。そのモンスターを手札に加える。",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "13",
+  "linkno": "2",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/07/08",
+  "species_id": 14,
+  "starchip": ""
+}

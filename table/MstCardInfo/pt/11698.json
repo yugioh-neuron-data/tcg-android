@@ -1,0 +1,23 @@
+{
+  "attack_power": "450",
+  "attribute_id": 2,
+  "card_id": 11698,
+  "card_name": "Zefranúcleo Sombraneco",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Você não pode Invocar monstros por Invocação-Pêndulo, exceto monstros \"Sombraneco\" e \"Zefra\". Este efeito não pode ser negado.",
+  "card_text": "Se este card for Invocado por Invocação-Pêndulo ou enviado para o Cemitério: você pode escolher 1 card \"Zefra\" na sua Zona de Pêndulo, exceto \"Zefranúcleo Sombraneco\"; Invoque-o por Invocação-Especial. Você só pode usar este efeito de \"Zefranúcleo Sombraneco\" uma vez por turno.",
+  "defense_power": "1950",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "7",
+  "pen_scale_r": "7",
+  "sales_at": "2015/05/14",
+  "species_id": 6,
+  "starchip": "4"
+}

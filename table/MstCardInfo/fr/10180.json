@@ -1,0 +1,23 @@
+{
+  "attack_power": "2700",
+  "attribute_id": 5,
+  "card_id": 10180,
+  "card_name": "Briseur d'Épée",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 monstres de Niveau 6$NUne fois par tour : vous pouvez détacher 1 Matériel Xyz de cette carte pour déclarer 1 Type de Monstre ; cette carte gagne l'effet suivant. Au début de la Damage Step, si cette carte combat un monstre du Type qui a été déclaré : détruisez le monstre.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/08/23",
+  "species_id": 15,
+  "starchip": "6"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 2,
+  "card_id": 16398,
+  "card_name": "Kuribee",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "(Questa carta viene sempre considerata come una carta \"Kuriboh\".)$NQuando questa carta, o un altro mostro \"Kuriboh\", che controlli viene distrutta in battaglia: puoi aggiungere dal tuo Deck alla tua mano 1 Magia/Trappola che indica la carta \"Kuriboh\" nel suo testo. Puoi utilizzare questo effetto di \"Kuribee\" una sola volta per turno. Una volta per turno, quando un mostro dell'avversario dichiara un attacco mentre controlli un altro mostro \"Kuriboh\": puoi cambiare l'ATK di tutti gli altri mostri che controlli a 0 fino alla fine di questo turno e, se lo fai, annulla l'attacco.",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/12/02",
+  "species_id": 3,
+  "starchip": "1"
+}

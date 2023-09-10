@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 5,
+  "card_id": 13037,
+  "card_name": "Carte Gardna Potartiste",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Une fois par tour : vous pouvez cibler 1 monstre en Position de Défense face recto que vous contrôlez ; sa DEF devient égale à la somme des DEF d'origine de tous les monstres en Position de Défense face recto que vous contrôlez actuellement (même si cette carte quitte le Terrain).",
+  "card_text": "Gagne une DEF égale à la somme des DEF d'origine des autres monstres \"Potartiste\" que vous contrôlez.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "8",
+  "pen_scale_r": "8",
+  "sales_at": "2020/08/06",
+  "species_id": 6,
+  "starchip": "3"
+}

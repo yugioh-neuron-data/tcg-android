@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13813,
+  "card_name": "Fossile Vivant",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Activez cette carte en ciblant 1 monstre de max. Niveau 4 dans votre Cimetière ; Invoquez-le Spécialement et équipez-le avec cette carte, mais bannissez-le lorsqu'il quitte le Terrain (même si cette carte quitte le Terrain). Lorsque cette carte quitte le Terrain, bannissez le monstre équipé. Le monstre équipé perd 1000 ATK/DEF, et aussi, ses effets sont annulés. Vous ne pouvez activer qu'1 \"Fossile Vivant\" par tour.",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/06/28",
+  "species_id": 24,
+  "starchip": "0"
+}

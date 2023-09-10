@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 5,
+  "card_id": 11333,
+  "card_name": "EMチアモール",
+  "card_name_label": "エンタメイトチアモール",
+  "card_name_search": "えんためいとちあもーる",
+  "card_pen_effect": "①：自分フィールドのPモンスターの攻撃力は３００アップする。",
+  "card_text": "「EMチアモール」のモンスター効果は１ターンに１度しか使用できない。①：自分メインフェイズに元々の攻撃力と異なる攻撃力を持つモンスター１体を対象として発動できる。そのモンスターの攻撃力の数値によって以下の効果を適用する。●そのモンスターの攻撃力が元々の攻撃力より高い場合、そのモンスターの攻撃力は１０００アップする。●そのモンスターの攻撃力が元々の攻撃力より低い場合、そのモンスターの攻撃力は１０００ダウンする。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2014/07/19",
+  "species_id": 11,
+  "starchip": "2"
+}

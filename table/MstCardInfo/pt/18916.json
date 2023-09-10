@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 4,
+  "card_id": 18916,
+  "card_name": "Soldado Vulcânico",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se este card for Invocado por Invocação-Normal ou Especial: você pode adicionar 1 card \"Vulcânico(a)\" do seu Deck à sua mão, exceto \"Soldado Vulcânico\". Você pode descartar 1 card; Invoque por Invocação-Especial 1 \"Ficha de Bomba\" (Piro/FOGO/Nível 1/ATK 1000/DEF 1000) no campo do seu oponente. Sempre que 1 for destruído, seu controlador sofre 500 de dano. Você só pode usar cada efeito de \"Soldado Vulcânico\" uma vez por turno.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/08/10",
+  "species_id": 4,
+  "starchip": "3"
+}

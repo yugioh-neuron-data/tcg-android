@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 13622,
+  "card_name": "Roter Neustart",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wenn dein Gegner eine Fallenkarte aktiviert: Annulliere die Aktivierung und falls du dies tust, setze jene Karte verdeckt, dann kann er 1 andere Falle direkt von seinem Deck setzen. Für den Rest dieses Spielzugs, nachdem diese Karte aufgelöst wurde, kann dein Gegner keine Fallenkarten aktivieren. Du kannst diese Karte von deiner Hand aktivieren, indem du die Hälfte deiner LP zahlst.",
+  "defense_power": "0",
+  "effect_id": 1,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/05/03",
+  "species_id": 25,
+  "starchip": "0"
+}

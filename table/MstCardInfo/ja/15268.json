@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 4,
+  "card_id": 15268,
+  "card_name": "レッドポータン",
+  "card_name_label": "レッドポータン",
+  "card_name_search": "れっどぽーたん",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドの「ポータン」モンスター１体を対象として発動できる。そのモンスターは次のターンの終了時までチューナーとして扱う。②：このカードが既にモンスターゾーンに存在する状態で、自分または相手がS召喚に成功した場合に発動できる。手札・デッキから「ポータン」モンスター１体を特殊召喚する。",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/18",
+  "species_id": 17,
+  "starchip": "1"
+}

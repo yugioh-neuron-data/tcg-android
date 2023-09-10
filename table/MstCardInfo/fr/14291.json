@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 2,
+  "card_id": 14291,
+  "card_name": "Dragon Derringereux",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 monstres TÉNÈBRES Dragon$NUne fois par tour, durant la End Phase de votre adversaire : vous pouvez cibler 1 monstre en Position d'Attaque contrôlé par votre adversaire qui n'a pas déclaré d'attaque ce tour ; détruisez-le, et si vous le faites, infligez des dommages à votre adversaire égaux à l'ATK d'origine du monstre. Si un ou plusieurs monstres \"Rokkette\" sont Invoqués Spécialement sur votre Terrain, tant que cette carte est dans votre Cimetière (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte, mais bannissez-la lorsqu'elle quitte le Terrain. Vous ne pouvez utiliser chaque effet de \"Dragon Derringereux\" qu'une fois par tour.",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "82",
+  "linkno": "2",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/05/02",
+  "species_id": 1,
+  "starchip": ""
+}

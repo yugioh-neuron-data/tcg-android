@@ -1,0 +1,23 @@
+{
+  "attack_power": "200",
+  "attribute_id": 1,
+  "card_id": 9118,
+  "card_name": "フォーミュラ・シンクロン",
+  "card_name_label": "フォーミュラ・シンクロン",
+  "card_name_search": "ふぉーみゅらしんくろん",
+  "card_pen_effect": "",
+  "card_text": "チューナー＋チューナー以外のモンスター１体$Nこのカードの②の効果は同一チェーン上では１度しか発動できない。①：このカードがS召喚に成功した時に発動できる。自分はデッキから１枚ドローする。②：相手メインフェイズに発動できる。このカードを含む自分フィールドのモンスターを素材としてS召喚する。",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 19,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/07/17",
+  "species_id": 7,
+  "starchip": "2"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 13287,
+  "card_name": "Protocole Altergeist",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "L'activation et les effets de cartes \"Altergeist\" activés sur votre Terrain ne peuvent pas être annulés. Lorsque votre adversaire active un effet de monstre : vous pouvez envoyer 1 autre carte \"Altergeist\" face recto que vous contrôlez au Cimetière ; annulez l'activation, et si vous le faites, détruisez-le. Vous ne pouvez utiliser cet effet de \"Protocole Altergeist\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/10/19",
+  "species_id": 25,
+  "starchip": "0"
+}

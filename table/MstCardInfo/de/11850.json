@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11850,
+  "card_name": "Wirre Augen",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Zerstöre so viele Karten in den Pendelzonen jedes Spielers wie möglich, dann führe nacheinander diese Effekte aus, abhängig von der Anzahl der durch diesen Effekt zerstörten Karten.$N●1+: Füge deinem Gegner 500 Schaden zu.$N●2+: Du kannst deiner Hand 1 Pendelmonster von deinem Main Deck hinzufügen.$N●3+: Du kannst 1 Karte auf dem Spielfeld verbannen.$N●4: Du kannst deiner Hand 1 „Wirre Augen“ von deinem Deck hinzufügen.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/07/02",
+  "species_id": 24,
+  "starchip": "0"
+}

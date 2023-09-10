@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 2,
+  "card_id": 18791,
+  "card_name": "大翼のバフォメット",
+  "card_name_label": "たいよくのバフォメット",
+  "card_name_search": "たいよくのばふぉめっと",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。$N①：このカードが召喚・特殊召喚した場合に発動できる。獣族・レベル４モンスター及び「合成獣融合」をそれぞれ１枚までデッキから手札に加える。この効果の発動後、ターン終了時まで自分は融合モンスターしかEXデッキから特殊召喚できない。$N②：このカードが融合召喚の素材となって墓地へ送られた場合、自分の墓地の幻想魔族モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/04/22",
+  "species_id": 3,
+  "starchip": "5"
+}

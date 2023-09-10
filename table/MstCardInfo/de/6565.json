@@ -1,0 +1,23 @@
+{
+  "attack_power": "4000",
+  "attribute_id": 2,
+  "card_id": 6565,
+  "card_name": "Raviel, Herr der Phantome",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 3 Unterweltler-Monster als Tribut anbietest. Jedes Mal, wenn dein Gegner ein Monster als Normalbeschwörung beschwört: Beschwöre 1 „Phantom-Spielmarke“ (Unterweltler/FINSTERNIS/Stufe 1/ATK 1000/DEF 1000) als Spezialbeschwörung, aber sie kann keinen Angriff deklarieren. Einmal pro Spielzug: Du kannst 1 Monster als Tribut anbieten; diese Karte erhält bis zum Ende dieses Spielzugs ATK in Höhe der Grund-ATK des als Tribut angebotenen Monsters.",
+  "defense_power": "4000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/03/15",
+  "species_id": 3,
+  "starchip": "10"
+}

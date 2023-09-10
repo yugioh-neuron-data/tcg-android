@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 5101,
+  "card_name": "選ばれし者",
+  "card_name_label": "えらばれしもの",
+  "card_name_search": "えらばれしもの",
+  "card_pen_effect": "",
+  "card_text": "自分の手札から、モンスターカード１枚とモンスター以外のカード２枚を選択し、相手はその中からランダムに１枚を選択する。相手が選択したカードがモンスターだった場合、そのモンスターを自分フィールド上に特殊召喚し、残りのカードは墓地へ送る。違った場合、選択した３枚を墓地へ送る。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2001/04/19",
+  "species_id": 24,
+  "starchip": "0"
+}

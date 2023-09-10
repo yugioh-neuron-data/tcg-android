@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 1,
+  "card_id": 7841,
+  "card_name": "Straßensynchron",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wenn diese Karte als Synchromaterial für die Synchrobeschwörung eines anderen Monsters als „Straßenkrieger“ verwendet wird, reduziere die Stufe dieser Karte um 2. Falls diese Karte angreift, am Ende des Damage Steps: Erhöhe ihre Stufe bis zum Ende dieses Spielzugs um 1.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/06/10",
+  "species_id": 7,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 3,
+  "card_id": 11216,
+  "card_name": "EMソード・フィッシュ",
+  "card_name_label": "エンタメイトソード・フィッシュ",
+  "card_name_search": "えんためいとそーどふぃっしゅ",
+  "card_pen_effect": "",
+  "card_text": "①：このカードが召喚・特殊召喚に成功した場合に発動する。相手フィールドの全てのモンスターの攻撃力・守備力は６００ダウンする。②：このカードがモンスターゾーンに存在し、自分がモンスターの特殊召喚に成功した場合に発動する。相手フィールドの全てのモンスターの攻撃力・守備力は６００ダウンする。",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/04/19",
+  "species_id": 8,
+  "starchip": "2"
+}

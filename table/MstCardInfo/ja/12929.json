@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 2,
+  "card_id": 12929,
+  "card_name": "DDゴースト",
+  "card_name_label": "ディーディーゴースト",
+  "card_name_search": "でぃーでぃーごーすと",
+  "card_pen_effect": "",
+  "card_text": "①：このカードが墓地へ送られた場合、自分の墓地の、「DDゴースト」以外の「DD」モンスター１体または「契約書」カード１枚を対象として発動できる。その同名カード１枚をデッキから墓地へ送る。②：このカードが除外された場合、除外されている自分のカードの中から、「DDゴースト」以外の「DD」モンスター１体または「契約書」カード１枚を対象として発動できる。そのカードを墓地に戻す。",
+  "defense_power": "300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/01/14",
+  "species_id": 3,
+  "starchip": "2"
+}

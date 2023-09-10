@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 1,
+  "card_id": 13973,
+  "card_name": "Juicio, el Dragón del Cielo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Cantante + 1+ monstruos que no sean Cantantes$NSi Invocas esta carta por Sincronía, todos los materiales deben tener el mismo Atributo. Una vez por turno, si tienes 4 o más Cantantes con nombres diferentes en tu Cementerio y controlas esta carta Invocada por Sincronía: puedes pagar la mitad de tus LP; destruye todas las demás cartas en el Campo y además, por el resto de este turno, no puedes Invocar monstruos de Modo Especial, excepto monstruos Dragón. Una vez por turno, durante tu End Phase: destierra las 4 cartas de la parte superior de tu Deck.",
+  "defense_power": "2600",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/07/23",
+  "species_id": 1,
+  "starchip": "8"
+}

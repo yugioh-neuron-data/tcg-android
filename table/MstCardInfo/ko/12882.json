@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 5,
+  "card_id": 12882,
+  "card_name": "EM 바라쿠다",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "①: 1턴에 1번, 자신의 \"EM(엔터메이트)\" 몬스터가 상대 몬스터와 전투를 실행하는 데미지 계산 전에 발동할 수 있다. 그 상대 몬스터의 공격력은, 그 원래 공격력과의 차만큼만 내린다.",
+  "card_text": "\"EM(엔터메이트) 바라쿠다\"의 몬스터 효과는 1턴에 1번밖에 사용할 수 없다. ①: 원래 공격력과 다른 공격력을 가지는 \"EM(엔터메이트)\" 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터의 공격력은 턴 종료시까지, 그 원래 공격력과의 차만큼만 올린다. 이 효과는 상대 턴에도 발동할 수 있다.",
+  "defense_power": "1100",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2017/06/08",
+  "species_id": 13,
+  "starchip": "3"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 11102,
+  "card_name": "森羅の滝滑り",
+  "card_name_label": "しんらのたきすべり",
+  "card_name_search": "しんらのたきすべり",
+  "card_pen_effect": "",
+  "card_text": "相手モンスターが直接攻撃宣言する度に、このカードの効果を発動できる。自分のデッキの一番上のカードをめくる。めくったカードが植物族モンスターだった場合、そのモンスターを墓地へ送る。違った場合、そのカードをデッキの一番下に戻す。また、このカードがフィールド上に存在する限り、自分のドローフェイズ時に通常のドローを行う代わりに、自分のデッキの一番上のカードをめくる。めくったカードが植物族モンスターだった場合、そのモンスターを墓地へ送る。違った場合、そのカードを手札に加える。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/02/15",
+  "species_id": 25,
+  "starchip": "0"
+}

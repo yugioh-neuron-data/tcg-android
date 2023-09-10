@@ -1,0 +1,23 @@
+{
+  "attack_power": "900",
+  "attribute_id": 6,
+  "card_id": 14442,
+  "card_name": "Servante d'Endymion",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Chaque fois qu'une Carte Magie est activée, placez 1 Compteur Magie sur cette carte lorsque la Magie est résolue. Vous pouvez retirer 3 Compteurs Magie de cette carte ; Invoquez Spécialement cette carte depuis votre Zone Pendule ainsi qu'1 monstre avec min. 1000 ATK depuis votre Deck sur lequel vous pouvez placer un Compteur Magie, et si vous le faites, placez 1 Compteur Magie sur chacun d'eux.",
+  "card_text": "Vous ne pouvez Invoquer Spécialement un ou plusieurs \"Servante d'Endymion\" qu'une fois par tour. Cette carte avec un Compteur Magie peut attaquer directement. Une fois par tour de l'adversaire (Effet Rapide) : vous pouvez défausser 1 carte ; placez 1 Compteur Magie sur chaque carte que vous contrôlez sur laquelle vous pouvez placer un Compteur Magie. Si cette carte dans la Zone Monstre est détruite : vous pouvez placer cette carte dans votre Zone Pendule, puis placez le même nombre de Compteurs Magie qu'elle avait en tant que monstre sur elle.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "2",
+  "pen_scale_r": "2",
+  "sales_at": "2019/04/18",
+  "species_id": 18,
+  "starchip": "3"
+}

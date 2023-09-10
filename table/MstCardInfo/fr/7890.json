@@ -1,0 +1,23 @@
+{
+  "attack_power": "2300",
+  "attribute_id": 6,
+  "card_id": 7890,
+  "card_name": "Invocateur de Tempête",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Vous pouvez mettre les monstres de votre adversaire détruits au combat par les autres monstres de Type Psychique au dessus du Deck de leur propriétaire au lieu de les envoyer au Cimetière. Lorsque cette carte est détruite par l'effet d'une carte, le contrôleur de cette carte reçoit des dommages égaux à son ATK d'origine.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/11/18",
+  "species_id": 21,
+  "starchip": "6"
+}

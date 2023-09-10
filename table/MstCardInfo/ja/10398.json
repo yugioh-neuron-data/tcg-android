@@ -1,0 +1,23 @@
+{
+  "attack_power": "1900",
+  "attribute_id": 4,
+  "card_id": 10398,
+  "card_name": "バルキリー・ナイト",
+  "card_name_label": "バルキリー・ナイト",
+  "card_name_search": "ばるきりーないと",
+  "card_pen_effect": "",
+  "card_text": "①：このカードがモンスターゾーンに存在する限り、相手は「バルキリー・ナイト」以外の戦士族モンスターを攻撃対象に選択できない。②：このカードが戦闘で破壊され墓地へ送られた時、自分の墓地から戦士族モンスター１体とこのカードを除外し、自分の墓地のレベル５以上の戦士族モンスター１体を対象として発動できる。その戦士族モンスターを特殊召喚する。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/11/17",
+  "species_id": 15,
+  "starchip": "4"
+}

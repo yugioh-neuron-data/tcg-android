@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10282,
+  "card_name": "Der große Magiebuch-Turm",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Einmal pro Spielzug, während deiner Standby Phase, falls du ein Monster vom Typ Hexer auf deiner Spielfeldseite oder in deinem Friedhof hast: Du kannst 1 „Magiebuch“-Zauberkarte von deinem Friedhof unter dein Deck legen, außer „Der große Magiebuch-Turm“, dann ziehe 1 Karte. Wenn diese Karte, die dir gehört, durch eine Karte deines Gegners zerstört und auf deinen Friedhof gelegt wird: Du kannst 1 Monster vom Typ Hexer als Spezialbeschwörung von deiner Hand oder deinem Deck beschwören, dessen Stufe kleiner oder gleich der Anzahl der „Magiebuch“-Zauberkarten in deinem Friedhof ist.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/11/08",
+  "species_id": 24,
+  "starchip": "0"
+}

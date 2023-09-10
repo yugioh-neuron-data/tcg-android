@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 1,
+  "card_id": 15993,
+  "card_name": "Chevalier Blanc de Dogmatika",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Vous pouvez Invoquer Rituellement cette carte avec \"Dogmatikalamité\". Vous ne pouvez pas Invoquer Spécialement de monstres depuis l'Extra Deck. Si votre adversaire active une carte ou un effet (sauf durant la Damage Step) : vous pouvez envoyer 1 monstre depuis votre Extra Deck au Cimetière, et si vous le faites, regardez l'Extra Deck de votre adversaire et envoyez-en 1 monstre au Cimetière. Jusqu'à la fin de ce tour, cette carte gagne une ATK égale à la moitié de la somme des ATK de ces monstres envoyés au Cimetière. Vous ne pouvez utiliser cet effet de \"Chevalier Blanc de Dogmatika\" qu'une fois par tour.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 5,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/06/03",
+  "species_id": 18,
+  "starchip": "8"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 6834,
+  "card_name": "Muro di Potere",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante il calcolo dei danni, quando stai per subire danno da combattimento da un mostro attaccante dell'avversario: manda 1 carta dalla cima del tuo Deck al Cimitero per ogni 500 danni (arrotondati per eccesso) che stai per subire, invece di subirli.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/03/30",
+  "species_id": 25,
+  "starchip": "0"
+}

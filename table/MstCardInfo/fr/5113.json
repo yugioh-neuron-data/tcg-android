@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 5113,
+  "card_name": "Boîte Féérique",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsqu'un monstre de votre adversaire déclare une attaque : jouez à pile ou face. Si vous gagnez, jusqu'à la fin de la Battle Phase, l'ATK du monstre attaquant devient 0. Durant chacune de vos Standby Phases, payez 500 Life Points ou détruisez cette carte.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2003/03/01",
+  "species_id": 25,
+  "starchip": "0"
+}

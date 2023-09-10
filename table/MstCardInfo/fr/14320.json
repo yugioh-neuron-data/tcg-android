@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 14320,
+  "card_name": "Redémarrage d'Assaut",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Sacrifiez 1 monstre \"/Mode Assaut\" ; Invoquez Spécialement 1 monstre \"/Mode Assaut\" depuis votre Deck de nom différent en Position de Défense, en ignorant ses conditions d'Invocation. Vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez un nombre de votre choix de cartes dans votre Cimetière, de noms différents, qui sont \"Activation Mode Assaut\" et/ou qui liste spécifiquement \"Activation Mode Assaut\" dans leur texte (\"Redémarrage d'Assaut\" exclu) ; mélangez-les dans le Deck. Vous ne pouvez utiliser chaque effet de \"Redémarrage d'Assaut\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/05/02",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16434,
+  "card_name": "Double Exposition",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Vous pouvez cibler 2 monstres de max. Niveau 6 de même nom sur le Terrain ; leur Niveau est doublé. Au début de la Battle Phase : vous pouvez cibler 1 monstre \"Cipher\" que vous contrôlez ; choisissez 1 autre monstre face recto sur le Terrain, et son nom devient celui du monstre \"Cipher\" jusqu'à la End Phase. Vous ne pouvez utiliser chaque effet de \"Double Exposition\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/12/02",
+  "species_id": 24,
+  "starchip": "0"
+}

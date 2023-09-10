@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 2,
+  "card_id": 14259,
+  "card_name": "D-HERO ドローガイ",
+  "card_name_label": "デステニーヒーロー ドローガイ",
+  "card_name_search": "ですてにーひーろーどろーがい",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが「HERO」モンスターの効果で特殊召喚に成功した場合に発動できる。お互いのプレイヤーは、それぞれデッキから１枚ドローする。②：このカードが墓地へ送られた場合、次のスタンバイフェイズに発動できる。このカードを墓地から特殊召喚する。この効果で特殊召喚したこのカードは、フィールドから離れた場合に除外される。",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/01/12",
+  "species_id": 15,
+  "starchip": "4"
+}

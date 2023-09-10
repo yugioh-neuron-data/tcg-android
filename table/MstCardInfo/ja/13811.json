@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 13811,
+  "card_name": "リトマスの死の剣士",
+  "card_name_label": "リトマスのしのけんし",
+  "card_name_search": "りとますのしのけんし",
+  "card_pen_effect": "",
+  "card_text": "「リトマスの死儀式」により降臨。①：このカードはモンスターゾーンに存在する限り、罠カードの効果を受けず、戦闘では破壊されない。②：罠カードがフィールドに表側表示で存在する場合、このカードの攻撃力・守備力は３０００アップする。③：儀式召喚したこのカードが相手によって破壊された場合、自分または相手の墓地の罠カード１枚を対象として発動できる。そのカードを自分の魔法＆罠ゾーンにセットする。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 5,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/05/12",
+  "species_id": 15,
+  "starchip": "8"
+}

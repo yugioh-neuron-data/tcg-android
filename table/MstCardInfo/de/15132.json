@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 15132,
+  "card_name": "El Dorado Adelantado",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls du ein „Eldlich“-Monster kontrollierst: Aktiviere 1 dieser Effekte;$N●Mische 3 deiner verbannten „Eldlixir“-Zauber/Fallen mit unterschiedlichen Namen in dein Deck und falls du dies tust, zerstöre alle Karten auf dem Spielfeld.$N●Mische 3 deiner verbannten „Goldenen Landes“-Zauber/Fallen mit unterschiedlichen Namen in dein Deck und falls du dies tust, halbiere die LP deines Gegners, dann erhältst du LP in Höhe seiner LP.$NDu kannst nur 1 „El Dorado Adelantado“ pro Spielzug aktivieren.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/02",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 2,
+  "card_id": 16497,
+  "card_name": "Ad Libitum von Despia",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Während deiner Main Phase: Du kannst alle Monster, die sich derzeit auf dem Spielfeld befinden, bis zum Ende des Spielzugs des Gegners ATK in Höhe ihrer eigenen Stufe x 100 erhalten lassen. Falls diese Karte in deiner Hand oder auf deiner Spielfeldseite als Fusionsmaterial verwendet und auf den Friedhof gelegt oder verbannt wird: Du kannst 1 deiner „Despia“-Monster oder Fusionsmonster der Stufe 8 oder höher wählen, das verbannt ist oder sich in deinem Friedhof befindet, außer „Ad Libitum von Despia“; beschwöre es als Spezialbeschwörung. Du kannst jeden Effekt von „Ad Libitum von Despia“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/11/04",
+  "species_id": 17,
+  "starchip": "8"
+}

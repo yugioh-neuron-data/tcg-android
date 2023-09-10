@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 2,
+  "card_id": 15988,
+  "card_name": "Dunkelauge-Albtraum",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Einmal pro Spielzug, falls diese Karte durch Kampf zerstört würde, kannst du stattdessen 1 Falle von deinem Friedhof verbannen. Du kannst bis zu 3 Fallen von deinem Friedhof verbannen; führe diesen Effekt aus, basierend auf der verbannten Anzahl.$N●1: Ziehe 1 Karte, dann lege 1 Karte von deiner Hand aufs Deck.$N●2: Ziehe 1 Karte.$N●3: Ziehe 2 Karten, dann wirf 1 Karte ab.$NDu kannst diesen Effekt von „Dunkelauge-Albtraum“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "1700",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/06/03",
+  "species_id": 3,
+  "starchip": "4"
+}

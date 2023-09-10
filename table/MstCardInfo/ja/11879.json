@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11879,
+  "card_name": "幻夢境",
+  "card_name_label": "ドリームランド",
+  "card_name_search": "どりーむらんど",
+  "card_pen_effect": "",
+  "card_text": "「幻夢境」は１ターンに１枚しか発動できない。①：フィールドのモンスターの種類によって、以下の効果を得る。$N●融合：１ターンに１度、自分の手札・フィールドのモンスターが効果で墓地へ送られた場合に発動できる。自分はデッキから１枚ドローする。$N●S：モンスターの召喚・特殊召喚成功時に自分はこの効果を発動できる。そのモンスターのレベルを１つ上げる。$N●X：自分エンドフェイズに発動する。フィールドのレベルが一番高いモンスターを破壊する。",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/09/19",
+  "species_id": 24,
+  "starchip": "0"
+}

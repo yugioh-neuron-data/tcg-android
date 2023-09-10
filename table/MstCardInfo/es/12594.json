@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 3,
+  "card_id": 12594,
+  "card_name": "Artistamigo Focanguila",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Una vez por turno: puedes seleccionar 1 monstruo boca arriba que controle tu adversario; hasta el final de este turno, ese monstruo boca arriba ve sus efectos negados (aún si esta carta deja el Campo).",
+  "card_text": "Cuando esta carta es Invocada de Modo Normal o Especial: puedes seleccionar 1 Carta Mágica/de Trampa Colocada que controle tu adversario; esa carta Colocada no puede ser activada este turno. Ningún jugador puede activar cartas o efectos en respuesta a la activación de este efecto.",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2016/11/03",
+  "species_id": 8,
+  "starchip": "1"
+}

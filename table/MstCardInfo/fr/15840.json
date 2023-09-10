@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 15840,
+  "card_name": "Idole aux Yeux d'Or",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Une fois par tour (Effet Rapide) : vous pouvez activer cet effet ; regardez la main de votre adversaire, et aussi, le nom de cette carte devient \"Idole aux Milles Yeux\" jusqu'à la End Phase. Si cette carte est bannie ou envoyée au Cimetière par un effet de carte : vous pouvez cibler 1 Monstre à Effet contrôlé par votre adversaire ; équipez le Monstre à Effet à 1 monstre \"Le Renoncé\" que vous contrôlez qui ne peut pas être Invoqué Normalement. Tant qu'il est équipé par cet effet, le monstre gagne une ATK égale à l'ATK du monstre équipé. Vous ne pouvez utiliser cet effet de \"Idole aux Yeux d'Or\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/07/08",
+  "species_id": 18,
+  "starchip": "1"
+}

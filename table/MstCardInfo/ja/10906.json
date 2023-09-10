@@ -1,0 +1,23 @@
+{
+  "attack_power": "2700",
+  "attribute_id": 4,
+  "card_id": 10906,
+  "card_name": "森羅の仙樹 レギア",
+  "card_name_label": "しんらのせんじゅ　レギア",
+  "card_name_search": "しんらのせんじゅれぎあ",
+  "card_pen_effect": "",
+  "card_text": "１ターンに１度、自分のメインフェイズ時に発動できる。自分のデッキの一番上のカードをめくる。めくったカードが植物族モンスターだった場合、そのモンスターを墓地へ送り、デッキからカードを１枚ドローする。違った場合、そのカードをデッキの一番下に戻す。また、デッキのこのカードがカードの効果によってめくられて墓地へ送られた場合、自分のデッキの上からカードを３枚まで確認し、好きな順番でデッキの上に戻す。",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/11/16",
+  "species_id": 13,
+  "starchip": "8"
+}

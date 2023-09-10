@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 2,
+  "card_id": 12394,
+  "card_name": "Manzo Fantasma",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Una volta per turno: puoi tirare un dado a sei facce. Fino alla fine di questo turno, aumenta il Valore Pendulum di questa carta di quel numero (massimo 10).",
+  "card_text": "Il Fantasma della Cena di Natale.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 25,
+  "pen_scale_l": "4",
+  "pen_scale_r": "4",
+  "sales_at": "2017/05/04",
+  "species_id": 11,
+  "starchip": "7"
+}

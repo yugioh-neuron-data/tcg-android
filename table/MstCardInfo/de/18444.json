@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 5,
+  "card_id": 18444,
+  "card_name": "Weiser der Klugheit - Himmel",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "(Diese Karte wird immer als „Himmelsjäger“-Karte behandelt.)$NDu kannst 1 Zauber abwerfen; beschwöre diese Karte als Spezialbeschwörung von deiner Hand. Wenn dein Gegner eine Karte oder einen Effekt aktiviert, die oder der ein oder mehr Linkmonster, die du kontrollierst, als Ziel wählt (Schnelleffekt): Du kannst 2 Zauber von deinem Friedhof verbannen; annulliere jenen Effekt. Falls diese Karte durch Kampf oder einen Karteneffekt zerstört und auf den Friedhof gelegt wird: Du kannst 1 deiner verbannten „Himmelsjäger“-Zauber wählen; füge ihn deiner Hand hinzu. Du kannst jeden Effekt von „Weiser der Klugheit - Himmel“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/06/22",
+  "species_id": 7,
+  "starchip": "5"
+}

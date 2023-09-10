@@ -1,0 +1,23 @@
+{
+  "attack_power": "2600",
+  "attribute_id": 2,
+  "card_id": 11460,
+  "card_name": "D/D/D Léonidas, Roi Rebelle",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Lorsque vous recevez des dommages d'effet (sauf durant la Damage Step) : vous pouvez détruire cette carte, et si vous le faites, les effets qui vont infliger des dommages à un joueur ce tour augmentent ses LP du même montant à la place.",
+  "card_text": "Lorsque vous recevez des dommages d'effet (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte depuis votre main, et si vous le faites, gagnez des LP égaux aux dommages que vous avez reçus. Vous ne recevez aucun dommage d'effet.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2015/11/05",
+  "species_id": 3,
+  "starchip": "7"
+}

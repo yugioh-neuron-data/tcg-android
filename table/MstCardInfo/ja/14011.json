@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 6,
+  "card_id": 14011,
+  "card_name": "ネフティスの語り手",
+  "card_name_label": "ネフティスのかたりて",
+  "card_name_search": "ねふてぃすのかたりて",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：「ネフティスの語り手」以外の自分の墓地の「ネフティス」カード１枚を対象として発動できる。手札を１枚選んで破壊し、対象のカードを手札に加える。②：このカードが効果で破壊され墓地へ送られた場合、次の自分スタンバイフェイズに発動できる。自分の墓地から「ネフティスの語り手」以外の「ネフティス」カード１枚を選んで手札に加える。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/08/04",
+  "species_id": 18,
+  "starchip": "2"
+}

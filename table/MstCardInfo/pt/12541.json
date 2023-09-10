@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 12541,
+  "card_name": "Zushin, o Gigante Adormecido",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Não pode ser Invocado por Invocação-Normal/Baixado. Deve ser Invocado por Invocação-Especial (da sua mão) ao oferecer como Tributo um monstro que você controla com 10 Marcadores Zushin. Uma vez por turno: você pode revelar este card da sua mão e, depois, escolha 1 Monstro Normal de Nível 1 que você controla (mantenha este card revelado até o final deste turno); coloque 1 Marcador Zushin sobre ele. Não é afetado por outros efeitos de cards. Se este card batalhar um monstro, durante o cálculo de dano: o ATK/DEF deste card se tornam iguais ao ATK atual do monstro que ele estiver batalhando +1000, apenas durante esse cálculo de dano.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/08/18",
+  "species_id": 15,
+  "starchip": "10"
+}

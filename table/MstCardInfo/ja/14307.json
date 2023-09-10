@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14307,
+  "card_name": "魔妖壊劫",
+  "card_name_label": "まやかしかいごう",
+  "card_name_search": "まやかしかいごう",
+  "card_pen_effect": "",
+  "card_text": "このカード名の②③の効果は１ターンに１度、いずれか１つしか使用できない。①：相手フィールドのモンスターの攻撃力・守備力は、自分の墓地の「魔妖」モンスターの種類×１００ダウンする。②：自分フィールドの表側表示の「魔妖」モンスター１体とこのカードを墓地へ送って発動できる。自分はデッキから１枚ドローする。③：自分の墓地からこのカードとアンデット族モンスター１体を除外し、自分の墓地の「魔妖」モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/01/12",
+  "species_id": 24,
+  "starchip": "0"
+}

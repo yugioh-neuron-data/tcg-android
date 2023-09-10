@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 3,
+  "card_id": 8108,
+  "card_name": "氷結界の風水師",
+  "card_name_label": "ひょうけっかいのふうすいし",
+  "card_name_search": "ひょうけっかいのふうすいし",
+  "card_pen_effect": "",
+  "card_text": "手札を１枚捨て、属性を１つ宣言して発動できる。宣言した属性のモンスターはこのカードを攻撃対象に選択できない。この効果はこのカードがフィールド上に表側表示で存在する限り１度しか使用できない。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/12/04",
+  "species_id": 18,
+  "starchip": "3"
+}

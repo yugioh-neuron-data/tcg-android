@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 5270,
+  "card_name": "サイクロンレーザー",
+  "card_name_label": "サイクロンレーザー",
+  "card_name_search": "さいくろんれーざー",
+  "card_pen_effect": "",
+  "card_text": "「超時空戦闘機ビック・バイパー」のみ装備可能。攻撃力は３００ポイントアップする。さらにこのカードが守備表示モンスターを攻撃した時にその守備力を攻撃力が越えていれば、その数値だけ相手に戦闘ダメージを与える。",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2001/07/12",
+  "species_id": 24,
+  "starchip": "0"
+}

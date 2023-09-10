@@ -1,0 +1,23 @@
+{
+  "attack_power": "200",
+  "attribute_id": 1,
+  "card_id": 5424,
+  "card_name": "Jarra de Dados",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "VOLTEO: Ambos jugadores lanzan un dado de seis caras. El jugador con el resultado más bajo recibe daño igual al resultado de su adversario x 500. Pero si el resultado del ganador es 6, el perdedor recibe 6000 puntos de daño. Si los resultados son los mismos, ambos jugadores lanzan el dado de nuevo.",
+  "defense_power": "300",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 24,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/07/22",
+  "species_id": 6,
+  "starchip": "3"
+}

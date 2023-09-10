@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 6,
+  "card_id": 14274,
+  "card_name": "Sternguckender Star",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Diese Karte erhält einen Effekt, basierend auf deiner Main-Monsterzone, in der sie liegt.$N●Ganz links: Erhöhe ihre Stufe um 4.$N●Ganz rechts: Erhöhe ihre Stufe um 3.$N●Mitte: Erhöhe ihre Stufe um 2.$N●Andere: Erhöhe ihre Stufe um 1.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/05/02",
+  "species_id": 16,
+  "starchip": "4"
+}

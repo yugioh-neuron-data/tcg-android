@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 2,
+  "card_id": 12832,
+  "card_name": "Predaplanta Pterapenthes",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando esta carta inflige daño de batalla a tu adversario: puedes seleccionar 1 monstruo boca arriba que controle tu adversario; pon 1 Contador de Predador en él, y si su Nivel es 2 o mayor, éste se convierte en Nivel 1 mientras tenga un Contador de Predador. Una vez por turno: puedes seleccionar 1 monstruo que controle tu adversario con un Nivel menor o igual al de esta carta; hasta la End Phase, toma su control.",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/02/23",
+  "species_id": 13,
+  "starchip": "3"
+}

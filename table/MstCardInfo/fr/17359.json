@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 17359,
+  "card_name": "Monde Vaylantz - Konig Wissen",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsque cette carte est activée : placez face recto 1 Magie de Terrain \"Vaylantz\" (\"Monde Vaylantz - Konig Wissen\" exclu) depuis votre Deck dans la Zone Terrain de votre adversaire. S'il y a 2 cartes dans les Zones Terrain : le joueur du tour peut cibler 1 Monstre à Effet dans la Zone Monstre Main de l'adversaire, dans la même colonne que l'un des monstres qu'il contrôle ; il place face recto le monstre de l'adversaire comme Magie Continue dans sa Zone Magie & Piège dans sa même colonne. (Si la zone est occupée, détruisez la carte qui l'occupe.) Le joueur du tour ne peut utiliser cet effet de \"Monde Vaylantz - Konig Wissen\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/08/25",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 2,
+  "card_id": 10847,
+  "card_name": "No.48 섀도우 리치",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "레벨 3 몬스터 × 2$N상대 턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고 발동할 수 있다. 자신 필드 위에 \"환영 토큰\"(악마족 / 어둠 속성 / 레벨 1 / 공격력 500 / 수비력 500) 1장을 특수 소환한다. 또한, 자신 필드 위에 \"환영 토큰\"이 존재하는 한, 상대는 이 카드를 공격 대상으로 할 수 없다. 이 카드의 공격력은, 자신 필드 위의 \"환영 토큰\"의 수 × 500 포인트 올린다.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/06/10",
+  "species_id": 2,
+  "starchip": "3"
+}

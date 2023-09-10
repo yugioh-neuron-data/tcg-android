@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13886,
+  "card_name": "Festa Link",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Aplique este efeito de acordo com o número de Atributos originais diferentes dentre os Monstros Link no campo.$N●1: Todos os Monstros Link que você controla ganham 500 de ATK.$N●2: Todos os Monstros Link que seu oponente controla perdem 1000 de ATK.$N●3: Ganhe 1500 PV.$N●4: Cause 2000 de dano ao seu oponente.$N●5: Invoque por Invocação-Especial 1 monstro com 2500 ou mais de ATK do seu Deck.$N●6: Destrua todos os monstros que seu oponente controla com 3000 ou menos de ATK.$NVocê só pode ativar 1 \"Festa Link\" por turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/01/30",
+  "species_id": 24,
+  "starchip": "0"
+}

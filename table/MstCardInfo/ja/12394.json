@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 2,
+  "card_id": 12394,
+  "card_name": "ゴースト・ビーフ",
+  "card_name_label": "ゴースト・ビーフ",
+  "card_name_search": "ごーすとびーふ",
+  "card_pen_effect": "①：１ターンに１度、自分メインフェイズに発動できる。サイコロを１回振る。ターン終了時まで、このカードのPスケールを出た目の数だけ上げる（最大１０まで）。",
+  "card_text": "グルメな牛の幽霊。特に大好物のロースト・ビーフには目がなく、今日も新たな味との出会いに心を躍らせながら現世を彷徨っている。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 25,
+  "pen_scale_l": "4",
+  "pen_scale_r": "4",
+  "sales_at": "2016/02/11",
+  "species_id": 11,
+  "starchip": "7"
+}

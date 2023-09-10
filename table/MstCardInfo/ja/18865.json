@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 18865,
+  "card_name": "リトル・オポジション",
+  "card_name_label": "リトル・オポジション",
+  "card_name_search": "りとるおぽじしょん",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。$N①：同じ縦列の使用していないメインモンスターゾーンを２ヵ所指定して発動できる。自分は以下の効果を適用する。その後、相手は以下の効果を適用できる。$N●自身の手札・デッキからレベル２以下のモンスター１体を選び、指定された自身のメインモンスターゾーンに表側攻撃表示か裏側守備表示で特殊召喚する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/04/22",
+  "species_id": 25,
+  "starchip": "0"
+}

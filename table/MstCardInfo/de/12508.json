@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 12508,
+  "card_name": "Dimensionstrugbild",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Aktiviere diese Karte, indem du 1 Monster in offener Angriffsposition wählst, das dein Gegner kontrolliert. Am Ende des Damage Steps, wenn es ein Monster angreift, aber das Angriffsziel nicht durch den Kampf zerstört wurde: Du kannst 1 Monster von deinem Friedhof verbannen; es muss sofort noch einmal angreifen. Falls das als Ziel gewählte Monster das Spielfeld verlässt, zerstöre diese Karte.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/07/21",
+  "species_id": 25,
+  "starchip": "0"
+}

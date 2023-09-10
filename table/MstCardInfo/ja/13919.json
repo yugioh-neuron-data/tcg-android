@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 1,
+  "card_id": 13919,
+  "card_name": "通販売員",
+  "card_name_label": "ツーマン・セールスマン",
+  "card_name_search": "つーまんせーるすまん",
+  "card_pen_effect": "",
+  "card_text": "①：１ターンに１度、自分メインフェイズに発動できる。お互いのプレイヤーは、それぞれ手札１枚を相手に見せる。見せたカードが同じ種類だった場合、その種類によって以下の効果を適用する。$N●モンスター：お互いのプレイヤーは、それぞれ見せたモンスターを特殊召喚できる。$N●魔法：お互いのプレイヤーは、それぞれデッキから２枚ドローする。$N●罠：お互いのプレイヤーは、それぞれデッキからカード２枚を選んで墓地へ送る。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/07/14",
+  "species_id": 15,
+  "starchip": "2"
+}

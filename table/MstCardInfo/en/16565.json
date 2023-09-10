@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 16565,
+  "card_name": "Giant Starfall",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Neither player can activate the effects of monsters without a Level in response to this card's activation. Target 1 face-up monster without a Level on the field; for the rest of this turn, any battle damage from battles involving that target is halved, it cannot activate its effects or be destroyed by battle, also its ATK becomes 0.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/11/05",
+  "species_id": 25,
+  "starchip": "0"
+}

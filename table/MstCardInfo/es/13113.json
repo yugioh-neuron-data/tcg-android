@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 13113,
+  "card_name": "Lavado de Cerebro del Mundo Oscuro",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando tu adversario activa un efecto de monstruo, si tienes 3 o más cartas en tu mano (excepto durante el Damage Step): puedes seleccionar 1 monstruo \"Mundo Oscuro\" en el Campo; devuélvelo a la mano y, si lo haces, el efecto activado se convierte en \"Tu adversario descarta 1 carta al azar\".",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/08/03",
+  "species_id": 25,
+  "starchip": "0"
+}

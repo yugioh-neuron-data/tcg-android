@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 1,
+  "card_id": 14950,
+  "card_name": "Urdrache, der Ursprüngliche",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Dein Gegner erhält keinen Kampfschaden aus Angriffen, an denen diese Karte beteiligt ist. Du kannst jeden der folgenden Effekte von „Urdrache, der Ursprüngliche“ nur einmal pro Spielzug verwenden. Du kannst 1 Drache-Monster von deinem Friedhof verbannen; diese Karte erhält bis zum Ende des nächsten Spielzugs ATK/DEF in Höhe der ATK des verbannten Monsters. Falls diese Karte als Tribut angeboten wird: Du kannst 1 Monster wählen, das du kontrollierst; es kann in diesem Spielzug während jeder Battle Phase einen zweiten Angriff durchführen.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/05/05",
+  "species_id": 1,
+  "starchip": "4"
+}

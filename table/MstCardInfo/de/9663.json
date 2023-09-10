@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 9663,
+  "card_name": "Doppelt oder nichts!",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wenn der Angriff eines Monsters annulliert wird: Wähle das Monster; es kann während dieser Battle Phase einen zweiten Angriff durchführen, und falls es dies tut, werden seine ATK nur während des Damage Steps verdoppelt.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/08/12",
+  "species_id": 24,
+  "starchip": "0"
+}

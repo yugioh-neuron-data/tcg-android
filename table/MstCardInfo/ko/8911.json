@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 5,
+  "card_id": 8911,
+  "card_name": "젬나이트 루비즈",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"젬나이트 가넷\" ＋ \"젬나이트\" 몬스터$N이 카드는 상기 카드를 융합 소재로 한 융합 소환으로만 엑스트라 덱에서 특수 소환할 수 있다. ①: 1턴에 1번, 이 카드 이외의 자신 필드의 앞면 표시 \"젬\" 몬스터 1장을 릴리스하고 발동할 수 있다. 이 카드의 공격력은 턴 종료시까지 릴리스한 몬스터의 공격력만큼 올린다. ②: 이 카드가 수비 표시 몬스터를 공격했을 경우, 그 수비력을 공격력이 넘은 만큼만 전투 데미지를 준다.",
+  "defense_power": "1300",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/06/04",
+  "species_id": 4,
+  "starchip": "6"
+}

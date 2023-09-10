@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 3,
+  "card_id": 16811,
+  "card_name": "Kosmochlor Jadeglace",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si une carte face recto est dans une Zone Terrain, vous pouvez Invoquer Spécialement cette carte (depuis votre main). Vous ne pouvez Invoquer Spécialement \"Kosmochlor Jadeglace\" qu'une fois par tour de cette façon. Tant que \"Berceau Enion de Cénote Jadeglace\" est sur le Terrain, les monstres contrôlés par votre adversaire ne peuvent activer leurs effets que le tour où ils sont Invoqués. Si votre monstre \"Jadeglace\" combat un monstre de l'adversaire, le monstre de l'adversaire perd 1000 ATK durant ce calcul des dommages uniquement.",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/02/10",
+  "species_id": 14,
+  "starchip": "10"
+}

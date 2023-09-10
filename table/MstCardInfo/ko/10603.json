@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 10603,
+  "card_name": "염호양산폭",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드의 발동시에, 자신은 자신 필드 위의 지속 마법 / 지속 함정 카드의 수 × 500 라이프 포인트 회복한다. 또한, 필드 위에 앞면 표시로 존재하는 이 카드가 상대의 효과에 의해서 묘지로 보내졌을 경우, 자신 묘지의 지속 마법 / 지속 함정 카드의 수 × 500 포인트 데미지를 상대 라이프에 준다.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/10/01",
+  "species_id": 25,
+  "starchip": "0"
+}

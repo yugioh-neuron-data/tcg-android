@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 14453,
+  "card_name": "Drago DMZ",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Una volta per turno: puoi scegliere come bersaglio 1 mostro Drago di Livello 4 o inferiore nel tuo Cimitero e 1 mostro Drago che controlli; equipaggia quel mostro nel tuo Cimitero a quel mostro sul Terreno come una Magia Equipaggiamento che gli fa guadagnare 500 ATK. Alla fine del Damage Step, se un tuo mostro equipaggiato con una Carta Equipaggiamento ha attaccato: puoi bandire questa carta dal tuo Cimitero; distruggi tante carte equipaggiate a quel mostro che controlli quante possibile e, se lo fai, quel mostro può effettuare un secondo attacco di seguito.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/07/26",
+  "species_id": 1,
+  "starchip": "4"
+}

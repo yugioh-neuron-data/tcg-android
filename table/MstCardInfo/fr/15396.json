@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 15396,
+  "card_name": "Pieuvrallonge Électroménageur",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 monstres \"Électroménageur\"$NCette carte liée ne peut être ciblée ni par des effets de carte de votre adversaire ni par les attaques de ses monstres. Durant le calcul des dommages, si un Monstre Lien \"Électroménageur\" que vous contrôlez co-lié à cette carte combat un monstre de l'adversaire : durant ce calcul des dommages uniquement, votre monstre combattant gagne une ATK égale au nombre de monstres co-liés à cette carte x 1000. Une fois par tour, si un ou plusieurs Monstres Lien \"Électroménageur\" que vous contrôlez qui ne sont pas co-liés à cette carte sont détruits au combat ou par un effet de carte : vous pouvez piocher 1 carte.",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "12",
+  "linkno": "2",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/07/23",
+  "species_id": 7,
+  "starchip": ""
+}

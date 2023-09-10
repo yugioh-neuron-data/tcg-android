@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 7633,
+  "card_name": "デッキロック",
+  "card_name_label": "デッキロック",
+  "card_name_search": "でっきろっく",
+  "card_pen_effect": "",
+  "card_text": "このカードがフィールド上に存在する限り、お互いにドロー以外の方法でデッキからカードを手札に加える事はできず、デッキからの特殊召喚もできない。発動後２回目の自分のスタンバイフェイズ時にこのカードを破壊する。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/02/23",
+  "species_id": 24,
+  "starchip": "0"
+}

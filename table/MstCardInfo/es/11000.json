@@ -1,0 +1,23 @@
+{
+  "attack_power": "1100",
+  "attribute_id": 1,
+  "card_id": 11000,
+  "card_name": "Felis, Arquera Luminosa",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "No puede ser Invocada de Modo Normal/Colocada. Debe ser Invocada de Modo Especial por el efecto de una carta. Si esta carta en tu Deck es mandada al Cementerio por el efecto de un monstruo: Invócala de Modo Especial. Puedes Sacrificar esta carta, y después selecciona 1 monstruo que controle tu adversario; destruye ese objetivo, y después manda al Cementerio las 3 cartas de la parte superior de tu Deck.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 30,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/08/14",
+  "species_id": 12,
+  "starchip": "4"
+}

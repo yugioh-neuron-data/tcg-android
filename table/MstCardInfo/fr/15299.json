@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15299,
+  "card_name": "Gouttelette de l'Interdit",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Envoyez un nombre de votre choix d'autres cartes depuis votre main et/ou Terrain au Cimetière ; choisissez autant de Monstres à Effet contrôlés par votre adversaire, et jusqu'à la fin de ce tour, leur ATK est divisée par deux, et aussi, leurs effets sont annulés. En réponse à l'activation de cette carte, votre adversaire ne peut activer ni de cartes ni d'effets de cartes du même type d'origine (Monstre/Magie/Piège) que les cartes envoyées au Cimetière pour activer cette carte. Vous ne pouvez activer qu'1 \"Gouttelette de l'Interdit\" par tour.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/08/06",
+  "species_id": 24,
+  "starchip": "0"
+}

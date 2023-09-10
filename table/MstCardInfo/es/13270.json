@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13270,
+  "card_name": "Generador Dragonoide",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Activa esta carta pagando 1000 LP. Durante tu Main Phase: puedes Invocar de Modo Especial 1 \"Ficha Dragonoide\" (Máquina/TIERRA/Nivel 1/ATK 300/DEF 300) en Posición de Ataque, no puedes Invocar monstruos de Modo Especial desde el Deck Extra por el resto de este turno, y además, durante la End Phase, tu adversario Invoca de Modo Especial 1 \"Ficha Dragonoide\" a su Campo en Posición de Ataque (aún si esta carta deja el Campo). Puedes usar este efecto de \"Generador Dragonoide\" hasta dos veces por turno.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/10/19",
+  "species_id": 24,
+  "starchip": "0"
+}

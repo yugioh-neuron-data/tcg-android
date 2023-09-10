@@ -1,0 +1,23 @@
+{
+  "attack_power": "700",
+  "attribute_id": 2,
+  "card_id": 6608,
+  "card_name": "増幅する悪意",
+  "card_name_label": "ぞうふくするマリス",
+  "card_name_search": "ぞうふくするまりす",
+  "card_pen_effect": "",
+  "card_text": "このカードがフィールド上に表側表示で存在する限り、相手ターンのスタンバイフェイズ時に自分の墓地に存在する「増幅する悪意」の枚数だけ、相手のデッキの上からカードを墓地に送る。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/11/17",
+  "species_id": 2,
+  "starchip": "4"
+}

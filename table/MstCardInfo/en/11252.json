@@ -1,0 +1,23 @@
+{
+  "attack_power": "1300",
+  "attribute_id": 6,
+  "card_id": 11252,
+  "card_name": "Hypnosister",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "This card gains effects based on the total number of cards in both players' Pendulum Zones.$N●1 or more: This card gains 800 ATK and DEF.$N●2 or more: At the start of the Damage Step, if this card battles a Pendulum Summoned monster: Destroy that monster.$N●3 or more: Monsters your opponent controls must attack this card, if able.$N●4: If this card destroys a monster by battle or by its own effect: Draw 1 card.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/08/15",
+  "species_id": 21,
+  "starchip": "4"
+}

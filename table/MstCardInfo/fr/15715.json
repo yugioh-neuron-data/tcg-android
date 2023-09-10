@@ -1,0 +1,23 @@
+{
+  "attack_power": "1550",
+  "attribute_id": 1,
+  "card_id": 15715,
+  "card_name": "Maha Vailo, Lumière du Paradis",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cette carte gagne les effets suivants, selon le nombre de Cartes d'Équipement qui lui sont équipées.$N●1+ : Gagne 1000 ATK pour chaque Carte d'Équipement qui lui est équipée.$N●2+ : Durant la Battle Phase, votre adversaire ne peut pas activer d'effets de monstre.$N●3+ : Lorsqu'une carte ou effet de votre adversaire qui cible cette carte est activé (Effet Rapide) : vous pouvez envoyer 1 Carte d'Équipement que vous contrôlez au Cimetière ; annulez l'effet.$N●4+ : Votre adversaire ne peut activer ni de cartes ni d'effets durant la Battle Phase.$N●5+ : Les dommages de combat infligés par cette carte à votre adversaire sont doublés.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/02/04",
+  "species_id": 18,
+  "starchip": "8"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 5,
+  "card_id": 8692,
+  "card_name": "Forteresse Méchabot",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Vous pouvez défausser un ou plusieurs monstres Machine dont le Niveau total est égal à min. 8, puis Invoquez Spécialement cette carte (depuis votre main ou Cimetière). Si cette carte est détruite au combat et envoyée au Cimetière : ciblez 1 carte contrôlée par votre adversaire ; détruisez la cible. Avant la résolution d'un effet de monstre de l'adversaire qui cible cette carte face recto, regardez la main de votre adversaire et défaussez-lui 1 carte.",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/02/18",
+  "species_id": 7,
+  "starchip": "7"
+}

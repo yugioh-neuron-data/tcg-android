@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 5,
+  "card_id": 10929,
+  "card_name": "Cruzado Derribador",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si esta carta es mandada al Cementerio: puedes activar 1 de estos efectos.$N●Selecciona 1 monstruo boca arriba que controle tu adversario; cambia ese objetivo a Posición de Defensa boca abajo.$N●Selecciona 1 Mágica/Trampa boca arriba que controle tu adversario; devuelve ese objetivo a la mano. Este turno, tu adversario no puede activar cartas con el mismo nombre que la carta devuelta a la mano por este efecto.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/01/23",
+  "species_id": 6,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 4,
+  "card_id": 7801,
+  "card_name": "炎の魔精イグニス",
+  "card_name_label": "ほのおのませいイグニス",
+  "card_name_search": "ほのおのませいいぐにす",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上に表側表示で存在する炎属性モンスター１体をリリースして発動する。自分の墓地に存在する炎属性モンスターの数×１００ポイントダメージを相手ライフに与える。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/09/19",
+  "species_id": 4,
+  "starchip": "4"
+}

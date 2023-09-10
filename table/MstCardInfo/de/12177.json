@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 12177,
+  "card_name": "Drachenbindung",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Aktiviere diese Karte, indem du 1 Monster vom Typ Drache mit 2500 oder weniger ATK und DEF wählst, das du kontrollierst; kein Spieler kann Monster, deren ATK kleiner oder gleich den Grund-ATK des Monsters sind, als Spezialbeschwörung beschwören. Wenn das Monster das Spielfeld verlässt, zerstöre diese Karte.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/01/14",
+  "species_id": 25,
+  "starchip": "0"
+}

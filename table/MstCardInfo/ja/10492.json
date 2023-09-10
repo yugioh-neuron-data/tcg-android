@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 3,
+  "card_id": 10492,
+  "card_name": "イーグル・シャーク",
+  "card_name_label": "イーグル・シャーク",
+  "card_name_search": "いーぐるしゃーく",
+  "card_pen_effect": "",
+  "card_text": "相手フィールド上のモンスターが２体以上の場合、このカードはリリースなしで召喚できる。また、自分フィールド上に「パンサー・シャーク」が存在する場合、このカードは手札から特殊召喚できる。「イーグル・シャーク」は自分フィールド上に１体しか表側表示で存在できない。",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/02/16",
+  "species_id": 8,
+  "starchip": "5"
+}

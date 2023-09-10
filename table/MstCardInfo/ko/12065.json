@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 4,
+  "card_id": 12065,
+  "card_name": "레드 와이반",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "튜너 ＋ 튜너 이외의 몬스터 1장 이상$N①: 싱크로 소환한 이 카드가 필드에 앞면 표시로 존재하는 한 1번만, 이 카드보다 공격력이 높은 몬스터가 필드에 존재할 경우에 발동할 수 있다. 필드의 공격력이 가장 높은 몬스터 1장을 파괴한다. 이 효과는 상대 턴에도 발동할 수 있다.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/12/24",
+  "species_id": 1,
+  "starchip": "6"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15058,
+  "card_name": "Festival Floreciente",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Excava las cartas de la parte superior de tu Deck igual al número de \"Festival Floreciente\" en tu Cementerio + 3, y si excavaste al menos 1 Monstruo, 1 Mágica, y 1 Trampa, añade a tu mano 1 de ellas y manda las otras cartas al Cementerio. Si no lo hiciste, baraja a tu Deck todas las cartas excavadas. Sólo puedes activar 1 \"Festival Floreciente\" por turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/30",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15045,
+  "card_name": "Scale di Posta",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante la tua Main Phase: puoi attivare questo effetto; scarta 1 carta \"Tindangolo\" e, se lo fai, applica 1 di questi effetti.$N●Metti scoperto in Posizione di Attacco 1 mostro coperto in Posizione di Difesa che controlli.$N●Metti coperto in Posizione di Difesa 1 mostro scoperto in Posizione di Attacco che controlli.$NIn questo turno, non puoi scartare un'altra carta con lo stesso nome per l'effetto di \"Scale di Posta\" (anche se questa carta lascia il Terreno).",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/30",
+  "species_id": 24,
+  "starchip": "0"
+}

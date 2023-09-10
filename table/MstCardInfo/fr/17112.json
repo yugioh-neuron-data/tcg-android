@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 2,
+  "card_id": 17112,
+  "card_name": "Classikuriboh Potartiste",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Lorsqu'un monstre de l'adversaire déclare une attaque directe, cette carte est détruite.",
+  "card_text": "Si cette carte est détruite par son propre Effet Pendule : terminez la Battle Phase. Vous ne pouvez utiliser chacun des effets suivants de \"Classikuriboh Potartiste\" qu'une fois par tour. Vous pouvez défausser cette carte, puis ciblez 1 carte dans votre Zone Pendule ; jusqu'à la fin de ce tour, son Échelle Pendule devient 1. Lorsque vous recevez des dommages de combat tant que cette carte est dans votre Cimetière : vous pouvez placer cette carte dans votre Zone Pendule.",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "8",
+  "pen_scale_r": "8",
+  "sales_at": "2023/06/22",
+  "species_id": 3,
+  "starchip": "1"
+}

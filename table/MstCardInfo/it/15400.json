@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 4,
+  "card_id": 15400,
+  "card_name": "Apparecchio Asciuga Draghetto",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 mostro \"Apparecchio\"$NNon può essere utilizzato come Materiale Link nel turno in cui viene Evocato Link. Questa carta linkata guadagna 1000 ATK. Una volta per turno, durante la tua Battle Phase, se questa carta è co-linkata (eccetto durante il Damage Step): puoi scambiare di posto 2 mostri \"Apparecchio\" nelle tue Zone Mostri Main, compresa questa carta e, se lo fai, l'altro mostro può effettuare un secondo attacco durante ogni Battle Phase in questo turno. Una volta per turno, quando questa carta non co-linkata viene scelta come bersaglio per un attacco: puoi annullare quell'attacco.",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "9",
+  "linkno": "1",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/07/23",
+  "species_id": 7,
+  "starchip": ""
+}

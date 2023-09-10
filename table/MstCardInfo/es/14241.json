@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 4,
+  "card_id": 14241,
+  "card_name": "Salamangrande Rotante",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si controlas una carta \"Salamangrande\": puedes descartar esta carta, y después seleccionar 1 monstruo boca arriba en el Campo; éste gana 500 ATK hasta el final de este turno. Si controlas un monstruo \"Salamangrande\" que no sea \"Salamangrande Rotante\" y esta carta está en tu Cementerio: puedes Invocar esta carta de Modo Especial, pero destiérrala cuando deje el Campo. Sólo puedes usar cada efecto de \"Salamangrande Rotante\" una vez por turno.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/02/14",
+  "species_id": 27,
+  "starchip": "3"
+}

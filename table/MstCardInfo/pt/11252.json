@@ -1,0 +1,23 @@
+{
+  "attack_power": "1300",
+  "attribute_id": 6,
+  "card_id": 11252,
+  "card_name": "Hipnotirmãzar",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Este card ganha efeitos de acordo com o número total de cards nas Zonas de Pêndulo dos dois duelistas.$N●1 ou mais: Este card ganha 800 de ATK e DEF.$N●2 ou mais: No começo da Etapa de Dano, se este card batalhar um monstro Invocado por Invocação-Pêndulo: destrua esse monstro.$N●3 ou mais: Os monstros que o seu oponente controla devem atacar este card, se possível.$N●4: Se este card destruir um monstro em batalha ou por um efeito dele mesmo: compre 1 card.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/08/15",
+  "species_id": 21,
+  "starchip": "4"
+}

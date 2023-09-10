@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 1,
+  "card_id": 11123,
+  "card_name": "월화룡 블랙 로즈",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "튜너 ＋ 튜너 이외의 몬스터 1장 이상$N\"월화룡 블랙 로즈\"의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 특수 소환에 성공했을 경우, 또는 상대 필드에 레벨 5 이상의 몬스터가 특수 소환되었을 경우, 상대 필드의 특수 소환된 몬스터 1장을 대상으로 하고 발동한다. 그 상대 필드의 몬스터를 주인의 패로 되돌린다.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/04/16",
+  "species_id": 1,
+  "starchip": "7"
+}

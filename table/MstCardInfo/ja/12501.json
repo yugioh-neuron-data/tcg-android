@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 1,
+  "card_id": 12501,
+  "card_name": "ゴールド・ガジェット",
+  "card_name_label": "ゴールド・ガジェット",
+  "card_name_search": "ごーるどがじぇっと",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：このカードが召喚・特殊召喚に成功した時に発動できる。手札から機械族・レベル４モンスター１体を特殊召喚する。②：このカードが戦闘・効果で破壊された場合に発動できる。デッキから「ゴールド・ガジェット」以外のレベル４の「ガジェット」モンスター１体を特殊召喚する。",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/04/23",
+  "species_id": 7,
+  "starchip": "4"
+}

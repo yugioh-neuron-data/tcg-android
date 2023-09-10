@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 17480,
+  "card_name": "現世離レ",
+  "card_name_label": "ウツシヨバナレ",
+  "card_name_search": "うつしよばなれ",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。$N①：相手フィールドのカード１枚と相手の墓地のカード１枚を対象として発動できる。対象のフィールドのカードを墓地へ送り、対象の墓地のカードを相手フィールドにセットする。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/04/23",
+  "species_id": 25,
+  "starchip": "0"
+}

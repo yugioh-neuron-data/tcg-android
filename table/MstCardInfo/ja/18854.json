@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 18854,
+  "card_name": "アクアの輪唱",
+  "card_name_label": "アクアのりんしょう",
+  "card_name_search": "あくあのりんしょう",
+  "card_pen_effect": "",
+  "card_text": "①：自分の手札を１枚選んで除外する。次の自分スタンバイフェイズに、この効果で除外したカードの同名カードを２枚までデッキから手札に加える事ができる。相手フィールドにカードが存在しない状態でこのカードを発動した場合、発動したターンの終了時まで自分はこの効果で除外したカード及びそのカードと元々のカード名が同じカードの効果を発動できない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/04/22",
+  "species_id": 24,
+  "starchip": "0"
+}

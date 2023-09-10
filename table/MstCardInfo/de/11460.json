@@ -1,0 +1,23 @@
+{
+  "attack_power": "2600",
+  "attribute_id": 2,
+  "card_id": 11460,
+  "card_name": "D/D/D-Rebellenkönig Leonidas",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Wenn du Effektschaden erhältst (außer während des Damage Steps): Du kannst diese Karte zerstören und falls du dies tust, erhöht jeder Effekt, der einem Spieler in diesem Spielzug Schaden zufügen würde, stattdessen seine LP um dieselbe Menge.",
+  "card_text": "Wenn du Effektschaden erhältst (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören und falls du dies tust, erhältst du LP in Höhe des Schadens, den du erhalten hast. Du erhältst keinen Effektschaden.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2015/11/05",
+  "species_id": 3,
+  "starchip": "7"
+}

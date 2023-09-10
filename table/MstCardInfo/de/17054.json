@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 3,
+  "card_id": 17054,
+  "card_name": "Marinzessin Schläfrige Maid",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Du kannst 1 „Marinzessin“-Karte wählen, die du kontrollierst; beschwöre diese Karte als Spezialbeschwörung von deiner Hand und falls du dies tust, erhält sie diesen Effekt.$N●Solange diese Karte in der Monsterzone liegt, kann die als Ziel gewählte Karte nicht durch Karteneffekte deines Gegners zerstört werden.$NDu kannst diese Karte von deinem Friedhof verbannen und dann 1 „Marinzessin“-Linkmonster wählen, das du kontrollierst; rüste es mit 1 „Marinzessin“-Linkmonster von deinem Friedhof aus. Du kannst jeden Effekt von „Marinzessin Schläfrige Maid“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/06/16",
+  "species_id": 27,
+  "starchip": "5"
+}

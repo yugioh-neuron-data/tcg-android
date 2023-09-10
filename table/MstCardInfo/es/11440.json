@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 2,
+  "card_id": 11440,
+  "card_name": "D/D Aullido Nocturno",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando esta carta es Invocada de Modo Normal: puedes seleccionar 1 monstruo \"D/D\" en tu Cementerio; Invócalo de Modo Especial, y además por el resto de este turno no puedes Invocar monstruos de Modo Especial, excepto monstruos de Tipo Demonio. El ATK y la DEF de ese monstruo se convierten en 0. Si es destruido, recibes 1000 puntos de daño.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/01/19",
+  "species_id": 3,
+  "starchip": "3"
+}

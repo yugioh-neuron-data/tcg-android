@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 5,
+  "card_id": 12881,
+  "card_name": "Camarartista de Baladas",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Uma vez por turno, no começo da Etapa de Dano, quando seu monstro \"Camarartista\" batalhar um monstro com a face para cima do oponente: você pode fazer com que esse monstro do oponente perca 600 de ATK (mesmo que este card deixe o campo).",
+  "card_text": "Se seu monstro \"Camarartista\" atacou, depois do cálculo de dano: você pode escolher 1 monstro com a face para cima que seu oponente controla; o alvo perde ATK igual ao ATK desse monstro \"Camarartista\".",
+  "defense_power": "1100",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "2",
+  "pen_scale_r": "2",
+  "sales_at": "2017/05/25",
+  "species_id": 13,
+  "starchip": "3"
+}

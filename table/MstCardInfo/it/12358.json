@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 3,
+  "card_id": 12358,
+  "card_name": "Ragazza Maga Cioccolato",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Una volta per turno: puoi scartare 1 mostro di Tipo Incantatore; pesca 1 carta. Una volta per turno, se questa carta viene scelta come bersaglio per un attacco: puoi scegliere come bersaglio 1 mostro di Tipo Incantatore nel tuo Cimitero, eccetto \"Ragazza Maga Cioccolato\"; Evocalo Specialmente, poi cambia il bersaglio dell'attacco su di esso e, se lo fai, l'ATK del mostro attaccante diventa la metà del suo ATK attuale.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/07/21",
+  "species_id": 18,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2200",
+  "attribute_id": 1,
+  "card_id": 13594,
+  "card_name": "トリックスター・デビルフィニウム",
+  "card_name_label": "トリックスター・デビルフィニウム",
+  "card_name_search": "とりっくすたーでびるふぃにうむ",
+  "card_pen_effect": "",
+  "card_text": "「トリックスター」モンスター２体以上$N①：このカードのリンク先に「トリックスター」モンスターが存在する場合、このカードの攻撃宣言時に相手フィールドのリンクモンスターの数まで、除外されている自分の「トリックスター」カードを対象として発動できる。そのカードを手札に加える。このカードの攻撃力はターン終了時まで、この効果で手札に加えたカードの数×１０００アップする。",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "813",
+  "linkno": "3",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/01/13",
+  "species_id": 17,
+  "starchip": ""
+}

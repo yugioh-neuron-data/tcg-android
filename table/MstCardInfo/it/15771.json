@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 15771,
+  "card_name": "Cannone Equazione Lineare",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante la Battle Phase: dichiara un numero intero tra 1 e 6; seleziona 1 Mostro con Effetto controllato dal tuo avversario. Moltiplica il Livello del Mostro con Effetto x il numero dichiarato, poi aggiungi il numero di carte controllate dal tuo avversario e controlla se il risultato è pari al numero di carte nel tuo Cimitero.$N●Se sì: Manda carte dalla cima del tuo Deck al Cimitero fino al numero dichiarato e, se lo fai, mischia carte controllate dal tuo avversario nel Deck, fino al numero mandate al Cimitero.$N●Se no: Tu perdi LP pari al numero dichiarato x 500.$NPuoi attivare solo 1 \"Cannone Equazione Lineare\" per turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/02/04",
+  "species_id": 25,
+  "starchip": "0"
+}

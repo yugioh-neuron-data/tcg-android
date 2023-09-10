@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 6,
+  "card_id": 6989,
+  "card_name": "HÉROE Elemental Neos del Aire",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"HÉROE Elemental Neos\" + \"Colibrí Aéreo Neo Espacial\"$NEsta carta sólo puede ser Invocada de modo Especial desde tu Deck Extra devolviendo al Deck las cartas citadas arriba; tú debes controlarlas (no usas \"Polimerización\"). Mientras tus Life Points sean menos que los de tu adversario, esta carta gana ATK igual a la diferencia. Esta carta vuelve al Deck Extra durante la End Phase.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/02/28",
+  "species_id": 15,
+  "starchip": "7"
+}

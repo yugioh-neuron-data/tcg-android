@@ -1,0 +1,23 @@
+{
+  "attack_power": "1850",
+  "attribute_id": 3,
+  "card_id": 16207,
+  "card_name": "Bugiganga Arakami, o Porco Arauto do Granizo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se você controlar um monstro Máquina cujo ATK seja igual à sua própria DEF: você pode Invocar este card por Invocação-Especial da sua mão. Você pode banir este card do seu Cemitério e, depois, escolha 1 monstro Máquina que você controla cujo ATK seja igual à sua própria DEF; envie 1 monstro Máquina, cujo ATK seja igual à sua própria DEF, do seu Deck para o Cemitério, com um Nível menor que o do monstro alvo e, se isso acontecer, o monstro alvo ganha ATK/DEF igual ao Nível do monstro enviado para o Cemitério x 100. Você só pode usar cada efeito de \"Bugiganga Arakami, o Porco Arauto do Granizo\" uma vez por turno.",
+  "defense_power": "1850",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/08/12",
+  "species_id": 7,
+  "starchip": "4"
+}

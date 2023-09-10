@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 6542,
+  "card_name": "地獄の暴走召喚",
+  "card_name_label": "じごくのぼうそうしょうかん",
+  "card_name_search": "じごくのぼうそうしょうかん",
+  "card_pen_effect": "",
+  "card_text": "①：相手フィールドに表側表示モンスターが存在し、自分フィールドに攻撃力１５００以下のモンスター１体のみが特殊召喚された時に発動できる。その特殊召喚したモンスターの同名モンスターを自分の手札・デッキ・墓地から可能な限り攻撃表示で特殊召喚し、相手は自身のフィールドの表側表示モンスター１体を選び、そのモンスターの同名モンスターを自身の手札・デッキ・墓地から可能な限り特殊召喚する。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/10/20",
+  "species_id": 24,
+  "starchip": "0"
+}

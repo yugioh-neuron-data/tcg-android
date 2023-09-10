@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 17776,
+  "card_name": "Grillo Topo Naturia",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante la Main Phase (Efecto Rápido): puedes Sacrificar esta carta; Invoca de Modo Especial, desde tu Deck, 1 monstruo \"Naturia\", o puedes Invocar de Modo Especial 2 monstruos \"Naturia\" si tu adversario controla un monstruo con el mayor ATK en el Campo (aun si hay empate). Si tu adversario Invoca de Modo Especial uno o más monstruos desde el Deck Extra o tú Invocas de Modo Especial uno o más monstruos \"Naturia\" desde el Deck Extra, mientras esta carta está en tu Cementerio (excepto durante el Damage Step): puedes Invocar esta carta de Modo Especial. Sólo puedes usar cada efecto de \"Grillo Topo Naturia\" una vez por turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/10/20",
+  "species_id": 10,
+  "starchip": "1"
+}

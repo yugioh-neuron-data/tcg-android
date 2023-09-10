@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 4,
+  "card_id": 11941,
+  "card_name": "オッドアイズ・メテオバースト・ドラゴン",
+  "card_name_label": "オッドアイズ・メテオバースト・ドラゴン",
+  "card_name_search": "おっどあいずめておばーすとどらごん",
+  "card_pen_effect": "",
+  "card_text": "チューナー＋チューナー以外のモンスター１体以上$N「オッドアイズ・メテオバースト・ドラゴン」の①の効果は１ターンに１度しか使用できない。①：このカードが特殊召喚に成功した時、自分のPゾーンのカード１枚を対象として発動できる。そのカードを特殊召喚する。このターン、このカードは攻撃できない。②：このカードがモンスターゾーンに存在する限り、相手はバトルフェイズ中にモンスターの効果を発動できない。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/06/20",
+  "species_id": 1,
+  "starchip": "7"
+}

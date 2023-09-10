@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 10827,
+  "card_name": "Intercambio del Día y la Noche",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Sólo puedes usar 1 efecto de \"Intercambio del Día y la Noche\" por turno, y sólo una vez por turno. Puedes activar 1 de estos efectos;$N●Manda al Cementerio 1 monstruo de LUZ de Tipo Guerrero en tu mano, y después añade a tu mano, desde tu Deck, 1 monstruo de OSCURIDAD de Tipo Guerrero con el mismo Nivel que ese monstruo mandado tenía en tu mano.$N●Manda al Cementerio 1 monstruo de OSCURIDAD de Tipo Guerrero en tu mano, y después añade a tu mano, desde tu Deck, 1 monstruo de LUZ de Tipo Guerrero con el mismo Nivel que ese monstruo mandado tenía en tu mano.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/08/14",
+  "species_id": 25,
+  "starchip": "0"
+}

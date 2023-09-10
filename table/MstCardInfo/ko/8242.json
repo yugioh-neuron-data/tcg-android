@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 5,
+  "card_id": 8242,
+  "card_name": "나츄르 드래곤플라이",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드는 공격력 2000 이상의 몬스터와의 전투로는 파괴되지 않는다. 이 카드의 공격력은 자신의 묘지에 존재하는 \"나츄르\"라는 이름이 붙은 몬스터의 수 × 200 포인트 올린다.",
+  "defense_power": "400",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/07/12",
+  "species_id": 10,
+  "starchip": "4"
+}

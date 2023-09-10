@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 5,
+  "card_id": 5366,
+  "card_name": "Agido",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Quando este card é destruído como resultado de um combate e enviado para o Cemitério, lance um dado de seis lados. Você pode Invocar, por Invocação-Especial, 1 monstro do Tipo Fada do seu Cemitério cujo Nível seja igual ao resultado. Se o resultado for 6, você pode Invocar, por Invocação-Especial, um monstro de Nível 6 ou mais.",
+  "defense_power": "1300",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/03/01",
+  "species_id": 17,
+  "starchip": "4"
+}

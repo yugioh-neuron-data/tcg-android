@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 4,
+  "card_id": 11757,
+  "card_name": "炎帝家臣ベルリネス",
+  "card_name_label": "えんていかしんベルリネス",
+  "card_name_search": "えんていかしんべるりねす",
+  "card_pen_effect": "",
+  "card_text": "「炎帝家臣ベルリネス」の①②の効果はそれぞれ１ターンに１度しか使用できない。①：手札を１枚捨てて発動できる。このカードを手札から特殊召喚する。このターン、自分はエクストラデッキからモンスターを特殊召喚できない。②：このカードがアドバンス召喚のためにリリースされた場合に発動できる。相手の手札を確認し、その中からカード１枚を選んでエンドフェイズまで除外する。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/02/14",
+  "species_id": 4,
+  "starchip": "3"
+}

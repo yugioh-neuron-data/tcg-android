@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 1,
+  "card_id": 18478,
+  "card_name": "Nemleria Sonhadora",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Uma vez por turno, durante sua Fase Principal: você pode colocar 1 Magia Contínua \"Nemleria\" do seu Deck ou Cemitério com a face para cima no seu campo e, se isso acontecer, adicione este card ao seu Deck Adicional com a face para cima. Você não pode Invocar \"Nemleria Sonhadora\" por Invocação-Especial no turno em que ativar este efeito.",
+  "card_text": "Não pode ser Invocado por Invocação-Normal/Baixado. Deve ser Invocado por Invocação-Especial (com a face para cima do seu Deck Adicional) ao não ter nenhum card no seu Deck Adicional, exceto \"Nemleria Sonhadora\". Você só pode Invocar um ou mais \"Nemleria Sonhadora\" por Invocação-Especial uma vez por turno. Se este card for Invocado por Invocação-Especial: para cada 3 dos seus cards banidos com a face para baixo, você pode banir até 1 card do campo e/ou Cemitério do seu oponente, com a face para baixo e, depois, embaralhe no seu Deck 1 dos seus cards banidos com a face para baixo para cada card que você baniu com este efeito.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 40,
+  "pen_scale_l": "8",
+  "pen_scale_r": "8",
+  "sales_at": "2023/05/04",
+  "species_id": 17,
+  "starchip": "1"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 3,
+  "card_id": 9381,
+  "card_name": "リチュア・ノエリア",
+  "card_name_label": "リチュア・ノエリア",
+  "card_name_search": "りちゅあのえりあ",
+  "card_pen_effect": "",
+  "card_text": "このカードが召喚に成功した時、自分のデッキの上からカードを５枚めくる事ができる。めくったカードの中に儀式魔法カードまたは「リチュア」と名のついたモンスターカードがあった場合、それらのカードを全て墓地へ送る。残りのカードは好きな順番でデッキの一番下に戻す。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/12/01",
+  "species_id": 18,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 3,
+  "card_id": 15005,
+  "card_name": "Kreissägenhai",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Du kannst 1 WASSER Monster wählen, das du kontrollierst; beschwöre 1 Fisch-Monster mit derselben Stufe wie jenes Monster, aber einem unterschiedlichen Namen als Spezialbeschwörung von deinem Deck in die Verteidigungsposition und falls du dies tust, können seine Effekte in diesem Spielzug nicht aktiviert werden, zusätzlich kannst du für den Rest dieses Spielzugs keine Monster als Spezialbeschwörung vom Extra Deck beschwören, außer Xyz-Monstern. Du kannst diesen Effekt von „Kreissägenhai“ nur einmal pro Spielzug verwenden. Falls diese Karte für die Xyz-Beschwörung eines WASSER Monsters verwendet wird, kann sie als Monster der Stufe 3 oder 5 behandelt werden.",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/30",
+  "species_id": 8,
+  "starchip": "4"
+}

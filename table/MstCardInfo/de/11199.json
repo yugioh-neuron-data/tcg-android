@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 1,
+  "card_id": 11199,
+  "card_name": "Bujingi Sinyou",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Während des Damage Steps eines beliebigen Spielers, falls ein „Bujin“-Monster vom Typ Ungeheuer-Krieger, das du kontrollierst, gegen ein Monster deines Gegners kämpft: Du kannst diese Karte von deinem Friedhof verbannen; das Monster, das du kontrollierst, erhält bis zum Ende des Damage Steps ATK in Höhe der derzeitigen ATK des Monsters deines Gegners, gegen das es kämpft, und falls es das tut, wird der Kampfschaden halbiert, den dein Gegner aus dem Kampf erhält. Du kannst diesen Effekt von „Bujingi Sinyou“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/05/15",
+  "species_id": 11,
+  "starchip": "4"
+}

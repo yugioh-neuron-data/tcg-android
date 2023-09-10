@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 13113,
+  "card_name": "Lavage de Cerveau du Monde Ténébreux",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsque votre adversaire active un effet de monstre, si vous avez min. 3 cartes dans votre main (sauf durant la Damage Step) : vous pouvez cibler 1 monstre \"Monde Ténébreux\" sur le Terrain ; renvoyez-le à la main, et si vous le faites, l'effet activé devient \"Votre adversaire défausse 1 carte au hasard\".",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/08/03",
+  "species_id": 25,
+  "starchip": "0"
+}

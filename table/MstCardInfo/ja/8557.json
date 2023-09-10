@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 1,
+  "card_id": 8557,
+  "card_name": "魔轟神獣ガナシア",
+  "card_name_label": "まごうしんじゅうガナシア",
+  "card_name_search": "まごうしんじゅうがなしあ",
+  "card_pen_effect": "",
+  "card_text": "このカードが手札から墓地へ捨てられた時、このカードを墓地から特殊召喚する。この効果で特殊召喚したこのカードの攻撃力は２００ポイントアップし、フィールド上から離れた場合ゲームから除外される。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/10/01",
+  "species_id": 11,
+  "starchip": "3"
+}

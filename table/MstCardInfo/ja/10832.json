@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 10832,
+  "card_name": "ドドドガッサー",
+  "card_name_label": "ドドドガッサー",
+  "card_name_search": "どどどがっさー",
+  "card_pen_effect": "",
+  "card_text": "反転召喚したこのカードがフィールド上に表側表示で存在する限り、このカードの攻撃力は３５００ポイントアップする。また、このカードがリバースした時、フィールド上に表側表示で存在するモンスターを２体まで選択して発動できる。選択したモンスターを破壊する。",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/09/21",
+  "species_id": 15,
+  "starchip": "8"
+}

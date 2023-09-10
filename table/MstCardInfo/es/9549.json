@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 9549,
+  "card_name": "Zona Segura",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Activa esta carta seleccionando 1 monstruo en Posición de Ataque boca arriba en el Campo; ese monstruo boca arriba no puede ser destruido en batalla o por efectos de cartas de tu adversario, tu adversario no puede seleccionarlo con efectos de cartas, y además no puede atacar a tu adversario directamente. Cuando esta carta deja el Campo, destruye ese monstruo. Cuando ese monstruo deja el Campo, destruye esta carta.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/05/05",
+  "species_id": 25,
+  "starchip": "0"
+}

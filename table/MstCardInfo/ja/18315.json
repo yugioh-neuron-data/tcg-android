@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 18315,
+  "card_name": "ホールティアの蟲惑魔",
+  "card_name_label": "ホールティアのこわくま",
+  "card_name_search": "ほーるてぃあのこわくま",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。このカードは手札から通常罠カード１枚を捨て、セットしたターンに発動する事もできる。①：このカードは発動後、通常モンスター（植物族・地・星４・攻４００／守２４００）となり、モンスターゾーンに守備表示で特殊召喚する（罠カードとしては扱わない）。②：墓地のこのカードを除外し、自分の墓地の「蟲惑魔」モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/12/03",
+  "species_id": 25,
+  "starchip": "0"
+}

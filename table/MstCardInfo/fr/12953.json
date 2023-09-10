@@ -1,0 +1,23 @@
+{
+  "attack_power": "4000",
+  "attribute_id": 2,
+  "card_id": 12953,
+  "card_name": "Z-ARC, Roi Suprême",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Les Monstres Fusion, Synchro et Xyz contrôlés par votre adversaire ne peuvent pas activer leurs effets. Une fois par tour, lorsqu'une ou plusieurs cartes sont ajoutées depuis le Main Deck à la main de votre adversaire (sauf durant la Draw Phase ou la Damage Step) : vous pouvez détruire ces cartes.",
+  "card_text": "4 monstres Dragon (1 Fusion, 1 Synchro, 1 Xyz et 1 Pendule)$NUniquement Invocable par Fusion. Si cette carte est Invoquée Spécialement : détruisez toutes les cartes contrôlées par votre adversaire. Non destructible par des effets de carte de votre adversaire. Votre adversaire ne peut pas cibler cette carte avec des effets de carte. Lorsque cette carte détruit un monstre de l'adversaire au combat : vous pouvez Invoquer Spécialement 1 monstre \"Roi Suprême du Dragon\" depuis votre Deck ou Extra Deck. Si cette carte dans la Zone Monstre est détruite au combat ou par un effet de carte : vous pouvez placer cette carte dans votre Zone Pendule.",
+  "defense_power": "4000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 41,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2017/05/04",
+  "species_id": 1,
+  "starchip": "12"
+}

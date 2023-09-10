@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 3,
+  "card_id": 10353,
+  "card_name": "フラッピィ",
+  "card_name_label": "フラッピィ",
+  "card_name_search": "ふらっぴぃ",
+  "card_pen_effect": "",
+  "card_text": "このカードが召喚に成功した時、デッキから「フラッピィ」１体を墓地へ送る事ができる。また、自分の墓地の「フラッピィ」及びゲームから除外されている自分の「フラッピィ」の合計が３体の場合、墓地のこのカードをゲームから除外して発動できる。自分の墓地の海竜族・レベル５以上のモンスター１体を選択して特殊召喚する。「フラッピィ」のこの効果は１ターンに１度しか使用できない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/05/18",
+  "species_id": 14,
+  "starchip": "2"
+}

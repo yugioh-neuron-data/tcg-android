@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 8616,
+  "card_name": "血涙のオーガ",
+  "card_name_label": "けつるいのオーガ",
+  "card_name_search": "けつるいのおーが",
+  "card_pen_effect": "",
+  "card_text": "相手ターンの１度のバトルフェイズ中に２回目の直接攻撃が宣言された時、このカードを手札から特殊召喚する事ができる。この効果で特殊召喚に成功した時、このカードの攻撃力・守備力はこのターンに１回目の直接攻撃を行った、フィールド上に表側表示で存在するモンスターと同じ数値になる。このターン、この効果で特殊召喚したこのカードがフィールド上に表側表示で存在する限り、相手はこのカード以外のモンスターを攻撃対象に選択する事はできない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/11/14",
+  "species_id": 3,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11090,
+  "card_name": "アーティファクトの解放",
+  "card_name_label": "アーティファクトのかいほう",
+  "card_name_search": "あーてぃふぁくとのかいほう",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上の「アーティファクト」と名のついたモンスター２体を選択して発動できる。選択したモンスター２体のみを素材としてエクシーズモンスター１体をエクシーズ召喚する。このカードを発動したターン、「アーティファクト」と名のついたモンスター以外の自分フィールド上のモンスターは攻撃できない。また、このカードが相手によって破壊された場合、手札の光属性・レベル５モンスター１体を相手に見せて発動できる。デッキからカードを１枚ドローする。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/02/15",
+  "species_id": 24,
+  "starchip": "0"
+}

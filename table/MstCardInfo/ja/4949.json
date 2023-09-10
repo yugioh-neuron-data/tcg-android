@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 4949,
+  "card_name": "ゴブリンの小役人",
+  "card_name_label": "ゴブリンのこやくにん",
+  "card_name_search": "ごぶりんのこやくにん",
+  "card_pen_effect": "",
+  "card_text": "相手のライフポイントが３０００ポイント以下の場合に発動する事ができる。相手のスタンバイフェイズ毎に相手ライフに５００ポイントダメージを与える。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2000/12/14",
+  "species_id": 25,
+  "starchip": "0"
+}

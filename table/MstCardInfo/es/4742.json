@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 2,
+  "card_id": 4742,
+  "card_name": "Esfera Explosiva",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Antes del cálculo de daño, si esta carta en Posición de Defensa boca abajo fue atacada por un monstruo del adversario: equipa esta carta al monstruo atacante. Después, durante la próxima Standby Phase de tu adversario: destruye el monstruo equipado con esta carta y, si lo haces, inflige daño a tu adversario igual al ATK que el monstruo destruido tenía en el Campo.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/02/18",
+  "species_id": 7,
+  "starchip": "4"
+}

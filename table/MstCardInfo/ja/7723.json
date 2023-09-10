@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 1,
+  "card_id": 7723,
+  "card_name": "ライトロード・プリースト ジェニス",
+  "card_name_label": "ライトロード・プリースト　ジェニス",
+  "card_name_search": "らいとろーどぷりーすとじぇにす",
+  "card_pen_effect": "",
+  "card_text": "「ライトロード」と名のついたカードの効果によって自分のデッキからカードが墓地へ送られたターンのエンドフェイズ時、相手ライフに５００ポイントダメージを与え、自分は５００ライフポイント回復する。",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/04/19",
+  "species_id": 18,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 1,
+  "card_id": 10044,
+  "card_name": "聖刻龍－ネフテドラゴン",
+  "card_name_label": "せいこくりゅう－ネフテドラゴン",
+  "card_name_search": "せいこくりゅうねふてどらごん",
+  "card_pen_effect": "",
+  "card_text": "このカードは自分フィールド上の「聖刻」と名のついたモンスター１体をリリースして手札から特殊召喚できる。１ターンに１度、このカード以外の自分の手札・フィールド上の「聖刻」と名のついたモンスター１体をリリースする事で、相手フィールド上のモンスター１体を選択して破壊する。また、このカードがリリースされた時、自分の手札・デッキ・墓地からドラゴン族の通常モンスター１体を選び、攻撃力・守備力を０にして特殊召喚する。",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/02/18",
+  "species_id": 1,
+  "starchip": "5"
+}

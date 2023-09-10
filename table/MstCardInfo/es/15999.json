@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 4,
+  "card_id": 15999,
+  "card_name": "Estrella Pirotecnia",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Cantante + 1+ monstruos que no sean Cantantes$NSólo puedes Invocar de Modo Especial uno o más \"Estrella Pirotecnia\" una vez por turno. Si esta carta en posesión de su dueño es destruida por un ataque o el efecto de una carta del adversario: recibes 2000 puntos de daño, y después inflige 2000 puntos de daño a tu adversario. Si un monstruo en la zona adyacente a la de esta carta es destruido por el ataque o el efecto de una carta de tu adversario: destruye esta carta y, si lo haces, recibe 2000 puntos de daño, y después inflige 2000 puntos de daño a tu adversario.",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/06/03",
+  "species_id": 4,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13174,
+  "card_name": "Llamada Amazoness",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Toma 1 carta \"Amazoness\" en tu Deck, excepto \"Llamada Amazoness\", y añádela a tu mano o mándala al Cementerio. Durante tu Main Phase: puedes desterrar esta carta en tu Cementerio, y después seleccionar 1 monstruo \"Amazoness\" que controles; este turno, ese monstruo puede atacar una vez a cada uno de los monstruos que controle tu adversario, y además los otros monstruos que tú controles no pueden atacar. Sólo puedes activar 1 \"Llamada Amazoness\" por turno.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/09/07",
+  "species_id": 24,
+  "starchip": "0"
+}

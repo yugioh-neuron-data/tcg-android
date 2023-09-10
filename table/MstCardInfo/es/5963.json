@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 2,
+  "card_id": 5963,
+  "card_name": "Enterrador de Agujas",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando esta carta destruye un monstruo como resultado de una batalla y lo manda al Cementerio, inflige daño a los Life Points de tu adversario igual al Nivel del monstruo destruido x 500 puntos.",
+  "defense_power": "1700",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/06/01",
+  "species_id": 7,
+  "starchip": "5"
+}

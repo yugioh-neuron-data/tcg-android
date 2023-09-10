@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 8679,
+  "card_name": "栄誉の贄",
+  "card_name_label": "えいよのにえ",
+  "card_name_search": "えいよのにえ",
+  "card_pen_effect": "",
+  "card_text": "自分のライフポイントが３０００以下の場合、相手が直接攻撃を宣言した時に発動する事ができる。そのモンスターの攻撃を無効にし、自分フィールド上に「贄の石碑トークン」（岩石族・地・星１・攻／守０）２体を特殊召喚し、自分のデッキから「地縛神」と名のついたカード１枚を手札に加える。「贄の石碑トークン」は、「地縛神」と名のついたモンスターのアドバンス召喚以外のためにはリリースできず、シンクロ素材とする事もできない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/11/14",
+  "species_id": 25,
+  "starchip": "0"
+}

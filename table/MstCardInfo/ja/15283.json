@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15283,
+  "card_name": "走破するガイア",
+  "card_name_label": "そうはするガイア",
+  "card_name_search": "そうはするがいあ",
+  "card_pen_effect": "",
+  "card_text": "このカード名の②の効果は１ターンに１度しか使用できない。①：自分のモンスターゾーンに「竜騎士ガイア」が存在する限り、相手はバトルフェイズ中に効果を発動できない。②：以下の効果から１つを選択して発動できる。$N●手札の「暗黒騎士ガイア」モンスター１体を相手に見せて発動できる。デッキからドラゴン族・レベル５モンスター１体を手札に加える。$N●手札のドラゴン族・レベル５モンスター１体を相手に見せて発動できる。デッキから「暗黒騎士ガイア」モンスター１体を手札に加える。",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/18",
+  "species_id": 24,
+  "starchip": "0"
+}

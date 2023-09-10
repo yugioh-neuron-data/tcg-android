@@ -1,0 +1,23 @@
+{
+  "attack_power": "3300",
+  "attribute_id": 3,
+  "card_id": 11489,
+  "card_name": "Nekroz di Armatura Decisiva",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Puoi Evocare tramite Rituale questa carta con qualsiasi Carta Magia Rituale \"Nekroz\". Deve essere Evocato tramite Rituale senza utilizzare nessun mostro di Livello 10, e non può essere Evocato Specialmente in altri modi. Puoi utilizzare ognuno di questi effetti di \"Nekroz di Armatura Decisiva\" una sola volta per turno.$N●Durante il turno di qualsiasi giocatore: puoi scartare questa carta, poi scegliere come bersaglio 1 mostro \"Nekroz\" che controlli; esso guadagna 1000 ATK e DEF fino alla fine di questo turno.$N●Puoi scegliere come bersaglio 1 carta Posizionata controllata dal tuo avversario; distruggila e, se lo fai, bandiscila.",
+  "defense_power": "2300",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 5,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/02/12",
+  "species_id": 1,
+  "starchip": "10"
+}

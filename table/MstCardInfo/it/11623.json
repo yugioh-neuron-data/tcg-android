@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11623,
+  "card_name": "Pugno Frammento",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Scegli come bersaglio 1 \"Guerriero Rottame\" che controlli; se esso combatte con un mostro dell'avversario in questo turno mentre tu lo controlli, applica questi effetti.$N●Il tuo avversario non può attivare carte o effetti fino alla fine del Damage Step.$N●Se esso attacca un mostro in Posizione di Difesa, infliggi danno da combattimento perforante al tuo avversario.$N●Raddoppia qualsiasi danno da combattimento subito dal tuo avversario.$N●Non può essere distrutto in battaglia.$N●Distruggi il mostro dell'avversario che ha combattuto con lui alla fine del Damage Step.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/08/27",
+  "species_id": 24,
+  "starchip": "0"
+}

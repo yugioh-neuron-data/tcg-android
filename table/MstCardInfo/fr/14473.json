@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 14473,
+  "card_name": "Hydre Reptilia",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si cette carte est dans votre main et que tous les monstres que vous contrôlez sont des monstres Reptile face recto (min. 1) : vous pouvez cibler 1 monstre face recto contrôlé par votre adversaire ; changez son ATK à 0, et si vous le faites, Invoquez Spécialement cette carte, puis recevez des dommages égaux à l'ATK d'origine du monstre. Si cette carte est envoyée au Cimetière comme Matériel Synchro : vous pouvez cibler max. 2 monstres face recto sur le Terrain ; changez leur ATK à 0. Vous ne pouvez utiliser qu'1 effet de \"Hydre Reptilia\" par tour, et uniquement une fois le tour.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/07/26",
+  "species_id": 20,
+  "starchip": "2"
+}

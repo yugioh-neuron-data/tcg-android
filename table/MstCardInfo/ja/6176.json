@@ -1,0 +1,23 @@
+{
+  "attack_power": "2300",
+  "attribute_id": 1,
+  "card_id": 6176,
+  "card_name": "創世神",
+  "card_name_label": "ザ・クリエイター",
+  "card_name_search": "ざくりえいたー",
+  "card_pen_effect": "",
+  "card_text": "自分の墓地からモンスターを１体選択する。手札を１枚墓地に送り、選択したモンスター１体を特殊召喚する。この効果は１ターンに１度しか使用できない。このカードは墓地からの特殊召喚はできない。",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/08/05",
+  "species_id": 19,
+  "starchip": "8"
+}

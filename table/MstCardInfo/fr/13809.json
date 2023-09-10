@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13809,
+  "card_name": "Pantoufles de Verre",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si cette carte est équipée à un monstre Elfe, il gagne 1000 ATK. Si cette carte est équipée à un monstre non-Elfe, il ne peut pas attaquer, et aussi, il perd 1000 ATK. Si cette carte est envoyée au Cimetière parce que le monstre équipé est détruit : vous pouvez cibler 1 \"Prinzessin\" que vous contrôlez ; équipez cette carte à la cible. Vous ne pouvez utiliser cet effet de \"Pantoufles de Verre\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/06/28",
+  "species_id": 24,
+  "starchip": "0"
+}

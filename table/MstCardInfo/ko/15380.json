@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 1,
+  "card_id": 15380,
+  "card_name": "No.1 게이트 오브 누메론－에캄",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "레벨 1 몬스터 × 3$N①: 이 카드는 전투로는 파괴되지 않는다. ②: 이 카드가 상대 몬스터와 전투를 실행한 데미지 스텝 종료시에 이 카드의 엑시즈 소재를 1개 제거하고 발동할 수 있다. 자신 필드의 모든 \"누메론\" 몬스터의 공격력은 턴 종료시까지 배가 된다.",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/09/09",
+  "species_id": 7,
+  "starchip": "1"
+}

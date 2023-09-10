@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 2,
+  "card_id": 6410,
+  "card_name": "Van'Dalgyon, o Senhor do Dragão Negro",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se você negar a ativação de um ou mais Cards de Magia/Armadilha do oponente ou de um ou mais efeitos de monstro do oponente, com um Card de Resposta (exceto durante a Etapa de Dano): você pode Invocar este card por Invocação-Especial da sua mão. Se Invocado desta forma, ative esses efeitos e resolva-os em sequência, dependendo do(s) tipo(s) de card(s) negado(s) pela Armadilha de Resposta:$N●Magia: Cause 1500 de dano ao seu oponente.$N●Armadilha: Escolha 1 card que seu oponente controla; destrua o alvo.$N●Monstro: Escolha 1 monstro no seu Cemitério; Invoque-o por Invocação-Especial.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/12/05",
+  "species_id": 1,
+  "starchip": "8"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 1,
+  "card_id": 9864,
+  "card_name": "フォトン・サーベルタイガー",
+  "card_name_label": "フォトン・サーベルタイガー",
+  "card_name_search": "ふぉとんさーべるたいがー",
+  "card_pen_effect": "",
+  "card_text": "このカードが召喚・反転召喚に成功した時、デッキから「フォトン・サーベルタイガー」１体を手札に加える事ができる。自分フィールド上にこのカード以外の「フォトン・サーベルタイガー」が存在しない場合、このカードの攻撃力は８００ポイントダウンする。",
+  "defense_power": "300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/10/13",
+  "species_id": 11,
+  "starchip": "3"
+}

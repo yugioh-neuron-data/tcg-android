@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 5,
+  "card_id": 6876,
+  "card_name": "漆黒の魔王 LV４",
+  "card_name_label": "ダーク・ルシアス　レベル４",
+  "card_name_search": "だーくるしあすれべるふぉー",
+  "card_pen_effect": "",
+  "card_text": "このカードが戦闘によって破壊した相手モンスターの効果は無効化される。このカードがモンスターを戦闘によって破壊した次の自分ターンのスタンバイフェイズ時、このカードを墓地に送る事で「漆黒の魔王 LV６」１体を手札またはデッキから特殊召喚する。",
+  "defense_power": "300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/08/10",
+  "species_id": 3,
+  "starchip": "4"
+}

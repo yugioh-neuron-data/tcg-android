@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 3,
+  "card_id": 11035,
+  "card_name": "ゲイザー・シャーク",
+  "card_name_label": "ゲイザー・シャーク",
+  "card_name_search": "げいざーしゃーく",
+  "card_pen_effect": "",
+  "card_text": "墓地のこのカードをゲームから除外し、「ゲイザー・シャーク」以外の自分の墓地の水属性・レベル５モンスター２体を選択して発動できる。選択したモンスター２体の効果を無効にして特殊召喚し、その２体のみを素材として水属性のエクシーズモンスター１体をエクシーズ召喚する。「ゲイザー・シャーク」の効果は１ターンに１度しか使用できない。",
+  "defense_power": "1900",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/02/15",
+  "species_id": 8,
+  "starchip": "5"
+}

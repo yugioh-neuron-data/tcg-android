@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 5,
+  "card_id": 13068,
+  "card_name": "Furet Sauveteur",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Vous pouvez mélanger cette carte que vous contrôlez dans le Deck ; Invoquez Spécialement un ou plusieurs monstres (\"Furet Sauveteur\" exclu) depuis votre Deck, dont le Niveau total est égal à 6, dans vos zones pointées par un ou plusieurs Monstres Lien, mais ces monstres Invoqués ont leurs effets annulés, et aussi, détruisez-les durant la End Phase. Vous ne pouvez utiliser cet effet de \"Furet Sauveteur\" qu'une fois par tour.",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/08/03",
+  "species_id": 11,
+  "starchip": "4"
+}

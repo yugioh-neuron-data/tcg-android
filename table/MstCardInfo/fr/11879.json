@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11879,
+  "card_name": "Monde des Rêves",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cette carte peut activer ces effets selon les types de carte de monstre sur le Terrain.$N●Fusion : Une fois par tour, si un ou plusieurs monstres sont envoyés depuis votre main ou Terrain au Cimetière par un effet de carte (sauf durant la Damage Step) : vous pouvez piocher 1 carte.$N●Synchro : Lorsqu'un ou plusieurs monstres sont Invoqués Normalement ou Spécialement (sauf durant la Damage Step) : vous pouvez augmenter leur Niveau de 1.$N●Xyz : Une fois par tour, durant votre End Phase : détruisez un ou plusieurs monstres sur le Terrain avec le plus haut Niveau.$NVous ne pouvez activer qu'1 \"Monde des Rêves\" par tour.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/08/24",
+  "species_id": 24,
+  "starchip": "0"
+}

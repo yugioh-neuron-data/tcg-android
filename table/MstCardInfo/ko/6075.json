@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 2,
+  "card_id": 6075,
+  "card_name": "네크로페이스",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드가 소환에 성공했을 때, 게임에서 제외되어 있는 카드를 전부 덱으로 되돌리고 셔플한다. 이 카드의 공격력은 이 효과로 덱으로 되돌린 카드의 매수 × 100 포인트 올린다. 이 카드가 게임에서 제외되었을 때, 양쪽 플레이어는 덱 위에서 카드를 5장 게임에서 제외한다.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/02/01",
+  "species_id": 2,
+  "starchip": "4"
+}

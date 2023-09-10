@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 1,
+  "card_id": 7244,
+  "card_name": "フェルグラントドラゴン",
+  "card_name_label": "フェルグラントドラゴン",
+  "card_name_search": "ふぇるぐらんとどらごん",
+  "card_pen_effect": "",
+  "card_text": "このカードは墓地からしか特殊召喚できず、フィールドから墓地へ送られていなければ墓地からの特殊召喚もできない。①：このカードが墓地からの特殊召喚に成功した場合、自分の墓地のモンスター１体を対象として発動する。このカードの攻撃力は、対象のモンスターのレベル×２００アップする。",
+  "defense_power": "2800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/06/23",
+  "species_id": 1,
+  "starchip": "8"
+}

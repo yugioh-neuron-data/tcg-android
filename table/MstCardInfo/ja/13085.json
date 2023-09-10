@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 13085,
+  "card_name": "トポロジック・ボマー・ドラゴン",
+  "card_name_label": "トポロジック・ボマー・ドラゴン",
+  "card_name_search": "とぽろじっくぼまーどらごん",
+  "card_pen_effect": "",
+  "card_text": "効果モンスター２体以上$N①：このカードが既にモンスターゾーンに存在する状態で、このカード以外のモンスターがリンクモンスターのリンク先に特殊召喚された場合に発動する。お互いのメインモンスターゾーンのモンスターを全て破壊する。このターン、このカード以外の自分のモンスターは攻撃できない。②：このカードが相手モンスターを攻撃したダメージ計算後に発動する。その相手モンスターの元々の攻撃力分のダメージを相手に与える。",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "8123",
+  "linkno": "4",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/04/15",
+  "species_id": 27,
+  "starchip": ""
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "400",
+  "attribute_id": 5,
+  "card_id": 6939,
+  "card_name": "Truppa della Carta",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Una volta per turno: puoi selezionare un numero tra 1 e 3, poi mandare quel numero di carte dalla cima del tuo Deck al Cimitero; questa carta guadagna 500 ATK per ogni carta mandata al Cimitero in questo modo, fino alla fine di questo turno. Se questa carta che controlli viene distrutta e mandata al tuo Cimitero: pesca 1 carta.",
+  "defense_power": "400",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/02/07",
+  "species_id": 7,
+  "starchip": "3"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 2,
+  "card_id": 14251,
+  "card_name": "Guardián Cortafuego",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si esta carta es mandada al Cementerio como material para la Invocación por Enlace de un monstruo Ciberso: puedes Invocar esta carta de Modo Especial, pero destiérrala cuando deje el Campo. Cuando es declarado un ataque que involucre a tu Monstruo de Enlace y un Monstruo de Enlace del adversario: puedes desterrar esta carta en tu Cementerio; niega ese ataque y, si lo haces, hasta el final de este turno el ATK original de ese monstruo del adversario se convierte en 0, y además no es afectado por efectos de otras cartas, excepto los suyos. Sólo puedes usar cada efecto de \"Guardián Cortafuego\" una vez por turno.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/05/02",
+  "species_id": 27,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2900",
+  "attribute_id": 2,
+  "card_id": 8308,
+  "card_name": "地縛神 Chacu Challhua",
+  "card_name_label": "じばくしん　チャク　チャルア",
+  "card_name_search": "じばくしんちゃくちゃるあ",
+  "card_pen_effect": "",
+  "card_text": "「地縛神」と名のついたモンスターはフィールド上に１体しか表側表示で存在できない。フィールド魔法カードが表側表示で存在しない場合このカードを破壊する。相手はこのカードを攻撃対象に選択できない。このカードは相手プレイヤーに直接攻撃できる。また、１ターンに１度、このカードの守備力の半分のダメージを相手ライフに与える事ができる。この効果を発動するターン、このカードは攻撃できない。このカードがフィールド上に表側守備表示で存在する限り、相手はバトルフェイズを行えない。",
+  "defense_power": "2400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/04/18",
+  "species_id": 8,
+  "starchip": "10"
+}

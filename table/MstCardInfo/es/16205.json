@@ -1,0 +1,23 @@
+{
+  "attack_power": "950",
+  "attribute_id": 1,
+  "card_id": 16205,
+  "card_name": "Naganaki Cacharrek, el Indicador del Amanecer",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Puedes Sacrificar 1 monstruo Máquina cuyo ATK sea igual a su propia DEF; Invoca de Modo Especial, desde tu Deck, 1 monstruo Máquina cuyo ATK sea igual a su propia DEF, con un Nivel menor que el del monstruo Sacrificado. Puedes desterrar esta carta en tu Cementerio; añade a tu mano 1 de tus monstruos Máquina desterrados boca abajo cuyo ATK sea igual a su propia DEF. Sólo puedes usar cada efecto de \"Naganaki Cacharrek, el Indicador del Amanecer\" una vez por turno.",
+  "defense_power": "950",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/08/12",
+  "species_id": 7,
+  "starchip": "2"
+}

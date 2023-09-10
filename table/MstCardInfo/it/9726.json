@@ -1,0 +1,23 @@
+{
+  "attack_power": "700",
+  "attribute_id": 3,
+  "card_id": 9726,
+  "card_name": "Rabca Sperone",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Quando un mostro di Tipo Pesce, Serpente Marino o Acqua che controlli viene scelto come bersaglio per un attacco: puoi bandire questa carta dal tuo Cimitero, poi scegliere come bersaglio il mostro attaccante; annulla l'attacco e, se lo fai, quel bersaglio perde 500 ATK fino alla fine del prossimo turno. Puoi utilizzare questo effetto di \"Rabca Sperone\" una sola volta per turno.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/12/01",
+  "species_id": 8,
+  "starchip": "3"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 6,
+  "card_id": 6989,
+  "card_name": "E・HERO エアー・ネオス",
+  "card_name_label": "エレメンタルヒーロー　エアー・ネオス",
+  "card_name_search": "えれめんたるひーろーえあーねおす",
+  "card_pen_effect": "",
+  "card_text": "「E・HERO ネオス」＋「N・エア・ハミングバード」$N自分フィールド上に存在する上記のカードをデッキに戻した場合のみ、融合デッキから特殊召喚が可能（「融合」魔法カードは必要としない）。自分のライフポイントが相手のライフポイントよりも少ない場合、その数値だけこのカードの攻撃力がアップする。エンドフェイズ時にこのカードは融合デッキに戻る。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/11/16",
+  "species_id": 15,
+  "starchip": "7"
+}

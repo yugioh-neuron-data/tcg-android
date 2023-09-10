@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 2,
+  "card_id": 9891,
+  "card_name": "Avispón Inzektor",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Una vez por turno: puedes equipar a esta carta 1 monstruo \"Inzektor\" en tu mano o Cementerio. Mientras esta carta está equipada a un monstruo, el Nivel de ese monstruo se aumenta en 3, y además gana ATK/DEF iguales al ATK/DEF de esta carta. Mientras esta carta está equipada a un monstruo: puedes mandar al Cementerio esta Carta de Equipo, y después seleccionar 1 carta en el Campo; destruye ese objetivo.",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/01/19",
+  "species_id": 10,
+  "starchip": "3"
+}

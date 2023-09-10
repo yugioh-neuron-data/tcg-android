@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 5,
+  "card_id": 15134,
+  "card_name": "Gussari @Ignister",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsqu'un Monstre Lien est détruit au combat : vous pouvez Invoquer Spécialement cette carte depuis votre main. Lorsque votre Monstre Lien détruit un monstre de l'adversaire au combat : vous pouvez infliger des dommages à votre adversaire égaux à l'ATK d'origine du monstre détruit. Lorsqu'une attaque impliquant un Monstre Lien que vous contrôlez et un monstre de l'adversaire est déclarée : vous pouvez bannir cette carte depuis votre Cimetière ; l'ATK de ces monstres devient 3000. Vous ne pouvez utiliser chaque effet de \"Gussari @Ignister\" qu'une fois par tour.",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/30",
+  "species_id": 27,
+  "starchip": "8"
+}

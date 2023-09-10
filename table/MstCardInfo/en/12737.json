@@ -1,0 +1,23 @@
+{
+  "attack_power": "400",
+  "attribute_id": 5,
+  "card_id": 12737,
+  "card_name": "Performapal Handstandaccoon",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "You can target 1 \"Performapal\" card you control; return it to the hand, but for the rest of this turn, you cannot activate cards, or the effects of cards, with the same name as the one returned to the hand by this effect (even if this card leaves the field). You can only use this effect of \"Performapal Handstandaccoon\" once per turn.",
+  "card_text": "When this card is destroyed by battle: You can target 1 card on the field; return it to the hand.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2017/02/10",
+  "species_id": 11,
+  "starchip": "2"
+}

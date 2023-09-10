@@ -1,0 +1,23 @@
+{
+  "attack_power": "850",
+  "attribute_id": 5,
+  "card_id": 4540,
+  "card_name": "이비",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "상대가 컨트롤하는 카드의 효과에 의해서, 이 카드가 패에서 묘지에 버려졌을 때, 상대에게 1000 포인트의 데미지를 준다.",
+  "defense_power": "750",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/05/07",
+  "species_id": 10,
+  "starchip": "3"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 2,
+  "card_id": 6879,
+  "card_name": "スナイプストーカー",
+  "card_name_label": "スナイプストーカー",
+  "card_name_search": "すないぷすとーかー",
+  "card_pen_effect": "",
+  "card_text": "手札を１枚捨て、フィールド上のカード１枚を選択して発動できる。サイコロを１回振り、１・６以外が出た場合、選択したカードを破壊する。",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/08/10",
+  "species_id": 3,
+  "starchip": "4"
+}

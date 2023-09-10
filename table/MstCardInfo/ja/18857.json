@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 18857,
+  "card_name": "新世壊成劫",
+  "card_name_label": "しんせかいじょうこう",
+  "card_name_search": "しんせかいじょうこう",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。$N①：「ヴィサス＝スタフロスト」のカード名が記された自分の墓地の魔法・罠カード１枚を対象として発動できる。そのカードを自分フィールドにセットする。速攻魔法・罠カードをセットした場合、そのカードはセットしたターンでも発動できる。$N②：墓地のこのカードを除外し、「新世壊成劫」を除く、「ヴィサス＝スタフロスト」のカード名が記された自分の墓地の魔法・罠カード３枚を対象として発動できる。そのカードをデッキに戻す。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/04/22",
+  "species_id": 25,
+  "starchip": "0"
+}

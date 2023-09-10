@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14680,
+  "card_name": "Océan de Combat Marincesse",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Tous les monstres \"Marincesse\" que vous contrôlez gagnent 200 ATK, et aussi, chacun gagne 600 ATK pour chaque carte \"Marincesse\" qui lui est équipée. Les monstres que vous contrôlez dans la Zone Monstre Extra qui ont été Invoqués par Lien en utilisant \"Cœur de Cristal Marincesse\" comme Matériel ne sont pas affectés par des effets de carte de votre adversaire. Lorsque vous Invoquez par Lien un monstre \"Marincesse\" dans la Zone Monstre Extra (sauf durant la Damage Step) : vous pouvez équiper max. 3 Monstres Lien \"Marincesse\" de noms différents depuis votre Cimetière au monstre Invoqué par Lien.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/09/12",
+  "species_id": 24,
+  "starchip": "0"
+}

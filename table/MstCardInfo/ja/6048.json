@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 6048,
+  "card_name": "魂喰らいの魔刀",
+  "card_name_label": "たまぐらいのまとう",
+  "card_name_search": "たまぐらいのまとう",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上に存在するレベル３以下の通常モンスターに装備する事ができる。このカードの発動時、装備モンスター以外の自分フィールド上に存在する通常モンスター（トークンを除く）を全て生け贄に捧げる。生け贄に捧げた通常モンスター１体につき、装備モンスターの攻撃力は１０００ポイントアップする。",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/02/26",
+  "species_id": 24,
+  "starchip": "0"
+}

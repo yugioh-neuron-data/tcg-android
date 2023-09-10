@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 15024,
+  "card_name": "Ricciolidoro il Paesaggista da Battaglia",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se questa carta viene Evocata Normalmente o Specialmente in una zona che non è la Zona Mostri Main centrale, distruggi questa carta. Questa carta guadagna 3000 ATK mentre è nella Zona Mostri Main centrale. Una volta per turno: puoi selezionare 1 delle tue Zone Mostri Main inutilizzate; sposta questa carta dalla tua Zona Mostri Main in quella zona, poi distruggi tutte le altre carte nella colonna della zona in cui era questa carta, nella colonna della zona in cui si è spostata, e in tutte le colonne in mezzo.",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/30",
+  "species_id": 7,
+  "starchip": "10"
+}

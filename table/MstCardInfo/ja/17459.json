@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 17459,
+  "card_name": "スプライト・スマッシャーズ",
+  "card_name_label": "スプライト・スマッシャーズ",
+  "card_name_search": "すぷらいとすまっしゃーず",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：自分の手札・墓地から「スプリガンズ」カード、「セリオンズ」カード、「スプライト」カードの内、いずれか１枚を除外し、以下の効果から１つを選択して発動できる。$N●デッキから「スプリガンズ」モンスター１体を特殊召喚する。$N●自分の墓地から「セリオンズ」モンスター１体を選んで特殊召喚する。$N●自分フィールドのレベル２・ランク２・リンク２のモンスター１体と相手フィールドのカード１枚を選んで除外する。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/04/23",
+  "species_id": 24,
+  "starchip": "0"
+}

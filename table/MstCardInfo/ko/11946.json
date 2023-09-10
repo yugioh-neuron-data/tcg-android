@@ -1,0 +1,23 @@
+{
+  "attack_power": "1900",
+  "attribute_id": 3,
+  "card_id": 11946,
+  "card_name": "EM 맘모스플래시",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "①: 1턴에 1번, 자신 필드에 융합 몬스터가 특수 소환되었을 때에 발동할 수 있다. 자신의 엑스트라 덱에서 앞면 표시의 \"오드아이즈\" 펜듈럼 몬스터 1장을 특수 소환한다.",
+  "card_text": "\"EM(엔터메이트) 맘모스플래시\"의 몬스터 효과는 듀얼 중에 1번밖에 사용할 수 없다. ①: 자신 메인 페이즈에 발동할 수 있다. 자신 필드에서, 드래곤족의 융합 몬스터 카드에 기재된 융합 소재 몬스터를 묘지로 보내고, 그 융합 몬스터 1장을 엑스트라 덱에서 융합 소환한다.",
+  "defense_power": "2300",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "4",
+  "pen_scale_r": "4",
+  "sales_at": "2015/11/06",
+  "species_id": 11,
+  "starchip": "6"
+}

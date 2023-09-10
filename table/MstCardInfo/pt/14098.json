@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 2,
+  "card_id": 14098,
+  "card_name": "Cavaleira do Pesadelo Orcust",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Não pode ser destruído em batalha com um Monstro Link. Você pode banir este card do seu Cemitério e, depois, escolher 1 monstro com a face para cima no campo; pelo resto deste turno você não pode Invocar monstros por Invocação-Especial, exceto monstros de TREVAS e, além disso, envie 1 monstro Máquina de TREVAS do seu Deck para o Cemitério, exceto \"Cavaleira do Pesadelo Orcust\" e, se isso acontecer, até o final deste turno, o monstro alvo ganha ATK igual ao Nível do monstro enviado para o Cemitério x 100. Você só pode usar este efeito de \"Cavaleira do Pesadelo Orcust\" uma vez por turno.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/01/31",
+  "species_id": 7,
+  "starchip": "7"
+}

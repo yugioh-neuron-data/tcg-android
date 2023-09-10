@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 1,
+  "card_id": 8646,
+  "card_name": "Ciber Dragón Zwei",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "El nombre de esta carta se convierte en \"Ciber Dragón\" mientras esté en el Cementerio. Una vez por turno: puedes mostrar 1 Mágica en tu mano; el nombre de esta carta se convierte en \"Ciber Dragón\" hasta la End Phase. Si esta carta ataca un monstruo del adversario, gana 300 ATK sólo durante el Damage Step.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/02/11",
+  "species_id": 7,
+  "starchip": "4"
+}

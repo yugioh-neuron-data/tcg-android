@@ -1,0 +1,23 @@
+{
+  "attack_power": "1100",
+  "attribute_id": 1,
+  "card_id": 4622,
+  "card_name": "勇気の砂時計",
+  "card_name_label": "ゆうきのすなどけい",
+  "card_name_search": "ゆうきのすなどけい",
+  "card_pen_effect": "",
+  "card_text": "このカードが召喚・反転召喚に成功した時、このカードの元々の攻撃力・守備力は次の自分のターンのエンドフェイズ時まで半分になる。その後、このカードの元々の攻撃力・守備力は倍になる。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "1999/07/05",
+  "species_id": 17,
+  "starchip": "4"
+}

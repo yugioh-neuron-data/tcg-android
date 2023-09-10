@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 3,
+  "card_id": 17641,
+  "card_name": "Squalo del Sogno",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "La prima volta che questa carta sta per essere distrutta in battaglia ogni turno, essa non viene distrutta. Puoi utilizzare ognuno dei seguenti effetti di \"Squalo del Sogno\" una sola volta per turno. Se non controlli nessun mostro, o se tutti i mostri che controlli sono ACQUA: puoi Evocare Specialmente questa carta dalla tua mano. Quando viene attivata una carta o un effetto che sta per infliggerti danno, mentre questa carta è nel tuo Cimitero (eccetto durante il Damage Step): puoi Evocare Specialmente questa carta e, se lo fai, fai diventare 0 quell'effetto di danno per te. Se viene Evocata in questo modo, essa perde 1000 DEF, inoltre bandiscila quando lascia il Terreno.",
+  "defense_power": "2600",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/11/17",
+  "species_id": 8,
+  "starchip": "5"
+}

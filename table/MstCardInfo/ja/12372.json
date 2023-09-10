@@ -1,0 +1,23 @@
+{
+  "attack_power": "2200",
+  "attribute_id": 5,
+  "card_id": 12372,
+  "card_name": "EMキングベアー",
+  "card_name_label": "エンタメイトキングベアー",
+  "card_name_search": "えんためいときんぐべあー",
+  "card_pen_effect": "①：このカードを発動したターンのエンドフェイズに発動できる。このカードを破壊し、自分のエクストラデッキの表側表示のPモンスター及び自分の墓地のモンスターの中からレベル７以上のモンスター１体を選んで手札に加える。",
+  "card_text": "①：攻撃表示のこのカードは魔法・罠カードの効果では破壊されない。②：このカードの攻撃力は自分バトルフェイズの間、自分フィールドの「EM」カードの数×１００アップする。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "7",
+  "pen_scale_r": "7",
+  "sales_at": "2016/03/19",
+  "species_id": 12,
+  "starchip": "6"
+}

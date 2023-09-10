@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 15066,
+  "card_name": "Arrancada Certeira",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cada duelista revela 1 card com a face para baixo do Deck Adicional dele. Se eles forem do mesmo tipo de card (Fusão, Sincro, Xyz ou Link), envie o card do seu oponente para o Cemitério e, se isso acontecer, você Invoca seu card por Invocação-Especial e, depois, se os cards tiverem os mesmos Tipos e Atributos originais, seu oponente perde PV igual ao ATK do card revelado dele. Caso contrário, envie seu card para o Cemitério e, se isso acontecer, seu oponente Invoca o card dele por Invocação-Especial. Você só pode ativar 1 \"Arrancada Certeira\" por turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/30",
+  "species_id": 25,
+  "starchip": "0"
+}

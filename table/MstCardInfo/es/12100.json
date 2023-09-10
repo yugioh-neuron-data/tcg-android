@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 1,
+  "card_id": 12100,
+  "card_name": "Hombre de Paja Kozmo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante el turno de cualquier jugador: puedes desterrar esta carta; Invoca de Modo Especial, desde tu mano, 1 monstruo \"Kozmo\" de Nivel 3 o mayor. Sólo puedes usar este efecto de \"Hombre de Paja Kozmo\" una vez por turno. Una vez por turno: puedes pagar 500 LP, y después seleccionar 1 de tus monstruos \"Kozmo\" desterrados; Invócalo de Modo Especial, pero sus efectos son negados, y además destrúyelo durante la End Phase.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/11/05",
+  "species_id": 21,
+  "starchip": "2"
+}

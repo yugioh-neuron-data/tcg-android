@@ -1,0 +1,23 @@
+{
+  "attack_power": "1900",
+  "attribute_id": 2,
+  "card_id": 8584,
+  "card_name": "Scimmione Lottatore",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se questa carta distrugge un mostro dell'avversario in battaglia: questa carta guadagna 300 ATK. Se questa carta non attacca durante il tuo turno, l'ATK guadagnato da questo effetto torna a 0 durante la End Phase di quel turno.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/11/25",
+  "species_id": 11,
+  "starchip": "4"
+}

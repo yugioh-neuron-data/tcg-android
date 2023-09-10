@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 5,
+  "card_id": 13805,
+  "card_name": "Chevalier de Fer",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Perd 1000 ATK tant que vous les contrôlez \"Bûcheron de Fer\". Si cette carte sur le Terrain est détruite au combat ou envoyée au Cimetière par un effet de carte : vous pouvez ajouter 1 \"Bûcheron de Fer\" depuis votre Deck à votre main, ou, si \"Château Doré de Stromberg\" est dans une Zone Terrain, vous pouvez ajouter 1 monstre Guerrier depuis votre Deck à votre main, à la place. Vous ne pouvez utiliser cet effet de \"Chevalier de Fer\" qu'une fois par tour.",
+  "defense_power": "700",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/06/28",
+  "species_id": 15,
+  "starchip": "4"
+}

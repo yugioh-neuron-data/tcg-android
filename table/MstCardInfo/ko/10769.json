@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 1,
+  "card_id": 10769,
+  "card_name": "나이트 데이 그레퍼",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "①: 이 카드는 필드 / 묘지에 존재하는 한, 일반 몬스터로 취급한다. ②: 필드의 일반 몬스터 취급의 이 카드를 통상 소환으로서 1번 더 일반 소환할 수 있다. 그 경우 이 카드는 효과 몬스터로 취급되어 이하의 효과를 얻는다.$N●자신 엔드 페이즈에, 자신 묘지의 장착 마법 카드 1장을 대상으로 하고 발동할 수 있다. 그 카드를 패에 넣는다. 이 카드명의 이 효과는 1턴에 1번밖에 사용할 수 없다.",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 9,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/10/29",
+  "species_id": 15,
+  "starchip": "4"
+}

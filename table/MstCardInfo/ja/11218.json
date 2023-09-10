@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 1,
+  "card_id": 11218,
+  "card_name": "EMカレイドスコーピオン",
+  "card_name_label": "エンタメイトカレイドスコーピオン",
+  "card_name_search": "えんためいとかれいどすこーぴおん",
+  "card_pen_effect": "①：自分フィールドの光属性モンスターの攻撃力は３００アップする。",
+  "card_text": "①：１ターンに１度、自分フィールドの表側表示モンスター１体を対象として発動できる。このターン、そのモンスターは相手フィールドの特殊召喚されたモンスター全てに１回ずつ攻撃できる。",
+  "defense_power": "2300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "4",
+  "pen_scale_r": "4",
+  "sales_at": "2014/04/19",
+  "species_id": 10,
+  "starchip": "6"
+}

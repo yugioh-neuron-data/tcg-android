@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 4877,
+  "card_name": "Infection Microbienne",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cette carte ne peut équiper qu'un monstre d'un Type autre que Machine. L'ATK de ce monstre équipé avec cette carte diminue de 300 points à chacune des Standby Phases du contrôleur de \"Infection Microbienne\".",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/06/27",
+  "species_id": 24,
+  "starchip": "0"
+}

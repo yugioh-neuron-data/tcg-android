@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 1,
+  "card_id": 11030,
+  "card_name": "ZS - Sabio de la Desaparición",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si controlas un monstruo \"Utopía\": puedes robar 1 carta. Si uno o más monstruos que controlas es desterrado durante la Battle Phase (excepto durante el Damage Step): puedes desterrar esta carta en el Campo, y después seleccionar 1 de esos monstruos desterrados; Invoca ese objetivo de Modo Especial y, si lo haces, destierra 1 monstruo que controle tu adversario y que tenga 3000 ATK o menos. Sólo puedes usar 1 efecto de \"ZS - Sabio de la Desaparición\" por turno, y sólo una vez ese turno.",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/05/15",
+  "species_id": 15,
+  "starchip": "1"
+}

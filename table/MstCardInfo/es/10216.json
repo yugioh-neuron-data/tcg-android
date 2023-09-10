@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 10216,
+  "card_name": "Número 40: Marioneta Trucada de Hilos",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 monstruos de Nivel 8$NUna vez por turno: puedes desacoplar de esta carta 1 material; pon 1 Contador de Hilo en cada monstruo boca arriba en el Campo, excepto esta carta. Una vez por turno, durante la próxima End Phase del adversario de quien puso uno o más Contadores de Hilo por este efecto: destruye los monstruos con Contadores de Hilo y, si lo haces, inflige 500 puntos de daño a tu adversario por cada monstruo destruido.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/08/29",
+  "species_id": 7,
+  "starchip": "8"
+}

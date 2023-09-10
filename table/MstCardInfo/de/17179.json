@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 17179,
+  "card_name": "Überraschungskette",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Aktiviere diese Karte nur als Kettenglied 2 oder höher; führe nacheinander die folgenden Effekte aus, abhängig von der Kettengliednummer dieser Karte (überspringe alle, die nicht möglich sind). Du kannst diese Karte nicht aktivieren, falls mehrere Karten/Effekte mit demselben Namen in jener Kette sind.$N●2+: Grabe die obersten Karten deines Decks in Höhe der Kettengliednummer dieser Karte aus, dann lege sie in beliebiger Reihenfolge auf dein Deck.$N●3+: Lege die oberste Karte deines Decks auf den Friedhof.$N●4+: Ziehe 1 Karte.$NDu kannst nur 1 „Überraschungskette“ pro Spielzug aktivieren.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/05/19",
+  "species_id": 24,
+  "starchip": "0"
+}

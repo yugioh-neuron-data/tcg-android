@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10949,
+  "card_name": "森羅の霊峰",
+  "card_name_label": "しんらのれいほう",
+  "card_name_search": "しんらのれいほう",
+  "card_pen_effect": "",
+  "card_text": "自分のメインフェイズ時に手札または自分フィールド上に表側表示で存在する、植物族モンスター１体を墓地へ送って発動できる。デッキから「森羅」と名のついたカード１枚を選んでデッキの一番上に置く。「森羅の霊峰」のこの効果は１ターンに１度しか使用できない。また、相手のエンドフェイズ時に１度だけ、自分のデッキの一番上のカードをめくる事ができる。めくったカードが植物族モンスターだった場合、そのカードを墓地へ送る。違った場合、そのカードをデッキの一番上または一番下に戻す。",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/11/16",
+  "species_id": 24,
+  "starchip": "0"
+}

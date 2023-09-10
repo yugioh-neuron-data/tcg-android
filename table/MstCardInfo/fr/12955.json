@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 6,
+  "card_id": 12955,
+  "card_name": "Lyrilusc - Rossignol Indépendant",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"Lyrilusc - Rossignol Assemblé\" + 1 monstre \"Lyrilusc\"$NSi cette carte est Invoquée par Fusion en utilisant un Monstre Xyz sur le Terrain dont le nom d'origine inclut \"Lyrilusc\" comme Matériel de Fusion : vous pouvez augmenter le Niveau de cette carte du nombre de Matériels Xyz que ces monstres avaient. Cette carte gagne une ATK égale à son Niveau x 500. Non affectée par les effets d'autres cartes. Une fois par tour : vous pouvez infliger des dommages à votre adversaire égaux au Niveau de cette carte x 500.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/05/04",
+  "species_id": 16,
+  "starchip": "1"
+}

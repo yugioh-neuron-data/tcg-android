@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 1,
+  "card_id": 10266,
+  "card_name": "Number 9: Dyson Sphere",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 Level 9 monsters$NDuring your Main Phase 1, if your opponent controls a monster with higher ATK than this card: You can detach 1 material from this card; this card can attack directly this turn. Once per Battle Step, if this card with material is attacked (Quick Effect): You can negate that attack. When this card is targeted for an attack while it has no material: You can target 2 monsters in your GY; attach those monsters to this card as material.",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/11/09",
+  "species_id": 7,
+  "starchip": "9"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 14330,
+  "card_name": "ダイスエット",
+  "card_name_label": "ダイスエット",
+  "card_name_search": "だいすえっと",
+  "card_pen_effect": "",
+  "card_text": "①：サイコロを１回振る。発動ターンによって以下の効果を適用する。$N●自分ターン：出た目の数だけ自分の墓地からカードを選んで除外する。出た目が１の場合、さらに自分のデッキの上からカードを６枚墓地へ送る。$N●相手ターン：出た目の数だけ自分のデッキの上からカードを墓地へ送る。出た目が６の場合、さらに自分の墓地のカード１枚を選んで除外する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/01/12",
+  "species_id": 25,
+  "starchip": "0"
+}

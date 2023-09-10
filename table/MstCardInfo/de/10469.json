@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 1,
+  "card_id": 10469,
+  "card_name": "Edler Ritter Medraut",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Diese Karte wird als ein Normales Monster behandelt, solange sie offen auf dem Spielfeld liegt. Solange diese Karte mit einem „Edle Waffen“-Ausrüstungszauber ausgerüstet ist, wird sie ein Effektmonster mit diesem Effekt.$N●Diese Karte wird FINSTERNIS und ihre Stufe wird um 1 erhöht. Einmal pro Spielzug, falls du keine anderen Monster kontrollierst: Du kannst 1 „Edler Ritter“-Monster als Spezialbeschwörung von deinem Deck in die Verteidigungsposition beschwören, außer „Edler Ritter Medraut“, und falls du dies tust, zerstöre 1 Ausrüstungszauber, den du kontrollierst.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/01/24",
+  "species_id": 15,
+  "starchip": "4"
+}

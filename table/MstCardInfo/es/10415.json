@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10415,
+  "card_name": "Vuelta Doble Xyz",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante el turno en el que un Monstruo Xyz boca arriba que controlas fue destruido, si no controlas monstruos: selecciona 1 Monstruo Xyz en tu Cementerio que fue destruido este turno y 1 monstruo en tu Cementerio con ATK menor o igual al de ese Monstruo Xyz; Invoca esos objetivos de Modo Especial, pero son destruidos durante la End Phase.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/01/24",
+  "species_id": 24,
+  "starchip": "0"
+}

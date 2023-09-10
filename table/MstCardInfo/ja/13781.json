@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13781,
+  "card_name": "孤毒の剣",
+  "card_name_label": "こどくのつるぎ",
+  "card_name_search": "こどくのつるぎ",
+  "card_pen_effect": "",
+  "card_text": "自分フィールドのモンスターにのみ装備可能。①：「孤毒の剣」は自分フィールドに１枚しか表側表示で存在できない。②：装備モンスターの元々の攻撃力・守備力は、相手モンスターと戦闘を行うダメージ計算時のみ倍になる。③：自分フィールドに装備モンスター以外のモンスターが存在する場合にこのカードは墓地へ送られる。",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/04/14",
+  "species_id": 24,
+  "starchip": "0"
+}

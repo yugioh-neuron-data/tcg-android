@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 1,
+  "card_id": 16214,
+  "card_name": "Esprit Protecteur Loagaeth",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si cette carte sur le Terrain est détruite au combat ou par un effet de carte : vous pouvez cibler 1 monstre sur le Terrain ; ce tour, il ne peut pas être détruit au combat. Vous ne pouvez utiliser chacun des effets suivants de \"Esprit Protecteur Loagaeth\" qu'une fois par tour. Si l'effet d'un monstre Elfe que vous contrôlez est activé (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte depuis votre main. Vous pouvez cibler 1 carte face recto contrôlée par votre adversaire et 1 monstre en Position d'Attaque que vous contrôlez ; bannissez la carte de l'adversaire, et si vous le faites, changez votre monstre en Position de Défense.",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/08/12",
+  "species_id": 17,
+  "starchip": "7"
+}

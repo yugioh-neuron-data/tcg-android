@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16279,
+  "card_name": "ウォークライ・ディグニティ",
+  "card_name_label": "ウォークライ・ディグニティ",
+  "card_name_search": "うぉーくらいでぃぐにてぃ",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：自分フィールドに「ウォークライ」モンスターが存在する場合、以下の効果から１つを選択して発動できる。$N●相手フィールドのモンスターが効果を発動した時に発動できる。その効果を無効にする。$N●自分・相手のバトルフェイズに、相手がモンスターの効果・魔法・罠カードを発動した時に発動できる。その効果を無効にする。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/09/25",
+  "species_id": 24,
+  "starchip": "0"
+}

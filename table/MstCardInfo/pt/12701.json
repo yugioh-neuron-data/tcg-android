@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 1,
+  "card_id": 12701,
+  "card_name": "Camarartista Dente de Ouro",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Uma vez por turno, se um monstro \"Camarartista\" seu destruir um monstro do oponente em batalha: cause 1000 de dano ao seu oponente.",
+  "card_text": "Se este card for Invocado por Invocação-Normal ou Especial: todos os monstros \"Camarartista\" que você controla atualmente ganham 200 de ATK até o final deste turno.",
+  "defense_power": "700",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2018/07/26",
+  "species_id": 11,
+  "starchip": "4"
+}

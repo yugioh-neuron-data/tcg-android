@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 4340,
+  "card_name": "海",
+  "card_name_label": "うみ",
+  "card_name_search": "うみ",
+  "card_pen_effect": "",
+  "card_text": "フィールド上に表側表示で存在する魚族・海竜族・雷族・水族モンスターの攻撃力・守備力は２００ポイントアップする。フィールド上に表側表示で存在する機械族・炎族モンスターの攻撃力・守備力は２００ポイントダウンする。",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "1999/03/06",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13707,
+  "card_name": "ヴェンデット・ナイトメア",
+  "card_name_label": "ヴェンデット・ナイトメア",
+  "card_name_search": "う゛ぇんでっとないとめあ",
+  "card_pen_effect": "",
+  "card_text": "このカード名の②の効果は１ターンに１度しか使用できない。①：１ターンに１度、自分の手札・フィールドから「ヴェンデット」モンスターを任意の数だけリリースし、自分フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターのレベルはターン終了時までリリースしたモンスターの数だけ上がる。②：自分の「ヴェンデット」儀式モンスターの攻撃で相手モンスターを破壊した時に発動できる。その自分のモンスターの攻撃力は１０００アップする。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/09/08",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 1,
+  "card_id": 15240,
+  "card_name": "Teo Dogmátik, Puñetazo de Hierro",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "No puede ser destruido en batalla con un monstruo Invocado de Modo Especial desde el Deck Extra. Sólo puedes usar cada uno de los siguientes efectos de \"Teo Dogmátik, Puñetazo de Hierro\" una vez por turno. Si un monstruo Invocado de Modo Especial desde el Deck Extra está en el Campo: puedes Invocar esta carta de Modo Especial desde tu mano. Puedes seleccionar 1 monstruo boca arriba en el Campo que fue Invocado de Modo Especial desde el Deck Extra; hasta el final de este turno, esta carta gana 600 ATK y, si lo hace, el monstruo seleccionado pierde 600 ATK.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/08/06",
+  "species_id": 18,
+  "starchip": "4"
+}

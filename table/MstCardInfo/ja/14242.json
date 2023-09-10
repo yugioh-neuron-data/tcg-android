@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 4,
+  "card_id": 14242,
+  "card_name": "転生炎獣フォウル",
+  "card_name_label": "サラマングレイトフォウル",
+  "card_name_search": "さらまんぐれいとふぉうる",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①の効果は１ターンに１度しか使用できない。①：自分フィールドに「転生炎獣フォウル」以外の「サラマングレイト」モンスターが召喚・特殊召喚された場合に発動できる。このカードを手札から特殊召喚する。②：手札及び自分フィールドの表側表示のカードの中から、「サラマングレイト」カード１枚を墓地へ送り、相手フィールドにセットされた魔法・罠カード１枚を対象として発動できる。このターン、そのセットされた魔法・罠カードは発動できない。",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/12/08",
+  "species_id": 27,
+  "starchip": "4"
+}

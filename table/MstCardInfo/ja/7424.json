@@ -1,0 +1,23 @@
+{
+  "attack_power": "-1",
+  "attribute_id": 2,
+  "card_id": 7424,
+  "card_name": "終焉の精霊",
+  "card_name_label": "ジ・エンド・スピリッツ",
+  "card_name_search": "じえんどすぴりっつ",
+  "card_pen_effect": "",
+  "card_text": "このカードの攻撃力・守備力は、ゲームから除外されている闇属性モンスターの数×３００ポイントになる。このカードが破壊され墓地へ送られた時、ゲームから除外されている闇属性モンスターを全て墓地に戻す。",
+  "defense_power": "-1",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/11/23",
+  "species_id": 3,
+  "starchip": "4"
+}

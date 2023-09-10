@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 2,
+  "card_id": 17112,
+  "card_name": "Künstlerkumpel Klassikuriboh",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Wenn ein Monster eines Gegners einen direkten Angriff deklariert, wird diese Karte zerstört.",
+  "card_text": "Falls diese Karte durch ihren eigenen Pendeleffekt zerstört wird: Beende die Battle Phase. Du kannst jeden der folgenden Effekte von „Künstlerkumpel Klassikuriboh“ nur einmal pro Spielzug verwenden. Du kannst diese Karte abwerfen und dann 1 Karte in deiner Pendelzone wählen; ihr Pendelbereich wird bis zum Ende dieses Spielzugs zu 1. Wenn du Kampfschaden erhältst, solange sich diese Karte in deinem Friedhof befindet: Du kannst diese Karte in deine Pendelzone legen.",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "8",
+  "pen_scale_r": "8",
+  "sales_at": "2023/06/22",
+  "species_id": 3,
+  "starchip": "1"
+}

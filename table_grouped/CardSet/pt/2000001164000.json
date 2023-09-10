@@ -1,0 +1,515 @@
+[
+  {
+    "card_count": 1,
+    "card_id": 5069,
+    "card_image_id": 1,
+    "card_number": "LED9-PT023",
+    "language": "pt",
+    "pack_id": "2000001164000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5114,
+    "card_image_id": 1,
+    "card_number": "LED9-PT029",
+    "language": "pt",
+    "pack_id": "2000001164000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5895,
+    "card_image_id": 1,
+    "card_number": "LED9-PT047",
+    "language": "pt",
+    "pack_id": "2000001164000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 6961,
+    "card_image_id": 1,
+    "card_number": "LED9-PT046",
+    "language": "pt",
+    "pack_id": "2000001164000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7852,
+    "card_image_id": 1,
+    "card_number": "LED9-PT048",
+    "language": "pt",
+    "pack_id": "2000001164000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10279,
+    "card_image_id": 1,
+    "card_number": "LED9-PT055",
+    "language": "pt",
+    "pack_id": "2000001164000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10332,
+    "card_image_id": 1,
+    "card_number": "LED9-PT011",
+    "language": "pt",
+    "pack_id": "2000001164000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10370,
+    "card_image_id": 1,
+    "card_number": "LED9-PT009",
+    "language": "pt",
+    "pack_id": "2000001164000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10457,
+    "card_image_id": 1,
+    "card_number": "LED9-PT053",
+    "language": "pt",
+    "pack_id": "2000001164000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10849,
+    "card_image_id": 1,
+    "card_number": "LED9-PT049",
+    "language": "pt",
+    "pack_id": "2000001164000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10850,
+    "card_image_id": 1,
+    "card_number": "LED9-PT008",
+    "language": "pt",
+    "pack_id": "2000001164000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10852,
+    "card_image_id": 1,
+    "card_number": "LED9-PT050",
+    "language": "pt",
+    "pack_id": "2000001164000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10857,
+    "card_image_id": 1,
+    "card_number": "LED9-PT012",
+    "language": "pt",
+    "pack_id": "2000001164000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10932,
+    "card_image_id": 1,
+    "card_number": "LED9-PT010",
+    "language": "pt",
+    "pack_id": "2000001164000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10933,
+    "card_image_id": 1,
+    "card_number": "LED9-PT000",
+    "language": "pt",
+    "pack_id": "2000001164000",
+    "rarity_id": 7
+  },
+  {
+    "card_count": 1,
+    "card_id": 11087,
+    "card_image_id": 1,
+    "card_number": "LED9-PT014",
+    "language": "pt",
+    "pack_id": "2000001164000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11186,
+    "card_image_id": 1,
+    "card_number": "LED9-PT015",
+    "language": "pt",
+    "pack_id": "2000001164000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11961,
+    "card_image_id": 1,
+    "card_number": "LED9-PT025",
+    "language": "pt",
+    "pack_id": "2000001164000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13165,
+    "card_image_id": 1,
+    "card_number": "LED9-PT013",
+    "language": "pt",
+    "pack_id": "2000001164000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13176,
+    "card_image_id": 1,
+    "card_number": "LED9-PT024",
+    "language": "pt",
+    "pack_id": "2000001164000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13177,
+    "card_image_id": 1,
+    "card_number": "LED9-PT026",
+    "language": "pt",
+    "pack_id": "2000001164000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13178,
+    "card_image_id": 1,
+    "card_number": "LED9-PT027",
+    "language": "pt",
+    "pack_id": "2000001164000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13179,
+    "card_image_id": 1,
+    "card_number": "LED9-PT030",
+    "language": "pt",
+    "pack_id": "2000001164000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14451,
+    "card_image_id": 1,
+    "card_number": "LED9-PT038",
+    "language": "pt",
+    "pack_id": "2000001164000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14489,
+    "card_image_id": 1,
+    "card_number": "LED9-PT041",
+    "language": "pt",
+    "pack_id": "2000001164000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14490,
+    "card_image_id": 1,
+    "card_number": "LED9-PT054",
+    "language": "pt",
+    "pack_id": "2000001164000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14516,
+    "card_image_id": 1,
+    "card_number": "LED9-PT045",
+    "language": "pt",
+    "pack_id": "2000001164000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14631,
+    "card_image_id": 1,
+    "card_number": "LED9-PT051",
+    "language": "pt",
+    "pack_id": "2000001164000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14667,
+    "card_image_id": 1,
+    "card_number": "LED9-PT042",
+    "language": "pt",
+    "pack_id": "2000001164000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14668,
+    "card_image_id": 1,
+    "card_number": "LED9-PT043",
+    "language": "pt",
+    "pack_id": "2000001164000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14669,
+    "card_image_id": 1,
+    "card_number": "LED9-PT040",
+    "language": "pt",
+    "pack_id": "2000001164000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14680,
+    "card_image_id": 1,
+    "card_number": "LED9-PT044",
+    "language": "pt",
+    "pack_id": "2000001164000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14788,
+    "card_image_id": 1,
+    "card_number": "LED9-PT039",
+    "language": "pt",
+    "pack_id": "2000001164000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15005,
+    "card_image_id": 1,
+    "card_number": "LED9-PT052",
+    "language": "pt",
+    "pack_id": "2000001164000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15298,
+    "card_image_id": 1,
+    "card_number": "LED9-PT028",
+    "language": "pt",
+    "pack_id": "2000001164000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 15299,
+    "card_image_id": 1,
+    "card_number": "LED9-PT056",
+    "language": "pt",
+    "pack_id": "2000001164000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17039,
+    "card_image_id": 1,
+    "card_number": "LED9-PT001",
+    "language": "pt",
+    "pack_id": "2000001164000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17040,
+    "card_image_id": 1,
+    "card_number": "LED9-PT002",
+    "language": "pt",
+    "pack_id": "2000001164000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17041,
+    "card_image_id": 1,
+    "card_number": "LED9-PT003",
+    "language": "pt",
+    "pack_id": "2000001164000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17042,
+    "card_image_id": 1,
+    "card_number": "LED9-PT004",
+    "language": "pt",
+    "pack_id": "2000001164000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17043,
+    "card_image_id": 1,
+    "card_number": "LED9-PT005",
+    "language": "pt",
+    "pack_id": "2000001164000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17044,
+    "card_image_id": 1,
+    "card_number": "LED9-PT006",
+    "language": "pt",
+    "pack_id": "2000001164000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17045,
+    "card_image_id": 1,
+    "card_number": "LED9-PT007",
+    "language": "pt",
+    "pack_id": "2000001164000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 17046,
+    "card_image_id": 1,
+    "card_number": "LED9-PT016",
+    "language": "pt",
+    "pack_id": "2000001164000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17047,
+    "card_image_id": 1,
+    "card_number": "LED9-PT017",
+    "language": "pt",
+    "pack_id": "2000001164000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17048,
+    "card_image_id": 1,
+    "card_number": "LED9-PT018",
+    "language": "pt",
+    "pack_id": "2000001164000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17049,
+    "card_image_id": 1,
+    "card_number": "LED9-PT019",
+    "language": "pt",
+    "pack_id": "2000001164000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17050,
+    "card_image_id": 1,
+    "card_number": "LED9-PT020",
+    "language": "pt",
+    "pack_id": "2000001164000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17051,
+    "card_image_id": 1,
+    "card_number": "LED9-PT021",
+    "language": "pt",
+    "pack_id": "2000001164000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 17052,
+    "card_image_id": 1,
+    "card_number": "LED9-PT022",
+    "language": "pt",
+    "pack_id": "2000001164000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 17053,
+    "card_image_id": 1,
+    "card_number": "LED9-PT031",
+    "language": "pt",
+    "pack_id": "2000001164000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17054,
+    "card_image_id": 1,
+    "card_number": "LED9-PT032",
+    "language": "pt",
+    "pack_id": "2000001164000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 17055,
+    "card_image_id": 1,
+    "card_number": "LED9-PT033",
+    "language": "pt",
+    "pack_id": "2000001164000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17056,
+    "card_image_id": 1,
+    "card_number": "LED9-PT034",
+    "language": "pt",
+    "pack_id": "2000001164000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17057,
+    "card_image_id": 1,
+    "card_number": "LED9-PT035",
+    "language": "pt",
+    "pack_id": "2000001164000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 17058,
+    "card_image_id": 1,
+    "card_number": "LED9-PT036",
+    "language": "pt",
+    "pack_id": "2000001164000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 17059,
+    "card_image_id": 1,
+    "card_number": "LED9-PT037",
+    "language": "pt",
+    "pack_id": "2000001164000",
+    "rarity_id": 2
+  }
+]

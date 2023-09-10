@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15751,
+  "card_name": "Treppe in ein sagenhaftes Reich",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wenn diese Karte aktiviert wird: Du kannst 1 „Sagenhaft“-Monster von deinem Deck auf den Friedhof legen. Du kannst 1 „Sagenhaft“-Monster in deinem Friedhof wählen; wirf 2 Karten ab und falls du dies tust, füge jenes Monster deiner Hand hinzu. Du kannst diesen Effekt von „Treppe in ein sagenhaftes Reich“ nur einmal pro Spielzug verwenden. Falls dein „Sagenhaft“-Monster ein Monster eines Gegners angreift und du weniger Karten in deiner Hand hast als dein Gegner, erhält dein Monster nur während der Schadensberechnung ATK in Höhe der Differenz in der Anzahl der Karten x 200. Du kannst nur 1 „Treppe in ein sagenhaftes Reich“ pro Spielzug aktivieren.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/02/04",
+  "species_id": 24,
+  "starchip": "0"
+}

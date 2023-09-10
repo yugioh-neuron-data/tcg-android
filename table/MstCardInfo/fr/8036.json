@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 2,
+  "card_id": 8036,
+  "card_name": "Aile Noire - Maître des Armures",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Syntoniseur \"Aile Noire\" + 1+ monstre non-Syntoniseur$NNon destructible au combat, et vous ne recevez aucun dommage de combat d'attaques impliquant cette carte. À la fin de la Damage Step, si cette carte a attaqué un monstre : vous pouvez placer 1 Compteur Cuirasse sur le monstre (max. 1). Vous pouvez retirer tous les Compteurs Cuirasse des monstres de votre adversaire ; jusqu'à la fin de ce tour, l'ATK/DEF de ces monstres qui avaient des Compteurs Cuirasse deviennent 0.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/03/03",
+  "species_id": 16,
+  "starchip": "7"
+}

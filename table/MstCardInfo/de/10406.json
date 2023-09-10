@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 1,
+  "card_id": 10406,
+  "card_name": "ZW - Löwenwaffen",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 Monster der Stufe 5$NKann nicht direkt angreifen. Einmal pro Spielzug: Du kannst 1 Material von dieser Karte abhängen; füge deiner Hand 1 „ZW -“-Monster von deinem Deck hinzu. Du kannst 1 „Utopia“-Monster wählen, das du kontrollierst; rüste das gewählte Ziel mit diesem Monster vom Spielfeld aus. Es erhält 3000 ATK. Während deiner Battle Phase, falls das ausgerüstete Monster in diesem Spielzug angegriffen hat: Du kannst diese Ausrüstungskarte auf den Friedhof legen; das ausgerüstete Monster kann während dieser Battle Phase einen zweiten Angriff gegen ein Monster eines Gegners durchführen.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/01/24",
+  "species_id": 11,
+  "starchip": "5"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 2,
+  "card_id": 5477,
+  "card_name": "툰 캐논 솔저",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "일반 소환/반전 소환/특수 소환한 턴에는 공격할 수 없다. 필드 위의 \"툰 월드\"가 파괴되었을 때 이 카드도 파괴한다. 자신의 필드 위에 \"툰 월드\"가 있고 상대가 툰을 컨트롤하고 있지 않을 경우, 이 카드는 상대 플레이어를 직접 공격할 수 있다. 자신의 필드 위에 존재하는 몬스터 1장을 제물로 바칠 때마다, 상대 라이프에 500 포인트 데미지를 준다.",
+  "defense_power": "1300",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 6,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/09/28",
+  "species_id": 7,
+  "starchip": "4"
+}

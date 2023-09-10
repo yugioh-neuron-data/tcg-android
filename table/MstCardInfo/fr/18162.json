@@ -1,0 +1,23 @@
+{
+  "attack_power": "2300",
+  "attribute_id": 5,
+  "card_id": 18162,
+  "card_name": "Jioh le Ninja de la Gravité",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si cette carte est Invoquée Normalement/Spécialement ou retournée face recto : vous pouvez cibler max. 2 monstres face recto sur le Terrain ; changez-les en Position de Défense face verso, et si vous le faites, les monstres de l'adversaire qui ont été retournés par cet effet ne peuvent pas changer leur position de combat. Si un monstre sur le Terrain est retourné face recto, tant que ce monstre est face recto sur le Terrain (sauf durant la Damage Step) : vous pouvez cibler 1 carte contrôlée par votre adversaire ; détruisez-la. Vous ne pouvez utiliser chaque effet de \"Jioh le Ninja de la Gravité\" qu'une fois par tour.",
+  "defense_power": "2900",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/02/06",
+  "species_id": 6,
+  "starchip": "8"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 1,
+  "card_id": 10595,
+  "card_name": "Chevalier Noble Gwalchavad",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cette carte est traitée comme un Monstre Normal tant qu'elle est face recto sur le Terrain. Tant qu'elle est équipée avec une Carte Magie d'Équipement \"Armes Nobles\", cette carte devient un Monstre à Effet avec cet effet.$N●Vous pouvez cibler 1 monstre \"Chevalier Noble\" dans votre Cimetière ; ajoutez-le à votre main, et si vous le faites, détruisez 1 Carte Magie d'Équipement \"Armes Nobles\" que vous contrôlez. Vous ne pouvez utiliser cet effet de \"Chevalier Noble Gwalchavad\" qu'une fois par tour.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/05/16",
+  "species_id": 15,
+  "starchip": "4"
+}

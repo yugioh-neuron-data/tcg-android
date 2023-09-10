@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 7386,
+  "card_name": "トーチ・ゴーレム",
+  "card_name_label": "トーチ・ゴーレム",
+  "card_name_search": "とーちごーれむ",
+  "card_pen_effect": "",
+  "card_text": "このカードは通常召喚できない。自分フィールドに「トーチトークン」（悪魔族・闇・星１・攻／守０）２体を攻撃表示で特殊召喚する事によって相手フィールドに特殊召喚できる。このカードを特殊召喚するターン、自分は通常召喚できない。",
+  "defense_power": "300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/10/20",
+  "species_id": 3,
+  "starchip": "8"
+}

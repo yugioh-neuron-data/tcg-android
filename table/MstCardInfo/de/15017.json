@@ -1,0 +1,23 @@
+{
+  "attack_power": "2250",
+  "attribute_id": 5,
+  "card_id": 15017,
+  "card_name": "Gizmek Uka, der festliche Fuchs der Fruchtbarkeit",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Jedes Mal, wenn dein Gegner ein oder mehr Monster als Normal- oder Spezialbeschwörung beschwört: Füge ihm 300 Schaden zu. Du kannst jeden der folgenden Effekte von „Gizmek Uka, der festliche Fuchs der Fruchtbarkeit“ nur einmal pro Spielzug verwenden.$N●Falls ein oder mehr Monster als Spezialbeschwörung vom Main Deck beschworen werden (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören.$N●Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 offenes Monster wählen, das dein Gegner kontrolliert; beschwöre 1 Monster, das eine selbe Eigenschaft wie das Monster hat und dessen ATK seinen eigenen DEF entsprechen, als Spezialbeschwörung von deiner Hand oder deinem Deck.",
+  "defense_power": "2250",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/30",
+  "species_id": 7,
+  "starchip": "7"
+}

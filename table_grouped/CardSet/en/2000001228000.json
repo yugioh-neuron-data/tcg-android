@@ -1,0 +1,947 @@
+[
+  {
+    "card_count": 1,
+    "card_id": 7504,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN093",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 9416,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN094",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17069,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN100",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 47
+  },
+  {
+    "card_count": 1,
+    "card_id": 17725,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN095",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17726,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN096",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 17727,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN000",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 17728,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN097",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 18027,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN098",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 18146,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN001",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18147,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN002",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18148,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN003",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 18149,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN004",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18150,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN005",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 18151,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN006",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 18152,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN007",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18153,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN008",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 18154,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN009",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 18155,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN010",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18156,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN011",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18157,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN012",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18158,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN013",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 18159,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN014",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18160,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN015",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18161,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN016",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18162,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN017",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18163,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN018",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18164,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN019",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18165,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN020",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18166,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN021",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 18167,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN022",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18168,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN023",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 18169,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN024",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18170,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN025",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 18171,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN026",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18172,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN027",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18173,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN028",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 18174,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN029",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18175,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN030",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 18176,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN031",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 18177,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN032",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 18178,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN033",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 18178,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN033",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 47
+  },
+  {
+    "card_count": 1,
+    "card_id": 18179,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN034",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 18180,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN035",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 18181,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN036",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18182,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN037",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 18183,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN038",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 18184,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN039",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 18185,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN040",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18186,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN041",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 18187,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN042",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18188,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN043",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 18189,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN044",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 18190,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN045",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 18191,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN046",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 18191,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN046",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 47
+  },
+  {
+    "card_count": 1,
+    "card_id": 18192,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN047",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 18193,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN048",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 18193,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN048",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 47
+  },
+  {
+    "card_count": 1,
+    "card_id": 18194,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN049",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18195,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN050",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18196,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN051",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18197,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN052",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18198,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN053",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18199,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN054",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18200,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN055",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 18201,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN056",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18202,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN057",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18203,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN058",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 18204,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN059",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 18205,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN060",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18206,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN061",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18207,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN062",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18208,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN063",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 18209,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN064",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18210,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN065",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18211,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN066",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18212,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN067",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18213,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN068",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18214,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN069",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 18215,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN070",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18216,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN071",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18217,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN072",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18218,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN073",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18219,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN074",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 18220,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN075",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18221,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN076",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18222,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN077",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 18223,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN078",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 18224,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN079",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18225,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN080",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18322,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN099",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 18450,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN081",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18451,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN082",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 18452,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN083",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18453,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN084",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 18454,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN085",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 18455,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN086",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 18456,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN087",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 18457,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN088",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 18457,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN088",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 47
+  },
+  {
+    "card_count": 1,
+    "card_id": 18458,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN089",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 18459,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN090",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 18460,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN091",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 18461,
+    "card_image_id": 1,
+    "card_number": "PHHY-EN092",
+    "language": "en",
+    "pack_id": "2000001228000",
+    "rarity_id": 3
+  }
+]

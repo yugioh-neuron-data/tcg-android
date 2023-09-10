@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 4,
+  "card_id": 5974,
+  "card_name": "プロミネンス・ドラゴン",
+  "card_name_label": "プロミネンス・ドラゴン",
+  "card_name_search": "ぷろみねんすどらごん",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上にこのカード以外の炎族モンスターが存在する場合、このカードを攻撃する事はできない。自分のターンのエンドフェイズ時、このカードは相手ライフに５００ポイントダメージを与える。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2003/11/20",
+  "species_id": 4,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11478,
+  "card_name": "Campo di Addestramento Yosen",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Ogni volta che uno o più mostri \"Yosenju\" vengono Evocati Normalmente o Specialmente, metti 1 Segnalino Yosen su questa carta. Puoi rimuovere un qualsiasi numero di Segnalini Yosen da questa carta; applica questo effetto, a seconda del numero di Segnalini Yosen rimossi. Puoi utilizzare questo effetto di \"Campo di Addestramento Yosen\" una sola volta per turno.$N●1 Segnalino: Tutti i mostri \"Yosenju\" che controlli attualmente guadagnano 300 ATK fino alla fine di questo turno (anche se questa carta lascia il Terreno).$N●3 Segnalini: Aggiungi 1 carta \"Yosenju\" dal tuo Deck o Cimitero alla tua mano.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/02/12",
+  "species_id": 24,
+  "starchip": "0"
+}

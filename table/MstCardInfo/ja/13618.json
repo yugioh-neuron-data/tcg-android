@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13618,
+  "card_name": "にらみ合い",
+  "card_name_label": "にらみあい",
+  "card_name_search": "にらみあい",
+  "card_pen_effect": "",
+  "card_text": "①：自分がEXモンスターゾーンにモンスターを特殊召喚した時、相手のメインモンスターゾーンのモンスター１体を対象として発動できる。その相手モンスターを、その自分のEXモンスターゾーンのモンスターと同じ縦列の相手のメインモンスターゾーンに移動する。②：相手がEXモンスターゾーンにモンスターを特殊召喚した時、自分のメインモンスターゾーンのモンスター１体を対象として発動できる。その自分のモンスターを、その相手のEXモンスターゾーンのモンスターと同じ縦列の自分のメインモンスターゾーンに移動する。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/01/13",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 6288,
+  "card_name": "ユニオン・アタック",
+  "card_name_label": "ユニオン・アタック",
+  "card_name_search": "ゆにおんあたっく",
+  "card_pen_effect": "",
+  "card_text": "①：自分フィールドの表側表示モンスター１体を対象として発動できる。このターンのバトルフェイズ開始時、そのモンスターの攻撃力は、他の自分フィールドの攻撃表示モンスターの攻撃力の合計分、バトルフェイズ終了時までアップする。このターン、対象のモンスターが相手に与える戦闘ダメージは０になり、他の自分のモンスターは攻撃できない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/10/21",
+  "species_id": 24,
+  "starchip": "0"
+}

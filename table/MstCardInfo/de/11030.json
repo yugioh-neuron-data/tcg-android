@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 1,
+  "card_id": 11030,
+  "card_name": "ZS - Weiser des Verschwindens",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls du ein „Utopia“-Monster kontrollierst: Du kannst 1 Karte ziehen. Falls Monster, die du kontrollierst, während der Battle Phase verbannt werden (außer während des Damage Steps): Du kannst diese Karte vom Spielfeld verbannen und dann 1 der verbannten Monster wählen; beschwöre das gewählte Ziel als Spezialbeschwörung und falls du dies tust, verbanne 1 Monster, das dein Gegner kontrolliert und das 3000 oder weniger ATK hat. Du kannst nur 1 Effekt von „ZS - Weiser des Verschwindens“ pro Spielzug verwenden und in dem Spielzug nur einmal.",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/05/15",
+  "species_id": 15,
+  "starchip": "1"
+}

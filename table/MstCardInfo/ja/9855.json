@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 9855,
+  "card_name": "ガガガバック",
+  "card_name_label": "ガガガバック",
+  "card_name_search": "がががばっく",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上の「ガガガ」と名のついたモンスターが戦闘で破壊され墓地へ送られたターンに発動できる。このターン戦闘で破壊されたモンスターを可能な限り自分の墓地から表側守備表示で特殊召喚する。その後、この効果で特殊召喚したモンスター１体につき、自分は６００ポイントのダメージを受ける。「ガガガバック」は１ターンに１枚しか発動できない。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/10/15",
+  "species_id": 24,
+  "starchip": "0"
+}

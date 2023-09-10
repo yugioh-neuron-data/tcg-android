@@ -1,0 +1,23 @@
+{
+  "attack_power": "4000",
+  "attribute_id": 2,
+  "card_id": 11514,
+  "card_name": "Beelzeus des Dragons Diaboliques",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Syntoniseur TÉNÈBRES + 2+ monstres non-Syntoniseur$NNon destructible ni au combat ni par des effets de carte. Les autres monstres que vous contrôlez ne peuvent pas attaquer. Une fois par tour : vous pouvez cibler 1 monstre contrôlé par votre adversaire ; les dommages de combat reçus par votre adversaire d'attaques impliquant cette carte ce tour sont divisés par deux, et aussi, changez l'ATK du monstre à 0, et si vous le faites, gagnez des LP égaux à son ATK d'origine.",
+  "defense_power": "4000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/10/04",
+  "species_id": 1,
+  "starchip": "10"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 6,
+  "card_id": 9722,
+  "card_name": "바늘 검사",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드가 상대 라이프에 전투 데미지를 주었을 때, 상대의 마법 & 함정 카드 존에 앞면 표시로 존재하는 카드를 전부 주인의 패로 되돌린다.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/01/04",
+  "species_id": 15,
+  "starchip": "1"
+}

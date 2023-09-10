@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 2,
+  "card_id": 12149,
+  "card_name": "Incisore del Marchio",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Quando il tuo avversario attiva una carta o un effetto dichiarando il nome di esattamente 1 carta (Effetto Rapido): puoi mandare questa carta dalla tua mano al Cimitero; dichiara il nome di 1 altra carta. Il nome della carta dichiarato dal tuo avversario diventa il nome della carta dichiarato da questo effetto. Una volta per turno (Effetto Rapido): puoi scegliere come bersaglio 1 carta scoperta sul Terreno; distruggila durante la End Phase del prossimo turno.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/12/11",
+  "species_id": 18,
+  "starchip": "4"
+}

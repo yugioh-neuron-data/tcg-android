@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 1,
+  "card_id": 6988,
+  "card_name": "HÉROE Elemental Neos Brillante",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"HÉROE Elemental Neos\" + \"Musgo Refulgente Neo Espacial\"$NEsta carta sólo puede ser Invocada de modo Especial desde tu Deck Extra devolviendo al Deck las cartas citadas arriba; tú debes controlarlas (no usas \"Polimerización\"). Una vez por turno, durante tu Main Phase 1, puedes destruir 1 carta boca arriba que controle tu adversario. Basándote en el Tipo de carta, aplica el efecto apropiado:$N●Monstruo: Esta carta no puede batallar este turno.$N●Mágica: Esta carta puede atacar directamente a tu adversario este turno.$N●Trampa: Esta carta se cambia a Posición de Defensa.$NEsta carta vuelve al Deck Extra durante la End Phase.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/02/28",
+  "species_id": 15,
+  "starchip": "7"
+}

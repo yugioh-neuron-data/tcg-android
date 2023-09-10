@@ -1,0 +1,23 @@
+{
+  "attack_power": "200",
+  "attribute_id": 2,
+  "card_id": 16505,
+  "card_name": "レプティレス・ニャミニ",
+  "card_name_label": "レプティレス・ニャミニ",
+  "card_name_search": "れぷてぃれすにゃみに",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：自分の墓地に爬虫類族モンスターが存在する場合、自分・相手のメインフェイズに、このカードを手札から墓地へ送り、相手フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターの攻撃力を０にする。②：相手フィールドに攻撃力０のモンスターが存在する場合に発動できる。このカードを墓地から特殊召喚する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/07/17",
+  "species_id": 20,
+  "starchip": "2"
+}

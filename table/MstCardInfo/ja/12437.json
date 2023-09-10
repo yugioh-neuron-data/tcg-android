@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 1,
+  "card_id": 12437,
+  "card_name": "放電ムスタンガン",
+  "card_name_label": "ほうでんムスタンガン",
+  "card_name_search": "ほうでんむすたんがん",
+  "card_pen_effect": "",
+  "card_text": "このカードは通常召喚できず、自分が特殊召喚を行っていない自分メインフェイズ１に、カードの効果でのみ特殊召喚できる。①：このカードは１ターンに２度まで戦闘では破壊されない。②：このカードがモンスターゾーンに存在する限り、ターンプレイヤーはそのターン攻撃した回数と同じ回数までしかモンスターを特殊召喚できない。",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/04/09",
+  "species_id": 19,
+  "starchip": "4"
+}

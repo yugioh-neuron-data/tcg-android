@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 17601,
+  "card_name": "Morphtronischer Umwandler",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wähle 1 Maschine-Monster, das du kontrollierst; führe den folgenden Effekt aus, abhängig von seiner Kampfposition.$N●Angriffsposition: Beschwöre 1 „Morphtronisch“-Monster mit einem unterschiedlichen Namen als jenes als Ziel gewählte Monster als Spezialbeschwörung von deinem Deck, dann lege jenes als Ziel gewählte Monster aufs Deck.$N●Verteidigungsposition: Ändere jenes als Ziel gewählte Monster in die Angriffsposition und falls du dies tust, beschwöre 1 Maschine-Monster der Stufe 4 oder niedriger als Spezialbeschwörung von deiner Hand.$NDu kannst nur 1 „Morphtronischer Umwandler“ pro Spielzug aktivieren.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/08/04",
+  "species_id": 24,
+  "starchip": "0"
+}

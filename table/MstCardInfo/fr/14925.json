@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 2,
+  "card_id": 14925,
+  "card_name": "Magicien du Ciel Potartiste",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Lorsqu'exactement 1 Monstre Fusion, Synchro ou Xyz face recto que vous contrôlez qui a été Invoqué Spécialement depuis l'Extra Deck est détruit au combat ou par un effet de carte de l'adversaire : vous pouvez Invoquer Spécialement le monstre détruit, puis détruisez cette carte. Vous ne pouvez utiliser cet effet de \"Magicien du Ciel Potartiste\" qu'une fois par tour.",
+  "card_text": "Durant votre Main Phase, si cette carte a été Invoquée Normalement ou Spécialement ce tour : le reste de ce tour, vous pouvez appliquer les effets suivants, selon les autres monstres que vous contrôlez actuellement.$N●Fusion : Cette carte peut attaquer directement.$N●Synchro : Votre adversaire ne peut pas activer d'effets de monstre.$N●Xyz : L'ATK de cette carte devient le double de son ATK d'origine.$N●Pendule : Durant la End Phase, ajoutez 1 Monstre Pendule depuis votre Deck à votre main.$NVous ne pouvez utiliser cet effet de \"Magicien du Ciel Potartiste\" qu'une fois par tour.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "8",
+  "pen_scale_r": "8",
+  "sales_at": "2020/01/16",
+  "species_id": 18,
+  "starchip": "4"
+}

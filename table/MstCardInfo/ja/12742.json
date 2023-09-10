@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 6,
+  "card_id": 12742,
+  "card_name": "WW－アイス・ベル",
+  "card_name_label": "ウィンド・ウィッチ－アイス・ベル",
+  "card_name_search": "うぃんどうぃっちあいすべる",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドにモンスターが存在しない場合に発動できる。このカードを手札から特殊召喚する。その後、デッキから「WW」モンスター１体を特殊召喚できる。この効果でデッキから特殊召喚したモンスターはリリースできず、この効果を発動するターン、自分はレベル５以上の風属性モンスターしかEXデッキから特殊召喚できない。②：このカードが召喚・特殊召喚に成功した場合に発動できる。相手に５００ダメージを与える。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/10/08",
+  "species_id": 18,
+  "starchip": "3"
+}

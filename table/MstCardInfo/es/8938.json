@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 5,
+  "card_id": 8938,
+  "card_name": "Zarigüeya Juguetona",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante tu Main Phase: puedes destruir esta carta boca arriba en el Campo. Tu adversario debe controlar un monstruo con ATK mayor al de esta carta para que actives y resuelvas este efecto. Durante tu Standby Phase, si esta carta fue destruida por este efecto: puedes Invocar esta carta de Modo Especial desde el Cementerio.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/08/12",
+  "species_id": 11,
+  "starchip": "2"
+}

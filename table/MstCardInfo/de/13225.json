@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 13225,
+  "card_name": "Anesthrakketen-Drache",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wenn der Effekt eines Linkmonsters aktiviert wird, der diese offene Karte auf dem Spielfeld als Ziel wählt (Schnelleffekt): Du kannst diese Karte zerstören und dann 1 offenes Monster auf dem Spielfeld unfähig zum Angreifen machen, zusätzlich bleiben seine Effekte annulliert. Während der End Phase, falls sich diese Karte im Friedhof befindet, weil sie in diesem Spielzug auf dem Spielfeld durch Kampf oder einen Karteneffekt zerstört und dorthin gelegt wurde: Du kannst 1 „Rakkete“-Monster als Spezialbeschwörung von deinem Deck beschwören, außer „Anesthrakketen-Drache“. Du kannst jeden Effekt von „Anesthrakketen-Drache“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "2200",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/10/19",
+  "species_id": 1,
+  "starchip": "1"
+}

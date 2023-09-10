@@ -1,0 +1,23 @@
+{
+  "attack_power": "4000",
+  "attribute_id": 2,
+  "card_id": 15377,
+  "card_name": "Sin パラダイム・ドラゴン",
+  "card_name_label": "シン　パラダイム・ドラゴン",
+  "card_name_search": "しんぱらだいむどらごん",
+  "card_pen_effect": "",
+  "card_text": "このカードは通常召喚できない。フィールドに「Sin パラダイム・ドラゴン」が存在しない場合に、EXデッキから「Sin」モンスター１体を除外した場合のみ特殊召喚できる。①：フィールドに「Sin World」が存在しない場合にこのカードは破壊される。②：１ターンに１度、デッキから「Sin」カード１枚を墓地へ送って発動できる。除外されている自分のレベル８のSモンスター１体をEXデッキに戻す。その後、そのモンスターをEXデッキから特殊召喚できる。このターン、自分は「Sin」モンスターでしか攻撃できない。",
+  "defense_power": "4000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/06/20",
+  "species_id": 1,
+  "starchip": "10"
+}

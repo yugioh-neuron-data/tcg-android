@@ -1,0 +1,23 @@
+{
+  "attack_power": "1900",
+  "attribute_id": 2,
+  "card_id": 5515,
+  "card_name": "墓守の長",
+  "card_name_label": "はかもりのおさ",
+  "card_name_search": "はかもりのおさ",
+  "card_pen_effect": "",
+  "card_text": "このカードは自分のフィールド上に１枚しか存在できない。このカードがフィールド上に存在する限り、自分の墓地は「王家の眠る谷－ネクロバレー」の効果を受けない。このカードが生け贄召喚に成功した場合、自分の墓地に存在する「墓守の」という名のついたモンスターカード１枚をフィールド上に特殊召喚する事ができる。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/05/16",
+  "species_id": 18,
+  "starchip": "5"
+}

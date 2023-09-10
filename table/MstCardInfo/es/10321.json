@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 1,
+  "card_id": 10321,
+  "card_name": "Dragón Legendario de Blanco",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "3 monstruos de Nivel 8$NDebe ser Invocado Xyz y no puede ser Invocado de Modo Especial de otra forma. Si esta carta ataca a tu adversario directamente y reduce sus LP a 0, mientras tenga un Material Xyz acoplado a ella que originalmente era de Tipo Dragón, ganas el Match.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/04/16",
+  "species_id": 1,
+  "starchip": "8"
+}

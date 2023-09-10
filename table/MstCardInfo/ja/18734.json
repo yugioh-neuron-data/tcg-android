@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 18734,
+  "card_name": "Stake Your Soul！",
+  "card_name_label": "ステイク ユア ソウル！",
+  "card_name_search": "すていくゆあそうる",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。$N①：手札のモンスター１体を相手に見せて発動できる。見せたモンスターとはカード名が異なり、属性が同じ「VS」モンスター１体をデッキから特殊召喚する。この効果で特殊召喚したモンスターはエンドフェイズに持ち主の手札に戻る。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/03/18",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "-1",
+  "attribute_id": 1,
+  "card_id": 8027,
+  "card_name": "Escáner",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Una vez por turno, puedes seleccionar 1 de los monstruos de tu adversario que haya sido retirado del juego. Hasta la End Phase, el nombre de esta carta se trata como el nombre de la carta elegida, y esta carta tiene los mismos Atributo, Nivel, ATK y DEF que el monstruo seleccionado. Si esta carta es retirada del Campo mientras este efecto está activado, retírala del juego.",
+  "defense_power": "-1",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/03/03",
+  "species_id": 7,
+  "starchip": "1"
+}

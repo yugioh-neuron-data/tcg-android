@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 3,
+  "card_id": 12274,
+  "card_name": "Artistamigo Cáscara de Cangrejo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Una vez por turno, cuando un monstruo \"Artistamigo\" que controlas es destruido en batalla: puedes seleccionar 1 carta \"Artistamigo\" u \"Ojos Anómalos\" en tu Zona del Péndulo; Invócalo de Modo Especial.",
+  "card_text": "Una vez por turno: puedes seleccionar 1 Monstruo de Péndulo que controles; hasta el final de este turno, éste gana 300 ATK por cada monstruo \"Artistamigo\" que controles en este momento.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "2",
+  "pen_scale_r": "2",
+  "sales_at": "2016/05/05",
+  "species_id": 14,
+  "starchip": "5"
+}

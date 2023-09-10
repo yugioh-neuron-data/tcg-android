@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 1,
+  "card_id": 11218,
+  "card_name": "Artistamico Caleidoscorpione",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Tutti i mostri LUCE che controlli guadagnano 300 ATK.",
+  "card_text": "Una volta per turno: puoi scegliere come bersaglio 1 mostro scoperto che controlli; in questo turno, esso può attaccare tutti i mostri Evocati Specialmente controllati dal tuo avversario, una volta ciascuno.",
+  "defense_power": "2300",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "4",
+  "pen_scale_r": "4",
+  "sales_at": "2014/08/14",
+  "species_id": 10,
+  "starchip": "6"
+}

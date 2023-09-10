@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 2,
+  "card_id": 12899,
+  "card_name": "Diabound Kernel",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wenn diese Karte einen Angriff deklariert: Sie erhält 600 ATK. (Schnelleffekt): Du kannst 1 offenes Monster wählen, das dein Gegner kontrolliert; es verliert bis zum Ende dieses Spielzugs ATK in Höhe der derzeitigen ATK dieser Karte, dann verbanne diese Karte bis zur Standby Phase des nächsten Spielzugs. Du kannst diesen Effekt von „Diabound Kernel“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/03/30",
+  "species_id": 3,
+  "starchip": "5"
+}

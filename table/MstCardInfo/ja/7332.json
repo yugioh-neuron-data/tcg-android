@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 3,
+  "card_id": 7332,
+  "card_name": "デュアル・サモナー",
+  "card_name_label": "デュアル・サモナー",
+  "card_name_search": "でゅあるさもなー",
+  "card_pen_effect": "",
+  "card_text": "相手のエンドフェイズ時に１度だけ５００ライフポイントを払って発動する事ができる。手札または自分フィールド上に表側表示で存在するデュアルモンスター１体を通常召喚する。また、このカードは１ターンに１度だけ、戦闘では破壊されない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/12/22",
+  "species_id": 18,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 12844,
+  "card_name": "Caliga Invokado",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"Aleister, el que Invoka\" + 1 monstruo de OSCURIDAD$NCada jugador sólo puede intentar activar 1 efecto de monstruo por turno. Cada jugador sólo puede atacar con 1 monstruo durante cada Battle Phase.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/02/23",
+  "species_id": 11,
+  "starchip": "4"
+}

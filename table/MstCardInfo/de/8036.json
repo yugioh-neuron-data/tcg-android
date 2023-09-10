@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 2,
+  "card_id": 8036,
+  "card_name": "Schwarzflügel-Rüstungsmeister",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 „Schwarzflügel“-Empfänger + 1+ Nicht-Empfänger-Monster$NKann nicht durch Kampf zerstört werden und du erhältst keinen Kampfschaden aus Angriffen, an denen diese Karte beteiligt ist. Am Ende des Damage Steps, falls diese Karte ein Monster angegriffen hat: Du kannst 1 Keilzählmarke auf jenes Monster legen (max. 1). Du kannst alle Keilzählmarken von den Monstern deines Gegners entfernen; die ATK und DEF jener Monster, auf denen Keilzählmarken lagen, werden bis zum Ende dieses Spielzugs zu 0.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/03/03",
+  "species_id": 16,
+  "starchip": "7"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 2,
+  "card_id": 10322,
+  "card_name": "伝説の闇の魔導師",
+  "card_name_label": "レジェンダリー・マジシャン・オブ・ダーク",
+  "card_name_search": "れじぇんだりーまじしゃんおぶだーく",
+  "card_pen_effect": "",
+  "card_text": "レベル７モンスター×３$NこのカードはX召喚でしか特殊召喚できない。$N魔法使い族モンスターをX素材としているこのカードが直接攻撃で相手のLPを０にした場合、このカードのコントローラーはマッチに勝利する。",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "※公式のデュエルでは使用できません。",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/05/18",
+  "species_id": 18,
+  "starchip": "7"
+}

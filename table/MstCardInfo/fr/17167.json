@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 17167,
+  "card_name": "Malédiction Jadeglace",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Tant qu'un monstre \"Jadeglace\" et \"Berceau Enion de Cénote Jadeglace\" sont sur le Terrain, votre adversaire ne peut pas activer les effets des monstres qui ont été Invoqués ce tour. Lorsqu'un monstre est détruit au combat impliquant votre monstre \"Jadeglace\" : vous pouvez cibler 1 de ces monstres détruits ; infligez des dommages à votre adversaire égaux à l'ATK d'origine du monstre. Vous ne pouvez utiliser cet effet de \"Malédiction Jadeglace\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/05/19",
+  "species_id": 24,
+  "starchip": "0"
+}

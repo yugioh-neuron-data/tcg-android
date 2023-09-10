@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 4,
+  "card_id": 17747,
+  "card_name": "Boxenritterin Earlie",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 Effektmonster$NWenn der Effekt eines Monsters aktiviert wird, auf das diese Karte zeigt (außer während des Damage Steps) (Schnelleffekt): Du kannst 1 Effektmonster wählen, das dein Gegner kontrolliert; bis zum Ende dieses Spielzugs, ändere seine ATK zu 0, zusätzlich annulliere seine Effekte. Während der End Phase, falls sich diese Karte im Friedhof befindet, weil sie in diesem Spielzug durch Kampf oder einen Karteneffekt zerstört und dorthin gelegt wurde: Du kannst diese Karte als Spezialbeschwörung beschwören. Du kannst jeden Effekt von „Boxenritterin Earlie“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "96",
+  "linkno": "2",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/08/04",
+  "species_id": 27,
+  "starchip": ""
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 6,
+  "card_id": 8156,
+  "card_name": "ストロング・ウィンド・ドラゴン",
+  "card_name_label": "ストロング・ウィンド・ドラゴン",
+  "card_name_search": "すとろんぐうぃんどどらごん",
+  "card_pen_effect": "",
+  "card_text": "①：ドラゴン族モンスター１体をリリースしてこのカードのアドバンス召喚に成功した場合に発動する。このカードの攻撃力は、リリースしたそのモンスターの元々の攻撃力の半分だけアップする。②：このカードは同じ攻撃力のモンスターとの戦闘では破壊されない。③：このカードが守備表示モンスターを攻撃した場合、その守備力を攻撃力が超えた分だけ戦闘ダメージを与える。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/02/14",
+  "species_id": 1,
+  "starchip": "6"
+}

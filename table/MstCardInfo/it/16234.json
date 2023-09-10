@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 2,
+  "card_id": 16234,
+  "card_name": "Voloferniges, il Più Oscuro Drago Destinocavalcatore",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 mostri di Livello 7$NUna volta per turno: puoi staccare 2 materiali da questa carta, poi scegliere come bersaglio 1 carta scoperta sul Terreno; distruggila e, se hai distrutto un mostro, puoi far guadagnare a 1 mostro scoperto che controlli ATK pari al Livello/Rango originale del mostro distrutto x 300 fino alla fine del prossimo turno. Questa carta non può attaccare nel turno in cui attivi questo effetto. Questo è un Effetto Rapido se questa carta ha un mostro Drago come materiale, ma non può essere attivato nel Damage Step.",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/08/12",
+  "species_id": 1,
+  "starchip": "7"
+}

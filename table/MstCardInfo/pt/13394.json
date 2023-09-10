@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 1,
+  "card_id": 13394,
+  "card_name": "Besta Mítica Medusa",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Se você não tiver nenhum card na sua outra Zona de Pêndulo: você pode escolher 1 monstro no seu Cemitério sobre o qual você possa colocar um Marcador de Magia; destrua este card e, se isso acontecer, Invoque esse monstro por Invocação-Especial e, se isso acontecer, coloque 1 Marcador de Magia sobre ele. Você só pode usar este efeito de \"Besta Mítica Medusa\" uma vez por turno.",
+  "card_text": "Sempre que um Card de Magia for ativado, coloque 1 Marcador de Magia neste card quando essa Magia resolver. Uma vez por turno, durante a Fase de Batalha (Efeito Rápido): você pode remover 2 Marcadores de Magia do seu campo e, depois, escolher 1 monstro com a face para cima no campo; o ATK/DEF dele se tornam metade do seu ATK/DEF atual até o final deste turno.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "4",
+  "pen_scale_r": "4",
+  "sales_at": "2018/02/01",
+  "species_id": 18,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 7755,
+  "card_name": "ガード・ブロック",
+  "card_name_label": "ガード・ブロック",
+  "card_name_search": "がーどぶろっく",
+  "card_pen_effect": "",
+  "card_text": "相手ターンの戦闘ダメージ計算時に発動する事ができる。その戦闘によって発生する自分への戦闘ダメージは０になり、自分のデッキからカードを１枚ドローする。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/04/19",
+  "species_id": 25,
+  "starchip": "0"
+}

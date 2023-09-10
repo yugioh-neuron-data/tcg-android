@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13801,
+  "card_name": "Invocation du Dé",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Payez 1000 LP ; lancez un dé à six faces et appliquez le résultat.$N●1 ou 2 : Immédiatement après la résolution de cet effet, vous pouvez Invoquer Normalement 1 monstre.$N●3 ou 4 : Vous pouvez Invoquer Spécialement 1 monstre depuis votre Cimetière.$N●5 ou 6 : Vous pouvez Invoquer Spécialement 1 monstre de min. Niveau 5 depuis votre main.$NVous ne pouvez activer qu'1 \"Invocation du Dé\" par tour.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/06/28",
+  "species_id": 24,
+  "starchip": "0"
+}

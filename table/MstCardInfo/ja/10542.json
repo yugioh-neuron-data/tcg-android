@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10542,
+  "card_name": "緊急発進",
+  "card_name_label": "スクランブル",
+  "card_name_search": "すくらんぶる",
+  "card_pen_effect": "",
+  "card_text": "相手フィールド上のモンスターの数が、トークン以外の自分フィールド上のモンスターの数より多い場合、自分フィールド上の「幻獣機トークン」を任意の数だけリリースして発動できる。「幻獣機」と名のついたモンスターを、リリースしたトークンの数だけデッキから特殊召喚する。この効果で特殊召喚したモンスターはエンドフェイズ時に持ち主のデッキに戻る。「緊急発進」は１ターンに１枚しか発動できない。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/02/16",
+  "species_id": 24,
+  "starchip": "0"
+}

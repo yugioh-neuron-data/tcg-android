@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 5005,
+  "card_name": "Anneau de Destruction",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durant le tour de votre adversaire : ciblez 1 monstre face recto contrôlé par votre adversaire dont l'ATK est inférieure ou égale à ses LP ; détruisez le monstre face recto, et si vous le faites, recevez des dommages égaux à son ATK d'origine, puis infligez des dommages à votre adversaire égaux aux dommages que vous avez reçus. Vous ne pouvez activer qu'1 \"Anneau de Destruction\" par tour.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/02/06",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 1,
+  "card_id": 11784,
+  "card_name": "慧眼の魔術師",
+  "card_name_label": "けいがんのまじゅつし",
+  "card_name_search": "けいがんのまじゅつし",
+  "card_pen_effect": "①：もう片方の自分のPゾーンに「魔術師」カードまたは「EM」カードが存在する場合に発動できる。このカードを破壊し、デッキから「慧眼の魔術師」以外の「魔術師」Pモンスター１体を選び、自分のPゾーンに置く。",
+  "card_text": "①：このカードを手札から捨て、自分のPゾーンの、Pスケールが元々の数値と異なるカード１枚を対象として発動できる。そのカードのPスケールはターン終了時まで元々の数値になる。",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2015/04/21",
+  "species_id": 18,
+  "starchip": "4"
+}

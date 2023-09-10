@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 12843,
+  "card_name": "召喚師アレイスター",
+  "card_name_label": "しょうかんしアレイスター",
+  "card_name_search": "しょうかんしあれいすたー",
+  "card_pen_effect": "",
+  "card_text": "①：このカードを手札から墓地へ送り、自分フィールドの融合モンスター１体を対象として発動できる。そのモンスターの攻撃力・守備力はターン終了時まで１０００アップする。この効果は相手ターンでも発動できる。②：このカードが召喚・リバースした場合に発動できる。デッキから「召喚魔術」１枚を手札に加える。",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/11/12",
+  "species_id": 18,
+  "starchip": "4"
+}

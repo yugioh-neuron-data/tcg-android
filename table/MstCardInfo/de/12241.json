@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 5,
+  "card_id": 12241,
+  "card_name": "Stahlkavallerie von Dinon",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Am Beginn des Damage Steps, falls diese Karte gegen ein Pendelmonster kämpft: Die ATK und DEF dieser Karte werden bis zum Ende des Damage Steps zur Hälfte ihrer derzeitigen ATK und DEF.",
+  "defense_power": "2600",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2016/01/09",
+  "species_id": 9,
+  "starchip": "4"
+}

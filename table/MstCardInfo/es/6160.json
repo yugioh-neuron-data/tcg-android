@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 5,
+  "card_id": 6160,
+  "card_name": "Bloqueador",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Puedes Sacrificar esta carta; Invoca de Modo Especial, en Posición de Defensa, una cantidad de \"Ficha Bloqueadora\" (Tipo Roca/TIERRA/Nivel 4/ATK 1000/DEF 1500) igual al número de tus turnos que esta carta haya estado boca arriba en tu Campo. Estas Fichas no pueden declarar un ataque.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/03/09",
+  "species_id": 6,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 2,
+  "card_id": 17792,
+  "card_name": "Lobo Silencioso Calupo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si esta carta es Invocada de Modo Normal o Especial: equipa a esta carta la carta de la parte superior de tu Deck como una Mágica de Equipo boca abajo que le da 500 ATK. Durante la End Phase: tu adversario dice el tipo original (Monstruo, Mágica o Trampa) de esa Carta de Equipo equipada por efecto de esta carta. Si dice el correcto, manda esta carta al Cementerio. Si no dice el correcto, descarta 1 carta al azar de la mano de tu adversario y, si lo haces, devuelve esta carta a la mano. Sólo puedes usar este efecto de \"Lobo Silencioso Calupo\" una vez por turno.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/10/20",
+  "species_id": 12,
+  "starchip": "4"
+}

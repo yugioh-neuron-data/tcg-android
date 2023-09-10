@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 5,
+  "card_id": 11900,
+  "card_name": "トゥーン・アンティーク・ギアゴーレム",
+  "card_name_label": "トゥーン・アンティーク・ギアゴーレム",
+  "card_name_search": "とぅーんあんてぃーくぎあごーれむ",
+  "card_pen_effect": "",
+  "card_text": "①：このカードは召喚・反転召喚・特殊召喚したターンには攻撃できない。②：自分フィールドに「トゥーン・ワールド」が存在し、相手フィールドにトゥーンモンスターが存在しない場合、このカードは直接攻撃できる。③：このカードが攻撃する場合、相手はダメージステップ終了時まで魔法・罠カードを発動できない。④：このカードが守備表示モンスターを攻撃した場合、その守備力を攻撃力が超えた分だけ戦闘ダメージを与える。",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 6,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/05/16",
+  "species_id": 7,
+  "starchip": "8"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 15954,
+  "card_name": "Coordius el Tratomonio Trifásico",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Monstruo de Sincronía + 1 Monstruo Xyz + 1 Monstruo de Enlace$NUna vez mientras esta carta Invocada por Fusión esté boca arriba en el Campo: puedes pagar LP en múltiplos de 2000 y elegir 1 efecto por cada 2000 LP pagados (sólo puedes aplicar cada efecto una vez, y los resuelves en el orden listado, saltándote los que no hayan sido elegidos);$N●Añade a tu mano 1 Mágica/Trampa en tu Cementerio.$N●Destruye 3 cartas que controle tu adversario.$N●Este turno, esta carta gana ATK igual a la mitad de la diferencia entre tus LP y los de tu adversario, y además tus otros monstruos no pueden atacar.$NSólo puedes usar este efecto de \"Coordius el Tratomonio Trifásico\" una vez por turno.",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/02/04",
+  "species_id": 3,
+  "starchip": "9"
+}

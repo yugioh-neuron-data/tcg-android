@@ -1,0 +1,23 @@
+{
+  "attack_power": "1900",
+  "attribute_id": 1,
+  "card_id": 15018,
+  "card_name": "Trias Hierarchia",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante la Main Phase, se questa carta è nella tua mano o Cimitero (Effetto Rapido): puoi offrire come Tributo fino a 3 mostri Fata; Evoca Specialmente questa carta (ma bandiscila quando lascia il Terreno), poi puoi applicare i seguenti effetti in ordine, a seconda del numero di mostri offerti come Tributo.$N●2+: Distruggi 1 carta controllata dal tuo avversario.$N●3: Pesca 2 carte.$NPuoi utilizzare questo effetto di \"Trias Hierarchia\" una sola volta per turno.",
+  "defense_power": "2900",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/30",
+  "species_id": 17,
+  "starchip": "9"
+}

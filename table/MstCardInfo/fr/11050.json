@@ -1,0 +1,23 @@
+{
+  "attack_power": "2600",
+  "attribute_id": 6,
+  "card_id": 11050,
+  "card_name": "Sagequoia Sylvan",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsqu'un monstre \"Sylvan\" est envoyé au Cimetière (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte depuis votre main. Une fois par tour : vous pouvez dévoiler la carte du dessus de votre Deck, et si c'est un monstre de Type Plante, envoyez-la au Cimetière. Sinon, placez-la au-dessous de votre Deck. Si cette carte est dévoilée depuis le Deck et envoyée au Cimetière par un effet de carte : vous pouvez cibler 1 Carte Magie/Piège \"Sylvan\" dans votre Cimetière ; ajoutez la cible à votre main.",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/05/15",
+  "species_id": 13,
+  "starchip": "7"
+}

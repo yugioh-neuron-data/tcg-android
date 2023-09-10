@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13711,
+  "card_name": "F.A. Gewinner",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls du ein „F.A.“-Monster kontrollierst, kann diese Karte nicht durch Karteneffekte deines Gegners zerstört werden. Wenn dein „F.A.“-Monster, dessen Stufe mindestens 5 höher als seine Grund-Stufe ist, gegen ein Monster eines Gegners kämpft und deinem Gegner Kampfschaden zufügt: Du kannst 1 Karte von deiner Hand, deiner Spielfeldseite oder deinem Friedhof verbannen. Du kannst diesen Effekt von „F.A. Gewinner“ nur einmal pro Spielzug aktivieren. Falls 3 deiner „F.A.“-Spielfeldzauber mit unterschiedlichen Namen derzeit verbannt sind und sie alle durch den Effekt von „F.A. Gewinner“ verbannt wurden, gewinnst du das Duell.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/05/03",
+  "species_id": 24,
+  "starchip": "0"
+}

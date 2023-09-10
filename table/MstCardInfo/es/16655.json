@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16655,
+  "card_name": "Penetrando la Oscuridad",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si Invocas de Modo Normal o Especial uno o más Monstruos Normales que no sean Fichas (excepto durante el Damage Step): puedes robar 1 carta. Cuando es declarado un ataque que involucre un monstruo del adversario y un monstruo que tú controles que sea un Monstruo Normal de Nivel 5 o mayor, o que fue Invocado por Ritual usando un Monstruo Normal, o que fue Invocado por Fusión, Sincronía o Xyz usando un Monstruo Normal como material: hasta el final de este turno, puedes hacer que ese monstruo que controlas gane ATK igual al ATK del monstruo del adversario. Sólo puedes usar cada efecto de \"Penetrando la Oscuridad\" una vez por turno.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/09/30",
+  "species_id": 24,
+  "starchip": "0"
+}

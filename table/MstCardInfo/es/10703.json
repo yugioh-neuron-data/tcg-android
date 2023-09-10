@@ -1,0 +1,23 @@
+{
+  "attack_power": "400",
+  "attribute_id": 1,
+  "card_id": 10703,
+  "card_name": "Número 49: Canción de la Fortuna",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 monstruos de Nivel 3$NNingún jugador puede seleccionar con efectos de cartas esta carta en el Campo. Si esta carta fuera a ser destruida en batalla o por el efecto de una carta, puedes desacoplar 1 material de esta carta en su lugar. Una vez por turno, durante tu Standby Phase: gana 500 LP. Si esta carta es mandada del Campo al Cementerio: selecciona 2 monstruos de Nivel 3 en tu Cementerio; baraja ambos al Deck y, si lo haces, devuelve al Deck Extra esta carta en tu Cementerio. Sólo puedes usar este efecto de \"Número 49: Canción de la Fortuna\" una vez por turno.",
+  "defense_power": "900",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/07/11",
+  "species_id": 16,
+  "starchip": "3"
+}

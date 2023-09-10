@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 14637,
+  "card_name": "Âme Désenchaînée du Désastre",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Gagne 300 ATK pour chaque carte \"Désenchaîné\" dans votre Cimetière. Vous ne pouvez utiliser chacun des effets suivants de \"Âme Désenchaînée du Désastre\" qu'une fois par tour.$N●Vous pouvez cibler 1 monstre face recto contrôlé par votre adversaire ; immédiatement après la résolution de cet effet, Invoquez par Lien 1 Monstre Lien TÉNÈBRES en utilisant cette carte que vous contrôlez et le monstre de l'adversaire comme Matériel.$N●Si cette carte sur le Terrain est détruite au combat ou par un effet de carte : vous pouvez cibler 1 monstre \"Désenchaîné\" (\"Âme Désenchaînée du Désastre\" exclu) dans votre Cimetière ; Invoquez-le Spécialement.",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/10/24",
+  "species_id": 3,
+  "starchip": "8"
+}

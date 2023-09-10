@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 4,
+  "card_id": 7578,
+  "card_name": "ヴォルカニック・クイーン",
+  "card_name_label": "ヴォルカニック・クイーン",
+  "card_name_search": "う゛ぉるかにっくくいーん",
+  "card_pen_effect": "",
+  "card_text": "このカードは通常召喚できない。$N相手フィールドのモンスター１体をリリースした場合に相手フィールドに特殊召喚できる。$Nこのカードを特殊召喚するターン、自分は通常召喚できない。$N①：１ターンに１度、自分フィールドの他のカード１枚を墓地へ送って発動できる。相手に１０００ダメージを与える。$N②：自分エンドフェイズに発動する。自分フィールドの他のモンスター１体をリリースするか、自分は１０００ダメージを受ける。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/02/23",
+  "species_id": 4,
+  "starchip": "6"
+}

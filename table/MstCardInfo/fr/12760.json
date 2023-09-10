@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 2,
+  "card_id": 12760,
+  "card_name": "Émissaire du Chaos",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durant la Battle Phase (Effet Rapide) : vous pouvez défausser cette carte, puis ciblez 1 monstre \"Soldat du Lustre Noir\" ou monstre \"Gaïa le Chevalier Implacable\" que vous contrôlez ; il gagne 1500 ATK jusqu'à la fin de ce tour, et s'il le fait, l'ATK de chaque monstre de l'adversaire qui le combat ce tour devient l'ATK d'origine du monstre durant le calcul des dommages uniquement. Une fois par tour, durant la End Phase, si cette carte est dans votre Cimetière : vous pouvez bannir 1 monstre LUMIÈRE et 1 monstre TÉNÈBRES (cette carte exclue) depuis votre Cimetière ; ajoutez cette carte à votre main.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/02/09",
+  "species_id": 15,
+  "starchip": "4"
+}

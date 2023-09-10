@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 13150,
+  "card_name": "Bestia Gladiador Noxious",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando un monstruo de tu adversario declara un ataque directo: puedes Invocar esta carta de Modo Especial desde tu mano y, si lo haces, cambia el objetivo del ataque a esta carta, y procede al cálculo de daño. Esta carta no puede ser destruida en esa batalla. Si esta carta es Invocada de Modo Especial por el efecto de un monstruo \"Bestia Gladiador\": puedes mandar al Cementerio, desde tu Deck, 1 monstruo \"Bestia Gladiador\". Al final de la Battle Phase, si esta carta batalló: puedes barajarla al Deck; Invoca de Modo Especial, desde tu Deck, 1 monstruo \"Bestia Gladiador\", excepto \"Bestia Gladiador Noxious\".",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/07/06",
+  "species_id": 12,
+  "starchip": "5"
+}

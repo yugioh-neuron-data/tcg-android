@@ -1,0 +1,23 @@
+{
+  "attack_power": "1100",
+  "attribute_id": 1,
+  "card_id": 13722,
+  "card_name": "Cyber Drache Vier",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Der Name dieser Karte wird zu „Cyber Drache“, solange sie auf dem Spielfeld oder im Friedhof liegt. Falls du „Cyber Drache“ als Normal- oder Spezialbeschwörung beschwörst, außer während des Damage Steps: Du kannst diese Karte als Spezialbeschwörung von deiner Hand in die Verteidigungsposition beschwören. Du kannst diesen Effekt von „Cyber Drache Vier“ nur einmal pro Spielzug verwenden. Jeder „Cyber Drache“, den du kontrollierst, erhält 500 ATK/DEF.",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/07/26",
+  "species_id": 7,
+  "starchip": "4"
+}

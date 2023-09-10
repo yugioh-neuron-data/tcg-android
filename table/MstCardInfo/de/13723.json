@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 1,
+  "card_id": 13723,
+  "card_name": "Cyber Drache Herz",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Der Name dieser Karte wird zu „Cyber Drache“, solange sie auf dem Spielfeld oder im Friedhof liegt. Du kannst nur 1 der folgenden Effekte von „Cyber Drache Herz“ pro Spielzug verwenden und in dem Spielzug nur einmal.$N●Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst die Stufe dieser Karte bis zum Ende dieses Spielzugs zu 5 werden lassen, zusätzlich kannst du für den Rest dieses Spielzugs keine Monster als Spezialbeschwörung beschwören, außer Maschine-Monstern.$N●Falls diese Karte auf den Friedhof gelegt wird: Du kannst deiner Hand 1 anderen „Cyber Drache“ von deinem Deck oder Friedhof hinzufügen.",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/07/26",
+  "species_id": 7,
+  "starchip": "1"
+}

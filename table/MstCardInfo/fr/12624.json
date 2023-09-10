@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 2,
+  "card_id": 12624,
+  "card_name": "Boîte à Bijoux de Pandore",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Tant que vous n'avez aucune carte dans votre Extra Deck : vous pouvez cibler 1 carte dans la Zone Pendule de votre adversaire ; détruisez-la, et si vous le faites, placez cette carte dans la Zone Pendule de votre adversaire.",
+  "card_text": "Tant que vous n'avez aucune carte dans votre Extra Deck, piochez 2 cartes au lieu d'1 comme pioche normale durant votre Draw Phase.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "4",
+  "pen_scale_r": "4",
+  "sales_at": "2016/11/03",
+  "species_id": 26,
+  "starchip": "4"
+}

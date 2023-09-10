@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11088,
+  "card_name": "ドン・サウザンドの玉座",
+  "card_name_label": "ドン・サウザンドのぎょくざ",
+  "card_name_search": "どんさうざんどのぎょくざ",
+  "card_pen_effect": "",
+  "card_text": "相手のエンドフェイズ時、自分はそのターンに戦闘ダメージを受けた回数×５００ライフポイント回復する。また、自分フィールド上の「CNo.」以外の「No.」と名のついたモンスターが攻撃対象になった時、このカードを墓地へ送る事でその攻撃を無効にする。その後、その自分のモンスターと同じ「No.」の数字を持つ「CNo.」と名のついたモンスターを、そのモンスターの上に重ねてエクシーズ召喚扱いとしてエクストラデッキから特殊召喚する。「ドン・サウザンドの玉座」は自分フィールド上に１枚しか表側表示で存在できない。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/02/15",
+  "species_id": 24,
+  "starchip": "0"
+}

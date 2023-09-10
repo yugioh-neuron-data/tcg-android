@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 13712,
+  "card_name": "F.A. Empate Apertado",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Quando um monstro do oponente declarar um ataque direto: você pode Invocar por Invocação-Especial 1 monstro \"F.A.\" do seu Deck. Você só pode usar este efeito de \"F.A. Empate Apertado\" uma vez por turno. Uma vez por batalha, se um monstro \"F.A.\" seu batalhar um monstro do oponente, antes do cálculo de dano: você pode fazer com que os dois duelistas lancem um dado de seis faces. Se o seu resultado for maior, até o final deste turno, aumente em 4 o Nível do seu monstro que está batalhando (mesmo que este card deixe o campo). Se o seu resultado for menor, destrua seu monstro que está batalhando. Em caso de empate, os dois duelistas lançam novamente.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/05/03",
+  "species_id": 25,
+  "starchip": "0"
+}

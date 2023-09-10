@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 8998,
+  "card_name": "Vague de Réanimation",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Activable uniquement lorsqu'un monstre de votre adversaire déclare une attaque directe. Sélectionnez 1 Monstre Synchro dans votre Cimetière avec un Niveau inférieur ou égal à celui du monstre attaquant. Les dommages de combat que vous recevez par cette attaque sont divisés par deux. À la fin de la Damage Step, Invoquez Spécialement le Monstre Synchro sélectionné depuis le Cimetière.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/08/12",
+  "species_id": 25,
+  "starchip": "0"
+}

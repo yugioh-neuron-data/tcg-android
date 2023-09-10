@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14313,
+  "card_name": "Canto al Dragón Perdido",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Activa esta carta declarando 1 nombre de carta. Cada vez que la carta declarada, o su efecto, sean activados, divide a la mitad los LP de su dueño inmediatamente después de que se resuelva. Durante la End Phase, si este turno esta carta dividió a la mitad los LP de un jugador, manda esta carta al Cementerio. Mientras tu adversario controle un monstruo, esta carta no puede ser destruida por efectos de cartas.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/05/02",
+  "species_id": 24,
+  "starchip": "0"
+}

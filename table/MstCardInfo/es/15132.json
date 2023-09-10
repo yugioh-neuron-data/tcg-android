@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 15132,
+  "card_name": "El Dorado Adelantado",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si controlas un monstruo \"Arcalich\": activa 1 de estos efectos;$N●Baraja a tu Deck 3 de tus Mágicas/Trampas \"Arcalixir\" desterradas con nombres diferentes y, si lo haces, destruye todas las cartas en el Campo.$N●Baraja a tu Deck 3 de tus Mágicas/Trampas \"Tierra Dorada\" desterradas con nombres diferentes y, si lo haces, divide a la mitad los LP de tu adversario, y después tú ganas LP iguales a sus LP.$NSólo puedes activar 1 \"El Dorado Adelantado\" por turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/02",
+  "species_id": 25,
+  "starchip": "0"
+}

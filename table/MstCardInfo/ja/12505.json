@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 12505,
+  "card_name": "運命の発掘",
+  "card_name_label": "うんめいのはっくつ",
+  "card_name_search": "うんめいのはっくつ",
+  "card_pen_effect": "",
+  "card_text": "①：自分が戦闘ダメージを受けた時に発動できる。自分はデッキから１枚ドローする。②：フィールドのこのカードが相手の効果で破壊された場合に発動できる。自分の墓地の「運命の発掘」の枚数分だけ、自分はデッキからドローする。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/04/23",
+  "species_id": 25,
+  "starchip": "0"
+}

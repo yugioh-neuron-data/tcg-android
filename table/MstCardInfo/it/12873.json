@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 5,
+  "card_id": 12873,
+  "card_name": "Difensore Nemesi Subterrore",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante il turno di qualsiasi giocatore, quando il tuo avversario attiva una carta o un effetto che sceglie come bersaglio esattamente 1 mostro Posizionato che controlli (e nessuna altra carta), o quando un mostro Posizionato che controlli viene scelto come bersaglio per un attacco da un mostro dell'avversario: puoi mandare questa carta dalla tua mano o scoperta dal tuo Terreno al Cimitero, poi scegliere come bersaglio un altro mostro che controlli che sarebbe un bersaglio valido; quella carta/effetto/attacco sceglie ora come bersaglio il nuovo bersaglio. Mentre controlli un mostro Posizionato, questa carta non può essere distrutta in battaglia o dagli effetti delle carte.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/02/09",
+  "species_id": 12,
+  "starchip": "2"
+}

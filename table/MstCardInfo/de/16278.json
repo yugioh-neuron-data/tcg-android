@@ -1,0 +1,23 @@
+{
+  "attack_power": "2600",
+  "attribute_id": 5,
+  "card_id": 16278,
+  "card_name": "Kriegsfels-Meteoragon",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Kann nicht durch Karteneffekte eines Gegners zerstört werden. Wenn ein Angriff deklariert wird, an dem diese Karte und ein Monster eines Gegners beteiligt sind: Du kannst in diesem Spielzug die Effekte des Monsters des Gegners sowie die aktivierten Effekte und Effekte auf dem Spielfeld von Monstern mit seinem Grund-Namen annullieren. Einmal pro Spielzug, während einer Battle Phase, in der dein ERDE Krieger-Monster kämpft (Schnelleffekt): Du kannst alle „Kriegsfels“-Monster, die du derzeit kontrollierst, bis zum Ende des Spielzugs deines Gegners 200 ATK erhalten lassen, zusätzlich kann diese Karte in diesem Spielzug während jeder Battle Phase bis zu 2 Angriffe gegen Monster durchführen.",
+  "defense_power": "2600",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/06/03",
+  "species_id": 15,
+  "starchip": "7"
+}

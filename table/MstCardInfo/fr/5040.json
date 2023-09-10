@@ -1,0 +1,23 @@
+{
+  "attack_power": "200",
+  "attribute_id": 1,
+  "card_id": 5040,
+  "card_name": "Lépidoptère Électromagnétique",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "FLIP : Ciblez 1 monstre de Type Machine contrôlé par votre adversaire ; jusqu'à votre prochaine End Phase, prenez le contrôle de la cible.$NSi cette carte est détruite au combat : le monstre qui l'a détruite perd 500 ATK/DEF.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 24,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/11/08",
+  "species_id": 10,
+  "starchip": "3"
+}

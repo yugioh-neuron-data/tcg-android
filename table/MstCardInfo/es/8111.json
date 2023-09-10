@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 2,
+  "card_id": 8111,
+  "card_name": "Aliado de la Justicia Freno Marcha Atrás",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si hay un monstruo de LUZ en el Campo, destruye esta carta. Al comienzo del Damage Step, si esta carta ataca a un monstruo en Posición de Defensa boca abajo: destruye ese monstruo boca abajo.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/07/15",
+  "species_id": 7,
+  "starchip": "4"
+}

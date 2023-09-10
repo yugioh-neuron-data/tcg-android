@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 5736,
+  "card_name": "異次元隔離マシーン",
+  "card_name_label": "いじげんかくりマシーン",
+  "card_name_search": "いじげんかくりましーん",
+  "card_pen_effect": "",
+  "card_text": "自分と相手のフィールド上からモンスターを１体ずつ選択し、ゲームから除外する。このカードが破壊され墓地へ送られた時、除外したモンスターを同じ表示形式で元のフィールド上に戻す。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/11/21",
+  "species_id": 24,
+  "starchip": "0"
+}

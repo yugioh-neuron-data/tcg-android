@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 3,
+  "card_id": 12765,
+  "card_name": "河伯",
+  "card_name_label": "カワノカミ",
+  "card_name_search": "かわのかみ",
+  "card_pen_effect": "",
+  "card_text": "このカードは特殊召喚できない。①：このカードが召喚・リバースした場合、フィールドの表側表示モンスター１体を対象として発動できる。その表側表示モンスターはスピリットモンスター扱いとなり、エンドフェイズに持ち主の手札に戻る。②：このカードが召喚・リバースしたターンのエンドフェイズに発動する。このカードを持ち主の手札に戻す。",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 7,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/10/08",
+  "species_id": 14,
+  "starchip": "4"
+}

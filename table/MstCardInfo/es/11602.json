@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 4,
+  "card_id": 11602,
+  "card_name": "Cuidador del Cristal",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Cada turno, la primera vez que uno o más monstruos \"Cristal Definitivo/a\" y/o una o más cartas \"Bestia de Cristal\" que controlas fueran a ser destruidos por el efecto de una carta ese turno, no lo son.",
+  "card_text": "Si un monstruo \"Bestia de Cristal\" que controlas batalla con un monstruo del adversario, durante el cálculo de daño (Efecto Rápido): puedes Sacrificar esta carta en tu mano o Campo boca arriba; el ATK/DEF de tu monstruo batallante se convierten en el doble de su ATK/DEF originales, sólo durante ese cálculo de daño, pero es destruido al final de este Damage Step.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "2",
+  "pen_scale_r": "2",
+  "sales_at": "2018/05/03",
+  "species_id": 15,
+  "starchip": "4"
+}

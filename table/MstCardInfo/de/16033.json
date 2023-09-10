@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 16033,
+  "card_name": "Vergnügliche Attraktion Wunderrad",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wähle 1 „Vergnügung“-Monster, das du kontrollierst, oder 1 offenes Monster, das dein Gegner kontrolliert; rüste es mit dieser Karte aus. Du kannst den folgenden Effekt aktivieren, basierend darauf, welcher Spieler das ausgerüstete Monster kontrolliert;$N●Du: Während der Main Phase: Lege 1 Karte von deiner Hand unters Deck, dann ziehe 1 Karte.$N●Dein Gegner: Vertausche bis zum Ende dieses Spielzugs die derzeitigen ATK und DEF des ausgerüsteten Monsters.$NDu kannst diesen Effekt von „Vergnügliche Attraktion Wunderrad“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/06/03",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 1,
+  "card_id": 17138,
+  "card_name": "神竜 ティタノマキア",
+  "card_name_label": "しんりゅう ティタノマキア",
+  "card_name_search": "しんりゅうてぃたのまきあ",
+  "card_pen_effect": "",
+  "card_text": "このカード名の②③の効果はそれぞれ１ターンに１度しか使用できない。①：特殊召喚されたこのカードは戦闘では破壊されない。②：自分の墓地及び自分フィールドの表側表示モンスターの中から、フィールドのこのカードを含む「神竜 ティタノマキア」３体を除外して発動できる。相手フィールドのカードを全て破壊する。③：自分・相手のエンドフェイズに発動できる。自分フィールドのドラゴン族モンスターの数だけ、自分のデッキの上からカードを墓地へ送る。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/01/15",
+  "species_id": 1,
+  "starchip": "10"
+}

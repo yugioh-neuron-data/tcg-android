@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11162,
+  "card_name": "Fusion de Combat",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsqu'une attaque impliquant un Monstre Fusion que vous contrôlez et un monstre de l'adversaire est déclarée : jusqu'à la fin de la Damage Step, le monstre que vous contrôlez gagne une ATK égale à l'ATK du monstre de votre adversaire. Vous ne pouvez activer qu'1 \"Fusion de Combat\" par tour.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/04/24",
+  "species_id": 24,
+  "starchip": "0"
+}

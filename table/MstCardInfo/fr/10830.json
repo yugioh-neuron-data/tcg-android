@@ -1,0 +1,23 @@
+{
+  "attack_power": "-1",
+  "attribute_id": 5,
+  "card_id": 10830,
+  "card_name": "Golem Gogogo - Forme Or",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Ni Invocable Normalement ni Posable Normalement. Uniquement Invocable Spécialement (depuis votre main) en Sacrifiant 1 monstre \"Gogogo\", et non Invocable Spécialement autrement. L'ATK de cette carte devient le double de l'ATK d'origine du monstre Sacrifié. Tous les dommages de combat que votre adversaire reçoit d'attaques impliquant cette carte sont divisés par deux. Une fois par tour, durant le tour de chaque joueur, si un effet de monstre est activé sur le Terrain de votre adversaire : cette carte perd exactement 1500 ATK, et si elle le fait, annulez l'effet.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/01/15",
+  "species_id": 6,
+  "starchip": "4"
+}

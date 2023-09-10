@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 2,
+  "card_id": 10051,
+  "card_name": "Insektor Glühwürmchen",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Einmal pro Spielzug: Du kannst diese Karte mit 1 „Insektor“-Monster von deiner Hand oder deinem Friedhof ausrüsten. Falls diese Karte mit einer „Insektor“-Karte ausgerüstet wird: Du kannst dir alle gesetzten Karten ansehen, die dein Gegner kontrolliert. Solange diese Karte ein Monster ausrüstet, ist die Stufe des Monsters um 1 erhöht, zusätzlich erhält es ATK und DEF in Höhe der ATK und DEF dieser Karte.",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/05/10",
+  "species_id": 10,
+  "starchip": "1"
+}

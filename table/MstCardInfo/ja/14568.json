@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 6,
+  "card_id": 14568,
+  "card_name": "B・F－追撃のダート",
+  "card_name_label": "ビー・フォース－ついげきのダート",
+  "card_name_search": "びーふぉーすついげきのだーと",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分の「B・F」モンスターが、元々の持ち主が相手となるモンスターを戦闘で破壊した時、このカードを手札から捨てて発動できる。そのモンスターの元々の攻撃力分のダメージを相手に与える。②：このカード以外の自分フィールドの昆虫族モンスター１体を対象として発動できる。このターン、そのモンスターをチューナーとして扱う。この効果の発動後、ターン終了時まで自分は昆虫族モンスターしかEXデッキから特殊召喚できない。",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/05/18",
+  "species_id": 10,
+  "starchip": "1"
+}

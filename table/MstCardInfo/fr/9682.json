@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 9682,
+  "card_name": "Oursin Explosif",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Activable uniquement lorsque votre adversaire active une Carte Piège. Durant votre Standby Phase : infligez 1000 points de dommages à votre adversaire. Votre adversaire doit contrôler une Carte Piège face recto pour pouvoir activer et résoudre cet effet. Durant votre 3e End Phase après activation, envoyez cette carte au Cimetière.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/08/12",
+  "species_id": 25,
+  "starchip": "0"
+}

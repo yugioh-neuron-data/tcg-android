@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 1,
+  "card_id": 13718,
+  "card_name": "Cluster-Verstopfer",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird und du keine Linkmonster kontrollierst: Du kannst 1 „Verstopfer-Spielmarke“ (Cyberse/FINSTERNIS/Stufe 1/ATK 0/DEF 0) als Spezialbeschwörung beschwören. Du kannst diesen Effekt von „Cluster-Verstopfer“ nur einmal pro Spielzug verwenden. Einmal pro Battle Step, falls ein Linkmonster, das du kontrollierst, angegriffen wird (Schnelleffekt): Du kannst diese Karte von deinem Friedhof und das Linkmonster verbannen; beschwöre „Verstopfer-Spielmarken“ bis zur Anzahl der Linkmonster, die dein Gegner kontrolliert, als Spezialbeschwörung.",
+  "defense_power": "2200",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/07/26",
+  "species_id": 27,
+  "starchip": "7"
+}

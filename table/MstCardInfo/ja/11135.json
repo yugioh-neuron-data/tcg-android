@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 2,
+  "card_id": 11135,
+  "card_name": "時読みの魔術師",
+  "card_name_label": "ときよみのまじゅつし",
+  "card_name_search": "ときよみのまじゅつし",
+  "card_pen_effect": "自分フィールドにモンスターが存在しない場合にこのカードを発動できる。①：自分のPモンスターが戦闘を行う場合、相手はダメージステップ終了時まで罠カードを発動できない。②：もう片方の自分のPゾーンに「魔術師」カードまたは「オッドアイズ」カードが存在しない場合、このカードのPスケールは４になる。",
+  "card_text": "①：このカードがモンスターゾーンに存在する限り、１ターンに１度、自分のPゾーンのカードは相手の効果では破壊されない。",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "8",
+  "pen_scale_r": "8",
+  "sales_at": "2014/03/21",
+  "species_id": 18,
+  "starchip": "3"
+}

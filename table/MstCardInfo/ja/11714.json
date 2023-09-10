@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 1,
+  "card_id": 11714,
+  "card_name": "幻奏の音姫マイスタリン・シューベルト",
+  "card_name_label": "げんそうのおとひめマイスタリン・シューベルト",
+  "card_name_search": "げんそうのおとひめまいすたりんしゅーべると",
+  "card_pen_effect": "",
+  "card_text": "「幻奏」モンスター×２$N①：このカードがフィールドに表側表示で存在する限り１度だけ、お互いの墓地のカードを合計３枚まで対象として発動できる。そのカードを除外する。このカードの攻撃力は、この効果で除外したカードの数×２００アップする。この効果は相手ターンでも発動できる。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/02/14",
+  "species_id": 17,
+  "starchip": "6"
+}

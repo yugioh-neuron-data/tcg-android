@@ -1,0 +1,23 @@
+{
+  "attack_power": "450",
+  "attribute_id": 5,
+  "card_id": 16515,
+  "card_name": "Insecto Come-hombres Mimético",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "VOLTEO: Selecciona 1 monstruo en el Campo; destrúyelo y, si lo haces, esta carta gana ATK igual al ATK original de ese monstruo, y después puedes cambiar el Tipo de esta carta al Tipo original de ese monstruo.$NNo puede ser destruido en batalla. No puede ser destruido por efectos de monstruos con su mismo Tipo.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 24,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/11/04",
+  "species_id": 10,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 6,
+  "card_id": 17779,
+  "card_name": "Pegaso della Maestosità, il Dracoassassino",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Se hai una carta \"Dracoassassino\" o \"Maestospettro\" nella tua altra Zona Pendulum: puoi aggiungere 1 Mostro Pendulum \"Dracoassassino\" con un nome originale diverso da quella carta dal tuo Deck alla tua mano, poi puoi distruggere 1 carta nella tua Zona Pendulum. Puoi utilizzare questo effetto di \"Pegaso della Maestosità, il Dracoassassino\" una sola volta per turno.",
+  "card_text": "(Questa carta viene sempre considerata come una carta \"Maestospettro\".)$N(Effetto Rapido): puoi scartare questa carta; per il resto di questo turno, il tuo avversario non può scegliere come bersaglio i mostri \"Dracoassassino\" che controlli con gli effetti delle carte, inoltre essi non possono essere distrutti dagli effetti delle carte del tuo avversario. Se questa carta viene Evocata Specialmente dall'effetto di una carta \"Dracoassassino\", o Evocata Pendulum: puoi aggiungere 1 Magia Terreno dal tuo Deck alla tua mano, poi scartare 1 carta. Puoi utilizzare questo effetto di \"Pegaso della Maestosità, il Dracoassassino\" una sola volta per turno.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "2",
+  "pen_scale_r": "2",
+  "sales_at": "2022/10/20",
+  "species_id": 18,
+  "starchip": "4"
+}

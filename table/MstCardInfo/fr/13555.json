@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 1,
+  "card_id": 13555,
+  "card_name": "Ciguë Farstar",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si vous ne contrôlez aucun monstre, ou si tous les monstres que vous contrôlez sont des monstres \"Farstar\" : vous pouvez Invoquer Spécialement cette carte depuis votre main. Durant la Damage Step, lorsque votre monstre \"Farstar\" combat un monstre de l'adversaire (Effet Rapide) : vous pouvez envoyer cette carte depuis votre main au Cimetière ; jusqu'à la fin de ce tour, le monstre que vous contrôlez gagne une ATK égale à son ATK d'origine. Vous ne pouvez utiliser qu'1 effet de \"Ciguë Farstar\" par tour, et uniquement une fois le tour.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/01/31",
+  "species_id": 17,
+  "starchip": "5"
+}

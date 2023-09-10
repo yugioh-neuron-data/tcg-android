@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 12793,
+  "card_name": "Signo del Zodíaco",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Todos los monstruos \"Zoodíaco\" que controles ganan 300 ATK y DEF. Los monstruos que controle tu adversario no pueden seleccionar para ataques a monstruos boca arriba de Tipo Guerrero-Bestia que controles, excepto al monstruo de Tipo Guerrero-Bestia que controles que tenga el mayor ATK (cualquiera, si hay empate). Una vez por turno, si uno o más monstruos \"Zoodíaco\" que controlas fueran a ser destruidos por efecto de una carta, puedes destruir 1 monstruo en tu mano o Campo en lugar de 1 monstruo \"Zoodíaco\".",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/02/09",
+  "species_id": 24,
+  "starchip": "0"
+}

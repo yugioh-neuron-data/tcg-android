@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 2,
+  "card_id": 12694,
+  "card_name": "Schicksals-HELD - Dangerous",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 „Schicksals-HELD“-Monster + 1 FINSTERNIS Effektmonster$N(Schnelleffekt): Du kannst 1 Karte abwerfen; lege 1 „Schicksals-HELD“-Monster von deiner Hand oder deinem Deck auf den Friedhof und falls du dies tust, erhalten „Schicksals-HELD“-Monster, die du kontrollierst, bis zum Ende dieses Spielzugs für jedes „Schicksals-HELD“-Monster in deinem Friedhof 200 ATK. Du kannst diesen Effekt von „Schicksals-HELD - Dangerous“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "2600",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/08/03",
+  "species_id": 15,
+  "starchip": "6"
+}

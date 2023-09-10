@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 2,
+  "card_id": 6831,
+  "card_name": "Filo Ciberoscuro",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si esta carta es Invocada de Modo Normal: selecciona 1 monstruo Dragón de Nivel 3 o menor en tu Cementerio; equipa ese monstruo Dragón a esta carta. Gana ATK igual al ATK original del monstruo equipado a ella por este efecto. Esta carta puede atacar directamente. Si lo hace usando este efecto, su ATK se divide a la mitad sólo durante el cálculo de daño. Si esta carta fuera a ser destruida en batalla, destruye ese monstruo equipado en su lugar.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/11/04",
+  "species_id": 7,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2100",
+  "attribute_id": 4,
+  "card_id": 8118,
+  "card_name": "ジュラック・ギガノト",
+  "card_name_label": "ジュラック・ギガノト",
+  "card_name_search": "じゅらっくぎがのと",
+  "card_pen_effect": "",
+  "card_text": "チューナー＋チューナー以外の恐竜族モンスター１体以上$Nこのカードがフィールド上に表側表示で存在する限り、自分フィールド上の「ジュラック」と名のついたモンスターの攻撃力は、自分の墓地の「ジュラック」と名のついたモンスターの数×２００ポイントアップする。",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/12/04",
+  "species_id": 9,
+  "starchip": "7"
+}

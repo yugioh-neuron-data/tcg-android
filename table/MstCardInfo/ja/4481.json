@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 3,
+  "card_id": 4481,
+  "card_name": "キラー・スネーク",
+  "card_name_label": "キラー・スネーク",
+  "card_name_search": "きらーすねーく",
+  "card_pen_effect": "",
+  "card_text": "「キラー・スネーク」の効果は１ターンに１度しか使用できない。①：このカードが墓地に存在する場合、自分スタンバイフェイズに発動できる。このカードを手札に戻す。次の相手エンドフェイズに自分の墓地の「キラー・スネーク」１体を選んで除外する。",
+  "defense_power": "250",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2000/07/13",
+  "species_id": 20,
+  "starchip": "1"
+}

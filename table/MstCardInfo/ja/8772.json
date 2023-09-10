@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 2,
+  "card_id": 8772,
+  "card_name": "劫火の槍術士 ゴースト・ランサー",
+  "card_name_label": "ごうかのそうじゅつし ゴースト・ランサー",
+  "card_name_search": "ごうかのそうじゅつしごーすとらんさー",
+  "card_pen_effect": "",
+  "card_text": "①：相手フィールドにのみモンスターが存在する場合、このカードは手札から特殊召喚できる。②：このカードはEXデッキから特殊召喚されたモンスター以外のモンスターとの戦闘では破壊されない。③：このカードが守備表示モンスターを攻撃した場合、その守備力を攻撃力が超えた分だけ戦闘ダメージを与える。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/12/18",
+  "species_id": 2,
+  "starchip": "5"
+}

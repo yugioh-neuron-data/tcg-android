@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 7914,
+  "card_name": "世界樹",
+  "card_name_label": "せかいじゅ",
+  "card_name_search": "せかいじゅ",
+  "card_pen_effect": "",
+  "card_text": "フィールド上の植物族モンスターが破壊される度に、このカードにフラワーカウンターを１つ置く。また、このカードに乗っているフラワーカウンターを任意の個数取り除いて以下の効果を発動できる。●１つ：フィールド上の植物族モンスター１体を選択し、その攻撃力・守備力をエンドフェイズ時まで４００ポイントアップする。●２つ：フィールド上のカード１枚を選択して破壊する。●３つ：自分の墓地の植物族モンスター１体を選択して特殊召喚する。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/07/19",
+  "species_id": 24,
+  "starchip": "0"
+}

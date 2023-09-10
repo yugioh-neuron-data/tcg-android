@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 6064,
+  "card_name": "운명의 징",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "상대 턴에만 발동할 수 있다. 상대 필드 위에 앞면 표시로 존재하는 몬스터 1장을 선택한다. 다음 자신의 턴, 선택한 몬스터보다 레벨이 1개 낮은 몬스터의 일반 소환에 성공했을 때, 상대 라이프에 선택한 몬스터의 레벨 × 500 포인트 데미지를 준다.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/08/27",
+  "species_id": 25,
+  "starchip": "0"
+}

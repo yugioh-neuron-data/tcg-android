@@ -1,0 +1,23 @@
+{
+  "attack_power": "2100",
+  "attribute_id": 3,
+  "card_id": 17229,
+  "card_name": "Écailles de Pierre",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si cette carte est Invoquée Spécialement : vous pouvez cibler 1 autre monstre face recto sur le Terrain ; équipez le monstre face recto à cette carte. Au début de la Damage Step, si cette carte combat un monstre de l'adversaire du même Type et Attribut que la Carte Monstre équipée par l'effet de cette carte : vous pouvez détruire le monstre de l'adversaire. Vous ne pouvez utiliser chaque effet de \"Écailles de Pierre\" qu'une fois par tour.",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/02/10",
+  "species_id": 8,
+  "starchip": "5"
+}

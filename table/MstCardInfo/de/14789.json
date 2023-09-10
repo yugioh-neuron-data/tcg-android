@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14789,
+  "card_name": "Gouki Tötungsschlag",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wähle 1 „Gouki“-Linkmonster, das du kontrollierst; es erhält bis zum Ende dieses Spielzugs ATK in Höhe seiner Linkzahl x 1000, zusätzlich, falls es in diesem Spielzug ein Monster in Verteidigungsposition angreift, füge deinem Gegner durchschlagenden Kampfschaden zu. Für den Rest dieses Spielzugs, nachdem diese Karte aufgelöst wurde, kannst du keine Angriffe deklarieren, außer mit „Gouki“-Monstern. Du kannst nur 1 „Gouki Tötungsschlag“ pro Spielzug aktivieren.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/08/12",
+  "species_id": 24,
+  "starchip": "0"
+}

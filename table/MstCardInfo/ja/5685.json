@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 5685,
+  "card_name": "生命力吸収魔術",
+  "card_name_label": "せいめいりょくきゅうしゅうまじゅつ",
+  "card_name_search": "せいめいりょくきゅうしゅうまじゅつ",
+  "card_pen_effect": "",
+  "card_text": "フィールド上の全ての裏側守備表示モンスターを表側表示にする。この時、リバース効果モンスターの効果は発動しない。自分はフィールド上の効果モンスター１体につき４００ライフポイント回復する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/09/19",
+  "species_id": 25,
+  "starchip": "0"
+}

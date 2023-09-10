@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 13746,
+  "card_name": "Peine, Roi Suprême de l'Armageddon",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Vous pouvez Invoquer Rituellement cette carte avec \"Cycle du Monde\". Le nom de cette carte devient \"Peine, Roi de l'Armageddon\" tant qu'elle est dans la main ou sur le Terrain. Tant que cette carte Invoquée Rituellement est sur le Terrain, vos Monstres Rituels ne peuvent pas être détruits au combat. Si tous les monstres utilisés pour Invoquer Rituellement cette carte étaient des Monstres Rituels, vous ne payez pas de LP pour activer ses effets. Une fois par tour : vous pouvez payer 2000 LP ; détruisez autant d'autres cartes sur le Terrain que possible, et si vous le faites, infligez 200 points de dommages à votre adversaire pour chaque carte détruite qu'il contrôlait.",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 5,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/07/26",
+  "species_id": 3,
+  "starchip": "10"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 4,
+  "card_id": 16530,
+  "card_name": "Démon de la Magiclé - Transfurlmine",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Syntoniseur \"Magiclé\" + 1+ Monstre Normal non-Syntoniseur$NDurant chaque Battle Phase, cette carte peut faire max. 2 attaques sur des monstres. Vous ne pouvez utiliser chacun des effets suivants de \"Démon de la Magiclé - Transfurlmine\" qu'une fois par tour. Si vous contrôlez cette carte qui a été Invoquée par Synchronisation en utilisant min. 2 Attributs de monstres : vous pouvez Poser 1 Magie/Piège \"Magiclé\" directement depuis votre Deck dans votre Zone Magie & Piège. Si votre adversaire Invoque Normalement ou Spécialement un ou plusieurs monstres du même Attribut qu'un monstre dans votre Cimetière (sauf durant la Damage Step) : vous pouvez détruire ces monstres.",
+  "defense_power": "2800",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/11/04",
+  "species_id": 19,
+  "starchip": "8"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 2,
+  "card_id": 12481,
+  "card_name": "Odd-Eyes Mirage Dragon",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Once per turn, if a face-up \"Odd-Eyes\" Pendulum Monster(s) you control is destroyed by battle or card effect: You can destroy 1 card in your Pendulum Zone, and if you do, place 1 face-up \"Odd-Eyes\" Pendulum Monster in your Extra Deck in your Pendulum Zone, except \"Odd-Eyes Mirage Dragon\".",
+  "card_text": "While an \"Odd-Eyes\" card is in your Pendulum Zone (Quick Effect): You can target 1 \"Odd-Eyes\" monster you control; the first time it would be destroyed by battle or card effect this turn, it is not destroyed. You can only use this effect of \"Odd-Eyes Mirage Dragon\" once per turn.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "8",
+  "pen_scale_r": "8",
+  "sales_at": "2016/08/19",
+  "species_id": 1,
+  "starchip": "3"
+}

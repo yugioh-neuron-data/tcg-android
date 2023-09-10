@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11091,
+  "card_name": "森羅の施し",
+  "card_name_label": "しんらのほどこし",
+  "card_name_search": "しんらのほどこし",
+  "card_pen_effect": "",
+  "card_text": "デッキからカードを３枚ドローする。その後、「森羅」と名のついたカード１枚を含む手札のカード２枚を相手に見せ、好きな順番でデッキの上に戻す。手札に「森羅」と名のついたカードが無い場合、手札を全て相手に見せ、好きな順番でデッキの上に戻す。「森羅の施し」は１ターンに１枚しか発動できない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/02/15",
+  "species_id": 24,
+  "starchip": "0"
+}

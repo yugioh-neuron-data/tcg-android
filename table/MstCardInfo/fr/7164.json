@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 7164,
+  "card_name": "Marais Venin",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Les monstres perdent 500 points d'ATK pour chaque Compteur Venin placé sur eux. Détruisez un monstre si son ATK devient 0 par cet effet. Durant la End Phase de chaque joueur, placez 1 Compteur Venin sur chaque monstre face recto, excepté les monstres \"Venin\".",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/08/04",
+  "species_id": 24,
+  "starchip": "0"
+}

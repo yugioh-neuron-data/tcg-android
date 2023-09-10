@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 5916,
+  "card_name": "Selbstzerstörungsknopf",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Du kannst diese Karte nur aktivieren, wenn die Differenz deiner und der gegnerischen Life Points 7000 oder mehr Punkte beträgt und du weniger Life Points als dein Gegner hast. Die Life Points beider Spieler werden zu 0.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/10/01",
+  "species_id": 25,
+  "starchip": "0"
+}

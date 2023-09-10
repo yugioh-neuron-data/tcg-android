@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 4911,
+  "card_name": "苦渋の選択",
+  "card_name_label": "くじゅうのせんたく",
+  "card_name_search": "くじゅうのせんたく",
+  "card_pen_effect": "",
+  "card_text": "自分のデッキからカードを５枚選択して相手に見せる。相手はその中から１枚を選択する。相手が選択したカード１枚を自分の手札に加え、残りのカードを墓地へ捨てる。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2000/04/20",
+  "species_id": 24,
+  "starchip": "0"
+}

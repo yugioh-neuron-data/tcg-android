@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 8205,
+  "card_name": "Doppelwerkzeug S&B",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Rüste nur „Werkzeugdrache“ oder ein „Morphtronisch“-Monster vom Typ Maschine der Stufe 4 oder höher, das du kontrollierst, mit dieser Karte aus. Solange es ausgerüstet ist:$N● Während deines Spielzugs: Es erhält 1000 ATK. Falls es angreift, werden die Effekte des Angriffsziels, die auf dem Spielfeld aktiviert oder ausgeführt werden, während der Battle Phase annulliert.$N● Während des Spielzugs deines Gegners: Dein Gegner kann kein anderes Monster als das ausgerüstete Monster angreifen. Ein Monster deines Gegners, das mit dem ausgerüsteten Monster kämpft, wird am Ende des Damage Steps zerstört.",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/06/04",
+  "species_id": 24,
+  "starchip": "0"
+}

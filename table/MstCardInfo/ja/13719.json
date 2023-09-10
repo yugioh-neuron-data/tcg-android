@@ -1,0 +1,23 @@
+{
+  "attack_power": "1900",
+  "attribute_id": 5,
+  "card_id": 13719,
+  "card_name": "剛鬼ムーンサルト",
+  "card_name_label": "ごうきムーンサルト",
+  "card_name_search": "ごうきむーんさると",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：手札のこのカードを相手に見せ、「剛鬼ムーンサルト」以外の自分フィールドの「剛鬼」モンスター１体を対象として発動できる。このカードを手札から特殊召喚し、対象のモンスターを持ち主の手札に戻す。②：自分の墓地の「剛鬼」リンクモンスター１体を対象として発動できる。そのモンスターをEXデッキに戻す。その後、自分の墓地から「剛鬼」モンスター１体を選んで手札に加える事ができる。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/04/14",
+  "species_id": 15,
+  "starchip": "6"
+}

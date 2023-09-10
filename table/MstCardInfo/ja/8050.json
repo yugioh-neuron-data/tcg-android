@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 8050,
+  "card_name": "念動収集機",
+  "card_name_label": "ねんどうしゅうしゅうき",
+  "card_name_search": "ねんどうしゅうしゅうき",
+  "card_pen_effect": "",
+  "card_text": "自分の墓地からレベル２以下のサイキック族モンスターを任意の数だけ選択して特殊召喚する。その後、自分はこの効果で特殊召喚したモンスターのレベルの合計×３００ポイントダメージを受ける。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/11/15",
+  "species_id": 24,
+  "starchip": "0"
+}

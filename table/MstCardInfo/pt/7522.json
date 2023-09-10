@@ -1,0 +1,23 @@
+{
+  "attack_power": "-1",
+  "attribute_id": 2,
+  "card_id": 7522,
+  "card_name": "Dragão Maligno Ananta",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Não pode ser Invocado por Invocação-Normal/Baixado. Deve ser Invocado por Invocação-Especial ao banir todos os monstros Réptil que você controla e no seu Cemitério. O ATK/DEF deste card se tornam o número de monstros banidos para a sua Invocação-Especial x 600. Uma vez por turno, durante sua Fase Final: escolha 1 card no campo; destrua o alvo.",
+  "defense_power": "-1",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/05/06",
+  "species_id": 20,
+  "starchip": "8"
+}

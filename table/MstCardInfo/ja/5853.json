@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 5853,
+  "card_name": "封魔の呪印",
+  "card_name_label": "ふうまのじゅいん",
+  "card_name_search": "ふうまのじゅいん",
+  "card_pen_effect": "",
+  "card_text": "手札から魔法カードを１枚捨てる。魔法カードの発動と効果を無効にし、それを破壊する。相手はこのデュエル中、この効果で破壊された魔法カード及び同名カードを発動する事ができない。",
+  "defense_power": "0",
+  "effect_id": 1,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2003/04/24",
+  "species_id": 25,
+  "starchip": "0"
+}

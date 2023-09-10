@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 2,
+  "card_id": 14961,
+  "card_name": "D/D/D-Vizekönig Requiem",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Du kannst eine beliebige Anzahl „Dunkler Vertrag“-Karten wählen, die du kontrollierst; zerstöre sie und falls du dies tust, beschwöre diese Karte als Spezialbeschwörung von deiner Pendelzone, dann kannst du ihre Stufe um die zerstörte Anzahl erhöhen oder verringern. Du kannst diesen Effekt von „D/D/D-Vizekönig Requiem“ nur einmal pro Spielzug verwenden.",
+  "card_text": "Du kannst keine Monster als Spezialbeschwörung beschwören, außer „D/D/D“-Monstern. Ein „D/D/D“-Monster, das mit dieser Karte auf dem Spielfeld als Material als Fusions-, Synchro-, Xyz- oder Linkbeschwörung beschworen wurde, erhält diesen Effekt.$N●Einmal pro Spielzug: Du kannst 1 Karte auf dem Spielfeld wählen; mische 1 „Dunkler Vertrag“-Karte von deiner Spielfeldseite oder deinem Friedhof ins Deck und falls du dies tust, zerstöre das gewählte Ziel, dann erhältst du 1000 LP.$NDu kannst diesen Effekt von „D/D/D-Vizekönig Requiem“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "4",
+  "pen_scale_r": "4",
+  "sales_at": "2022/05/05",
+  "species_id": 3,
+  "starchip": "8"
+}

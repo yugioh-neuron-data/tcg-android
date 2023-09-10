@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 2,
+  "card_id": 7800,
+  "card_name": "Sirviente Maníaco",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Una vez por turno, durante la Standby Phase de tu adversario, puedes retirar del juego cualquier cantidad de monstruos de OSCURIDAD en tu Cementerio. Este monstruo gana 500 DEF por cada monstruo que retiraste, hasta la End Phase.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/05/13",
+  "species_id": 18,
+  "starchip": "3"
+}

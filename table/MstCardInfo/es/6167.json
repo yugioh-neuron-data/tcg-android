@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 1,
+  "card_id": 6167,
+  "card_name": "Mago Silencioso LV4",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cada vez que tu adversario roba una o más cartas, pon 1 Contador Mágico en esta carta (máx. 5). Esta carta gana 500 ATK por cada Contador Mágico en ella. Durante la Standby Phase de tu próximo turno después de que sea puesto el 5º Contador Mágico en esta carta: puedes mandar al Cementerio esta carta boca arriba con 5 Contadores Mágicos; Invoca de Modo Especial, desde tu mano o Deck, 1 \"Mago Silencioso LV8\".",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/11/17",
+  "species_id": 18,
+  "starchip": "4"
+}

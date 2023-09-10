@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 5,
+  "card_id": 11825,
+  "card_name": "Ravisseuse de Magie",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Chaque fois qu'une Carte Magie est activée, placez 1 Compteur Magie sur cette carte lorsque la Magie est résolue. Une fois par tour : vous pouvez retirer 3 Compteurs Magie de cette carte ; ajoutez 1 Monstre Pendule depuis votre Deck à votre main.",
+  "card_text": "Chaque fois qu'une Carte Magie est activée, placez 1 Compteur Magie sur cette carte lorsque la Magie est résolue. Gagne 100 ATK pour chaque Compteur Magie sur elle. Une fois par tour : vous pouvez retirer 3 Compteurs Magie de cette carte ; ajoutez 1 monstre Magicien de Niveau 1 depuis votre Deck à votre main.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2015/08/06",
+  "species_id": 18,
+  "starchip": "4"
+}

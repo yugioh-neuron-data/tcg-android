@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 12902,
+  "card_name": "Heißer Himmelssturm",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wähle 1 „Elementar-HELD“-Fusionsmonster, das du kontrollierst; zerstöre so viele Monster, die dein Gegner kontrolliert und deren ATK höher sind als die des Monsters, wie möglich, dann füge deinem Gegner Schaden in Höhe der höchsten Grund-ATK unter den zerstörten Monstern im Friedhof zu (bei Gleichstand bestimmst du eins). Falls eine „Wolkenkratzer“-Spielfeldzauberkarte in deiner Spielfeldzone liegt, füge deinem Gegner stattdessen Schaden in Höhe der Summe der Grund-ATK der zerstörten Monster im Friedhof zu.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/03/30",
+  "species_id": 24,
+  "starchip": "0"
+}

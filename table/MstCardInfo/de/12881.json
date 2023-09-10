@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 5,
+  "card_id": 12881,
+  "card_name": "Künstlerkumpel Ballade",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Einmal pro Spielzug, am Beginn des Damage Steps, wenn dein „Künstlerkumpel“-Monster gegen ein offenes Monster deines Gegners kämpft: Du kannst das Monster deines Gegners 600 ATK verlieren lassen (selbst falls diese Karte das Spielfeld verlässt).",
+  "card_text": "Falls dein „Künstlerkumpel“-Monster angegriffen hat, nach der Schadensberechnung: Du kannst 1 offenes Monster wählen, das dein Gegner kontrolliert; das gewählte Ziel verliert ATK in Höhe der ATK des „Künstlerkumpel“-Monsters.",
+  "defense_power": "1100",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "2",
+  "pen_scale_r": "2",
+  "sales_at": "2017/05/25",
+  "species_id": 13,
+  "starchip": "3"
+}

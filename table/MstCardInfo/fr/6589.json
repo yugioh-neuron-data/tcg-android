@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 6,
+  "card_id": 6589,
+  "card_name": "Explosif Adhésif",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Avant le calcul des dommages, si cette carte a été attaquée par un monstre de votre adversaire et était en Position de Défense face verso au début de la Damage Step : équipez cette carte au monstre attaquant. Puis, durant la prochaine Standby Phase de votre adversaire, détruisez le monstre équipé à cette carte.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/02/18",
+  "species_id": 7,
+  "starchip": "3"
+}

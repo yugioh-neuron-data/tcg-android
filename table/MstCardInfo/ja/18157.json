@@ -1,0 +1,23 @@
+{
+  "attack_power": "200",
+  "attribute_id": 1,
+  "card_id": 18157,
+  "card_name": "メンタル・チューナー",
+  "card_name_label": "メンタル・チューナー",
+  "card_name_search": "めんたるちゅーなー",
+  "card_pen_effect": "",
+  "card_text": "このカード名の効果は１ターンに１度しか使用できない。①：以下の効果から１つを選択して発動できる。$N●光・闇属性モンスターをそれぞれ１体まで、自分の手札・墓地から除外して発動できる。ターン終了時までこのカードのレベルを、除外した数だけ上げる、または下げる。$N●除外されている自分の光・闇属性モンスターをそれぞれ１体まで対象として発動できる。そのモンスターを墓地に戻し、ターン終了時までこのカードのレベルを、戻した数だけ上げる、または下げる。",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/10/15",
+  "species_id": 21,
+  "starchip": "3"
+}

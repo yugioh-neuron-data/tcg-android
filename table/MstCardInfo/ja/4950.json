@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 4950,
+  "card_name": "ギャンブル",
+  "card_name_label": "ギャンブル",
+  "card_name_search": "ぎゃんぶる",
+  "card_pen_effect": "",
+  "card_text": "相手の手札が６枚以上、自分の手札が２枚以下の場合に発動する事ができる。コイントスを１回行い裏表を当てる。当たった場合、自分の手札が５枚になるようにデッキからカードをドローする。ハズレの場合、次の自分のターンをスキップする。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2000/12/14",
+  "species_id": 25,
+  "starchip": "0"
+}

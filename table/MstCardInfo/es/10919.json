@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 2,
+  "card_id": 10919,
+  "card_name": "Chamán Cuidador de Tumbas",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Gana 200 DEF por cada monstruo \"Cuidador de Tumbas\" en tu Cementerio. Niega todos los efectos de monstruo que se activen en el Cementerio, excepto los de los monstruos \"Cuidador de Tumbas\". Mientras \"Necrovalle\" está en el Campo, tu adversario no puede activar Cartas Mágicas de Campo, y además las Cartas Mágicas de Campo no pueden ser destruidas por efectos de cartas de tu adversario.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/01/23",
+  "species_id": 18,
+  "starchip": "6"
+}

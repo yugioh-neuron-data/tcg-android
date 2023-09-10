@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 7757,
+  "card_name": "Portal Espacial",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cada vez que un monstruo que controla tu adversario ataca o es atacado, pon 1 Contador de Portal en esta carta al final del Damage Step. Durante tu Main Phase: puedes mandar esta carta al Cementerio; Invoca de Modo Especial, desde tu mano, 1 monstruo cuyo Nivel sea igual o menor que el número de Contadores de Portal en esta carta.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/09/02",
+  "species_id": 25,
+  "starchip": "0"
+}

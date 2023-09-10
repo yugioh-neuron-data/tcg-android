@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 6,
+  "card_id": 16219,
+  "card_name": "Saambell la Vinculadora de Estrellas",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Si tienes una Carta de Monstruo de Péndulo con el mismo Nivel que esta carta en tu otra Zona de Péndulo: puedes destruir la carta en tu otra Zona de Péndulo y, si lo haces, Invoca esta carta de Modo Especial. Sólo puedes usar este efecto de \"Saambell la Vinculadora de Estrellas\" una vez por turno.",
+  "card_text": "Si un monstruo es Invocado de Modo Especial a tu Campo mientras controlas este monstruo (excepto durante el Damage Step): puedes Invocar de Modo Especial, desde tu mano, 1 monstruo con el mismo Nivel que esta carta. Sólo puedes usar este efecto de \"Saambell la Vinculadora de Estrellas\" una vez por turno.",
+  "defense_power": "1300",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "7",
+  "pen_scale_r": "7",
+  "sales_at": "2021/08/12",
+  "species_id": 18,
+  "starchip": "3"
+}

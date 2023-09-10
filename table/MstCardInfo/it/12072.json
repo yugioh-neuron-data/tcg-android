@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 1,
+  "card_id": 12072,
+  "card_name": "PSI-Strutturattrezzatura Epsilon",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Non può essere Evocato Normalmente/Posizionato. Deve essere Evocato Specialmente dall'effetto di una carta, e non può essere Evocato Specialmente in altri modi. Durante il turno di qualsiasi giocatore, quando il tuo avversario attiva una Carta Trappola mentre tu non controlli nessun mostro: puoi Evocare Specialmente sia questa carta dalla tua mano che 1 \"PSI-Struttura Pilota\" dalla tua mano, Deck o Cimitero e, se lo fai, annulla quell'attivazione e, se lo fai, distruggi quella Carta Trappola. Durante la End Phase, bandisci i mostri scoperti Evocati Specialmente da questo effetto.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 30,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/10/01",
+  "species_id": 21,
+  "starchip": "2"
+}

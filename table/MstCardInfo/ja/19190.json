@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 19190,
+  "card_name": "光翼の竜",
+  "card_name_label": "こうよくのりゅう",
+  "card_name_search": "こうよくのりゅう",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。$N①：自分・相手のメインフェイズに発動できる。デッキから「覇王眷竜」Pモンスターか「覇王門」Pモンスター１体を手札に加える。自分フィールドに「覇王龍ズァーク」が存在する場合、手札に加えず特殊召喚する事もできる。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/07/22",
+  "species_id": 24,
+  "starchip": "0"
+}

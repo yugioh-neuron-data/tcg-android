@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 6219,
+  "card_name": "レアメタル化・魔法反射装甲",
+  "card_name_label": "レアメタルか・まほうはんしゃそうこう",
+  "card_name_search": "れあめたるかまほうはんしゃそうこう",
+  "card_pen_effect": "",
+  "card_text": "フィールド上の機械族モンスター１体を選択して発動できる。このカードがフィールド上に存在する限り、その機械族モンスターの攻撃力は５００ポイントアップし、そのモンスターを対象にする魔法カードの効果を１度だけ無効にする。選択したモンスターがフィールド上から離れた時、このカードを破壊する。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/08/05",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 1,
+  "card_id": 6611,
+  "card_name": "神竜－エクセリオン",
+  "card_name_label": "しんりゅう－エクセリオン",
+  "card_name_search": "しんりゅうえくせりおん",
+  "card_pen_effect": "",
+  "card_text": "このカードの召喚時に自分の墓地に存在する「神竜－エクセリオン」１体につき、以下の効果を１つ得る。ただし同じ効果を重複して得る事はできない。$N●このカードの攻撃力は１０００ポイントアップする。$N●このカードが戦闘によって相手モンスターを破壊した場合、もう一度だけ続けて攻撃を行う事ができる。$N●このカードが戦闘によってモンスターを破壊し墓地へ送った時、破壊したモンスターの攻撃力分のダメージを相手ライフに与える。",
+  "defense_power": "900",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/11/17",
+  "species_id": 1,
+  "starchip": "5"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 5,
+  "card_id": 13023,
+  "card_name": "Unterterror-Behemoth Speleogeist",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "FLIPP: Du kannst 1 Monster auf dem Spielfeld wählen; ändere es in die offene Angriffsposition, falls es in der Verteidigungsposition liegt, zusätzlich ändere seine ATK zu 0. Du kannst diesen Effekt von „Unterterror-Behemoth Speleogeist“ nur einmal pro Spielzug verwenden.$NWenn ein offenes Monster, das du kontrollierst, verdeckt wird, falls du keine offenen Monster kontrollierst: Du kannst diese Karte als Spezialbeschwörung von deiner Hand in die Verteidigungsposition beschwören. Einmal pro Spielzug: Du kannst diese Karte in die verdeckte Verteidigungsposition ändern.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 24,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/05/04",
+  "species_id": 3,
+  "starchip": "11"
+}

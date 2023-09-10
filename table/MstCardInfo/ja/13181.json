@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 2,
+  "card_id": 13181,
+  "card_name": "サイバー・ダーク・クロー",
+  "card_name_label": "サイバー・ダーク・クロー",
+  "card_name_search": "さいばーだーくくろー",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードを手札から捨てて発動できる。デッキから「サイバーダーク」魔法・罠カード１枚を手札に加える。②：このカードを装備したモンスターが戦闘を行うダメージ計算時に発動できる。自分のEXデッキからモンスター１体を墓地へ送る。③：モンスターに装備されているこのカードが墓地へ送られた場合、自分の墓地の「サイバー・ダーク」モンスター１体を対象として発動できる。そのモンスターを手札に加える。",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/06/03",
+  "species_id": 1,
+  "starchip": "3"
+}

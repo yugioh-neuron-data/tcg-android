@@ -1,0 +1,23 @@
+{
+  "attack_power": "200",
+  "attribute_id": 2,
+  "card_id": 6042,
+  "card_name": "Agresseur Nocturne",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "FLIP : Ciblez 1 monstre contrôlé par votre adversaire ; détruisez la cible.$NSi cette carte est envoyée depuis la main au Cimetière : ciblez 1 monstre Flip (\"Agresseur Nocturne\" exclu) dans votre Cimetière ; ajoutez la cible à votre main.",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 24,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/06/01",
+  "species_id": 3,
+  "starchip": "3"
+}

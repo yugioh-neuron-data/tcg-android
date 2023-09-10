@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 4,
+  "card_id": 14264,
+  "card_name": "ネオフレムベル・レディ",
+  "card_name_label": "ネオフレムベル・レディ",
+  "card_name_search": "ねおふれむべるれでぃ",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：手札から炎属性モンスター１体を墓地へ送り、相手の墓地のカード１枚を対象として発動できる。そのカードを除外する。この効果は相手ターンでも発動できる。②：このカードが既にモンスターゾーンに存在する状態で、相手の墓地からカードが除外された場合に発動できる。デッキから「ネオフレムベル・レディ」以外の守備力２００以下の炎属性モンスター１体を墓地へ送る。",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/01/12",
+  "species_id": 4,
+  "starchip": "4"
+}

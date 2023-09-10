@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13686,
+  "card_name": "Antre des Ténèbres",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Tous les monstres face recto sur le Terrain deviennent TÉNÈBRES. Une fois par tour, si vous allez Sacrifier un monstre que vous contrôlez pour activer un effet de carte, vous pouvez Sacrifier 1 monstre TÉNÈBRES contrôlé par votre adversaire, même si vous ne le contrôlez pas. Une fois par tour, durant la End Phase : Invoquez Spécialement autant de \"Jeton du Tourment\" (Démon/TÉNÈBRES/Niveau 3/ATK 1000/DEF 1000) que possible sur le Terrain du joueur du tour en Position de Défense, inférieur ou égal au nombre de monstres Sacrifiés ce tour tant que cette carte était face recto.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/04/19",
+  "species_id": 24,
+  "starchip": "0"
+}

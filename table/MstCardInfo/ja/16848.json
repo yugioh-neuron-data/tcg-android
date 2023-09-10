@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 2,
+  "card_id": 16848,
+  "card_name": "闇次元の戦士",
+  "card_name_label": "やみじげんのせんし",
+  "card_name_search": "やみじげんのせんし",
+  "card_pen_effect": "",
+  "card_text": "チューナー＋チューナー以外のモンスター１体以上$Nこのカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：手札を１枚除外し、除外されている自分の闇属性モンスター１体を対象として発動できる。そのモンスターを表側守備表示または裏側守備表示で特殊召喚する。②：自分・相手のエンドフェイズに発動する。フィールドにセットされたカードの数×１００ダメージを相手に与える。",
+  "defense_power": "2400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/10/16",
+  "species_id": 15,
+  "starchip": "5"
+}

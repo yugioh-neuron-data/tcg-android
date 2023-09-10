@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 3,
+  "card_id": 14972,
+  "card_name": "Altergeist Fijialert",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wenn ein „Altergeist“-Linkmonster als Linkbeschwörung auf deine Spielfeldseite beschworen wird (außer während des Damage Steps): Du kannst 1 anderes Linkmonster auf dem Spielfeld wählen; beschwöre diese Karte als Spezialbeschwörung von deiner Hand in deine Zone, auf die das gewählte Ziel zeigt, zusätzlich wird das Monster für den Rest dieses Spielzugs zusätzlich als „Altergeist“-Monster behandelt. Du kannst diesen Effekt von „Altergeist Fijialert“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/12/02",
+  "species_id": 18,
+  "starchip": "4"
+}

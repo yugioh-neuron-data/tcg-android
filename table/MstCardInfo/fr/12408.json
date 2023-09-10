@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 2,
+  "card_id": 12408,
+  "card_name": "Magicien Acrobatique",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Lorsqu'un ou plusieurs monstres que vous contrôlez sont détruits par un effet de carte (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte depuis votre Zone Pendule. Vous ne pouvez utiliser cet effet de \"Magicien Acrobatique\" qu'une fois par tour.",
+  "card_text": "Si l'activation d'une Carte Magie/Piège est annulée (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte depuis votre main. Lorsque cette carte est détruite au combat : vous pouvez placer cette carte dans votre Zone Pendule.",
+  "defense_power": "2300",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "2",
+  "pen_scale_r": "2",
+  "sales_at": "2016/08/04",
+  "species_id": 18,
+  "starchip": "5"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 6,
+  "card_id": 6178,
+  "card_name": "Ultimatives Insekt LV3",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wenn diese Karte durch den Effekt von „%c6097“ als Spezialbeschwörung beschworen wurde, solange diese Karte offen auf dem Spielfeld liegt, verringere die ATK aller Monster deines Gegners um 300 Punkte. Lege während der Standby Phase deines Spielzugs diese offene Karte auf den Friedhof, um eine „%c6238“-Karte als Spezialbeschwörung aus deiner Hand oder deinem Deck zu beschwören. (Du kannst diesen Effekt nicht in dem Spielzug aktivieren, in dem diese Karte als Normal- oder Spezialbeschwörung beschworen oder aufgedeckt wurde.)",
+  "defense_power": "900",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/12/01",
+  "species_id": 10,
+  "starchip": "3"
+}

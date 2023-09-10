@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 5678,
+  "card_name": "Frappe Destructrice Continue",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si la DEF du monstre attaqué en Position de Défense sur votre Terrain est supérieure à l'ATK d'un monstre attaquant sur le Terrain de votre adversaire, détruisez le monstre attaquant. Le calcul des dommages s'applique normalement.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/03/19",
+  "species_id": 24,
+  "starchip": "0"
+}

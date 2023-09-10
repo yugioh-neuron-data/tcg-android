@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14712,
+  "card_name": "Star Power!!",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "During damage calculation, if your Link Monster battles an opponent's monster: Your monster gains ATK equal to the total Levels/Ranks of the monsters it points to x 400, during that damage calculation only. You can only activate 1 \"Star Power!!\" per turn.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/07/27",
+  "species_id": 24,
+  "starchip": "0"
+}

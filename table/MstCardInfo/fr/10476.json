@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10476,
+  "card_name": "Mur de Magie",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Activez 1 de ces effets. Ce tour, votre adversaire ne reçoit pas de dommages complémentaires.$N ●Durant ce tour, aucune Invocation de monstre de Type Magicien ne peut être annulée, et lorsqu'un monstre de Type Magicien est Invoqué, votre adversaire ne peut ni activer de cartes ni d'effets.$N ●Ciblez 1 monstre de Type Magicien que vous contrôlez ; s'il attaque ce tour, jusqu'à la fin de la Damage Step, votre adversaire ne peut ni activer de cartes ni d'effets.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/01/24",
+  "species_id": 24,
+  "starchip": "0"
+}

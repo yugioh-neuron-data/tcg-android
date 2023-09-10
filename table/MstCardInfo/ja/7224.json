@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 7224,
+  "card_name": "下克上の首飾り",
+  "card_name_label": "げこくじょうのくびかざり",
+  "card_name_search": "げこくじょうのくびかざり",
+  "card_pen_effect": "",
+  "card_text": "通常モンスターにのみ装備可能。装備モンスターよりレベルの高いモンスターと戦闘を行う場合、装備モンスターの攻撃力はダメージ計算時のみレベルの差×５００ポイントアップする。このカードが墓地へ送られた時、このカードをデッキの一番上に戻す事ができる。",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/05/12",
+  "species_id": 24,
+  "starchip": "0"
+}

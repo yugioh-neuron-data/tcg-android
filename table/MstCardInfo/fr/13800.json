@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 5,
+  "card_id": 13800,
+  "card_name": "Orgoth l'Implacable",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Une fois par tour, durant votre Main Phase : vous pouvez lancer un dé à six faces 3 fois et cette carte gagne une ATK/DEF égales au total x 100 (jusqu'à la fin du tour de votre adversaire), puis, si 2 des résultats étaient identiques, appliquez l'effet approprié. Si tous les 3 étaient identiques, appliquez tous ces effets.$N●1 ou 2 : Jusqu'à la fin du tour de votre adversaire, cette carte ne peut être détruite ni au combat ni par des effets de carte.$N●3 ou 4 : Piochez 2 cartes.$N●5 ou 6 : Cette carte peut attaquer directement ce tour.",
+  "defense_power": "2450",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/06/28",
+  "species_id": 15,
+  "starchip": "7"
+}

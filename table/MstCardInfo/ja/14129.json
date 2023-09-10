@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 14129,
+  "card_name": "守護竜ピスティ",
+  "card_name_label": "しゅごりゅうピスティ",
+  "card_name_search": "しゅごりゅうぴすてぃ",
+  "card_pen_effect": "",
+  "card_text": "レベル４以下のドラゴン族モンスター１体$N自分は「守護竜ピスティ」を１ターンに１度しか特殊召喚できず、その②の効果は１ターンに１度しか使用できない。①：このカードがモンスターゾーンに存在する限り、自分はドラゴン族モンスターしか特殊召喚できない。②：自分の墓地のモンスターまたは除外されている自分のモンスターの中から、ドラゴン族モンスター１体を対象として発動できる。そのモンスターを、２体以上のリンクモンスターのリンク先となる自分フィールドに特殊召喚する。",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "6",
+  "linkno": "1",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/10/13",
+  "species_id": 1,
+  "starchip": ""
+}

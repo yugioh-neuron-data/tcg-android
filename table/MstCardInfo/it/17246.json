@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 17246,
+  "card_name": "Accademia del Duellante",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Questa carta guadagna questi effetti a seconda dei Tipi di Mostro sul Terreno.$N●Guerriero, Bestia o Pyro: Una volta per turno, se attivi una Carta Trappola (eccetto durante il Damage Step): puoi scegliere come bersaglio 1 carta controllata dal tuo avversario; distruggila.$N●Dinosauro, Serpente Marino o Tuono: Una volta per turno, se attivi una Carta Magia (eccetto durante il Damage Step): puoi infliggere 1000 danni al tuo avversario.$N●Macchina, Fata o Demone: Una volta per turno, se attivi l'effetto di un mostro (eccetto durante il Damage Step): puoi scegliere come bersaglio 1 mostro scoperto che controlli; esso guadagna 1000 ATK (anche se questa carta lascia il Terreno).",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/03/09",
+  "species_id": 24,
+  "starchip": "0"
+}

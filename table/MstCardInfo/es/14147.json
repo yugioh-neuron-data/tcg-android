@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14147,
+  "card_name": "Te Invoco",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cada vez que uno o más monstruos son Invocados de Modo Especial, pon 1 Contador de Invocación en esta carta (máx. 6). Esta carta con 6 Contadores de Invocación no puede ser destruida por efectos de cartas. Al comienzo de cada Main Phase 1, si esta carta tiene 6 Contadores de Invocación: el jugador en turno puede activar este efecto; manda esta carta al Cementerio y, si lo hace, manda al Cementerio a todos los monstruos Invocados de Modo Especial que controle su adversario.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/01/31",
+  "species_id": 24,
+  "starchip": "0"
+}

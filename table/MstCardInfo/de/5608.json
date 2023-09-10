@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 5608,
+  "card_name": "Einsatz",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Jeder Spieler zeigt 1 Karte von seiner Hand vor. Falls eine Karte eine höhere Stufe hat als die andere, wird die Karte mit der niedrigeren Stufe auf den Friedhof gelegt und der Spieler, der sie vorgezeigt hat, erhält 1000 Schaden. (Nichtmonster-Karten werden als Stufe 0 behandelt.)",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/05/01",
+  "species_id": 24,
+  "starchip": "0"
+}

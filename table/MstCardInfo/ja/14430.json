@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 6,
+  "card_id": 14430,
+  "card_name": "HSRカイドレイク",
+  "card_name_label": "ハイスピードロイドカイドレイク",
+  "card_name_search": "はいすぴーどろいどかいどれいく",
+  "card_pen_effect": "",
+  "card_text": "機械族・風属性チューナー＋チューナー以外のモンスター１体以上$Nこのカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードがS召喚に成功した場合、以下の効果から１つを選択して発動できる。$N●このカード以外のフィールドのカードを全て破壊する。$N●相手フィールドの全ての表側表示のカードの効果を無効にする。$N②：このカードが相手によって墓地へ送られた場合に発動できる。デッキから「スピードロイド」モンスター１体を手札に加える。",
+  "defense_power": "2800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/01/21",
+  "species_id": 7,
+  "starchip": "8"
+}

@@ -1,0 +1,551 @@
+[
+  {
+    "card_count": 1,
+    "card_id": 4007,
+    "card_image_id": 8,
+    "card_number": "MVP1-ITG55",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 8
+  },
+  {
+    "card_count": 1,
+    "card_id": 4007,
+    "card_image_id": 8,
+    "card_number": "MVP1-ITGV4",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 14
+  },
+  {
+    "card_count": 1,
+    "card_id": 4041,
+    "card_image_id": 7,
+    "card_number": "MVP1-ITG54",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 8
+  },
+  {
+    "card_count": 1,
+    "card_id": 4041,
+    "card_image_id": 7,
+    "card_number": "MVP1-ITGV3",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 14
+  },
+  {
+    "card_count": 1,
+    "card_id": 4766,
+    "card_image_id": 5,
+    "card_number": "MVP1-ITG56",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 8
+  },
+  {
+    "card_count": 1,
+    "card_id": 4999,
+    "card_image_id": 3,
+    "card_number": "MVP1-ITG57",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 8
+  },
+  {
+    "card_count": 1,
+    "card_id": 12253,
+    "card_image_id": 1,
+    "card_number": "MVP1-ITG46",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 8
+  },
+  {
+    "card_count": 1,
+    "card_id": 12353,
+    "card_image_id": 1,
+    "card_number": "MVP1-ITG48",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 8
+  },
+  {
+    "card_count": 1,
+    "card_id": 12354,
+    "card_image_id": 1,
+    "card_number": "MVP1-ITG49",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 8
+  },
+  {
+    "card_count": 1,
+    "card_id": 12355,
+    "card_image_id": 1,
+    "card_number": "MVP1-ITG50",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 8
+  },
+  {
+    "card_count": 1,
+    "card_id": 12356,
+    "card_image_id": 1,
+    "card_number": "MVP1-ITG51",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 8
+  },
+  {
+    "card_count": 1,
+    "card_id": 12357,
+    "card_image_id": 1,
+    "card_number": "MVP1-ITG53",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 8
+  },
+  {
+    "card_count": 1,
+    "card_id": 12358,
+    "card_image_id": 1,
+    "card_number": "MVP1-ITG52",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 8
+  },
+  {
+    "card_count": 1,
+    "card_id": 12399,
+    "card_image_id": 1,
+    "card_number": "MVP1-ITG47",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 8
+  },
+  {
+    "card_count": 1,
+    "card_id": 12483,
+    "card_image_id": 1,
+    "card_number": "MVP1-ITGV1",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 14
+  },
+  {
+    "card_count": 1,
+    "card_id": 12484,
+    "card_image_id": 1,
+    "card_number": "MVP1-ITG01",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 8
+  },
+  {
+    "card_count": 1,
+    "card_id": 12485,
+    "card_image_id": 1,
+    "card_number": "MVP1-ITG02",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 8
+  },
+  {
+    "card_count": 1,
+    "card_id": 12486,
+    "card_image_id": 1,
+    "card_number": "MVP1-ITG03",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 8
+  },
+  {
+    "card_count": 1,
+    "card_id": 12487,
+    "card_image_id": 1,
+    "card_number": "MVP1-ITG04",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 8
+  },
+  {
+    "card_count": 1,
+    "card_id": 12488,
+    "card_image_id": 1,
+    "card_number": "MVP1-ITG05",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 8
+  },
+  {
+    "card_count": 1,
+    "card_id": 12489,
+    "card_image_id": 1,
+    "card_number": "MVP1-ITG06",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 8
+  },
+  {
+    "card_count": 1,
+    "card_id": 12490,
+    "card_image_id": 1,
+    "card_number": "MVP1-ITG07",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 8
+  },
+  {
+    "card_count": 1,
+    "card_id": 12491,
+    "card_image_id": 1,
+    "card_number": "MVP1-ITG08",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 8
+  },
+  {
+    "card_count": 1,
+    "card_id": 12492,
+    "card_image_id": 1,
+    "card_number": "MVP1-ITG09",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 8
+  },
+  {
+    "card_count": 1,
+    "card_id": 12493,
+    "card_image_id": 1,
+    "card_number": "MVP1-ITG10",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 8
+  },
+  {
+    "card_count": 1,
+    "card_id": 12494,
+    "card_image_id": 1,
+    "card_number": "MVP1-ITG11",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 8
+  },
+  {
+    "card_count": 1,
+    "card_id": 12495,
+    "card_image_id": 1,
+    "card_number": "MVP1-ITG12",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 8
+  },
+  {
+    "card_count": 1,
+    "card_id": 12496,
+    "card_image_id": 1,
+    "card_number": "MVP1-ITG13",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 8
+  },
+  {
+    "card_count": 1,
+    "card_id": 12497,
+    "card_image_id": 1,
+    "card_number": "MVP1-ITG14",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 8
+  },
+  {
+    "card_count": 1,
+    "card_id": 12498,
+    "card_image_id": 1,
+    "card_number": "MVP1-ITG15",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 8
+  },
+  {
+    "card_count": 1,
+    "card_id": 12499,
+    "card_image_id": 1,
+    "card_number": "MVP1-ITG16",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 8
+  },
+  {
+    "card_count": 1,
+    "card_id": 12500,
+    "card_image_id": 1,
+    "card_number": "MVP1-ITG17",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 8
+  },
+  {
+    "card_count": 1,
+    "card_id": 12501,
+    "card_image_id": 1,
+    "card_number": "MVP1-ITG18",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 8
+  },
+  {
+    "card_count": 1,
+    "card_id": 12502,
+    "card_image_id": 1,
+    "card_number": "MVP1-ITG19",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 8
+  },
+  {
+    "card_count": 1,
+    "card_id": 12503,
+    "card_image_id": 1,
+    "card_number": "MVP1-ITG20",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 8
+  },
+  {
+    "card_count": 1,
+    "card_id": 12504,
+    "card_image_id": 1,
+    "card_number": "MVP1-ITG21",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 8
+  },
+  {
+    "card_count": 1,
+    "card_id": 12505,
+    "card_image_id": 1,
+    "card_number": "MVP1-ITG22",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 8
+  },
+  {
+    "card_count": 1,
+    "card_id": 12506,
+    "card_image_id": 1,
+    "card_number": "MVP1-ITG23",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 8
+  },
+  {
+    "card_count": 1,
+    "card_id": 12507,
+    "card_image_id": 1,
+    "card_number": "MVP1-ITG24",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 8
+  },
+  {
+    "card_count": 1,
+    "card_id": 12508,
+    "card_image_id": 1,
+    "card_number": "MVP1-ITG25",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 8
+  },
+  {
+    "card_count": 1,
+    "card_id": 12509,
+    "card_image_id": 1,
+    "card_number": "MVP1-ITG26",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 8
+  },
+  {
+    "card_count": 1,
+    "card_id": 12510,
+    "card_image_id": 1,
+    "card_number": "MVP1-ITG27",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 8
+  },
+  {
+    "card_count": 1,
+    "card_id": 12511,
+    "card_image_id": 1,
+    "card_number": "MVP1-ITG28",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 8
+  },
+  {
+    "card_count": 1,
+    "card_id": 12512,
+    "card_image_id": 1,
+    "card_number": "MVP1-ITG29",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 8
+  },
+  {
+    "card_count": 1,
+    "card_id": 12513,
+    "card_image_id": 1,
+    "card_number": "MVP1-ITG30",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 8
+  },
+  {
+    "card_count": 1,
+    "card_id": 12514,
+    "card_image_id": 1,
+    "card_number": "MVP1-ITG31",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 8
+  },
+  {
+    "card_count": 1,
+    "card_id": 12515,
+    "card_image_id": 1,
+    "card_number": "MVP1-ITG32",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 8
+  },
+  {
+    "card_count": 1,
+    "card_id": 12516,
+    "card_image_id": 1,
+    "card_number": "MVP1-ITG33",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 8
+  },
+  {
+    "card_count": 1,
+    "card_id": 12517,
+    "card_image_id": 1,
+    "card_number": "MVP1-ITG34",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 8
+  },
+  {
+    "card_count": 1,
+    "card_id": 12518,
+    "card_image_id": 1,
+    "card_number": "MVP1-ITG35",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 8
+  },
+  {
+    "card_count": 1,
+    "card_id": 12519,
+    "card_image_id": 1,
+    "card_number": "MVP1-ITG36",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 8
+  },
+  {
+    "card_count": 1,
+    "card_id": 12520,
+    "card_image_id": 1,
+    "card_number": "MVP1-ITG37",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 8
+  },
+  {
+    "card_count": 1,
+    "card_id": 12521,
+    "card_image_id": 1,
+    "card_number": "MVP1-ITG38",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 8
+  },
+  {
+    "card_count": 1,
+    "card_id": 12522,
+    "card_image_id": 1,
+    "card_number": "MVP1-ITG39",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 8
+  },
+  {
+    "card_count": 1,
+    "card_id": 12523,
+    "card_image_id": 1,
+    "card_number": "MVP1-ITG40",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 8
+  },
+  {
+    "card_count": 1,
+    "card_id": 12524,
+    "card_image_id": 1,
+    "card_number": "MVP1-ITG41",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 8
+  },
+  {
+    "card_count": 1,
+    "card_id": 12525,
+    "card_image_id": 1,
+    "card_number": "MVP1-ITG42",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 8
+  },
+  {
+    "card_count": 1,
+    "card_id": 12526,
+    "card_image_id": 1,
+    "card_number": "MVP1-ITG43",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 8
+  },
+  {
+    "card_count": 1,
+    "card_id": 12527,
+    "card_image_id": 1,
+    "card_number": "MVP1-ITG44",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 8
+  },
+  {
+    "card_count": 1,
+    "card_id": 12528,
+    "card_image_id": 1,
+    "card_number": "MVP1-ITG45",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 8
+  },
+  {
+    "card_count": 1,
+    "card_id": 12692,
+    "card_image_id": 1,
+    "card_number": "MVP1-ITGV2",
+    "language": "it",
+    "pack_id": "42214000",
+    "rarity_id": 14
+  }
+]

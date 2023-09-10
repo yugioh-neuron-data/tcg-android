@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 18516,
+  "card_name": "Rugido Tri-Brigada",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si controlas un Monstruo de Enlace: manda al Cementerio 1 carta \"Tri-Brigada\" en tu Deck o Deck Extra, y después selecciona 1 Monstruo de Efecto en el Campo; aplica el siguiente efecto basado en el tipo de carta mandada al Cementerio.$N●Monstruo: Cambia a 0 el ATK del monstruo seleccionado hasta el final de este turno.$N●Mágica: Niega los efectos de ese monstruo hasta el final de este turno.$N●Trampa: Devuelve ese monstruo a la mano.$NSólo puedes activar 1 \"Rugido Tri-Brigada\" por turno.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/05/04",
+  "species_id": 24,
+  "starchip": "0"
+}

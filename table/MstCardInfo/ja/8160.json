@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 8160,
+  "card_name": "ガード・ヘッジ",
+  "card_name_label": "ガード・ヘッジ",
+  "card_name_search": "がーどへっじ",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上のモンスターが戦闘を行うダメージ計算時、このカードを手札から墓地へ送って発動できる。その自分のモンスターはその戦闘では破壊されず、エンドフェイズ時まで攻撃力は半分になる。",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/02/14",
+  "species_id": 13,
+  "starchip": "3"
+}

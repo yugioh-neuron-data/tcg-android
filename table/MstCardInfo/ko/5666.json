@@ -1,0 +1,23 @@
+{
+  "attack_power": "3500",
+  "attribute_id": 4,
+  "card_id": 5666,
+  "card_name": "절대복종 마인",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "자신 필드 위에 이 카드밖에 없고, 패가 0장이 아니면, 이 카드는 공격할 수 없다. 이 카드가 파괴한 효과 몬스터의 효과는 무효화된다.",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/11/26",
+  "species_id": 3,
+  "starchip": "10"
+}

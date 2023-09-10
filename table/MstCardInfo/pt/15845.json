@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 4,
+  "card_id": 15845,
+  "card_name": "Arqueiro Laval",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se este card for Invocado por Invocação-Normal: durante sua Fase Principal neste turno, você pode Invocar por Invocação-Normal 1 monstro \"Laval\", em adição à sua Invocação-Normal/Baixar (padrão) (você só pode se aproveitar deste efeito uma vez por turno). Se este card estiver no seu Cemitério: você pode escolher 1 monstro de FOGO que você controla; destrua-o e, se isso acontecer, Invoque este card por Invocação-Especial em Posição de Defesa, mas bana-o quando ele deixar o campo e, além disso, você não pode Invocar monstros por Invocação-Especial pelo resto deste turno, exceto monstros de FOGO. Você só pode usar este efeito de \"Arqueiro Laval\" uma vez por turno.",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/04/16",
+  "species_id": 4,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "900",
+  "attribute_id": 4,
+  "card_id": 5776,
+  "card_name": "Königin der Unterwelt, Erzunterweltler",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Einmal pro Spielzug, während deiner Standby Phase, musst du 500 LP zahlen (dies ist nicht optional) oder diese Karte wird zerstört. Wenn ein Karteneffekt eines Gegners aufgelöst wird, der diese Karte als Ziel wählt, wirf einen sechsseitigen Würfel und annulliere jenen Effekt, falls du eine 2 oder 5 würfelst, und falls du dies tust, zerstöre jene Karte. Einmal pro Spielzug, während der Standby Phase: Wähle 1 „Erzunterweltler“-Monster auf dem Spielfeld; es erhält bis zum Ende dieses Spielzugs 1000 ATK.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/05/01",
+  "species_id": 3,
+  "starchip": "4"
+}

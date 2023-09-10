@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 2,
+  "card_id": 14645,
+  "card_name": "Arobruja Mejorana",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Mientras tus LP sean mayores que los de tu adversario, no recibes daño de batalla de ataques que involucren tus monstruos Planta. Sólo puedes usar cada uno de los siguientes efectos de \"Arobruja Mejorana\" una vez por turno.$N●Cuando un monstruo Planta que controlas es destruido en batalla: puedes Invocar esta carta de Modo Especial desde tu mano, y después gana 500 LP.$N●Si ganas LP: selecciona cartas en el Cementerio de tu adversario, hasta el número de monstruos \"Arobru\" que controlas; destiérralas.",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/10/24",
+  "species_id": 13,
+  "starchip": "5"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 6716,
+  "card_name": "Promoción",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Selecciona 1 monstruo Guerrero de TIERRA de Nivel 3 o menor que controles; mándalo al Cementerio y, si lo haces, Invoca de Modo Especial, desde tu Deck, 1 monstruo Guerrero de TIERRA de Nivel 4 o mayor y después, si controlas un monstruo \"Marioneta\" que era originalmente un Guerrero de TIERRA, ese monstruo Invocado de Modo Especial gana ATK/DEF igual al número de cartas en el Cementerio de tu adversario en este momento x 100. Sólo puedes activar 1 \"Promoción\" por turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/06/22",
+  "species_id": 24,
+  "starchip": "0"
+}

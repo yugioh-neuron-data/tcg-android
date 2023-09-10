@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 4,
+  "card_id": 6250,
+  "card_name": "Mago do Sangue",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Sempre que um Card de Magia for ativado, coloque 1 Marcador de Magia neste card quando esse Card de Magia resolver. Você pode remover qualquer número de Marcadores de Magia deste card e, depois, escolher 1 monstro com a face para cima no campo com ATK menor ou igual ao número de marcadores que você removeu x 700; destrua o alvo.",
+  "defense_power": "1700",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/03/01",
+  "species_id": 18,
+  "starchip": "4"
+}

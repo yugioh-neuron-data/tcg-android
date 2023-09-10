@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 5,
+  "card_id": 15498,
+  "card_name": "Entraîneur-Joueur U.A.",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si vous Invoquez Normalement ou Spécialement un ou plusieurs monstres \"U.A.\" (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte depuis votre main. Si cette carte est Invoquée Spécialement : vous pouvez activer 1 de ces effets.$N●Ciblez 1 carte sur le Terrain ; détruisez-la.$N●Jusqu'à la fin de ce tour, annulez les effets de tous les monstres face recto sur le Terrain (monstres \"U.A.\" exclus).$NVous ne pouvez utiliser chaque effet de \"Entraîneur-Joueur U.A.\" qu'une fois par tour.",
+  "defense_power": "2600",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/11/05",
+  "species_id": 15,
+  "starchip": "8"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 2,
+  "card_id": 4742,
+  "card_name": "スフィア・ボム 球体時限爆弾",
+  "card_name_label": "スフィア・ボム　きゅうたいじげんばくだん",
+  "card_name_search": "すふぃあぼむきゅうたいじげんばくだん",
+  "card_pen_effect": "",
+  "card_text": "①：裏側守備表示のこのカードが相手モンスターに攻撃されたダメージ計算前に発動する。このカードを装備カード扱いとしてその攻撃モンスターに装備する。②：このカードの効果でこのカードを装備した次の相手スタンバイフェイズに発動する。装備モンスターを破壊し、その攻撃力分のダメージを相手に与える。",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2000/04/01",
+  "species_id": 7,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 3,
+  "card_id": 9327,
+  "card_name": "Majioshaleón",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Tu adversario no puede seleccionar a esta carta como objetivo de un ataque mientras controle Cartas Mágicas/de Trampa. Durante una batalla entre esta carta atacante y un monstruo en Posición de Defensa cuya DEF sea menor que el ATK de esta carta, inflige la diferencia como daño de batalla a tu adversario.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/02/10",
+  "species_id": 20,
+  "starchip": "5"
+}

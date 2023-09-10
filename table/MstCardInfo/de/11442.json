@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 11442,
+  "card_name": "D/D-Gelehrter Kepler",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Du kannst keine Monster als Pendelbeschwörung beschwören, außer „D/D“-Monstern. Dieser Effekt kann nicht annulliert werden. Einmal pro Spielzug, während deiner Standby Phase: Verringere den Pendelbereich dieser Karte um 2 (min. 1), dann zerstöre alle Monster, die du kontrollierst und deren Stufe größer oder gleich dem Pendelbereich dieser Karte ist, außer „D/D“-Monstern.",
+  "card_text": "Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 dieser Effekte aktivieren. Du kannst diesen Effekt von „D/D-Gelehrter Kepler“ nur einmal pro Spielzug verwenden.$N●Wähle 1 andere „D/D“-Karte, die du kontrollierst; gib sie auf die Hand zurück.$N●Füge deiner Hand 1 „Dunkler Vertrag“-Karte von deinem Deck hinzu.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "10",
+  "pen_scale_r": "10",
+  "sales_at": "2015/11/05",
+  "species_id": 3,
+  "starchip": "1"
+}

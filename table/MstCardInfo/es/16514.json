@@ -1,0 +1,23 @@
+{
+  "attack_power": "4600",
+  "attribute_id": 2,
+  "card_id": 16514,
+  "card_name": "Ruinfuerza de la Maquinaria",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial (desde tu Cementerio) desterrando monstruos Máquina en tu Cementerio cuyos Niveles totales sean iguales a 12 o más. Cuando tu adversario activa una carta o efecto durante la Battle Phase (Efecto Rápido): puedes pagar la mitad de tus LP; niega esa activación y, si lo haces, divide a la mitad los LP de tu adversario. Si esta carta es destruida en batalla o por el efecto de una carta: puedes Invocar de Modo Especial hasta 3 de tus monstruos \"Maquinaria\" desterrados, cuyos Niveles totales sean iguales a 12 o menos. Sólo puedes usar cada efecto de \"Ruinfuerza de la Maquinaria\" una vez por turno.",
+  "defense_power": "4100",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/11/04",
+  "species_id": 7,
+  "starchip": "10"
+}

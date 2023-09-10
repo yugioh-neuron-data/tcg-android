@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 8601,
+  "card_name": "レプティレス・ポイズン",
+  "card_name_label": "レプティレス・ポイズン",
+  "card_name_search": "れぷてぃれすぽいずん",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上に「レプティレス」と名のついたモンスターが表側表示で存在する場合のみ発動する事ができる。相手フィールド上に守備表示で存在するモンスター１体を表側攻撃表示に変更し、そのモンスターの攻撃力を０にする。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/09/18",
+  "species_id": 24,
+  "starchip": "0"
+}

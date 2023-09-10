@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 5,
+  "card_id": 5959,
+  "card_name": "로켓 점퍼",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "상대 필드 위에 수비 표시 몬스터밖에 존재하지 않는 경우, 이 카드는 상대 플레이어에게 직접 공격을 할 수 있다.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/08/27",
+  "species_id": 6,
+  "starchip": "3"
+}

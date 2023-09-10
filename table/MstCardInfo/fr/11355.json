@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 5,
+  "card_id": 11355,
+  "card_name": "Hélice Qliphort",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Vous ne pouvez pas Invoquer Spécialement de monstres (monstres \"Qli\" exclus). Cet effet ne peut pas être annulé. Tous les monstres contrôlés par votre adversaire perdent 300 ATK.",
+  "card_text": "Vous pouvez Invoquer Normalement cette carte sans Sacrifice. Si cette carte est Invoquée Normalement sans Sacrifice ou est Invoqué Spécialement, son Niveau devient 4 et son ATK d'origine devient 1800. Si cette carte est Invoquée Normalement ou Posée, elle n'est pas affectée par les effets activés de monstres dont le Niveau/Rang d'origine est inférieur au Niveau actuel de cette carte. Si cette carte est Sacrifiée : vous pouvez cibler 1 Carte Magie/Piège sur le Terrain ; détruisez-la.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "9",
+  "pen_scale_r": "9",
+  "sales_at": "2014/11/06",
+  "species_id": 7,
+  "starchip": "6"
+}

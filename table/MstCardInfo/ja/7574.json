@@ -1,0 +1,23 @@
+{
+  "attack_power": "1100",
+  "attribute_id": 1,
+  "card_id": 7574,
+  "card_name": "オネスト",
+  "card_name_label": "オネスト",
+  "card_name_search": "おねすと",
+  "card_pen_effect": "",
+  "card_text": "①：自分メインフェイズに発動できる。フィールドの表側表示のこのカードを持ち主の手札に戻す。②：自分の光属性モンスターが戦闘を行うダメージステップ開始時からダメージ計算前までに、このカードを手札から墓地へ送って発動できる。そのモンスターの攻撃力はターン終了時まで、戦闘を行う相手モンスターの攻撃力分アップする。",
+  "defense_power": "1900",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/02/23",
+  "species_id": 17,
+  "starchip": "4"
+}

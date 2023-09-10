@@ -1,0 +1,23 @@
+{
+  "attack_power": "2600",
+  "attribute_id": 4,
+  "card_id": 15846,
+  "card_name": "Salamandra Lavalval",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Cantante + 1+ monstruos de FUEGO que no sean Cantantes$NSi esta carta es Invocada por Sincronía: puedes robar 2 cartas, y después, si tienes un monstruo de FUEGO en tu mano, manda al Cementerio 2 cartas en tu mano, incluyendo un monstruo de FUEGO. De otro modo, muestra toda tu mano, y barájala al Deck. Sólo puedes usar este efecto de \"Salamandra Lavalval\" una vez por turno. Una vez por turno: puedes desterrar 1 monstruo de FUEGO en tu Cementerio; cambia monstruos boca arriba que controle tu adversario, hasta el número de monstruos \"Laval\" que controles, a Posición de Defensa boca abajo.",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/04/16",
+  "species_id": 1,
+  "starchip": "7"
+}

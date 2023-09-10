@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 5,
+  "card_id": 4919,
+  "card_name": "カラテマン",
+  "card_name_label": "カラテマン",
+  "card_name_search": "からてまん",
+  "card_pen_effect": "",
+  "card_text": "１ターンに１度、自分のメインフェイズ時に発動する事ができる。このカードの攻撃力はエンドフェイズ時まで、元々の攻撃力を倍にした数値になる。この効果を使用した場合、このカードはエンドフェイズ時に破壊される。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2000/07/13",
+  "species_id": 15,
+  "starchip": "3"
+}

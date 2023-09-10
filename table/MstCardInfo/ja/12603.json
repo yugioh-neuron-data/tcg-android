@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 12603,
+  "card_name": "花札衛－紅葉に鹿－",
+  "card_name_label": "カーディアン－もみじにしか－",
+  "card_name_search": "かーでぃあんもみじにしか",
+  "card_pen_effect": "",
+  "card_text": "このカードは通常召喚できない。「花札衛－紅葉に鹿－」以外の自分フィールドの「花札衛」モンスター１体をリリースした場合に特殊召喚できる。①：このカードが特殊召喚に成功した場合に発動する。自分はデッキから１枚ドローし、お互いに確認する。それが「花札衛」モンスターだった場合、相手フィールドの魔法・罠カード１枚を選んで破壊できる。違った場合、そのカードを墓地へ送る。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/07/09",
+  "species_id": 15,
+  "starchip": "10"
+}

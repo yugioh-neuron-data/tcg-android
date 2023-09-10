@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 8500,
+  "card_name": "Erleuchtung",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Du kannst in dem Spielzug, in dem du diese Karte aktivierst, keine Beschwörungen durchführen. Aktiviere diese Karte am Ende des Damage Steps, falls ein Monster vom Typ Hexer, das du kontrollierst, angegriffen hat und ein Monster deines Gegners durch Kampf zerstört hat. Das Monster kann sofort noch einmal angreifen.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/11/12",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 5,
+  "card_id": 14193,
+  "card_name": "混沌の戦士 カオス・ソルジャー",
+  "card_name_label": "こんとんのせんし　カオス・ソルジャー",
+  "card_name_search": "こんとんのせんしかおすそるじゃー",
+  "card_pen_effect": "",
+  "card_text": "カード名が異なるモンスター３体$N①：レベル７以上のモンスターを素材としてリンク召喚したこのカードは相手の効果の対象にならず、相手の効果では破壊されない。②：このカードが戦闘で相手モンスターを破壊した時、以下の効果から１つを選択して発動できる。●このカードの攻撃力は１５００アップする。●このカードは次の自分ターンのバトルフェイズ中に２回攻撃できる。●フィールドのカード１枚を選んで除外する。",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "813",
+  "linkno": "3",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/11/23",
+  "species_id": 15,
+  "starchip": ""
+}

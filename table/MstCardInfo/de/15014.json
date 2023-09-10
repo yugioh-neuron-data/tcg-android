@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 4,
+  "card_id": 15014,
+  "card_name": "Loptr, Schatten der Generaider-Bosse",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Du kannst nur 1 „Loptr, Schatten der Generaider-Bosse“ kontrollieren. Alle „Generaider“-Monster, die du kontrollierst, erhalten nur während des Spielzugs deines Gegners 1000 ATK/DEF. Während der Main Phase (Schnelleffekt): Du kannst 1 „Generaider“-Monster als Tribut anbieten; beschwöre 1 „Generaider“-Monster der Stufe 9 mit einem unterschiedlichen Namen als Spezialbeschwörung von deinem Deck. Du kannst diesen Effekt von „Loptr, Schatten der Generaider-Bosse“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/30",
+  "species_id": 17,
+  "starchip": "4"
+}

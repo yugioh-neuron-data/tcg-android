@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 9240,
+  "card_name": "Carte du Sacrifice",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Piochez 2 cartes, si la somme des ATK de tous vos monstres en Position d'Attaque face recto (min. 2) est inférieure à l'ATK du monstre face recto de votre adversaire avec la plus faible ATK. Vous ne pouvez pas Invoquer ou changer la position de combat le tour où vous activez cette carte.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/01/20",
+  "species_id": 25,
+  "starchip": "0"
+}

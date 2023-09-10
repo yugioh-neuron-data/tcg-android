@@ -1,0 +1,23 @@
+{
+  "attack_power": "2700",
+  "attribute_id": 6,
+  "card_id": 6720,
+  "card_name": "神鳥シムルグ",
+  "card_name_label": "しんちょうシムルグ",
+  "card_name_search": "しんちょうしむるぐ",
+  "card_pen_effect": "",
+  "card_text": "このカードは特殊召喚できない。このカードをアドバンス召喚する場合、リリースするモンスターは風属性モンスターでなければならない。このカードがフィールド上に表側表示で存在する限り、お互いのプレイヤーはお互いのエンドフェイズ毎に１０００ポイントダメージを受ける。この時、それぞれのプレイヤーが受けるダメージは魔法・罠カードをコントロールしている数×５００ポイント少なくなる。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/03/16",
+  "species_id": 16,
+  "starchip": "7"
+}

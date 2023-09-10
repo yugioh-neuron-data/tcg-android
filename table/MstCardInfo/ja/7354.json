@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 7354,
+  "card_name": "サディスティック・ポーション",
+  "card_name_label": "サディスティック・ポーション",
+  "card_name_search": "さでぃすてぃっくぽーしょん",
+  "card_pen_effect": "",
+  "card_text": "発動後このカードは装備カードとなり、自分フィールド上に存在するモンスター１体に装備する。このカードのコントローラーがカードの効果によって相手プレイヤーにダメージを与えた場合、そのターンのエンドフェイズ時まで装備モンスターの攻撃力は１０００ポイントアップする。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/12/06",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 10676,
+  "card_name": "Vain－裏切りの嘲笑",
+  "card_name_label": "ヴェイン－うらぎりのちょうしょう",
+  "card_name_search": "う゛ぇいんうらぎりのちょうしょう",
+  "card_pen_effect": "",
+  "card_text": "相手フィールド上のエクシーズモンスターが攻撃宣言した時、そのモンスター１体を選択して発動できる。選択したモンスターは攻撃できず、効果は無効化される。選択したモンスターがフィールド上に存在する限り、相手のエンドフェイズ毎に相手のデッキの上からカードを３枚墓地へ送る。選択したモンスターがフィールド上から離れた時、このカードを破壊する。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/04/20",
+  "species_id": 25,
+  "starchip": "0"
+}

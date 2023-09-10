@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 12008,
+  "card_name": "サイコ・ブレイド",
+  "card_name_label": "サイコ・ブレイド",
+  "card_name_search": "さいこぶれいど",
+  "card_pen_effect": "",
+  "card_text": "「サイコ・ブレイド」は１ターンに１枚しか発動できない。１００の倍数のLPを払ってこのカードを発動できる（最大２０００まで）。①：装備モンスターの攻撃力・守備力は、このカードを発動するために払ったLPの数値分アップする。",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/07/18",
+  "species_id": 24,
+  "starchip": "0"
+}

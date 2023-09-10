@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 12586,
+  "card_name": "Hangar Union",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsque cette carte est activée : vous pouvez ajouter 1 monstre Union LUMIÈRE Machine depuis votre Deck à votre main. Une fois par tour, si un ou plusieurs monstres Union LUMIÈRE Machine sont Invoqués Normalement ou Spécialement sur votre Terrain (sauf durant la Damage Step) : vous pouvez cibler 1 de ces monstres ; équipez 1 monstre Union LUMIÈRE Machine approprié de nom différent, depuis votre Deck au monstre, mais le monstre Union que vous avez équipé ne peut pas être Invoqué Spécialement ce tour. Vous ne pouvez activer qu'1 \"Hangar Union\" par tour.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/10/20",
+  "species_id": 24,
+  "starchip": "0"
+}

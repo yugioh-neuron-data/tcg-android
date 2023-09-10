@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 12524,
+  "card_name": "Karma Cúbico",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando esta carta es activada: puedes seleccionar 1 monstruo \"Cúbico/a\" que controles, excepto \"Vijam la Semilla Cúbica\"; manda cualquier cantidad de \"Vijam la Semilla Cúbica\" de tu mano y/o Deck al Cementerio, y después ese monstruo gana 800 ATK por cada una (aún si esta carta deja el Campo). Durante el turno de tu adversario, si \"Vijam la Semilla Cúbica\" es Invocada de Modo Especial por el efecto de un monstruo \"Cúbico/a\": manda esta carta al Cementerio y, si lo haces, divide a la mitad los LP de tu adversario. Puedes desterrar esta carta de tu Cementerio; añade a tu mano, desde tu Deck, 1 monstruo \"Cúbico/a\".",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/07/21",
+  "species_id": 24,
+  "starchip": "0"
+}

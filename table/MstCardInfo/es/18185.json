@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 2,
+  "card_id": 18185,
+  "card_name": "Bestia del Caos",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Cantante de LUZ + 1+ monstruos de OSCURIDAD que no sean Cantantes$NSi alguna carta ha sido desterrada este turno, esta carta gana 1000 ATK. Sólo puedes usar cada uno de los siguientes efectos de \"Bestia del Caos\" una vez por turno. Puedes seleccionar 1 de tus monstruos de LUZ u OSCURIDAD desterrados; añádelo a tu mano. Durante tu Main Phase, excepto el turno en el que esta carta fue mandada al Cementerio: puedes desterrar 1 monstruo de LUZ y 1 de OSCURIDAD en tu mano y/o Cementerio, excepto esta carta; Invoca esta carta de Modo Especial desde tu Cementerio.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/02/06",
+  "species_id": 3,
+  "starchip": "6"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14315,
+  "card_name": "Mordschlag",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Rüste nur ein Monster mit dieser Karte aus, das du kontrollierst und das als Normalbeschwörung beschworen/gesetzt wurde. Es bleibt von den aktivierten Effekten der als Spezialbeschwörung beschworenen Monster deines Gegners unberührt. Während der Schadensberechnung, falls das ausgerüstete Monster gegen ein als Spezialbeschwörung beschworenes Monster eines Gegners kämpft: Das Monster des Gegners verliert nur während der Schadensberechnung ATK/DEF in Höhe der Grund-ATK des ausgerüsteten Monsters.",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/05/02",
+  "species_id": 24,
+  "starchip": "0"
+}

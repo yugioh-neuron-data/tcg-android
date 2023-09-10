@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 11403,
+  "card_name": "Pugno in Scatola",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Quando un mostro del tuo avversario dichiara un attacco mentre controlla 2 o più mostri: scegli come bersaglio il mostro attaccante; annulla quell'attacco e, se lo fai, manda 1 altro mostro che lui controlla al Cimitero, poi il mostro scelto come bersaglio perde ATK pari all'ATK o DEF originale (quello che è più alto, in caso di parità scegli tu) del mostro mandato al Cimitero.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/11/06",
+  "species_id": 25,
+  "starchip": "0"
+}

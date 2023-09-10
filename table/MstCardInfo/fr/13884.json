@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 1,
+  "card_id": 13884,
+  "card_name": "Pluie Bozu",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Une fois par tour : vous pouvez cibler 1 monstre face recto que vous contrôlez ; jusqu'à la fin de ce tour (même si cette carte quitte le Terrain), il gagne une ATK égale à la différence entre le nombre de cartes dans les Extra Decks x 100.",
+  "card_text": "Gagne de l'ATK durant votre tour uniquement, et gagne de la DEF durant le tour de votre adversaire uniquement, chacune égale à la différence entre le nombre de cartes dans les Extra Decks x 200. Si cette carte attaque, elle est changée en Position de Défense à la fin de la Battle Phase. Si cette carte dans la Zone Monstre est détruite : vous pouvez placer cette carte dans votre Zone Pendule.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "8",
+  "pen_scale_r": "8",
+  "sales_at": "2020/04/30",
+  "species_id": 17,
+  "starchip": "7"
+}

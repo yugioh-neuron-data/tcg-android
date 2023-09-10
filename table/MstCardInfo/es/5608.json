@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 5608,
+  "card_name": "Apuesta",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cada jugador muestra 1 carta en su mano. Si una carta es de Nivel mayor que la otra, la carta con el Nivel más bajo es mandada al Cementerio, y el jugador que la mostró recibe 1000 puntos de daño. (Las cartas que no sean Cartas de Monstruo se tratan como de Nivel 0).",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/03/19",
+  "species_id": 24,
+  "starchip": "0"
+}

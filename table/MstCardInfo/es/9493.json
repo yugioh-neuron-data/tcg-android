@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 9493,
+  "card_name": "Buster Blaster",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Una vez por turno, durante tu Main Phase, puedes equipar esta carta a un monstruo que controles como una Carta de Equipo, O desequiparla para Invocarla de Modo Especial en Posición de Ataque boca arriba. Mientras esté equipada a un monstruo por este efecto, el monstruo equipado pierde 500 ATK y DEF. Si el monstruo equipado destruye un monstruo de tu adversario en batalla, destruye todos los monstruos boca arriba en el Campo con el mismo Tipo de Monstruo que el monstruo destruido. (Un monstruo sólo puede ser equipado con 1 Monstruo de Unión a la vez. Si el monstruo equipado con esta carta fuera a ser destruido, destruye esta carta en su lugar.)",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 8,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/05/05",
+  "species_id": 7,
+  "starchip": "1"
+}

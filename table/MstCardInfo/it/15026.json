@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 1,
+  "card_id": 15026,
+  "card_name": "Augoeides Invokato",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"Aleister l'Invocatore\" + 1 Mostro Fusione$NSe questa carta viene Evocata Specialmente, o se uno o più mostri vengono Evocati Specialmente sul Terreno del tuo avversario: puoi scegliere come bersaglio 1 mostro controllato dal tuo avversario; distruggilo. Puoi utilizzare questo effetto di \"Augoeides Invokato\" una sola volta per turno. Una volta per turno: puoi bandire 1 Mostro Fusione dal tuo Cimitero; questa carta guadagna ATK pari all'ATK di quel mostro bandito, fino alla fine del turno del tuo avversario.",
+  "defense_power": "2800",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/30",
+  "species_id": 17,
+  "starchip": "8"
+}

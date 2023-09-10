@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 6,
+  "card_id": 12375,
+  "card_name": "EMインコーラス",
+  "card_name_label": "エンタメイトインコーラス",
+  "card_name_search": "えんためいといんこーらす",
+  "card_pen_effect": "①：１ターンに１度、もう片方の自分のPゾーンに「EMインコーラス」以外の「EM」カード、「魔術師」カード、「オッドアイズ」カードの内、いずれかが存在する場合に発動できる。このカードのPスケールはターン終了時まで７になる。",
+  "card_text": "①：このカードが戦闘で破壊された時に発動できる。デッキからPモンスター以外の「EM」モンスター１体を特殊召喚する。",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "2",
+  "pen_scale_r": "2",
+  "sales_at": "2016/03/19",
+  "species_id": 16,
+  "starchip": "3"
+}

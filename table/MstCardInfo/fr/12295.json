@@ -1,0 +1,23 @@
+{
+  "attack_power": "1950",
+  "attribute_id": 2,
+  "card_id": 12295,
+  "card_name": "Lector Pendule, le Dracosseigneur",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Annulez les effets des Monstres Pendule face recto tant que votre adversaire les contrôle.",
+  "card_text": "Au début de la Damage Step, si cette carte combat un Monstre Pendule : détruisez le monstre ainsi que cette carte.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2016/05/05",
+  "species_id": 1,
+  "starchip": "4"
+}

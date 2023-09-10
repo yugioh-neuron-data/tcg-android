@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 5433,
+  "card_name": "悪夢の蜃気楼",
+  "card_name_label": "あくむのしんきろう",
+  "card_name_search": "あくむのしんきろう",
+  "card_pen_effect": "",
+  "card_text": "相手のスタンバイフェイズ時に１度、自分の手札が４枚になるまでデッキからカードをドローする。この効果でドローした場合、次の自分のスタンバイフェイズ時に１度、ドローした枚数分だけ自分の手札をランダムに捨てる。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/03/21",
+  "species_id": 24,
+  "starchip": "0"
+}

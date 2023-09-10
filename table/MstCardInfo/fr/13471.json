@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 13471,
+  "card_name": "Écailles Corrosives",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Ciblez 1 monstre Insecte que vous contrôlez ; équipez-lui cette carte. Tant que vous contrôlez le monstre équipé, les monstres de votre adversaire ne peuvent pas attaquer de monstres Insecte (le monstre équipé exclu). Tant que cette carte est équipée à un monstre, chaque fois que votre adversaire Invoque Normalement ou Spécialement un ou plusieurs monstres, OU qu'il active une carte ou un effet, placez 1 Compteur Écaille sur chaque monstre face recto qu'il contrôle. Chaque monstre contrôlé par votre adversaire perd 100 ATK/DEF pour chaque Compteur Écaille qu'il a.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/02/22",
+  "species_id": 25,
+  "starchip": "0"
+}

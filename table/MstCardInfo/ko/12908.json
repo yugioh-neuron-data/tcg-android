@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 2,
+  "card_id": 12908,
+  "card_name": "홍채의 마술사",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "①: 1턴에 1번, 자신 필드의 마법사족 / 어둠 속성 몬스터 1장을 대상으로 하고 발동할 수 있다. 이 턴에 그 몬스터가 상대 몬스터와의 전투로 상대에게 주는 전투 데미지는 배가 된다. 그 후, 이 카드를 파괴한다.",
+  "card_text": "이 카드는 룰상 \"펜듈럼 드래곤\" 카드로도 취급한다. ①: 이 카드가 전투 / 효과로 파괴되었을 경우에 발동할 수 있다. 덱에서 \"펜듈럼그래프\" 카드 1장을 패에 넣는다.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "8",
+  "pen_scale_r": "8",
+  "sales_at": "2017/03/14",
+  "species_id": 18,
+  "starchip": "4"
+}

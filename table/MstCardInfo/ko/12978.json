@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 12978,
+  "card_name": "무대회전",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "①: 자신의 덱에서 카드명이 다른 필드 마법 카드 2장을 골라, 그 중의 1장을 자신 필드에 세트하고, 나머지 1장을 상대 필드에 세트한다. 이 효과로 세트한 카드 중 어느 것이 필드 존에 세트되어 있는 한, 서로 다른 필드 마법 카드를 발동 / 세트할 수 없다.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/04/11",
+  "species_id": 24,
+  "starchip": "0"
+}

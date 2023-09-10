@@ -1,0 +1,23 @@
+{
+  "attack_power": "3100",
+  "attribute_id": 2,
+  "card_id": 18821,
+  "card_name": "Quimera, la Bestia de Ilusión",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"Quimera, la Bestia Voladora Mítica\" + 1+ monstruos Ilusión$NEl nombre de esta carta se convierte en \"Quimera, la Bestia Voladora Mítica\" mientras está en el Campo o en el Cementerio. Esta carta puede atacar a monstruos un número de veces cada Battle Phase, hasta el número de materiales usados para ella. Si esta carta batalla con un monstruo, ninguno puede ser destruido en esa batalla. Al final del Damage Step, si esta carta batalló con un monstruo del adversario: puedes cambiar el ATK de ese monstruo del adversario a 0, y además niega sus efectos.",
+  "defense_power": "2800",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/07/27",
+  "species_id": 34,
+  "starchip": "8"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 6,
+  "card_id": 13213,
+  "card_name": "F.A.ソニックマイスター",
+  "card_name_label": "フォーミュラアスリートソニックマイスター",
+  "card_name_search": "ふぉーみゅらあすりーとそにっくまいすたー",
+  "card_pen_effect": "",
+  "card_text": "①：このカードの攻撃力はこのカードのレベル×３００アップし、このカードのレベルよりも元々のレベルまたはランクが低い相手モンスターとの戦闘では破壊されない。②：「F.A.」魔法・罠カードの効果が発動した場合に発動できる（ダメージステップでも発動可能）。このカードのレベルを１つ上げる。③：このカードのレベルが７以上の場合、このカードは１度のバトルフェイズ中に２回までモンスターに攻撃できる。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/09/09",
+  "species_id": 7,
+  "starchip": "4"
+}

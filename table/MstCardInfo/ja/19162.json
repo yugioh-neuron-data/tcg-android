@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 19162,
+  "card_name": "ブラック・ホール・ドラゴン",
+  "card_name_label": "ブラック・ホール・ドラゴン",
+  "card_name_search": "ぶらっくほーるどらごん",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。$N①：このカードが手札・墓地に存在し、フィールドのモンスターが自身を対象としないカードの効果で破壊された場合に発動できる。このカードを特殊召喚する。$N②：このカードが特殊召喚した場合に発動できる。このターンのエンドフェイズに、デッキから「ブラック・ホール」１枚を手札に加える。$N③：フィールドのこのカードは効果では破壊されない。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/07/22",
+  "species_id": 1,
+  "starchip": "8"
+}

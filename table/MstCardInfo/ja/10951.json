@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10951,
+  "card_name": "武神集結",
+  "card_name_label": "ぶじんしゅうけつ",
+  "card_name_search": "ぶじんしゅうけつ",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上にこのカード以外のカードが存在しない場合に発動できる。自分の墓地の「武神」と名のついた獣戦士族モンスターを全てデッキに戻し、自分の手札を全て墓地へ送る。その後、デッキからカード名の異なる「武神」と名のついた獣戦士族モンスターを３体まで手札に加える事ができる。「武神集結」は１ターンに１枚しか発動できない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/11/16",
+  "species_id": 24,
+  "starchip": "0"
+}

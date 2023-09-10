@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 6,
+  "card_id": 17787,
+  "card_name": "Espíritu Kyudo Han-Shi",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Si uno o más monstruos son Invocados por Péndulo: devuelve a la mano esta carta.",
+  "card_text": "Cuando esta carta es Invocada de Modo Normal: puedes devolver a la mano todas las cartas que controlas en la misma columna que las cartas en tus Zonas de Péndulo (incluyendo las mismas cartas de la Zona de Péndulo), y después puedes añadir a tu mano 1 monstruo con 2400 ATK/1000 DEF en tu Deck, excepto \"Espíritu Kyudo Han-Shi\". Una vez por turno, durante la End Phase, si esta carta fue Invocada de Modo Normal o volteada boca arriba este turno: devuelve esta carta a la mano.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 45,
+  "pen_scale_l": "9",
+  "pen_scale_r": "9",
+  "sales_at": "2022/10/20",
+  "species_id": 15,
+  "starchip": "5"
+}

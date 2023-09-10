@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 1,
+  "card_id": 17267,
+  "card_name": "Yakusa, Seigneur des Huit Tonnerres",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Vous pouvez Invoquer Spécialement cette carte (depuis votre main) en bannissant 1 monstre de Niveau/Rang 8 depuis votre Cimetière. Vous pouvez cibler 1 Monstre Rituel, Fusion, Synchro ou Xyz de Niveau/Rang 8 dans votre Cimetière ; mélangez-le dans le Deck, puis appliquez l'effet suivant selon le type de carte du monstre renvoyé.$N●Rituel/Fusion : Piochez 1 carte.$N●Synchro/Xyz : Cette carte gagne 1000 ATK.$NVous ne pouvez utiliser cet effet de \"Yakusa, Seigneur des Huit Tonnerres\" qu'une fois par tour.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/05/19",
+  "species_id": 26,
+  "starchip": "8"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 11102,
+  "card_name": "Acquascivolo Silvano",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Ogni volta che un mostro dell'avversario dichiara un attacco diretto: puoi dissotterrare la prima carta del tuo Deck e, se è un mostro di Tipo Pianta, mandarla al Cimitero. Altrimenti, mettilo in fondo al tuo Deck. Durante la tua Draw Phase, invece di effettuare la tua normale pescata: dissotterra la prima carta del tuo Deck e, se è un mostro di Tipo Pianta, mandalo al Cimitero. Altrimenti, aggiungila alla tua mano.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/05/15",
+  "species_id": 25,
+  "starchip": "0"
+}

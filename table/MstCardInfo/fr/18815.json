@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 6,
+  "card_id": 18815,
+  "card_name": "Ulka Étoile de la Mort",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsqu'exactement 1 monstre que vous contrôlez (et aucun autre monstre) quitte le Terrain par un effet de carte de l'adversaire (sauf durant la Damage Step) : vous pouvez bannir cette carte depuis votre main ou Cimetière ; si le monstre est dans le Cimetière ou banni face recto, Invoquez-le Spécialement, sinon, Invoquez Spécialement cette carte bannie. Si cette carte est Invoquée Spécialement : jusqu'à la fin du prochain tour, vous pouvez faire gagner 1500 ATK à cette carte. Vous ne pouvez utiliser chaque effet de \"Ulka Étoile de la Mort\" qu'une fois par tour.",
+  "defense_power": "400",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/07/27",
+  "species_id": 11,
+  "starchip": "4"
+}

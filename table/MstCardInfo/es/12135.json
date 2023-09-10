@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 3,
+  "card_id": 12135,
+  "card_name": "Dinoniebla Brachion",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Una vez, mientras esta carta está en tu Zona de Péndulo, puedes negar el efecto activado de una carta que seleccione a otra u otras cartas \"Dinoniebla\" que controles, y después destruye esta carta.",
+  "card_text": "Si no controlas \"Dinoniebla Brachion\" en tu Zona de Monstruos y tu adversario controla un monstruo que tiene el ATK más alto del Campo (aunque haya empate), puedes Invocar esta carta de Modo Especial (desde tu mano).",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "6",
+  "pen_scale_r": "6",
+  "sales_at": "2016/01/14",
+  "species_id": 7,
+  "starchip": "5"
+}

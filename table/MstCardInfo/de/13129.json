@@ -1,0 +1,23 @@
+{
+  "attack_power": "200",
+  "attribute_id": 2,
+  "card_id": 13129,
+  "card_name": "Künstlerkumpel Buntäugiges Synchron",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Einmal pro Spielzug: Du kannst 1 „Künstlerkumpel“- oder „Buntäugig“-Monster wählen, das du kontrollierst; in diesem Spielzug wird das offene Monster als Empfänger behandelt, zusätzlich wird seine Stufe zu 1 (selbst falls diese Karte das Spielfeld verlässt).",
+  "card_text": "Falls diese als Spezialbeschwörung vom Extra Deck beschworene Karte als Synchromaterial verwendet wird, verbanne sie. Wenn diese Karte als Normalbeschwörung beschworen wird: Du kannst 1 „Künstlerkumpel“- oder „Buntäugig“-Monster der Stufe 3 oder niedriger in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung, aber seine Effekte bleiben annulliert. Einmal pro Spielzug: Du kannst 1 Karte in deiner Pendelzone wählen; beschwöre sie als Spezialbeschwörung, aber ihre Effekte bleiben annulliert (falls sie welche hat), und falls du dies tust, sofort nachdem dieser Effekt aufgelöst wurde, beschwöre 1 Synchromonster als Synchrobeschwörung und verwende dafür nur das Monster und diese Karte.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 33,
+  "pen_scale_l": "6",
+  "pen_scale_r": "6",
+  "sales_at": "2017/07/06",
+  "species_id": 18,
+  "starchip": "2"
+}

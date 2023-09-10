@@ -1,0 +1,23 @@
+{
+  "attack_power": "2200",
+  "attribute_id": 2,
+  "card_id": 15856,
+  "card_name": "Ladrão do Tempo Barril Duplo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 monstros de Nível 4$NQuando seu oponente ativar um card ou efeito: você pode desassociar até 3 tipos diferentes de matéria deste card (Monstro, Magia e Armadilha) e, depois, aplique os seguintes efeitos, em sequência, de acordo com o que foi desassociado.$N●Monstro: Este card ganha 400 de ATK.$N●Magia: Tome o controle de 1 monstro com a face para cima que seu oponente controla até a Fase Final, mas ele não pode declarar um ataque nem ativar seus efeitos neste turno.$N●Armadilha: Negue os efeitos de 1 Monstro de Efeito no campo até o final deste turno.$NVocê só pode usar este efeito de \"Ladrão do Tempo Barril Duplo\" uma vez por turno.",
+  "defense_power": "2200",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/04/16",
+  "species_id": 21,
+  "starchip": "4"
+}

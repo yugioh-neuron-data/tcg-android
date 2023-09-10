@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 6,
+  "card_id": 6778,
+  "card_name": "Rallis, der Sternenvogel",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Erhöhe die ATK dieser Karte um die Stufe des Monsters, gegen das es kämpft, x 200 Punkte nur während des Damage Steps. Falls diese Karte angreift, wird sie am Ende des Damage Steps aus dem Spiel entfernt und lege sie am Beginn der Battle Phase deines nächsten Spielzugs in offener Angriffsposition auf deine Spielfeldseite zurück.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/08/16",
+  "species_id": 16,
+  "starchip": "3"
+}

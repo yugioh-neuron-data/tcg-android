@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 1,
+  "card_id": 13243,
+  "card_name": "Exécuteur Métaphysique",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Ni Invocable Normalement ni Posable Normalement. Uniquement Invocable Spécialement (depuis votre main) en bannissant 5 cartes \"Métaphysique\" de noms différents depuis votre Cimetière et/ou face recto depuis votre Terrain. Ni destructible ni bannissable par des effets de carte. Une fois par tour, si votre adversaire contrôle plus de cartes que vous : vous pouvez cibler 1 de vos monstres \"Métaphysique\" bannis ; Invoquez-le Spécialement, mais bannissez-le durant la End Phase du prochain tour.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/10/19",
+  "species_id": 26,
+  "starchip": "10"
+}

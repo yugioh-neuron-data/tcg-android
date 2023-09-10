@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 5,
+  "card_id": 14392,
+  "card_name": "無限起動ロックアンカー",
+  "card_name_label": "むげんきどうロックアンカー",
+  "card_name_search": "むげんきどうろっくあんかー",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功した場合に発動できる。手札から「無限起動ロックアンカー」以外の機械族・地属性モンスター１体を守備表示で特殊召喚する。②：このカード以外の自分フィールドの機械族モンスター１体を対象として発動できる。そのモンスターとこのカードは、ターン終了時までその２体の元々のレベルを合計したレベルになる。",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/02/23",
+  "species_id": 7,
+  "starchip": "4"
+}

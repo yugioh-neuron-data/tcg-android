@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 2,
+  "card_id": 14739,
+  "card_name": "D/D-Übel",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Einmal, solange diese Karte in deiner Pendelzone liegt, wenn dein Gegner ein oder mehr Monster als Pendelbeschwörung beschwört (außer während des Damage Steps): Du kannst diesen Effekt aktivieren; in diesem Spielzug können die als Pendelbeschwörung beschworenen Monster nicht angreifen, zusätzlich werden ihre Effekte annulliert.",
+  "card_text": "Kann nicht angreifen, es sei denn, du kontrollierst ein anderes „D/D“-Monster. Während der Main Phase deines Gegners (Schnelleffekt): Du kannst 1 offenes als Pendelbeschwörung beschworenes Monster wählen, das dein Gegner kontrolliert; annulliere die Effekte des offenen Monsters bis zum Ende dieses Spielzugs. Du kannst diesen Effekt von „D/D-Übel“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "8",
+  "pen_scale_r": "8",
+  "sales_at": "2020/08/06",
+  "species_id": 3,
+  "starchip": "4"
+}

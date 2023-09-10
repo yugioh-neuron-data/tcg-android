@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 1,
+  "card_id": 17110,
+  "card_name": "Artistamigo Valet de Ojos Anómalos",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Una vez por turno, cuando un monstruo del adversario declara un ataque: puedes hacer que ese monstruo del adversario pierda 300 ATK por cada Monstruo de Péndulo boca arriba en tu Deck Extra.",
+  "card_text": "Si esta carta es Invocada de Modo Normal o Especial: puedes mandar al Cementerio 1 monstruo \"Artistamigo\" u \"Ojos Anómalos\" en tu Deck, excepto \"Artistamigo Valet de Ojos Anómalos\" y, si lo haces, el Nivel de esta carta se convierte en el mismo que el de ese monstruo, hasta el final de este turno. Sólo puedes usar este efecto de \"Artistamigo Valet de Ojos Anómalos\" una vez por turno. Si esta carta en la Zona de Monstruos es destruida: puedes poner esta carta en tu Zona de Péndulo.",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "8",
+  "pen_scale_r": "8",
+  "sales_at": "2023/06/22",
+  "species_id": 18,
+  "starchip": "1"
+}

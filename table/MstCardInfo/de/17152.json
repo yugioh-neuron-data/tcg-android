@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 2,
+  "card_id": 17152,
+  "card_name": "Unsterblicher Drache",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Empfänger + 1+ Nicht-Empfänger-Monster$NWährend deiner Main Phase: Du kannst 1 Zombie-Monster von deinem Deck auf den Friedhof legen und falls du dies tust, wird die Stufe dieser Karte gleich der Differenz der Grund-Stufen jenes Monsters und dieser Karte. Wenn dein Zombie-Monster durch Kampf zerstört wird, solange sich diese Karte in deinem Friedhof befindet: Du kannst diese Karte als Spezialbeschwörung beschwören, aber verbanne sie, wenn sie das Spielfeld verlässt. Du kannst jeden Effekt von „Unsterblicher Drache“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "2400",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 19,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/05/19",
+  "species_id": 2,
+  "starchip": "6"
+}

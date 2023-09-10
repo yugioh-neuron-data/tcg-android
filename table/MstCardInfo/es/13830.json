@@ -1,0 +1,23 @@
+{
+  "attack_power": "2100",
+  "attribute_id": 1,
+  "card_id": 13830,
+  "card_name": "Tenma, la Estrella del Cielo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si sólo tu adversario controla un monstruo, o si controlas un monstruo de TIERRA, puedes Invocar esta carta de Modo Normal sin Sacrificar. Si esta carta es Invocada de Modo Normal o Especial: puedes Invocar de Modo Especial 1 monstruo Guerrero de TIERRA de Nivel 5 desde tu mano. Sólo puedes usar este efecto de \"Tenma, la Estrella del Cielo\" una vez por turno. Una vez por turno, cuando tu adversario active una carta o efecto que seleccione un monstruo Guerrero que controles (Efecto Rápido): puedes hacer que esta carta pierda exactamente 500 ATK y, si lo haces, niega la activación y, si haces eso, destruye esa carta.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/06/28",
+  "species_id": 15,
+  "starchip": "5"
+}

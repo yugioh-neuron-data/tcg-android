@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 5,
+  "card_id": 14034,
+  "card_name": "轍の魔妖－俥夫",
+  "card_name_label": "わだちのまやかし－しゃふ",
+  "card_name_search": "わだちのまやかししゃふ",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①の効果は１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功した場合、「轍の魔妖－俥夫」以外の自分の墓地の「魔妖」モンスター１体を対象として発動できる。そのモンスターを守備表示で特殊召喚する。この効果で特殊召喚したモンスターの効果は無効化される。②：このカードがモンスターゾーンに存在する限り、自分は「魔妖」モンスターしかEXデッキから特殊召喚できない。",
+  "defense_power": "400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/08/04",
+  "species_id": 2,
+  "starchip": "3"
+}

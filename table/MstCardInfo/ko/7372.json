@@ -1,0 +1,23 @@
+{
+  "attack_power": "2600",
+  "attribute_id": 1,
+  "card_id": 7372,
+  "card_name": "라이트엔드 드래곤",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "튜너 ＋ 튜너 이외의 빛 속성 몬스터 1장 이상$N이 카드가 상대 몬스터와 전투를 실행하는 공격 선언시에 발동할 수 있다. 이 카드의 공격력 / 수비력을 500 포인트 내리고, 전투를 실행하는 상대 몬스터의 공격력 / 수비력은 엔드 페이즈시까지 1500 포인트 내린다.",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/04/30",
+  "species_id": 1,
+  "starchip": "8"
+}

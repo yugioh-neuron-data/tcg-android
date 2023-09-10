@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 14318,
+  "card_name": "Altergeist Roca Embrujada",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si esta carta fue Colocada por el efecto de una carta \"Altergeist\", puedes activarla el turno en el que fue Colocada. Cuando esta carta es activada: manda al Cementerio 1 monstruo \"Altergeist\" en tu mano. Cuando tu adversario activa una Carta de Trampa (excepto durante el Damage Step): puedes mandar al Cementerio 1 monstruo \"Altergeist\" en tu mano; niega ese efecto y, si lo haces, destruye esa carta. Sólo puedes usar cada efecto de \"Altergeist Roca Embrujada\" una vez por turno.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/05/02",
+  "species_id": 25,
+  "starchip": "0"
+}

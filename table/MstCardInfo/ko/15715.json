@@ -1,0 +1,23 @@
+{
+  "attack_power": "1550",
+  "attribute_id": 1,
+  "card_id": 15715,
+  "card_name": "광천의 마하 바일로",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "①: 이 카드는 이 카드의 장착 카드의 수에 따라 이하의 효과를 얻는다.$N●1장 이상: 이 카드의 공격력은 이 카드의 장착 카드의 수 × 1000 올린다.$N●2장 이상: 상대는 배틀 페이즈 중에 몬스터의 효과를 발동할 수 없다.$N●3장 이상: 이 카드를 대상으로 하는 상대 효과가 발동했을 때, 자신 필드의 장착 카드 1장을 묘지로 보내고 발동할 수 있다. 그 효과를 무효로 한다.$N●4장 이상: 상대는 배틀 페이즈 중에 카드의 효과를 발동할 수 없다.$N●5장 이상: 이 카드가 상대에게 주는 전투 데미지는 배가 된다.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/02/04",
+  "species_id": 18,
+  "starchip": "8"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "200",
+  "attribute_id": 5,
+  "card_id": 5665,
+  "card_name": "고양이귀족",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "상대 턴에만, 이 카드와 전투하는 상대 몬스터의 원래 공격력은 데미지 스텝시에 200 이 된다.",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/11/26",
+  "species_id": 12,
+  "starchip": "1"
+}

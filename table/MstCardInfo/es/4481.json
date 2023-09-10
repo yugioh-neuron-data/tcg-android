@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 3,
+  "card_id": 4481,
+  "card_name": "Serpiente Siniestra",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante tu Standby Phase, si esta carta está en tu Cementerio: puedes devolverla a tu mano y además, durante la próxima End Phase de tu adversario, destierra 1 \"Serpiente Siniestra\" en tu Cementerio. Sólo puedes usar este efecto de \"Serpiente Siniestra\" una vez por turno.",
+  "defense_power": "250",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/09/27",
+  "species_id": 20,
+  "starchip": "1"
+}

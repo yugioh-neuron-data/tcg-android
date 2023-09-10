@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 5,
+  "card_id": 12148,
+  "card_name": "Robobureau 008",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Vous ne pouvez pas Invoquer par Pendulation de monstres (monstres \"Robobureau\" exclus). Cet effet ne peut pas être annulé.",
+  "card_text": "Cette carte gagne 500 ATK pour chaque carte \"Robobureau\" dans votre Cimetière. Votre adversaire ne peut pas cibler de cartes \"Robobureau\" face recto (celle-ci exclu) avec des effets de carte. Cette carte peut faire max. 2 attaques sur monstres durant chaque Battle Phase.",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2016/01/14",
+  "species_id": 7,
+  "starchip": "8"
+}

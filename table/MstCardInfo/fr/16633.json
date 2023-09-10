@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16633,
+  "card_name": "Formation de la Coléoptroupe",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Vous pouvez cibler 1 monstre \"Coléoptroupe\" dans votre Cimetière ; Invoquez-le Spécialement, mais il ne peut pas attaquer ce tour, et aussi, vous perdez des LP égaux à son ATK d'origine. Si un ou plusieurs monstres Insecte face recto que vous contrôlez sont détruits au combat ou par un effet de carte : vous pouvez Invoquer Spécialement 1 \"Jeton Coléoptroupe\" (Insecte/TERRE/Niveau 3/ATK 1000/DEF 1000). Vous ne pouvez utiliser chaque effet de \"Formation de la Coléoptroupe\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/08/12",
+  "species_id": 24,
+  "starchip": "0"
+}

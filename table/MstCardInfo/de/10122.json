@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10122,
+  "card_name": "Mit Tricks zum Triumph",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Du kannst nur 1 „Mit Tricks zum Triumph“ pro Spielzug aktivieren. Während der End Phase des Spielzugs, in dem diese Karte aktiviert wurde, führe diesen Effekt aus, basierend auf der Anzahl der Monster, die du in diesem Spielzug vom Spielfeld und von deiner Hand als Tribut angeboten hast, außer Spielmarken.$N●1: Ziehe 1 Karte.$N●2: Füge deiner Hand 2 Monster von deinem Friedhof hinzu.$N●3+: Zerstöre bis zu 3 offene Karten auf dem Spielfeld.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/05/10",
+  "species_id": 24,
+  "starchip": "0"
+}

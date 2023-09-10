@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 2,
+  "card_id": 8783,
+  "card_name": "インターセプト・デーモン",
+  "card_name_label": "インターセプト・デーモン",
+  "card_name_search": "いんたーせぷとでーもん",
+  "card_pen_effect": "",
+  "card_text": "このカードが自分フィールド上に表側攻撃表示で存在する限り、相手モンスターの攻撃宣言時、相手ライフに５００ポイントダメージを与える。",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/02/20",
+  "species_id": 3,
+  "starchip": "4"
+}

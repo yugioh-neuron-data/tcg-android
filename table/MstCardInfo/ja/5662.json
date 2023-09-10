@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 2,
+  "card_id": 5662,
+  "card_name": "黒蠍－罠はずしのクリフ",
+  "card_name_label": "くろさそり－わなはずしのクリフ",
+  "card_name_search": "くろさそりわなはずしのくりふ",
+  "card_pen_effect": "",
+  "card_text": "①：このカードが相手に戦闘ダメージを与えた時、以下の効果から１つを選択して発動できる。$N●フィールドの魔法・罠カード１枚を対象として発動できる。そのカードを破壊する。$N●相手のデッキの上からカードを２枚墓地へ送る。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/09/19",
+  "species_id": 15,
+  "starchip": "3"
+}

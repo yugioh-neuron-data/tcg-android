@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 5608,
+  "card_name": "アンティ勝負",
+  "card_name_label": "アンティしょうぶ",
+  "card_name_search": "あんてぃしょうぶ",
+  "card_pen_effect": "",
+  "card_text": "それぞれ手札からカードを１枚選択し、お互いにレベルを確認する。レベルの高いモンスターを選択したプレイヤーのカードは手札に戻り、レベルの低いモンスターを選択したプレイヤーは１０００ポイントダメージを受け、そのカードを墓地へ送る。モンスター以外のカードを選択した場合はレベル０とする。同レベルの場合はお互いにカードを手札に戻す。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/07/18",
+  "species_id": 24,
+  "starchip": "0"
+}

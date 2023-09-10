@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13686,
+  "card_name": "Guarida de la Oscuridad",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Todos los monstruos boca arriba en el Campo se convierten en monstruos de OSCURIDAD. Una vez por turno, si fueras a Sacrificar un monstruo que controlas para activar el efecto de una carta, puedes Sacrificar 1 monstruo de OSCURIDAD que controle tu adversario, aunque tú no lo controles. Una vez por turno, durante la End Phase: Invoca de Modo Especial, en Posición de Defensa, cualquier número de \"Ficha Tormento\" (Demonio/OSCURIDAD/Nivel 3/ATK 1000/DEF 1000) como sea posible, al Campo del jugador en turno, hasta el número de monstruos Sacrificados en este turno mientras esta carta estaba boca arriba.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/04/19",
+  "species_id": 24,
+  "starchip": "0"
+}

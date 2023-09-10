@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 2,
+  "card_id": 12948,
+  "card_name": "バオバブーン",
+  "card_name_label": "バオバブーン",
+  "card_name_search": "ばおばぶーん",
+  "card_pen_effect": "",
+  "card_text": "①：このカードが召喚・特殊召喚に成功した場合に発動できる。自分はデッキから１枚ドローし、その後手札を１枚選んでデッキの一番上または一番下に戻す。②：このカードが戦闘・効果で破壊された場合に発動できる。デッキから「バオバブーン」を任意の数だけ特殊召喚する。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/01/14",
+  "species_id": 13,
+  "starchip": "3"
+}

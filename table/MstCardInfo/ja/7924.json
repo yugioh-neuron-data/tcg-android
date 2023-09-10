@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 7924,
+  "card_name": "破壊神の系譜",
+  "card_name_label": "はかいしんのけいふ",
+  "card_name_search": "はかいしんのけいふ",
+  "card_pen_effect": "",
+  "card_text": "相手フィールド上に守備表示で存在するモンスターを破壊したターン、自分フィールド上に表側表示で存在するレベル８のモンスター１体を選択して発動する。このターン、選択したモンスターは１度のバトルフェイズ中に２回攻撃する事ができる。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/07/19",
+  "species_id": 25,
+  "starchip": "0"
+}

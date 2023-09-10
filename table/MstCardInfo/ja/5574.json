@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 5574,
+  "card_name": "クローン複製",
+  "card_name_label": "クローンふくせい",
+  "card_name_search": "くろーんふくせい",
+  "card_pen_effect": "",
+  "card_text": "①：相手がモンスターの召喚・反転召喚に成功した時、そのモンスター１体を対象として発動できる。その表側表示モンスターの元々の種族・属性・レベル・攻撃力・守備力を持つ「クローントークン」１体を自分フィールドに特殊召喚する。その表側表示モンスターが破壊され墓地へ送られた時にこのトークンは破壊される。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2003/05/01",
+  "species_id": 25,
+  "starchip": "0"
+}

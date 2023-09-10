@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11851,
+  "card_name": "チキンレース",
+  "card_name_label": "チキンレース",
+  "card_name_search": "ちきんれーす",
+  "card_pen_effect": "",
+  "card_text": "①：このカードがフィールドゾーンに存在する限り、相手よりLPが少ないプレイヤーが受ける全てのダメージは０になる。②：お互いのプレイヤーは１ターンに１度、自分メインフェイズに１０００LPを払って以下の効果から１つを選択して発動できる。この効果の発動に対して、お互いは魔法・罠・モンスターの効果を発動できない。$N●デッキから１枚ドローする。$N●このカードを破壊する。$N●相手は１０００LP回復する。",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/04/25",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "200",
+  "attribute_id": 5,
+  "card_id": 8720,
+  "card_name": "ナチュル・スティンクバグ",
+  "card_name_label": "ナチュル・スティンクバグ",
+  "card_name_search": "なちゅるすてぃんくばぐ",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上の「ナチュル」と名のついたモンスターが攻撃対象になった時、フィールド上のこのカードを墓地へ送って発動できる。その攻撃を無効にし、バトルフェイズを終了する。",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/01/21",
+  "species_id": 10,
+  "starchip": "3"
+}

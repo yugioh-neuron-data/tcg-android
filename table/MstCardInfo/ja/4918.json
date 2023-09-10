@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 2,
+  "card_id": 4918,
+  "card_name": "秒殺の暗殺者",
+  "card_name_label": "びょうさつのあんさつしゃ",
+  "card_name_search": "びょうさつのあんさつしゃ",
+  "card_pen_effect": "",
+  "card_text": "このカードの攻撃力・守備力は、自分の手札の枚数×４００ポイントダウンする。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2000/07/13",
+  "species_id": 3,
+  "starchip": "4"
+}

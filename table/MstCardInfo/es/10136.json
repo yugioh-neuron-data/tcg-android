@@ -1,0 +1,23 @@
+{
+  "attack_power": "2100",
+  "attribute_id": 5,
+  "card_id": 10136,
+  "card_name": "Contendiente Heroico - Martillo de Guerra",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando esta carta destruye a un monstruo de tu adversario en batalla y lo manda al Cementerio: puedes equipar el monstruo destruido a esta carta. (Sólo puedes equipar a esta carta 1 monstruo por vez con este efecto). Esta carta gana ATK igual al ATK de ese monstruo equipado.",
+  "defense_power": "1300",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/08/23",
+  "species_id": 15,
+  "starchip": "6"
+}

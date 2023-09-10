@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 6,
+  "card_id": 18792,
+  "card_name": "Coatl du Champ de Maïs",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si cette carte combat un monstre, aucun de ces 2 monstres ne peut être détruit par ce combat. Vous ne pouvez utiliser chacun des effets suivants de \"Coatl du Champ de Maïs\" qu'une fois par tour. Vous pouvez défausser cette carte ; ajoutez 1 monstre qui mentionne \"Fusion Chimère\" (\"Coatl du Champ de Maïs\" exclu) depuis votre Deck à votre main. Lorsque votre adversaire active une carte ou un effet qui cible une ou plusieurs cartes que vous contrôlez, tant que vous contrôlez \"Chimère, Bête Mythique Volante\" (Effet Rapide) : vous pouvez bannir cette carte depuis votre Terrain ou Cimetière ; annulez l'effet, et si vous le faites, détruisez la carte.",
+  "defense_power": "1700",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/07/27",
+  "species_id": 34,
+  "starchip": "4"
+}

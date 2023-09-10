@@ -1,0 +1,23 @@
+{
+  "attack_power": "400",
+  "attribute_id": 2,
+  "card_id": 9092,
+  "card_name": "BF－두 칼의 에테지아",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "자신 필드 위에 존재하는 \"BF(블랙 페더)\"라는 이름이 붙은 몬스터가 상대 몬스터와의 전투를 실행한 데미지 스텝 종료시에 그 상대 몬스터가 필드 위에 존재할 경우, 이 카드를 패에서 묘지로 보내고 발동할 수 있다. 상대 라이프에 1000 포인트 데미지를 준다.",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/10/20",
+  "species_id": 16,
+  "starchip": "3"
+}

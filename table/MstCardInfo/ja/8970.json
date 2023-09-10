@@ -1,0 +1,23 @@
+{
+  "attack_power": "2900",
+  "attribute_id": 1,
+  "card_id": 8970,
+  "card_name": "アルティメットサイキッカー",
+  "card_name_label": "アルティメットサイキッカー",
+  "card_name_search": "あるてぃめっとさいきっかー",
+  "card_pen_effect": "",
+  "card_text": "サイキック族シンクロモンスター＋サイキック族モンスター$Nこのカードは融合召喚でのみエクストラデッキから特殊召喚する事ができる。このカードはカードの効果では破壊されない。このカードが守備表示モンスターを攻撃した時、その守備力を攻撃力が超えていれば、その数値だけ相手ライフに戦闘ダメージを与える。また、このカードが戦闘によってモンスターを破壊し墓地へ送った時、破壊したモンスターの攻撃力分だけ自分のライフポイントを回復する。",
+  "defense_power": "1700",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/04/17",
+  "species_id": 21,
+  "starchip": "10"
+}

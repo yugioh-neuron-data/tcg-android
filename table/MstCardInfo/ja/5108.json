@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 5108,
+  "card_name": "凶暴化の仮面",
+  "card_name_label": "きょうぼうかのかめん",
+  "card_name_search": "きょうぼうかのかめん",
+  "card_pen_effect": "",
+  "card_text": "装備モンスターの攻撃力は１０００ポイントアップし、守備力は１０００ポイントダウンする。このカードのコントローラーは自分のスタンバイフェイズ毎に１０００ライフポイントを払う。または、１０００ライフポイント払わずにこのカードを破壊する。",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2001/04/19",
+  "species_id": 24,
+  "starchip": "0"
+}

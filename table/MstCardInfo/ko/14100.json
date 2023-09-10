@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 5,
+  "card_id": 14100,
+  "card_name": "마돌체 푸팅세스루",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 자신 묘지에 몬스터가 존재하지 않을 경우에 발동할 수 있다. 이 카드를 패에서 특수 소환한다. ②: 이 카드가 특수 소환에 성공했을 경우에 발동할 수 있다. 패 / 덱에서 \"마돌체 푸팅세스루\" 이외의 \"마돌체\" 몬스터 1장을 특수 소환한다. 그 몬스터의 레벨은 1개 내려간다. 이 턴에, 자신은 \"마돌체\" 몬스터밖에 특수 소환할 수 없다. ③: 이 카드가 상대에 의해 파괴되어 묘지로 보내졌을 경우에 발동한다. 이 카드를 덱으로 되돌린다.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/01/15",
+  "species_id": 17,
+  "starchip": "4"
+}

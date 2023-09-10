@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 2,
+  "card_id": 8192,
+  "card_name": "Detonatore Ala di Drago",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Tuner + 1 o più mostri non-Tuner di Tipo Drago$NAll'inizio del Damage Step, se questa carta combatte con un mostro: puoi distruggere quel mostro e, se lo fai, infliggi al tuo avversario danni pari all'ATK che il mostro ditrutto aveva sul Terreno. L'ATK di questa carta deve essere pari o superiore all'ATK di quel mostro per attivare e risolvere questo effetto.",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/06/04",
+  "species_id": 1,
+  "starchip": "7"
+}

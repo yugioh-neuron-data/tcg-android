@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 4,
+  "card_id": 6701,
+  "card_name": "燃え盛るヒータ",
+  "card_name_label": "もえさかるヒータ",
+  "card_name_search": "もえさかるひーた",
+  "card_pen_effect": "",
+  "card_text": "このカードを除く自分フィールド上の炎属性モンスター１体を生け贄に捧げる事で、手札から炎属性モンスター１体を特殊召喚する。この効果は１ターンに１度しか使用できない。この効果によって特殊召喚されたモンスターは、「燃え盛るヒータ」が自分フィールド上から離れた場合破壊される。",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/02/16",
+  "species_id": 18,
+  "starchip": "4"
+}

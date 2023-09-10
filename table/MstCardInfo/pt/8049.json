@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 8049,
+  "card_name": "Espada Psíquica",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Só pode ser equipado a um monstro do Tipo Psíquico. Enquanto você tiver menos PV que seu oponente, o monstro equipado ganha ATK igual à essa diferença (máx. 2000).",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/08/01",
+  "species_id": 24,
+  "starchip": "0"
+}

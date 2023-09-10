@@ -1,0 +1,23 @@
+{
+  "attack_power": "900",
+  "attribute_id": 5,
+  "card_id": 16726,
+  "card_name": "Joruri-P.U.N.K. Madame Araignée",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Vous pouvez payer 600 LP ; ajoutez 1 Piège \"P.U.N.K.\" depuis votre Deck à votre main. Lorsque vous activez une carte \"P.U.N.K.\" ou un effet \"P.U.N.K.\" qui cible une carte contrôlée par votre adversaire (sauf durant la Damage Step) (Effet Rapide) : vous pouvez cibler 1 monstre face recto contrôlé par votre adversaire ; jusqu'à la fin de ce tour, son ATK sera divisée par deux. Vous ne pouvez utiliser chaque effet de \"Joruri-P.U.N.K. Madame Araignée\" qu'une fois par tour.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/01/27",
+  "species_id": 21,
+  "starchip": "3"
+}

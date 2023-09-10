@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 5,
+  "card_id": 13372,
+  "card_name": "Aussperr-Wache",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wenn ein Monster eines Gegners einen direkten Angriff deklariert: Du kannst diese Karte als Spezialbeschwörung von deiner Hand in die Angriffsposition beschwören und falls du dies tust, kann es in diesem Spielzug nicht durch Kampf zerstört werden. Wenn ein Effekt eines Monsters, das dein Gegner kontrolliert, aktiviert wird, der 1 Cyberse-Monster, das du kontrollierst, (und keine anderen Karten) als Ziel wählt (Schnelleffekt): Du kannst die Effekte sowohl des Cyberse-Monsters, das du kontrollierst, als auch des Monsters eines Gegners bis zum Ende dieses Spielzugs annullieren.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/12/07",
+  "species_id": 27,
+  "starchip": "3"
+}

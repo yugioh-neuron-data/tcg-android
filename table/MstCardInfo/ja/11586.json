@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11586,
+  "card_name": "召喚制限－エクストラネット",
+  "card_name_label": "しょうかんせいげん－エクストラネット",
+  "card_name_search": "しょうかんせいげんえくすとらねっと",
+  "card_pen_effect": "",
+  "card_text": "①：自分または相手がエクストラデッキからモンスターを特殊召喚した場合にこの効果を発動する。そのモンスターを特殊召喚したプレイヤーから見て相手は以下の効果を適用できる。$N●デッキから１枚ドローする。",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/11/15",
+  "species_id": 24,
+  "starchip": "0"
+}

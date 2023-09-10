@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 1,
+  "card_id": 8330,
+  "card_name": "ファルシオンβ",
+  "card_name_label": "ファルシオンベータ",
+  "card_name_search": "ふぁるしおんべーた",
+  "card_pen_effect": "",
+  "card_text": "このカードが戦闘によって相手モンスターを破壊した場合、以下の効果から１つを選択して発動する。$N●デッキから機械族・光属性・攻撃力１２００以下のモンスター１体を墓地へ送る。$N●自分の墓地から機械族・光属性・攻撃力１２００以下のモンスター１体を選択して特殊召喚する。",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/04/18",
+  "species_id": 7,
+  "starchip": "4"
+}

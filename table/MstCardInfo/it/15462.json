@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 1,
+  "card_id": 15462,
+  "card_name": "Stregone del Tempo di Domani",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"Stregone del Tempo\" + 1 Mostro con Effetto$NUna volta per turno, mentre controlli questa carta Evocata tramite Fusione: puoi lanciare una moneta e scegliere testa o croce. Distruggi tanti mostri sul Terreno quanti possibile e, se lo fai, infliggi danno pari alla metà della somma degli ATK originali dei mostri scoperti distrutti. Se hai indovinato il lancio della moneta, il tuo avversario subisce il danno, se hai sbagliato, subisci tu il danno.",
+  "defense_power": "1900",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/09/10",
+  "species_id": 18,
+  "starchip": "5"
+}

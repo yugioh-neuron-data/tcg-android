@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 3,
+  "card_id": 10391,
+  "card_name": "Sirenarmada Abisdina",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando esta carta es añadida a tu mano desde tu Deck o Cementerio por efecto de una carta: puedes Invocar esta carta de Modo Especial desde tu mano. Debes controlar un monstruo \"Sirenarmado/a\" para activar y resolver este efecto. Cuando esta carta es Invocada de Modo Especial por el efecto de un monstruo \"Sirenarmado/a\": puedes seleccionar 1 monstruo \"Sirenarmado\" de Nivel 3 o menor en tu Cementerio; Invoca ese objetivo de Modo Especial. Sólo puedes usar 1 efecto de \"Sirenarmada Abisdina\" por turno, y solamente una vez ese turno.",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/01/24",
+  "species_id": 14,
+  "starchip": "3"
+}

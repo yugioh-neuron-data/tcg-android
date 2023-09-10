@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 2,
+  "card_id": 13152,
+  "card_name": "Bestia Gladiador Domador Editor",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 monstruos \"Bestia Gladiador\" de Nivel 5 o mayor$NDebe ser primero Invocada de Modo Especial (desde tu Deck Extra) barajando al Deck las cartas listadas arriba que tú controlas. (No usas \"Polimerización\"). No puede ser usada como Material de Fusión. Una vez por turno: puedes Invocar de Modo Especial, desde tu Deck Extra, 1 Monstruo de Fusión \"Bestia Gladiador\", excepto \"Bestia Gladiador Domador Editor\", ignorando sus condiciones de Invocación. Al final de la Battle Phase, si tu monstruo \"Bestia Gladiador\" batalló: puedes barajar al Deck o al Deck Extra ese monstruo; Invoca de Modo Especial, desde tu Deck, 1 monstruo \"Bestia Gladiador\".",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/07/06",
+  "species_id": 12,
+  "starchip": "8"
+}

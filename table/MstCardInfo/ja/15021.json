@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 15021,
+  "card_name": "悪魔嬢マリス",
+  "card_name_label": "あくまじょうマリス",
+  "card_name_search": "あくまじょうまりす",
+  "card_pen_effect": "",
+  "card_text": "このカード名の効果は１ターンに１度しか使用できない。①：自分フィールドのモンスター２体をリリースし、自分の墓地のカード及び除外されている自分のカードの中から、通常罠カード１枚を対象として発動できる。そのカードを自分フィールドにセットする。この効果でセットしたカードはフィールドから離れた場合に持ち主のデッキの一番下に戻る。この効果は相手ターンでも発動できる。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/01/11",
+  "species_id": 3,
+  "starchip": "3"
+}

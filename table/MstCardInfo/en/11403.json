@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 11403,
+  "card_name": "Punch-in-the-Box",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "When your opponent's monster declares an attack while they control 2 or more monsters: Target the attacking monster; negate that attack, and if you do, send 1 other monster they control to the Graveyard, then the targeted monster loses ATK equal to the original ATK or DEF (whichever is higher, your choice if tied) of the sent monster in the Graveyard.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/11/07",
+  "species_id": 25,
+  "starchip": "0"
+}

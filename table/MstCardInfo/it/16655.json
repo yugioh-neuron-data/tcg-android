@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16655,
+  "card_name": "Penetrare l'Oscurità",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se Evochi Normalmente o Specialmente uno o più Mostri Normali non-Segna-Mostro (eccetto durante il Damage Step): puoi pescare 1 carta. Quando viene dichiarato un attacco che coinvolge un mostro dell'avversario e un mostro che controlli che è un Mostro Normale di Livello 5 o superiore, o che è stato Evocato tramite Rituale utilizzando un Mostro Normale, o che è stato Evocato tramite Fusione, Synchro o Xyz utilizzando un Mostro Normale come materiale: puoi far guadagnare a quel mostro che controlli ATK pari all'ATK di quel mostro dell'avversario, fino alla fine di questo turno. Puoi utilizzare ogni effetto di \"Penetrare l'Oscurità\" una sola volta per turno.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "it",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/09/30",
+  "species_id": 24,
+  "starchip": "0"
+}

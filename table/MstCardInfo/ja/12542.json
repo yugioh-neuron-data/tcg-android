@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 12542,
+  "card_name": "手をつなぐ魔人",
+  "card_name_label": "てをつなぐまじん",
+  "card_name_search": "てをつなぐまじん",
+  "card_pen_effect": "",
+  "card_text": "①：このカードがモンスターゾーンに存在する限り、相手は他のモンスターを攻撃対象に選択できない。②：このカードの守備力は、このカード以外の自分フィールドの表側守備表示モンスターの元々の守備力の合計分アップする。",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/05/14",
+  "species_id": 3,
+  "starchip": "4"
+}

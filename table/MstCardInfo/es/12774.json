@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 12774,
+  "card_name": "Dragón de Péndulo de Ojos Valientes",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 monstruo \"Dragón de Péndulo\" + 1 monstruo de Tipo Guerrero$NCuando esta carta es Invocada por Fusión: puedes cambiar a 0 el ATK de todos los monstruos boca arriba que controle tu adversario en este momento y, además, por el resto de este turno los otros monstruos que controles no pueden atacar. Niega los efectos activados de monstruos con 0 ATK. Al final del Damage Step, cuando esta carta ataca a un monstruo de tu adversario pero el monstruo de tu adversario no es destruido en batalla: puedes desterrar a ese monstruo de tu adversario.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/02/09",
+  "species_id": 1,
+  "starchip": "8"
+}

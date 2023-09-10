@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 7273,
+  "card_name": "暴風雨",
+  "card_name_label": "レインストーム",
+  "card_name_search": "れいんすとーむ",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上に表側表示で存在する「雲魔物」と名のついたモンスター１体を選択して発動する。選択したモンスターの攻撃力を下げる事で、以下の効果を適用する。$N●１０００ポイント下げる事で、相手フィールド上の魔法または罠カード１枚を破壊する。$N●２０００ポイント下げる事で、相手フィールド上のカード２枚を破壊する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/07/21",
+  "species_id": 25,
+  "starchip": "0"
+}

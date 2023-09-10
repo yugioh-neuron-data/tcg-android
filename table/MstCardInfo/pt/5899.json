@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 1,
+  "card_id": 5899,
+  "card_name": "Joan, o Anjo da Guarda",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "(Este card deve ser sempre considerado como um card \"Guardião\".)$NQuando este card destruir um monstro em batalha e enviá-lo para o Cemitério: ganhe PV igual ao ATK original do monstro destruído no Cemitério.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/06/28",
+  "species_id": 17,
+  "starchip": "7"
+}

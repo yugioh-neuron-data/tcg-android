@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 5554,
+  "card_name": "削りゆく命",
+  "card_name_label": "けずりゆくいのち",
+  "card_name_search": "けずりゆくいのち",
+  "card_pen_effect": "",
+  "card_text": "①：「削りゆく命」は自分フィールドに１枚しか表側表示で存在できない。②：相手エンドフェイズに発動する。このカードにカウンターを１つ置く。③：このカードにカウンターが置かれている場合、自分・相手のメインフェイズ及びバトルフェイズに発動できる。このカードを墓地へ送る。その後、このカードに置かれていたカウンターの数まで、相手は手札を可能な限り選んで捨てる。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/04/23",
+  "species_id": 25,
+  "starchip": "0"
+}

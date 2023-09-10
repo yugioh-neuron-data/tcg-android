@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 1,
+  "card_id": 10755,
+  "card_name": "武神器－オハバリ",
+  "card_name_label": "ぶじんぎ－オハバリ",
+  "card_name_search": "ぶじんぎおはばり",
+  "card_pen_effect": "",
+  "card_text": "自分のメインフェイズ１で、このカードを手札から墓地へ送り、自分フィールド上の「武神」と名のついたモンスター１体を選択して発動できる。このターン、選択したモンスターが守備表示モンスターを攻撃した時、その守備力を攻撃力が超えていれば、その数値だけ相手ライフに戦闘ダメージを与える。",
+  "defense_power": "300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/07/20",
+  "species_id": 16,
+  "starchip": "4"
+}

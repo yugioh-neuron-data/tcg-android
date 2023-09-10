@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 5,
+  "card_id": 5366,
+  "card_name": "アギド",
+  "card_name_label": "アギド",
+  "card_name_search": "あぎど",
+  "card_pen_effect": "",
+  "card_text": "このカードが戦闘によって破壊され墓地に送られた時、サイコロを１回振る。自分の墓地から、サイコロの出た目と同じレベルの天使族モンスター１体を特殊召喚する事ができる。（６の目が出た場合は、レベル６以上のモンスターを含む）",
+  "defense_power": "1300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2003/02/20",
+  "species_id": 17,
+  "starchip": "4"
+}

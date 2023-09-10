@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15744,
+  "card_name": "Fulmine Drago Armato",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se uno o più mostri \"Drago Armato\" che controlli stanno per essere distrutti dall'effetto di una carta, puoi invece mandare questa carta al Cimitero. Puoi scegliere come bersaglio 1 mostro \"Drago Armato\" che controlli, poi attivare 1 di questi effetti;$N●Esso guadagna ATK pari al suo Livello x 100 (anche se questa carta lascia il Terreno).$N●Aggiungi 1 mostro \"Drago Armato\" con Livello pari o inferiore a esso dal tuo Cimitero alla tua mano.$NPuoi utilizzare questo effetto di \"Fulmine Drago Armato\" una sola volta per turno.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/02/04",
+  "species_id": 24,
+  "starchip": "0"
+}

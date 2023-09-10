@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 4,
+  "card_id": 11515,
+  "card_name": "業火の重騎士",
+  "card_name_label": "ごうかのじゅうきし",
+  "card_name_search": "ごうかのじゅうきし",
+  "card_pen_effect": "",
+  "card_text": "①：このカードはフィールド・墓地に存在する限り、通常モンスターとして扱う。②：フィールドの通常モンスター扱いのこのカードを通常召喚としてもう１度召喚できる。その場合このカードは効果モンスター扱いとなり以下の効果を得る。$N●このカードが、特殊召喚されたモンスターを攻撃するダメージステップ開始時に発動できる。そのモンスターを除外する。",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 9,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/09/19",
+  "species_id": 2,
+  "starchip": "4"
+}

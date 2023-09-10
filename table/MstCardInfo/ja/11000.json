@@ -1,0 +1,23 @@
+{
+  "attack_power": "1100",
+  "attribute_id": 1,
+  "card_id": 11000,
+  "card_name": "ライトロード・アーチャー フェリス",
+  "card_name_label": "ライトロード・アーチャー　フェリス",
+  "card_name_search": "らいとろーどあーちゃーふぇりす",
+  "card_pen_effect": "",
+  "card_text": "このカードは通常召喚できず、カードの効果でのみ特殊召喚できる。①：このカードがモンスターの効果でデッキから墓地へ送られた場合に発動する。このカードを特殊召喚する。②：このカードをリリースし、相手フィールドのモンスター１体を対象として発動できる。その相手モンスターを破壊する。その後、自分のデッキの上からカードを３枚墓地へ送る。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 30,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/12/21",
+  "species_id": 12,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1900",
+  "attribute_id": 5,
+  "card_id": 10170,
+  "card_name": "Unité Gobeline de Pillage",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsque cette carte déclare une attaque, votre adversaire ne peut ni activer de cartes ni d'effets. Si cette carte attaque, à la fin de la Battle Phase, elle est changée en Position de Défense, et jusqu'à la End Phase de votre prochain tour, sa position de combat ne peut pas être changée.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/08/23",
+  "species_id": 12,
+  "starchip": "4"
+}

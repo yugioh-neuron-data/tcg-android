@@ -1,0 +1,23 @@
+{
+  "attack_power": "200",
+  "attribute_id": 3,
+  "card_id": 10111,
+  "card_name": "フィッシュボーグ－ランチャー",
+  "card_name_label": "フィッシュボーグ－ランチャー",
+  "card_name_search": "ふぃっしゅぼーぐらんちゃー",
+  "card_pen_effect": "",
+  "card_text": "このカード名の効果は１ターンに１度しか使用できず、このカードをS素材とする場合、水属性モンスターのS召喚にしか使用できない。①：このカードが墓地に存在し、「フィッシュボーグ－ランチャー」以外の自分の墓地のモンスターが水属性モンスターのみの場合に発動できる。このカードを特殊召喚する。この効果で特殊召喚したこのカードは、フィールドから離れた場合に除外される。",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/12/18",
+  "species_id": 8,
+  "starchip": "1"
+}

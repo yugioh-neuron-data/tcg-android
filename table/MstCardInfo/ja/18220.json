@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 18220,
+  "card_name": "六世壊根清浄",
+  "card_name_label": "クシャトリラ・ビッグバン",
+  "card_name_search": "くしゃとりらびっぐばん",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：フィールドに「クシャトリラ」Xモンスターが存在する場合に発動できる。お互いは自身のフィールドのモンスターが１体になるように裏側表示で除外しなければならない。②：このカードが除外された場合、自分フィールドの「クシャトリラ」Xモンスター１体を対象として発動できる。そのモンスターがX素材としている自分の「クシャトリラ」モンスター１体を手札に加える。その後、そのモンスターを手札から特殊召喚できる。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/10/15",
+  "species_id": 25,
+  "starchip": "0"
+}

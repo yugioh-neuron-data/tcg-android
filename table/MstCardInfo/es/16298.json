@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16298,
+  "card_name": "Reino Ciberoscuro",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando esta carta es activada: puedes añadir a tu mano 1 monstruo \"Ciberoscur\" en tu Deck, con nombre diferente al de las cartas en tu Cementerio. Durante tu Main Phase, puedes: inmediatamente después de que se resuelva este efecto, Invoca de Modo Normal 1 monstruo \"Ciberoscur\". Sólo puedes usar el efecto previo de \"Reino Ciberoscuro\" una vez por turno. Si equipas un monstruo de tu Cementerio por efecto de un monstruo \"Ciberoscur\" que se activó cuando fue Invocado de Modo Normal o Especial, puedes equiparlo con un monstruo del Cementerio de tu adversario en su lugar. Sólo puedes activar 1 \"Reino Ciberoscuro\" por turno.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/10/14",
+  "species_id": 24,
+  "starchip": "0"
+}

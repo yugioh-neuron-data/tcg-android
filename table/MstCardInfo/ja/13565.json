@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 5,
+  "card_id": 13565,
+  "card_name": "剛鬼ハッグベア",
+  "card_name_label": "ごうきハッグベア",
+  "card_name_search": "ごうきはっぐべあ",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚または「剛鬼」カードの効果で特殊召喚に成功した場合、相手フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターの攻撃力はターン終了時まで元々の攻撃力の半分になる。②：このカードがフィールドから墓地へ送られた場合に発動できる。デッキから「剛鬼ハッグベア」以外の「剛鬼」カード１枚を手札に加える。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/01/13",
+  "species_id": 15,
+  "starchip": "6"
+}

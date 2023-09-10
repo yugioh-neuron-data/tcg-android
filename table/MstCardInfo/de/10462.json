@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10462,
+  "card_name": "Geheimes Heiligtum der Hexer",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wenn Monster (außer Monstern vom Typ Hexer) als Normal- oder Spezialbeschwörung auf die Spielfeldseite deines Gegners beschworen werden, solange du eine andere offene Zauberkarte kontrollierst und dein Gegner keine offenen Zauberkarten kontrolliert: In diesem Spielzug können die Monster nicht angreifen und ihre Effekte können nicht aktiviert werden. (Dies gilt sogar, falls diese Karte das Spielfeld verlässt.) Falls du kein Monster vom Typ Hexer kontrollierst, zerstöre diese Karte.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/11/07",
+  "species_id": 24,
+  "starchip": "0"
+}

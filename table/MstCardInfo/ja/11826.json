@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 1,
+  "card_id": 11826,
+  "card_name": "エキセントリック・デーモン",
+  "card_name_label": "エキセントリック・デーモン",
+  "card_name_search": "えきせんとりっくでーもん",
+  "card_pen_effect": "このカード名のP効果は１ターンに１度しか使用できない。①：このカード以外のフィールドの魔法・罠カード１枚を対象として発動できる。そのカードとこのカードを破壊する。",
+  "card_text": "このカード名のモンスター効果は１ターンに１度しか使用できない。①：このカードをリリースし、フィールドのモンスター１体を対象として発動できる。そのモンスターを破壊する。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "7",
+  "pen_scale_r": "7",
+  "sales_at": "2015/04/25",
+  "species_id": 3,
+  "starchip": "3"
+}

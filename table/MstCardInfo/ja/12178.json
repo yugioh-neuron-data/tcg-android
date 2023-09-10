@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 12178,
+  "card_name": "追走の翼",
+  "card_name_label": "ついそうのつばさ",
+  "card_name_search": "ついそうのつばさ",
+  "card_pen_effect": "",
+  "card_text": "自分フィールドのSモンスター１体を対象としてこのカードを発動できる。①：このカードが魔法＆罠ゾーンに存在する限り、対象のモンスターは戦闘及び相手の効果では破壊されない。②：対象のモンスターがレベル５以上の相手モンスターと戦闘を行うダメージステップ開始時に発動できる。その相手モンスターを破壊する。対象のモンスターの攻撃力はターン終了時まで、この効果で破壊したモンスターの元々の攻撃力分アップする。③：対象のモンスターがフィールドから離れた場合にこのカードは破壊される。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/10/17",
+  "species_id": 25,
+  "starchip": "0"
+}

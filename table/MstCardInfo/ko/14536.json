@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 1,
+  "card_id": 14536,
+  "card_name": "왈큐레 훈프트",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 자신 필드의 \"왈큐레\" 몬스터의 공격력은, 제외되어 있는 상대 몬스터의 수 × 200 올린다. ②: 자신 필드에 \"왈큐레 훈프트\" 이외의 \"왈큐레\" 몬스터가 존재할 경우에 발동할 수 있다. 덱에서 마법 / 함정 카드 1장을 묘지로 보낸다.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/12/17",
+  "species_id": 17,
+  "starchip": "2"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 3,
+  "card_id": 15331,
+  "card_name": "Wächterschleim",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls du Kampf- oder Effektschaden erhältst: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Während der Schadensberechnung, falls diese Karte gegen ein Monster eines Gegners kämpft (Schnelleffekt): Du kannst diese Karte nur während der Schadensberechnung DEF in Höhe der ATK des Monsters des Gegners erhalten lassen. Falls diese Karte von der Hand oder dem Spielfeld auf den Friedhof gelegt wird: Du kannst deiner Hand 1 Zauber/Falle, der oder die ausdrücklich die Karte „Der geflügelte Drache von Ra“ in seinem oder ihrem Text erwähnt, von deinem Deck hinzufügen. Du kannst jeden Effekt von „Wächterschleim“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/09/24",
+  "species_id": 14,
+  "starchip": "10"
+}

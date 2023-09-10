@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 3,
+  "card_id": 13663,
+  "card_name": "空牙団の叡智 ウィズ",
+  "card_name_label": "くうがだんのえいち　ウィズ",
+  "card_name_search": "くうがだんのえいちうぃず",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが特殊召喚に成功した場合に発動できる。自分は「空牙団の叡智 ウィズ」以外の自分フィールドの「空牙団」モンスターの種類×５００LP回復する。②：相手が魔法・罠カードの効果を発動した時、手札から「空牙団」カード１枚を捨てて発動できる。その発動を無効にする。",
+  "defense_power": "2800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/02/24",
+  "species_id": 18,
+  "starchip": "7"
+}

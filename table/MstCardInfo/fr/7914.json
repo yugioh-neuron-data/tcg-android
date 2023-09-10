@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 7914,
+  "card_name": "L'Arbre du Monde",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Chaque fois qu'un ou plusieurs monstres de Type Plante face recto sur le Terrain sont détruits, placez 1 Compteur Fleur sur cette carte. Vous pouvez retirer le nombre de votre choix de Compteurs Fleur de cette carte pour activer ces effets.$N●1 Compteur : Ciblez 1 monstre de Type Plante sur le Terrain ; jusqu'à la fin de ce tour, la cible gagne 400 ATK/DEF. (Ce gain d'ATK reste même si cette carte quitte le Terrain.)$N●2 Compteurs : Ciblez 1 carte sur le Terrain ; détruisez la cible.$N●3 Compteurs : Ciblez 1 monstre de Type Plante dans votre Cimetière ; Invoquez Spécialement la cible.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/11/18",
+  "species_id": 24,
+  "starchip": "0"
+}

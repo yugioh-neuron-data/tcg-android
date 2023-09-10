@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 1,
+  "card_id": 12672,
+  "card_name": "Paladino Silencioso",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Quando este card for Invocado por Invocação-Normal: você pode adicionar 1 \"Espadachim Silencioso LV3\" ou \"Mago Silencioso LV4\" do seu Deck à sua mão. Durante o turno de qualquer duelista, quando um Card de Magia for ativado que escolha como alvo exatamente 1 monstro que você controla (e nenhum outro card): você pode negar a ativação. Este efeito só pode ser usado uma vez enquanto este card estiver com a face para cima no campo. Se este card for destruído em batalha, ou se este card sob o controle do seu dono for destruído por um efeito de card do oponente: você pode escolher 1 monstro \"LV\" de LUZ no seu Cemitério; adicione-o à sua mão.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/09/15",
+  "species_id": 17,
+  "starchip": "4"
+}

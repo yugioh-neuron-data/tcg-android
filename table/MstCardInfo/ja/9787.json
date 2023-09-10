@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 9787,
+  "card_name": "ヘイト・クレバス",
+  "card_name_label": "ヘイト・クレバス",
+  "card_name_search": "へいとくればす",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上に存在するモンスター１体が相手のカードの効果によって破壊され墓地へ送られた時、相手フィールド上に存在するモンスター１体を選択して墓地へ送り、その元々の攻撃力分のダメージを相手ライフに与える。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/07/16",
+  "species_id": 25,
+  "starchip": "0"
+}

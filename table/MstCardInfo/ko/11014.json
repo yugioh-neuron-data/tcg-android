@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 2,
+  "card_id": 11014,
+  "card_name": "CNo.15 기믹 퍼핏－시리얼킬러",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "레벨 9 몬스터 × 3$N1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고, 상대 필드 위의 카드 1장을 선택하여 발동할 수 있다. 선택한 카드를 파괴한다. 파괴한 카드가 몬스터였을 경우, 다시 그 몬스터의 원래 공격력만큼의 데미지를 상대 라이프에 준다.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/06/10",
+  "species_id": 7,
+  "starchip": "9"
+}

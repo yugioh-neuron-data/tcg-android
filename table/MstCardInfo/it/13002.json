@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13002,
+  "card_name": "Anime Contrastanti",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante il calcolo dei danni, se un tuo mostro in Posizione di Attacco combatte con un mostro in Posizione di Attacco con ATK più alto: il controllore del mostro che sta combattendo con ATK più basso può pagare 500 LP per far guadagnare 500 ATK a quel mostro solamente durante il calcolo dei danni, poi continua a ripetere questo effetto fino a quando un giocatore sceglie di non pagare LP. Nessun giocatore subisce danno da combattimento da quella battaglia, inoltre, dopo il calcolo dei danni, se il mostro di qualsiasi giocatore sta per essere distrutto in quella battaglia, manda invece al Cimitero tutte le carte controllate da quel giocatore.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/03/30",
+  "species_id": 24,
+  "starchip": "0"
+}

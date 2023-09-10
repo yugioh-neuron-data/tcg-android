@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 1,
+  "card_id": 6687,
+  "card_name": "라이트닝 기어－섬공",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드가 직접 공격에 의해서 상대 라이프에 전투 데미지를 주었을 때, 자신의 덱에서 카드를 1장 드로우한다. 이 카드가 일반 소환 / 반전 소환 / 특수 소환된 턴의 엔드 페이즈시, 이 카드를 묘지로 보낸다.",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/11/07",
+  "species_id": 17,
+  "starchip": "4"
+}

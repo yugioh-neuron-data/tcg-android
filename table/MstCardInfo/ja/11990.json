@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 11990,
+  "card_name": "レッド・デーモンズ・ドラゴン・スカーライト",
+  "card_name_label": "レッド・デーモンズ・ドラゴン・スカーライト",
+  "card_name_search": "れっどでーもんずどらごんすかーらいと",
+  "card_pen_effect": "",
+  "card_text": "チューナー＋チューナー以外のモンスター１体以上$N①：このカードのカード名は、フィールド・墓地に存在する限り「レッド・デーモンズ・ドラゴン」として扱う。$N②：１ターンに１度、自分メインフェイズに発動できる。このカード以外の、このカードの攻撃力以下の攻撃力を持つ特殊召喚された効果モンスターを全て破壊する。その後、この効果で破壊したモンスターの数×５００ダメージを相手に与える。",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/07/18",
+  "species_id": 1,
+  "starchip": "8"
+}

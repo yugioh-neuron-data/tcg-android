@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 16396,
+  "card_name": "Lirilusc - Piume Fantasma",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Scegli come bersaglio 1 mostro \"Lirilusc\" che controlli; l'ATK di tutti i mostri attualmente controllati dal tuo avversario diventa l'ATK attuale di quel mostro, inoltre i loro Livelli/Ranghi diventano 1. Quando un mostro dell'avversario dichiara un attacco su un tuo mostro \"Lirilusc\": puoi bandire questa carta dal tuo Cimitero; l'ATK del tuo mostro diventa l'ATK di quel mostro dell'avversario, fino alla fine di questo turno. Puoi utilizzare ogni effetto di \"Lirilusc - Piume Fantasma\" una sola volta per turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/10/28",
+  "species_id": 25,
+  "starchip": "0"
+}

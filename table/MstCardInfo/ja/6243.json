@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 6243,
+  "card_name": "またたびキャット",
+  "card_name_label": "またたびキャット",
+  "card_name_search": "またたびきゃっと",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上にこのカード以外の獣族モンスターが存在する場合、このカードを攻撃する事はできない。相手フィールド上に存在するモンスター１体の守備力をエンドフェイズ時まで０にする。この効果は１ターンに１度だけ使用する事ができる。",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/11/25",
+  "species_id": 11,
+  "starchip": "2"
+}

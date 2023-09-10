@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 1,
+  "card_id": 12437,
+  "card_name": "Zap Mustung",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial por efecto de una carta durante tu Main Phase 1, no puede ser Invocado de Modo Especial de otra forma, y no puede ser Invocado de Modo Especial si este turno has Invocado de modo Especial. Dos veces por turno, esta carta no puede ser destruida en batalla. Cada turno, el jugador activo sólo puede Invocar de Modo Especial tantas veces como la cantidad de ataques que haya realizado (y que llegaran al Damage Step) este turno.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/08/04",
+  "species_id": 19,
+  "starchip": "4"
+}

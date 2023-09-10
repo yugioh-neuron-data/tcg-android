@@ -1,0 +1,23 @@
+{
+  "attack_power": "2700",
+  "attribute_id": 2,
+  "card_id": 7738,
+  "card_name": "Gedankenherrscher-Erzunterweltler",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Empfänger + 1+ Nicht-Empfänger-Monster$NFalls diese Karte ein Monster durch Kampf zerstört und auf den Friedhof legt: Du erhältst LP in Höhe der Grund-ATK des Monsters im Friedhof. Wenn eine Zauber-/Fallenkarte aktiviert wird, die 1 Psi-Monster (und keine anderen Karten) als Ziel wählt (Schnelleffekt): Du kannst 1000 LP zahlen; annulliere die Aktivierung und falls du dies tust, zerstöre sie.",
+  "defense_power": "2300",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "1000/01/01",
+  "species_id": 21,
+  "starchip": "8"
+}

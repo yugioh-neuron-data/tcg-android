@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 14600,
+  "card_name": "Parade de Poupées",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si votre adversaire contrôle plus de monstres que vous : Invoquez Spécialement un nombre de monstres \"Poupée Truquée\" de noms différents depuis votre Deck, inférieur ou égal à la différence, puis, si votre adversaire a min. 2000 LP de plus que vous, vous pouvez Poser 1 Magie Normale \"Magie-Rang-Plus\" directement depuis votre Deck. Le reste de ce tour après la résolution de cette carte, vous ne pouvez pas Invoquer Spécialement de monstres (monstres \"Poupée Truquée\" exclus). Vous ne pouvez activer qu'1 \"Parade de Poupées\" par tour.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/09/26",
+  "species_id": 25,
+  "starchip": "0"
+}

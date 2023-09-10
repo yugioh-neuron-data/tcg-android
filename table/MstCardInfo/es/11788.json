@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 1,
+  "card_id": 11788,
+  "card_name": "Maga Xiangsheng",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Una vez por turno: puedes seleccionar 1 Monstruo Xyz boca arriba que controles y 1 monstruo de Nivel 5 o mayor que controles; hasta el final de este turno, el Rango de ese Monstruo Xyz se convierte en el Nivel de ese monstruo de nivel 5 o mayor (aún si esta carta deja el Campo). Mientras controles más cartas que tu adversario, la Escala de Péndulo de esta carta se convierte en 4.",
+  "card_text": "Tu adversario no recibe daño de batalla de ataques que involucren a esta carta. Una vez por turno: puedes seleccionar otro monstruo boca arriba que controles; hasta el final de este turno, el ATK de esta carta se convierte en el ATK en este momento de ese monstruo.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "8",
+  "pen_scale_r": "8",
+  "sales_at": "2015/08/06",
+  "species_id": 18,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 2,
+  "card_id": 14098,
+  "card_name": "Cavaliere dell'Incubo Orcusestra",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Non può essere distrutto in battaglia con un Mostro Link. Puoi bandire questa carta dal tuo Cimitero, poi scegliere come bersaglio 1 mostro scoperto sul Terreno; non puoi Evocare Specialmente mostri, eccetto mostri OSCURITÀ, per il resto di questo turno, inoltre manda 1 mostro OSCURITÀ Macchina dal tuo Deck al Cimitero, eccetto \"Cavaliere dell'Incubo Orcusestra\" e, se lo fai, il mostro scelto come bersaglio guadagna ATK pari al Livello del mostro mandato al Cimitero x 100, fino alla fine di questo turno. Puoi utilizzare questo effetto di \"Cavaliere dell'Incubo Orcusestra\" una sola volta per turno.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/01/31",
+  "species_id": 7,
+  "starchip": "7"
+}

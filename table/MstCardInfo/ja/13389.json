@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 1,
+  "card_id": 13389,
+  "card_name": "紺碧の機界騎士",
+  "card_name_label": "こんぺきのジャックナイツ",
+  "card_name_search": "こんぺきのじゃっくないつ",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①の方法による特殊召喚は１ターンに１度しかできない。①：同じ縦列にカードが２枚以上存在する場合、このカードはその縦列の自分フィールドに特殊召喚できる。②：１ターンに１度、自分フィールドの「ジャックナイツ」モンスター１体を対象として発動できる。その自分のモンスターの位置を、他の自分のメインモンスターゾーンに移動する。この効果は相手ターンでも発動できる。",
+  "defense_power": "2400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/10/14",
+  "species_id": 21,
+  "starchip": "8"
+}

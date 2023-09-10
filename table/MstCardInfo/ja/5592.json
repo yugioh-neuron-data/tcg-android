@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 6,
+  "card_id": 5592,
+  "card_name": "ユニオン・ライダー",
+  "card_name_label": "ユニオン・ライダー",
+  "card_name_search": "ゆにおんらいだー",
+  "card_pen_effect": "",
+  "card_text": "相手フィールド上でモンスター状態のユニオンモンスターのコントロールを得て、このカードに１枚まで装備する。このカードに装備されたユニオンは自身の効果を使ってモンスター状態に戻る事はできない。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/07/18",
+  "species_id": 7,
+  "starchip": "2"
+}

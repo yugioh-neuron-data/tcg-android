@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 8994,
+  "card_name": "Verzweifelte Auswechslung",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls ein Monster in offener Angriffsposition, das du kontrollierst, durch Kampf zerstört wird, kannst du während der Schadensberechnung den Kampfschaden aus diesem Kampf auf 0 reduzieren und am Ende des Damage Steps 1 Monster vom Typ Krieger der Stufe 4 oder niedriger als Spezialbeschwörung von deiner Hand beschwören.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/08/12",
+  "species_id": 25,
+  "starchip": "0"
+}

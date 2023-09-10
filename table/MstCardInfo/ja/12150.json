@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 12150,
+  "card_name": "ヨコシマウマ",
+  "card_name_label": "ヨコシマウマ",
+  "card_name_search": "よこしまうま",
+  "card_pen_effect": "①：このカードを発動したターンの自分メインフェイズに１度だけ、使用していないモンスターゾーンまたは魔法＆罠ゾーンを１ヵ所指定して発動できる。指定したゾーンはこのカードがPゾーンに存在する間は使用できない。",
+  "card_text": "①：このカードが召喚・特殊召喚に成功した場合、使用していないモンスターゾーンまたは魔法＆罠ゾーンを１ヵ所指定して発動できる。指定したゾーンはこのモンスターが表側表示で存在する間は使用できない。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "7",
+  "pen_scale_r": "7",
+  "sales_at": "2015/10/17",
+  "species_id": 11,
+  "starchip": "2"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 1,
+  "card_id": 9655,
+  "card_name": "久遠の魔術師ミラ",
+  "card_name_label": "くおんのまじゅつしミラ",
+  "card_name_search": "くおんのまじゅつしみら",
+  "card_pen_effect": "",
+  "card_text": "①：このカードが召喚に成功した場合、相手フィールドの裏側表示のカード１枚を対象として発動する。その相手のカードを確認する。この効果の発動に対して、相手は魔法・罠カードを発動できない。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/04/16",
+  "species_id": 18,
+  "starchip": "4"
+}

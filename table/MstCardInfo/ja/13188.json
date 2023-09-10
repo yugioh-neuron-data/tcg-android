@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 3,
+  "card_id": 13188,
+  "card_name": "ウォーター・ドラゴン－クラスター",
+  "card_name_label": "ウォーター・ドラゴン－クラスター",
+  "card_name_search": "うぉーたーどらごんくらすたー",
+  "card_pen_effect": "",
+  "card_text": "このカードは通常召喚できない。「ボンディング」魔法・罠カードの効果でのみ特殊召喚できる。①：このカードが特殊召喚に成功した場合に発動できる。相手フィールドの効果モンスターはターン終了時まで、攻撃力が０になり、効果を発動できない。②：このカードをリリースして発動できる。手札・デッキから「ウォーター・ドラゴン」２体を召喚条件を無視して守備表示で特殊召喚する。この効果は相手ターンでも発動できる。",
+  "defense_power": "2600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/06/03",
+  "species_id": 5,
+  "starchip": "10"
+}

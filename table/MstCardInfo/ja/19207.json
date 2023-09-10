@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 19207,
+  "card_name": "天子の指輪",
+  "card_name_label": "エンジェリング",
+  "card_name_search": "えんじぇりんぐ",
+  "card_pen_effect": "",
+  "card_text": "装備カードを装備している自分フィールドのモンスターにのみ装備可能。$N①：「天子の指輪」は自分フィールドに１枚しか表側表示で存在できない。$N②：相手が発動した魔法カードの効果は１ターンに１度だけ無効化される。$N③：１ターンに１度、このカードが装備されている場合に発動できる。自分は５００LP回復する。その後、このカードを破壊し、以下の効果を適用する。$N●このカードを装備していたモンスターがモンスターゾーンに表側表示で存在する限り、相手はそのモンスターを効果の対象にできない。",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/07/22",
+  "species_id": 24,
+  "starchip": "0"
+}

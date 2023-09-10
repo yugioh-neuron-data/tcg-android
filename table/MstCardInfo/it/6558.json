@@ -1,0 +1,23 @@
+{
+  "attack_power": "2700",
+  "attribute_id": 2,
+  "card_id": 6558,
+  "card_name": "Gorz, l'Emissario dell'Oscurità",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Quando subisci danno da una carta sotto il comando del tuo avversario: puoi Evocare Specialmente questa carta dalla tua mano. Non devi controllare nessuna carta per attivare e risolvere questo effetto. Quando questa carta viene Evocata Specialmente dal suo effetto: attiva l'effetto appropriato, a seconda del tipo di danno.$N●Danno da combattimento: Evoca Specialmente 1 \"Segna-Emissario dell'Oscurità\" (Fata/LUCE/Livello 7/ATK ?/DEF ?). I suoi ATK e DEF sono ognuno pari al danno da combattimento che hai subito.$N●Danno da effetto: Infliggi al tuo avversario danno pari al danno che hai subito.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/07/23",
+  "species_id": 3,
+  "starchip": "7"
+}

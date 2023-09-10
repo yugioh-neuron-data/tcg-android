@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16633,
+  "card_name": "Formación de Escaraballería",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Puedes seleccionar 1 monstruo \"Escaraballería\" en tu Cementerio; Invócalo de Modo Especial, pero no puede atacar este turno, y además pierdes LP iguales a su ATK original. Si uno o más monstruos Insecto boca arriba que controlas son destruidos en batalla o por el efecto de una carta: puedes Invocar de Modo Especial 1 \"Ficha Escaraballería\" (Insecto/TIERRA/Nivel 3/ATK 1000/DEF 1000). Sólo puedes usar cada efecto de \"Formación de Escaraballería\" una vez por turno.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/08/12",
+  "species_id": 24,
+  "starchip": "0"
+}

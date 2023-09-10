@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 14605,
+  "card_name": "Prédaplan",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Envoyez 1 monstre \"Prédaplante\" depuis votre Deck au Cimetière ; placez 1 Compteur Prédateur sur chaque monstre face recto sur le Terrain, et si vous le faites, chacun de ces monstres de min. Niveau 2 devient Niveau 1 tant qu'il a un Compteur Prédateur. Si vous Invoquez par Fusion un monstre TÉNÈBRES tant que cette carte est dans votre Cimetière (sauf durant la Damage Step) : vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 carte sur le Terrain ; détruisez-la. Vous ne pouvez utiliser chaque effet de \"Prédaplan\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/09/26",
+  "species_id": 25,
+  "starchip": "0"
+}

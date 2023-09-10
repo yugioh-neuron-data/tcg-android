@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 12723,
+  "card_name": "Señoroscuro Estrella de la Mañana",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "No puede ser Invocado de Modo Especial. Si esta carta es Invocada por Sacrificio: puedes Invocar de Modo Especial, desde tu mano y/o Deck, monstruos \"Señoroscuro/a\", hasta la cantidad de Monstruos de Efecto que controle tu adversario. Mientras controles otro monstruo \"Señoroscuro/a\", tu adversario no puede seleccionar esta carta con efectos de cartas. Una vez por turno: puedes mandar cartas de la parte superior de tu Deck al Cementerio, igual a la cantidad de monstruos \"Señoroscuro/a\" en el Campo y, si lo haces, gana 500 LP por cada carta \"Señoroscuro/a\" mandada al Cementerio por este efecto.",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/11/17",
+  "species_id": 17,
+  "starchip": "11"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2600",
+  "attribute_id": 4,
+  "card_id": 5377,
+  "card_name": "Yamata-Drache",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Diese Karte kann nicht als Spezialbeschwörung beschworen werden. Diese Karte kehrt während der End Phase des Spielzugs, in dem sie als Normalbeschwörung beschworen oder aufgedeckt wurde, auf die Hand ihres Besitzers zurück. Wenn diese Karte deinem Gegner Kampfschaden zufügt, ziehe Karten, bis du 5 Karten auf deiner Hand hast.",
+  "defense_power": "3100",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 7,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2003/04/01",
+  "species_id": 1,
+  "starchip": "7"
+}

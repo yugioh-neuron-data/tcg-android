@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 4,
+  "card_id": 8902,
+  "card_name": "炎熱刀プロミネンス",
+  "card_name_label": "えんねつとうプロミネンス",
+  "card_name_search": "えんねつとうぷろみねんす",
+  "card_pen_effect": "",
+  "card_text": "１ターンに１度、自分の墓地の「ラヴァル」と名のついたモンスター１体をゲームから除外して発動できる。このカードの攻撃力はエンドフェイズ時まで３００ポイントアップする。この効果は相手ターンでも発動できる。",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/04/27",
+  "species_id": 12,
+  "starchip": "4"
+}

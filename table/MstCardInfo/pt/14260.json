@@ -1,0 +1,23 @@
+{
+  "attack_power": "400",
+  "attribute_id": 2,
+  "card_id": 14260,
+  "card_name": "Refletor Psíquico",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se este card for Invocado por Invocação-Normal ou Especial: você pode adicionar 1 \"Ativar Modo de Ataque\" ou 1 card que liste especificamente \"Ativar Modo de Ataque\" em seu texto, do seu Deck à sua mão, exceto \"Refletor Psíquico\". Você pode revelar 1 \"Ativar Modo de Ataque\" na sua mão e, depois, escolher 1 monstro no seu Cemitério que liste especificamente \"Ativar Modo de Ataque\" em seu texto, exceto \"Refletor Psíquico\"; Invoque-o por Invocação-Especial e, se isso acontecer, aumente o Nível dele em 1 a 4. Você só pode usar cada efeito de \"Refletor Psíquico\" uma vez por turno.",
+  "defense_power": "300",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/05/02",
+  "species_id": 21,
+  "starchip": "1"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 6,
+  "card_id": 12053,
+  "card_name": "SRオハジキッド",
+  "card_name_label": "スピードロイドオハジキッド",
+  "card_name_search": "すぴーどろいどおはじきっど",
+  "card_pen_effect": "",
+  "card_text": "①：このカードが召喚に成功した時、自分または相手の墓地のチューナー１体を対象として発動できる。そのモンスターを自分フィールドに特殊召喚し、そのモンスターとこのカードのみを素材として風属性のSモンスター１体をS召喚する。",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/08/22",
+  "species_id": 7,
+  "starchip": "3"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 2,
+  "card_id": 18812,
+  "card_name": "나이트메어 매지션",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "①: 이 카드가 몬스터와 전투를 실행할 경우, 그 2장은 그 전투로는 파괴되지 않는다. ②: 이 카드가 상대 몬스터와 전투를 실행한 데미지 스텝 종료시에 발동할 수 있다. 그 상대 몬스터의 컨트롤을 얻는다. ③: 1턴에 1번, 이 카드 이외의 몬스터가 공격하는 데미지 스텝 개시시에 발동할 수 있다. 필드의 카드 1장을 파괴한다.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/06/24",
+  "species_id": 34,
+  "starchip": "7"
+}

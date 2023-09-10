@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 4,
+  "card_id": 10509,
+  "card_name": "Hermandad del Puño de Fuego - Rinoceronte",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si un monstruo \"Puño de Fuego\" que controlas ataca o es atacado, durante el cálculo de daño (en el turno de cualquier jugador): una vez por batalla, puedes mandar al Cementerio 1 Carta Mágica/de Trampa \"Formación de Fuego\" boca arriba que controles y 1 monstruo \"Puño de Fuego\" en tu mano; tu monstruo atacante/atacado gana ATK igual al ATK original del monstruo mandado al Cementerio, sólo durante el cálculo de daño.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/05/16",
+  "species_id": 12,
+  "starchip": "4"
+}

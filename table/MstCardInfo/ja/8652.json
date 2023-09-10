@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 5,
+  "card_id": 8652,
+  "card_name": "ドリル・ウォリアー",
+  "card_name_label": "ドリル・ウォリアー",
+  "card_name_search": "どりるうぉりあー",
+  "card_pen_effect": "",
+  "card_text": "「ドリル・シンクロン」＋チューナー以外のモンスター１体以上$N１ターンに１度、自分のメインフェイズ時に発動できる。このカードの攻撃力を半分にし、このターンこのカードは相手プレイヤーに直接攻撃できる。また、１ターンに１度、自分のメインフェイズ時に発動できる。手札を１枚捨ててこのカードをゲームから除外する。次の自分のスタンバイフェイズ時、この効果で除外したこのカードを自分フィールド上に特殊召喚する。その後、自分の墓地のモンスター１体を選んで手札に加える。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/11/14",
+  "species_id": 15,
+  "starchip": "6"
+}

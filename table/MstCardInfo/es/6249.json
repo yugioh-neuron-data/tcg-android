@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 1,
+  "card_id": 6249,
+  "card_name": "Mech-Perro Marron",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando esta carta en el Campo es destruida como resultado de una batalla y mandada al Cementerio, inflige 1000 puntos de daño a los Life Points de ambos jugadores. Cuando esta carta en el Campo es destruida y mandada al Cementerio excepto como resultado de una batalla, inflige 1000 puntos de daño a los Life Points de tu adversario.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/03/01",
+  "species_id": 7,
+  "starchip": "4"
+}

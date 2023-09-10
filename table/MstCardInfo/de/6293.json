@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 6293,
+  "card_name": "Vampir-Genesis",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 1 „Vampirlord“ verbannst, den du kontrollierst. Einmal pro Spielzug: Du kannst 1 Zombie-Monster auf den Friedhof abwerfen und dann 1 Zombie-Monster, dessen Stufe kleiner ist als die des abgeworfenen Zombie-Monsters, in deinem Friedhof wählen; beschwöre jenes gewählte Ziel als Spezialbeschwörung.",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/01/01",
+  "species_id": 2,
+  "starchip": "8"
+}

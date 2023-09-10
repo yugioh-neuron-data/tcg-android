@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 1,
+  "card_id": 7806,
+  "card_name": "E・HERO ゴッド・ネオス",
+  "card_name_label": "エレメンタルヒーロー　ゴッド・ネオス",
+  "card_name_search": "えれめんたるひーろーごっどねおす",
+  "card_pen_effect": "",
+  "card_text": "このカードは融合召喚でしか特殊召喚できない。「ネオス」・「N」・「HERO」と名のついたモンスターをそれぞれ１体以上、合計５体のモンスターを融合素材として融合召喚する。１ターンに１度、自分の墓地に存在する「ネオス」・「N」・「HERO」と名のついたモンスター１体をゲームから除外する事で、このカードの攻撃力は５００ポイントアップする。さらに、エンドフェイズ時までそのモンスターと同じ効果を得る。",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/03/28",
+  "species_id": 15,
+  "starchip": "12"
+}

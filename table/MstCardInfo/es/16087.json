@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 4,
+  "card_id": 16087,
+  "card_name": "Fancia FaSolfacorde",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Las Invocaciones por Péndulo de tus Monstruos de Péndulo \"Solfacorde\" no pueden ser negadas.",
+  "card_text": "Mientras tengas una Escala de Péndulo impar en tu Zona de Péndulo, si tu Monstruo de Péndulo \"Solfacorde\" fuera a ser destruido en batalla, puedes destruir esta carta en su lugar. Durante tu Main Phase: puedes añadir a tu Deck Extra, boca arriba, 1 Monstruo de Péndulo \"Solfacorde\" en tu Deck, excepto \"Fancia FaSolfacorde\". Sólo puedes usar este efecto de \"Fancia FaSolfacorde\" una vez por turno.",
+  "defense_power": "400",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2021/05/06",
+  "species_id": 17,
+  "starchip": "4"
+}

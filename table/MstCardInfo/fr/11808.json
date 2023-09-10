@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 11808,
+  "card_name": "Veilleur du Sanctuaire",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cette carte peut être traitée comme 2 Sacrifices pour l'Invocation Sacrifice d'un monstre Dragon. Tant que cette carte est dans votre main ou Cimetière, si un monstre Dragon face recto sur le Terrain (\"Veilleur du Sanctuaire\" exclu) est envoyé au Cimetière par un effet de carte ou parce qu'il a été détruit au combat : vous pouvez Invoquer Spécialement cette carte, puis, si le monstre envoyé au Cimetière est un Monstre Normal, vous pouvez ajouter 1 Monstre Normal Dragon depuis votre Cimetière à votre main. Vous ne pouvez utiliser cet effet de \"Veilleur du Sanctuaire\" qu'une fois par tour.",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/08/06",
+  "species_id": 1,
+  "starchip": "4"
+}

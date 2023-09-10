@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13949,
+  "card_name": "Riesiger Spielplatz",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Während der Schadensberechnung, falls ein Spieler Kampfschaden erhalten würde: Du kannst keinen Spieler Kampfschaden aus dem Kampf erhalten lassen und falls du dies tust, lege 1 Insekt-Monster der Stufe 4 oder niedriger von deinem Deck auf den Friedhof, dann, falls du ein Normales Monster auf diese Art gelegt hast, kannst du eine beliebige Anzahl Monster mit demselben Namen wie das Monster als Spezialbeschwörung von deiner Hand, deinem Deck und/oder deinem Friedhof beschwören. Falls ein oder mehr Monster, die du kontrollierst, durch einen Karteneffekt eines Gegners auf den Friedhof gelegt werden (außer während des Damage Steps): Du kannst 1 Normales Insekt-Monster als Spezialbeschwörung von deinem Friedhof beschwören. Du kannst jeden Effekt von „Riesiger Spielplatz“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/10/18",
+  "species_id": 24,
+  "starchip": "0"
+}

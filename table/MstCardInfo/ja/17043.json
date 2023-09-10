@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 17043,
+  "card_name": "バリアンズ・カオス・ドロー",
+  "card_name_label": "バリアンズ・カオス・ドロー",
+  "card_name_search": "ばりあんずかおすどろー",
+  "card_pen_effect": "",
+  "card_text": "①：自分ドローフェイズに通常のドローをしたこのカードを公開し続ける事で、そのターンのメインフェイズ１に、以下の効果から１つを選択して発動できる。$N●デッキから「セブンス」通常魔法カード１枚を墓地へ送って発動できる。この効果は、その魔法カード発動時の効果と同じになる。$N●デッキからモンスターを２体まで効果を無効にして特殊召喚し、そのモンスターを全て含む自分フィールドのモンスターを素材として「No.」Xモンスター１体をX召喚する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/11/20",
+  "species_id": 24,
+  "starchip": "0"
+}

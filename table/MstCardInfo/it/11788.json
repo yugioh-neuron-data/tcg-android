@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 1,
+  "card_id": 11788,
+  "card_name": "Maga Xiangsheng",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Una volta per turno: puoi scegliere come bersaglio 1 Mostro Xyz scoperto che controlli e 1 mostro di Livello 5 o superiore che controlli; il Rango di quel Mostro Xyz diventa pari al Livello di quel mostro di Livello 5 o superiore, fino alla fine di questo turno (anche se questa carta lascia il Terreno). Mentre controlli più carte del tuo avversario, il Valore Pendulum di questa carta diventa 4.",
+  "card_text": "Il tuo avversario non subisce danno da combattimento da attacchi che coinvolgono questa carta. Una volta per turno: puoi scegliere come bersaglio 1 altro mostro scoperto che controlli; l'ATK di questa carta diventa pari all'ATK attuale di quel mostro, fino alla fine di questo turno.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "8",
+  "pen_scale_r": "8",
+  "sales_at": "2015/08/06",
+  "species_id": 18,
+  "starchip": "4"
+}

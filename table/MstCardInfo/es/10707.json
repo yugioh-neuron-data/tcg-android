@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 10707,
+  "card_name": "Número 85: Caja Loca",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 monstruos de Nivel 4$NEsta carta no puede atacar. Una vez por turno: puedes desacoplar de esta carta 1 Material Xyz; lanza un dado de seis caras y aplica el resultado.$N1: Divide tus Life Points a la mitad.$N2: Roba 1 carta.$N3: Tu adversario descarta 1 carta.$N4: Niega los efectos de 1 carta boca arriba en el Campo hasta el final de este turno.$N5: Destruye 1 carta en el Campo.$N6: Destruye esta carta.",
+  "defense_power": "300",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/07/11",
+  "species_id": 3,
+  "starchip": "4"
+}

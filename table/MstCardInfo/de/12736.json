@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 2,
+  "card_id": 12736,
+  "card_name": "Drachenrufer-Magier",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Einmal pro Spielzug: Du kannst 1 offenes Monster auf dem Spielfeld wählen; es wird bis zum Ende des Spielzugs deines Gegners zum Typ Drache (selbst falls diese Karte das Spielfeld verlässt).",
+  "card_text": "Einmal pro Spielzug: Du kannst diese Karte bis zum Ende dieses Spielzugs zum Typ Drache werden lassen. Ein Monster, das mit dieser Karte auf dem Spielfeld als Material als Fusions-, Synchro- oder Xyz-Beschwörung beschworen wurde, erhält diesen Effekt.$N●Falls diese Karte gegen ein Monster vom Typ Drache kämpft, werden die ATK dieser Karte nur während des Damage Steps zum Doppelten ihrer Grund-ATK.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "2",
+  "pen_scale_r": "2",
+  "sales_at": "2017/02/09",
+  "species_id": 18,
+  "starchip": "7"
+}

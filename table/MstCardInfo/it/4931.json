@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 4931,
+  "card_name": "Kotodama",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Mostri con lo stesso nome non possono esistere scoperti sul Terreno. Se viene Evocato o scoperto un mostro con lo stesso nome di un mostro scoperto sul Terreno, il nuovo mostro scoperto viene distrutto. (Se più mostri vengono Evocati o scoperti allo stesso tempo, vengono tutti distrutti.)",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/10/21",
+  "species_id": 17,
+  "starchip": "3"
+}

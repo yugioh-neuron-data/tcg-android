@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 5,
+  "card_id": 6841,
+  "card_name": "Ingénieur Rouages Ancients",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Annulez les effets de Piège qui ciblent cette carte, et si vous le faites, détruisez la Carte Piège. Si cette carte attaque, votre adversaire ne peut pas activer de Cartes Magie/Piège jusqu'à la fin de la Damage Step. À la fin de la Damage Step, si cette carte a attaqué : ciblez 1 Magie/Piège contrôlé par votre adversaire ; détruisez la cible.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/01/17",
+  "species_id": 7,
+  "starchip": "5"
+}

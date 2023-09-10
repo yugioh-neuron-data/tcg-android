@@ -1,0 +1,23 @@
+{
+  "attack_power": "200",
+  "attribute_id": 3,
+  "card_id": 8570,
+  "card_name": "Defensor da Barreira de Gelo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Enquanto você controlar outro monstro \"Barreira de Gelo\", os monstros que seu oponente controla não podem declarar ataques se o ATK deles for igual ou maior que a DEF deste card.",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/02/18",
+  "species_id": 14,
+  "starchip": "3"
+}

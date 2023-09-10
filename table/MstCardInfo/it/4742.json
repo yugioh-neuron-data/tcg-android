@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 2,
+  "card_id": 4742,
+  "card_name": "Sfera di Distruzione",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se questa carta coperta in Posizione di Difesa è stata attaccata da un mostro dell'avversario, prima del calcolo dei danni: equipaggia questa carta al mostro attaccante. Poi, durante la prossima Standby Phase del tuo avversario: distruggi il mostro a cui questa carta è equipaggiata e, se lo fai, infliggi al tuo avversario danno pari all'ATK che il mostro distrutto aveva sul Terreno.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/07/08",
+  "species_id": 7,
+  "starchip": "4"
+}

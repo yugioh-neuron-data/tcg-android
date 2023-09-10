@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 6,
+  "card_id": 14987,
+  "card_name": "Parallel eXceed",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls diese Karte durch den Effekt von „Parallel eXceed“ als Spezialbeschwörung beschworen wird, wird ihre Stufe zu 4 und ihre Grund-ATK/DEF werden halbiert. Du kannst jeden der folgenden Effekte von „Parallel eXceed“ nur einmal pro Spielzug verwenden.$N●Falls du eine Linkbeschwörung durchführst: Du kannst diese Karte als Spezialbeschwörung von deiner Hand in deine Zone beschwören, auf die das Linkmonster zeigt.$N●Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 „Parallel eXceed“ als Spezialbeschwörung von deinem Deck beschwören.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/30",
+  "species_id": 27,
+  "starchip": "8"
+}

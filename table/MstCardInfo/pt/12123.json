@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 2,
+  "card_id": 12123,
+  "card_name": "Ninja do Crepúsculo Shingetsu",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Monstros que seu oponente controla não podem escolher monstros \"Ninja\" com a face para cima como alvo de ataques, exceto este. Seu oponente não pode escolher monstros \"Ninja\" com a face para cima como alvo de efeitos de card, exceto este. Se este card for destruído em batalha e enviado para o Cemitério, ou se este card em sua posse for destruído por um efeito de card do seu oponente e enviado para o seu Cemitério: você pode adicionar 1 monstro \"Ninja\" do seu Deck à sua mão, exceto \"Ninja do Crepúsculo Shingetsu\". Você só pode usar este efeito de \"Ninja do Crepúsculo Shingetsu\" uma vez por turno.",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/01/15",
+  "species_id": 15,
+  "starchip": "4"
+}

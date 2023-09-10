@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 13564,
+  "card_name": "Étirementocto Gouki",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si un monstre de votre adversaire attaque, durant le calcul des dommages (Effet Rapide) : vous pouvez défausser cette carte ; les dommages que vous recevez de ce combat sont divisés par deux. Lorsque votre adversaire active un effet qui va vous infliger des dommages (même durant la Damage Step) (Effet Rapide) : vous pouvez défausser cette carte ; les dommages que vous recevez de cet effet sont divisés par deux. Si cette carte est envoyée depuis le Terrain au Cimetière : vous pouvez ajouter 1 carte \"Gouki\" (\"Étirementocto Gouki\" exclu) depuis votre Deck à votre main. Vous ne pouvez utiliser cet effet de \"Étirementocto Gouki\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/05/03",
+  "species_id": 15,
+  "starchip": "1"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 2,
+  "card_id": 8164,
+  "card_name": "BF－月影のカルート",
+  "card_name_label": "ブラックフェザー－げつえいのカルート",
+  "card_name_search": "ぶらっくふぇざーげつえいのかるーと",
+  "card_pen_effect": "",
+  "card_text": "①：自分の「BF」モンスターが戦闘を行うダメージステップ開始時からダメージ計算前までに、このカードを手札から墓地へ送って発動できる。そのモンスターの攻撃力はターン終了時まで１４００アップする。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/02/14",
+  "species_id": 16,
+  "starchip": "3"
+}

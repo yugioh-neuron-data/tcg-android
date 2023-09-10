@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 1,
+  "card_id": 15262,
+  "card_name": "Diamètre Mathmech",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsque cette carte est Invoquée Normalement : vous pouvez cibler 1 monstre Cyberse de Niveau 4 dans votre Cimetière ; Invoquez-le Spécialement, mais il ne peut pas activer ses effets. Un monstre \"Mathmech\" qui a été Invoqué par Synchronisation ou Xyz en utilisant cette carte sur le Terrain comme Matériel gagne l'effet suivant.$N●Une fois par tour, durant le tour où cette carte a été Invoquée Spécialement, lorsque votre adversaire active une carte ou un effet (Effet Rapide) : vous pouvez annuler l'effet.$NVous ne pouvez utiliser chaque effet de \"Diamètre Mathmech\" qu'une fois par tour.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/08/06",
+  "species_id": 27,
+  "starchip": "4"
+}

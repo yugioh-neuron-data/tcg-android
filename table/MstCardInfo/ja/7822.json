@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 5,
+  "card_id": 7822,
+  "card_name": "X－セイバー ガラハド",
+  "card_name_label": "エックス－セイバー　ガラハド",
+  "card_name_search": "えっくすせいばーがらはど",
+  "card_pen_effect": "",
+  "card_text": "このカードは相手モンスターに攻撃する場合、ダメージステップの間、攻撃力が３００ポイントアップする。このカードは相手モンスターに攻撃される場合、ダメージステップの間、攻撃力が５００ポイントダウンする。また、このカードが攻撃対象に選択された時、このカード以外の自分フィールド上の「セイバー」と名のついたモンスター１体をリリースする事で、その攻撃を無効にする。",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/06/24",
+  "species_id": 15,
+  "starchip": "4"
+}

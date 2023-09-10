@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 4,
+  "card_id": 10605,
+  "card_name": "Vサラマンダー",
+  "card_name_label": "ブイサラマンダー",
+  "card_name_search": "ぶいさらまんだー",
+  "card_pen_effect": "",
+  "card_text": "このカードが召喚に成功した時、自分の墓地の「希望皇ホープ」と名のついたモンスター１体を選択して特殊召喚できる。自分のメインフェイズ時、フィールド上のこのモンスターを自分の「CNo.39 希望皇ホープレイV」に装備できる。このカードが装備されている場合、１ターンに１度、装備モンスターのエクシーズ素材を１つ取り除いて発動できる。装備モンスターの効果を無効にし、相手フィールド上のモンスターを全て破壊し、その数×１０００ポイントダメージを相手ライフに与える。",
+  "defense_power": "1300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/04/20",
+  "species_id": 18,
+  "starchip": "4"
+}

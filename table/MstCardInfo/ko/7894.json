@@ -1,0 +1,23 @@
+{
+  "attack_power": "1300",
+  "attribute_id": 1,
+  "card_id": 7894,
+  "card_name": "마굉신 레이븐",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "①: 1턴에 1번, 자신 메인 페이즈에 발동할 수 있다. 자신의 패를 임의의 매수 골라 버리고, 턴 종료시까지, 이 카드의 레벨은 버린 수만큼 오르며, 공격력은 버린 수 × 400 올린다.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/09/01",
+  "species_id": 3,
+  "starchip": "2"
+}

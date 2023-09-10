@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 4,
+  "card_id": 7971,
+  "card_name": "サーマル・ジェネクス",
+  "card_name_label": "サーマル・ジェネクス",
+  "card_name_search": "さーまるじぇねくす",
+  "card_pen_effect": "",
+  "card_text": "「ジェネクス・コントローラー」＋チューナー以外の炎属性モンスター１体以上$Nこのカードの攻撃力は自分の墓地の炎属性モンスターの数×２００ポイントアップする。このカードが戦闘によって相手モンスターを破壊した場合、自分の墓地の「ジェネクス」と名のついたモンスターの数×２００ポイントダメージを相手ライフに与える。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/09/22",
+  "species_id": 7,
+  "starchip": "8"
+}

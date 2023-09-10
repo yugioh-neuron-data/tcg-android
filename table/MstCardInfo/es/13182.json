@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 2,
+  "card_id": 13182,
+  "card_name": "Dragón de la Ciberoscuridad",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "5 Monstruos de Efecto \"Ciberoscur\"$NDebe ser primero Invocado por Fusión. Si esta carta es Invocada de Modo Especial: puedes equipar a esta carta 1 monstruo Dragón o Máquina en tu Cementerio. Gana ATK igual al ATK original del monstruo equipado a ella por este efecto. Cuando tu adversario activa una carta o efecto (Efecto Rápido): puedes mandar al Cementerio 1 Carta de Equipo que controles; niega la activación y, si lo haces, destruye esa carta.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/09/07",
+  "species_id": 7,
+  "starchip": "10"
+}

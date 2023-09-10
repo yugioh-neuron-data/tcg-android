@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 16566,
+  "card_name": "Armadilha da Lavadeira",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Uma vez por Corrente, se um ou mais monstros forem Invocados por Invocação-Normal ou Especial no seu campo (exceto durante a Etapa de Dano): você pode enviar o card do topo do seu Deck para o Cemitério. Se este card for enviado do seu Deck para o Cemitério por um efeito de card: você pode escolher 1 card no seu Cemitério que foi enviado para lá neste turno, exceto \"Armadilha da Lavadeira\"; adicione-o à sua mão, mas até o final do seu próximo turno depois que este efeito resolver, você não pode ativar cards, ou os efeitos de cards, com o nome dele. Você só pode usar este efeito de \"Armadilha da Lavadeira\" uma vez por turno.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/11/04",
+  "species_id": 25,
+  "starchip": "0"
+}

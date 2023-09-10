@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10549,
+  "card_name": "서몬 브레이커",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드가 필드 위에 존재하는 한, 턴 플레이어가 그 턴의 3번째 일반 소환 / 반전 소환 / 특수 소환에 성공했을 때, 그 턴의 엔드 페이즈가 된다. 이 효과는 메인 페이즈1에서만 발동한다.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/05/01",
+  "species_id": 24,
+  "starchip": "0"
+}

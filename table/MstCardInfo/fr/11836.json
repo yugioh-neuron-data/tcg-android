@@ -1,0 +1,23 @@
+{
+  "attack_power": "2300",
+  "attribute_id": 2,
+  "card_id": 11836,
+  "card_name": "D/D/D Tireur Roi Tell",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 monstres de Niveau 5$NVous pouvez aussi Invoquer par Xyz cette carte en utilisant un Monstre Xyz \"D/D/D\" de Rang 4 que vous contrôlez comme le Matériel Xyz. (Les Matériels Xyz attachés au monstre deviennent aussi des Matériels Xyz de cette carte.) Une fois par tour, durant le tour de chaque joueur, si vous avez reçu des dommages d'effet ce tour : vous pouvez détacher 1 Matériel Xyz de cette carte, puis ciblez 1 monstre face recto sur le Terrain ; il perd 1000 ATK/DEF, et s'il le fait, infligez 1000 points de dommage à votre adversaire. Si cette carte est envoyée depuis le Terrain au Cimetière : vous pouvez envoyer 1 carte \"D/D\" ou \"Contrat des Ténèbres\" depuis votre Deck au Cimetière.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/08/06",
+  "species_id": 3,
+  "starchip": "5"
+}

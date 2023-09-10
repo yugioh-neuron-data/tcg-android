@@ -1,0 +1,23 @@
+{
+  "attack_power": "900",
+  "attribute_id": 1,
+  "card_id": 10306,
+  "card_name": "ONeサンダー",
+  "card_name_label": "オネサンダー",
+  "card_name_search": "おねさんだー",
+  "card_pen_effect": "",
+  "card_text": "このカードが召喚に成功した時、「ONeサンダー」以外の自分の墓地の雷族・光属性・レベル４・攻撃力１６００以下のモンスター１体を選択してゲームから除外できる。このターンのエンドフェイズ時にそのカードを手札に加える。",
+  "defense_power": "400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/05/21",
+  "species_id": 19,
+  "starchip": "4"
+}

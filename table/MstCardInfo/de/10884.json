@@ -1,0 +1,23 @@
+{
+  "attack_power": "2600",
+  "attribute_id": 1,
+  "card_id": 10884,
+  "card_name": "Michael, der Erz-Lichtverpflichtete",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Empfänger- + 1 oder mehr LICHT Nicht-Empfänger-Monster$NEinmal pro Spielzug: Du kannst 1000 LP zahlen und dann 1 Karte auf dem Spielfeld wählen; verbanne das gewählte Ziel. Wenn diese Karte zerstört wird: Du kannst eine beliebige Anzahl anderer „Lichtverpflichtet“-Monster in deinem Friedhof wählen; mische sie ins Deck und falls du dies tust, erhältst du für jede zurückgegebene Karte 300 LP. Einmal pro Spielzug, während deiner End Phase: Lege die obersten 3 Karten deines Decks auf den Friedhof.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/06/26",
+  "species_id": 1,
+  "starchip": "7"
+}

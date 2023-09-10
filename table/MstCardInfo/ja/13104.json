@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13104,
+  "card_name": "キャッスル・リンク",
+  "card_name_label": "キャッスル・リンク",
+  "card_name_search": "きゃっするりんく",
+  "card_pen_effect": "",
+  "card_text": "①：１ターンに１度、自分メインフェイズにフィールドのリンクモンスター１体を対象として発動できる。そのモンスターの位置を、そのモンスターのリンク先のメインモンスターゾーンに移動する（そのモンスターから見て相手のフィールドには移動できない）。②：１ターンに１度、自分メインフェイズに発動できる。自分のメインモンスターゾーンのリンクモンスター２体または相手のメインモンスターゾーンのリンクモンスター２体を選び、その位置を入れ替える。",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/04/15",
+  "species_id": 24,
+  "starchip": "0"
+}

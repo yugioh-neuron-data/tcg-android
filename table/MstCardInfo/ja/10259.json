@@ -1,0 +1,23 @@
+{
+  "attack_power": "400",
+  "attribute_id": 3,
+  "card_id": 10259,
+  "card_name": "子型ペンギン",
+  "card_name_label": "コガタペンギン",
+  "card_name_search": "こがたぺんぎん",
+  "card_pen_effect": "",
+  "card_text": "リバースしたこのカードが墓地へ送られた時、自分の墓地から「子型ペンギン」以外の「ペンギン」と名のついたモンスター１体を選択し、表側攻撃表示または裏側守備表示で特殊召喚する。",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/07/21",
+  "species_id": 14,
+  "starchip": "1"
+}

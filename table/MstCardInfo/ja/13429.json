@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13429,
+  "card_name": "魔導加速",
+  "card_name_label": "マジック・ブースト",
+  "card_name_search": "まじっくぶーすと",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：自分のデッキの上からカードを２枚墓地へ送り、フィールドの魔力カウンターを置く事ができるカード１枚を対象として発動できる。そのカードに魔力カウンターを２つまで置く。②：このカードが相手の効果で破壊された場合に発動できる。魔力カウンターを置く事ができるモンスター１体をデッキから特殊召喚し、そのモンスターに魔力カウンターを２つまで置く。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/10/14",
+  "species_id": 24,
+  "starchip": "0"
+}

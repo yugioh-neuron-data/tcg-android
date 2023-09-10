@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 3,
+  "card_id": 14275,
+  "card_name": "儚無みずき",
+  "card_name_label": "はなみずき",
+  "card_name_search": "はなみずき",
+  "card_pen_effect": "",
+  "card_text": "このカード名の効果は１ターンに１度しか使用できない。$N①：自分・相手ターンに、このカードを手札から捨てて発動できる。このターン中、以下の効果を適用する。$N●相手がメインフェイズ及びバトルフェイズに効果モンスターを特殊召喚する度に、自分はそのモンスターの攻撃力分だけLPを回復する。この効果で自分のLPが回復しなかった場合、エンドフェイズに自分のLPは半分になる。",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/01/12",
+  "species_id": 2,
+  "starchip": "3"
+}

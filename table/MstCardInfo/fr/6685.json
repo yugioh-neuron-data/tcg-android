@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 1,
+  "card_id": 6685,
+  "card_name": "Dragon Voltaïque Super-Électromagnétique",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si vous faites l'Invocation Sacrifice de cette carte en sacrifiant 1 des monstres suivants, cette carte acquiert l'effet approprié :$N ● Homme-Batterie D: Annulez l'effet d'une Carte Magie ou Piège qui cible cette 1 carte.$N ● Homme-Batterie C: Durant un combat entre cette carte attaquant et un monstre en Position de Défense dont la DEF est inférieure à l'ATK de cette carte, infligez la différence en dommages de combat aux Life Points de votre adversaire.$N ● Homme-Batterie AA: Augmentez l'ATK de cette carte de 1000 points.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/05/13",
+  "species_id": 19,
+  "starchip": "5"
+}

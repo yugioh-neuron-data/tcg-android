@@ -1,0 +1,23 @@
+{
+  "attack_power": "1850",
+  "attribute_id": 4,
+  "card_id": 18813,
+  "card_name": "火霊媒師ヒータ",
+  "card_name_label": "かれいばいしヒータ",
+  "card_name_search": "かれいばいしひーた",
+  "card_pen_effect": "",
+  "card_text": "このカード名はルール上「霊使い」カードとしても扱う。$Nこのカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。$N①：手札からこのカードと炎属性モンスター１体を捨てて発動できる。このカード以外の捨てたモンスターより攻撃力が高い炎属性モンスター１体をデッキから手札に加える。この効果の発動後、ターン終了時まで自分は炎属性以外のモンスターの効果を発動できない。$N②：自分の炎属性モンスターが戦闘で破壊された時に発動できる。このカードを手札から特殊召喚する。",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/04/22",
+  "species_id": 18,
+  "starchip": "5"
+}

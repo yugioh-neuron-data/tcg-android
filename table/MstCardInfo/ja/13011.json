@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 2,
+  "card_id": 13011,
+  "card_name": "魂喰いオヴィラプター",
+  "card_name_label": "たまぐいオヴィラプター",
+  "card_name_search": "たまぐいおう゛ぃらぷたー",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。$N①：このカードが召喚・特殊召喚に成功した場合に発動できる。デッキから恐竜族モンスター１体を選び、手札に加えるか墓地へ送る。$N②：このカード以外のフィールドのレベル４以下の恐竜族モンスター１体を対象として発動できる。そのモンスターを破壊する。その後、自分の墓地から恐竜族モンスター１体を選んで守備表示で特殊召喚する。",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/02/25",
+  "species_id": 9,
+  "starchip": "4"
+}

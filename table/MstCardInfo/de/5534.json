@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 5534,
+  "card_name": "Raketenwerfer",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Nur Monster mit einer ATK von 1000 oder weniger können mit dieser Karte ausgerüstet werden. Ein Monster, das mit dieser Karte ausgerüstet wird, erhöht seine ATK um 2500 Punkte nur während der Schadensberechnung, wenn sich das Monster deines Gegners, gegen das dieses Monster kämpft, in Angriffsposition befindet und eine ATK von 2500 oder mehr hat, ODER wenn sich das Monster deines Gegners, gegen das dieses Monster kämpft, in Verteidigungsposition befindet und eine DEF von 2500 oder mehr hat.",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2003/07/01",
+  "species_id": 24,
+  "starchip": "0"
+}

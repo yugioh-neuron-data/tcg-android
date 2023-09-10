@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 9651,
+  "card_name": "蒼血鬼",
+  "card_name_label": "そうけつき",
+  "card_name_search": "そうけつき",
+  "card_pen_effect": "",
+  "card_text": "このカードは召喚・反転召喚に成功した時、守備表示になる。１ターンに１度、自分フィールド上に存在するエクシーズ素材を１つ取り除く事で、自分の墓地に存在するレベル４のアンデット族モンスター１体を選択して特殊召喚する。",
+  "defense_power": "1700",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/04/16",
+  "species_id": 2,
+  "starchip": "4"
+}

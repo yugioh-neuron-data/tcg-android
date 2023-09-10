@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 2,
+  "card_id": 10986,
+  "card_name": "ゴーストリック・イエティ",
+  "card_name_label": "ゴーストリック・イエティ",
+  "card_name_search": "ごーすとりっくいえてぃ",
+  "card_pen_effect": "",
+  "card_text": "自分フィールドに「ゴーストリック」モンスターが存在する場合のみ、このカードは表側表示で召喚できる。①：自分メインフェイズに発動できる。このカードを裏側守備表示にする（１ターンに１度のみ）。②：このカードがリバースした時、フィールドの「ゴーストリック」モンスター１体を対象として発動できる。そのモンスターはこのターン戦闘・効果では破壊されない。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/09/13",
+  "species_id": 2,
+  "starchip": "3"
+}

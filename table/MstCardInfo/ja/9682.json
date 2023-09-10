@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 9682,
+  "card_name": "爆弾ウニ－ボム・アーチン－",
+  "card_name_label": "ばくだんウニ－ボム・アーチン－",
+  "card_name_search": "ばくだんうにぼむあーちん",
+  "card_pen_effect": "",
+  "card_text": "相手が罠カードを発動した時に発動する事ができる。自分のスタンバイフェイズ時、相手フィールド上に罠カードが表側表示で存在する場合、相手ライフに１０００ポイントダメージを与える。発動後３回目の自分のエンドフェイズ時にこのカードを墓地へ送る。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/04/16",
+  "species_id": 25,
+  "starchip": "0"
+}

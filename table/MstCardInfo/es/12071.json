@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 1,
+  "card_id": 12071,
+  "card_name": "Mecanismo Armazón-PSÍ Delta",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "No puede ser Invocada de Modo Normal/Colocada. Debe ser Invocada de Modo Especial por efecto de una carta, y no puede ser Invocada de Modo Especial de otra forma. Durante el turno de cualquier jugador, cuando tu adversario activa una Carta Mágica mientras tú no controlas monstruos: puedes Invocar de Modo Especial esta carta desde tu mano, así como 1 \"Conductor de Armazón-PSÍ\" desde tu mano, Deck o Cementerio y, si lo haces, niega esa activación y, si haces eso, destruye esa Carta Mágica. Durante la End Phase, destierra a los monstruos boca arriba Invocados de Modo Especial por este efecto.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 30,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/10/01",
+  "species_id": 21,
+  "starchip": "2"
+}

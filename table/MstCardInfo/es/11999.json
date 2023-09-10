@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11999,
+  "card_name": "Maza Superior del Rapaz",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Sólo puedes equipar esta carta a un monstruo \"Asaltorrapaz\". Éste gana 1000 ATK. Cuando el monstruo equipado es seleccionado por un ataque por un monstruo cuyo ATK es mayor que el del monstruo equipado: puedes añadir a tu mano 1 Carta Mágica \"Magia de Subida de Rango\" en tu Deck y, si lo haces, no recibes daño de batalla de esa batalla.",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/11/05",
+  "species_id": 24,
+  "starchip": "0"
+}

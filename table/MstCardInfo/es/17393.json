@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 17393,
+  "card_name": "Equipo de Apoyo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Roba cartas igual al número de cartas que controle tu adversario, y después pon en la parte inferior del Deck, en cualquier orden, cartas en tu mano igual al número de cartas que has robado. Durante la End Phase, si tu adversario controla más cartas que tú mientras esta carta está en tu Cementerio: puedes Colocar esta carta, pero destiérrala cuando deje el Campo. Sólo puedes usar 1 efecto de \"Equipo de Apoyo\" por turno, y sólo una vez ese turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/05/19",
+  "species_id": 25,
+  "starchip": "0"
+}

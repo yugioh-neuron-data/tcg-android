@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 6275,
+  "card_name": "Bloqueo Cruzado",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si la DEF de un monstruo atacado en Posición de Defensa es superior al ATK del monstruo atacante de tu adversario, el daño de batalla infligido a los Life Points de tu adversario es doblado. Destruye el monstruo atacante después del cálculo de daño.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/03/01",
+  "species_id": 25,
+  "starchip": "0"
+}

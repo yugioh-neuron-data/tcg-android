@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 5,
+  "card_id": 10583,
+  "card_name": "Magidolce Kükolade",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wenn diese Karte, die dir gehört, durch eine Karte deines Gegners (entweder durch Kampf oder durch einen Karteneffekt) zerstört und auf deinen Friedhof gelegt wird: Mische diese Karte ins Deck. Einmal pro Spielzug, wenn die Kampfposition von „Magidolce“-Monstern, die du kontrollierst, geändert wird (und jetzt offen ist), solange diese Karte offen auf dem Spielfeld liegt (außer während des Damage Steps): Du kannst 1 Monster auf dem Spielfeld wählen; ändere es in die offene Verteidigungsposition und falls du dies tust und es kein „Magidolce“-Monster ist, kann es nicht angreifen, zusätzlich werden seine Effekte annulliert.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/08/08",
+  "species_id": 11,
+  "starchip": "3"
+}

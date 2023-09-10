@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 3,
+  "card_id": 16212,
+  "card_name": "氷河のアクア・マドール",
+  "card_name_label": "ひょうがのアクア・マドール",
+  "card_name_search": "ひょうがのあくあまどーる",
+  "card_pen_effect": "",
+  "card_text": "①：自分の通常モンスターが相手モンスターと戦闘を行うダメージステップ開始時に、手札のこのカードを相手に見せて発動できる。自分の手札を１枚選んで捨て、その自分のモンスターはその戦闘では破壊されない。②：このカードが相手モンスターと戦闘を行うダメージステップ開始時に、手札の通常モンスター１体を相手に見せて発動できる。自分の手札を１枚選んで捨て、その相手モンスターを破壊する。",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/04/17",
+  "species_id": 18,
+  "starchip": "6"
+}

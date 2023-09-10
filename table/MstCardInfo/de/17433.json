@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 4,
+  "card_id": 17433,
+  "card_name": "Kurikara Gottheitsinkarnation",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du alle offenen Monster auf dem Spielfeld, deren Effekte in diesem Spielzug in der Monsterzone deines Gegners aktiviert wurden, als Tribut anbietest. Erhält für jedes Monster, das als Tribut angeboten wurde, um diese Karte als Spezialbeschwörung zu beschwören, 1500 ATK. Während deiner End Phase: Du kannst 1 Monster im Friedhof deines Gegners wählen; beschwöre es als Spezialbeschwörung auf deine Spielfeldseite. Du kannst diesen Effekt von „Kurikara Gottheitsinkarnation“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/08/04",
+  "species_id": 17,
+  "starchip": "1"
+}

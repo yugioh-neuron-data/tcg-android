@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 5551,
+  "card_name": "Berceuse de l'Obéissance",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Payez 2000 LP et déclarez 1 nom de Carte Monstre ; votre adversaire regarde son Deck, révèle 1 des monstres déclarés s'il y en a, et choisit 1 de ces effets à appliquer.$N●Le monstre déclaré est ajouté à la main du joueur qui a activé cette carte.$N●Le joueur qui a activé cette carte Invoque Spécialement le monstre déclaré sur son Terrain en Position d'Attaque, en ignorant ses conditions d'Invocation.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/09/15",
+  "species_id": 24,
+  "starchip": "0"
+}

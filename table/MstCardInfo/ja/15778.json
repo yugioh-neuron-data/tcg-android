@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 15778,
+  "card_name": "ミュートリア連鎖応動",
+  "card_name_label": "ミュートリアれんさおうどう",
+  "card_name_search": "みゅーとりあれんさおうどう",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できず、このカード名の②の効果は１ターンに１度しか使用できない。①：このカードの発動時に、相手フィールドの効果モンスター１体を対象にできる。その場合、自分の墓地から「ミュートリア」モンスター１体を選んで除外し、対象のモンスターの効果をターン終了時まで無効にする。②：自分のレベル８以上の「ミュートリア」モンスターが戦闘で相手モンスターを破壊した時に発動できる。自分はデッキから１枚ドローする。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/09/25",
+  "species_id": 25,
+  "starchip": "0"
+}

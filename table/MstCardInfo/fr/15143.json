@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 15143,
+  "card_name": "Réveil des Bêtes Sacrées",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cette carte gagne ces effets selon le nombre de \"Uria, Seigneur des Flammes Aveuglantes\", \"Hamon, Seigneur du Tonnerre Fracassant\" et/ou \"Raviel, Empereur des Phantasmes\" de noms différents que vous contrôlez.$N●1+ : Chaque fois que votre adversaire Invoque Normalement ou Spécialement un ou plusieurs monstres : gagnez des LP égaux à l'ATK de ces monstres.$N●2+ : Annulez les effets activés des monstres contrôlés par votre adversaire.$N●3 : Les monstres envoyés au Cimetière de votre adversaire sont bannis à la place.$NUne fois durant votre tour, si vous contrôlez un monstre de Niveau 10 : vous pouvez ajouter 1 Piège Continu depuis votre Cimetière à votre main.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/07/09",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 16881,
+  "card_name": "Fantôruse ou Friandise",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si vous contrôlez une Magie de Terrain \"Fantôruse\" ou un Monstre Lien \"Fantôruse\" : vous pouvez cibler 1 monstre face recto contrôlé par votre adversaire ; votre adversaire peut payer 2000 LP pour faire devenir l'effet de cette carte \"Posez cette carte au lieu de l'envoyer au Cimetière après activation\", sinon, le reste de ce tour, le monstre face recto ne peut pas attaquer, ses effets sont annulés, et aussi, il est changé en Position de Défense face verso durant la End Phase. Vous ne pouvez activer qu'1 \"Fantôruse ou Friandise\" par tour.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/02/10",
+  "species_id": 25,
+  "starchip": "0"
+}

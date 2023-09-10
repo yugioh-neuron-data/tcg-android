@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 2,
+  "card_id": 8710,
+  "card_name": "A・ジェネクス・ベルフレイム",
+  "card_name_label": "アーリー・ジェネクス・ベルフレイム",
+  "card_name_search": "あーりーじぇねくすべるふれいむ",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上のモンスターが墓地へ送られる度に、このカードにジェネクスカウンターを１つ置く。また、相手の墓地のカードがゲームから除外される度に、このカードにジェネクスカウンターを２つ置く。このカードの攻撃力はフィールド上のジェネクスカウンターの数×１００ポイントアップする。このカードが戦闘によって破壊され墓地へ送られた時、このカードに乗っていたジェネクスカウンターの数×３００ポイントダメージを相手ライフに与える。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/01/21",
+  "species_id": 7,
+  "starchip": "4"
+}

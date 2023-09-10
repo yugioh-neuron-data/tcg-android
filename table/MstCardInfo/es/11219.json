@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 3,
+  "card_id": 11219,
+  "card_name": "Artistamigo Sapo Traidor",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Una vez por turno: puede seleccionar 1 monstruo boca arriba en el Campo; hasta el final de este turno intercambia su ATK y DEF en este momento.",
+  "card_text": "Una vez por turno, durante tu Battle Phase (excepto durante el Damage Step): puedes seleccionar 1 monstruo que controles; cambia su posición de batalla y, si lo haces, hasta el final de este turno intercambia su ATK y DEF en este momento.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2014/08/14",
+  "species_id": 14,
+  "starchip": "2"
+}

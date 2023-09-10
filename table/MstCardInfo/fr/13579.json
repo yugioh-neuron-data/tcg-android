@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 1,
+  "card_id": 13579,
+  "card_name": "Lapauila Mana, Élémentsabre",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Vous pouvez envoyer 2 autres monstres depuis votre main au Cimetière ; Invoquez Spécialement cette carte depuis votre main. Vous ne pouvez utiliser cet effet de \"Lapauila Mana, Élémentsabre\" qu'une fois par tour. Appliquez les effets suivants aux monstres \"Élémentsabre\" et \"Seigneur Élémentaire\" que vous contrôlez, selon les Attributs d'origine des monstres \"Élémentsabre\" envoyés au Cimetière pour activer l'effet de cette carte.$N●TERRE ou VENT : Non destructible au combat.$N●EAU ou FEU : Non destructible par des effets.$N●LUMIÈRE ou TÉNÈBRES : Votre adversaire ne peut pas le cibler avec des effets de carte.",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/05/03",
+  "species_id": 15,
+  "starchip": "6"
+}

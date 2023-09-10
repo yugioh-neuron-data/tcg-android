@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 9362,
+  "card_name": "Die goldenen Äpfel",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wenn du Kampfschaden erhältst, solange du keine Monster kontrollierst: Du erhältst LP in Höhe des Kampfschadens, den du erhalten hast, und falls du dies tust, beschwöre 1 „Malus-Spielmarke“ (Unterweltler/FINSTERNIS/Stufe 1/ATK ?/DEF ?) als Spezialbeschwörung. Ihre ATK/DEF entsprechen jeweils der Menge der LP, die du durch diesen Effekt erhalten hast.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/02/10",
+  "species_id": 25,
+  "starchip": "0"
+}

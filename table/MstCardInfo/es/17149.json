@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 17149,
+  "card_name": "Dinomorfia Rexterm",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Monstruo de Fusión \"Dinomorfia\" + 1 monstruo \"Dinomorfia\"$NTu adversario no puede activar los efectos de los monstruos que controla que tengan ATK mayor o igual que tus LP. Sólo puedes usar cada uno de los siguientes efectos de \"Dinomorfia Rexterm\" una vez por turno. (Efecto Rápido): puedes pagar la mitad de tus LP; el ATK de todos los monstruos que tu adversario controla en este momento se convierte en igual a tus LP, hasta el final de este turno. Si esta carta es destruida en batalla o por el efecto de una carta: puedes Invocar de Modo Especial 1 monstruo \"Dinomorfia\" de Nivel 6 o menor desde tu Cementerio.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/05/19",
+  "species_id": 9,
+  "starchip": "8"
+}

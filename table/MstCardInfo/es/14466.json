@@ -1,0 +1,23 @@
+{
+  "attack_power": "2900",
+  "attribute_id": 2,
+  "card_id": 14466,
+  "card_name": "Simorgh de Oscuridad",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Mientras esté boca arriba en el Campo, esta carta también tiene el Atributo VIENTO. Sólo puedes usar cada uno de los siguientes efectos de \"Simorgh de Oscuridad\" una vez por turno.$N●Si Invocas por Sacrificio un monstruo de OSCURIDAD o VIENTO: puedes Invocar esta carta de Modo Especial desde el Cementerio (si estaba allí cuando el monstruo fue Invocado por Sacrificio) o mano (aún si no lo estaba).$N●Cuando es activada una Carta Mágica/de Trampa o un efecto (Efecto Rápido): puedes Sacrificar 1 monstruo Bestia Alada de VIENTO; niega la activación y, si lo haces, destruye esa carta.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/07/26",
+  "species_id": 16,
+  "starchip": "8"
+}

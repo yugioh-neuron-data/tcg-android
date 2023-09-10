@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 12793,
+  "card_name": "Signe du Zodiaque",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Tous les monstres \"Zoodiaque\" que vous contrôlez gagnent 300 ATK/DEF. Les monstres contrôlés par votre adversaire ne peuvent pas cibler les monstres de Type Bête-Guerrier face recto que vous contrôlez (monstre de Type Bête-Guerrier que vous contrôlez avec la plus haute ATK exclu, et en cas d'égalité, vous choisissez) avec une attaque. Une fois par tour, si un ou plusieurs monstres \"Zoodiaque\" que vous contrôlez vont être détruits par un effet de carte, vous pouvez détruire 1 monstre dans votre main ou sur votre Terrain à la place d'1 monstre \"Zoodiaque\".",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/02/09",
+  "species_id": 24,
+  "starchip": "0"
+}

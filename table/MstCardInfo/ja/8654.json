@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 2,
+  "card_id": 8654,
+  "card_name": "月影龍クイラ",
+  "card_name_label": "つきかげりゅうクイラ",
+  "card_name_search": "つきかげりゅうくいら",
+  "card_pen_effect": "",
+  "card_text": "「スーパイ」＋チューナー以外のモンスター１体以上$N①：このカードが攻撃対象に選択された場合に発動する。攻撃モンスターの攻撃力の半分だけ自分のLPを回復する。②：フィールドのこのカードが破壊された場合、自分の墓地の「太陽龍インティ」１体を対象として発動できる。そのモンスターを特殊召喚する。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/11/14",
+  "species_id": 1,
+  "starchip": "6"
+}

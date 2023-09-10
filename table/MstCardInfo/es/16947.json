@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 5,
+  "card_id": 16947,
+  "card_name": "Dama Guerrera Novata",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando es declarado un ataque que involucra tu otro monstruo Guerrero y un monstruo boca arriba del adversario: puedes mandar al Cementerio esta carta en tu mano o Campo; ese monstruo del adversario pierde ATK igual a su ATK original, hasta el final de este turno. Puedes desterrar esta carta en tu Cementerio, y después seleccionar 1 monstruo Guerrero de TIERRA en tu Cementerio; añádelo a tu mano. Sólo puedes usar cada efecto de \"Dama Guerrera Novata\" una vez por turno.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/05/05",
+  "species_id": 15,
+  "starchip": "3"
+}

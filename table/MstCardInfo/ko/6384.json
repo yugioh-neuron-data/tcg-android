@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 5,
+  "card_id": 6384,
+  "card_name": "패트로이드",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "상대 필드 위에 세트되어 있는 카드를 1장 넘겨서, 확인한 후 원래대로 되돌린다. 이 효과는 1턴에 1번만 자신의 메인 페이즈에 발동할 수 있다.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/02/05",
+  "species_id": 7,
+  "starchip": "4"
+}

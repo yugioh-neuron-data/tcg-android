@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 4,
+  "card_id": 5017,
+  "card_name": "コマンド・ナイト",
+  "card_name_label": "コマンド・ナイト",
+  "card_name_search": "こまんどないと",
+  "card_pen_effect": "",
+  "card_text": "①：このカードがモンスターゾーンに存在する限り、自分フィールドの戦士族モンスターの攻撃力は４００アップする。②：自分フィールドに他のモンスターが存在する限り、相手はこのカードを攻撃対象に選択できない。",
+  "defense_power": "1900",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2001/10/25",
+  "species_id": 15,
+  "starchip": "4"
+}

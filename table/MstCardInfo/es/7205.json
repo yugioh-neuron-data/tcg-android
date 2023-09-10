@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 1,
+  "card_id": 7205,
+  "card_name": "AtrapaFlints",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Una vez por turno: puedes seleccionar 1 \"Flint\" en la Zona de Magia y Trampas; equípalo a esta carta. Durante tu Main Phase: puedes seleccionar 1 \"Flint\" equipado a esta carta, y 1 monstruo boca arriba en el Campo, excepto esta carta; equipa ese \"Flint\" a ese monstruo seleccionado. Esta carta sólo puede estar equipada con 1 \"Flint\". Mientras esté equipada con \"Flint\", esta carta no es afectada por el efecto de \"Flint\", y no puede ser destruida en batalla.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/08/15",
+  "species_id": 7,
+  "starchip": "4"
+}

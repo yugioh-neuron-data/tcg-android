@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 10210,
+  "card_name": "Puñetazo Afortunado",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Una vez por turno, cuando un monstruo de tu adversario declara un ataque: puedes lanzar una moneda 3 veces. Si el resultado son 3 Caras, roba 3 cartas, pero si el resultado son 3 Cruces, destruye esta carta. Si esta carta boca arriba en el Campo es destruida: pierde 6000 Life Points.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/08/23",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14309,
+  "card_name": "星遺物の胎導",
+  "card_name_label": "せいいぶつのたいどう",
+  "card_name_search": "せいいぶつのたいどう",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：以下の効果から１つを選択して発動できる。●手札からレベル９モンスター１体を特殊召喚する。●自分フィールドのレベル９モンスター１体を対象として発動できる。そのモンスターとは元々の種族・属性が異なるレベル９モンスター２体をデッキから特殊召喚する（同名カードは１枚まで）。この効果で特殊召喚したモンスターは攻撃できず、エンドフェイズに破壊される。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/01/12",
+  "species_id": 24,
+  "starchip": "0"
+}

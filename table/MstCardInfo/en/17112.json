@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 2,
+  "card_id": 17112,
+  "card_name": "Performapal Classikuriboh",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "When an opponent's monster declares a direct attack, this card is destroyed.",
+  "card_text": "If this card is destroyed by its own Pendulum Effect: End the Battle Phase. You can only use each of the following effects of \"Performapal Classikuriboh\" once per turn. You can discard this card, then target 1 card in your Pendulum Zone; its Pendulum Scale becomes 1 until the end of this turn. When you take battle damage while this card is in your GY: You can place this card in your Pendulum Zone.",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "8",
+  "pen_scale_r": "8",
+  "sales_at": "2023/06/22",
+  "species_id": 3,
+  "starchip": "1"
+}

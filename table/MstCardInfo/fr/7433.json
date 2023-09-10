@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 5,
+  "card_id": 7433,
+  "card_name": "Velociraptor Noir",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si cette carte attaque un monstre de votre adversaire, durant la Damage Step uniquement, cette carte gagne 400 ATK. Si cette carte est attaquée par un monstre de votre adversaire, durant la Damage Step uniquement, cette carte perd 400 ATK.",
+  "defense_power": "300",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/01/26",
+  "species_id": 9,
+  "starchip": "4"
+}

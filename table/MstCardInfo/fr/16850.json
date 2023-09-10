@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 16850,
+  "card_name": "Le Vampire Zombie",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2+ monstres de Niveau 8$NSi vous utilisez un ou plusieurs monstres avec un Niveau dont le propriétaire est votre adversaire pour l'Invocation Xyz de cette carte, traitez-les comme Niveau 8. Aucun joueur ne peut cibler cette carte avec des effets de monstres Invoqués Spécialement, sauf ceux Invoqués Spécialement depuis le Cimetière. Vous pouvez détacher 1 Matériel de cette carte ; chaque joueur envoie les 4 cartes du dessus de son Deck au Cimetière, puis si des monstres ont été envoyés à au moins l'un des Cimetières par cet effet, vous pouvez Invoquer Spécialement 1 de ces monstres sur votre Terrain. Vous ne pouvez utiliser cet effet de \"Le Vampire Zombie\" qu'une fois par tour.",
+  "defense_power": "2800",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/02/10",
+  "species_id": 2,
+  "starchip": "8"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 16034,
+  "card_name": "Carosello Maestoso Attrazione Prodigio",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Scegli come bersaglio 1 mostro \"Prodigioso\" che controlli o 1 mostro scoperto controllato dal tuo avversario; equipaggia questa carta a esso. Puoi applicare il seguente effetto, a seconda di quale giocatore controlla il mostro equipaggiato;$N●Tu: Il mostro equipaggiato guadagna 500 ATK. Se sta per essere distrutto in battaglia o dall'effetto di una carta, puoi invece mandare questa carta al Cimitero.$N●Il tuo avversario: Il mostro equipaggiato perde 500 ATK per ogni tua Trappola \"Attrazione\" equipaggiata a uno o più mostri.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/06/03",
+  "species_id": 25,
+  "starchip": "0"
+}

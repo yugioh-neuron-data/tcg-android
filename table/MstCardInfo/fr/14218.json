@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 1,
+  "card_id": 14218,
+  "card_name": "Signal du Guerrier",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Syntoniseur + 1+ monstre non-Syntoniseur$NUne fois par tour, durant la Standby Phase : placez 1 Compteur Signal sur chaque carte face recto dans la Zone Terrain, et aussi, placez-en 1 sur cette carte. Cette carte avec un ou plusieurs Compteurs Signal ne peut être détruite ni au combat ni par des effets de carte de votre adversaire. Une fois par tour : vous pouvez retirer 4, 7 ou 10 Compteurs Signal depuis le Terrain ; appliquez cet effet, selon le nombre retiré.$N●4 : Infligez 800 points de dommages à votre adversaire.$N●7 : Piochez 1 carte.$N●10 : Détruisez 1 carte sur le Terrain.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/04/04",
+  "species_id": 15,
+  "starchip": "7"
+}

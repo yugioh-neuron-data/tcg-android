@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 5,
+  "card_id": 7886,
+  "card_name": "Serpent Chaîne de Fer",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durant votre Main Phase, vous pouvez équiper cette carte à 1 monstre face recto contrôlé par votre adversaire. Ce monstre perd 800 points d'ATK et de DEF. Lorsqu'il est détruit au combat et envoyé au Cimetière, son contrôleur envoie un nombre de cartes égal à son Niveau du dessus de son Deck au Cimetière.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/11/18",
+  "species_id": 20,
+  "starchip": "3"
+}

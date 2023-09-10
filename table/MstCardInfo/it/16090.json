@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 5,
+  "card_id": 16090,
+  "card_name": "SiSolfaccordo Beautia",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Il tuo avversario non può attivare una Carta Magia/Trappola, o l'effetto di un mostro, quando uno o più tuoi Mostri Pendulum \"Solfaccordo\" vengono Evocati Pendulum.",
+  "card_text": "(Effetto Rapido): puoi scegliere come bersaglio 1 Mostro con Effetto controllato dal tuo avversario, o, se hai un Valore Pendulum pari nella tua Zona Pendulum, puoi invece scegliere come bersaglio 1 Magia/Trappola scoperta controllata dal tuo avversario; in questo turno, bandiscilo quando lascia il Terreno. Puoi utilizzare questo effetto di \"SiSolfaccordo Beautia\" una sola volta per turno. Una volta per turno, all'inizio del Damage Step, se questa carta combatte con un mostro con ATK pari o superiore al Valore Pendulum più basso nella tua Zona Pendulum x 300: distruggi quel mostro.",
+  "defense_power": "2400",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "2",
+  "pen_scale_r": "2",
+  "sales_at": "2021/05/06",
+  "species_id": 17,
+  "starchip": "7"
+}

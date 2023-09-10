@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 5,
+  "card_id": 12159,
+  "card_name": "Re Goyo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Tuner + 1 o più Mostri Synchro non-Tuner$NQuando questa carta dichiara un attacco su un mostro dell'avversario: questa carta guadagna 400 ATK per ogni Mostro Synchro TERRA di Tipo Guerriero che controlli, fino alla fine del Damage Step. Quando questa carta distrugge un mostro dell'avversario in battaglia e lo manda al Cimitero: puoi attivare 1 di questi effetti;$N●Evoca Specialmente quel mostro sul tuo Terreno.$N●Prendi il controllo di 1 mostro scoperto controllato dal tuo avversario.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/01/14",
+  "species_id": 15,
+  "starchip": "8"
+}

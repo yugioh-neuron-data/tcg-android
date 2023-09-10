@@ -1,0 +1,23 @@
+{
+  "attack_power": "5000",
+  "attribute_id": 2,
+  "card_id": 9042,
+  "card_name": "Dragon de la Vérité Corrompu",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Ni Invocable Normalement ni Posable. Uniquement Invocable Spécialement par son propre effet et non Invocable Spécialement autrement. Si un monstre \"Corrompu\" que vous contrôlez (\"Dragon de la Vérité Corrompu\" exclu) est détruit au combat ou par un effet de carte : vous pouvez payer la moitié de vos Life Points ; Invoquez Spécialement cette carte depuis votre main ou Cimetière. Il ne peut y avoir qu'1 monstre \"Corrompu\" sur le Terrain. S'il n'y a aucune Carte Magie de Terrain face recto sur le Terrain, détruisez cette carte. Si cette carte détruit un monstre de votre adversaire au combat : détruisez tous les monstres face recto contrôlés par votre adversaire.",
+  "defense_power": "5000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/10/25",
+  "species_id": 1,
+  "starchip": "12"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "200",
+  "attribute_id": 4,
+  "card_id": 10380,
+  "card_name": "英炎星－ホークエイ",
+  "card_name_label": "えいえんせい－ホークエイ",
+  "card_name_search": "えいえんせいほーくえい",
+  "card_pen_effect": "",
+  "card_text": "このカードが相手によって破壊された場合、デッキから「炎舞」と名のついた魔法カード１枚を選んで自分フィールド上にセットできる。また、自分フィールド上に「炎舞」と名のついた魔法・罠カードが存在する場合、自分フィールド上の全ての「炎星」と名のついたモンスターの攻撃力・守備力は５００ポイントアップする。",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/11/17",
+  "species_id": 12,
+  "starchip": "3"
+}

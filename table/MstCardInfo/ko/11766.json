@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 1,
+  "card_id": 11766,
+  "card_name": "SNo.39 유토피아 더 라이트닝",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "빛 속성 레벨 5 몬스터 × 3$N이 카드는 자신 필드의 랭크 4 인 \"유토피아\" 몬스터 위에 겹치고 엑시즈 소환할 수도 있다. 이 카드는 엑시즈 소환의 소재로 할 수 없다. ①: 이 카드가 전투를 실행할 경우, 상대는 데미지 스텝 종료시까지 카드의 효과를 발동할 수 없다. ②: 이 카드가 \"유토피아\" 몬스터를 엑시즈 소재로 하고 있을 경우, 이 카드가 상대 몬스터와 전투를 실행하는 데미지 계산시에, 이 카드의 엑시즈 소재를 2개 제거하고 발동할 수 있다. 이 카드의 공격력은 그 데미지 계산시에만 5000 이 된다.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/06/20",
+  "species_id": 15,
+  "starchip": "5"
+}

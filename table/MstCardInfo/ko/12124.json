@@ -1,0 +1,23 @@
+{
+  "attack_power": "2300",
+  "attribute_id": 2,
+  "card_id": 12124,
+  "card_name": "황혼의 중인－니치린",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드는 룰상 \"첩자\" 카드로도 취급한다. ①: 1턴에 1번, 패에서 \"첩자\" 몬스터 1장을 버리고, 이하의 효과에서 1개를 선택하여 발동할 수 있다. 이 효과는 상대 턴에도 발동할 수 있다.$N●이 턴에, 자신 필드의 \"첩자\" 몬스터 및 \"인법\" 카드는 전투 / 효과로는 파괴되지 않는다.$N●자신 필드의 \"첩자\" 몬스터 1장을 고르고, 그 공격력을 턴 종료시까지 1000 올린다.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/02/01",
+  "species_id": 15,
+  "starchip": "6"
+}

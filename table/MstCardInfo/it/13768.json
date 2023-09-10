@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13768,
+  "card_name": "Zero Extra Link",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Attiva questa carta scegliendo come bersaglio 1 Mostro Link che controlli che è co-linkato a un Mostro Link nella Zona Mostri Extra. Il mostro scelto come bersaglio guadagna 800 ATK per ogni Mostro Link sul Terreno. Se un Mostro Link viene Evocato Link utilizzando il mostro scelto come bersaglio come materiale: quel Mostro Link guadagna lo stesso aumento di ATK che aveva il mostro scelto come bersaglio, fino alla fine di questo turno (anche se questa carta lascia il Terreno). Dopo il calcolo dei danni, se il mostro scelto come bersaglio ha attaccato: distruggi questa carta.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/07/26",
+  "species_id": 24,
+  "starchip": "0"
+}

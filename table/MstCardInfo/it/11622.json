@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 5,
+  "card_id": 11622,
+  "card_name": "Trasportatore Synchron",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante la tua Main Phase, puoi Evocare Normalmente 1 mostro \"Synchron\" in aggiunta alla tua Evocazione Normale/Posizionamento. (Puoi guadagnare questo effetto una sola volta per turno.) Se un altro mostro \"Synchron\" viene mandato al tuo Cimitero come materiale per l'Evocazione Synchro di un Mostro Synchro Guerriero o Macchina, mentre tu controlli questa carta: puoi Evocare Specialmente 1 \"Segna-Synchron\" (Macchina/TERRA/Livello 2/ATK 1000/DEF 0). Puoi utilizzare questo effetto di \"Trasportatore Synchron\" una sola volta per turno.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/08/27",
+  "species_id": 7,
+  "starchip": "2"
+}

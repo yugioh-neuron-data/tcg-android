@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 8205,
+  "card_name": "Perceuse et Tronçonneuse",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Équipable uniquement à \"Dragon Électromécanique\" ou à un monstre \"Morphtronique\" de Type Machine de Niveau 4 ou plus que vous contrôlez. Lorsque le monstre est équipé :$N ● Durant votre tour : Il gagne 1000 points d'ATK. S'il attaque, les effets de la cible de l'attaque qui sont activés ou appliqués sur le Terrain sont annulés durant la Battle Phase.$N ● Durant le tour de votre adversaire : Votre adversaire ne peut pas sélectionner un autre monstre que le monstre équipé comme cible d'une attaque. Un monstre de l'adversaire qui combat le monstre équipé est détruit à la fin de la Damage Step.",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/06/04",
+  "species_id": 24,
+  "starchip": "0"
+}

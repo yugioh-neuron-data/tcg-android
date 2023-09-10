@@ -1,0 +1,23 @@
+{
+  "attack_power": "2100",
+  "attribute_id": 3,
+  "card_id": 6419,
+  "card_name": "巨大戦艦 クリスタル・コア",
+  "card_name_label": "きょだいせんかん クリスタル・コア",
+  "card_name_search": "きょだいせんかんくりすたるこあ",
+  "card_pen_effect": "",
+  "card_text": "①：このカードが召喚に成功した場合に発動する。このカードにカウンターを３つ置く。②：このカードは戦闘では破壊されない。③：１ターンに１度、相手フィールドの表側攻撃表示モンスター１体を対象として発動できる。その相手の表側攻撃表示モンスターを表側守備表示にする。④：このカードが戦闘を行ったダメージステップ終了時に発動する。このカードのカウンターを１つ取り除く。取り除けない場合このカードを破壊する。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/05/26",
+  "species_id": 7,
+  "starchip": "5"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 5945,
+  "card_name": "Sexto Sentido",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Declara 2 números del 1 al 6, y después tu adversario lanza un dado de seis caras y si el resultado es uno de los números que declaraste, puedes robar esa cantidad de cartas. De otro modo, manda al Cementerio una cantidad de cartas en la parte superior de tu Deck igual al resultado.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/10/10",
+  "species_id": 25,
+  "starchip": "0"
+}

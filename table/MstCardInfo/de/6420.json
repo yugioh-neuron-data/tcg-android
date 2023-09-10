@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 2,
+  "card_id": 6420,
+  "card_name": "Gigant Kozaky",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls sich kein offenes „Kozaky“ auf dem Spielfeld befindet, zerstöre diese Karte. Falls diese offene Karte auf dem Spielfeld zerstört wird, füge den Life Points des aktuellen Beherrschers Schaden in Höhe der Grund-ATK dieser Karte zu.",
+  "defense_power": "2400",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/08/01",
+  "species_id": 3,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "900",
+  "attribute_id": 5,
+  "card_id": 18789,
+  "card_name": "レボリューション・シンクロン",
+  "card_name_label": "レボリューション・シンクロン",
+  "card_name_search": "れぼりゅーしょんしんくろん",
+  "card_pen_effect": "",
+  "card_text": "このカード名の、①の効果は１ターンに１度しか使用できず、②の効果はデュエル中に１度しか使用できない。$N①：「パワー・ツール」Sモンスターまたはレベル７・８のドラゴン族SモンスターをS召喚する場合、手札のこのカードもS素材にできる。$N②：このカードが墓地に存在し、自分フィールドにレベル７以上のSモンスターが存在する場合に発動できる。自分のデッキの一番上のカードを墓地へ送り、このカードを特殊召喚する。この効果で特殊召喚したこのカードのレベルは１になる。",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/04/22",
+  "species_id": 7,
+  "starchip": "3"
+}

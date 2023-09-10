@@ -1,0 +1,23 @@
+{
+  "attack_power": "700",
+  "attribute_id": 1,
+  "card_id": 12069,
+  "card_name": "Mecanismo Armazón-PSÍ Beta",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "No puede ser Invocada de Modo Normal/Colocada. Debe ser Invocado de Modo Especial por efecto de una carta, y no puede ser Invocado de Modo Especial de otra forma. Cuando un monstruo de tu adversario declara un ataque mientras tú no controlas monstruos: puedes Invocar de Modo Especial esta carta desde tu mano, así como 1 \"Conductor de Armazón-PSÍ\" desde tu mano, Deck o Cementerio y, si lo haces, destruye al monstruo atacante, y después termina la Battle Phase. Durante la End Phase, destierra a los monstruos boca arriba Invocados de Modo Especial por este efecto.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 30,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/10/01",
+  "species_id": 21,
+  "starchip": "1"
+}

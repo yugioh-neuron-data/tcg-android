@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 6,
+  "card_id": 12910,
+  "card_name": "白翼の魔術師",
+  "card_name_label": "はくよくのまじゅつし",
+  "card_name_search": "はくよくのまじゅつし",
+  "card_pen_effect": "①：１ターンに１度、自分フィールドの魔法使い族・闇属性モンスターを対象として発動した効果を無効にできる。その後、このカードを破壊する。",
+  "card_text": "このカードはルール上「シンクロ・ドラゴン」カードとしても扱う。P召喚したこのカードは、S召喚に使用された場合に除外される。",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 33,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2016/12/23",
+  "species_id": 18,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "900",
+  "attribute_id": 2,
+  "card_id": 14832,
+  "card_name": "Geistertrick-Fee",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Kann nicht als Normalbeschwörung beschworen werden, es sei denn, du kontrollierst ein „Geistertrick“-Monster. Einmal pro Spielzug: Du kannst diese Karte in die verdeckte Verteidigungsposition ändern. Wenn diese Karte aufgedeckt wird: Du kannst 1 „Geistertrick“-Karte in deinem Friedhof wählen; setze die Karte (aber verbanne sie, wenn sie das Spielfeld verlässt), dann kannst du offene Monster, die dein Gegner kontrolliert, bis zur Anzahl der gesetzten Karten, die du kontrollierst, in die verdeckte Verteidigungsposition ändern.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/01/30",
+  "species_id": 18,
+  "starchip": "2"
+}

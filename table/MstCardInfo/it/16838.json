@@ -1,0 +1,23 @@
+{
+  "attack_power": "-1",
+  "attribute_id": 2,
+  "card_id": 16838,
+  "card_name": "Darton la Mostruosità Meccanica",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Una volta per turno, durante la tua Main Phase: puoi controllare la differenza tra l'ATK attuale e originale di ogni mostro sul Terreno, fare la somma di quelle differenze, e far diventare l'ATK originale di questo mostro quella somma, fino alla fine del prossimo turno del tuo avversario.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/02/10",
+  "species_id": 7,
+  "starchip": "1"
+}

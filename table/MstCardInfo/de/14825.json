@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 5,
+  "card_id": 14825,
+  "card_name": "Chronomale Tuspa-Rakete",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 „Chronomal“-Monster von deinem Deck oder Extra Deck auf den Friedhof legen und dann 1 offenes Monster auf dem Spielfeld wählen; es verliert ATK in Höhe der Stufe / des Rangs des auf den Friedhof gelegten Monsters x 200. Ein „Nummer“-Xyz-Monster, für dessen Beschwörung diese Karte auf dem Spielfeld als Material verwendet wurde, erhält diesen Effekt.$N●Diese Karte kann während jeder Battle Phase bis zu 2 Angriffe gegen Monster durchführen.$NDu kannst jeden Effekt von „Chronomale Tuspa-Rakete“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/01/30",
+  "species_id": 6,
+  "starchip": "4"
+}

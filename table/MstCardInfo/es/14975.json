@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 2,
+  "card_id": 14975,
+  "card_name": "Rey Mórfico Stygi-Gel",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si esta carta es Invocada de Modo Normal o Especial: puedes seleccionar otro monstruo boca arriba en el Campo; por el resto de este turno, no puedes Invocar monstruos de Modo Especial desde el Deck Extra, excepto Monstruos de Sincronía, y además cambia el Nivel de esta carta al Nivel de ese objetivo y, si lo haces, gana LP iguales al Nivel de ese objetivo x 200. Durante tu Main Phase: puedes Invocar de Modo Especial, desde tu mano, 1 monstruo Demonio con Nivel menor al de esta carta. Sólo puedes usar este efecto de \"Rey Mórfico Stygi-Gel\" una vez por turno.",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/07/08",
+  "species_id": 3,
+  "starchip": "1"
+}

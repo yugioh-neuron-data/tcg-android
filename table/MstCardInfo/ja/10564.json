@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 2,
+  "card_id": 10564,
+  "card_name": "ガガガキッド",
+  "card_name_label": "ガガガキッド",
+  "card_name_search": "がががきっど",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上に「ガガガキッド」以外の「ガガガ」と名のついたモンスターが存在する場合、このカードは手札から特殊召喚できる。この方法で特殊召喚に成功した時、自分フィールド上の「ガガガ」と名のついたモンスター１体を選択し、このカードのレベルを選択したモンスターと同じレベルにする事ができる。この効果を発動するターン、自分はバトルフェイズを行えない。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/03/16",
+  "species_id": 18,
+  "starchip": "2"
+}

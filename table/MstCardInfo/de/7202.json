@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 2,
+  "card_id": 7202,
+  "card_name": "Verdammungsschamane",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Diese Karte wird als ein Normales Monster behandelt, solange sie offen auf dem Spielfeld oder im Friedhof liegt. Solange diese Karte ein Normales Monster auf dem Spielfeld ist, kannst du sie als Normalbeschwörung beschwören, damit sie ein Effektmonster mit diesem Effekt wird.$N●Einmal pro Spielzug: Du kannst 1 Monster vom Typ Unterweltler als Spezialbeschwörung von deiner Hand oder dem Friedhof eines beliebigen Spielers beschwören. Wenn diese Karte das Spielfeld verlässt, zerstöre alle Monster vom Typ Unterweltler, die durch diesen Effekt als Spezialbeschwörung beschworen wurden.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 9,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/08/15",
+  "species_id": 18,
+  "starchip": "6"
+}

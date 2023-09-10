@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10543,
+  "card_name": "炎舞－「玉衝」",
+  "card_name_label": "えんぶ－「ギョッコウ」",
+  "card_name_search": "えんぶぎょっこう",
+  "card_pen_effect": "",
+  "card_text": "このカードの発動時に、相手フィールド上にセットされた魔法・罠カード１枚を選択する。このカードの発動に対して相手は選択されたカードを発動できない。このカードがフィールド上に存在する限り、選択されたカードは発動できない。また、このカードがフィールド上に存在する限り、自分フィールド上の獣戦士族モンスターの攻撃力は１００ポイントアップする。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/02/16",
+  "species_id": 24,
+  "starchip": "0"
+}

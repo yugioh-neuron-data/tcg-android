@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 5,
+  "card_id": 15316,
+  "card_name": "バラガール",
+  "card_name_label": "バラガール",
+  "card_name_search": "ばらがーる",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：自分フィールドの表側表示の植物族モンスターが墓地へ送られた場合に発動できる。このカードを手札から特殊召喚する。②：このカードが墓地に存在し、フィールドに植物族モンスターが存在する場合に発動できる。このカードを手札に加える。",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/10/03",
+  "species_id": 13,
+  "starchip": "3"
+}

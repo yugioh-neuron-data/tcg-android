@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13801,
+  "card_name": "Invocadora de Dados",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Paga 1000 LP; lanza un dado de seis caras y aplica el resultado.$N●1 ó 2: Inmediatamente después de que se resuelva este efecto, puedes Invocar 1 monstruo de Modo Normal.$N●3 ó 4: Puedes Invocar, desde tu Cementerio, 1 monstruo de Modo Especial.$N●5 ó 6: Puedes Invocar de Modo Especial, desde tu mano, 1 monstruo de Nivel 5 o mayor.$NSólo puedes activar 1 \"Invocadora de Dados\" por turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/06/28",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 5,
+  "card_id": 12081,
+  "card_name": "ゴヨウ・プレデター",
+  "card_name_label": "ゴヨウ・プレデター",
+  "card_name_search": "ごようぷれでたー",
+  "card_pen_effect": "",
+  "card_text": "チューナー＋チューナー以外のモンスター１体以上$N「ゴヨウ・プレデター」の効果は１ターンに１度しか使用できない。①：このカードが戦闘で相手モンスターを破壊し墓地へ送った時に発動できる。そのモンスターを自分フィールドに特殊召喚する。この効果で特殊召喚したモンスターがプレイヤーに与える戦闘ダメージは半分になる。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/08/22",
+  "species_id": 15,
+  "starchip": "6"
+}

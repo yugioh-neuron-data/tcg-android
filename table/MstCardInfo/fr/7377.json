@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 5,
+  "card_id": 7377,
+  "card_name": "Brise Armure",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Une fois par tour, vous pouvez équiper cette carte à un monstre de Type Guerrier que vous contrôlez, OU la déséquiper pour Invoquer Spécialement cette carte en Position d'Attaque face recto. Tant que cette carte est équipée à un monstre par cet effet, lorsque ce monstre inflige des dommages de combat à votre adversaire, détruisez 1 carte sur le Terrain (un monstre ne peut être équipé qu'avec 1 Monstre d'Union à la fois. Si le monstre équipé doit être détruit au combat, cette carte est détruite à la place).",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 8,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/01/22",
+  "species_id": 15,
+  "starchip": "3"
+}

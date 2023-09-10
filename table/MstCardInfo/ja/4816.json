@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 4816,
+  "card_name": "悪魔のサイコロ",
+  "card_name_label": "あくまのサイコロ",
+  "card_name_search": "あくまのさいころ",
+  "card_pen_effect": "",
+  "card_text": "①：サイコロを１回振る。相手フィールドのモンスターの攻撃力・守備力は、ターン終了時まで出た目の数×１００ダウンする。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2001/07/05",
+  "species_id": 25,
+  "starchip": "0"
+}

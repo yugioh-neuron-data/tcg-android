@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 9535,
+  "card_name": "パワーアップ・コネクター",
+  "card_name_label": "パワーアップ・コネクター",
+  "card_name_search": "ぱわーあっぷこねくたー",
+  "card_pen_effect": "",
+  "card_text": "発動後このカードは装備カードとなり、自分フィールド上に表側表示で存在する「D」と名のついたモンスター１体に装備する。装備モンスターは攻撃をする事ができない。この効果で装備された時、装備モンスター以外のフィールド上に表側表示で存在するモンスター１体を選択する。選択したモンスターの攻撃力は装備モンスターの攻撃力分アップする。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/02/11",
+  "species_id": 25,
+  "starchip": "0"
+}

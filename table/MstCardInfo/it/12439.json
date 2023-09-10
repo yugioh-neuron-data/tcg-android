@@ -1,0 +1,23 @@
+{
+  "attack_power": "400",
+  "attribute_id": 2,
+  "card_id": 12439,
+  "card_name": "Gomma da Sintonizzare",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Puoi scegliere come bersaglio 1 mostro scoperto che controlli; quel mostro scoperto viene considerato come un Tuner in questo turno. Puoi utilizzare questo effetto di \"Gomma da Sintonizzare\" una sola volta per turno. Puoi attaccare solo con Mostri Synchro durante il turno in cui attivi questo effetto. Durante il turno di qualsiasi giocatore, quando viene attivata una carta o un effetto che sceglie come bersaglio esattamente 1 Mostro Synchro che controlli (e nessuna altra carta): puoi bandire questa carta dal tuo Cimitero; annulla l'attivazione.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/08/04",
+  "species_id": 3,
+  "starchip": "1"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 5,
+  "card_id": 18159,
+  "card_name": "Armadura Bio-Insecto",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si esta carta está en tu mano o Cementerio y no controlas \"Armadura Bio-Insecto\": puedes seleccionar 1 monstruo Insecto que controles; equípale esta carta, pero destiérralo cuando deje el Campo, y además destierra esta Carta de Equipo cuando deje el Campo. Sólo puedes usar este efecto de \"Armadura Bio-Insecto\" una vez por turno. El monstruo equipado gana 1500 ATK/2000 DEF, sólo durante la Battle Phase y Main Phase 2.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/02/06",
+  "species_id": 10,
+  "starchip": "5"
+}

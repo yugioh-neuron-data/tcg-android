@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 6858,
+  "card_name": "サイバー・シャドー・ガードナー",
+  "card_name_label": "サイバー・シャドー・ガードナー",
+  "card_name_search": "さいばーしゃどーがーどなー",
+  "card_pen_effect": "",
+  "card_text": "相手のメインフェイズ時に発動できる。このカードは発動後モンスターカード（機械族・地・星４・攻／守？）となり、自分のモンスターカードゾーンに特殊召喚する。このカードを攻撃対象とした相手モンスターの攻撃宣言時、このカードの攻撃力・守備力は相手攻撃モンスターと同じ数値になる。このカードは相手のエンドフェイズ時に魔法＆罠カードゾーンにセットされる。このカードは罠カードとしても扱う。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/08/10",
+  "species_id": 25,
+  "starchip": "0"
+}

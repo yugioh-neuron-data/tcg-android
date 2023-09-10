@@ -1,0 +1,23 @@
+{
+  "attack_power": "2700",
+  "attribute_id": 2,
+  "card_id": 10512,
+  "card_name": "魔導獣士 ルード",
+  "card_name_label": "まどうじゅうし　ルード",
+  "card_name_search": "まどうじゅうしるーど",
+  "card_pen_effect": "",
+  "card_text": "このカードが魔法使い族モンスターの効果によって特殊召喚に成功した時、ゲームから除外されている自分の「魔導書」と名のついた魔法カードを任意の数だけ選択して発動できる。選択したカードをデッキに戻し、残りの「魔導書」と名のついた魔法カードを墓地に戻す。「魔導獣士 ルード」の効果は１ターンに１度しか使用できない。",
+  "defense_power": "1700",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/02/16",
+  "species_id": 18,
+  "starchip": "8"
+}

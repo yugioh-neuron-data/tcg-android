@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 2,
+  "card_id": 12911,
+  "card_name": "Magicien Poison Violet",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Une fois par tour, si votre monstre TÉNÈBRES de Type Magicien combat, avant le calcul des dommages : vous pouvez activer cet effet ; le monstre gagne 1200 ATK (jusqu'à la fin de la Damage Step), puis détruisez cette carte.",
+  "card_text": "(Cette carte est toujours traitée comme une carte \"Dragon Fusion\".)$NSi cette carte est détruite au combat ou par un effet de carte : vous pouvez cibler 1 carte face recto sur le Terrain ; détruisez-la.",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2017/06/22",
+  "species_id": 18,
+  "starchip": "4"
+}

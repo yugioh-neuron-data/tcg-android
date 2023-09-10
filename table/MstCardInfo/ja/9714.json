@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 2,
+  "card_id": 9714,
+  "card_name": "暗黒界の導師 セルリ",
+  "card_name_label": "あんこくかいのどうし セルリ",
+  "card_name_search": "あんこくかいのどうしせるり",
+  "card_pen_effect": "",
+  "card_text": "①：このカードが効果で手札から墓地へ捨てられた場合に発動する。このカードを相手フィールドに守備表示で特殊召喚する。②：このカードが「暗黒界」カードの効果で特殊召喚に成功した場合に発動する。相手は自身の手札を１枚選んで捨てる。",
+  "defense_power": "300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/06/18",
+  "species_id": 3,
+  "starchip": "1"
+}

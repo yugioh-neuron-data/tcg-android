@@ -1,0 +1,23 @@
+{
+  "attack_power": "2700",
+  "attribute_id": 4,
+  "card_id": 10906,
+  "card_name": "Sylvanischer Einsiedlerbaum",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Einmal pro Spielzug: Du kannst die oberste Karte deines Decks ausgraben und falls es ein Monster vom Typ Pflanze ist, lege sie auf den Friedhof und falls du dies tust, ziehe 1 Karte. Lege sie andernfalls unter dein Deck. Falls diese Karte durch einen Karteneffekt vom Deck ausgegraben und auf den Friedhof gelegt wird: Sieh dir die bis zu 3 obersten Karten deines Decks an, dann lege sie in beliebiger Reihenfolge auf das Deck.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/01/24",
+  "species_id": 13,
+  "starchip": "8"
+}

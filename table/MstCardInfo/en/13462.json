@@ -1,0 +1,23 @@
+{
+  "attack_power": "-1",
+  "attribute_id": 1,
+  "card_id": 13462,
+  "card_name": "Odd-Eyes Revolution Dragon",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "You cannot Pendulum Summon monsters, except Dragon monsters. This effect cannot be negated. You can target 1 Dragon Fusion, Synchro, or Xyz Monster in your GY; destroy this card, and if you do, Special Summon that target.",
+  "card_text": "Cannot be Normal Summoned/Set. Must be Pendulum Summoned (from your hand), or be Special Summoned (from your hand) by Tributing 3 Dragon monsters (1 Fusion, 1 Synchro, and 1 Xyz). You can discard this card and pay 500 LP: Add 1 Level 8 or lower Dragon Pendulum Monster from your Deck to your hand. Gains ATK/DEF equal to half of your opponent's LP. Once per turn: You can pay half your LP; shuffle all other cards from the field and the GYs into the Deck.",
+  "defense_power": "-1",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 40,
+  "pen_scale_l": "12",
+  "pen_scale_r": "12",
+  "sales_at": "2020/08/07",
+  "species_id": 1,
+  "starchip": "12"
+}

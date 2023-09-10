@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 2,
+  "card_id": 13356,
+  "card_name": "Legendäres Geheimnis der Sechs Samurai",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wenn du ein oder mehr „Geheime Sechs Samurai“-Monster als Normal- oder Spezialbeschwörung beschwörst (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Du kannst diesen Effekt von „Legendäres Geheimnis der Sechs Samurai“ nur einmal pro Spielzug verwenden. Einmal pro Spielzug: Du kannst 1 „Sechs Samurai“-Monster der Stufe 4 oder niedriger von deinem Friedhof verbannen; bis zum Ende dieses Spielzugs werden Eigenschaft, Stufe und ATK/DEF dieser Karte dieselben wie die des verbannten Monsters.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/01/31",
+  "species_id": 15,
+  "starchip": "4"
+}

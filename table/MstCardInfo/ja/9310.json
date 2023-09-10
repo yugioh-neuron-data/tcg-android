@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 1,
+  "card_id": 9310,
+  "card_name": "極星將テュール",
+  "card_name_label": "きょくせいしょうテュール",
+  "card_name_search": "きょくせいしょうてゅーる",
+  "card_pen_effect": "",
+  "card_text": "フィールド上にこのカード以外の「極星」と名のついたモンスターが表側表示で存在しない場合、このカードを破壊する。このカードがフィールド上に表側表示で存在する限り、相手は「極星將テュール」以外の「極星」と名のついたモンスターを攻撃対象に選択する事はできない。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/11/13",
+  "species_id": 15,
+  "starchip": "4"
+}

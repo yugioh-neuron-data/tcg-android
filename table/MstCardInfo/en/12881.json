@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 5,
+  "card_id": 12881,
+  "card_name": "Performapal Ballad",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Once per turn, at the start of the Damage Step, when your \"Performapal\" monster battles an opponent's face-up monster: You can make that opponent's monster lose 600 ATK (even if this card leaves the field).",
+  "card_text": "If your \"Performapal\" monster attacked, after damage calculation: You can target 1 face-up monster your opponent controls; that target loses ATK equal to the ATK of that \"Performapal\" monster.",
+  "defense_power": "1100",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "2",
+  "pen_scale_r": "2",
+  "sales_at": "2017/05/26",
+  "species_id": 13,
+  "starchip": "3"
+}

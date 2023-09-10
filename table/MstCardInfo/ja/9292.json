@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 5,
+  "card_id": 9292,
+  "card_name": "クラスター・ペンデュラム",
+  "card_name_label": "クラスター・ペンデュラム",
+  "card_name_search": "くらすたーぺんでゅらむ",
+  "card_pen_effect": "",
+  "card_text": "①：このカードが召喚に成功した時に発動できる。相手フィールドのモンスターの数まで、自分フィールドに「ペンデュラム・トークン」（機械族・地・星１・攻／守０）を特殊召喚する。",
+  "defense_power": "300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/11/13",
+  "species_id": 7,
+  "starchip": "1"
+}

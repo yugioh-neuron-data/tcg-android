@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 16516,
+  "card_name": "Signore della Prigione Celeste",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante la tua Main Phase: puoi attivare questo effetto; questa carta nella tua mano diventa rivelata fino alla fine del turno del tuo avversario. Mentre questa carta è rivelata da questo effetto, le carte Posizionate sul Terreno non possono essere distrutte dagli effetti delle carte. Se una Carta Magia/Trappola Posizionata viene attivata (eccetto durante il Damage Step): puoi Evocare Specialmente questa carta dalla tua mano, poi, se hai attivato questo effetto mentre questa carta era rivelata, puoi rivelare e Posizionare 1 Magia/Trappola direttamente dal tuo Deck, ma bandiscila durante la End Phase del prossimo turno. Puoi utilizzare solo 1 effetto di \"Signore della Prigione Celeste\" per turno, e solo una volta in quel turno.",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/11/04",
+  "species_id": 6,
+  "starchip": "10"
+}

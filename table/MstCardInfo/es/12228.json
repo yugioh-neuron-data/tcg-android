@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 2,
+  "card_id": 12228,
+  "card_name": "D/D Orthros",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Una vez por turno: puedes seleccionar 1 Carta Mágica/de Trampa en el Campo y otra carta \"D/D\" o \"Contrato Oscuro\" que controles; destrúyelas.",
+  "card_text": "Cuando recibes daño de batalla o efecto: puedes Invocar esta carta de Modo Especial desde tu mano. Si esta carta es Invocada de Modo Especial a tu Campo, por el resto de este turno no puedes Invocar monstruos de Modo Especial, excepto Monstruo de Tipo Demonio.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 33,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2017/01/19",
+  "species_id": 3,
+  "starchip": "4"
+}

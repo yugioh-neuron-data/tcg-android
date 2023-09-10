@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 14325,
+  "card_name": "Effondrement de l'Héritage du Monde",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Vous pouvez bannir 1 monstre \"Héritage du Monde\" depuis votre main, Cimetière ou Terrain face recto, puis ciblez 1 Monstre Lien sur le Terrain ; il gagne une ATK égale à l'ATK d'origine du monstre banni (même si cette carte quitte le Terrain). Si un ou plusieurs Monstres Lien que vous contrôlez sont détruits au combat ou par un effet de carte de l'adversaire tant que cette carte est dans votre Cimetière : vous pouvez bannir cette carte ; Invoquez Spécialement 1 Monstre Lien Cyberse depuis votre Cimetière. Vous ne pouvez utiliser chaque effet de \"Effondrement de l'Héritage du Monde\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/05/02",
+  "species_id": 25,
+  "starchip": "0"
+}

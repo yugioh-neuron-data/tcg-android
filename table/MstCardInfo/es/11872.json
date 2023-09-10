@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 2,
+  "card_id": 11872,
+  "card_name": "Dragonox, el Guerrero Fortalecido",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Cuando un monstruo de tu adversario declara un ataque: puedes destruir esta carta, y después termina la Battle Phase.",
+  "card_text": "Una vez por turno: puedes descartar 1 carta, y después selecciona 1 monstruo de Tipo Guerrero o Lanzador de Conjuros con 2000 ATK o menor en tu Cementerio; Invócalo de Modo Especial en Posición de Defensa boca abajo.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "7",
+  "pen_scale_r": "7",
+  "sales_at": "2016/09/01",
+  "species_id": 15,
+  "starchip": "4"
+}

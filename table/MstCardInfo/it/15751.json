@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15751,
+  "card_name": "Scalinata verso Il Favoloso Reame",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Quando questa carta viene attivata: puoi mandare 1 mostro \"Il Favoloso\" dal tuo Deck al Cimitero. Puoi scegliere come bersaglio 1 mostro \"Il Favoloso\" nel tuo Cimitero; scarta 2 carte e, se lo fai, aggiungi quel mostro alla tua mano. Puoi utilizzare questo effetto di \"Scalinata verso Il Favoloso Reame\" una sola volta per turno. Se un tuo mostro \"Il Favoloso\" attacca un mostro dell'avversario e tu hai meno carte nella tua mano del tuo avversario, il tuo mostro guadagna ATK pari alla differenza nel numero di carte x 200, solamente durante il calcolo dei danni. Puoi attivare solo 1 \"Scalinata verso Il Favoloso Reame\" per turno.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/02/04",
+  "species_id": 24,
+  "starchip": "0"
+}

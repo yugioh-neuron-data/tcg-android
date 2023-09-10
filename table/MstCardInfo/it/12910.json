@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 6,
+  "card_id": 12910,
+  "card_name": "Maga Ala Bianca",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Una volta per turno, quando si risolve una carta o un effetto attivato che sceglie come bersaglio un mostro OSCURITÀ di Tipo Incantatore che controlli, annulla quell'effetto, poi distruggi questa carta.",
+  "card_text": "(Questa carta viene sempre considerata come una carta \"Drago Synchro\".)$NSe questa carta Evocata Pendulum viene utilizzata per una Synchro Evocazione, bandiscila.",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 33,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2017/06/22",
+  "species_id": 18,
+  "starchip": "4"
+}

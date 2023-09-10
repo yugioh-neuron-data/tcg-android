@@ -1,0 +1,23 @@
+{
+  "attack_power": "4600",
+  "attribute_id": 2,
+  "card_id": 16514,
+  "card_name": "Maschinenwesen Ruinier-Streitmacht",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (von deinem Friedhof) beschworen werden, indem du Maschine-Monster, deren gemeinsame Stufe 12 oder mehr entspricht, von deinem Friedhof verbannst. Wenn dein Gegner während der Battle Phase eine Karte oder einen Effekt aktiviert (Schnelleffekt): Du kannst die Hälfte deiner LP zahlen; annulliere jene Aktivierung und falls du dies tust, halbiere die LP deines Gegners. Falls diese Karte durch Kampf oder einen Karteneffekt zerstört wird: Du kannst bis zu 3 deiner verbannten „Maschinenwesen“-Monster, deren gemeinsame Stufe 12 oder weniger entspricht, als Spezialbeschwörung beschwören. Du kannst jeden Effekt von „Maschinenwesen Ruinier-Streitmacht“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "4100",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/11/04",
+  "species_id": 7,
+  "starchip": "10"
+}

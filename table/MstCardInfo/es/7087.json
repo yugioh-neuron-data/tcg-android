@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 7087,
+  "card_name": "Alma de Fuego",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Tu adversario roba 1 carta. Selecciona 1 monstruo de Tipo Piro de tu Deck y retíralo del juego. Inflige daño a tu adversario igual a la mitad del ATK del monstruo retirado. Si activas esta carta, no puedes declarar un ataque este turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/05/05",
+  "species_id": 24,
+  "starchip": "0"
+}

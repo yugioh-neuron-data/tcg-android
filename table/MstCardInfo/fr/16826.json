@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 16826,
+  "card_name": "Vénus, Agent de la Destruction",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Vous pouvez bannir 1 \"Vénus, Agent de la Création\" depuis votre Cimetière ; Invoquez Spécialement cette carte depuis votre main. Vous pouvez payer des LP en multiples de 500, puis pour chaque 500 LP payés, ciblez 1 de vos \"Sphère Mystique Lumineuse\" qui est banni ou dans votre Cimetière ; Invoquez-les Spécialement, mais placez-les au-dessous du Deck lorsqu'ils quittent le Terrain. Vous ne pouvez utiliser qu'1 effet de \"Vénus, Agent de la Destruction\" par tour, et uniquement une fois le tour.",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/02/10",
+  "species_id": 17,
+  "starchip": "3"
+}

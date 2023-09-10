@@ -1,0 +1,23 @@
+{
+  "attack_power": "-1",
+  "attribute_id": 1,
+  "card_id": 16477,
+  "card_name": "アルカナ トライアンフジョーカー",
+  "card_name_label": "アルカナ　トライアンフジョーカー",
+  "card_name_search": "あるかなとらいあんふじょーかー",
+  "card_pen_effect": "",
+  "card_text": "①：このカードが手札・墓地に存在する場合、手札及び自分フィールドの表側表示モンスターの中から、「クィーンズ・ナイト」「ジャックス・ナイト」「キングス・ナイト」を１体ずつ墓地へ送って発動できる。このカードを特殊召喚する。②：このカードの攻撃力は、お互いの手札の数×５００アップする。③：手札を１枚捨てて発動できる。捨てたカードと同じ種類（モンスター・魔法・罠）の、相手フィールドの表側表示のカードを全て破壊する。",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/09/25",
+  "species_id": 15,
+  "starchip": "10"
+}

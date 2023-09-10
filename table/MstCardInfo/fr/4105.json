@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 2,
+  "card_id": 4105,
+  "card_name": "Roi des Fantômes",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si \"Château des Illusions\" est face recto sur le Terrain, augmentez l'ATK/DEF de cette carte de 100 points. Tant que \"Château des Illusions\" reste face recto sur le Terrain, l'ATK/DEF de cette carte continuent d'augmenter de 100 points durant chacune de vos Standby Phases. Cet effet continuera jusqu'à votre 4e tour après l'activation de la carte.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/06/27",
+  "species_id": 2,
+  "starchip": "6"
+}

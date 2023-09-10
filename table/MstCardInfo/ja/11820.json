@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 3,
+  "card_id": 11820,
+  "card_name": "アロマージ－ローズマリー",
+  "card_name_label": "アロマージ－ローズマリー",
+  "card_name_search": "あろまーじろーずまりー",
+  "card_pen_effect": "",
+  "card_text": "①：自分のLPが相手より多く、このカードがモンスターゾーンに存在する限り、自分の植物族モンスターが攻撃する場合、ダメージステップ終了時まで相手はモンスターの効果を発動できない。②：１ターンに１度、自分のLPが回復した場合、フィールドの表側表示モンスター１体を対象として発動する。そのモンスターの表示形式を変更する。",
+  "defense_power": "700",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/04/25",
+  "species_id": 13,
+  "starchip": "4"
+}

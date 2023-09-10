@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14685,
+  "card_name": "Rechazo de Gladiador",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Tu adversario no puede seleccionar monstruos \"Bestia Gladiador\" que controlas con efectos de cartas, excepto durante la Battle Phase. Si uno o más monstruos \"Bestia Gladiador\" son Invocados de Modo Especial desde tu Deck Principal (excepto durante el Damage Step): puedes Invocar de Modo Especial 1 monstruo \"Bestia Gladiador\" desde tu Deck con un Tipo diferente al de los monstruos que controlas, en Posición de Defensa. Sólo puedes usar este efecto de \"Rechazo de Gladiador\" una vez por turno.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/10/24",
+  "species_id": 24,
+  "starchip": "0"
+}

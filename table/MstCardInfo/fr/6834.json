@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 6834,
+  "card_name": "Mur de Puissance",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durant le calcul des dommages, lorsque vous allez recevoir des dommages de combat d'un monstre attaquant de l'adversaire : envoyez 1 carte du dessus de votre Deck au Cimetière pour chaque 500 points de dommages (arrondis au supérieur) que vous allez recevoir, à la place.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/03/30",
+  "species_id": 25,
+  "starchip": "0"
+}

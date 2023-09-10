@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 5,
+  "card_id": 10263,
+  "card_name": "Cowboy Gagaga",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 monstres de Niveau 4$NUne fois par tour : vous pouvez détacher 1 Matériel Xyz de cette carte ; appliquez cet effet, selon la position de combat actuelle de cette carte.$N●Position d'Attaque : Si cette carte attaque un monstre de votre adversaire ce tour, durant la Damage Step uniquement, elle gagne 1000 ATK, et aussi, le monstre de votre adversaire perd 500 ATK.$N●Position de Défense : Infligez 800 points de dommages à votre adversaire.",
+  "defense_power": "2400",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/11/08",
+  "species_id": 15,
+  "starchip": "4"
+}

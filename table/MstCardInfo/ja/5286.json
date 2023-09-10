@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 5286,
+  "card_name": "アマゾネスの弩弓隊",
+  "card_name_label": "アマゾネスのどきゅうたい",
+  "card_name_search": "あまぞねすのどきゅうたい",
+  "card_pen_effect": "",
+  "card_text": "相手の攻撃宣言時に、自分フィールド上に「アマゾネス」という名のついたモンスターが存在する場合のみ発動する事ができる。相手フィールド上の全てのモンスターは表側攻撃表示になり（リバース効果は発動しない）、攻撃力は５００ポイントダウンする。相手は全てのモンスターで攻撃しなければならない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/09/19",
+  "species_id": 25,
+  "starchip": "0"
+}

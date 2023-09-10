@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 3,
+  "card_id": 15114,
+  "card_name": "Erika die Rikka-Fee",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wenn ein Angriff deklariert wird, an dem ein anderes Pflanze-Monster beteiligt ist, das du kontrollierst: Du kannst diese Karte von deiner Hand oder offen von deiner Spielfeldseite als Tribut anbieten; das Monster, das du kontrollierst, erhält bis zum Ende dieses Spielzugs 1000 ATK/DEF. Falls ein oder mehr Pflanze-Monster, die du kontrollierst, als Tribut angeboten werden, solange sich diese Karte in deinem Friedhof befindet (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung in die Verteidigungsposition beschwören, aber verbanne sie, wenn sie das Spielfeld verlässt. Du kannst jeden Effekt von „Erika die Rikka-Fee“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/02",
+  "species_id": 13,
+  "starchip": "6"
+}

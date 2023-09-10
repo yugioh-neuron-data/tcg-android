@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 5,
+  "card_id": 16084,
+  "card_name": "Cutia DoSolfacorde",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Las Invocaciones por Péndulo de tus Monstruos de Péndulo \"Solfacorde\" no pueden ser negadas.",
+  "card_text": "Mientras tengas una Escala de Péndulo par en tu Zona de Péndulo, los Monstruos de Péndulo \"Solfacorde\" que controles ganan ATK igual a 100 x su propia Escala de Péndulo. Si esta carta es Invocada de Modo Normal o Especial: puedes añadir a tu mano 1 Monstruo de Péndulo \"Solfacorde\" en tu Deck, excepto \"Cutia DoSolfacorde\". Sólo puedes usar este efecto de \"Cutia DoSolfacorde\" una vez por turno.",
+  "defense_power": "400",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "8",
+  "pen_scale_r": "8",
+  "sales_at": "2021/05/06",
+  "species_id": 17,
+  "starchip": "1"
+}

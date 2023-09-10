@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 1,
+  "card_id": 12916,
+  "card_name": "Artistamico Allievo del Cielo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante il turno di qualsiasi giocatore: puoi far ritornare 1 mostro \"Artistamico\" di Livello 5 o superiore che controlli nella mano; Evoca Specialmente questa carta dalla tua mano. Puoi utilizzare questo effetto di \"Artistamico Allievo del Cielo\" una sola volta per turno. Se questa carta combatte con un mostro dell'avversario, gli effetti di quel mostro si annullano fino alla fine del Damage Step. Prima del calcolo dei danni, se questa carta ha attaccato un mostro dell'avversario mentre controllavi un altro mostro \"Artistamico\": puoi distruggere quel mostro dell'avversario.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/05/04",
+  "species_id": 18,
+  "starchip": "3"
+}

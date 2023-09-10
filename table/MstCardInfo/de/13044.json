@@ -1,0 +1,23 @@
+{
+  "attack_power": "2200",
+  "attribute_id": 1,
+  "card_id": 13044,
+  "card_name": "Bergungsagent Fahrer",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls ein Cyberse-Linkmonster, das du kontrollierst, durch einen Karteneffekt deines Gegners zerstört wird, solange sich diese Karte in deiner Hand oder deinem Friedhof befindet (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung beschwören. Du kannst 1 Zauber abwerfen und dann 1 Cyberse-Monster in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung, aber es kann in diesem Spielzug nicht direkt angreifen. Du kannst jeden Effekt von „Bergungsagent Fahrer“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/08/03",
+  "species_id": 27,
+  "starchip": "6"
+}

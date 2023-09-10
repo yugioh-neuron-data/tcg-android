@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 13572,
+  "card_name": "Héritage du Monde - \"Lance du Monde\"",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Les monstres contrôlés par votre adversaire ne peuvent pas attaquer de monstres \"Héritage du Monde\" que vous contrôlez (celui-ci exclu). Vous ne pouvez utiliser chacun des effets suivants de \"Héritage du Monde - \"Lance du Monde\"\" qu'une fois par tour.$N●Durant le calcul des dommages, si un Monstre Lien combat un monstre (Effet Rapide) : vous pouvez défausser cette carte ; le monstre combattant de l'adversaire perd 3000 ATK.$N●Si un ou plusieurs monstres sont Invoqués Spécialement depuis l'Extra Deck : Invoquez Spécialement 1 \"Jeton Héritage du Monde\" (Machine/TÉNÈBRES/Niveau 1/ATK 0/DEF 0) sur chaque Terrain en Position de Défense.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/05/03",
+  "species_id": 7,
+  "starchip": "8"
+}

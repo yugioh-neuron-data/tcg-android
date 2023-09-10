@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 4667,
+  "card_name": "死のデッキ破壊ウイルス",
+  "card_name_label": "しのデッキはかいウイルス",
+  "card_name_search": "しのでっきはかいういるす",
+  "card_pen_effect": "",
+  "card_text": "①：自分フィールドの攻撃力１０００以下の闇属性モンスター１体をリリースして発動できる。相手フィールドのモンスター及び相手の手札を全て確認し、その内の攻撃力１５００以上のモンスターを全て破壊する。その後、相手はデッキから攻撃力１５００以上のモンスターを３体まで選んで破壊できる。このカードの発動後、次のターンの終了時まで相手が受ける全てのダメージは０になる。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "1999/07/08",
+  "species_id": 25,
+  "starchip": "0"
+}

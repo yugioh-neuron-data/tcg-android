@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 2,
+  "card_id": 16420,
+  "card_name": "ZS - Ouroboros-Weiser",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wenn diese Karte als Normalbeschwörung beschworen wird: Du kannst 1 Nicht-LICHT „Nummer“-Monster als Spezialbeschwörung von deinem Friedhof beschwören, aber annulliere seine Effekte und falls du dies tust, rüste es sowohl mit dieser Karte als auch mit 1 „Utopia“-Monster aus, das du kontrollierst, jeweils als Ausrüstungszauber, der ihm 1700 ATK gibt, zusätzlich kannst du für den Rest dieses Spielzugs nur einen Angriff deklarieren. Wenn das Monster, das mit dieser Karte durch den Effekt dieser Karte ausgerüstet ist, einen Angriff gegen ein Monster deines Gegners deklariert: Du kannst die ATK des angreifenden Monsters verdoppeln, aber zerstöre es während der End Phase.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/12/02",
+  "species_id": 15,
+  "starchip": "3"
+}

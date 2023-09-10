@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 12663,
+  "card_name": "完全燃焼",
+  "card_name_label": "バーンアウト",
+  "card_name_search": "ばーんあうと",
+  "card_pen_effect": "",
+  "card_text": "「完全燃焼」は１ターンに１枚しか発動できない。①：自分フィールドの表側表示の「化合獣」モンスター１体を除外して発動できる。デッキから「化合獣」モンスター２体を特殊召喚する（同名カードは１枚まで）。②：相手モンスターの直接攻撃宣言時に、墓地のこのカードを除外し、除外されている自分のデュアルモンスター１体を対象として発動できる。そのモンスターを特殊召喚する。この効果で特殊召喚したモンスターはもう１度召喚された状態として扱う。この効果はこのカードが墓地へ送られたターンには発動できない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/07/09",
+  "species_id": 25,
+  "starchip": "0"
+}

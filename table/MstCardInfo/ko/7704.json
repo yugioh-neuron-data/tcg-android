@@ -1,0 +1,23 @@
+{
+  "attack_power": "1100",
+  "attribute_id": 5,
+  "card_id": 7704,
+  "card_name": "스몰 피스 골렘",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "자신 필드 위에 \"빅 피스 골렘\"이 앞면 표시로 존재할 경우에 이 카드가 일반 소환/반전 소환/특수 소환에 성공했을 때, 자신의 덱에서 \"미드 피스 골렘\" 1장을 특수 소환할 수 있다. 이 효과로 특수 소환한 몬스터의 효과는 무효화된다.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/10/07",
+  "species_id": 6,
+  "starchip": "3"
+}

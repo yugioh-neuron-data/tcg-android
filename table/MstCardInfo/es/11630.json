@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 4,
+  "card_id": 11630,
+  "card_name": "Infantes Montados de Draconia",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Una vez por turno, si un Monstruo Normal que controlas destruye un monstruo de tu adversario en batalla, después del cálculo de daño: puedes añadir a tu mano 1 Monstruo Normal de Nivel 4 o mayor en tu Deck.",
+  "card_text": "Armadas con mosquetes y lanzas de hierro, estas tropas terrestres montadas del Imperio Draconia son temidas por el Reino Reptier y otras naciones limítrofes.",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 25,
+  "pen_scale_l": "2",
+  "pen_scale_r": "2",
+  "sales_at": "2015/01/10",
+  "species_id": 12,
+  "starchip": "4"
+}

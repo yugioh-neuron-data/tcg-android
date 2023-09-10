@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 9132,
+  "card_name": "Spiegel der Eisbarriere",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Jedes Mal während dieses Spielzugs, wenn eine oder mehr Karten durch einen aktivierten Monstereffekt deines Gegners von deiner Hand, deiner Spielfeldseite und/oder deinem Friedhof verbannt werden, führe die folgenden Effekte aus, basierend darauf, von wo die Karten verbannt wurden.$N●Hand: Verbanne bis zu 2 zufällige Karten von der Hand deines Gegners.$N●Spielfeld: Verbanne bis zu 2 Karten, die dein Gegner kontrolliert.$N●Friedhof: Verbanne bis zu 2 Karten vom Friedhof deines Gegners.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/11/11",
+  "species_id": 24,
+  "starchip": "0"
+}

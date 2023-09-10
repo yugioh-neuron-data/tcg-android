@@ -1,0 +1,23 @@
+{
+  "attack_power": "1900",
+  "attribute_id": 4,
+  "card_id": 14117,
+  "card_name": "業神－不知火",
+  "card_name_label": "わざがみ－しらぬい",
+  "card_name_search": "わざがみしらぬい",
+  "card_pen_effect": "",
+  "card_text": "チューナー＋チューナー以外のモンスター１体以上$N自分は「業神－不知火」を１ターンに１度しか特殊召喚できず、その②の効果は１ターンに１度しか使用できない。①：このカードが特殊召喚に成功した場合、フィールドのモンスター１体を対象として発動できる。そのモンスターの表示形式を変更する。②：このカードが除外された場合に発動できる。自分フィールドに「不知火トークン」（アンデット族・炎・星１・攻／守０）１体を特殊召喚する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/10/13",
+  "species_id": 2,
+  "starchip": "5"
+}

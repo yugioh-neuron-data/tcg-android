@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 4355,
+  "card_name": "六芒星の呪縛",
+  "card_name_label": "ろくぼうせいのじゅばく",
+  "card_name_search": "ろくぼうせいのじゅばく",
+  "card_pen_effect": "",
+  "card_text": "相手フィールド上のモンスター１体を選択して発動できる。選択したモンスターは攻撃できず、表示形式の変更もできない。選択したモンスターが破壊された時、このカードを破壊する。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2000/04/20",
+  "species_id": 25,
+  "starchip": "0"
+}

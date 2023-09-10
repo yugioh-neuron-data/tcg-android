@@ -1,0 +1,23 @@
+{
+  "attack_power": "4000",
+  "attribute_id": 1,
+  "card_id": 7590,
+  "card_name": "Arkane Macht EX - Der Finstere Herrscher",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 3 Monster, die du kontrollierst, auf den Friedhof legst, und kann nicht auf andere Art als Spezialbeschwörung beschworen werden. Wenn diese Karte als Spezialbeschwörung beschworen wird: Wirf eine Münze und du erhältst den entsprechenden Effekt.$N●Kopf: Diese Karte kann während jeder Battle Phase einen zweiten Angriff durchführen, aber falls sie das durch diesen Effekt tut, ändere sie am Ende der Battle Phase in die Verteidigungsposition. Ihre Kampfposition kann bis zum Ende deines nächsten Spielzugs nicht geändert werden.$N●Zahl: Falls diese Karte zerstört wird, zerstöre alle Karten auf dem Spielfeld.",
+  "defense_power": "4000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/05/13",
+  "species_id": 17,
+  "starchip": "10"
+}

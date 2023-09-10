@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 1,
+  "card_id": 4762,
+  "card_name": "Riflettore",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Prima del calcolo dei danni, se questa carta sta venendo attaccata da un mostro dell'avversario, ed era in Posizione di Attacco all'inizio del Damage Step: infliggi al tuo avversario danno pari all'ATK del mostro attaccante. Se lo fai, dopo il calcolo dei danni: distruggi questa carta.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/03/19",
+  "species_id": 7,
+  "starchip": "4"
+}

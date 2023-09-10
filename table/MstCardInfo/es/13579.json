@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 1,
+  "card_id": 13579,
+  "card_name": "Sablelemento Lapauila Mana",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Puedes mandar al Cementerio otros 2 monstruos en tu mano; Invoca esta carta de Modo Especial desde tu mano. Sólo puedes usar este efecto de \"Sablelemento Lapauila Mana\" una vez por turno. Aplica el o los siguientes efectos a los monstruos \"Sablelemento\" y \"Señor Elemental\" que controles, dependiendo de los Atributos originales de los monstruos \"Sablelemento\" mandados al Cementerio para activar el efecto de esta carta.$N●TIERRA o VIENTO: No puede ser destruido en batalla.$N●AGUA o FUEGO: No puede ser destruido por efectos.$N●LUZ u OSCURIDAD: Tu adversario no puede seleccionarlo con efectos de cartas.",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/05/03",
+  "species_id": 15,
+  "starchip": "6"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 7750,
+  "card_name": "進化する人類",
+  "card_name_label": "しんかするじんるい",
+  "card_name_search": "しんかするじんるい",
+  "card_pen_effect": "",
+  "card_text": "自分のライフポイントが相手より少ない場合、装備モンスターの元々の攻撃力は２４００になる。自分のライフポイントが相手より多い場合、装備モンスターの元々の攻撃力は１０００になる。",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/04/19",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1900",
+  "attribute_id": 1,
+  "card_id": 16802,
+  "card_name": "天翔ける騎士",
+  "card_name_label": "スターリング・ナイト",
+  "card_name_search": "すたーりんぐないと",
+  "card_pen_effect": "",
+  "card_text": "レベル４モンスター×２$Nこのカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードのX素材を１つ取り除いて発動できる。手札から光属性モンスター１体を特殊召喚する。②：このカードが墓地に存在する場合、自分フィールドの天使族・光属性・レベル４モンスター１体を対象として発動できる。このカードを特殊召喚し、対象のモンスターをこのカードの下に重ねてX素材とする。この効果はこのカードが墓地へ送られたターンには発動できない。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/11/04",
+  "species_id": 17,
+  "starchip": "4"
+}

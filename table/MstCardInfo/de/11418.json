@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 11418,
+  "card_name": "Tor des Schicksals",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wenn ein Monster deines Gegners einen direkten Angriff deklariert: Annulliere den Angriff, dann beschwöre diese Karte als Spezialbeschwörung als Effektmonster (Typ Unterweltler/LICHT/Stufe 1/ATK 0/DEF 0). (Diese Karte ist zusätzlich weiterhin eine Fallenkarte.) Während deiner Standby Phase, solange diese Karte als Monster behandelt wird: Du kannst eine beliebige Anzahl „Utopia“-Monster mit unterschiedlichen Namen von deinem Friedhof verbannen; füge deinem Gegner für jedes der verbannten Monster 500 Schaden zu und falls du dies tust, erhält diese Karte ATK in Höhe des Schadens, den er erhalten hat.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/04/16",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 14184,
+  "card_name": "Sperrfeuer-Bombardierung",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Einmal pro Spielzug kannst du eine beliebige Anzahl Material von Maschine-Xyz-Monstern abhängen, die du kontrollierst, und dann so viele Karten auf dem Spielfeld wählen; zerstöre sie. Falls ein oder mehr Maschine-Xyz-Monster, die du kontrollierst, durch Kampf oder einen Karteneffekt eines Gegners zerstört werden, solange sich diese Karte in deinem Friedhof befindet: Du kannst diese Karte und 1 Maschine-Xyz-Monster von deinem Friedhof verbannen; füge deinem Gegner Schaden in Höhe des Rangs des verbannten Monsters x 200 zu.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/01/10",
+  "species_id": 25,
+  "starchip": "0"
+}

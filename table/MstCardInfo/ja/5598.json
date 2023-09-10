@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 5,
+  "card_id": 5598,
+  "card_name": "世紀の大泥棒",
+  "card_name_label": "せいきのおおどろぼう",
+  "card_name_search": "せいきのおおどろぼう",
+  "card_pen_effect": "",
+  "card_text": "相手プレイヤーに戦闘ダメージを与える度にカード名を１つ宣言する。相手の手札を確認して宣言したカードがあった場合それを全て墓地に捨てる。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/07/18",
+  "species_id": 18,
+  "starchip": "3"
+}

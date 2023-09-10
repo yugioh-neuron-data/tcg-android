@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 5,
+  "card_id": 11343,
+  "card_name": "超重武者装留グレート・ウォール",
+  "card_name_label": "ちょうじゅうむしゃそうるグレート・ウォール",
+  "card_name_search": "ちょうじゅうむしゃそうるぐれーとうぉーる",
+  "card_pen_effect": "",
+  "card_text": "①：自分メインフェイズに自分フィールドの「超重武者」モンスター１体を対象として発動できる。自分の手札・フィールドからこのモンスターを守備力１２００アップの装備カード扱いとしてその自分のモンスターに装備する。②：このカードの効果でこのカードを装備したモンスターが攻撃対象に選択された時、装備されているこのカードを墓地へ送って発動できる。その攻撃を無効にし、装備モンスターの守備力を０にする。",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/07/19",
+  "species_id": 7,
+  "starchip": "3"
+}

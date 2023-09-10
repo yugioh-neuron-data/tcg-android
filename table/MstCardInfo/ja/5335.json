@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 6,
+  "card_id": 5335,
+  "card_name": "スピリット・ドラゴン",
+  "card_name_label": "スピリット・ドラゴン",
+  "card_name_search": "すぴりっとどらごん",
+  "card_pen_effect": "",
+  "card_text": "このカードが戦闘を行う自分のバトルステップ時、手札からドラゴン族モンスター１体を墓地へ捨てて発動する事ができる。このカードの攻撃力・守備力は、バトルフェイズ終了時まで１０００ポイントアップする。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2001/09/20",
+  "species_id": 1,
+  "starchip": "4"
+}

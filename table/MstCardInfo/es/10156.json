@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 5,
+  "card_id": 10156,
+  "card_name": "Puddingcess Magidulce",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Gana 800 ATK/DEF mientras no tengas monstruos en tu Cementerio. Si esta carta en tu posesión es destruida por una carta del adversario y mandada a tu Cementerio: baraja esta carta al Deck. Después del cálculo de daño, si esta carta batalla con un monstruo del adversario: puedes seleccionar 1 carta que controle tu adversario; destruye ese objetivo.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/08/23",
+  "species_id": 17,
+  "starchip": "5"
+}

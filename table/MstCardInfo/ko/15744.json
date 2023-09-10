@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15744,
+  "card_name": "암드 드래곤 라이트닝",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드명의 ①의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 자신 필드의 \"암드 드래곤\" 몬스터 1장을 대상으로 하고, 이하의 효과에서 1개를 선택하여 발동할 수 있다.$N●그 몬스터의 공격력은 그 몬스터의 레벨 × 100 올린다.$N●그 몬스터의 레벨 이하의 레벨을 가지는 \"암드 드래곤\" 몬스터 1장을 자신 묘지에서 고르고 패에 넣는다.$N②: 자신 필드의 \"암드 드래곤\" 몬스터가 효과로 파괴될 경우, 대신에 이 카드를 묘지로 보낼 수 있다.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ko",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/02/04",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 17265,
+  "card_name": "Forjar un Nuevo Futuro",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Una vez por Cadena, si un monstruo de Link-4 es Invocado por Enlace: puedes poner 1 contador en esta carta (máx. 3), y después puedes aplicar el siguiente efecto basado en el número de contadores en ella.$N●1: Declara 1 nombre de carta y, si lo haces, los efectos activados y efectos en el Campo de cartas con ese nombre original son negados este turno.$N●2: Invoca de Modo Especial 1 monstruo de Nivel 4 o menor desde tu Cementerio.$N●3: Manda esta carta al Cementerio y, si lo haces, Invoca de Modo Especial 1 monstruo de Link-4 desde tu Deck Extra.$NSólo puedes activar 1 \"Forjar un Nuevo Futuro\" por turno.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/03/09",
+  "species_id": 25,
+  "starchip": "0"
+}

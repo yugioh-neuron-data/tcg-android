@@ -1,0 +1,23 @@
+{
+  "attack_power": "400",
+  "attribute_id": 5,
+  "card_id": 7492,
+  "card_name": "カードエクスクルーダー",
+  "card_name_label": "カードエクスクルーダー",
+  "card_name_search": "かーどえくすくるーだー",
+  "card_pen_effect": "",
+  "card_text": "相手の墓地に存在するカード１枚を選択しゲームから除外する。この効果は１ターンに１度しか使用できない。",
+  "defense_power": "400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/11/23",
+  "species_id": 18,
+  "starchip": "3"
+}

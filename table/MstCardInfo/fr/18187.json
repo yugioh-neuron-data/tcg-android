@@ -1,0 +1,23 @@
+{
+  "attack_power": "2200",
+  "attribute_id": 6,
+  "card_id": 18187,
+  "card_name": "Cercle des Fées",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Syntoniseur + 1+ monstre non-Syntoniseur$NDurant votre Main Phase, vous pouvez Invoquer Normalement 1 monstre Insecte ou Plante en plus de votre Invocation/Pose Normale. (Vous ne pouvez gagner cet effet qu'une fois par tour.) Lorsqu'un monstre est détruit au combat impliquant votre monstre Insecte ou Plante, et est envoyé au Cimetière : vous pouvez cibler 1 de ces monstres détruits ; infligez des dommages à votre adversaire égaux à la moitié de son ATK, puis gagnez des LP égaux aux dommages infligés à votre adversaire. Vous ne pouvez utiliser cet effet de \"Cercle des Fées\" qu'une fois par tour.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/02/06",
+  "species_id": 13,
+  "starchip": "7"
+}

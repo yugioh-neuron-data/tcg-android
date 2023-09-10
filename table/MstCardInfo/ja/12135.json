@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 3,
+  "card_id": 12135,
+  "card_name": "ダイナミスト・ブラキオン",
+  "card_name_label": "ダイナミスト・ブラキオン",
+  "card_name_search": "だいなみすとぶらきおん",
+  "card_pen_effect": "①：このカードがPゾーンに存在する限り１度だけ、このカード以外の自分フィールドの「ダイナミスト」カードを対象として発動した効果を無効にできる。その後、このカードを破壊する。",
+  "card_text": "①：自分のモンスターゾーンに「ダイナミスト・ブラキオン」が存在せず、フィールドの攻撃力が一番高いモンスターが相手フィールドに存在する場合、このカードは手札から特殊召喚できる。",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "6",
+  "pen_scale_r": "6",
+  "sales_at": "2015/10/17",
+  "species_id": 7,
+  "starchip": "5"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2300",
+  "attribute_id": 2,
+  "card_id": 13838,
+  "card_name": "マズルフラッシュ・ドラゴン",
+  "card_name_label": "マズルフラッシュ・ドラゴン",
+  "card_name_search": "まずるふらっしゅどらごん",
+  "card_pen_effect": "",
+  "card_text": "ドラゴン族モンスター２体以上$N自分はこのカードのリンク先にモンスターを出せない。①：１ターンに１度、このカードのリンク先にモンスターが召喚・特殊召喚された場合に発動できる。このカードのリンク先のモンスター１体を選んで破壊し、相手に５００ダメージを与える。②：このカードを対象とする魔法・罠・モンスターの効果が発動した時、自分フィールドのモンスター１体をリリースして発動できる。その発動を無効にする。",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "789",
+  "linkno": "3",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/05/12",
+  "species_id": 1,
+  "starchip": ""
+}

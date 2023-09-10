@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 15760,
+  "card_name": "¡Estallido Springans!",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si controlas un monstruo \"Springans\": elige 1 Zona de Monstruos Principal del adversario; durante este turno, si un monstruo está boca arriba en esa zona, éste no puede atacar directamente, y además sus efectos son negados. Si no hay monstruos en esa zona, ésta no puede ser usada este turno. Si controlas un Monstruo de Fusión que liste \"Caído de Albaz\" como material, puedes elegir 2 zonas en su lugar. Sólo puedes activar 1 \"¡Estallido Springans!\" por turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/02/04",
+  "species_id": 25,
+  "starchip": "0"
+}

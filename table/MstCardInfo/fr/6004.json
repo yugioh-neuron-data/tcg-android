@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 6004,
+  "card_name": "Démons Jumeaux",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durant le tour de chaque joueur, lorsque votre adversaire active une Carte Magie/Piège ou un effet de monstre qui vous ferait défausser lorsqu'il est résolu : vous pouvez envoyer cette carte depuis votre main au Cimetière ; annulez l'activation, et si vous le faites, détruisez-la/le. Puis, piochez 1 carte.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/07/26",
+  "species_id": 3,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 10559,
+  "card_name": "燃え上がる大海",
+  "card_name_label": "もえあがるたいかい",
+  "card_name_search": "もえあがるたいかい",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上にレベル７以上の水属性または炎属性のモンスターが存在する場合に発動できる。自分フィールド上のモンスターの属性によって、以下の効果を適用する。$N●水属性：このターン効果モンスターの効果を発動するために自分の墓地へ送られた水属性モンスターを可能な限り特殊召喚する。その後、自分フィールド上のモンスター１体を選んで破壊する。$N●炎属性：フィールド上のモンスター１体を選んで破壊する。その後、自分の手札が１枚以上ある場合、１枚を選んで墓地へ捨てる。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/02/16",
+  "species_id": 25,
+  "starchip": "0"
+}

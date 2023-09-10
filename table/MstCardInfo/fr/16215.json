@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 2,
+  "card_id": 16215,
+  "card_name": "Diplhomme de Master",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si cette carte est Invoquée par Sacrifice : vous pouvez cibler 1 monstre dans votre Cimetière et 1 monstre face recto contrôlé par votre adversaire ; équipez le monstre depuis votre Cimetière au monstre de l'adversaire. Tant qu'il est équipé par cet effet, le monstre équipé perd une ATK égale à l'ATK du monstre qui lui est équipé. Votre adversaire ne peut pas activer les effets des monstres qu'il contrôle qui sont équipés avec des Cartes d'Équipement dans vos Zones Magie & Piège.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/08/12",
+  "species_id": 7,
+  "starchip": "5"
+}

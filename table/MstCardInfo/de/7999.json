@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 6,
+  "card_id": 7999,
+  "card_name": "Fliegende Festung SKY FIRE",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Diese Karte kann nicht als Normalbeschwörung beschworen oder gesetzt werden. Diese Karte kann nicht als Spezialbeschwörung beschworen werden, außer mit dem Effekt von „Beschwörungsreaktor ・SK“. Einmal pro Spielzug kannst du 1 Karte von deiner Hand auf den Friedhof legen, um 1 Karte zu zerstören, die dein Gegner kontrolliert. Einmal während jedes Spielzugs deines Gegners kannst du 1 der folgenden Effekte aktivieren:$N●Wenn dein Gegner ein Monster als Normal- oder Spezialbeschwörung beschwört, zerstöre es und füge deinem Gegner 800 Schaden zu.$N●Wenn dein Gegner eine Karte setzt, zerstöre sie und füge deinem Gegner 800 Schaden zu.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/03/03",
+  "species_id": 7,
+  "starchip": "8"
+}

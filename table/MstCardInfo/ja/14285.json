@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 3,
+  "card_id": 14285,
+  "card_name": "星杯の神子イヴ",
+  "card_name_label": "せいはいのみこイヴ",
+  "card_name_search": "せいはいのみこいう゛",
+  "card_pen_effect": "",
+  "card_text": "チューナー＋チューナー以外のモンスター１体以上$NこのカードをS召喚する場合、自分フィールドの「星杯」通常モンスター１体をチューナーとして扱う事ができる。このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードがS召喚に成功した場合に発動できる。デッキから「星遺物」カード１枚を手札に加える。②：S召喚したこのカードが墓地へ送られた場合に発動できる。自分のデッキ・墓地から「星杯の神子イヴ」以外の「星杯」モンスター１体を選んで特殊召喚する。",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 19,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/01/12",
+  "species_id": 18,
+  "starchip": "5"
+}

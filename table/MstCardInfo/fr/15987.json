@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 1,
+  "card_id": 15987,
+  "card_name": "Anachouflagrète",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Si vous n'avez aucune carte dans votre Extra Deck (\"Anachouflagrète\" exclu) : vous pouvez détruire cette carte, puis piochez 1 carte. Vous ne pouvez utiliser cet effet de \"Anachouflagrète\" qu'une fois par tour.",
+  "card_text": "Ni Invocable Normalement ni Posable Normalement. Uniquement Invocable Spécialement (depuis votre Extra Deck face recto) en n'ayant aucune carte dans votre Extra Deck (\"Anachouflagrète\" exclu). Vous ne pouvez Invoquer Spécialement \"Anachouflagrète\" qu'une fois par tour de cette façon. Si cette carte face recto dans la Zone Monstre quitte le Terrain, bannissez-la.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 40,
+  "pen_scale_l": "4",
+  "pen_scale_r": "4",
+  "sales_at": "2021/06/03",
+  "species_id": 18,
+  "starchip": "5"
+}

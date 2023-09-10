@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 2,
+  "card_id": 7506,
+  "card_name": "ボティス",
+  "card_name_label": "ボティス",
+  "card_name_search": "ぼてぃす",
+  "card_pen_effect": "",
+  "card_text": "①：このカードが召喚に成功した時に発動できる。自分のデッキの上からカードを３枚めくる。その中にモンスターがあった場合、その内の１体を除外する事でその同名モンスター１体をデッキ及びめくったカードの中から手札に加える事ができる。残りのカードはデッキに戻す。②：通常召喚したこのカードが墓地へ送られたターンのエンドフェイズに発動できる。自分のデッキの上からカードを３枚めくり、好きな順番でデッキの上に戻す。",
+  "defense_power": "1900",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/03/19",
+  "species_id": 3,
+  "starchip": "4"
+}

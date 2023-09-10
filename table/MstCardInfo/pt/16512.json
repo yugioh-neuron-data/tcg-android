@@ -1,0 +1,23 @@
+{
+  "attack_power": "600",
+  "attribute_id": 3,
+  "card_id": 16512,
+  "card_name": "Clérigo Pinguim",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se um ou mais monstros \"Pinguim\" forem enviados da sua Zona de Monstros para o seu Cemitério por um card do oponente, mesmo durante a Etapa de Dano: você pode escolher 1 deles; descarte este card e, se isso acontecer, Invoque esse monstro por Invocação-Especial com a face para baixo em Posição de Defesa. Você só pode usar este efeito de \"Clérigo Pinguim\" uma vez por turno. Uma vez por turno: você pode escolher 1 monstro \"Pinguim\" que você controla; ele ganha 600 de ATK até o final do turno e você ganha 600 PV.",
+  "defense_power": "1700",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/11/04",
+  "species_id": 14,
+  "starchip": "3"
+}

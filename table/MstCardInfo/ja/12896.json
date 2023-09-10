@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 5,
+  "card_id": 12896,
+  "card_name": "牛頭鬼",
+  "card_name_label": "ごずき",
+  "card_name_search": "ごずき",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分メインフェイズに発動できる。デッキからアンデット族モンスター１体を墓地へ送る。②：このカードが墓地へ送られた場合、自分の墓地から「牛頭鬼」以外のアンデット族モンスター１体を除外して発動できる。手札からアンデット族モンスター１体を特殊召喚する。",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/12/17",
+  "species_id": 2,
+  "starchip": "4"
+}

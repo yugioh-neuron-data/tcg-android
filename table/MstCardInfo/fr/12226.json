@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 12226,
+  "card_name": "D/D Savant Newton",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Vous ne pouvez pas Invoquer par Pendulation de monstres (monstres \"D/D\" exclus). Cet effet ne peut pas être annulé. Une fois, tant que cette carte est dans votre Zone Pendule, vous pouvez annuler un effet de Piège activé qui va vous infliger des dommages, puis détruisez cette carte.",
+  "card_text": "Vous pouvez défausser cette carte, puis ciblez 1 carte \"D/D\" ou \"Contrat des Ténèbres\" (\"D/D Savant Newton\" exclu) dans votre Cimetière ; ajoutez-la à votre main. Vous ne pouvez utiliser cet effet de \"D/D Savant Newton\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "10",
+  "pen_scale_r": "10",
+  "sales_at": "2017/01/19",
+  "species_id": 3,
+  "starchip": "7"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 1,
+  "card_id": 10892,
+  "card_name": "Impulsore Rivestito",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se controlli un mostro con ATK di 2000 o superiore, puoi Evocare Specialmente questa carta (dalla tua mano) scoperta in Posizione di Difesa. Puoi Evocare Specialmente \"Impulsore Rivestito\" una sola volta per turno in questo modo. Durante il tuo turno, eccetto il turno in cui questa carta è stata mandata al Cimitero: puoi bandire questa carta dal tuo Cimitero, poi scegliere come bersaglio 1 Mostro Xyz scoperto che controlli che ha Materiali Xyz; esso guadagna 500 ATK per ogni Materiale Xyz attaccato ad esso.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/01/23",
+  "species_id": 15,
+  "starchip": "5"
+}

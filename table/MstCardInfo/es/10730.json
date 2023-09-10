@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 1,
+  "card_id": 10730,
+  "card_name": "Dragón de la Galaxia",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Esta carta no puede atacar directamente y sólo puede atacar a monstruos de Tipo Dragón. Si esta carta batalla con un monstruo de Tipo Dragón, esta carta gana 1000 ATK sólo durante el Damage Step, y además se niegan los efectos de ese monstruo durante esta Battle Phase mientras esta carta permanezca boca arriba en el Campo.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/05/15",
+  "species_id": 1,
+  "starchip": "4"
+}

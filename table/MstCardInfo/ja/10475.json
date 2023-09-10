@@ -1,0 +1,23 @@
+{
+  "attack_power": "2200",
+  "attribute_id": 4,
+  "card_id": 10475,
+  "card_name": "ヘルフレイムゴースト",
+  "card_name_label": "ヘルフレイムゴースト",
+  "card_name_search": "へるふれいむごーすと",
+  "card_pen_effect": "",
+  "card_text": "炎族レベル４モンスター×２$N１ターンに１度、このカードのエクシーズ素材を１つ取り除いて発動できる。このカードの攻撃力は相手のエンドフェイズ時まで５００ポイントアップする。また、攻撃力２５００以上のこのカードが破壊された時、お互いの墓地のモンスターを合計３体選択してゲームから除外する。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/05/18",
+  "species_id": 4,
+  "starchip": "4"
+}

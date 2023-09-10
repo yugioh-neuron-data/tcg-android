@@ -1,0 +1,23 @@
+{
+  "attack_power": "2200",
+  "attribute_id": 5,
+  "card_id": 12546,
+  "card_name": "No.45 滅亡の予言者 クランブル・ロゴス",
+  "card_name_label": "ナンバーズ４５ めつぼうのよげんしゃ クランブル・ロゴス",
+  "card_name_search": "なんばーずよんじゅうごめつぼうのよげんしゃくらんぶるろごす",
+  "card_pen_effect": "",
+  "card_text": "レベル２モンスター×２体以上$N①：１ターンに１度、このカードのX素材を１つ取り除き、このカード以外のフィールドの表側表示のカード１枚を対象として発動できる。このモンスターが表側表示で存在する間、対象の表側表示のカードの効果は無効化される。②：このカードの①の効果の対象としているカードがフィールドに表側表示で存在する限り、お互いに対象のカード及びその同名カードの効果を発動できない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/05/14",
+  "species_id": 2,
+  "starchip": "2"
+}

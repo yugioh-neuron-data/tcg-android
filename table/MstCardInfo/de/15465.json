@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 3,
+  "card_id": 15465,
+  "card_name": "Extox-Hydra",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2+ Monster, die du kontrollierst und die als Spezialbeschwörung vom Extra Deck beschworen wurden$NMonster, die dein Gegner kontrolliert und die denselben Kartentyp (Fusion, Synchro, Xyz, Pendel oder Link) wie eins des Materials haben, das für die Fusionsbeschwörung dieser Karte verwendet wurde, verlieren ATK in Höhe ihrer eigenen Grund-ATK. Wenn diese Karte deinem Gegner 1000 oder mehr Kampfschaden zufügt: Du kannst pro 1000 Schaden, die du zugefügt hast, 1 Karte ziehen.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/06/22",
+  "species_id": 20,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 6417,
+  "card_name": "Cyber Erzunterweltler",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Zu Beginn deiner Draw Phase, falls du keine Karten in deiner Hand hast, ziehe 1 Karte zusätzlich zu deinem normalen Ziehen. Während deiner End Phase, falls du 1 oder mehrere Karten in deiner Hand hast, zerstöre diese Karte.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/08/01",
+  "species_id": 3,
+  "starchip": "4"
+}

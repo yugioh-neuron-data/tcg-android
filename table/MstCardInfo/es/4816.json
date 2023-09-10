@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 4816,
+  "card_name": "Dado de Cráneo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lanza un dado de seis caras. Hasta el final de este turno, todos los monstruos que controle tu adversario en este momento pierden ATK/DEF igual al resultado x 100.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/03/26",
+  "species_id": 25,
+  "starchip": "0"
+}

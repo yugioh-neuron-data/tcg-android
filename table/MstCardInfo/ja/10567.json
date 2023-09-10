@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10567,
+  "card_name": "炎の護封剣",
+  "card_name_label": "ほのおのごふうけん",
+  "card_name_search": "ほのおのごふうけん",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上にモンスターが存在しない場合、相手フィールド上のモンスターは攻撃宣言できない。自分フィールド上にモンスターが存在する場合、または相手の手札が５枚以上の場合、このカードは破壊される。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/03/16",
+  "species_id": 24,
+  "starchip": "0"
+}

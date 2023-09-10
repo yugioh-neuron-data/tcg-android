@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 17461,
+  "card_name": "Chevauchement Griffrayeur",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Vous pouvez activer 1 des effets suivants.$N●Ciblez 1 monstre \"Griffrayeur\" ou 1 \"Visas Starfrost\" dans votre Zone Monstre, et 1 monstre face recto contrôlé par votre adversaire ; votre monstre gagne une ATK/DEF égales à l'ATK ou DEF du monstre de votre adversaire (la plus haute valeur).$N●Lorsqu'une carte ou un effet qui cible \"Visas Starfrost\" ou un monstre \"Griffrayeur\" que vous contrôlez est activé : annulez l'effet.$NVous ne pouvez activer qu'1 \"Chevauchement Griffrayeur\" par tour.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/08/04",
+  "species_id": 24,
+  "starchip": "0"
+}

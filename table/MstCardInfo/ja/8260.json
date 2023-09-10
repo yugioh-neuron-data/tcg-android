@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 5,
+  "card_id": 8260,
+  "card_name": "ナチュル・パルキオン",
+  "card_name_label": "ナチュル・パルキオン",
+  "card_name_search": "なちゅるぱるきおん",
+  "card_pen_effect": "",
+  "card_text": "地属性チューナー＋チューナー以外の地属性モンスター１体以上$N①：罠カードが発動した時、自分の墓地のカード２枚を除外して発動できる。このカードがフィールドに表側表示で存在する場合、その発動を無効にし破壊する。",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/04/14",
+  "species_id": 1,
+  "starchip": "6"
+}

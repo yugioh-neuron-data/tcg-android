@@ -1,0 +1,23 @@
+{
+  "attack_power": "1700",
+  "attribute_id": 1,
+  "card_id": 13196,
+  "card_name": "밸런서로드",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 1턴에 1번, 1000 LP를 지불하고 발동할 수 있다. 이 턴에 자신은 통상 소환 외에도 1번만, 자신 메인 페이즈에 사이버스족 몬스터 1장을 일반 소환할 수 있다. ②: 이 카드가 제외되었을 경우에 발동할 수 있다. 패에서 레벨 4 이하의 몬스터 1장을 특수 소환한다.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/09/14",
+  "species_id": 27,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 10319,
+  "card_name": "Zona Avanzada",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Una vez por turno, durante la End Phase de cualquier turno en el que Invocaste por Sacrificio uno o más monstruos: puedes aplicar estos efectos, en secuencia, dependiendo de la cantidad de monstruos que Sacrificaste para tus Invocaciones por Sacrificio en este turno.$N●1 o más: Destruye 1 carta Colocada que controle tu adversario.$N●2 o más: Roba 1 carta.$N●3 o más: Añade a tu mano 1 monstruo en tu Cementerio.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/08/23",
+  "species_id": 24,
+  "starchip": "0"
+}

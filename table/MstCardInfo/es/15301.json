@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15301,
+  "card_name": "Dado a Cubos",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lanza un dado de seis caras, y si salió 1 o 6, añade a tu mano 1 carta en tu Deck que requiera un lanzamiento de dado. Si salió un número que no sea 1 o 6, lanza otra vez, y aplica el efecto apropiado.$N●1 o 6: Devuelve a la mano esta carta.$N●2, 3, 4, o 5: Pon esta carta en la parte superior del Deck.$NSólo puedes activar 1 \"Dado a Cubos\" por turno.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/08/06",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 5005,
+  "card_name": "Ring der Zerstörung",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Während des Spielzugs deines Gegners: Wähle 1 offenes Monster, das dein Gegner kontrolliert und dessen ATK kleiner oder gleich seinen LP sind; zerstöre das offene Monster und falls du dies tust, erhältst du Schaden in Höhe seiner Grund-ATK, dann füge deinem Gegner Schaden in Höhe des Schadens zu, den du erhalten hast. Du kannst nur 1 „Ring der Zerstörung“ pro Spielzug aktivieren.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2003/07/01",
+  "species_id": 25,
+  "starchip": "0"
+}

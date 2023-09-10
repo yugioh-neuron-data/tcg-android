@@ -1,0 +1,380 @@
+[
+  {
+    "card_count": 1,
+    "card_id": 4008,
+    "card_image_id": 1,
+    "card_number": "YS15-ENY02",
+    "language": "en",
+    "pack_id": "13313000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4310,
+    "card_image_id": 1,
+    "card_number": "YS15-END14",
+    "language": "en",
+    "pack_id": "13313000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4317,
+    "card_image_id": 1,
+    "card_number": "YS15-ENY15",
+    "language": "en",
+    "pack_id": "13313000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4327,
+    "card_image_id": 1,
+    "card_number": "YS15-ENY16",
+    "language": "en",
+    "pack_id": "13313000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4342,
+    "card_image_id": 1,
+    "card_number": "YS15-ENY12",
+    "language": "en",
+    "pack_id": "13313000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 4499,
+    "card_image_id": 1,
+    "card_number": "YS15-ENY07",
+    "language": "en",
+    "pack_id": "13313000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4546,
+    "card_image_id": 1,
+    "card_number": "YS15-ENY10",
+    "language": "en",
+    "pack_id": "13313000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4789,
+    "card_image_id": 1,
+    "card_number": "YS15-END01",
+    "language": "en",
+    "pack_id": "13313000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4804,
+    "card_image_id": 1,
+    "card_number": "YS15-ENY20",
+    "language": "en",
+    "pack_id": "13313000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4836,
+    "card_image_id": 1,
+    "card_number": "YS15-ENY17",
+    "language": "en",
+    "pack_id": "13313000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4887,
+    "card_image_id": 1,
+    "card_number": "YS15-END16",
+    "language": "en",
+    "pack_id": "13313000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 4905,
+    "card_image_id": 1,
+    "card_number": "YS15-ENY14",
+    "language": "en",
+    "pack_id": "13313000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4909,
+    "card_image_id": 1,
+    "card_number": "YS15-END13",
+    "language": "en",
+    "pack_id": "13313000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4909,
+    "card_image_id": 1,
+    "card_number": "YS15-ENY13",
+    "language": "en",
+    "pack_id": "13313000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4988,
+    "card_image_id": 1,
+    "card_number": "YS15-END18",
+    "language": "en",
+    "pack_id": "13313000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4989,
+    "card_image_id": 1,
+    "card_number": "YS15-END20",
+    "language": "en",
+    "pack_id": "13313000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4989,
+    "card_image_id": 1,
+    "card_number": "YS15-ENY19",
+    "language": "en",
+    "pack_id": "13313000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5102,
+    "card_image_id": 1,
+    "card_number": "YS15-END19",
+    "language": "en",
+    "pack_id": "13313000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5124,
+    "card_image_id": 1,
+    "card_number": "YS15-END17",
+    "language": "en",
+    "pack_id": "13313000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5538,
+    "card_image_id": 1,
+    "card_number": "YS15-END15",
+    "language": "en",
+    "pack_id": "13313000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5762,
+    "card_image_id": 1,
+    "card_number": "YS15-END02",
+    "language": "en",
+    "pack_id": "13313000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 5905,
+    "card_image_id": 1,
+    "card_number": "YS15-END12",
+    "language": "en",
+    "pack_id": "13313000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 6025,
+    "card_image_id": 1,
+    "card_number": "YS15-END08",
+    "language": "en",
+    "pack_id": "13313000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 6196,
+    "card_image_id": 1,
+    "card_number": "YS15-ENY06",
+    "language": "en",
+    "pack_id": "13313000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 6390,
+    "card_image_id": 1,
+    "card_number": "YS15-ENY04",
+    "language": "en",
+    "pack_id": "13313000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 6418,
+    "card_image_id": 1,
+    "card_number": "YS15-END04",
+    "language": "en",
+    "pack_id": "13313000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 6547,
+    "card_image_id": 1,
+    "card_number": "YS15-END05",
+    "language": "en",
+    "pack_id": "13313000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7094,
+    "card_image_id": 1,
+    "card_number": "YS15-END10",
+    "language": "en",
+    "pack_id": "13313000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7246,
+    "card_image_id": 1,
+    "card_number": "YS15-ENY05",
+    "language": "en",
+    "pack_id": "13313000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7385,
+    "card_image_id": 1,
+    "card_number": "YS15-END11",
+    "language": "en",
+    "pack_id": "13313000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7436,
+    "card_image_id": 1,
+    "card_number": "YS15-ENY11",
+    "language": "en",
+    "pack_id": "13313000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7610,
+    "card_image_id": 1,
+    "card_number": "YS15-ENY09",
+    "language": "en",
+    "pack_id": "13313000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7871,
+    "card_image_id": 1,
+    "card_number": "YS15-END06",
+    "language": "en",
+    "pack_id": "13313000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 7991,
+    "card_image_id": 1,
+    "card_number": "YS15-END03",
+    "language": "en",
+    "pack_id": "13313000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 8394,
+    "card_image_id": 1,
+    "card_number": "YS15-END07",
+    "language": "en",
+    "pack_id": "13313000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 9802,
+    "card_image_id": 1,
+    "card_number": "YS15-END09",
+    "language": "en",
+    "pack_id": "13313000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 9863,
+    "card_image_id": 1,
+    "card_number": "YS15-ENY01",
+    "language": "en",
+    "pack_id": "13313000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10116,
+    "card_image_id": 1,
+    "card_number": "YS15-ENY08",
+    "language": "en",
+    "pack_id": "13313000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10550,
+    "card_image_id": 1,
+    "card_number": "YS15-ENY18",
+    "language": "en",
+    "pack_id": "13313000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11148,
+    "card_image_id": 1,
+    "card_number": "YS15-ENY03",
+    "language": "en",
+    "pack_id": "13313000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11768,
+    "card_image_id": 1,
+    "card_number": "YS15-ENY00",
+    "language": "en",
+    "pack_id": "13313000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 11769,
+    "card_image_id": 1,
+    "card_number": "YS15-END00",
+    "language": "en",
+    "pack_id": "13313000",
+    "rarity_id": 4
+  }
+]

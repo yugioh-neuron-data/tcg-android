@@ -1,0 +1,23 @@
+{
+  "attack_power": "200",
+  "attribute_id": 6,
+  "card_id": 14339,
+  "card_name": "Geschwindigkeitsroid Murmelmaschine",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Einmal pro Spielzug, wenn dein Monster in Verteidigungsposition als Angriffsziel gewählt wird: Du kannst es in die offene Angriffsposition ändern, zusätzlich kann es in diesem Spielzug nicht durch Kampf zerstört werden (selbst falls diese Karte das Spielfeld verlässt).",
+  "card_text": "Wenn diese Karte als Normalbeschwörung beschworen wird: Du kannst diesen Effekt aktivieren; füge deiner Hand 1 „Geschwindigkeitsroid“-Monster von deinem Deck hinzu, zusätzlich kannst du für den Rest dieses Spielzugs keine Monster als Spezialbeschwörung beschwören, außer WIND Monstern. Du kannst diesen Effekt von „Geschwindigkeitsroid Murmelmaschine“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2020/03/19",
+  "species_id": 7,
+  "starchip": "2"
+}

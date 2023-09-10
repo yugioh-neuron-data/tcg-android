@@ -1,0 +1,23 @@
+{
+  "attack_power": "900",
+  "attribute_id": 2,
+  "card_id": 14450,
+  "card_name": "Cruzadora Debug",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se você controlar 2 ou mais Monstros Link: você pode Invocar este card por Invocação-Especial da sua mão. Durante o cálculo de dano, se um Monstro Link seu batalhar um Monstro Link do oponente (Efeito Rápido): você pode banir este card do seu Cemitério e, depois, escolher 1 Monstro Link no seu Cemitério; seu monstro que está batalhando não pode ser destruído nessa batalha e, além disso, até o final deste turno, ele ganha ATK igual ao ATK do alvo. Você só pode usar cada efeito de \"Cruzadora Debug\" uma vez por turno.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/07/26",
+  "species_id": 27,
+  "starchip": "2"
+}

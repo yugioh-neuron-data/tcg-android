@@ -1,0 +1,23 @@
+{
+  "attack_power": "3500",
+  "attribute_id": 5,
+  "card_id": 8018,
+  "card_name": "ハイパーサイコガンナー／バスター",
+  "card_name_label": "ハイパーサイコガンナースラッシュバスター",
+  "card_name_search": "はいぱーさいこがんなーすらっしゅばすたー",
+  "card_pen_effect": "",
+  "card_text": "このカードは通常召喚できない。「バスター・モード」の効果でのみ特殊召喚できる。このカードが相手モンスターと戦闘を行ったダメージステップ終了時、その相手モンスターの守備力分のダメージを相手ライフに与え、その攻撃力分だけ自分のライフポイントを回復する。また、フィールド上のこのカードが破壊された時、自分の墓地の「ハイパーサイコガンナー」１体を選択して特殊召喚できる。",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/11/15",
+  "species_id": 21,
+  "starchip": "11"
+}

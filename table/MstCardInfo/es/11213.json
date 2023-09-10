@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 2,
+  "card_id": 11213,
+  "card_name": "Dragón de Péndulo de Ojos Anómalos",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Puedes reducir a 0 el daño de batalla que recibas de un ataque que involucre a un Monstruo de Péndulo que controles. Durante tu End Phase: puedes destruir esta carta y, si lo haces, añade a tu mano 1 Monstruo de Péndulo con 1500 ATK o menos en tu Deck. Sólo puedes usar cada Efecto de Péndulo de \"Dragón de Péndulo de Ojos Anómalos\" una vez por turno.",
+  "card_text": "Si esta carta batalla con un monstruo del adversario, cualquier daño de batalla que esta carta inflija a tu adversario se duplica.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "4",
+  "pen_scale_r": "4",
+  "sales_at": "2014/08/14",
+  "species_id": 1,
+  "starchip": "7"
+}

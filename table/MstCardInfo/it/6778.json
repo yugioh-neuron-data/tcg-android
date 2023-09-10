@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 6,
+  "card_id": 6778,
+  "card_name": "Rallis Volatile delle Stelle",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Aumenta l'ATK di questa carta del Livello del mostro con cui combatte x 200 punti solo durante il Damage Step. Se questa carta attacca, viene rimossa dal gioco alla fine del Damage Step e fatta ritornare sul tuo Terreno scoperta in Posizione di Attacco all'inizio della tua prossima Battle Phase.",
+  "defense_power": "800",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/08/16",
+  "species_id": 16,
+  "starchip": "3"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2300",
+  "attribute_id": 3,
+  "card_id": 11049,
+  "card_name": "Sylvanischer Lotuschiffer",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Einmal pro Spielzug: Du kannst eine Anzahl oberste Karten deines Decks ausgraben in Höhe der Anzahl der Karten, die dein Gegner kontrolliert, alle ausgegrabenen Monster vom Typ Pflanze auf den Friedhof legen, zusätzlich lege die anderen Karten in beliebiger Reihenfolge unter dein Deck. Falls diese Karte durch einen Karteneffekt vom Deck ausgegraben und auf den Friedhof gelegt wird: Du kannst bis zu 5 „Sylvan“-Karten in deinem Friedhof wählen, außer „Sylvanischer Lotuschiffer“; lege sie in beliebiger Reihenfolge unter dein Deck.",
+  "defense_power": "1100",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/05/15",
+  "species_id": 13,
+  "starchip": "5"
+}

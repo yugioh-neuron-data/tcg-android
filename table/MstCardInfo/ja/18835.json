@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 4,
+  "card_id": 18835,
+  "card_name": "シャルル大帝",
+  "card_name_label": "シャルルたいてい",
+  "card_name_search": "しゃるるたいてい",
+  "card_pen_effect": "",
+  "card_text": "装備カードを装備しているレベル９の「焔聖騎士帝－シャルル」１体$N①：このカードがL召喚した場合、自分の墓地の「焔聖騎士帝－シャルル」１体を対象として発動できる。このカードはそのカードと同名カードとして扱い、同じ効果を得る。その後、対象のモンスターを攻撃力５００アップの装備魔法カード扱いでこのカードに装備する。$N②：１ターンに１度、魔法・罠カードの効果が発動した時、自分の手札・フィールド（表側表示）から装備魔法カード１枚を墓地へ送って発動できる。その発動を無効にし破壊する。",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "2",
+  "linkno": "1",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/04/22",
+  "species_id": 15,
+  "starchip": ""
+}

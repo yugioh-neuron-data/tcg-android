@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 12150,
+  "card_name": "Cebra Chiflada",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Una vez por turno, durante tu Main Phase, si esta carta fue activada este turno: puedes elegir 1 espacio en la Zona de Monstruos o Zona de Magia y Trampas que no esté siendo usado; mientras esta carta esté en la Zona de Péndulo, la Zona elegida no puede ser usada.",
+  "card_text": "Si esta carta es Invocada de Modo Normal o Especial: puedes elegir 1 espacio en la Zona de Monstruos o Zona de Magia y Trampas que no esté siendo usado; mientras esta carta esté boca arriba en la Zona de Monstruos, esa Zona no puede ser usada.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "7",
+  "pen_scale_r": "7",
+  "sales_at": "2016/01/14",
+  "species_id": 11,
+  "starchip": "2"
+}

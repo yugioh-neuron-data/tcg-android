@@ -1,0 +1,23 @@
+{
+  "attack_power": "2200",
+  "attribute_id": 4,
+  "card_id": 6920,
+  "card_name": "Goka, le Bûcher de Malice",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si vous contrôlez un monstre FEU, vous pouvez Invoquer Spécialement cette carte (depuis votre main). Lorsque vous le faites : ciblez 1 monstre FEU que vous contrôlez ; détruisez la cible. Durant chacune de vos Standby Phases : Invoquez Spécialement 1 \"Jeton Boule de Feu\" (Type Pyro/FEU/Niveau 1/ATK 100/DEF 100) en Position de Défense. Vous pouvez Sacrifier 1 autre monstre FEU ; jusqu'à la End Phase, cette carte gagne 500 ATK.",
+  "defense_power": "1900",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/11/18",
+  "species_id": 2,
+  "starchip": "6"
+}

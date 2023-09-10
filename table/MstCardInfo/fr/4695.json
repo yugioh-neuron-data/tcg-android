@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 4695,
+  "card_name": "Piège Inversé",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Jusqu'à la End Phase, tous les effets additionnant ou soustrayant de l'ATK/DEF sont inversés. (Les additions deviennent des soustractions, les soustractions deviennent des additions. Les multiplications et divisions, doubler/diviser par deux inclus, ne sont pas affectées.)",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/03/29",
+  "species_id": 25,
+  "starchip": "0"
+}

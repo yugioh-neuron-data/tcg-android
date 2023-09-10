@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 1,
+  "card_id": 6345,
+  "card_name": "E・HERO サンダー・ジャイアント",
+  "card_name_label": "エレメンタルヒーロー　サンダー・ジャイアント",
+  "card_name_search": "えれめんたるひーろーさんだーじゃいあんと",
+  "card_pen_effect": "",
+  "card_text": "「E・HERO スパークマン」＋「E・HERO クレイマン」$Nこのモンスターは融合召喚でしか特殊召喚できない。自分の手札を１枚捨てる事で、フィールド上に表側表示で存在する元々の攻撃力がこのカードの攻撃力よりも低いモンスター１体を選択して破壊する。この効果は１ターンに１度だけ自分のメインフェイズに使用する事ができる。",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/02/24",
+  "species_id": 15,
+  "starchip": "6"
+}

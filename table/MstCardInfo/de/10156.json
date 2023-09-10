@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 5,
+  "card_id": 10156,
+  "card_name": "Magidolce Puddzessin",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Erhält 800 ATK/DEF, solange du keine Monster in deinem Friedhof hast. Falls diese Karte, die dir gehört, durch eine Karte eines Gegners zerstört und auf deinen Friedhof gelegt wird: Mische diese Karte ins Deck. Nach der Schadensberechnung, falls diese Karte gegen ein Monster eines Gegners kämpft: Du kannst 1 Karte wählen, die dein Gegner kontrolliert; zerstöre das gewählte Ziel.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/08/23",
+  "species_id": 17,
+  "starchip": "5"
+}

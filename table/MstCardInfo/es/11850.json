@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 11850,
+  "card_name": "Ojos Indecisos",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Destruye tantas cartas como sea posible en las Zonas de Péndulo de cada jugador, y después aplica estos efectos en secuencia, dependiendo del número de cartas destruidas por este efecto.$N●1+: Inflige 500 puntos de daño a tu adversario.$N●2+: Puedes añadir a tu mano 1 Monstruo de Péndulo en tu Deck Principal.$N●3+: Puedes desterrar 1 carta en el Campo.$N●4: Puedes añadir a tu mano 1 \"Ojos Indecisos\" en tu Deck.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/07/02",
+  "species_id": 24,
+  "starchip": "0"
+}

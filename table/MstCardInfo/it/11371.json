@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 5,
+  "card_id": 11371,
+  "card_name": "Criceto da Soccorso",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Puoi bandire questa carta dalla tua Zona Pendulum; aggiungi 2 Carte Mostro Pendulum scoperte con lo stesso nome dal tuo Extra Deck alla tua mano. Puoi utilizzare questo effetto di \"Criceto da Soccorso\" una sola volta per Duello.",
+  "card_text": "Se questa carta è stata Evocata Normalmente in questo turno e tu hai una Carta Mostro Pendulum di Livello 5 o inferiore scoperta nel tuo Extra Deck: puoi offrire come Tributo questa carta; seleziona 1 Carta Mostro Pendulum di Livello 5 o inferiore scoperta nel tuo Extra Deck, ed Evoca Specialmente dal tuo Deck 2 mostri con lo stesso nome di quella carta, ma i loro effetti si annullano, inoltre essi vengono distrutti durante la End Phase.",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2014/11/06",
+  "species_id": 11,
+  "starchip": "4"
+}

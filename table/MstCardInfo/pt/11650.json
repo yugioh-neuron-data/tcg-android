@@ -1,0 +1,23 @@
+{
+  "attack_power": "4000",
+  "attribute_id": 2,
+  "card_id": 11650,
+  "card_name": "Dragão Dracocitos Alma-Infernal Corrompida",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Regulador de TREVAS + 1 monstro não-Regulador do Tipo Dragão$NNão pode ser destruído em batalha. Quando este card destruir um monstro do oponente em batalha e enviá-lo para o Cemitério: você pode ativar este efeito; este card pode realizar um segundo ataque em seguida contra um monstro do oponente. Durante sua Fase de Apoio: você pode escolher 1 monstro com a face para cima que seu oponente controla; o ATK dele se torna metade do ATK atual dele e, se isso acontecer, cause dano ao seu oponente igual ao valor de ATK perdido.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/03/20",
+  "species_id": 1,
+  "starchip": "10"
+}

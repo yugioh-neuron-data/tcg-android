@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 5,
+  "card_id": 8745,
+  "card_name": "ポセイドン・オオカブト",
+  "card_name_label": "ポセイドン・オオカブト",
+  "card_name_search": "ぽせいどんおおかぶと",
+  "card_pen_effect": "",
+  "card_text": "このカードが相手フィールド上に表側攻撃表示で存在するモンスターを攻撃し、そのモンスターが戦闘によって破壊されなかった場合、同じモンスターに続けて攻撃する事ができる。この効果は１ターンに２度まで使用できる。",
+  "defense_power": "2300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/12/19",
+  "species_id": 10,
+  "starchip": "7"
+}

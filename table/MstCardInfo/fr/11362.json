@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 2,
+  "card_id": 11362,
+  "card_name": "Chien de Chasse Marionnette de l'Ombre",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "FLIP : Vous pouvez cibler 1 carte \"Marionnette de l'Ombre\" dans votre Cimetière ; ajoutez-la à votre main.$NSi cette carte est envoyée au Cimetière par un effet de carte : vous pouvez cibler 1 monstre sur le Terrain ; changez sa position de combat. (Les effets de monstres Flip, monstres \"Marionnette de l'Ombre\" exclus, ne sont pas activés à ce moment.) Vous ne pouvez utiliser qu'1 effet de \"Chien de Chasse Marionnette de l'Ombre\" par tour, et uniquement une fois le tour.",
+  "defense_power": "900",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 24,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/09/11",
+  "species_id": 18,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1100",
+  "attribute_id": 2,
+  "card_id": 13137,
+  "card_name": "魔界劇団カーテン・ライザー",
+  "card_name_label": "まかいげきだんカーテン・ライザー",
+  "card_name_search": "まかいげきだんかーてんらいざー",
+  "card_pen_effect": "このカード名のP効果はデュエル中に１度しか使用できない。①：自分フィールドにモンスターが存在しない場合に発動できる。Pゾーンのこのカードを特殊召喚する。",
+  "card_text": "①：自分フィールドにこのカード以外のモンスターが存在しない場合、このカードの攻撃力は１１００アップする。②：１ターンに１度、デッキから「魔界台本」魔法カード１枚を墓地へ送って発動できる。自分のEXデッキから表側表示の「魔界劇団」Pモンスター１体を手札に加える。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "7",
+  "pen_scale_r": "7",
+  "sales_at": "2017/05/13",
+  "species_id": 3,
+  "starchip": "4"
+}

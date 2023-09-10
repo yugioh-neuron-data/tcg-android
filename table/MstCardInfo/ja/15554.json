@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 15554,
+  "card_name": "インフェルニティ・サプレッション",
+  "card_name_label": "インフェルニティ・サプレッション",
+  "card_name_search": "いんふぇるにてぃさぷれっしょん",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。自分の手札が０枚の場合、このカードはセットしたターンでも発動できる。①：自分フィールドに「インフェルニティ」モンスターが存在し、相手がモンスターの効果を発動した時に発動できる。その効果を無効にする。その後、そのモンスターのレベル×１００ダメージを相手に与える事ができる。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/08/08",
+  "species_id": 25,
+  "starchip": "0"
+}

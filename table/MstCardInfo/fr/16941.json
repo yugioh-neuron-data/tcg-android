@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 3,
+  "card_id": 16941,
+  "card_name": "Batteur Léger de la Coléoptroupe",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez cibler 2 de vos monstres \"Coléoptroupe\" de noms différents, qui sont bannis et/ou dans votre Cimetière ; ajoutez-les à votre main, mais le reste de ce tour vous ne pouvez activer ni leurs effets ni les effets des cartes avec leur nom. Lorsqu'un monstre de l'adversaire déclare une attaque : vous pouvez renvoyer cette carte à la main, et si vous le faites, annulez l'attaque. Vous ne pouvez utiliser chaque effet de \"Batteur Léger de la Coléoptroupe\" qu'une fois par tour.",
+  "defense_power": "2200",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/11/04",
+  "species_id": 10,
+  "starchip": "6"
+}

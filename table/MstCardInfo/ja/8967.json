@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 2,
+  "card_id": 8967,
+  "card_name": "野望のゴーファー",
+  "card_name_label": "やぼうのゴーファー",
+  "card_name_search": "やぼうのごーふぁー",
+  "card_pen_effect": "",
+  "card_text": "１ターンに１度、相手フィールド上に存在するモンスターを２体まで選択して発動する事ができる。相手は手札のモンスター１体を見せてこのカードの効果を無効にする事ができる。見せなかった場合、選択したモンスターを破壊する。",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/04/17",
+  "species_id": 3,
+  "starchip": "6"
+}

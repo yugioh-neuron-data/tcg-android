@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 5,
+  "card_id": 12148,
+  "card_name": "Deskbot 008",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Non puoi Evocare Pendulum mostri, eccetto mostri \"Deskbot\". Questo effetto non può essere annullato.",
+  "card_text": "Questa carta guadagna 500 ATK per ogni carta \"Deskbot\" nel tuo Cimitero. Il tuo avversario non può scegliere come bersaglio carte \"Deskbot\" scoperte con gli effetti delle carte, eccetto questo. Questa carta può effettuare fino a 2 attacchi su mostri durante ogni Battle Phase.",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2016/01/14",
+  "species_id": 7,
+  "starchip": "8"
+}

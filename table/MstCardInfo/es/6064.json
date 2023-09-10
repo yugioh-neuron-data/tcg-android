@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 6064,
+  "card_name": "Gong del Destino",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Sólo puedes activar esta carta durante el turno de tu adversario. Selecciona 1 monstruo boca arriba en el Campo de tu adversario. Durante tu próximo turno, cuando Invocas con éxito mediante una Invocación Normal un monstruo que sea 1 Nivel inferior al monstruo seleccionado, inflige daño a los Life Points de tu adversario igual al Nivel del monstruo selccionado x 500 puntos.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/06/01",
+  "species_id": 25,
+  "starchip": "0"
+}

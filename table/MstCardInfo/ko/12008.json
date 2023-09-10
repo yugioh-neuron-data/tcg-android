@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 12008,
+  "card_name": "사이코 블레이드",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"사이코 블레이드\"는 1턴에 1장밖에 발동할 수 없다. 100 의 배수의 LP를 지불하고 이 카드를 발동할 수 있다(최대 2000 까지). ①: 장착 몬스터의 공격력 / 수비력은, 이 카드를 발동하기 위해 지불한 LP의 수치만큼 올린다.",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/11/06",
+  "species_id": 24,
+  "starchip": "0"
+}

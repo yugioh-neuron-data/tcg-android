@@ -1,0 +1,23 @@
+{
+  "attack_power": "900",
+  "attribute_id": 2,
+  "card_id": 11697,
+  "card_name": "Zefrainaga Sombrañeca",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "No puedes Invocar monstruos por Péndulo, excepto monstruos \"Sombrañeca\" y \"Zefra\". Este efecto no puede ser negado.",
+  "card_text": "Si esta carta es Invocada por Péndulo o mandada al Cementerio: puedes seleccionar 1 carta en la Zona de Péndulo de cualquier jugador; devuélvela a la mano. Debes tener una carta \"Zefra\" en tu Zona de Péndulo para activar y resolver este efecto. Sólo puedes usar este efecto de \"Zefrainaga Sombrañeca\" una vez por turno.",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2015/05/14",
+  "species_id": 18,
+  "starchip": "2"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 5547,
+  "card_name": "Piège du Tampon Effaceur",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsqu'un effet qui inflige des dommages aux Life Points est activé (exceptés les dommages de combat), annulez les dommages infligés à vos Life Points. Votre adversaire sélectionne ensuite 1 carte de sa main et la défausse.",
+  "defense_power": "0",
+  "effect_id": 1,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/11/01",
+  "species_id": 25,
+  "starchip": "0"
+}

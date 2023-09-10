@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 1,
+  "card_id": 15083,
+  "card_name": "宣告者の神巫",
+  "card_name_label": "デクレアラー・ディヴァイナー",
+  "card_name_search": "でくれあらーでぃヴぁいなー",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功した場合に発動できる。デッキ・EXデッキから天使族モンスター１体を墓地へ送る。このカードのレベルはターン終了時まで、そのモンスターのレベル分だけ上がる。②：このカードがリリースされた場合に発動できる。手札・デッキから「宣告者の神巫」以外のレベル２以下の天使族モンスター１体を特殊召喚する。",
+  "defense_power": "300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/02/04",
+  "species_id": 17,
+  "starchip": "2"
+}

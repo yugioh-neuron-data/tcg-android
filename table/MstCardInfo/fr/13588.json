@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 6,
+  "card_id": 13588,
+  "card_name": "Cheval Lièvre Rouge Hâtif",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "S'il y a une colonne sans aucune carte, vous pouvez Invoquer Spécialement cette carte (depuis votre main) en Position d'Attaque dans votre zone de cette colonne. Vous ne pouvez Invoquer Spécialement \"Cheval Lièvre Rouge Hâtif\" qu'une fois par tour de cette façon. Si une autre carte est placée dans la colonne de cette carte : détruisez cette carte. Une fois par tour : vous pouvez diviser par deux l'ATK d'origine de cette carte le reste de ce tour, et si vous le faites, elle peut attaquer directement ce tour.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/05/03",
+  "species_id": 11,
+  "starchip": "5"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 2,
+  "card_id": 5657,
+  "card_name": "Científico Mágico",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Paga 1000 Life Points para Invocar mediante una Invocación Especial 1 Monstruo de Fusión de Nivel 6 o inferior de tu Deck Extra. Ese Monstruo de Fusión no puede atacar los Life Points de tu adversario directamente, y es devuelto a tu Deck Extra al final del turno.",
+  "defense_power": "300",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/03/19",
+  "species_id": 18,
+  "starchip": "1"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 6451,
+  "card_name": "Göttliche Evolution",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Aktivierung und Effekt dieser Karte können nicht annulliert werden. Bestimme 1 Monster, das du kontrollierst und dessen Grund-Typ Göttliches Ungeheuer oder dessen Grund-Name „Der Avatar des Bösen“, „Die Wurzel des Bösen“ oder „Der Auslöscher des Bösen“ ist, außer einem Monster, das bereits von „Göttliche Evolution“ betroffen ist, und es erhält 1000 ATK/DEF, die Aktivierung seiner Effekte und seine aktivierten Effekte können nicht annulliert werden, zusätzlich erhält es den folgenden Effekt.$N●Wenn diese Karte einen Angriff deklariert: Du kannst deinen Gegner 1 Monster, das er kontrolliert, auf den Friedhof legen lassen (er bestimmt).",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/06/17",
+  "species_id": 24,
+  "starchip": "0"
+}

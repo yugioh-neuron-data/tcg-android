@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 15954,
+  "card_name": "三相魔神コーディウス",
+  "card_name_label": "さんそうまじんコーディウス",
+  "card_name_search": "さんそうまじんこーでぃうす",
+  "card_pen_effect": "",
+  "card_text": "Sモンスター＋Xモンスター＋リンクモンスター$Nこのカード名の効果は１ターンに１度しか使用できない。①：融合召喚したこのカードがフィールドに表側表示で存在する限り１度だけ、２０００の倍数のLPを払い、払ったLP２０００につき１つ、以下の効果から選択して発動できる。$N●自分の墓地から魔法・罠カード１枚を選んで手札に加える。$N●相手フィールドのカード３枚を選んで破壊する。$N●このターン、他の自分のモンスターは攻撃できず、このカードの攻撃力はお互いのLPの差の半分アップする。",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/09/25",
+  "species_id": 3,
+  "starchip": "9"
+}

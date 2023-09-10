@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 4,
+  "card_id": 6189,
+  "card_name": "逆巻く炎の精霊",
+  "card_name_label": "さかまくほのおのせいれい",
+  "card_name_search": "さかまくほのおのせいれい",
+  "card_pen_effect": "",
+  "card_text": "このカードは相手プレイヤーに直接攻撃できる。このカードが直接攻撃によって相手ライフに戦闘ダメージを与えた時、このカードの攻撃力は１０００ポイントアップする。",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/08/05",
+  "species_id": 4,
+  "starchip": "3"
+}

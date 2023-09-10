@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 2,
+  "card_id": 8179,
+  "card_name": "ゴーレム",
+  "card_name_label": "ゴーレム",
+  "card_name_search": "ごーれむ",
+  "card_pen_effect": "",
+  "card_text": "このカードがフィールド上に表側表示で存在する限り、フィールド上に表側表示で存在する光属性モンスターの効果は無効化される。このカードが戦闘によって光属性モンスターを破壊した場合、もう１度だけ続けて攻撃する事ができる。",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/02/14",
+  "species_id": 3,
+  "starchip": "6"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 14952,
+  "card_name": "Dragoon Oscuro de Ojos Rojos",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"Mago Oscuro\" + \"Dragón Negro de Ojos Rojos\" o 1 Monstruo de Efecto Dragón$NNo puede ser destruido por efectos de cartas. Ningún jugador puede seleccionar esta carta con efectos de cartas. Durante tu Main Phase: puedes destruir 1 monstruo que controle tu adversario y, si lo haces, inflige daño a tu adversario igual al ATK original de ese monstruo. Puedes usar este efecto hasta un número de veces por turno como el número de Monstruos Normales usados como Material de Fusión para esta carta. Una vez por turno, cuando es activada una carta o efecto (Efecto Rápido): puedes descartar 1 carta; niega la activación y, si lo haces, destruye esa carta y, si haces eso, esta carta gana 1000 ATK.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/08/27",
+  "species_id": 18,
+  "starchip": "8"
+}

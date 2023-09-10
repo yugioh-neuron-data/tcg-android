@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 8212,
+  "card_name": "지고의 나무열매",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드의 발동시에, 자신의 라이프 포인트가 상대보다 낮을 경우, 자신은 2000 라이프 포인트를 회복한다. 자신의 라이프 포인트가 상대보다 높을 경우, 자신은 1000 포인트 데미지를 받는다.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/07/10",
+  "species_id": 24,
+  "starchip": "0"
+}

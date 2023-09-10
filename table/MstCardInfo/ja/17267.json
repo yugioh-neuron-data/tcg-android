@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 1,
+  "card_id": 17267,
+  "card_name": "八雷天神",
+  "card_name_label": "ヤクサイカヅチノカミ",
+  "card_name_search": "やくさいかづちのかみ",
+  "card_pen_effect": "",
+  "card_text": "このカード名の②の効果は１ターンに１度しか使用できない。①：このカードは自分の墓地のレベルまたはランクが８のモンスター１体を除外し、手札から特殊召喚できる。②：自分の墓地のレベルまたはランクが８の儀式・融合・S・Xモンスター１体を対象として発動できる。そのモンスターをデッキに戻す。その後、戻したモンスターの種類によって以下の効果を適用する。$N●儀式・融合：自分はデッキから１枚ドローする。$N●S・X：このカードの攻撃力は１０００アップする。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/12/21",
+  "species_id": 26,
+  "starchip": "8"
+}

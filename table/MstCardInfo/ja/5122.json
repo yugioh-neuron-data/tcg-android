@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 5122,
+  "card_name": "ディフェンド・スライム",
+  "card_name_label": "ディフェンド・スライム",
+  "card_name_search": "でぃふぇんどすらいむ",
+  "card_pen_effect": "",
+  "card_text": "相手モンスターが自分のモンスターに攻撃した時、自分のフィールド上に「リバイバルスライム」が表側表示で存在している場合、攻撃対象を「リバイバルスライム」に移し替える事ができる。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2001/04/19",
+  "species_id": 25,
+  "starchip": "0"
+}

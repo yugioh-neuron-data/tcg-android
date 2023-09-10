@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 14382,
+  "card_name": "Kubische Kausalität",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Verteile eine Anzahl Kubisch-Zählmarken bis zur Anzahl der „Kubisch“-Monster, die du kontrollierst, auf offene Monster, die dein Gegner kontrolliert. (Monster mit einer Kubisch-Zählmarke können nicht angreifen, zusätzlich annulliere ihre Effekte.) Du kannst diese Karte von deinem Friedhof verbannen und dann 1 „Kubisch“-Monster wählen, das du kontrollierst; jedes Mal, dass es in diesem Spielzug ein Monster mit einer Kubisch-Zählmarke durch Kampf zerstört, füge deinem Gegner Schaden in Höhe der Grund-ATK des zerstörten Monsters zu. Du kannst jeden Effekt von „Kubische Kausalität“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/03/19",
+  "species_id": 25,
+  "starchip": "0"
+}

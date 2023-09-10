@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 18538,
+  "card_name": "RENFORCEMENT !",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "(Cette carte est toujours traitée comme une carte \"Secours-AS\".)$NCiblez 1 monstre \"Secours-AS\" que vous contrôlez ; le reste de ce tour, le monstre que vous contrôlez gagne 1500 ATK/DEF, il n'est pas affecté par les effets de monstre de votre adversaire, et la prochaine fois qu'il va être détruit au combat, il n'est pas détruit. Vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 Magie \"Secours-AS\" dans votre Cimetière ; Posez la carte. Vous ne pouvez utiliser cet effet de \"RENFORCEMENT !\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/05/04",
+  "species_id": 25,
+  "starchip": "0"
+}

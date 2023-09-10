@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 10431,
+  "card_name": "炎舞－「天権」",
+  "card_name_label": "えんぶ－「テンケン」",
+  "card_name_search": "えんぶてんけん",
+  "card_pen_effect": "",
+  "card_text": "このカードはメインフェイズ１でのみ発動できる。このカードの発動時に、自分フィールド上の獣戦士族モンスター１体を選択する。このカードを発動したメインフェイズ１の間だけ、選択したモンスターの効果は無効になり、このカード以外のカードの効果を受けない。また、このカードがフィールド上に存在する限り、自分フィールド上の獣戦士族モンスターの攻撃力は３００ポイントアップする。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/11/17",
+  "species_id": 25,
+  "starchip": "0"
+}

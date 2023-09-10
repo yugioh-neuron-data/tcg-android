@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 7275,
+  "card_name": "HÉROE Elemental Chaos Neos",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"HÉROE Elemental Neos\" + \"Pantera Oscura Neo Espacial\" + \"Musgo Refulgente Neo Espacial\"$NDebe ser primero Invocado de Modo Especial (desde tu Deck Extra) barajando al Deck las cartas listadas arriba que tú controlas. (No usas \"Polimerización\"). Una vez por turno, durante la End Phase: baraja esta carta al Deck Extra y, si lo haces, Coloca todos los monstruos boca arriba que estén en el Campo. Una vez por turno, durante tu Main Phase 1: puedes lanzar una moneda 3 veces.$N●3 Caras: Destruye todos los monstruos que controle tu adversario.$N●2 Caras: Por el resto de este turno, los efectos de todos los monstruos boca arriba que controle tu adversario son negados.$N●1 Cara: Devuelve todos los monstruos que tú controles a la mano.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/11/14",
+  "species_id": 15,
+  "starchip": "9"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 15835,
+  "card_name": "Schrecken von Trishula",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Führe diese Effekte nacheinander aus, abhängig von der Anzahl der „Eisbarriere“-Synchromonster mit unterschiedlichen Namen, die du kontrollierst;$N●1+: Verbanne 1 Karte, die dein Gegner kontrolliert.$N●2+: Verbanne 1 Karte vom Friedhof deines Gegners.$N●3+: Verbanne 1 zufällige Karte von der Hand deines Gegners.$NWenn dein Gegner eine Karte oder einen Effekt aktiviert, die oder der ein oder mehr „Eisbarriere“-Synchromonster, die du kontrollierst, als Ziel wählt: Du kannst diese Karte von deinem Friedhof verbannen; annulliere den Effekt.$NDu kannst jeden Effekt von „Schrecken von Trishula“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/02/18",
+  "species_id": 25,
+  "starchip": "0"
+}

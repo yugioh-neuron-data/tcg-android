@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 15066,
+  "card_name": "Pinpoint Dash",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Each player reveals 1 face-down card from their Extra Deck. If they are the same type (Fusion, Synchro, Xyz, or Link), send your opponent's card to the GY, and if you do, Special Summon your card, then, if the cards have the same original Type and Attribute, your opponent loses LP equal to their revealed card's ATK. Otherwise, send your card to the GY, and if you do, your opponent Special Summons their card. You can only activate 1 \"Pinpoint Dash\" per turn.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/05/01",
+  "species_id": 25,
+  "starchip": "0"
+}

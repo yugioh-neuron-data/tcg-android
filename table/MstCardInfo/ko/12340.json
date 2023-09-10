@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 12340,
+  "card_name": "분보그 베이스",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "①: 필드의 \"분보그\" 몬스터의 공격력 / 수비력은 500 올린다. ②: 1턴에 1번, 자신 메인 페이즈에 발동할 수 있다. 패의 \"분보그\" 카드를 임의의 수만큼 상대에게 보여주고, 덱으로 되돌려 셔플한다. 그 후, 자신은 덱으로 되돌린 수만큼 덱에서 드로우한다. ③: \"분보그 베이스\" 이외의 자신 필드 / 묘지의 \"분보그\" 카드 9종류를 1장씩 제외하고 발동할 수 있다. 상대의 패 / 필드 / 묘지의 카드를 전부 주인의 덱으로 되돌린다.",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/05/17",
+  "species_id": 24,
+  "starchip": "0"
+}

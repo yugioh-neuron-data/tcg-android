@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 5,
+  "card_id": 8372,
+  "card_name": "Armi da Battaglia di Koa'ki Meiru",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante ogni tua End Phase, distruggi questa carta a meno che tu non mandi 1 \"Nucleo di Ferro di Koa'ki Meiru\" dalla tua mano al Cimitero o riveli 1 mostro di Tipo Guerriero nella tua mano. Una volta per turno: puoi scegliere come bersaglio 1 mostro di Tipo Guerriero di Livello 3 o inferiore nel tuo Cimitero; equipaggia quel bersaglio a questa carta. Questa carta guadagna ATK pari alla metà della somma degli ATK dei mostri equipaggiati ad essa da questo effetto. Se questa carta sta per essere distrutta in battaglia, distruggi invece tutti i mostri equipaggiati ad essa da questo effetto.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/06/04",
+  "species_id": 15,
+  "starchip": "4"
+}

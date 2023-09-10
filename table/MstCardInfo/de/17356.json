@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 4,
+  "card_id": 17356,
+  "card_name": "Vaylantz-Genesis-Großherzog",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Du kannst 1 dieser Effekte aktivieren;$N●Beschwöre diese Karte als Spezialbeschwörung in deine Main-Monsterzone in ihre eigene Spalte.$N●Bewege 1 Monster in deiner Main-Monsterzone in eine (waagerecht) benachbarte Monsterzone.$NDu kannst diesen Effekt von „Vaylantz-Genesis-Großherzog“ nur einmal pro Spielzug verwenden.",
+  "card_text": "2 „Vaylantz“-Monster$NDiese verdeckte Karte im Extra Deck muss erst entweder als Fusionsbeschwörung beschworen werden oder als Spezialbeschwörung beschworen werden, indem du 1 „Vaylantz“-Nichtfusions-Monster der Stufe 5 oder höher in derselben Spalte wie die Extra-Monsterzone als Tribut anbietest. Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst 1 Monsterkarte in der Zauber- & Fallenzone deines Gegners wählen; gib sie auf die Hand zurück und falls du dies tust, füge deinem Gegner Schaden in Höhe ihrer ATK zu, dann erhält diese Karte ATK in Höhe der Hälfte des zugefügten Schadens.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 41,
+  "pen_scale_l": "10",
+  "pen_scale_r": "10",
+  "sales_at": "2022/08/25",
+  "species_id": 7,
+  "starchip": "10"
+}

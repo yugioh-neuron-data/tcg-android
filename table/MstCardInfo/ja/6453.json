@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 6453,
+  "card_name": "闇よりの罠",
+  "card_name_label": "やみよりのわな",
+  "card_name_search": "やみよりのわな",
+  "card_pen_effect": "",
+  "card_text": "①：自分LPが３０００以下の時、１０００LPを払い、「闇よりの罠」以外の自分の墓地の通常罠カード１枚を対象として発動できる。このカードの効果は、その墓地の通常罠カード発動時の効果と同じになる。その後、その墓地の通常罠カードを除外する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/05/21",
+  "species_id": 25,
+  "starchip": "0"
+}

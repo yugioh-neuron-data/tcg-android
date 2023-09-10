@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 6,
+  "card_id": 11621,
+  "card_name": "Guerrier de Ruée",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durant le calcul des dommages, si un Monstre Synchro \"Guerrier\" que vous contrôlez combat un monstre de l'adversaire (Effet Rapide) : vous pouvez envoyer cette carte depuis votre main au Cimetière ; l'ATK de votre monstre combattant devient le double de son ATK actuelle durant ce calcul des dommages uniquement. Vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 monstre \"Synchronique\" dans votre Cimetière ; ajoutez-le à votre main. Vous ne pouvez utiliser chaque effet de \"Guerrier de Ruée\" qu'une fois par tour.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/08/27",
+  "species_id": 15,
+  "starchip": "2"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "900",
+  "attribute_id": 2,
+  "card_id": 11697,
+  "card_name": "Bambolaombra Zefraniaga",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Non puoi Evocare Pendulum mostri, eccetto mostri \"Bambolaombra\" e \"Zefra\". Questo effetto non può essere annullato.",
+  "card_text": "Se questa carta viene Evocata Pendulum o mandata al Cimitero: puoi scegliere come bersaglio 1 carta nella Zona Pendulum di qualsiasi giocatore; falla ritornare nella mano. Devi avere una carta \"Zefra\" nella tua Zona Pendulum per attivare e risolvere questo effetto. Puoi utilizzare questo effetto di \"Bambolaombra Zefraniaga\" una sola volta per turno.",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2015/05/14",
+  "species_id": 18,
+  "starchip": "2"
+}

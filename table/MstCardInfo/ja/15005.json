@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 3,
+  "card_id": 15005,
+  "card_name": "カッター・シャーク",
+  "card_name_label": "カッター・シャーク",
+  "card_name_search": "かったーしゃーく",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①の効果は１ターンに１度しか使用できない。①：自分フィールドの水属性モンスター１体を対象として発動できる。そのモンスターと同じレベルでカード名が異なる魚族モンスター１体をデッキから守備表示で特殊召喚する。この効果で特殊召喚したモンスターは、このターン効果を発動できない。この効果の発動後、ターン終了時まで自分はXモンスターしかEXデッキから特殊召喚できない。②：このカードを水属性モンスターのX召喚に使用する場合、このカードのレベルを３または５として扱う事ができる。",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/01/11",
+  "species_id": 8,
+  "starchip": "4"
+}

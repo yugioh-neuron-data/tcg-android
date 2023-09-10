@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 5,
+  "card_id": 11945,
+  "card_name": "EMセカンドンキー",
+  "card_name_label": "エンタメイトセカンドンキー",
+  "card_name_search": "えんためいとせかんどんきー",
+  "card_pen_effect": "",
+  "card_text": "①：このカードが召喚・特殊召喚に成功した時に発動できる。デッキから「EMセカンドンキー」以外の「EM」モンスター１体を墓地へ送る。自分のPゾーンにカードが２枚存在する場合、墓地へ送らず手札に加える事もできる。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/07/18",
+  "species_id": 11,
+  "starchip": "4"
+}

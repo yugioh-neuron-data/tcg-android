@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 5152,
+  "card_name": "モンスター回収",
+  "card_name_label": "モンスターかいしゅう",
+  "card_name_search": "もんすたーかいしゅう",
+  "card_pen_effect": "",
+  "card_text": "元々の持ち主が自分となる、自分フィールド上のモンスター１体を選択して発動できる。選択したモンスターと自分の手札を全てデッキに加えてシャッフルする。その後、元の手札の枚数分だけデッキからカードをドローする。元々の持ち主が相手となるカードが自分の手札にある場合、このカードは発動できない。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2000/12/14",
+  "species_id": 24,
+  "starchip": "0"
+}

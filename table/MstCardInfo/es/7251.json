@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 2,
+  "card_id": 7251,
+  "card_name": "El Gran Saturno",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Esta carta no puede ser Invocada de Modo Especial desde tu mano o Deck. Una vez por turno, durante tu Main Phase, puedes descartar 1 carta y pagar 1000 Life Points para que esta carta gane 1000 ATK hasta la End Phase. Cuando esta carta es destruida y mandada al Cementerio por el efecto de una carta de tu adversario, ambos jugadores reciben daño igual al ATK de esta carta.",
+  "defense_power": "2200",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/02/18",
+  "species_id": 7,
+  "starchip": "8"
+}

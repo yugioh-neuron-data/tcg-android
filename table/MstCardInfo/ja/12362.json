@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 1,
+  "card_id": 12362,
+  "card_name": "巨竜の守護騎士",
+  "card_name_label": "ガーディアン・オブ・フェルグラント",
+  "card_name_search": "がーでぃあんおぶふぇるぐらんと",
+  "card_pen_effect": "",
+  "card_text": "①：このカードが召喚・特殊召喚に成功した場合に発動できる。自分の手札・墓地からレベル７・８のドラゴン族モンスター１体を選んで装備カード扱いとしてこのカードに装備する。②：このカードの攻撃力・守備力は、このカードの効果で装備したモンスターのそれぞれの数値の半分アップする。③：自分フィールドのモンスター１体とこのカードをリリースし、自分の墓地のレベル７・８のドラゴン族モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/02/06",
+  "species_id": 15,
+  "starchip": "4"
+}

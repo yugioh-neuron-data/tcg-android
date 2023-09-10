@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 2,
+  "card_id": 12682,
+  "card_name": "Chose de Magie",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Chaque fois qu'une Carte Magie est activée, placez 1 Compteur Magie sur cette carte lorsque la Magie est résolue. Le Niveau de cette carte est augmenté du nombre de Compteurs Magie sur elle. Vous pouvez retirer 3 Compteurs Magie de cette carte, puis ciblez 1 Magie Jeu-Rapide dans votre Cimetière ; Posez la carte dans votre Zone Magie & Piège. Vous ne pouvez utiliser cet effet de \"Chose de Magie\" qu'une fois par tour.",
+  "defense_power": "1300",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/07/30",
+  "species_id": 18,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 4,
+  "card_id": 11419,
+  "card_name": "E・HERO ブレイズマン",
+  "card_name_label": "エレメンタルヒーロー　ブレイズマン",
+  "card_name_search": "えれめんたるひーろーぶれいずまん",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：このカードが召喚・特殊召喚に成功した場合に発動できる。デッキから「融合」１枚を手札に加える。②：自分メインフェイズに発動できる。デッキから「E・HERO ブレイズマン」以外の「E・HERO」モンスター１体を墓地へ送る。このカードはターン終了時まで、この効果で墓地へ送ったモンスターと同じ属性・攻撃力・守備力になる。この効果の発動後、ターン終了時まで自分は融合モンスターしか特殊召喚できない。",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/07/19",
+  "species_id": 15,
+  "starchip": "4"
+}

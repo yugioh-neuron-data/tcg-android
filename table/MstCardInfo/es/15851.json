@@ -1,0 +1,23 @@
+{
+  "attack_power": "3300",
+  "attribute_id": 3,
+  "card_id": 15851,
+  "card_name": "Necroz de Areadbhair",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Puedes Invocar esta carta por Ritual con cualquier Mágica de Ritual \"Necroz\". Debe ser Invocada por Ritual, sin usar ningún monstruo de Nivel 10. Sólo puedes usar cada uno de estos efectos de \"Necroz de Areadbhair\" una vez por turno.$N●Puedes descartar esta carta; Sacrifica hasta 2 monstruos \"Necroz\" en tu mano y/o Campo y, si lo haces, manda al Cementerio esa cantidad de cartas \"Necroz\" en tu Deck.$N●Cuando es activado el efecto de un monstruo (Efecto Rápido): puedes Sacrificar 1 monstruo en tu mano o Campo; niega la activación y, si lo haces, destierra esa carta.",
+  "defense_power": "3200",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 5,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/04/16",
+  "species_id": 15,
+  "starchip": "10"
+}

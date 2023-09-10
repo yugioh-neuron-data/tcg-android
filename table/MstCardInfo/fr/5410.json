@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 2,
+  "card_id": 5410,
+  "card_name": "Seigneur Vampire",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si cette carte inflige des dommages de combat à votre adversaire : déclarez 1 type de carte (Monstre, Magie ou Piège) ; votre adversaire envoie 1 carte de ce type depuis son Deck au Cimetière. Une fois par tour, durant votre prochaine Standby Phase après que cette carte en votre possession a été détruite et envoyée à votre Cimetière par un effet de carte de l'adversaire : Invoquez Spécialement cette carte depuis le Cimetière.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "1000/01/01",
+  "species_id": 2,
+  "starchip": "5"
+}

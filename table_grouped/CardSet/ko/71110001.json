@@ -1,0 +1,776 @@
+[
+  {
+    "card_count": 1,
+    "card_id": 10024,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR001",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10025,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR002",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10026,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR003",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10027,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR004",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10028,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR005",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10029,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR006",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10030,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR007",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10031,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR008",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10032,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR009",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10033,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR010",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10034,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR011",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10035,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR012",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10036,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR013",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10037,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR014",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10038,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR015",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10039,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR016",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10040,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR017",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10041,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR018",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10042,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR019",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10043,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR020",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10044,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR021",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10045,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR022",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10046,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR023",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10047,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR024",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10048,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR025",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10049,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR026",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10050,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR027",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10051,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR028",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10052,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR029",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10053,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR030",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10054,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR031",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10055,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR032",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10056,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR033",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10057,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR034",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10058,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR035",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10059,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR036",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10060,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR037",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10061,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR038",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10062,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR039",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10063,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR040",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10064,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR041",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 10064,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR041",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 10064,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR041",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 7
+  },
+  {
+    "card_count": 1,
+    "card_id": 10065,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR042",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 10065,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR042",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 10066,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR043",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10067,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR044",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10068,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR045",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 10068,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR045",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 10069,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR046",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10070,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR047",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10071,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR048",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 10071,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR048",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 10072,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR049",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10073,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR050",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 10073,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR050",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 6
+  },
+  {
+    "card_count": 1,
+    "card_id": 10074,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR051",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10075,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR052",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10076,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR053",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10077,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR054",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10078,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR055",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10079,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR056",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10080,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR057",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10081,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR058",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10082,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR059",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10083,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR060",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10084,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR061",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10085,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR062",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10086,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR063",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10087,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR064",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10088,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR065",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10089,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR066",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10090,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR067",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10091,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR068",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10092,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR069",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10093,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR070",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10094,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR071",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10095,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR072",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10096,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR073",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10097,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR074",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10098,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR075",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10099,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR076",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 10100,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR077",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 10101,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR078",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10102,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR079",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 10103,
+    "card_image_id": 1,
+    "card_number": "GAOV-KR080",
+    "language": "ko",
+    "pack_id": "71110001",
+    "rarity_id": 1
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 1,
+  "card_id": 11799,
+  "card_name": "Emダメージ・ジャグラー",
+  "card_name_label": "エンタメイジダメージ・ジャグラー",
+  "card_name_search": "えんためいじだめーじじゃぐらー",
+  "card_pen_effect": "",
+  "card_text": "「Emダメージ・ジャグラー」の③の効果は１ターンに１度しか使用できない。①：自分にダメージを与える魔法・罠・モンスターの効果が発動した時、このカードを手札から捨てて発動できる。その発動を無効にし破壊する。②：自分または相手のバトルフェイズにこのカードを手札から捨てて発動できる。このターン自分が受ける戦闘ダメージを１度だけ０にする。③：自分メインフェイズに墓地のこのカードを除外して発動できる。デッキから「Emダメージ・ジャグラー」以外の「Em」モンスター１体を手札に加える。",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/04/25",
+  "species_id": 18,
+  "starchip": "4"
+}

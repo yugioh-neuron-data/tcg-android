@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 7922,
+  "card_name": "Rugido Orgulloso",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante el cálculo de daño, si tu monstruo batalla con un monstruo del adversario cuyo ATK es mayor: paga tantos LP como la diferencia entre los ATK; tu monstruo gana ATK igual a esa diferencia +300, sólo durante el cálculo de daño.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/11/18",
+  "species_id": 25,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 6361,
+  "card_name": "Labo de Conversión de Nivel",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Selecciona 1 monstruo en tu mano y muéstraselo a tu adversario, y lanza un dado de seis caras. Si el resultado es 1, manda el monstruo seleccionado al Cementerio. Si el resultado es 2-6, el Nivel del monstruo seleccionado se convierte en el resultado hasta la End Phase de este turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/06/01",
+  "species_id": 25,
+  "starchip": "0"
+}

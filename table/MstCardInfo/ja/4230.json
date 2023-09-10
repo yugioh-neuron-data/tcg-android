@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 5,
+  "card_id": 4230,
+  "card_name": "トラップ・マスター",
+  "card_name_label": "トラップ・マスター",
+  "card_name_search": "とらっぷますたー",
+  "card_pen_effect": "",
+  "card_text": "リバース：フィールド上の罠カードを１枚破壊する。（対象カードが裏の場合、表にしてそれが罠カードなら破壊する。違う場合は元に戻す。そのカードの効果は発動しない）",
+  "defense_power": "1100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 24,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "1999/10/17",
+  "species_id": 15,
+  "starchip": "3"
+}

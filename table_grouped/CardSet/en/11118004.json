@@ -1,0 +1,902 @@
+[
+  {
+    "card_count": 1,
+    "card_id": 12857,
+    "card_image_id": 1,
+    "card_number": "DANE-EN096",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 13499,
+    "card_image_id": 1,
+    "card_number": "DANE-EN094",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 13506,
+    "card_image_id": 1,
+    "card_number": "DANE-EN095",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 13546,
+    "card_image_id": 1,
+    "card_number": "DANE-EN092",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 13547,
+    "card_image_id": 1,
+    "card_number": "DANE-EN097",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 13548,
+    "card_image_id": 1,
+    "card_number": "DANE-EN098",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14251,
+    "card_image_id": 1,
+    "card_number": "DANE-EN001",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14252,
+    "card_image_id": 1,
+    "card_number": "DANE-EN002",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14253,
+    "card_image_id": 1,
+    "card_number": "DANE-EN003",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14254,
+    "card_image_id": 1,
+    "card_number": "DANE-EN004",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14255,
+    "card_image_id": 1,
+    "card_number": "DANE-EN005",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14256,
+    "card_image_id": 1,
+    "card_number": "DANE-EN006",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14257,
+    "card_image_id": 1,
+    "card_number": "DANE-EN007",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14258,
+    "card_image_id": 1,
+    "card_number": "DANE-EN008",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14259,
+    "card_image_id": 1,
+    "card_number": "DANE-EN009",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14260,
+    "card_image_id": 1,
+    "card_number": "DANE-EN010",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14261,
+    "card_image_id": 1,
+    "card_number": "DANE-EN011",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14262,
+    "card_image_id": 1,
+    "card_number": "DANE-EN012",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14263,
+    "card_image_id": 1,
+    "card_number": "DANE-EN013",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14264,
+    "card_image_id": 1,
+    "card_number": "DANE-EN014",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14265,
+    "card_image_id": 1,
+    "card_number": "DANE-EN015",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14266,
+    "card_image_id": 1,
+    "card_number": "DANE-EN016",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14267,
+    "card_image_id": 1,
+    "card_number": "DANE-EN017",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 14268,
+    "card_image_id": 1,
+    "card_number": "DANE-EN018",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14269,
+    "card_image_id": 1,
+    "card_number": "DANE-EN019",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14270,
+    "card_image_id": 1,
+    "card_number": "DANE-EN020",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 14271,
+    "card_image_id": 1,
+    "card_number": "DANE-EN021",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14272,
+    "card_image_id": 1,
+    "card_number": "DANE-EN022",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14273,
+    "card_image_id": 1,
+    "card_number": "DANE-EN023",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14274,
+    "card_image_id": 1,
+    "card_number": "DANE-EN024",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14275,
+    "card_image_id": 1,
+    "card_number": "DANE-EN025",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 14276,
+    "card_image_id": 1,
+    "card_number": "DANE-EN026",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14277,
+    "card_image_id": 1,
+    "card_number": "DANE-EN027",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14278,
+    "card_image_id": 1,
+    "card_number": "DANE-EN028",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14279,
+    "card_image_id": 1,
+    "card_number": "DANE-EN029",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14280,
+    "card_image_id": 1,
+    "card_number": "DANE-EN030",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14281,
+    "card_image_id": 1,
+    "card_number": "DANE-EN031",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 14282,
+    "card_image_id": 1,
+    "card_number": "DANE-EN032",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14283,
+    "card_image_id": 1,
+    "card_number": "DANE-EN033",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14284,
+    "card_image_id": 1,
+    "card_number": "DANE-EN034",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14285,
+    "card_image_id": 1,
+    "card_number": "DANE-EN035",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 14286,
+    "card_image_id": 1,
+    "card_number": "DANE-EN036",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 14287,
+    "card_image_id": 1,
+    "card_number": "DANE-EN037",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 14288,
+    "card_image_id": 1,
+    "card_number": "DANE-EN038",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 14289,
+    "card_image_id": 1,
+    "card_number": "DANE-EN039",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14290,
+    "card_image_id": 1,
+    "card_number": "DANE-EN040",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14291,
+    "card_image_id": 1,
+    "card_number": "DANE-EN041",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14292,
+    "card_image_id": 1,
+    "card_number": "DANE-EN042",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14293,
+    "card_image_id": 1,
+    "card_number": "DANE-EN043",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14294,
+    "card_image_id": 1,
+    "card_number": "DANE-EN044",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14295,
+    "card_image_id": 1,
+    "card_number": "DANE-EN045",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14296,
+    "card_image_id": 1,
+    "card_number": "DANE-EN046",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 14297,
+    "card_image_id": 1,
+    "card_number": "DANE-EN047",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 14298,
+    "card_image_id": 1,
+    "card_number": "DANE-EN048",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 14299,
+    "card_image_id": 1,
+    "card_number": "DANE-EN049",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14300,
+    "card_image_id": 1,
+    "card_number": "DANE-EN050",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14301,
+    "card_image_id": 1,
+    "card_number": "DANE-EN051",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 14302,
+    "card_image_id": 1,
+    "card_number": "DANE-EN052",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 14303,
+    "card_image_id": 1,
+    "card_number": "DANE-EN053",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14304,
+    "card_image_id": 1,
+    "card_number": "DANE-EN054",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 14305,
+    "card_image_id": 1,
+    "card_number": "DANE-EN055",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14306,
+    "card_image_id": 1,
+    "card_number": "DANE-EN056",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14307,
+    "card_image_id": 1,
+    "card_number": "DANE-EN057",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 14308,
+    "card_image_id": 1,
+    "card_number": "DANE-EN058",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14309,
+    "card_image_id": 1,
+    "card_number": "DANE-EN059",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 14310,
+    "card_image_id": 1,
+    "card_number": "DANE-EN060",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14311,
+    "card_image_id": 1,
+    "card_number": "DANE-EN061",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14312,
+    "card_image_id": 1,
+    "card_number": "DANE-EN062",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14313,
+    "card_image_id": 1,
+    "card_number": "DANE-EN063",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 14314,
+    "card_image_id": 1,
+    "card_number": "DANE-EN064",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 14315,
+    "card_image_id": 1,
+    "card_number": "DANE-EN065",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14316,
+    "card_image_id": 1,
+    "card_number": "DANE-EN066",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14317,
+    "card_image_id": 1,
+    "card_number": "DANE-EN067",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14318,
+    "card_image_id": 1,
+    "card_number": "DANE-EN068",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14319,
+    "card_image_id": 1,
+    "card_number": "DANE-EN069",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14320,
+    "card_image_id": 1,
+    "card_number": "DANE-EN070",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14321,
+    "card_image_id": 1,
+    "card_number": "DANE-EN071",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14322,
+    "card_image_id": 1,
+    "card_number": "DANE-EN072",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14323,
+    "card_image_id": 1,
+    "card_number": "DANE-EN073",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14324,
+    "card_image_id": 1,
+    "card_number": "DANE-EN074",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 14325,
+    "card_image_id": 1,
+    "card_number": "DANE-EN075",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14326,
+    "card_image_id": 1,
+    "card_number": "DANE-EN076",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14327,
+    "card_image_id": 1,
+    "card_number": "DANE-EN077",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 14328,
+    "card_image_id": 1,
+    "card_number": "DANE-EN078",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 14329,
+    "card_image_id": 1,
+    "card_number": "DANE-EN079",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14330,
+    "card_image_id": 1,
+    "card_number": "DANE-EN080",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14346,
+    "card_image_id": 1,
+    "card_number": "DANE-EN093",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 14348,
+    "card_image_id": 1,
+    "card_number": "DANE-EN099",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 14530,
+    "card_image_id": 1,
+    "card_number": "DANE-EN000",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 14531,
+    "card_image_id": 1,
+    "card_number": "DANE-EN081",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14532,
+    "card_image_id": 1,
+    "card_number": "DANE-EN082",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14533,
+    "card_image_id": 1,
+    "card_number": "DANE-EN083",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 14534,
+    "card_image_id": 1,
+    "card_number": "DANE-EN084",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14535,
+    "card_image_id": 1,
+    "card_number": "DANE-EN085",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14536,
+    "card_image_id": 1,
+    "card_number": "DANE-EN086",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 14537,
+    "card_image_id": 1,
+    "card_number": "DANE-EN087",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 14538,
+    "card_image_id": 1,
+    "card_number": "DANE-EN088",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14539,
+    "card_image_id": 1,
+    "card_number": "DANE-EN089",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 14540,
+    "card_image_id": 1,
+    "card_number": "DANE-EN090",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 14541,
+    "card_image_id": 1,
+    "card_number": "DANE-EN091",
+    "language": "en",
+    "pack_id": "11118004",
+    "rarity_id": 3
+  }
+]

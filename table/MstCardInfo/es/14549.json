@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14549,
+  "card_name": "Casa de Jengibre",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante la Standby Phase de tu adversario: puedes hacer que tantos monstruos como sea posible que él controle ganen 600 ATK, y después destruye tantos monstruos como sea posible con 2500 ATK o más que él controle y, si lo haces, gana LP igual al número de monstruos destruidos x 500. (El ATK ganado permanece aún si esta carta deja el Campo). Sólo puedes usar este efecto de \"Casa de Jengibre\" una vez por turno.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/07/11",
+  "species_id": 24,
+  "starchip": "0"
+}

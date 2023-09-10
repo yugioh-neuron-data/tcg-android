@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 1,
+  "card_id": 11888,
+  "card_name": "Magischer Zeithammer",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Muss mit „Klaue des Hermos“ als Spezialbeschwörung beschworen werden, verwende dafür ein Hexer-Monster. Falls diese Karte als Spezialbeschwörung beschworen wird: Wähle 1 anderes offenes Monster auf dem Spielfeld; rüste es mit dieser Karte aus. Am Beginn des Damage Steps, falls es gegen ein Monster eines Gegners kämpft: Du kannst einen sechsseitigen Würfel werfen und das Monster des Gegners bis zur Standby Phase des n. Spielzugs nach der Aktivierung dieses Effekts verbannen (n = das Ergebnis).",
+  "defense_power": "400",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/07/16",
+  "species_id": 18,
+  "starchip": "2"
+}

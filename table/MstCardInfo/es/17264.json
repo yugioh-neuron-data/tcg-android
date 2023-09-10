@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 17264,
+  "card_name": "Ángel de Lágrimas Azules",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Selecciona 1 monstruo boca arriba en el Campo; el adversario de su controlador recibe daño igual al número de cartas en su mano x 200, y después niega los efectos de ese objetivo hasta el final de este turno. Si es infligido daño de efecto (excepto durante el Damage Step): puedes desterrar esta carta en tu Cementerio; Coloca 1 Trampa Normal directamente desde tu mano o Deck. Si es Colocada desde la mano, puede ser activada este turno. Sólo puedes usar 1 efecto de \"Ángel de Lágrimas Azules\" por turno, y sólo una vez ese turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/03/09",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2600",
+  "attribute_id": 4,
+  "card_id": 5377,
+  "card_name": "야마타 드래곤",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드는 특수 소환할 수 없다. 일반 소환/리버스한 턴의 엔드 페이즈시에 주인의 패로 되돌아간다. 이 카드가 상대 플레이어에게 전투 데미지를 주었을 때, 패가 5장이 될 때까지 덱에서 카드를 드로우한다.",
+  "defense_power": "3100",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 7,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/10/18",
+  "species_id": 1,
+  "starchip": "7"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "3400",
+  "attribute_id": 4,
+  "card_id": 11833,
+  "card_name": "Infiernoid Tierra",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"Infiernoid Onuncu\" + \"Infiernoid Devyaty\" + 1+ monstruos \"Infiernoid\"$NCuando esta carta es Invocada por Fusión, puedes: aplica estos efectos, en secuencia, basados en el número de materiales con nombres diferentes usados en la Invocación de esta carta;$N●3+: Cada jugador manda al Cementerio 3 cartas en su Deck Extra.$N●5+: Cada jugador manda al Cementerio las 3 cartas de la parte superior de su Deck.$N●8+: Cada jugador devuelve al Cementerio hasta 3 de sus cartas desterradas.$N●10+: Cada jugador manda al Cementerio toda su mano.",
+  "defense_power": "3600",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/08/06",
+  "species_id": 3,
+  "starchip": "11"
+}

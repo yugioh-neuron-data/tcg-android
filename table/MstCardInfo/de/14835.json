@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 4,
+  "card_id": 14835,
+  "card_name": "Jack-o-Bolan",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Du kannst 1 Zombie-Monster abwerfen; beschwöre diese Karte als Spezialbeschwörung von deiner Hand. Während der Main Phase deines Gegners (Schnelleffekt): Du kannst 1 Zombie-Monster in einem beliebigen Friedhof wählen; beschwöre das Monster als Spezialbeschwörung (aber verbanne es, wenn es das Spielfeld verlässt), dann verbanne diese offene Karte bis zur End Phase. Du kannst jeden Effekt von „Jack-o-Bolan“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "2200",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/01/30",
+  "species_id": 2,
+  "starchip": "7"
+}

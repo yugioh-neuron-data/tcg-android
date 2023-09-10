@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 8761,
+  "card_name": "Prêtresse des Protecteurs du Tombeau",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Tant qu'il n'y a aucune Magie de Terrain face recto, le Terrain est traité comme \"Vallée Mortuaire\". Tous les monstres \"Protecteurs du Tombeau\" sur le Terrain gagnent 200 ATK/DEF.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/02/06",
+  "species_id": 18,
+  "starchip": "3"
+}

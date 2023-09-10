@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 15149,
+  "card_name": "Mayakashi-Chaos",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls ein oder mehr Zombie-Synchromonster als Spezialbeschwörung beschworen werden, außer vom Extra Deck, selbst während des Damage Steps: Du kannst 1 der folgenden Effekte ausführen. Du kannst für den Rest dieses Spielzugs denselben Effekt von „Mayakashi-Chaos“ nicht ausführen.$N●Ziehe 1 Karte.$N●Setze 1 „Mayakashi“-Zauber/Falle direkt von deinem Deck, außer „Mayakashi-Chaos“.$N●Lege das 1 Monster mit den niedrigsten ATK, das dein Gegner kontrolliert, auf den Friedhof (bei Gleichstand bestimmst du).$N●Füge deinem Gegner 800 Schaden zu.$NDu kannst den Effekt von „Mayakashi-Chaos“ nur einmal pro Kette aktivieren.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/03/19",
+  "species_id": 25,
+  "starchip": "0"
+}

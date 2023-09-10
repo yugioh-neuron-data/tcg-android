@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 10939,
+  "card_name": "Geistertrick-Dullahan",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 Monster der Stufe 1$NDiese Karte erhält für jede „Geistertrick“-Karte, die du kontrollierst, 200 ATK. Einmal pro Spielzug (Schnelleffekt): Du kannst 1 Material von dieser Karte abhängen und dann 1 offenes Monster auf dem Spielfeld wählen; halbiere bis zum Ende dieses Spielzugs seine ATK. Falls diese Karte auf den Friedhof gelegt wird: Du kannst 1 andere „Geistertrick“-Karte in deinem Friedhof wählen; füge das gewählte Ziel deiner Hand hinzu.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/01/24",
+  "species_id": 3,
+  "starchip": "1"
+}

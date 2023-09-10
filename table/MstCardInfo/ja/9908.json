@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 2,
+  "card_id": 9908,
+  "card_name": "闇魔界の戦士長 ダークソード",
+  "card_name_label": "やみまかいのせんしちょう　ダークソード",
+  "card_name_search": "やみまかいのせんしちょうだーくそーど",
+  "card_pen_effect": "",
+  "card_text": "１ターンに１度、自分の墓地の闇属性モンスター１体をゲームから除外し、相手フィールド上の光属性・レベル４以下のモンスター１体を選択して発動できる。選択したモンスターを装備カード扱いとしてこのカードに１体のみ装備する。また、フィールド上のこのカードが破壊される場合、代わりにこのカードの効果で装備したモンスターを破壊する。",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/11/19",
+  "species_id": 15,
+  "starchip": "4"
+}

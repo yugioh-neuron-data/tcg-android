@@ -1,0 +1,23 @@
+{
+  "attack_power": "1550",
+  "attribute_id": 2,
+  "card_id": 4788,
+  "card_name": "絶対防御将軍",
+  "card_name_label": "ぜったいぼうぎょしょうぐん",
+  "card_name_search": "ぜったいぼうぎょしょうぐん",
+  "card_pen_effect": "",
+  "card_text": "このカードは召喚・反転召喚に成功した時、守備表示になる。フィールド上に表側守備表示で存在するこのカードは、守備表示の状態で攻撃する事ができる。その場合、攻撃力の数値を適用してダメージ計算を行う。",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2001/01/21",
+  "species_id": 15,
+  "starchip": "6"
+}

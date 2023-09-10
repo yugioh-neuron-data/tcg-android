@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 1,
+  "card_id": 15959,
+  "card_name": "Stahlstern-Regler",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "3 Nichtlink-Monster$NDiese Karte erhält ATK in Höhe der gemeinsamen Grund-Stufen/Ränge der Monster, die für ihre Linkbeschwörung verwendet wurden, x 100. Du kannst 1 Nichtlink-Monster wählen, das dein Gegner kontrolliert und dessen ATK kleiner oder gleich denen dieser Karte sind; zerstöre es, dann, falls diese Karte mit einem Xyz-Monster als Material als Linkbeschwörung beschworen wurde, füge deinem Gegner Schaden in Höhe der Hälfte der Grund-ATK des zerstörten Monsters zu. Du kannst diesen Effekt von „Stahlstern-Regler“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "713",
+  "linkno": "3",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/02/04",
+  "species_id": 7,
+  "starchip": ""
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 4,
+  "card_id": 15711,
+  "card_name": "Parametalmórfica Melcaster",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Una vez por turno: puedes seleccionar otra carta boca arriba que controles; destrúyela y, si lo haces, Coloca 1 Mágica/Trampa \"Metalmórfico/a\" directamente desde tu Deck.",
+  "card_text": "Si esta carta en el Campo es destruida en batalla o por efecto de una carta: puedes añadir a tu mano 1 Monstruo de Péndulo \"Metalmórfico/a\" boca arriba en tu Deck Extra, excepto \"Parametalmórfica Melcaster\", pero por el resto de este turno no puedes activarlo, o activar cartas con su nombre, para ponerlo en las Zonas de Péndulo, excepto por efecto de una carta. Sólo puedes usar este efecto de \"Parametalmórfica Melcaster\" una vez por turno.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2021/02/04",
+  "species_id": 21,
+  "starchip": "7"
+}

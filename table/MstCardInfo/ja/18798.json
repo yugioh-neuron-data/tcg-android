@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 4,
+  "card_id": 18798,
+  "card_name": "マナドゥム・トリッド",
+  "card_name_label": "マナドゥム・トリッド",
+  "card_name_search": "まなどぅむとりっど",
+  "card_pen_effect": "",
+  "card_text": "このカード名の、①の方法による特殊召喚は１ターンに１度しかできず、②の効果は１ターンに１度しか使用できない。$N①：自分フィールドに「ヴィサス＝スタフロスト」または攻撃力１５００／守備力２１００のモンスターが存在する場合、このカードは手札から特殊召喚できる。$N②：このカードが戦闘・効果で破壊された場合に発動できる。デッキから「マナドゥム」チューナー１体を特殊召喚する。",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/04/22",
+  "species_id": 17,
+  "starchip": "2"
+}

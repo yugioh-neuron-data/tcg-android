@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 18852,
+  "card_name": "Gewaltige Übertreibung",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Am Beginn des Damage Steps, falls 2 Monster kämpfen: Aktiviere 1 dieser Effekte;$N●Ändere das angreifende Monster in die Verteidigungsposition.$N●Gib das Angriffsziel-Monster auf die Hand zurück.$N●Zerstöre beide kämpfenden Monster.$NDu kannst nur 1 „Gewaltige Übertreibung“ pro Spielzug aktivieren.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/07/27",
+  "species_id": 24,
+  "starchip": "0"
+}

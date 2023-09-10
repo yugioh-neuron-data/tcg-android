@@ -1,0 +1,23 @@
+{
+  "attack_power": "3200",
+  "attribute_id": 1,
+  "card_id": 16224,
+  "card_name": "Proskenion Despian",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 monstre \"Despia\" + 1 monstre LUMIÈRE + 1 monstre TÉNÈBRES$NDurant la Main Phase (Effet Rapide) : vous pouvez cibler 1 Monstre Fusion, Synchro, Xyz ou Lien dans le Cimetière de votre adversaire ; bannissez-le, ou Invoquez-le Spécialement sur votre Terrain. Lorsque cette carte détruit un monstre de l'adversaire au combat : vous pouvez infliger des dommages à votre adversaire égaux à l'ATK ou DEF d'origine du monstre (la plus haute valeur). Vous ne pouvez utiliser chaque effet de \"Proskenion Despian\" qu'une fois par tour.",
+  "defense_power": "3200",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/08/12",
+  "species_id": 3,
+  "starchip": "11"
+}

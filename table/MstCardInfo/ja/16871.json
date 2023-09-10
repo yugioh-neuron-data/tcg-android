@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 16871,
+  "card_name": "氷水浸蝕",
+  "card_name_label": "ヒスイシンショク",
+  "card_name_search": "ひすいしんしょく",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：相手フィールドの表側表示のカード１枚を対象として発動できる。自分フィールドの「氷水」モンスター１体を選んで破壊し、対象のカードの効果をターン終了時まで無効にする。②：自分フィールドの表側表示の水属性モンスターが、破壊以外の方法で相手によってフィールドから離れた場合に発動できる。デッキから「氷水」モンスター１体を選び、手札に加えるか特殊召喚する。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/10/16",
+  "species_id": 25,
+  "starchip": "0"
+}

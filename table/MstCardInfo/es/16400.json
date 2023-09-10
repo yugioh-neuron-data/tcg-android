@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 2,
+  "card_id": 16400,
+  "card_name": "Kuribeh",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "(Esta carta se trata siempre como una carta \"Kuriboh\").$N(Efecto Rápido): puedes descartar esta carta, y después seleccionar 1 monstruo \"Kuriboh\" que controles; éste gana 1500 ATK. Puedes Sacrificar esta carta que controlas y 1 de cada \"Kuribah\", \"Kuribee\", \"Kuriboo\" y \"Kuriboh\" en tu mano y/o Campo; añade a tu mano 1 \"Kuribandido\" en tu Deck o Cementerio y después, inmediatamente después de que se resuelva este efecto, puedes Invocar de Modo Normal, desde tu mano, 1 monstruo Demonio.",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/12/02",
+  "species_id": 3,
+  "starchip": "1"
+}

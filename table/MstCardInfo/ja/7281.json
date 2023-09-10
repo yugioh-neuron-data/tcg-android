@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 3,
+  "card_id": 7281,
+  "card_name": "雲魔物－タービュランス",
+  "card_name_label": "クラウディアン－タービュランス",
+  "card_name_search": "くらうでぃあんたーびゅらんす",
+  "card_pen_effect": "",
+  "card_text": "このカードは戦闘では破壊されない。このカードがフィールド上に表側守備表示で存在する場合、このカードを破壊する。このカードが召喚に成功した時、フィールド上の「雲魔物」と名のついたモンスターの数だけこのカードにフォッグカウンターを置く。また、このカードに乗っているフォッグカウンターを１つ取り除く事で、自分のデッキまたはお互いの墓地から「雲魔物－スモークボール」１体を選んで特殊召喚する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/07/21",
+  "species_id": 17,
+  "starchip": "4"
+}

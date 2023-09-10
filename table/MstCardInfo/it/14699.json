@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 14699,
+  "card_name": "Naumachia dei Gladiatori",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Mentre controlli un mostro \"Gladiatore Bestia\", tutti i mostri controllati dal tuo avversario devono attaccare, se possibile. Una volta per turno: puoi mischiare 1 mostro \"Gladiatore Bestia\" dalla tua mano o Cimitero nel Main Deck, poi scegliere come bersaglio 1 mostro \"Gladiatore Bestia\" che controlli; esso guadagna ATK pari al suo DEF originale fino alla fine di questo turno (anche se questa carta lascia il Terreno). Se questa carta nella Zona Magie & Trappole viene distrutta dall'effetto di una carta: puoi attivare questo effetto; in questo turno i mostri \"Gladiatore Bestia\" che controlli non possono essere distrutti in battaglia.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/10/24",
+  "species_id": 25,
+  "starchip": "0"
+}

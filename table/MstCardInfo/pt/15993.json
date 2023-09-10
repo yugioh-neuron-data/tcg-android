@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 1,
+  "card_id": 15993,
+  "card_name": "Cavaleiro Branco de Dogmatika",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Você pode Invocar este card por Invocação-Ritual com \"Dogmatikalamidade\". Você não pode Invocar monstros por Invocação-Especial do Deck Adicional. Se seu oponente ativar um card ou efeito (exceto durante a Etapa de Dano): você pode enviar 1 monstro do seu Deck Adicional para o Cemitério e, se isso acontecer, olhe o Deck Adicional do seu oponente e envie 1 monstro de lá para o Cemitério. Até o final deste turno, este card ganha ATK igual à metade do ATK combinado desses monstros enviados para o Cemitério. Você só pode usar este efeito de \"Cavaleiro Branco de Dogmatika\" uma vez por turno.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 5,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/06/03",
+  "species_id": 18,
+  "starchip": "8"
+}

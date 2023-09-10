@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 2,
+  "card_id": 11301,
+  "card_name": "Künstlerkumpel Silberklaue",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Alle „Künstlerkumpel“-Monster, die du kontrollierst, erhalten 300 ATK.",
+  "card_text": "Wenn diese Karte einen Angriff deklariert: Alle „Künstlerkumpel“-Monster, die du derzeit kontrollierst, erhalten bis zum Ende der Battle Phase 300 ATK.",
+  "defense_power": "700",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2015/08/06",
+  "species_id": 11,
+  "starchip": "4"
+}

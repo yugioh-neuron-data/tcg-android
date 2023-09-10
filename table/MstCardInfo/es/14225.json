@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14225,
+  "card_name": "Péndulo del Alma",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Puedes seleccionar 2 cartas en tus Zonas de Péndulo; cambia en 1 la Escala de Péndulo de cada objetivo (mín. 1). Sólo puedes usar este efecto de \"Péndulo del Alma\" una vez por turno. Cada vez que tu o tus Monstruos de Péndulo sean Invocados por Péndulo, pon 1 contador en esta carta. Los Monstruos de Péndulo en el Campo ganan 300 ATK por cada contador en esta carta. Puedes retirar 3 Contadores de esta carta; durante tu Main Phase este turno, puedes realizar 1 Invocación por Péndulo de uno o más monstruos, adicional a tu Invocación por Péndulo. (Sólo puedes ganar este efecto una vez por turno).",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/04/04",
+  "species_id": 24,
+  "starchip": "0"
+}

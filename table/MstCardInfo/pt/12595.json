@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 5,
+  "card_id": 12595,
+  "card_name": "Girafa Gira Corrente Camarartista",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Quando exatamente 1 monstro que você controla (e nenhum outro card) for destruído em batalha: você pode destruir este card e, se isso acontecer, Invoque esse monstro destruído em batalha por Invocação-Especial em Posição de Ataque e, se isso acontecer, ele não pode ser destruído em batalha neste turno (mesmo que este card deixe o campo).",
+  "card_text": "Quando este card for Invocado por Invocação-Normal ou Especial: você pode escolher 1 monstro com a face para cima que seu oponente controla; enquanto este card estiver com a face para cima no campo, esse monstro com a face para cima não pode atacar e, além disso, negue os efeitos desse monstro com a face para cima enquanto ele estiver no campo.",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2016/11/03",
+  "species_id": 11,
+  "starchip": "1"
+}

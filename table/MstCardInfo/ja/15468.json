@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15468,
+  "card_name": "綱引犬会",
+  "card_name_label": "チュナヒキタイカイ",
+  "card_name_search": "ちゅなひきたいかい",
+  "card_pen_effect": "",
+  "card_text": "①：お互いのプレイヤーは自身のドローフェイズに通常のドローをした時、それがチューナーだった場合、そのカードを相手に見せて発動できる。この効果を発動したプレイヤーはデッキから２枚ドローする。②：このカードの①の効果で相手がドローした場合に発動する。自分は２０００LPを失い、このカードを墓地へ送る。",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/12/17",
+  "species_id": 24,
+  "starchip": "0"
+}

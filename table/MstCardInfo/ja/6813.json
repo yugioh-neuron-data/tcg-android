@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 6813,
+  "card_name": "王宮の重税",
+  "card_name_label": "おうきゅうのじゅうぜい",
+  "card_name_search": "おうきゅうのじゅうぜい",
+  "card_pen_effect": "",
+  "card_text": "相手のスタンバイフェイズ時に発動できる。相手の手札をランダムに１枚確認する。確認したカードまたは同名カードが次の自分のエンドフェイズ終了時までに召喚または発動されなかった場合、相手ライフに１０００ポイントダメージを与える。召喚または発動された場合、自分は１０００ポイントダメージを受ける。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/05/18",
+  "species_id": 25,
+  "starchip": "0"
+}

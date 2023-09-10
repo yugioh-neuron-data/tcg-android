@@ -1,0 +1,23 @@
+{
+  "attack_power": "2100",
+  "attribute_id": 3,
+  "card_id": 10857,
+  "card_name": "FA－ブラック・レイ・ランサー",
+  "card_name_label": "フルアーマード－ブラック・レイ・ランサー",
+  "card_name_search": "ふるあーまーどぶらっくれいらんさー",
+  "card_pen_effect": "",
+  "card_text": "水属性レベル４モンスター×３$Nこのカードは自分フィールドのX素材の無いランク３の水属性Xモンスターの上に重ねてX召喚する事もできる。$N①：このカードの攻撃力は、このカードのX素材の数×２００アップする。$N②：このカードが戦闘で相手モンスターを破壊した時、相手フィールドの魔法・罠カード１枚を対象として発動できる。その相手のカードを破壊する。$N③：フィールドのこのカードが戦闘・効果で破壊される場合、代わりにこのカードのX素材を全て取り除く事ができる。",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/10/19",
+  "species_id": 12,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 4,
+  "card_id": 7247,
+  "card_name": "デコイドラゴン",
+  "card_name_label": "デコイドラゴン",
+  "card_name_search": "でこいどらごん",
+  "card_pen_effect": "",
+  "card_text": "①：このカードが攻撃対象に選択された場合、自分の墓地のレベル７以上のドラゴン族モンスター１体を対象として発動する。そのモンスターを特殊召喚し、攻撃対象をそのモンスターに移し替えてダメージ計算を行う。",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/06/23",
+  "species_id": 1,
+  "starchip": "2"
+}

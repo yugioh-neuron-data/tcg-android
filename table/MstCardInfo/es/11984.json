@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 5,
+  "card_id": 11984,
+  "card_name": "Olla de Lo Prohibido",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "VOLTEO: Puedes activar 1 de estos efectos;$N●Roba 2 cartas.$N●Devuelve a la mano todas las Cartas Mágicas y de Trampa en el Campo.$N●Destruye todos los monstruos que controle tu adversario.$N●Mira la mano de tu adversario, y además baraja a su Deck 1 carta en su mano.$NSólo puedes usar este efecto de \"Olla de Lo Prohibido\" una vez por turno.",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 24,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/11/05",
+  "species_id": 6,
+  "starchip": "9"
+}

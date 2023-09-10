@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 1,
+  "card_id": 8292,
+  "card_name": "クリボン",
+  "card_name_label": "クリボン",
+  "card_name_search": "くりぼん",
+  "card_pen_effect": "",
+  "card_text": "このカードが相手モンスターの攻撃対象になったダメージ計算時に発動できる。その戦闘によって発生する自分への戦闘ダメージは０になり、攻撃モンスターの攻撃力分だけ相手のライフポイントを回復し、このカードを手札に戻す。",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2009/04/18",
+  "species_id": 17,
+  "starchip": "1"
+}

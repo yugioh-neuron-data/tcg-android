@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13000,
+  "card_name": "シューティング・ソニック",
+  "card_name_label": "シューティング・ソニック",
+  "card_name_search": "しゅーてぃんぐそにっく",
+  "card_pen_effect": "",
+  "card_text": "①：自分フィールドの「スターダスト」Sモンスター１体を対象として発動できる。このターン、その自分のSモンスターが相手モンスターと戦闘を行う場合、ダメージステップ開始時にその相手モンスターを持ち主のデッキに戻す。②：自分フィールドの「スターダスト」Sモンスターが効果を発動するために自身をリリースする場合、代わりに墓地のこのカードを除外できる。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/02/11",
+  "species_id": 24,
+  "starchip": "0"
+}

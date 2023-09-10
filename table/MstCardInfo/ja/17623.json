@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 17623,
+  "card_name": "ダイス・ダンジョン",
+  "card_name_label": "ダイス・ダンジョン",
+  "card_name_search": "だいすだんじょん",
+  "card_pen_effect": "",
+  "card_text": "①：このカードの発動時の効果処理として、デッキから「ディメンジョン・ダイス」１枚を手札に加える事ができる。②：自分・相手のバトルフェイズ開始時に発動できる。お互いはそれぞれ、サイコロを１回振り、自身のフィールドの全てのモンスターの攻撃力にターン終了時まで、出た目の効果を適用する。$N●１：１０００ダウンする。$N●２：１０００アップする。$N●３：５００ダウンする。$N●４：５００アップする。$N●５：半分にする。$N●６：倍にする。",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/06/11",
+  "species_id": 24,
+  "starchip": "0"
+}

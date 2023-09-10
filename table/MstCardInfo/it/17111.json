@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 2,
+  "card_id": 17111,
+  "card_name": "Artistamico Barokuriboh",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Una volta per turno, all'inizio della Battle Phase: puoi aggiungere 1 mostro con 300 ATK/200 DEF dal tuo Deck alla tua mano, poi distruggi questa carta.",
+  "card_text": "Quando un tuo mostro viene distrutto in battaglia: puoi Evocare Specialmente questa carta dalla tua mano. I mostri del tuo avversario non possono scegliere come bersaglio mostri per gli attacchi, eccetto questo. Se questa carta viene attaccata, mettila in Posizione di Attacco alla fine del Damage Step.",
+  "defense_power": "3000",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2023/06/22",
+  "species_id": 3,
+  "starchip": "8"
+}

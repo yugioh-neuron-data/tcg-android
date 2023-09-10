@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 3,
+  "card_id": 17355,
+  "card_name": "Mamonaka los Vaylantz Unidos",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Puedes activar 1 de estos efectos;$N●Invoca esta carta de Modo Especial a tu Zona de Monstruos Principal en su misma columna.$N●Mueve 1 monstruo en tu Zona de Monstruos Principal a una Zona de Monstruos adyacente (horizontal).$NSólo puedes usar este efecto de \"Mamonaka los Vaylantz Unidos\" una vez por turno.",
+  "card_text": "3 monstruos \"Vaylantz\"$NDurante la Main Phase (Efecto Rápido): puedes seleccionar 1 Monstruo de Efecto en la Zona de Monstruos Principal de tu adversario; pon ese monstruo del adversario como una Mágica Continua boca arriba en su Zona de Magia y Trampas en su misma columna. (Si la zona está ocupada, destruye la carta ocupante y, si es una Carta de Monstruo, tu adversario pierde LP iguales a su ATK). Sólo puedes usar este efecto de \"Mamonaka los Vaylantz Unidos\" una vez por turno. Si esta carta Invocada de Modo Especial que tú controlas es destruida por el efecto de una carta de tu adversario: puedes poner esta carta en tu Zona de Péndulo.",
+  "defense_power": "2800",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 41,
+  "pen_scale_l": "10",
+  "pen_scale_r": "10",
+  "sales_at": "2022/08/25",
+  "species_id": 18,
+  "starchip": "10"
+}

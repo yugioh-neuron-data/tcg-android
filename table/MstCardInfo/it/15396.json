@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 15396,
+  "card_name": "Apparecchio Cavopiovra",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 mostri \"Apparecchio\"$NQuesta carta linkata non può essere scelta come bersaglio dagli effetti delle carte del tuo avversario, o dagli attacchi dei suoi mostri. Durante il calcolo dei danni, se un Mostro Link \"Apparecchio\" che controlli co-linkato a questa carta combatte con un mostro dell'avversario: il tuo mostro che sta combattendo guadagna ATK pari al numero di mostri co-linkati a questa carta x 1000, solamente durante quel calcolo dei danni. Una volta per turno, se uno o più Mostri Link \"Apparecchio\" che controlli non co-linkati a questa carta vengono distrutti in battaglia o dall'effetto di una carta: puoi pescare 1 carta.",
+  "defense_power": "",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "12",
+  "linkno": "2",
+  "note": "",
+  "other_item_id": 43,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/07/23",
+  "species_id": 7,
+  "starchip": ""
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 6,
+  "card_id": 13366,
+  "card_name": "F.A. Látigo Cross",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Gana ATK igual a su Nivel x 300. Tu adversario debe pagar 300 LP para activar el efecto de un monstruo cuyo Nivel/Rango original sea más bajo que el Nivel de esta carta. Cada vez que una Carta Mágica/de Trampa \"F.A.\" o un efecto de Mágica/Trampa \"F.A.\" son activados: puedes aumentar el Nivel de esta carta en 1. Si el Nivel de esta carta es 7 o mayor, tu adversario no puede descartarse o mandar al Cementerio cartas en su mano para activar un efecto de carta.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/10/19",
+  "species_id": 7,
+  "starchip": "4"
+}

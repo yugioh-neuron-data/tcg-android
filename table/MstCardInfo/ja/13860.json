@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 13860,
+  "card_name": "フォトン・ハンド",
+  "card_name_label": "フォトン・ハンド",
+  "card_name_search": "ふぉとんはんど",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。①：自分フィールドに「フォトン」モンスターまたは「ギャラクシー」モンスターが存在する場合、１０００LPを払い、相手フィールドのモンスター１体を対象として発動できる。そのモンスターのコントロールを得る。発動時に自分フィールドに「銀河眼の光子竜」が存在しない場合には、Xモンスターしか対象にできない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/06/09",
+  "species_id": 24,
+  "starchip": "0"
+}

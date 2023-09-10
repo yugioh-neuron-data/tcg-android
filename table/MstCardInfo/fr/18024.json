@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 18024,
+  "card_name": "Kagura Mikanko",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cette carte peut être utilisée pour Invoquer Rituellement un Monstre Rituel \"Mikanko\". Vous devez aussi Sacrifier des monstres depuis votre main ou Terrain dont le Niveau total est supérieur ou égal au Niveau du Monstre Rituel que vous Invoquez Rituellement. Puis vous pouvez appliquer l'effet suivant.$N●Détruisez un nombre de cartes contrôlées par votre adversaire inférieur ou égal au nombre de Magies d'Équipement de noms différents dans votre Cimetière, et si vous le faites, infligez 1000 points de dommages à votre adversaire pour chaque carte détruite.$NVous ne pouvez activer qu'1 \"Kagura Mikanko\" par tour.",
+  "defense_power": "0",
+  "effect_id": 6,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/01/19",
+  "species_id": 24,
+  "starchip": "0"
+}

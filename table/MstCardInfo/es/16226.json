@@ -1,0 +1,23 @@
+{
+  "attack_power": "2800",
+  "attribute_id": 6,
+  "card_id": 16226,
+  "card_name": "Dragón Magillave - Andrabime",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Monstruo de Efecto \"Magillave\" + 1 Monstruo Normal, excepto una Ficha$NCuando esta carta es Invocada por Fusión, tu adversario no puede activar cartas o efectos. Una vez por turno: puedes seleccionar 1 Monstruo Normal o monstruo \"Magillave\" en tu Cementerio; destruye todos los monstruos que controle tu adversario con el Atributo de ese monstruo. Una vez por turno, si un monstruo del adversario con el mismo Atributo que el de un monstruo en tu Cementerio es destruido en batalla o por el efecto de una carta, si esta carta fue Invocada por Fusión usando 2 Atributos diferentes como material: puedes robar 1 carta.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/08/12",
+  "species_id": 1,
+  "starchip": "8"
+}

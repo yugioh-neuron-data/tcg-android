@@ -1,0 +1,23 @@
+{
+  "attack_power": "2200",
+  "attribute_id": 5,
+  "card_id": 11803,
+  "card_name": "Lanceur à Échasses Mageartiste",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "S'il n'y a aucun monstre sur le Terrain, vous pouvez Invoquer Spécialement cette carte (depuis votre main), mais vous ne pouvez ni Invoquer Normalement ni Poser Normalement le reste de ce tour. Durant le tour de chaque joueur, lorsqu'une carte ou un effet qui va infliger des dommages à votre adversaire est activé, tant que vous avez un autre monstre \"Mageartiste\" dans votre Cimetière : vous pouvez bannir cette carte depuis votre Cimetière ; infligez 2000 points de dommage à votre adversaire. Vous ne pouvez utiliser cet effet de \"Lanceur à Échasses Mageartiste\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/08/06",
+  "species_id": 18,
+  "starchip": "6"
+}

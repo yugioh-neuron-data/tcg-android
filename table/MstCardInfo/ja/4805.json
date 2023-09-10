@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 4805,
+  "card_name": "増殖",
+  "card_name_label": "ぞうしょく",
+  "card_name_search": "ぞうしょく",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上に表側表示で存在する「クリボー」１体をリリースして発動できる。自分フィールド上に「クリボートークン」（悪魔族・闇・星１・攻３００／守２００）を可能な限り守備表示で特殊召喚する。このトークンはアドバンス召喚のためにはリリースできない。",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2000/12/21",
+  "species_id": 24,
+  "starchip": "0"
+}

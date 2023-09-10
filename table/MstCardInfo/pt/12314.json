@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 5,
+  "card_id": 12314,
+  "card_name": "Robô-secretário 009",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Uma vez por turno, durante sua Fase Principal 1: até o final do turno do seu oponente, você pode fazer com que este card ganhe ATK igual ao ATK combinado de todos os monstros \"Robô-secretário\" que você controla atualmente, exceto \"Robô-secretário 009\". Somente este card pode atacar no turno em que este efeito for ativado. Se este card batalhar, os cards e efeitos do seu oponente não podem ser ativados até o final da Etapa de Dano. Se este card seria destruído em batalha ou por um efeito de card, em vez disso, você pode destruir 1 card \"Robô-secretário\" que você controla.",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/05/05",
+  "species_id": 7,
+  "starchip": "9"
+}

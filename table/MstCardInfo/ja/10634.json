@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 10634,
+  "card_name": "戦慄の凶皇－ジェネシス・デーモン",
+  "card_name_label": "せんりつのきょうこう－ジェネシス・デーモン",
+  "card_name_search": "せんりつのきょうこうじぇねしすでーもん",
+  "card_pen_effect": "",
+  "card_text": "①：このカードはリリースなしで召喚できる。②：このカードの①の方法で召喚したこのカードの元々の攻撃力・守備力は半分になり、エンドフェイズに破壊される。③：このカードがモンスターゾーンに存在する限り、自分は悪魔族モンスターしか特殊召喚できない。④：１ターンに１度、自分の手札・墓地の「デーモン」カード１枚を除外し、フィールドのカード１枚を対象として発動できる。そのカードを破壊する。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2013/04/20",
+  "species_id": 3,
+  "starchip": "8"
+}

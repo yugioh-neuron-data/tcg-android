@@ -1,0 +1,23 @@
+{
+  "attack_power": "50",
+  "attribute_id": 6,
+  "card_id": 16204,
+  "card_name": "Gizmeck Inaba, la Saltellante Lepre di Hakuto",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Quando questa carta viene Evocata Normalmente: puoi Evocare Specialmente 1 mostro Macchina con ATK pari al suo stesso DEF dalla tua mano in Posizione di Difesa. Puoi bandire questa carta dal tuo Cimitero, poi scegliere come bersaglio 1 mostro Macchina che controlli con ATK pari al suo stesso DEF; in questo turno, non puoi dichiarare attacchi, eccetto con quel mostro, inoltre i suoi ATK/DEF diventano la somma degli ATK originali di tutti i mostri Macchina con ATK pari al loro stesso DEF che controlli attualmente. Puoi utilizzare questo effetto di \"Gizmeck Inaba, la Saltellante Lepre di Hakuto\" una sola volta per turno.",
+  "defense_power": "50",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/08/12",
+  "species_id": 7,
+  "starchip": "1"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 2,
+  "card_id": 9217,
+  "card_name": "Adivinador Oscuro",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Cantante de OSCURIDAD + 1 monstruo de Tipo Insecto que no sea Cantante$NEsta carta no puede ser destruida en batalla. Cuando esta carta declara un ataque, si el ATK del objetivo del ataque es mayor que el de esta carta: el ATK del objetivo del ataque se convierte en el ATK en este momento de esta carta boca arriba. Este cambio dura hasta el final de la Battle Phase. Cuando esta carta destruye a un monstruo de tu adversario en batalla y lo manda al Cementerio: manda al Cementerio las 3 cartas de la parte superior del Deck de tu adversario.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/01/19",
+  "species_id": 3,
+  "starchip": "4"
+}

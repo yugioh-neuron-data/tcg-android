@@ -1,0 +1,23 @@
+{
+  "attack_power": "400",
+  "attribute_id": 3,
+  "card_id": 14457,
+  "card_name": "天威龍－シュターナ",
+  "card_name_label": "てんいりゅう－シュターナ",
+  "card_name_search": "てんいりゅうしゅたーな",
+  "card_pen_effect": "",
+  "card_text": "このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドに効果モンスターが存在しない場合に発動できる。このカードを手札から特殊召喚する。②：効果モンスター以外の自分フィールドの表側表示モンスターが戦闘・効果で破壊された場合、手札・墓地のこのカードを除外し、その破壊されたモンスター１体を対象として発動できる。そのモンスターを特殊召喚する。その後、相手フィールドのモンスター１体を選んで破壊できる。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/04/13",
+  "species_id": 26,
+  "starchip": "4"
+}

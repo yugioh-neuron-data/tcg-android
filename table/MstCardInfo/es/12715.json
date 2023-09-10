@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 2,
+  "card_id": 12715,
+  "card_name": "Actor del Abismo - Actriz Principal",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Una vez por turno, cuando recibes daño de batalla de un monstruo atacante del adversario: puedes activar 1 de estos efectos;$N●Ese monstruo del adversario pierde ATK igual al daño que recibiste (aún si esta carta deja el Campo).$N●Añade 1 Monstruo de Péndulo \"Actor del Abismo\" boca arriba, de tu Deck Extra a tu mano, con ATK igual o menor al daño que recibiste.",
+  "card_text": "Una vez por turno, cuando se inflige daño de batalla: puedes seleccionar 1 monstruo boca arriba que controle tu adversario; éste pierde ATK igual al daño de batalla. Cuando esta carta es destruida en batalla, o si esta carta en la Zona de Monstruos de su dueño es destruida por el efecto de una carta de tu adversario: puedes Colocar 1 Mágica \"Guión de Abismo\" directamente desde tu Deck.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "2",
+  "pen_scale_r": "2",
+  "sales_at": "2016/11/17",
+  "species_id": 3,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "1300",
+  "attribute_id": 5,
+  "card_id": 18309,
+  "card_name": "Atrapadora Aracnocampa",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "No es afectada por los efectos de Trampas Normales \"Agujero\". La primera vez que cada carta Colocada en tu Zona de Magia y Trampas fuera a ser destruida por el efecto de una carta cada turno, no es destruida. Durante la Main Phase, si controlas un monstruo \"Atrapadora\" (Efecto Rápido): puedes Invocar esta carta de Modo Especial desde tu mano, y además no puedes Invocar monstruos de Modo Especial desde el Deck Extra por el resto de este turno, excepto monstruos Insecto o Planta. Sólo puedes usar este efecto de \"Atrapadora Aracnocampa\" una vez por turno.",
+  "defense_power": "1500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/02/23",
+  "species_id": 10,
+  "starchip": "4"
+}

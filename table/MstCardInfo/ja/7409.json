@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 7409,
+  "card_name": "ユベル",
+  "card_name_label": "ユベル",
+  "card_name_search": "ゆべる",
+  "card_pen_effect": "",
+  "card_text": "①：このカードは戦闘では破壊されず、このカードの戦闘で自分は戦闘ダメージを受けない。②：攻撃表示のこのカードが攻撃対象に選択された場合、そのダメージ計算前に発動する。その攻撃モンスターの攻撃力分のダメージを相手に与える。③：自分エンドフェイズに発動する。自分フィールドの他のモンスター１体をリリースするか、このカードを破壊する。④：この③の効果以外でこのカードが破壊された時に発動できる。自分の手札・デッキ・墓地から「ユベル－Das Abscheulich Ritter」１体を選んで特殊召喚する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/11/23",
+  "species_id": 3,
+  "starchip": "10"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "4000",
+  "attribute_id": 1,
+  "card_id": 6564,
+  "card_name": "번개황제 하몬",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "이 카드는 통상 소환할 수 없다. 자신 필드의 앞면 표시의 지속 마법 카드 3장을 묘지로 보냈을 경우에만 특수 소환할 수 있다. ①: 이 카드가 몬스터 존에 수비 표시로 존재하는 한, 상대 몬스터는 이 카드 이외의 몬스터를 공격 대상으로 선택할 수 없다. ②: 이 카드가 전투로 상대 몬스터를 파괴하고 묘지로 보냈을 경우에 발동한다. 상대에게 1000 데미지를 준다.",
+  "defense_power": "4000",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/07/03",
+  "species_id": 19,
+  "starchip": "10"
+}

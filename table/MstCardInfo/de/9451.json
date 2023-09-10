@@ -1,0 +1,23 @@
+{
+  "attack_power": "1600",
+  "attribute_id": 5,
+  "card_id": 9451,
+  "card_name": "Shiens Draufgänger",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wenn diese Karte als Normalbeschwörung beschworen wird: Lege 1 Bushido-Zählmarke darauf (max. 1). Diese Karte erhält 300 ATK, solange eine Bushido-Zählmarke auf ihr liegt. Einmal pro Spielzug: Du kannst 1 offene Karte auf dem Spielfeld wählen, auf die du eine Bushido-Zählmarke legen kannst; entferne 1 Bushido-Zählmarke von dieser Karte und lege dann 1 Bushido-Zählmarke auf das gewählte Ziel.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/02/10",
+  "species_id": 15,
+  "starchip": "4"
+}

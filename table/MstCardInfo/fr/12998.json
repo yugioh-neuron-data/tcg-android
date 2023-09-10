@@ -1,0 +1,23 @@
+{
+  "attack_power": "4000",
+  "attribute_id": 6,
+  "card_id": 12998,
+  "card_name": "Dragon Blazar Cosmique",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Monstre Synchro Syntoniseur + 2+ Monstres Synchro non-Syntoniseur$NUniquement Invocable par Synchronisation. (Effet Rapide) : vous pouvez bannir cette carte jusqu'à la End Phase pour activer 1 de ces effets ;$N●Lorsque votre adversaire active une carte ou un effet : annulez l'activation, et si vous le faites, détruisez la carte.$N●Lorsque votre adversaire va Invoquer un ou plusieurs monstres : annulez l'Invocation, et si vous le faites, détruisez ces monstres.$N●Lorsqu'un monstre de l'adversaire déclare une attaque : annulez l'attaque, puis terminez la Battle Phase.",
+  "defense_power": "4000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/03/30",
+  "species_id": 1,
+  "starchip": "12"
+}

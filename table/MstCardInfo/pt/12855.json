@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 12855,
+  "card_name": "Mago Harmônico",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Todos os monstros que você controla ganham 100 de ATK e DEF para cada Monstro Pêndulo \"Mago\" com a face para cima com um nome diferente no seu Deck Adicional.",
+  "card_text": "Não pode ser Invocado por Invocação-Especial do Deck Adicional. Não pode ser usado como matéria para uma Invocação-Fusão, Sincro ou Xyz, a não ser que todas as outras matérias sejam Monstros Pêndulo \"Mago\". Quando este card for Invocado por Invocação-Pêndulo da mão: você pode Invocar por Invocação-Especial 1 Monstro Pêndulo \"Mago\" do seu Deck em Posição de Defesa, exceto \"Mago Harmônico\", mas negue seus efeitos e, além disso, bana-o quando ele deixar o campo. Você só pode usar este efeito de \"Mago Harmônico\" uma vez por turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 33,
+  "pen_scale_l": "8",
+  "pen_scale_r": "8",
+  "sales_at": "2017/06/22",
+  "species_id": 18,
+  "starchip": "4"
+}

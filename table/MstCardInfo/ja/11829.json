@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 5,
+  "card_id": 11829,
+  "card_name": "応戦するG",
+  "card_name_label": "おうせんするジー",
+  "card_name_search": "おうせんするじー",
+  "card_pen_effect": "",
+  "card_text": "①：モンスターを特殊召喚する効果を含む魔法カードを相手が発動した時に発動できる。このカードを手札から特殊召喚する。②：このカードの①の効果で特殊召喚したこのカードがモンスターゾーンに存在する限り、墓地へ送られるカードは墓地へは行かず除外される。③：このカードがフィールドから墓地へ送られた場合に発動できる。デッキから「応戦するG」以外の攻撃力１５００以下の昆虫族・地属性モンスター１体を手札に加える。",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/04/25",
+  "species_id": 10,
+  "starchip": "4"
+}

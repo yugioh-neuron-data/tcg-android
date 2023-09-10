@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 3,
+  "card_id": 15990,
+  "card_name": "ヤモイモリ",
+  "card_name_label": "ヤモイモリ",
+  "card_name_search": "やもいもり",
+  "card_pen_effect": "",
+  "card_text": "このカード名の効果は１ターンに１度しか使用できない。①：墓地のこのカードを除外し、自分フィールドの爬虫類族モンスター１体と相手フィールドの表側表示モンスター１体を対象とし、以下の効果から１つを選択して発動できる。$N●対象のモンスターを裏側守備表示にする。$N●対象の自分のモンスターを破壊し、対象の相手モンスターの攻撃力をターン終了時まで０にする。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/01/16",
+  "species_id": 20,
+  "starchip": "2"
+}

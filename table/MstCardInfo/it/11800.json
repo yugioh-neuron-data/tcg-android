@@ -1,0 +1,23 @@
+{
+  "attack_power": "1200",
+  "attribute_id": 4,
+  "card_id": 11800,
+  "card_name": "Artistamagus Mangia Fuoco",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante il turno di qualsiasi giocatore, quando viene attivata una carta o un effetto che sta per infliggerti danno: puoi attivare questo effetto; non puoi Evocare Specialmente mostri per il resto di questo turno, eccetto mostri \"Artistamagus\", inoltre Evoca Specialmente questa carta dalla tua mano e, se lo fai, fai diventare 0 quell'effetto di danno per te. Se viene Evocato in questo modo, bandiscilo quando lascia il Terreno. Se questa carta viene Evocata Normalmente o Specialmente: ogni giocatore subisce 500 danni.",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/08/06",
+  "species_id": 18,
+  "starchip": "4"
+}

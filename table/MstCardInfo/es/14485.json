@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 3,
+  "card_id": 14485,
+  "card_name": "Magicalibra",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Puedes declarar un Nivel de 1 a 6, y después seleccionar 2 monstruos boca arriba que controles; hasta el final de este turno, reduce el Nivel de 1 de esos monstruos en la cantidad declarada y, si lo haces, aumenta el Nivel del otro en la misma cantidad (aún si esta carta deja el Campo). Sólo puedes usar este efecto de \"Magicalibra\" una vez por turno.",
+  "card_text": "Una balanza sensible. Mantiene el equilibrio del universo, pero a menudo pone las estrellas en el lado equivocado.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 44,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2019/07/26",
+  "species_id": 18,
+  "starchip": "4"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 16756,
+  "card_name": "Zaralaam il Palazzo Oscuro",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Mentre controlli un mostro equipaggiato con \"Dunnell, le Nobili Armi della Luce\", il tuo avversario non può attivare carte o effetti durante la Battle Phase. Una volta per turno, quando un tuo \"Segna-Avventuriero\" distrugge un mostro dell'avversario in battaglia: puoi infliggere al tuo avversario danno pari all'ATK originale di quel mostro distrutto. Una volta per turno, durante la tua Main Phase, se il precedente effetto è stato attivato in questo turno: puoi aggiungere 1 Magia Terreno che menziona \"Segna-Avventuriero\" dal tuo Deck o Cimitero alla tua mano, eccetto \"Zaralaam il Palazzo Oscuro\".",
+  "defense_power": "0",
+  "effect_id": 2,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/01/27",
+  "species_id": 24,
+  "starchip": "0"
+}

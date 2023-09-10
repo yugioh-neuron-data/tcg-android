@@ -1,0 +1,23 @@
+{
+  "attack_power": "200",
+  "attribute_id": 2,
+  "card_id": 16385,
+  "card_name": "Nécro Synchronique",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Le nom de cette carte devient \"Fleur Synchronique\" tant qu'elle est sur le Terrain ou dans le Cimetière. Vous ne pouvez utiliser chacun des effets suivants de \"Nécro Synchronique\" qu'une fois par tour. Vous pouvez cibler 1 autre monstre face recto que vous contrôlez ; jusqu'à la fin de ce tour, augmentez son Niveau de 2. Si cette carte est envoyée au Cimetière comme Matériel Synchro pour un monstre VENT : vous pouvez Invoquer Spécialement 1 monstre Plante de Niveau 1 depuis votre Deck.",
+  "defense_power": "400",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/10/28",
+  "species_id": 7,
+  "starchip": "2"
+}

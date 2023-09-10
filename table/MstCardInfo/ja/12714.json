@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 2,
+  "card_id": 12714,
+  "card_name": "魔界劇団－エキストラ",
+  "card_name_label": "まかいげきだん－エキストラ",
+  "card_name_search": "まかいげきだんえきすとら",
+  "card_pen_effect": "このカード名のP効果は１ターンに１度しか使用できない。①：相手フィールドにモンスターが存在する場合に発動できる。Pゾーンのこのカードを特殊召喚する。",
+  "card_text": "このカード名のモンスター効果は１ターンに１度しか使用できない。①：このカードをリリースして発動できる。デッキから「魔界劇団」Pモンスター１体を選び、自分のPゾーンに置く。この効果の発動後、ターン終了時まで自分は「魔界劇団」モンスターしか特殊召喚できず、「魔界劇団－エキストラ」のP効果を発動できない。",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "3",
+  "pen_scale_r": "3",
+  "sales_at": "2016/08/06",
+  "species_id": 3,
+  "starchip": "1"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "200",
+  "attribute_id": 1,
+  "card_id": 18493,
+  "card_name": "PénduLoMoon",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Durante tu Main Phase: puedes añadir a tu mano 1 Monstruo de Péndulo \"Péndulo\" boca arriba en tu Deck Extra, y después destruye esta carta. Sólo puedes usar este efecto de \"PénduLoMoon\" una vez por turno.",
+  "card_text": "Durante tu Main Phase: puedes añadir a tu mano hasta 2 Monstruos de Péndulo boca arriba en tu Deck Extra, con Niveles entre las Escalas de Péndulo de las 2 cartas en tus Zonas de Péndulo y además, por el resto de este turno, hasta que Invocas por Péndulo, no puedes activar efectos de monstruos, y los efectos de cualquier carta en tus Zonas de Péndulo son negados. Sólo puedes usar este efecto de \"PénduLoMoon\" una vez por turno.",
+  "defense_power": "700",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "0",
+  "pen_scale_r": "0",
+  "sales_at": "2023/05/04",
+  "species_id": 18,
+  "starchip": "1"
+}

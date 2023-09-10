@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 5113,
+  "card_name": "Caja de Hada",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando un monstruo de tu adversario declara un ataque: lanza una moneda y elige Cara o Cruz. Si aciertas, el ATK del monstruo atacante se convierte en 0 hasta el final de la Battle Phase. Durante cada una de tus Standby Phases, paga 500 Life Points o destruye esta carta.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/12/01",
+  "species_id": 25,
+  "starchip": "0"
+}

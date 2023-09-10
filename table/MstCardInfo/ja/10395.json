@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 2,
+  "card_id": 10395,
+  "card_name": "魔導冥士 ラモール",
+  "card_name_label": "まどうめいし　ラモール",
+  "card_name_search": "まどうめいしらもーる",
+  "card_pen_effect": "",
+  "card_text": "このカードが召喚・特殊召喚に成功した時に発動できる。自分の墓地の「魔導書」と名のついた魔法カードの種類によって以下の効果を適用する。「魔導冥士 ラモール」の効果は１ターンに１度しか使用できない。$N●３種類以上：このカードの攻撃力は６００ポイントアップする。$N●４種類以上：デッキから「魔導書」と名のついた魔法カード１枚を手札に加える。$N●５種類以上：デッキから魔法使い族・闇属性・レベル５以上のモンスター１体を特殊召喚する。",
+  "defense_power": "1600",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/11/17",
+  "species_id": 18,
+  "starchip": "6"
+}

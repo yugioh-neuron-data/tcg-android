@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 4964,
+  "card_name": "박멸의 사도",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "뒷면 표시의 마법 또는 함정 카드 1장을 파괴하여 게임에서 제외한다. 만약 그것이 함정 카드였을 경우 서로의 덱을 확인하여, 파괴한 함정 카드와 같은 이름의 카드를 전부 게임에서 제외한다. 그 후 덱을 셔플한다.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/06/19",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 9362,
+  "card_name": "Pommes d'Or",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Lorsque vous recevez des dommages de combat tant que vous ne contrôlez aucun monstre : gagnez des LP égaux aux dommages de combat que vous avez reçus, et si vous le faites, Invoquez Spécialement 1 \"Jeton Malus\" (Démon/TÉNÈBRES/Niveau 1/ATK ?/DEF ?). Son ATK/DEF sont chacune égales au montant des LP que vous avez gagnés par cet effet.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/02/10",
+  "species_id": 25,
+  "starchip": "0"
+}

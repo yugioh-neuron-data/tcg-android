@@ -1,0 +1,23 @@
+{
+  "attack_power": "2600",
+  "attribute_id": 6,
+  "card_id": 11498,
+  "card_name": "聖霊獣騎 アペライオ",
+  "card_name_label": "せいれいじゅうき　アペライオ",
+  "card_name_search": "せいれいじゅうきあぺらいお",
+  "card_pen_effect": "",
+  "card_text": "「霊獣使い」モンスター＋「精霊獣」モンスター$N自分フィールドの上記カードを除外した場合のみ特殊召喚できる（「融合」は必要としない）。①：このカードは攻撃する場合、ダメージステップ終了時までこのカード以外のカードの効果を受けない。②：このカードを持ち主のEXデッキに戻し、除外されている自分の、「霊獣使い」モンスター１体と「精霊獣」モンスター１体を対象として発動できる。そのモンスターを守備表示で特殊召喚する。この効果は相手ターンでも発動できる。",
+  "defense_power": "400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/10/11",
+  "species_id": 4,
+  "starchip": "6"
+}

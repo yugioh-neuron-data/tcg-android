@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 1,
+  "card_id": 15011,
+  "card_name": "Señordragón de Trueno",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "No puede ser Invocado de Modo Normal/Colocado. Debe ser primero Invocado de Modo Especial (desde tu mano) desterrando 1 monstruo Trueno de Nivel 8 o menor en tu mano o Campo boca arriba, durante el turno en el que el efecto de un monstruo Trueno fue activado en la mano. Una vez por turno del adversario (Efecto Rápido): puedes desterrar 2 cartas en tu Cementerio, incluyendo un monstruo Trueno, y después seleccionar 1 monstruo Trueno que controles; este turno tu adversario no puede seleccionarlo con efectos de cartas. Una vez por turno, durante tu End Phase: puedes mandar al Cementerio 1 carta \"Dragón de Trueno\" en tu Deck.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/04/30",
+  "species_id": 19,
+  "starchip": "9"
+}

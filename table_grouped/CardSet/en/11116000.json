@@ -1,0 +1,902 @@
+[
+  {
+    "card_count": 1,
+    "card_id": 11608,
+    "card_image_id": 1,
+    "card_number": "RATE-EN090",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11609,
+    "card_image_id": 1,
+    "card_number": "RATE-EN091",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11610,
+    "card_image_id": 1,
+    "card_number": "RATE-EN092",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11668,
+    "card_image_id": 1,
+    "card_number": "RATE-EN093",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11866,
+    "card_image_id": 1,
+    "card_number": "RATE-EN094",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 11868,
+    "card_image_id": 1,
+    "card_number": "RATE-EN095",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12029,
+    "card_image_id": 1,
+    "card_number": "RATE-EN096",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12735,
+    "card_image_id": 1,
+    "card_number": "RATE-EN097",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 12736,
+    "card_image_id": 1,
+    "card_number": "RATE-EN001",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 12737,
+    "card_image_id": 1,
+    "card_number": "RATE-EN002",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12738,
+    "card_image_id": 1,
+    "card_number": "RATE-EN003",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 12739,
+    "card_image_id": 1,
+    "card_number": "RATE-EN004",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 12740,
+    "card_image_id": 1,
+    "card_number": "RATE-EN005",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12741,
+    "card_image_id": 1,
+    "card_number": "RATE-EN006",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12742,
+    "card_image_id": 1,
+    "card_number": "RATE-EN007",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 12743,
+    "card_image_id": 1,
+    "card_number": "RATE-EN008",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 12744,
+    "card_image_id": 1,
+    "card_number": "RATE-EN009",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 12745,
+    "card_image_id": 1,
+    "card_number": "RATE-EN010",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12746,
+    "card_image_id": 1,
+    "card_number": "RATE-EN011",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12747,
+    "card_image_id": 1,
+    "card_number": "RATE-EN012",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12748,
+    "card_image_id": 1,
+    "card_number": "RATE-EN013",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12749,
+    "card_image_id": 1,
+    "card_number": "RATE-EN014",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 12750,
+    "card_image_id": 1,
+    "card_number": "RATE-EN015",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12751,
+    "card_image_id": 1,
+    "card_number": "RATE-EN016",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 12752,
+    "card_image_id": 1,
+    "card_number": "RATE-EN017",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 12753,
+    "card_image_id": 1,
+    "card_number": "RATE-EN018",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12754,
+    "card_image_id": 1,
+    "card_number": "RATE-EN019",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 12755,
+    "card_image_id": 1,
+    "card_number": "RATE-EN020",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12756,
+    "card_image_id": 1,
+    "card_number": "RATE-EN021",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 12757,
+    "card_image_id": 1,
+    "card_number": "RATE-EN022",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12758,
+    "card_image_id": 1,
+    "card_number": "RATE-EN023",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12759,
+    "card_image_id": 1,
+    "card_number": "RATE-EN024",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12760,
+    "card_image_id": 1,
+    "card_number": "RATE-EN025",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 12761,
+    "card_image_id": 1,
+    "card_number": "RATE-EN026",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 12762,
+    "card_image_id": 1,
+    "card_number": "RATE-EN027",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 12763,
+    "card_image_id": 1,
+    "card_number": "RATE-EN028",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12764,
+    "card_image_id": 1,
+    "card_number": "RATE-EN029",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12765,
+    "card_image_id": 1,
+    "card_number": "RATE-EN030",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12766,
+    "card_image_id": 1,
+    "card_number": "RATE-EN031",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12767,
+    "card_image_id": 1,
+    "card_number": "RATE-EN032",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12768,
+    "card_image_id": 1,
+    "card_number": "RATE-EN033",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12769,
+    "card_image_id": 1,
+    "card_number": "RATE-EN034",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12770,
+    "card_image_id": 1,
+    "card_number": "RATE-EN035",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12771,
+    "card_image_id": 1,
+    "card_number": "RATE-EN036",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 12772,
+    "card_image_id": 1,
+    "card_number": "RATE-EN037",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 12773,
+    "card_image_id": 1,
+    "card_number": "RATE-EN038",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 12774,
+    "card_image_id": 1,
+    "card_number": "RATE-EN039",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 12775,
+    "card_image_id": 1,
+    "card_number": "RATE-EN040",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 12776,
+    "card_image_id": 1,
+    "card_number": "RATE-EN041",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 12777,
+    "card_image_id": 1,
+    "card_number": "RATE-EN042",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12778,
+    "card_image_id": 1,
+    "card_number": "RATE-EN043",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 12779,
+    "card_image_id": 1,
+    "card_number": "RATE-EN044",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 12780,
+    "card_image_id": 1,
+    "card_number": "RATE-EN045",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 12781,
+    "card_image_id": 1,
+    "card_number": "RATE-EN046",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 12782,
+    "card_image_id": 1,
+    "card_number": "RATE-EN047",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 12783,
+    "card_image_id": 1,
+    "card_number": "RATE-EN048",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 12784,
+    "card_image_id": 1,
+    "card_number": "RATE-EN049",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 12785,
+    "card_image_id": 1,
+    "card_number": "RATE-EN050",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 12786,
+    "card_image_id": 1,
+    "card_number": "RATE-EN051",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 12787,
+    "card_image_id": 1,
+    "card_number": "RATE-EN052",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 12788,
+    "card_image_id": 1,
+    "card_number": "RATE-EN053",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 12789,
+    "card_image_id": 1,
+    "card_number": "RATE-EN054",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 12790,
+    "card_image_id": 1,
+    "card_number": "RATE-EN055",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12791,
+    "card_image_id": 1,
+    "card_number": "RATE-EN056",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12792,
+    "card_image_id": 1,
+    "card_number": "RATE-EN057",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12793,
+    "card_image_id": 1,
+    "card_number": "RATE-EN058",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12794,
+    "card_image_id": 1,
+    "card_number": "RATE-EN059",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 12795,
+    "card_image_id": 1,
+    "card_number": "RATE-EN060",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12796,
+    "card_image_id": 1,
+    "card_number": "RATE-EN061",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12797,
+    "card_image_id": 1,
+    "card_number": "RATE-EN062",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12798,
+    "card_image_id": 1,
+    "card_number": "RATE-EN063",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12799,
+    "card_image_id": 1,
+    "card_number": "RATE-EN064",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12800,
+    "card_image_id": 1,
+    "card_number": "RATE-EN065",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 12801,
+    "card_image_id": 1,
+    "card_number": "RATE-EN066",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 12802,
+    "card_image_id": 1,
+    "card_number": "RATE-EN067",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12803,
+    "card_image_id": 1,
+    "card_number": "RATE-EN068",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 12804,
+    "card_image_id": 1,
+    "card_number": "RATE-EN069",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12805,
+    "card_image_id": 1,
+    "card_number": "RATE-EN070",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 12806,
+    "card_image_id": 1,
+    "card_number": "RATE-EN071",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12807,
+    "card_image_id": 1,
+    "card_number": "RATE-EN072",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12808,
+    "card_image_id": 1,
+    "card_number": "RATE-EN073",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12809,
+    "card_image_id": 1,
+    "card_number": "RATE-EN074",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12810,
+    "card_image_id": 1,
+    "card_number": "RATE-EN075",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12811,
+    "card_image_id": 1,
+    "card_number": "RATE-EN076",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12812,
+    "card_image_id": 1,
+    "card_number": "RATE-EN077",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12813,
+    "card_image_id": 1,
+    "card_number": "RATE-EN078",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 12814,
+    "card_image_id": 1,
+    "card_number": "RATE-EN079",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 12815,
+    "card_image_id": 1,
+    "card_number": "RATE-EN080",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 12861,
+    "card_image_id": 1,
+    "card_number": "RATE-EN098",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 12867,
+    "card_image_id": 1,
+    "card_number": "RATE-EN099",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 12871,
+    "card_image_id": 1,
+    "card_number": "RATE-EN081",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 12872,
+    "card_image_id": 1,
+    "card_number": "RATE-EN000",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 12873,
+    "card_image_id": 1,
+    "card_number": "RATE-EN082",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 12874,
+    "card_image_id": 1,
+    "card_number": "RATE-EN083",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 12875,
+    "card_image_id": 1,
+    "card_number": "RATE-EN084",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 12876,
+    "card_image_id": 1,
+    "card_number": "RATE-EN085",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 12877,
+    "card_image_id": 1,
+    "card_number": "RATE-EN086",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 12878,
+    "card_image_id": 1,
+    "card_number": "RATE-EN087",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 12879,
+    "card_image_id": 1,
+    "card_number": "RATE-EN088",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 12880,
+    "card_image_id": 1,
+    "card_number": "RATE-EN089",
+    "language": "en",
+    "pack_id": "11116000",
+    "rarity_id": 2
+  }
+]

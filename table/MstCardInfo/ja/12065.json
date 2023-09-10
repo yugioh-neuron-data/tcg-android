@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 4,
+  "card_id": 12065,
+  "card_name": "レッド・ワイバーン",
+  "card_name_label": "レッド・ワイバーン",
+  "card_name_search": "れっどわいばーん",
+  "card_pen_effect": "",
+  "card_text": "チューナー＋チューナー以外のモンスター１体以上$N①：S召喚したこのカードが表側表示で存在する限り１度だけ、自分・相手ターンに、このカードより高い攻撃力を持つモンスターがフィールドに存在する場合に発動できる。フィールドの攻撃力が一番高いモンスター１体を破壊する。",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/08/22",
+  "species_id": 1,
+  "starchip": "6"
+}

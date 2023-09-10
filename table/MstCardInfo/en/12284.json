@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 1,
+  "card_id": 12284,
+  "card_name": "Lunalight Wolf",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "You cannot Pendulum Summon monsters, except \"Lunalight\" monsters. This effect cannot be negated. Once per turn: You can Fusion Summon 1 \"Lunalight\" Fusion Monster from your Extra Deck, by banishing Fusion Materials listed on it from your field or Graveyard.",
+  "card_text": "If a \"Lunalight\" monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "1",
+  "pen_scale_r": "1",
+  "sales_at": "2016/05/06",
+  "species_id": 12,
+  "starchip": "6"
+}

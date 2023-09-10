@@ -1,0 +1,23 @@
+{
+  "attack_power": "2100",
+  "attribute_id": 1,
+  "card_id": 11040,
+  "card_name": "アーティファクト－モラルタ",
+  "card_name_label": "アーティファクト－モラルタ",
+  "card_name_search": "あーてぃふぁくともらるた",
+  "card_pen_effect": "",
+  "card_text": "①：このカードは魔法カード扱いとして手札から魔法＆罠ゾーンにセットできる。②：魔法＆罠ゾーンにセットされたこのカードが相手ターンに破壊され墓地へ送られた場合に発動する。このカードを特殊召喚する。③：相手ターンに、このカードが特殊召喚に成功した場合に発動できる。相手フィールドの表側表示のカード１枚を選んで破壊する。",
+  "defense_power": "1400",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2014/02/15",
+  "species_id": 17,
+  "starchip": "5"
+}

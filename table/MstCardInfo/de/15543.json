@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15543,
+  "card_name": "Arkanes Lesen",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Wirf eine Münze und führe diesen Effekt aus. Falls „Lichtbarriere“ in deiner Spielfeldzone liegt, kannst du stattdessen den Effekt bestimmen.$N●Kopf: Füge deiner Hand 1 Karte, die einen Münzwurfeffekt hat, von deinem Deck hinzu, außer „Arkanes Lesen“.$N●Zahl: Dein Gegner fügt seiner Hand 1 Karte von seinem Deck hinzu.$NDu kannst diese Karte von deinem Friedhof verbannen; sofort nachdem dieser Effekt aufgelöst wurde, beschwöre 1 „Arkane Macht“-Monster als Normalbeschwörung.$NDu kannst jeden Effekt von „Arkanes Lesen“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/11/05",
+  "species_id": 24,
+  "starchip": "0"
+}

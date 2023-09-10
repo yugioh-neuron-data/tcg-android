@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 6,
+  "card_id": 12828,
+  "card_name": "Dragão Veloz de Asas Transparentes",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Você pode enviar 1 Regulador \"Velocidaroide\" com a face para cima e 1 monstro não-Regulador com a face para cima que você controla para o Cemitério, cuja soma dos Níveis seja igual a 7; Invoque este card por Invocação-Especial da sua Zona de Pêndulo. Você só pode usar este efeito de \"Dragão Veloz de Asas Transparentes\" uma vez por turno.",
+  "card_text": "1 Regulador + 1+ monstros de VENTO não-Reguladores$N(Efeito Rápido): você pode escolher 1 monstro com a face para cima que seu oponente controla que foi Invocado por Invocação-Especial do Deck Adicional; até o final deste turno, mude seu ATK para 0 e, além disso, negue os efeitos desse monstro com a face para cima. Você só pode usar este efeito de \"Dragão Veloz de Asas Transparentes\" uma vez por turno. Se este card na Zona de Monstros for destruído em batalha ou por um efeito de card: você pode colocar este card na sua Zona de Pêndulo.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 35,
+  "pen_scale_l": "4",
+  "pen_scale_r": "4",
+  "sales_at": "2019/10/10",
+  "species_id": 1,
+  "starchip": "7"
+}

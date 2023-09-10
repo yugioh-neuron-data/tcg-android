@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 3,
+  "card_id": 16273,
+  "card_name": "펜드라잭션",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "레벨 4 몬스터 × 2$N이 카드명의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드의 엑시즈 소재를 1개 제거하고 발동할 수 있다. 자신의 엑스트라 덱의 매수가 상대보다 많을 경우, 그 차의 수에 따라 이하의 효과를 각각 적용한다.$N●1장 이상: 이 카드의 공격력은 상대 턴 종료시까지 1000 올린다.$N●5장 이상: 이 카드는 상대 턴 종료시까지 효과의 대상이 되지 않는다.$N●10장 이상: 상대 필드의 카드 1장을 고르고 제외한다.$N●15장 이상: 상대의 LP를 3000 으로 한다.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/12/21",
+  "species_id": 27,
+  "starchip": "4"
+}

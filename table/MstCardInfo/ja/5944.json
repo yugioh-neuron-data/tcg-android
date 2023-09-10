@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 5944,
+  "card_name": "デンジャラスマシン TYPE－６",
+  "card_name_label": "デンジャラスマシン　タイプ－シックス",
+  "card_name_search": "でんじゃらすましんたいぷしっくす",
+  "card_pen_effect": "",
+  "card_text": "自分のスタンバイフェイズ毎にサイコロを１回振る。出た目の効果を適用する。１・自分は手札を１枚捨てる。２・相手は手札を１枚捨てる。３・自分はカードを１枚ドローする。４・相手はカードを１枚ドローする。５・相手フィールド上モンスター１体を破壊する。６・このカードを破壊する。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2003/09/19",
+  "species_id": 24,
+  "starchip": "0"
+}

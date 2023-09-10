@@ -1,0 +1,23 @@
+{
+  "attack_power": "300",
+  "attribute_id": 3,
+  "card_id": 13520,
+  "card_name": "Meeresarchivar",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Falls ein Monster als Normal- oder Spezialbeschwörung in eine Zone beschworen wird, auf die ein Linkmonster zeigt (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung von deinem Friedhof (falls sie dort lag, als die Beschwörung aufgelöst wurde) oder deiner Hand (selbst falls nicht) beschwören, aber verbanne sie, wenn sie das Spielfeld verlässt. Du kannst diesen Effekt von „Meeresarchivar“ nur einmal pro Spielzug verwenden.",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/08/09",
+  "species_id": 27,
+  "starchip": "3"
+}

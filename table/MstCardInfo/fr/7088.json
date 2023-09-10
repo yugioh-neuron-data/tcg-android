@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 7088,
+  "card_name": "Accélérateur Tri-Flammes",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "(Cette carte est toujours aussi traitée comme une carte \"Accélérateur de Flammes\".)$NActivez cette carte en envoyant 1 \"Accélérateur de Flammes\" face recto que vous contrôlez au Cimetière. Durant votre Main Phase : vous pouvez cibler 1 monstre contrôlé par votre adversaire ; envoyez 1 monstre Pyro depuis votre main au Cimetière, et si vous le faites, détruisez la cible, et si vous faites ça, infligez 500 points de dommages à votre adversaire. Vos monstres ne peuvent pas attaquer le tour où vous activez cet effet.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2007/05/05",
+  "species_id": 24,
+  "starchip": "0"
+}

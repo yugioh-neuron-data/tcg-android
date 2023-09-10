@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 6072,
+  "card_name": "玉砕指令",
+  "card_name_label": "ぎょくさいしれい",
+  "card_name_search": "ぎょくさいしれい",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上に存在するレベル２以下の通常モンスター（トークンを除く）１体を選択して発動する。発動後、選択した通常モンスターを生け贄に捧げ、相手フィールド上の魔法・罠カードを２枚まで破壊する事ができる。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2004/02/26",
+  "species_id": 25,
+  "starchip": "0"
+}

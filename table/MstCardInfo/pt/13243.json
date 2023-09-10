@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 1,
+  "card_id": 13243,
+  "card_name": "Executor Metafis",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Não pode ser Invocado por Invocação-Normal/Baixado. Deve ser Invocado por Invocação-Especial (da sua mão) ao banir 5 cards \"Metafis\" com nomes diferentes do seu Cemitério e/ou com a face para cima no seu campo. Não pode ser destruído nem banido por efeitos de card. Uma vez por turno, se o seu oponente controlar mais cards que você: você pode escolher 1 dos seus monstros \"Metafis\" banidos; Invoque-o por Invocação-Especial, mas bana-o durante a Fase Final do seu próximo turno.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/10/19",
+  "species_id": 26,
+  "starchip": "10"
+}

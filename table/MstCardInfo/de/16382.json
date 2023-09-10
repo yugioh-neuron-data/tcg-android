@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 16382,
+  "card_name": "Geschwindigkeitsroid-Verdoppelungstor",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Verbanne 1 WIND Monster von deinem Friedhof und wähle dann 1 Karte, die dein Gegner kontrolliert; gib sie auf die Hand zurück. Während deiner Main Phase, falls sich diese Karte in deinem Friedhof befindet: Du kannst 1 „Geschwindigkeitsroid“-Monster der Stufe 2 oder höher wählen, das du kontrollierst; verringere seine Stufe um 1 und falls du dies tust, beschwöre diese Karte als Spezialbeschwörung als Normales Monster (Maschine/Empfänger/WIND/Stufe 1/ATK 0/DEF 0). (Diese Karte wird NICHT als Falle behandelt.) Du kannst diesen Effekt von „Geschwindigkeitsroid-Verdoppelungstor“ nur einmal pro Duell verwenden.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/10/28",
+  "species_id": 25,
+  "starchip": "0"
+}

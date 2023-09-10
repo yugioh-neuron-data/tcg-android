@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 1,
+  "card_id": 14842,
+  "card_name": "Saque de Cupido",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "No es afectada por los efectos activados de monstruos, excepto de monstruos cuyo Nivel sea igual o menor que el de esta carta. Puedes desterrar hasta 3 cartas en tu Cementerio; hasta el final de este turno, aumenta el Nivel de esta carta en ese número. Sólo puedes usar este efecto de \"Saque de Cupido\" una vez por turno.",
+  "defense_power": "600",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/01/30",
+  "species_id": 17,
+  "starchip": "2"
+}

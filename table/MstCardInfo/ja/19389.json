@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 19389,
+  "card_name": "律導のヴァルモニカ",
+  "card_name_label": "りつどうのヴァルモニカ",
+  "card_name_search": "りつどうのう゛ぁるもにか",
+  "card_pen_effect": "",
+  "card_text": "このカード名のカードは１ターンに１枚しか発動できない。$N①：自分フィールドに「ヴァルモニカ」モンスターカードが存在する場合、以下の効果から１つを選んで適用する。自分フィールドに「ヴァルモニカ」Lモンスターが存在する場合、両方を選んで適用できる。$N●自分は５００LP回復する。その後、フィールドの魔法・罠カード１枚を破壊できる。$N●自分は５００ダメージを受ける。その後、フィールドのモンスター１体を手札に戻す事ができる。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/08/26",
+  "species_id": 25,
+  "starchip": "0"
+}

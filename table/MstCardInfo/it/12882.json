@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 5,
+  "card_id": 12882,
+  "card_name": "Artistamico Barracuda",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "Una volta per turno, se un tuo mostro \"Artistamico\" combatte con un mostro dell'avversario, prima del calcolo dei danni: puoi far perdere a quel mostro dell'avversario ATK pari alla differenza tra il suo ATK originale e il suo ATK attuale (anche se questa carta lascia il Terreno).",
+  "card_text": "Durante il turno di qualsiasi giocatore: puoi scegliere come bersaglio 1 mostro \"Artistamico\" il cui ATK attuale è diverso dal suo ATK originale; esso guadagna ATK pari alla differenza fino alla fine di questo turno. Puoi utilizzare questo effetto di \"Artistamico Barracuda\" una sola volta per turno.",
+  "defense_power": "1100",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 26,
+  "pen_scale_l": "5",
+  "pen_scale_r": "5",
+  "sales_at": "2017/05/25",
+  "species_id": 13,
+  "starchip": "3"
+}

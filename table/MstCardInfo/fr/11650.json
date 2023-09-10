@@ -1,0 +1,23 @@
+{
+  "attack_power": "4000",
+  "attribute_id": 2,
+  "card_id": 11650,
+  "card_name": "Dragon Profondâme Altéré Dragocytos",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "1 Syntoniseur TÉNÈBRES + 1 monstre non-Syntoniseur de Type Dragon$NNon destructible au combat. Lorsque cette carte détruit un monstre de votre adversaire au combat et l'envoie au Cimetière : vous pouvez activer cet effet ; cette carte peut faire une seconde attaque à la suite sur un monstre de votre adversaire. Durant votre Standby Phase : vous pouvez cibler 1 monstre face recto contrôlé par votre adversaire ; son ATK devient la moitié de son ATK actuelle, et si elle le fait, infligez des dommages à votre adversaire égaux à l'ATK perdue.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 18,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2015/03/19",
+  "species_id": 1,
+  "starchip": "10"
+}

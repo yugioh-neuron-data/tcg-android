@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 5789,
+  "card_name": "デーモンの宣告",
+  "card_name_label": "デーモンのせんこく",
+  "card_name_search": "でーもんのせんこく",
+  "card_pen_effect": "",
+  "card_text": "①：１ターンに１度、５００LPを払い、カード名を１つ宣言して発動できる。自分のデッキの一番上のカードをめくり、宣言したカードだった場合、そのカードを手札に加える。違った場合、めくったカードを墓地へ送る。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2003/02/20",
+  "species_id": 24,
+  "starchip": "0"
+}

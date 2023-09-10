@@ -1,0 +1,23 @@
+{
+  "attack_power": "2400",
+  "attribute_id": 1,
+  "card_id": 5951,
+  "card_name": "裁きの代行者 サターン",
+  "card_name_label": "さばきのだいこうしゃ　サターン",
+  "card_name_search": "さばきのだいこうしゃさたーん",
+  "card_pen_effect": "",
+  "card_text": "①：このカードをリリースして発動できる。自分のLPが相手より多い場合、その差の数値分のダメージを相手に与える。この効果は自分フィールドに「天空の聖域」が存在する場合に発動と処理ができる。この効果を発動するターン、自分はバトルフェイズを行えない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2003/11/20",
+  "species_id": 17,
+  "starchip": "6"
+}

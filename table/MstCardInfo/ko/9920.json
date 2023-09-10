@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 2,
+  "card_id": 9920,
+  "card_name": "인잭터 엑사비틀",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "레벨 6 몬스터 × 2$N이 카드가 엑시즈 소환에 성공했을 때, 자신 또는 상대 묘지의 몬스터 1장을 선택하고, 장착 카드로 취급하여 이 카드에 장착할 수 있다. 이 카드의 공격력 / 수비력은, 이 효과로 장착한 몬스터 각각의 절반의 수치만큼 올린다. 또한, 1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하는 것으로, 자신 및 상대 필드 위에 앞면 표시로 존재하는 카드를 1장씩 선택하고 묘지로 보낸다.",
+  "defense_power": "1000",
+  "effect_id": 0,
+  "language": "ko",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/02/07",
+  "species_id": 10,
+  "starchip": "6"
+}

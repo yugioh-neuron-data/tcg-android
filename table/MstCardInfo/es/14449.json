@@ -1,0 +1,23 @@
+{
+  "attack_power": "1000",
+  "attribute_id": 1,
+  "card_id": 14449,
+  "card_name": "Entrelazador de Rescate",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Durante el cálculo de daño, si tu monstruo Ciberso es atacado (Efecto Rápido): puedes descartar esta carta; no recibes daño de batalla de esa batalla. Sólo puedes usar este efecto de \"Entrelazador de Rescate\" una vez por turno. Una vez por turno, durante la End Phase, si esta carta está en el Cementerio porque este turno fue descartada ahí para activar este efecto: Invoca esta carta de Modo Especial.",
+  "defense_power": "1200",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/07/26",
+  "species_id": 27,
+  "starchip": "3"
+}

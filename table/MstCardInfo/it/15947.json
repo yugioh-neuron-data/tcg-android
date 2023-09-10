@@ -1,0 +1,23 @@
+{
+  "attack_power": "2100",
+  "attribute_id": 5,
+  "card_id": 15947,
+  "card_name": "Roccia di Guerra Orpis",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Se non controlli nessun mostro, o se tutti i mostri che controlli sono mostri Guerriero, puoi Evocare Normalmente questa carta senza offrire Tributi. Se un tuo mostro TERRA Guerriero combatte, dopo il calcolo dei danni: puoi mandare 1 mostro TERRA Guerriero dal tuo Deck al Cimitero, eccetto \"Roccia di Guerra Orpis\", poi tutti i mostri \"Roccia di Guerra\" che controlli attualmente guadagnano 200 ATK fino alla fine del turno del tuo avversario. Puoi utilizzare questo effetto di \"Roccia di Guerra Orpis\" una sola volta per turno.",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/02/04",
+  "species_id": 15,
+  "starchip": "5"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 15333,
+  "card_name": "Cántico Antiguo",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Añade a tu mano 1 \"El Dragón Alado de Ra\" en tu Deck o Cementerio y, si lo haces, este turno durante tu Main Phase puedes Invocar 1 monstruo por Sacrificio, además de tu Invocación Normal/Colocación. (Sólo puedes ganar este efecto una vez por turno). Puedes desterrar esta carta en tu Cementerio: si este turno Invocas por Sacrificio \"El Dragón Alado de Ra\", su ATK/DEF originales se convierten en el ATK/DEF originales combinados de los monstruos Sacrificados para su Invocación. Sólo puedes activar 1 \"Cántico Antiguo\" por turno.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2020/09/24",
+  "species_id": 24,
+  "starchip": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 12262,
+  "card_name": "Número 84: Gainer del Dolor",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "2 monstruos de Nivel 11$NTambién puede Invocar Xyz esta carta usando como Material Xyz un Monstruo Xyz de OSCURIDAD de Rango 8, 9, ó 10 que controles y que tenga 2 o más Materiales Xyz. (Los Materiales Xyz acoplados a ese monstruo también se convierten en Materiales Xyz acoplados a esta carta). Esta carta gana DEF igual a los Rangos combinados de todos los Monstruos Xyz que controles x 200. Mientras esta carta tenga Material Xyz, cada vez que tu adversario active una Carta Mágica/de Trampa, inflige 600 puntos de daño a tu adversario inmediatamente después de que ésta se resuelva. Una vez por turno: puedes desacoplar de esta carta 1 Material Xyz; destruye todos los monstruos boca arriba que controle tu adversario y que tengan DEF menor o igual al de esta carta.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 23,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/03/17",
+  "species_id": 10,
+  "starchip": "11"
+}

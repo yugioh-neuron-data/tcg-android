@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 14313,
+  "card_name": "亡龍の旋律",
+  "card_name_label": "ぼうりゅうのストレイン",
+  "card_name_search": "ぼうりゅうのすとれいん",
+  "card_pen_effect": "",
+  "card_text": "カード名を１つ宣言してこのカードを発動できる。①：このカードが魔法＆罠ゾーンに存在する限り、宣言されたカードの効果が発動する度に、その効果を発動したカードの元々の持ち主のLPは半分になる。この効果を適用したターンのエンドフェイズにこのカードは墓地へ送られる。②：相手フィールドにモンスターが存在する場合、このカードは効果では破壊されない。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/01/12",
+  "species_id": 24,
+  "starchip": "0"
+}

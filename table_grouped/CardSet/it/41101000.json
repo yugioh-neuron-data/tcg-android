@@ -1,0 +1,929 @@
+[
+  {
+    "card_count": 1,
+    "card_id": 4007,
+    "card_image_id": 1,
+    "card_number": "LDD-I001",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 4008,
+    "card_image_id": 1,
+    "card_number": "LDD-I050",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 4019,
+    "card_image_id": 1,
+    "card_number": "LDD-I051",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4023,
+    "card_image_id": 1,
+    "card_number": "LDD-I097",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 4024,
+    "card_image_id": 1,
+    "card_number": "LDD-I098",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 4025,
+    "card_image_id": 1,
+    "card_number": "LDD-I099",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 4026,
+    "card_image_id": 1,
+    "card_number": "LDD-I100",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 4027,
+    "card_image_id": 1,
+    "card_number": "LDD-I101",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 4030,
+    "card_image_id": 1,
+    "card_number": "LDD-I002",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4041,
+    "card_image_id": 1,
+    "card_number": "LDD-I003",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 4043,
+    "card_image_id": 1,
+    "card_number": "LDD-I102",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 4044,
+    "card_image_id": 1,
+    "card_number": "LDD-I004",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 4045,
+    "card_image_id": 1,
+    "card_number": "LDD-I053",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 4047,
+    "card_image_id": 1,
+    "card_number": "LDD-I005",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 4056,
+    "card_image_id": 1,
+    "card_number": "LDD-I006",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4071,
+    "card_image_id": 1,
+    "card_number": "LDD-I007",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4080,
+    "card_image_id": 1,
+    "card_number": "LDD-I054",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 4086,
+    "card_image_id": 1,
+    "card_number": "LDD-I055",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4088,
+    "card_image_id": 1,
+    "card_number": "LDD-I056",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 4090,
+    "card_image_id": 1,
+    "card_number": "LDD-I057",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 4119,
+    "card_image_id": 1,
+    "card_number": "LDD-I008",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4135,
+    "card_image_id": 1,
+    "card_number": "LDD-I009",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4138,
+    "card_image_id": 1,
+    "card_number": "LDD-I010",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4139,
+    "card_image_id": 1,
+    "card_number": "LDD-I011",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 4142,
+    "card_image_id": 1,
+    "card_number": "LDD-I058",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4148,
+    "card_image_id": 1,
+    "card_number": "LDD-I012",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4153,
+    "card_image_id": 1,
+    "card_number": "LDD-I013",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4162,
+    "card_image_id": 1,
+    "card_number": "LDD-I059",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4163,
+    "card_image_id": 1,
+    "card_number": "LDD-I014",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4164,
+    "card_image_id": 1,
+    "card_number": "LDD-I060",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4174,
+    "card_image_id": 1,
+    "card_number": "LDD-I015",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 4175,
+    "card_image_id": 1,
+    "card_number": "LDD-I016",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4176,
+    "card_image_id": 1,
+    "card_number": "LDD-I061",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 4178,
+    "card_image_id": 1,
+    "card_number": "LDD-I062",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4192,
+    "card_image_id": 1,
+    "card_number": "LDD-I017",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4199,
+    "card_image_id": 1,
+    "card_number": "LDD-I018",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4200,
+    "card_image_id": 1,
+    "card_number": "LDD-I063",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4206,
+    "card_image_id": 1,
+    "card_number": "LDD-I019",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4216,
+    "card_image_id": 1,
+    "card_number": "LDD-I020",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4219,
+    "card_image_id": 1,
+    "card_number": "LDD-I021",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 4220,
+    "card_image_id": 1,
+    "card_number": "LDD-I022",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4221,
+    "card_image_id": 1,
+    "card_number": "LDD-I023",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 4224,
+    "card_image_id": 1,
+    "card_number": "LDD-I024",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4227,
+    "card_image_id": 1,
+    "card_number": "LDD-I064",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4250,
+    "card_image_id": 1,
+    "card_number": "LDD-I025",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4251,
+    "card_image_id": 1,
+    "card_number": "LDD-I065",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4253,
+    "card_image_id": 1,
+    "card_number": "LDD-I026",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4257,
+    "card_image_id": 1,
+    "card_number": "LDD-I066",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4271,
+    "card_image_id": 1,
+    "card_number": "LDD-I027",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4280,
+    "card_image_id": 1,
+    "card_number": "LDD-I028",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4282,
+    "card_image_id": 1,
+    "card_number": "LDD-I029",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4285,
+    "card_image_id": 1,
+    "card_number": "LDD-I030",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4297,
+    "card_image_id": 1,
+    "card_number": "LDD-I067",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4307,
+    "card_image_id": 1,
+    "card_number": "LDD-I031",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4309,
+    "card_image_id": 1,
+    "card_number": "LDD-I068",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4311,
+    "card_image_id": 1,
+    "card_number": "LDD-I069",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4314,
+    "card_image_id": 1,
+    "card_number": "LDD-I032",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4316,
+    "card_image_id": 1,
+    "card_number": "LDD-I070",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4318,
+    "card_image_id": 1,
+    "card_number": "LDD-I071",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4321,
+    "card_image_id": 1,
+    "card_number": "LDD-I072",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4322,
+    "card_image_id": 1,
+    "card_number": "LDD-I073",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4325,
+    "card_image_id": 1,
+    "card_number": "LDD-I074",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4326,
+    "card_image_id": 1,
+    "card_number": "LDD-I075",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 4328,
+    "card_image_id": 1,
+    "card_number": "LDD-I033",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4329,
+    "card_image_id": 1,
+    "card_number": "LDD-I034",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4331,
+    "card_image_id": 1,
+    "card_number": "LDD-I076",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4332,
+    "card_image_id": 1,
+    "card_number": "LDD-I077",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4333,
+    "card_image_id": 1,
+    "card_number": "LDD-I078",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4335,
+    "card_image_id": 1,
+    "card_number": "LDD-I035",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 4336,
+    "card_image_id": 1,
+    "card_number": "LDD-I036",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4337,
+    "card_image_id": 1,
+    "card_number": "LDD-I037",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4339,
+    "card_image_id": 1,
+    "card_number": "LDD-I038",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4340,
+    "card_image_id": 1,
+    "card_number": "LDD-I039",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4341,
+    "card_image_id": 1,
+    "card_number": "LDD-I040",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4342,
+    "card_image_id": 1,
+    "card_number": "LDD-I041",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 4343,
+    "card_image_id": 1,
+    "card_number": "LDD-I042",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 4345,
+    "card_image_id": 1,
+    "card_number": "LDD-I043",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4346,
+    "card_image_id": 1,
+    "card_number": "LDD-I079",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 4349,
+    "card_image_id": 1,
+    "card_number": "LDD-I044",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4351,
+    "card_image_id": 1,
+    "card_number": "LDD-I080",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 4354,
+    "card_image_id": 1,
+    "card_number": "LDD-I081",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 4415,
+    "card_image_id": 1,
+    "card_number": "LDD-I082",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 4454,
+    "card_image_id": 1,
+    "card_number": "LDD-I083",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4465,
+    "card_image_id": 1,
+    "card_number": "LDD-I084",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4472,
+    "card_image_id": 1,
+    "card_number": "LDD-I085",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4475,
+    "card_image_id": 1,
+    "card_number": "LDD-I086",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 4493,
+    "card_image_id": 1,
+    "card_number": "LDD-I087",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 4507,
+    "card_image_id": 1,
+    "card_number": "LDD-I088",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 4548,
+    "card_image_id": 1,
+    "card_number": "LDD-I089",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4563,
+    "card_image_id": 1,
+    "card_number": "LDD-I090",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4567,
+    "card_image_id": 1,
+    "card_number": "LDD-I091",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4573,
+    "card_image_id": 1,
+    "card_number": "LDD-I092",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4575,
+    "card_image_id": 1,
+    "card_number": "LDD-I093",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4621,
+    "card_image_id": 1,
+    "card_number": "LDD-I094",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4627,
+    "card_image_id": 1,
+    "card_number": "LDD-I095",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4711,
+    "card_image_id": 1,
+    "card_number": "LDD-I000",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 5
+  },
+  {
+    "card_count": 1,
+    "card_id": 4835,
+    "card_image_id": 1,
+    "card_number": "LDD-I045",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 4836,
+    "card_image_id": 1,
+    "card_number": "LDD-I046",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 4837,
+    "card_image_id": 1,
+    "card_number": "LDD-I047",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 3
+  },
+  {
+    "card_count": 1,
+    "card_id": 4838,
+    "card_image_id": 1,
+    "card_number": "LDD-I048",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 1
+  },
+  {
+    "card_count": 1,
+    "card_id": 4839,
+    "card_image_id": 1,
+    "card_number": "LDD-I049",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 2
+  },
+  {
+    "card_count": 1,
+    "card_id": 4842,
+    "card_image_id": 1,
+    "card_number": "LDD-I096",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 4
+  },
+  {
+    "card_count": 1,
+    "card_id": 4845,
+    "card_image_id": 1,
+    "card_number": "LDD-I052",
+    "language": "it",
+    "pack_id": "41101000",
+    "rarity_id": 2
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "attack_power": "700",
+  "attribute_id": 1,
+  "card_id": 16837,
+  "card_name": "Piecephilia Brillant",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Non destructible au combat. À la fin de la Damage Step, si cette carte a combattu un monstre de l'adversaire : vous pouvez placer 1 Compteur Piece sur cette carte (max. 4), puis vous pouvez appliquer l'effet suivant, selon le nombre de Compteurs Piece sur elle.$N●1 : Placez 1 monstre depuis votre Deck au-dessus de votre Deck.$N●2 : Piochez 1 carte.$N●3 : Ajoutez 1 monstre depuis votre Deck à votre main.$N●4 : Ajoutez 1 carte depuis votre Deck à votre main.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/02/10",
+  "species_id": 6,
+  "starchip": "4"
+}

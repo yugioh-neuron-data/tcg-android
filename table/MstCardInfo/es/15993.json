@@ -1,0 +1,23 @@
+{
+  "attack_power": "500",
+  "attribute_id": 1,
+  "card_id": 15993,
+  "card_name": "Caballero Blanco de Dogmátik",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Puedes Invocar esta carta por Ritual con \"Dogmátikalamidad\". No puedes Invocar monstruos de Modo Especial desde el Deck Extra. Si tu adversario activa una carta o efecto (excepto durante el Damage Step): puedes mandar al Cementerio 1 monstruo en tu Deck Extra y, si lo haces, mira el Deck Extra de tu adversario y manda al Cementerio 1 monstruo en él. Hasta el final de este turno esta carta gana ATK igual a la mitad del ATK combinado de esos monstruos mandados al Cementerio. Sólo puedes usar este efecto de \"Caballero Blanco de Dogmátik\" una vez por turno.",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 5,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/06/03",
+  "species_id": 18,
+  "starchip": "8"
+}

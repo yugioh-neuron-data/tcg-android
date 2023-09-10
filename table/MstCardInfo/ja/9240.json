@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 9240,
+  "card_name": "捨て身の宝札",
+  "card_name_label": "すてみのほうさつ",
+  "card_name_search": "すてみのほうさつ",
+  "card_pen_effect": "",
+  "card_text": "自分フィールド上に表側攻撃表示で存在するモンスター２体以上の攻撃力の合計が、相手フィールド上に表側表示で存在する攻撃力が一番低いモンスターよりも低い場合、自分のデッキからカードを２枚ドローする。このカードを発動するターン、自分はモンスターを召喚・反転召喚・特殊召喚する事ができず、表示形式を変更する事もできない。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/10/16",
+  "species_id": 25,
+  "starchip": "0"
+}

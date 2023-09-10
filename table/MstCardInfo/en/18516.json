@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 18516,
+  "card_name": "Tri-Brigade Roar",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "If you control a Link Monster: Send 1 \"Tri-Brigade\" card from your Deck or Extra Deck to the GY, then target 1 Effect Monster on the field; apply the following effect based on the type of card sent to the GY.$N●Monster: Change the targeted monster's ATK to 0 until the end of this turn.$N●Spell: Negate that monster's effects until the end of this turn.$N●Trap: Return that monster to the hand.$NYou can only activate 1 \"Tri-Brigade Roar\" per turn.",
+  "defense_power": "0",
+  "effect_id": 5,
+  "language": "en",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/05/04",
+  "species_id": 24,
+  "starchip": "0"
+}

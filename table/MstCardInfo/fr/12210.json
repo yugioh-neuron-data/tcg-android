@@ -1,0 +1,23 @@
+{
+  "attack_power": "100",
+  "attribute_id": 2,
+  "card_id": 12210,
+  "card_name": "Raidraptor - Dernière Strix",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si un monstre \"Raidraptor\" que vous contrôlez combat, tant que vous avez une Carte Magie/Piège sur votre Terrain ou dans votre Cimetière, durant le calcul des dommages (du tour de chaque joueur) : vous pouvez Invoquer Spécialement cette carte depuis votre main, puis gagnez 100 LP pour chaque Carte Magie/Piège que vous contrôlez et dans votre Cimetière. Vous pouvez Sacrifier cette carte ; votre adversaire ne reçoit aucun dommage de combat ce tour, et aussi, vous pouvez Invoquer Spécialement 1 Monstre Xyz \"Raidraptor\" depuis votre Extra Deck en Position de Défense, mais ses effets sont annulés, et aussi, renvoyez-le à l'Extra Deck durant la End Phase. Vous ne pouvez utiliser cet effet de \"Raidraptor - Dernière Strix\" qu'une fois par tour.",
+  "defense_power": "100",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/02/11",
+  "species_id": 16,
+  "starchip": "1"
+}

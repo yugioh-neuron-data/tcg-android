@@ -1,0 +1,23 @@
+{
+  "attack_power": "800",
+  "attribute_id": 3,
+  "card_id": 6738,
+  "card_name": "Sous-Marinroid",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cette carte peut attaquer directement votre adversaire, mais lorsqu'elle le fait en utilisant cet effet, les dommages de combat infligés à votre adversaire sont l'ATK d'origine de cette carte. À la fin de la Damage Step, si cette carte a combattu : vous pouvez changer cette carte en Position de Défense.",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2006/08/05",
+  "species_id": 7,
+  "starchip": "4"
+}

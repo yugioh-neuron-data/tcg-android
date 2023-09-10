@@ -1,0 +1,23 @@
+{
+  "attack_power": "3000",
+  "attribute_id": 2,
+  "card_id": 18670,
+  "card_name": "Orgullo Dorado - Rueda Alocada",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "\"Orgullo Dorado - Rueda Esférica\" + 1+ monstruos \"Orgullo Dorado\"$NSi esta carta es Invocada por Fusión: puedes equiparle monstruos boca arriba que controle tu adversario, hasta el número de Materiales de Fusión usados. Sólo puedes usar el efecto previo de \"Orgullo Dorado - Rueda Alocada\" una vez por turno y además, si tus LP son menores que los de tu adversario, la activación del efecto y el efecto no pueden ser negados. Una vez por turno, durante la End Phase, si el efecto previo fue activado este turno: devuelve esta carta al Deck Extra y, si lo haces, Invoca de Modo Especial 1 \"Orgullo Dorado - Rueda Esférica\" desde tu Deck o Cementerio.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 3,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2023/05/04",
+  "species_id": 7,
+  "starchip": "9"
+}

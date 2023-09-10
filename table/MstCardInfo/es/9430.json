@@ -1,0 +1,23 @@
+{
+  "attack_power": "2000",
+  "attribute_id": 3,
+  "card_id": 9430,
+  "card_name": "El Mercurio Activador",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando esta carta es Invocada por Sacrificio: puedes cambiar todos los monstruos en el Campo a Posición de Ataque boca arriba. Puedes Sacrificar 3 monstruos para Invocar esta carta por Sacrificio (pero no para Colocar). Si es Invocada de esta forma, mientras esta carta está en el Campo todos los monstruos que controla tu adversario pierden ATK igual a sus ATK originales. Esta carta puede hacer un segundo ataque durante cada Battle Phase.",
+  "defense_power": "2000",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2016/08/18",
+  "species_id": 14,
+  "starchip": "8"
+}

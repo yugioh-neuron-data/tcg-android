@@ -1,0 +1,23 @@
+{
+  "attack_power": "2700",
+  "attribute_id": 2,
+  "card_id": 9911,
+  "card_name": "ダークストーム・ドラゴン",
+  "card_name_label": "ダークストーム・ドラゴン",
+  "card_name_search": "だーくすとーむどらごん",
+  "card_pen_effect": "",
+  "card_text": "①：このカードはフィールド・墓地に存在する限り、通常モンスターとして扱う。②：フィールドの通常モンスター扱いのこのカードを通常召喚としてもう１度召喚できる。その場合このカードは効果モンスター扱いとなり以下の効果を得る。$N●１ターンに１度、自分フィールドの表側表示の魔法・罠カード１枚を墓地へ送って発動できる。フィールドの魔法・罠カードを全て破壊する。",
+  "defense_power": "2500",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 9,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2011/11/19",
+  "species_id": 1,
+  "starchip": "8"
+}

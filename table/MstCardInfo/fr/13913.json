@@ -1,0 +1,23 @@
+{
+  "attack_power": "1500",
+  "attribute_id": 2,
+  "card_id": 13913,
+  "card_name": "Huldre Mystruc",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez défausser 1 carte ; appliquez l'effet suivant, selon le type de carte défaussée.$N●Monstre : Ajoutez 1 Piège depuis votre Cimetière à votre main.$N●Magie : Ajoutez 1 monstre depuis votre Cimetière à votre main.$N●Piège : Ajoutez 1 Magie depuis votre Cimetière à votre main.$NVous ne pouvez utiliser cet effet de \"Huldre Mystruc\" qu'une fois par tour.",
+  "defense_power": "2400",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2018/10/18",
+  "species_id": 18,
+  "starchip": "5"
+}

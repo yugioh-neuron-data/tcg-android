@@ -1,0 +1,23 @@
+{
+  "attack_power": "1800",
+  "attribute_id": 4,
+  "card_id": 13245,
+  "card_name": "Avatar do Rei de Fogo Arvata",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Quando um efeito de monstro for ativado enquanto este monstro estiver no campo (Efeito Rápido): você pode negar a ativação e, se isso acontecer, destruir 1 outro monstro de FOGO na sua mão ou no campo. Se este card for destruído e enviado para o Cemitério: você pode escolher 1 monstro Besta, Besta-Guerreira ou Besta Alada de FOGO no seu Cemitério, exceto \"Avatar do Rei de Fogo Arvata\"; Invoque-o por Invocação-Especial, mas ele tem seus efeitos negados e, além disso, ele é destruído durante a Fase Final. Você só pode usar cada efeito de \"Avatar do Rei de Fogo Arvata\" uma vez por turno.",
+  "defense_power": "200",
+  "effect_id": 0,
+  "language": "pt",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2017/10/19",
+  "species_id": 12,
+  "starchip": "4"
+}

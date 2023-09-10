@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 16486,
+  "card_name": "XYZ Híper Cañón",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Para activar el efecto de esta carta debes controlar \"XYZ-Dragón Cañón\" o un Monstruo de Fusión que liste \"XYZ-Dragón Cañón\" como material. El efecto de esta carta depende de de quién sea el turno.$N●Tu turno: Puedes seleccionar 1 de tus monstruos de Unión desterrados; ponlo en la parte inferior de tu Deck y, si lo haces, roba 1 carta.$N●El turno de tu adversario: Puedes descartar cualquier número de cartas, y después seleccionar el mismo número de cartas que controle tu adversario; destruye esas cartas.$NSólo puedes usar este efecto de \"XYZ Híper Cañón\" una vez por turno.",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "es",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2021/07/08",
+  "species_id": 25,
+  "starchip": "0"
+}

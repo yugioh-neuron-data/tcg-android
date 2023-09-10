@@ -1,0 +1,23 @@
+{
+  "attack_power": "1900",
+  "attribute_id": 1,
+  "card_id": 9201,
+  "card_name": "聖騎士ジャンヌ",
+  "card_name_label": "せいきしジャンヌ",
+  "card_name_search": "せいきしじゃんぬ",
+  "card_pen_effect": "",
+  "card_text": "①：このカードが攻撃するダメージステップの間、このカードの攻撃力は３００ダウンする。②：このカードが相手によって破壊され墓地へ送られた場合、手札を１枚墓地へ送り、自分の墓地のレベル４以下の戦士族モンスター１体を対象として発動できる。その戦士族モンスターを手札に加える。",
+  "defense_power": "1300",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "0",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/09/16",
+  "species_id": 15,
+  "starchip": "4"
+}

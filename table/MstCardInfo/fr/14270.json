@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 2,
+  "card_id": 14270,
+  "card_name": "Omni Dragon Brotaur",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Si un monstre que vous contrôlez est détruit au combat ou par un effet de carte de l'adversaire : vous pouvez Invoquer Spécialement cette carte depuis le Cimetière (si elle y était lorsque le monstre a été détruit) ou la main (même si elle n'y était pas), mais bannissez-la lorsqu'elle quitte le Terrain. Si cette carte est Invoquée Spécialement : vous pouvez cibler 1 monstre face recto sur le Terrain ; défaussez 1 carte, et si vous le faites, ajoutez 1 monstre depuis votre Deck à votre main, du même Type et Attribut que la cible, mais de nom différent. Vous ne pouvez utiliser chaque effet de \"Omni Dragon Brotaur\" qu'une fois par tour.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/05/02",
+  "species_id": 1,
+  "starchip": "1"
+}

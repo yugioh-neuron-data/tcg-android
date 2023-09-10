@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 3,
+  "card_id": 17751,
+  "card_name": "Shif, Fée du Ghoti",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 monstre Poisson que vous contrôlez ; jusqu'à la fin de ce tour, il gagne 500 ATK. Durant la Standby Phase du prochain tour après que cette carte a été bannie : vous pouvez Invoquer Spécialement cette carte bannie. Durant la Main Phase de votre adversaire, si cette carte a été Invoquée Spécialement ce tour, vous pouvez (Effet Rapide) : immédiatement après la résolution de cet effet, Invoquez par Synchronisation 1 Monstre Synchro Poisson en utilisant cette carte que vous contrôlez. Vous ne pouvez utiliser chaque effet de \"Shif, Fée du Ghoti\" qu'une fois par tour.",
+  "defense_power": "500",
+  "effect_id": 0,
+  "language": "fr",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 16,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2022/08/04",
+  "species_id": 8,
+  "starchip": "2"
+}

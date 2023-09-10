@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 6449,
+  "card_name": "反撃準備",
+  "card_name_label": "はんげきじゅんび",
+  "card_name_search": "はんげきじゅんび",
+  "card_pen_effect": "",
+  "card_text": "相手プレイヤーが表側守備表示モンスターに対して攻撃宣言をする度に、コイントスで裏表を当てる。当たった場合、攻撃対象となった表側守備表示モンスターを攻撃表示にする。ハズレの場合、攻撃モンスターの攻撃力が攻撃対象のモンスターの守備力を越えた数値分だけこのカードのコントローラーはダメージを受ける。",
+  "defense_power": "0",
+  "effect_id": 4,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/05/26",
+  "species_id": 25,
+  "starchip": "0"
+}

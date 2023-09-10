@@ -1,0 +1,23 @@
+{
+  "attack_power": "2300",
+  "attribute_id": 2,
+  "card_id": 7983,
+  "card_name": "ダークネス・デストロイヤー",
+  "card_name_label": "ダークネス・デストロイヤー",
+  "card_name_search": "だーくねすですとろいやー",
+  "card_pen_effect": "",
+  "card_text": "このカードは特殊召喚できない。このカードが守備表示モンスターを攻撃した時、その守備力を攻撃力が超えていれば、その数値だけ相手ライフに戦闘ダメージを与える。このカードは１度のバトルフェイズ中に２回攻撃する事ができる。",
+  "defense_power": "1800",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2008/11/27",
+  "species_id": 3,
+  "starchip": "7"
+}

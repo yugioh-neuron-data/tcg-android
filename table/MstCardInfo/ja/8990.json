@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 8,
+  "card_id": 8990,
+  "card_name": "災いの装備品",
+  "card_name_label": "わざわいのそうびひん",
+  "card_name_search": "わざわいのそうびひん",
+  "card_pen_effect": "",
+  "card_text": "装備モンスターの攻撃力は、自分フィールド上に存在するモンスターの数×６００ポイントダウンする。このカードがフィールド上から墓地へ送られた時、相手フィールド上に表側表示で存在するモンスター１体を選択してこのカードを装備する事ができる。",
+  "defense_power": "0",
+  "effect_id": 3,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 13,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2010/04/17",
+  "species_id": 24,
+  "starchip": "0"
+}

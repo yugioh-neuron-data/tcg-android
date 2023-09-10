@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 5444,
+  "card_name": "呪われた棺",
+  "card_name_label": "のろわれたひつぎ",
+  "card_name_search": "のろわれたひつぎ",
+  "card_pen_effect": "",
+  "card_text": "セットされたこのカードが破壊され墓地へ送られた時、相手は以下の効果から１つを選択して適用する。$N●自分の手札をランダムに１枚捨てる。$N●自分フィールド上に存在するモンスター１体を破壊する。",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2002/03/21",
+  "species_id": 25,
+  "starchip": "0"
+}

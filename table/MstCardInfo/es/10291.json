@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 10291,
+  "card_name": "Avance Heroico",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Cuando un monstruo \"Heroico\" boca arriba que controlas es seleccionado para un ataque: selecciona otro monstruo \"Heroico\" de Nivel 4 o menor boca arriba que controles; duplica su ATK durante esta Battle Phase, y después cambia a éste el objetivo del ataque y haz el cálculo de daño, pero los monstruos no pueden ser destruidos en esta batalla.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "es",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2012/11/08",
+  "species_id": 25,
+  "starchip": "0"
+}

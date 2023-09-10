@@ -1,0 +1,23 @@
+{
+  "attack_power": "0",
+  "attribute_id": 9,
+  "card_id": 14154,
+  "card_name": "Unterterror-Nachfolge",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Aktiviere 1 dieser Effekte, zusätzlich setze danach diese Karte verdeckt, anstatt sie auf den Friedhof zu legen.$N●Lege 1 Monster von deiner Hand oder offen von deiner Spielfeldseite auf den Friedhof und falls du dies tust, füge deiner Hand 1 Flippmonster mit derselben Eigenschaft, aber einem unterschiedlichen Namen als das Monster, bevor es auf den Friedhof gelegt wurde, von deinem Deck hinzu.$N●Lege 1 Flippmonster von deiner Hand oder offen von deiner Spielfeldseite auf den Friedhof und falls du dies tust, füge deiner Hand 1 Monster mit derselben Eigenschaft, aber einer niedrigeren Grund-Stufe als das Monster, bevor es auf den Friedhof gelegt wurde, von deinem Deck hinzu.$NDu kannst nur 1 „Unterterror-Nachfolge“ pro Spielzug aktivieren.",
+  "defense_power": "0",
+  "effect_id": 0,
+  "language": "de",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 14,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2019/01/31",
+  "species_id": 25,
+  "starchip": "0"
+}

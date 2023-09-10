@@ -1,0 +1,23 @@
+{
+  "attack_power": "1400",
+  "attribute_id": 4,
+  "card_id": 6250,
+  "card_name": "Mago del Sangue",
+  "card_name_label": "",
+  "card_name_search": "",
+  "card_pen_effect": "",
+  "card_text": "Ogni volta che viene attivata una Carta Magia, metti 1 Segnalino Magia su questa carta quando quella Carta Magia si risolve. Puoi rimuovere un qualsiasi numero di Segnalini Magia da questa carta, poi scegliere come bersaglio 1 mostro scoperto sul Terreno con ATK pari o inferiore al numero di segnalini che hai rimosso x 700; distruggi quel bersaglio.",
+  "defense_power": "1700",
+  "effect_id": 0,
+  "language": "it",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 1,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/03/01",
+  "species_id": 18,
+  "starchip": "4"
+}

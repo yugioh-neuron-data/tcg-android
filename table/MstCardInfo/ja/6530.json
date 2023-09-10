@@ -1,0 +1,23 @@
+{
+  "attack_power": "2500",
+  "attribute_id": 2,
+  "card_id": 6530,
+  "card_name": "黒魔導の執行官",
+  "card_name_label": "ブラック・エクスキューショナー",
+  "card_name_search": "ぶらっくえくすきゅーしょなー",
+  "card_pen_effect": "",
+  "card_text": "このカードは通常召喚できない。自分フィールド上に存在する「ブラック・マジシャン」１体をリリースした場合のみ特殊召喚する事ができる。このカードがフィールド上に表側表示で存在する限り、自分または相手が通常魔法カードを発動する度に、相手ライフに１０００ポイントダメージを与える。",
+  "defense_power": "2100",
+  "effect_id": 0,
+  "language": "ja",
+  "legend_type": "",
+  "linkmarker": "",
+  "linkno": "",
+  "note": "",
+  "other_item_id": 27,
+  "pen_scale_l": "",
+  "pen_scale_r": "",
+  "sales_at": "2005/09/22",
+  "species_id": 18,
+  "starchip": "7"
+}
